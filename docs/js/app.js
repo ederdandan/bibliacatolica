@@ -3,8 +3,9 @@ import * as S from './store.js';
 import * as P from './plans.js';
 import * as T from './tts.js';
 import * as L from './liturgy.js';
+import { trackView, trackEvent } from './analytics.js';
 
-const APP_VERSION = '1.1.0';
+const APP_VERSION = '1.2.0';
 
 // ---------- Utilidades ----------
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -783,6 +784,7 @@ $('#vb-colors').addEventListener('click', (e) => {
   if (!sw || !ctx) return;
   const color = sw.dataset.color;
   const vs = [...selected];
+  trackEvent(color === 'none' ? 'versiculo/remover-destaque' : 'versiculo/destacar');
   S.update((s) => {
     for (const v of vs) {
       const k = S.vkey(ctx.b, ctx.c, v);
@@ -798,6 +800,7 @@ $('.vb-actions').addEventListener('click', (e) => {
   if (!btn || !ctx) return;
   const vs = [...selected].sort((a, b) => a - b);
   const { b, c, texts } = ctx;
+  trackEvent(`versiculo/${btn.dataset.act}`);
   switch (btn.dataset.act) {
     case 'bookmark': {
       const keys = vs.map((v) => S.vkey(b, c, v));
@@ -984,7 +987,11 @@ function stopTTS() {
   markSpeaking(null);
 }
 
-$('#tts-btn').addEventListener('click', () => (T.state().playing ? stopTTS() : startTTS(1)));
+$('#tts-btn').addEventListener('click', () => {
+  if (T.state().playing) return stopTTS();
+  trackEvent('audio/ouvir-capitulo');
+  startTTS(1);
+});
 $('#tts-stop').addEventListener('click', stopTTS);
 $('#tts-toggle').addEventListener('click', () => {
   if (T.state().paused) T.resume();
@@ -1097,8 +1104,13 @@ function bindDisplayControls(el) {
     const co = e.target.closest('[data-color-opt]');
     const st = e.target.closest('[data-step]');
     const sg = e.target.closest('[data-seg]');
-    if (th) S.update((s) => (s.settings.theme = th.dataset.styleOpt));
-    else if (co) S.update((s) => (s.settings.color = co.dataset.colorOpt));
+    if (th) {
+      S.update((s) => (s.settings.theme = th.dataset.styleOpt));
+      trackEvent(`aparencia/estilo-${th.dataset.styleOpt}`);
+    } else if (co) {
+      S.update((s) => (s.settings.color = co.dataset.colorOpt));
+      trackEvent(`aparencia/cor-${co.dataset.colorOpt}`);
+    }
     else if (st) S.update((s) => (s.settings.fontSize = Math.min(34, Math.max(13, s.settings.fontSize + +st.dataset.step))));
     else if (sg) {
       const raw = sg.dataset.val;
@@ -1115,6 +1127,7 @@ function bindDisplayControls(el) {
 }
 
 $('#display-btn').addEventListener('click', () => {
+  trackEvent('aparencia/abrir');
   openSheet('Aparência do texto', '<div id="display-controls"></div>', {
     onMount: (el) => bindDisplayControls($('#display-controls', el)),
   });
@@ -1181,6 +1194,7 @@ async function searchView(q, signal) {
   };
   form.addEventListener('submit', (e) => {
     e.preventDefault();
+    trackEvent('busca/pesquisar');
     submit();
   });
   form.addEventListener('change', (e) => {
@@ -1683,6 +1697,7 @@ async function settingsView(signal) {
   $('#offline-dl').addEventListener('click', async () => {
     const btn = $('#offline-dl');
     const bar = $('#offline-progress');
+    trackEvent('offline/baixar-biblia');
     btn.disabled = true;
     bar.hidden = false;
     const ids = B.books().map((b) => b.id);
@@ -1711,6 +1726,7 @@ async function settingsView(signal) {
 
   // Instalação.
   $('#install-btn')?.addEventListener('click', async () => {
+    trackEvent('app/instalar');
     if (installPrompt) {
       installPrompt.prompt();
       const { outcome } = await installPrompt.userChoice;
@@ -1721,6 +1737,7 @@ async function settingsView(signal) {
 
   // Backup.
   $('#export-btn').addEventListener('click', () => {
+    trackEvent('backup/exportar');
     const blob = new Blob([S.exportData()], { type: 'application/json' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
@@ -1729,6 +1746,7 @@ async function settingsView(signal) {
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
   });
   $('#import-file').addEventListener('change', async (e) => {
+    trackEvent('backup/importar');
     const f = e.target.files[0];
     if (!f) return;
     try {
@@ -1789,8 +1807,13 @@ async function start() {
       <button class="btn" type="button" onclick="location.reload()">Tentar novamente</button></div></div>`;
     return;
   }
-  window.addEventListener('hashchange', route);
-  await route();
+  // Re-renderizações internas chamam route() direto; só navegações reais contam visita.
+  const navigate = async () => {
+    await route();
+    trackView();
+  };
+  window.addEventListener('hashchange', navigate);
+  await navigate();
   registerSW();
 }
 

@@ -1,6 +1,6 @@
 // Service worker: app offline.
 // Ao publicar mudanças no app, aumente VERSION. Ao regenerar os dados (docs/data/books), aumente DATA_VERSION.
-const VERSION = '1.1.0';
+const VERSION = '1.2.0';
 const DATA_VERSION = '1';
 const SHELL = `shell-${VERSION}`;
 const DATA = `data-${DATA_VERSION}`;
@@ -17,6 +17,7 @@ const SHELL_FILES = [
   'js/plans.js',
   'js/tts.js',
   'js/liturgy.js',
+  'js/analytics.js',
   'manifest.webmanifest',
   'data/index.json',
   'icons/favicon-32.png',

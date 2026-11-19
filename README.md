@@ -64,6 +64,13 @@ O site fica em `https://<usuario>.github.io/<repositorio>/`. Todos os caminhos s
 
 **A cada nova versão:** aumente `VERSION` em `docs/sw.js` (e `APP_VERSION` em `docs/js/app.js`). Assim os usuários recebem o aviso "Nova versão disponível".
 
+## Estatísticas de uso
+
+As estatísticas de uso ficam no [GoatCounter](https://bibliacatolica.goatcounter.com/): sem cookies e sem dados pessoais. O código está em `docs/js/analytics.js`. Não conta acessos em `localhost`.
+
+- **Visitas:** uma por navegação, com o caminho normalizado: `/`, `/livros`, `/livros/GEN`, `/ler/GEN/1` (agrupado por capítulo), `/buscar` (o termo pesquisado não é enviado), `/salvos`, `/planos`, `/planos/<id>`, `/ajustes`, `/continuar`.
+- **Eventos (uso de recursos):** `versiculo/{bookmark,note,copy,share,listen,destacar,remover-destaque}`, `audio/ouvir-capitulo`, `aparencia/{abrir,estilo-*,cor-*}`, `busca/pesquisar`, `offline/baixar-biblia`, `app/instalar`, `backup/{exportar,importar}`, `abertura/{app-instalado,navegador}`.
+
 ## Atualizar o texto bíblico
 
 ```bash
