@@ -1,0 +1,6 @@
+.codegraph/
+
+# EPUBs com direitos autorais: nunca publicar
+source/
+
+node_modules/

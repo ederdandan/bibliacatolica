@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Bíblia Católica</title>
+  <meta name="description" content="Bíblia Sagrada católica (73 livros, tradução do Pe. Matos Soares) para ler, pesquisar, marcar e anotar. Funciona offline.">
+  <meta name="theme-color" content="#6b2737">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Bíblia">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preload" href="data/index.json" as="fetch" crossorigin>
+  <script>
+    // Aplica tema e fonte antes da primeira pintura (evita "piscar").
+    (function () {
+      var s = {};
+      try { s = (JSON.parse(localStorage.getItem('biblia:v1')) || {}).settings || {}; } catch (e) {}
+      var t = s.theme || 'auto';
+      if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></symbol>
+      <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 19.5V5a2 2 0 0 1 2-2h14v15H6.5A2.5 2.5 0 0 0 4 20.5 2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M12 6v7M9.5 8.5h5"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+      <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></symbol>
+      <symbol id="i-bookmark-fill" viewBox="0 0 24 24"><path fill="currentColor" d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></symbol>
+      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="16.5" rx="2"/><path d="M3 9.5h18M8 2.5v4M16 2.5v4M7.5 14l2.5 2.5 5-5"/></symbol>
+      <symbol id="i-settings" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></symbol>
+      <symbol id="i-type" viewBox="0 0 24 24"><path d="M3 19 8 5l5 14M4.8 14h6.4M15 19l3-8 3 8M15.9 16.5h4.2"/></symbol>
+      <symbol id="i-left" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+      <symbol id="i-right" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+      <symbol id="i-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+      <symbol id="i-copy" viewBox="0 0 24 24"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></symbol>
+      <symbol id="i-share" viewBox="0 0 24 24"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 13.3 7.6 4.4M15.8 6.3l-7.6 4.4"/></symbol>
+      <symbol id="i-note" viewBox="0 0 24 24"><path d="M12 20h9M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></symbol>
+      <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+      <symbol id="i-play" viewBox="0 0 24 24"><path fill="currentColor" d="M7 4.5v15a.8.8 0 0 0 1.2.7l12-7.5a.8.8 0 0 0 0-1.4l-12-7.5A.8.8 0 0 0 7 4.5z"/></symbol>
+      <symbol id="i-pause" viewBox="0 0 24 24"><path fill="currentColor" d="M6 4h4v16H6zM14 4h4v16h-4z"/></symbol>
+      <symbol id="i-stop" viewBox="0 0 24 24"><rect fill="currentColor" x="5" y="5" width="14" height="14" rx="1.5"/></symbol>
+      <symbol id="i-volume" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4zM15.5 8.5a5 5 0 0 1 0 7M19 5a10 10 0 0 1 0 14"/></symbol>
+      <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+      <symbol id="i-trash" viewBox="0 0 24 24"><path d="M3 6h18M8 6V4h8v2M19 6l-1 14H6L5 6M10 11v6M14 11v6"/></symbol>
+      <symbol id="i-download" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></symbol>
+      <symbol id="i-upload" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M17 8l-5-5-5 5M12 3v12"/></symbol>
+      <symbol id="i-highlight" viewBox="0 0 24 24"><path d="m9 11-6 6v3h9l3-3M22 12l-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4"/></symbol>
+      <symbol id="i-history" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7L3 8M3 3v5h5M12 7v5l3 3"/></symbol>
+      <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+      <symbol id="i-external" viewBox="0 0 24 24"><path d="M15 3h6v6M10 14 21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></symbol>
+      <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></symbol>
+    </defs>
+  </svg>
+
+  <a class="skip" href="#view">Pular para o conteúdo</a>
+
+  <header class="topbar" id="topbar">
+    <a class="brand" href="#/" aria-label="Início">
+      <img src="icons/favicon-32.png" alt="" width="24" height="24">
+      <span class="brand-name">Bíblia Católica</span>
+    </a>
+    <button class="ref-btn" id="ref-btn" type="button" hidden aria-haspopup="dialog">
+      <span id="ref-label"></span>
+      <svg class="ic sm"><use href="#i-down"/></svg>
+    </button>
+    <div class="top-actions">
+      <button class="icon-btn reader-only" id="tts-btn" type="button" title="Ouvir capítulo" aria-label="Ouvir capítulo"><svg class="ic"><use href="#i-volume"/></svg></button>
+      <button class="icon-btn reader-only" id="display-btn" type="button" title="Aparência do texto" aria-label="Aparência do texto"><svg class="ic"><use href="#i-type"/></svg></button>
+      <a class="icon-btn" href="#/buscar" title="Buscar" aria-label="Buscar"><svg class="ic"><use href="#i-search"/></svg></a>
+      <a class="icon-btn" href="#/ajustes" title="Ajustes" aria-label="Ajustes"><svg class="ic"><use href="#i-settings"/></svg></a>
+    </div>
+  </header>
+
+  <main id="view" tabindex="-1" aria-live="polite"></main>
+
+  <div class="tts-bar" id="tts-bar" hidden>
+    <button class="icon-btn" id="tts-toggle" type="button" aria-label="Pausar"><svg class="ic"><use href="#i-pause"/></svg></button>
+    <span class="tts-label" id="tts-label">Lendo…</span>
+    <button class="icon-btn" id="tts-stop" type="button" aria-label="Parar leitura"><svg class="ic"><use href="#i-stop"/></svg></button>
+  </div>
+
+  <div class="verse-bar" id="verse-bar" hidden role="toolbar" aria-label="Ações do versículo">
+    <div class="vb-head">
+      <strong id="vb-ref"></strong>
+      <button class="icon-btn sm" id="vb-close" type="button" aria-label="Fechar"><svg class="ic"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="vb-colors" id="vb-colors"></div>
+    <div class="vb-actions">
+      <button type="button" data-act="bookmark"><svg class="ic"><use href="#i-bookmark"/></svg><span>Favoritar</span></button>
+      <button type="button" data-act="note"><svg class="ic"><use href="#i-note"/></svg><span>Nota</span></button>
+      <button type="button" data-act="copy"><svg class="ic"><use href="#i-copy"/></svg><span>Copiar</span></button>
+      <button type="button" data-act="share"><svg class="ic"><use href="#i-share"/></svg><span>Compartilhar</span></button>
+      <button type="button" data-act="listen"><svg class="ic"><use href="#i-volume"/></svg><span>Ouvir</span></button>
+    </div>
+  </div>
+
+  <nav class="tabbar" id="tabbar" aria-label="Navegação principal">
+    <a href="#/" data-tab="home"><svg class="ic"><use href="#i-home"/></svg><span>Início</span></a>
+    <a href="#/livros" data-tab="books"><svg class="ic"><use href="#i-book"/></svg><span>Bíblia</span></a>
+    <a href="#/buscar" data-tab="search"><svg class="ic"><use href="#i-search"/></svg><span>Buscar</span></a>
+    <a href="#/salvos" data-tab="saved"><svg class="ic"><use href="#i-bookmark"/></svg><span>Salvos</span></a>
+    <a href="#/planos" data-tab="plans"><svg class="ic"><use href="#i-calendar"/></svg><span>Planos</span></a>
+  </nav>
+
+  <dialog class="sheet" id="sheet" aria-labelledby="sheet-title">
+    <div class="sheet-head">
+      <h2 id="sheet-title"></h2>
+      <button class="icon-btn" type="button" data-close aria-label="Fechar"><svg class="ic"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="sheet-body" id="sheet-body"></div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <noscript><p class="noscript">Ative o JavaScript para usar a Bíblia.</p></noscript>
+</body>
+</html>
