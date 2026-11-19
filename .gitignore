@@ -4,3 +4,6 @@
 source/
 
 node_modules/
+
+# rascunhos de design (canvas)
+.design/

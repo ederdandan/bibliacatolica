@@ -1,9 +1,11 @@
 // Service worker: app offline.
 // Ao publicar mudanças no app, aumente VERSION. Ao regenerar os dados (docs/data/books), aumente DATA_VERSION.
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const DATA_VERSION = '1';
 const SHELL = `shell-${VERSION}`;
 const DATA = `data-${DATA_VERSION}`;
+const FONTS = 'fonts-1';
+const FONT_HOSTS = new Set(['fonts.googleapis.com', 'fonts.gstatic.com']);
 
 const SHELL_FILES = [
   './',
@@ -14,6 +16,7 @@ const SHELL_FILES = [
   'js/store.js',
   'js/plans.js',
   'js/tts.js',
+  'js/liturgy.js',
   'manifest.webmanifest',
   'data/index.json',
   'icons/favicon-32.png',
@@ -32,7 +35,7 @@ self.addEventListener('install', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     (async () => {
-      const keep = new Set([SHELL, DATA]);
+      const keep = new Set([SHELL, DATA, FONTS]);
       for (const k of await caches.keys()) if (!keep.has(k)) await caches.delete(k);
       await self.clients.claim();
     })(),
@@ -48,7 +51,7 @@ async function cacheFirst(req, name) {
   const hit = await cache.match(req);
   if (hit) return hit;
   const res = await fetch(req);
-  if (res.ok) cache.put(req, res.clone());
+  if (res.ok || res.type === 'opaque') cache.put(req, res.clone());
   return res;
 }
 
@@ -68,6 +71,11 @@ self.addEventListener('fetch', (event) => {
   const req = event.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
+  // Fontes do Google: cache permanente para funcionar offline.
+  if (FONT_HOSTS.has(url.hostname)) {
+    event.respondWith(cacheFirst(req, FONTS));
+    return;
+  }
   if (url.origin !== self.location.origin) return;
 
   if (url.pathname.includes('/data/books/')) {

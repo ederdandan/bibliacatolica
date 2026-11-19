@@ -4,9 +4,10 @@
 const KEY = 'biblia:v1';
 
 export const DEFAULT_SETTINGS = {
-  theme: 'auto', // auto | light | sepia | dark | black
+  theme: 'auto', // auto | vitral | noturno
+  color: 'liturgical', // liturgical | style | verde | roxo | dourado | vermelho | rosa
   fontSize: 19,
-  fontFamily: 'serif', // serif | classic | sans | readable
+  fontFamily: 'style', // style | serif | classic | sans | readable
   lineHeight: 1.7,
   width: 'medium', // narrow | medium | wide
   layout: 'verses', // verses | paragraph
@@ -46,6 +47,9 @@ function normalize(data) {
   const base = empty();
   const out = { ...base, ...(data && typeof data === 'object' ? data : {}) };
   out.settings = { ...DEFAULT_SETTINGS, ...(out.settings || {}) };
+  // Temas antigos (claro/sépia/escuro/preto) viram os estilos atuais.
+  const legacy = { light: 'vitral', sepia: 'vitral', dark: 'noturno', black: 'noturno' };
+  if (legacy[out.settings.theme]) out.settings.theme = legacy[out.settings.theme];
   for (const k of ['highlights', 'bookmarks', 'notes', 'read', 'plans']) {
     if (!out[k] || typeof out[k] !== 'object' || Array.isArray(out[k])) out[k] = {};
   }

@@ -16,15 +16,27 @@
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="preload" href="data/index.json" as="fetch" crossorigin>
   <script>
-    // Aplica tema e fonte antes da primeira pintura (evita "piscar").
+    // Aplica estilo e cor antes da primeira pintura (evita "piscar").
     (function () {
-      var s = {};
-      try { s = (JSON.parse(localStorage.getItem('biblia:v1')) || {}).settings || {}; } catch (e) {}
-      var t = s.theme || 'auto';
-      if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-      document.documentElement.dataset.theme = t;
+      var s = {}, lit = '';
+      try {
+        s = (JSON.parse(localStorage.getItem('biblia:v1')) || {}).settings || {};
+        lit = localStorage.getItem('biblia:lit') || '';
+      } catch (e) {}
+      var st = s.theme === 'vitral' || s.theme === 'noturno' ? s.theme
+        : s.theme === 'light' || s.theme === 'sepia' ? 'vitral'
+        : s.theme === 'dark' || s.theme === 'black' ? 'noturno'
+        : matchMedia('(prefers-color-scheme: dark)').matches ? 'noturno' : 'vitral';
+      var c = s.color || 'liturgical';
+      if (c === 'liturgical') c = lit || 'verde';
+      if (c === 'style') c = st === 'noturno' ? 'dourado' : 'roxo';
+      document.documentElement.dataset.style = st;
+      document.documentElement.dataset.color = c;
     })();
   </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=DM+Sans:wght@400;500;600;700;800&family=Literata:ital,opsz,wght@0,7..72,400;1,7..72,400&family=Lora:ital,wght@0,400;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
   <link rel="stylesheet" href="css/app.css">
   <script type="module" src="js/app.js"></script>
 </head>
@@ -32,7 +44,8 @@
   <svg width="0" height="0" style="position:absolute" aria-hidden="true">
     <defs>
       <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></symbol>
-      <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 19.5V5a2 2 0 0 1 2-2h14v15H6.5A2.5 2.5 0 0 0 4 20.5 2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M12 6v7M9.5 8.5h5"/></symbol>
+      <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 19V5a2 2 0 0 1 2-2h14v15H6a2 2 0 0 0-2 2 2 2 0 0 0 2 2h14v-3"/><path d="M12 6v7M9.5 8.5h5"/></symbol>
+      <symbol id="i-flame" viewBox="0 0 24 24"><path d="M12 22c4 0 7-3 7-7 0-4-3-6-4-9-2 2-2 4-3 5-1-2-1-4-1-7-3 3-6 6-6 11 0 4 3 7 7 7z"/></symbol>
       <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
       <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></symbol>
       <symbol id="i-bookmark-fill" viewBox="0 0 24 24"><path fill="currentColor" d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></symbol>
@@ -83,11 +96,14 @@
 
   <main id="view" tabindex="-1" aria-live="polite"></main>
 
-  <div class="tts-bar" id="tts-bar" hidden>
-    <button class="icon-btn" id="tts-toggle" type="button" aria-label="Pausar"><svg class="ic"><use href="#i-pause"/></svg></button>
-    <span class="tts-label" id="tts-label">Lendo…</span>
-    <button class="icon-btn" id="tts-stop" type="button" aria-label="Parar leitura"><svg class="ic"><use href="#i-stop"/></svg></button>
-  </div>
+  <section class="tts-bar" id="tts-bar" hidden aria-label="Leitura em voz alta">
+    <div class="tts-main">
+      <button class="play" id="tts-toggle" type="button" aria-label="Pausar"><svg class="ic"><use href="#i-pause"/></svg></button>
+      <span class="tts-label"><b id="tts-label">Lendo…</b><small id="tts-sub"></small></span>
+      <button class="icon-btn" id="tts-stop" type="button" aria-label="Parar leitura"><svg class="ic"><use href="#i-stop"/></svg></button>
+    </div>
+    <div class="progress"><span id="tts-progress" style="width:0"></span></div>
+  </section>
 
   <div class="verse-bar" id="verse-bar" hidden role="toolbar" aria-label="Ações do versículo">
     <div class="vb-head">
@@ -105,11 +121,11 @@
   </div>
 
   <nav class="tabbar" id="tabbar" aria-label="Navegação principal">
-    <a href="#/" data-tab="home"><svg class="ic"><use href="#i-home"/></svg><span>Início</span></a>
-    <a href="#/livros" data-tab="books"><svg class="ic"><use href="#i-book"/></svg><span>Bíblia</span></a>
-    <a href="#/buscar" data-tab="search"><svg class="ic"><use href="#i-search"/></svg><span>Buscar</span></a>
-    <a href="#/salvos" data-tab="saved"><svg class="ic"><use href="#i-bookmark"/></svg><span>Salvos</span></a>
-    <a href="#/planos" data-tab="plans"><svg class="ic"><use href="#i-calendar"/></svg><span>Planos</span></a>
+    <a href="#/" data-tab="home" aria-label="Início"><svg class="ic" aria-hidden="true"><use href="#i-home"/></svg><span>Início</span></a>
+    <a href="#/livros" data-tab="books" aria-label="Bíblia"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg><span>Bíblia</span></a>
+    <a href="#/buscar" data-tab="search" aria-label="Buscar"><svg class="ic" aria-hidden="true"><use href="#i-search"/></svg><span>Buscar</span></a>
+    <a href="#/salvos" data-tab="saved" aria-label="Salvos"><svg class="ic" aria-hidden="true"><use href="#i-bookmark"/></svg><span>Salvos</span></a>
+    <a href="#/planos" data-tab="plans" aria-label="Planos"><svg class="ic" aria-hidden="true"><use href="#i-calendar"/></svg><span>Planos</span></a>
   </nav>
 
   <dialog class="sheet" id="sheet" aria-labelledby="sheet-title">

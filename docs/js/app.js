@@ -2,8 +2,9 @@ import * as B from './bible.js';
 import * as S from './store.js';
 import * as P from './plans.js';
 import * as T from './tts.js';
+import * as L from './liturgy.js';
 
-const APP_VERSION = '1.0.0';
+const APP_VERSION = '1.1.0';
 
 // ---------- Utilidades ----------
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -23,14 +24,23 @@ const HL = [
   { id: 'pink', name: 'rosa' },
   { id: 'orange', name: 'laranja' },
 ];
-const THEMES = [
-  { id: 'auto', name: 'Automático', bg: 'linear-gradient(135deg,#fbfaf7 50%,#17171b 50%)', fg: '#888' },
-  { id: 'light', name: 'Claro', bg: '#fbfaf7', fg: '#1f1b16' },
-  { id: 'sepia', name: 'Sépia', bg: '#f4ecd8', fg: '#3a2e1f' },
-  { id: 'dark', name: 'Escuro', bg: '#17171b', fg: '#e9e6e1' },
-  { id: 'black', name: 'Preto', bg: '#000', fg: '#d9d6d1' },
+const STYLES = [
+  { id: 'auto', name: 'Automático', bg: 'linear-gradient(135deg,#f4f2fb 50%,#0b1020 50%)', bars: ['#6a3fd1', '#f5b544', '#0b7a5c'] },
+  { id: 'vitral', name: 'Vitral', bg: '#f4f2fb', bars: ['#2b57d9', '#c8323c', '#0b7a5c'] },
+  { id: 'noturno', name: 'Noturno', bg: '#0b1020', bars: ['#1e2640', '#f5b544', '#1e2640'] },
+];
+// Cores de destaque: litúrgicas + automáticas. "hex" só ilustra a amostra.
+const COLORS = [
+  { id: 'liturgical', name: 'Tempo litúrgico' },
+  { id: 'style', name: 'Padrão do estilo' },
+  { id: 'verde', name: 'Verde', hex: '#0b7a5c' },
+  { id: 'roxo', name: 'Roxo', hex: '#6a3fd1' },
+  { id: 'dourado', name: 'Branco/Dourado', hex: '#f5e6b8' },
+  { id: 'vermelho', name: 'Vermelho', hex: '#c8323c' },
+  { id: 'rosa', name: 'Rosa', hex: '#e58fb6' },
 ];
 const FONTS = {
+  style: { name: 'Do estilo', css: 'var(--font-text)' },
   serif: { name: 'Serifada', css: "Georgia, 'Times New Roman', serif" },
   classic: { name: 'Clássica', css: "'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Palatino, serif" },
   sans: { name: 'Sem serifa', css: "system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" },
@@ -41,13 +51,28 @@ const WIDTHS = { narrow: '34rem', medium: '42rem', wide: '58rem' };
 // ---------- Aparência ----------
 const darkMq = matchMedia('(prefers-color-scheme: dark)');
 
+const resolveStyle = (s) => (s.theme === 'vitral' || s.theme === 'noturno' ? s.theme : darkMq.matches ? 'noturno' : 'vitral');
+
+function resolveColor(s, style) {
+  if (s.color === 'liturgical') return L.season().color;
+  if (s.color === 'style' || !L.COLOR_NAMES[s.color]) return style === 'noturno' ? 'dourado' : 'roxo';
+  return s.color;
+}
+
 function applySettings() {
   const s = S.settings();
   const root = document.documentElement;
-  root.dataset.theme = s.theme === 'auto' ? (darkMq.matches ? 'dark' : 'light') : s.theme;
+  const style = resolveStyle(s);
+  root.dataset.style = style;
+  root.dataset.color = resolveColor(s, style);
+  try {
+    localStorage.setItem('biblia:lit', L.season().color);
+  } catch {
+    /* sem armazenamento */
+  }
   root.style.setProperty('--reader-size', `${s.fontSize}px`);
   root.style.setProperty('--reader-lh', String(s.lineHeight));
-  root.style.setProperty('--font-reader', (FONTS[s.fontFamily] || FONTS.serif).css);
+  root.style.setProperty('--font-reader', (FONTS[s.fontFamily] || FONTS.style).css);
   root.style.setProperty('--reader-width', WIDTHS[s.width] || WIDTHS.medium);
   const bg = getComputedStyle(root).getPropertyValue('--bg').trim();
   $('meta[name="theme-color"]')?.setAttribute('content', bg || '#6b2737');
@@ -270,6 +295,61 @@ function notFound() {
 }
 
 // ---------- Início ----------
+const groupNames = () => [...new Set(B.books().map((b) => b.group))];
+const groupIndex = (name) => groupNames().indexOf(name);
+const WEEKDAYS = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
+const SEASON_HEX = { verde: '#0b7a5c', roxo: '#6a3fd1', dourado: '#d9a520', vermelho: '#c8323c', rosa: '#e58fb6' };
+
+function greeting() {
+  const h = new Date().getHours();
+  return h < 12 ? 'Bom dia' : h < 18 ? 'Boa tarde' : 'Boa noite';
+}
+
+// Dias seguidos com leitura (a sequência continua ativa se a última leitura foi ontem).
+function streak(history) {
+  const days = new Set(history.map((h) => new Date(h.t).toDateString()));
+  const d = new Date();
+  if (!days.has(d.toDateString())) d.setDate(d.getDate() - 1);
+  let n = 0;
+  while (days.has(d.toDateString())) {
+    n++;
+    d.setDate(d.getDate() - 1);
+  }
+  return n;
+}
+
+function planCardHtml(st) {
+  const id = st.activePlan;
+  const prog = id && st.plans[id];
+  if (!prog || !P.plan(id)) {
+    return `<a class="card plan-card" href="#/planos"><p class="eyebrow">Plano de leitura</p>
+      <div class="row"><b>Escolha um plano e leia um pouco por dia</b><span class="spacer"></span>${icon('right')}</div></a>`;
+  }
+  const p = P.plan(id);
+  const days = P.schedule(id);
+  const today = Math.min(Math.max(P.dayIndex(prog.start), 0), days.length - 1);
+  let next = days.findIndex((_, i) => !prog.done[i]);
+  if (next === -1) next = days.length - 1;
+  const d = days[next];
+  const [y, m, d0] = prog.start.split('-').map(Number);
+  const from = Math.min(today, Math.max(days.length - 7, 0));
+  const week = [];
+  for (let i = from; i < Math.min(from + 7, days.length); i++) {
+    const date = new Date(y, m - 1, d0 + i);
+    const cls = i === today ? 'today' : prog.done[i] ? 'done' : '';
+    week.push(`<div><span>${WEEKDAYS[date.getDay()]}</span><b class="${cls}" title="Dia ${i + 1}: ${esc(P.dayLabel(days[i]))}">${date.getDate()}</b></div>`);
+  }
+  return `<section class="card">
+    <div class="row"><a class="plan-card" href="#/planos/${p.id}"><b>${esc(p.name)}</b></a><span class="spacer"></span>
+      <span class="small muted">Dia ${next + 1} · ${esc(P.dayLabel(d))}</span></div>
+    ${next < today ? `<p class="small muted" style="margin:6px 0 0">${plural(today - next, 'dia', 'dias')} em atraso</p>` : ''}
+    <div class="week">${week.join('')}</div>
+    <div class="row" style="margin-top:14px">
+      <a class="btn primary" href="${readHash(d[0].b, d[0].c)}">${icon('book')}Ler agora</a>
+      <button class="btn" type="button" data-plan-done="${next}">${icon('check')}Concluir dia</button>
+    </div></section>`;
+}
+
 async function homeView(signal) {
   setView('home', '', 'home');
   const st = S.get();
@@ -278,70 +358,66 @@ async function homeView(signal) {
   const votdText = await B.verseText(votd.b, votd.c, votd.v);
   if (signal.aborted) return;
   const last = st.last && B.book(st.last.b) ? st.last : null;
+  const lastBook = last ? B.book(last.b) : B.book('GEN');
   const readCount = Object.keys(st.read).length;
   const pct = Math.round((readCount / meta.totalChapters) * 1000) / 10;
-
-  let planHtml = '';
-  if (st.activePlan && P.plan(st.activePlan) && st.plans[st.activePlan]) {
-    const p = P.plan(st.activePlan);
-    const prog = st.plans[st.activePlan];
-    const days = P.schedule(p.id);
-    const today = Math.min(Math.max(P.dayIndex(prog.start), 0), days.length - 1);
-    let next = days.findIndex((_, i) => !prog.done[i]);
-    if (next === -1) next = days.length - 1;
-    const doneCount = Object.keys(prog.done).length;
-    const d = days[next];
-    planHtml = `<section class="card">
-      <h3>Plano de leitura</h3>
-      <a class="plan-card" href="#/planos/${p.id}"><b>${esc(p.name)}</b></a>
-      <p class="muted small">Dia ${next + 1} de ${days.length}${next < today ? ` · ${plural(today - next, 'dia', 'dias')} em atraso` : ''}</p>
-      <p><b>${esc(P.dayLabel(d))}</b></p>
-      <div class="progress" aria-label="Progresso do plano"><span style="width:${(doneCount / days.length) * 100}%"></span></div>
-      <div class="row" style="margin-top:12px">
-        <a class="btn primary" href="${readHash(d[0].b, d[0].c)}">${icon('book')}Ler agora</a>
-        <button class="btn" type="button" data-plan-done="${next}">${icon('check')}Concluir dia</button>
-      </div></section>`;
-  }
-
+  const season = L.season();
+  const days = streak(st.history);
+  const ring = 2 * Math.PI * 23;
+  const lastPct = last ? Math.min(1, last.y || 0) : 0;
+  const dateStr = new Intl.DateTimeFormat('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' }).format(new Date());
+  const groups = groupNames().map((g) => ({ g, n: B.books().filter((b) => b.group === g).length }));
   const recent = st.history.slice(0, 8).filter((h) => B.book(h.b));
+  const votdRef = B.fmtRef(votd.b, votd.c, votd.v, { long: true });
+
   view.innerHTML = `<div class="page">
     <div class="hero">
-      <h1>Bíblia Católica</h1>
-      <p class="muted">Tradução do Pe. Matos Soares · 73 livros</p>
+      <div><p>${greeting()} · ${esc(dateStr)}</p><h1>O que vamos ler hoje?</h1></div>
+      ${days ? `<span class="streak" title="Dias seguidos de leitura">${icon('flame', 'ic sm')}${plural(days, 'dia', 'dias')}</span>` : ''}
     </div>
+    <p class="season"><i style="background:${SEASON_HEX[season.color]}"></i>${esc(season.name)} · cor ${esc(L.COLOR_NAMES[season.color].toLowerCase())}</p>
     <form class="searchbox" id="home-search" role="search">
       ${icon('search')}
-      <input type="search" name="q" placeholder="Buscar palavra ou ir para (ex.: Jo 3,16)" aria-label="Buscar ou ir para referência" autocomplete="off" enterkeyhint="search">
+      <input type="search" name="q" placeholder="Palavra ou referência (ex.: Jo 3,16)" aria-label="Buscar ou ir para referência" autocomplete="off" enterkeyhint="search">
     </form>
 
-    <a class="card continue" href="${last ? readHash(last.b, last.c) : readHash('GEN', 1)}">
-      <div><h3>${last ? 'Continuar leitura' : 'Começar a ler'}</h3>
-      <span class="big">${last ? `${esc(B.book(last.b).name)} ${last.c}` : 'Gênesis 1'}</span></div>
-      ${icon('right')}
+    <a class="continue" href="${last ? readHash(last.b, last.c) : readHash('GEN', 1)}">
+      <svg class="ring" width="56" height="56" viewBox="0 0 56 56" aria-hidden="true">
+        <circle cx="28" cy="28" r="23" fill="none" stroke="var(--surface-2)" stroke-width="6"/>
+        <circle cx="28" cy="28" r="23" fill="none" stroke="var(--accent)" stroke-width="6" stroke-linecap="round" stroke-dasharray="${(ring * lastPct).toFixed(1)} ${ring.toFixed(1)}" transform="rotate(-90 28 28)"/>
+      </svg>
+      <span><small>${last ? `Continuar · ${esc(lastBook.group)}` : 'Começar a ler'}</small><b>${last ? `${esc(lastBook.name)} ${last.c}` : 'Gênesis 1'}</b></span>
+      <span class="go">${icon('right')}</span>
     </a>
 
-    <section class="card">
-      <h3>Versículo do dia</h3>
-      <p class="verse-quote">${esc(votdText)}</p>
+    <section class="card votd">
+      <p class="eyebrow">Versículo do dia</p>
+      <p class="verse-quote">“${esc(votdText)}”</p>
       <div class="row">
-        <a href="${readHash(votd.b, votd.c, votd.v)}"><b>${esc(B.fmtRef(votd.b, votd.c, votd.v, { long: true }))}</b></a>
+        <a class="ref" href="${readHash(votd.b, votd.c, votd.v)}">${esc(votdRef)}</a>
         <span class="spacer"></span>
+        <button class="btn primary" type="button" data-votd="listen">${icon('play')}Ouvir</button>
         <button class="icon-btn" type="button" data-votd="copy" aria-label="Copiar versículo">${icon('copy')}</button>
         <button class="icon-btn" type="button" data-votd="share" aria-label="Compartilhar versículo">${icon('share')}</button>
       </div>
     </section>
 
-    ${planHtml}
+    ${planCardHtml(st)}
+
+    <h2>Explorar a Bíblia</h2>
+    <div class="tiles">${groups
+      .map((x) => `<a class="tile" data-g="${groupIndex(x.g)}" href="#/livros?g=${encodeURIComponent(x.g)}"><b>${esc(x.g)}</b><small>${plural(x.n, 'livro', 'livros')}</small></a>`)
+      .join('')}</div>
 
     <section class="card">
-      <h3>Seu progresso</h3>
+      <p class="eyebrow">Seu progresso</p>
       <div class="stats">
         <div><b>${readCount}</b><span>capítulos lidos</span></div>
         <div><b>${Object.keys(st.bookmarks).length}</b><span>favoritos</span></div>
         <div><b>${Object.keys(st.notes).length}</b><span>notas</span></div>
       </div>
-      <div class="progress" style="margin-top:12px" aria-label="Bíblia lida: ${pct}%"><span style="width:${pct}%"></span></div>
-      <p class="small muted" style="margin:6px 0 0">${pct.toLocaleString('pt-BR')}% da Bíblia (${readCount} de ${meta.totalChapters} capítulos)</p>
+      <div class="progress" style="margin-top:14px" aria-label="Bíblia lida: ${pct}%"><span style="width:${pct}%"></span></div>
+      <p class="small muted" style="margin:8px 0 0">${pct.toLocaleString('pt-BR')}% da Bíblia (${readCount} de ${meta.totalChapters} capítulos)</p>
     </section>
 
     ${
@@ -351,15 +427,6 @@ async function homeView(signal) {
             .join('')}</div>`
         : ''
     }
-
-    <h2>Explorar</h2>
-    <div class="chips">
-      <a class="chip" href="#/livros?t=AT">Antigo Testamento</a>
-      <a class="chip" href="#/livros?t=NT">Novo Testamento</a>
-      <a class="chip" href="${readHash('MAT', 1)}">Evangelhos</a>
-      <a class="chip" href="${readHash('PSA', 1)}">Salmos</a>
-      <a class="chip" href="#/planos">Planos de leitura</a>
-    </div>
   </div>`;
 
   $('#home-search').addEventListener('submit', (e) => {
@@ -371,9 +438,12 @@ async function homeView(signal) {
     (e) => {
       const v = e.target.closest('[data-votd]');
       if (v) {
-        const txt = `“${votdText}”\n— ${B.fmtRef(votd.b, votd.c, votd.v, { long: true })} (Bíblia Matos Soares)`;
+        const txt = `“${votdText}”\n— ${votdRef} (Bíblia Matos Soares)`;
         if (v.dataset.votd === 'copy') copyText(txt);
-        else shareText('Versículo do dia', txt, appUrl(readHash(votd.b, votd.c, votd.v)));
+        else if (v.dataset.votd === 'listen') {
+          if (!T.supported()) toast('Seu navegador não oferece leitura em voz alta');
+          else T.play([votdText], 0, { rate: S.settings().ttsRate, voiceURI: S.settings().ttsVoice });
+        } else shareText('Versículo do dia', txt, appUrl(readHash(votd.b, votd.c, votd.v)));
       }
       const pd = e.target.closest('[data-plan-done]');
       if (pd) {
@@ -425,12 +495,13 @@ function booksView(q, signal) {
     <div class="searchbox">${icon('search')}<input type="search" id="book-filter" placeholder="Filtrar livros" aria-label="Filtrar livros" autocomplete="off"></div>
     ${groups
       .map(
-        (g) => `<section class="book-group"><h2>${esc(g.name)}</h2><div class="book-grid">
+        (g) => `<section class="book-group" id="g-${groupIndex(g.name)}" data-g="${groupIndex(g.name)}"><h2>${esc(g.name)}</h2><div class="book-grid">
         ${g.books
           .map((b) => {
             const r = readInBook(b.id);
             return `<a class="book-item" href="#/livros/${b.id}" data-name="${esc(B.fold(`${b.name} ${b.abbrev} ${b.aliases.join(' ')}`))}">
-              <b>${esc(b.name)}</b><small>${b.abbrev} · ${plural(b.chapters, 'capítulo', 'capítulos')}</small>
+              <span class="badge" aria-hidden="true">${esc(b.abbrev)}</span>
+              <span><b>${esc(b.name)}</b><small>${plural(b.chapters, 'capítulo', 'capítulos')}</small></span>
               ${r ? `<span class="bar" style="width:${(r / b.chapters) * 100}%"></span>` : ''}</a>`;
           })
           .join('')}</div></section>`,
@@ -445,6 +516,8 @@ function booksView(q, signal) {
     },
     { signal },
   );
+  const g = q.get('g');
+  if (g) $(`#g-${groupIndex(g)}`)?.scrollIntoView({ block: 'start' });
   $('#book-filter').addEventListener('input', (e) => {
     const f = B.fold(e.target.value.trim());
     $$('.book-item').forEach((el) => (el.hidden = f && !el.dataset.name.includes(f)));
@@ -471,7 +544,7 @@ function bookView(id) {
   setView('books', bk.name, 'books');
   const r = readInBook(id);
   const total = bk.verses.reduce((s, n) => s + n, 0);
-  view.innerHTML = `<div class="page">
+  view.innerHTML = `<div class="page" data-g="${groupIndex(bk.group)}">
     <a class="btn ghost" href="#/livros">${icon('left')}Livros</a>
     <h1>${esc(bk.name)}</h1>
     <p class="muted">${esc(bk.group)} · ${bk.testament === 'AT' ? 'Antigo' : 'Novo'} Testamento · ${plural(bk.chapters, 'capítulo', 'capítulos')} · ${plural(total, 'versículo', 'versículos')}</p>
@@ -523,15 +596,22 @@ async function readerView(id, c, v, signal) {
   const next = B.adjacent(id, c, 1);
   const label = (r) => `${B.book(r.b).abbrev} ${r.c}`;
   const alt = id === 'PSA' ? B.psalmHebrew(c) : null;
+  const gi = groupIndex(bk.group);
   const isRead = !!S.get().read[S.ckey(id, c)];
 
   view.innerHTML = `
+    <header class="chap-band" data-g="${gi}">
+      <div class="inner">
+        <a class="group" href="#/livros?g=${encodeURIComponent(bk.group)}">${esc(bk.group)}</a>
+        <h1>${esc(bk.name)} ${c}</h1>
+        ${alt ? `<span class="alt">Na numeração hebraica: Salmo ${alt}</span>` : ''}
+        <nav class="chap-strip" aria-label="Capítulos de ${esc(bk.name)}">${bk.verses
+          .map((_, i) => `<a href="${readHash(id, i + 1)}"${i + 1 === c ? ' aria-current="true"' : ''}>${i + 1}</a>`)
+          .join('')}</nav>
+      </div>
+    </header>
+    <div class="reader-sheet">
     <article class="reader" id="reader" lang="pt">
-      <header class="chap-head">
-        <span class="book-name">${esc(bk.name)}</span>
-        <h1 class="chap-num" aria-label="${esc(bk.name)}, capítulo ${c}">${c}</h1>
-        ${alt ? `<span class="alt">Numeração hebraica: Sl ${alt}</span>` : ''}
-      </header>
       <div class="verses">${texts.map((t, i) => verseHtml(id, c, i + 1, t)).join('')}</div>
       <div class="chap-end">
         <button class="btn${isRead ? ' primary' : ''}" type="button" id="mark-read" aria-pressed="${isRead}">${icon('check')}${isRead ? 'Capítulo lido' : 'Marcar como lido'}</button>
@@ -542,9 +622,18 @@ async function readerView(id, c, v, signal) {
         </nav>
       </div>
     </article>
+    </div>
     ${prev ? `<a class="side-nav prev" href="${readHash(prev.b, prev.c)}" aria-label="Capítulo anterior">${icon('left')}</a>` : ''}
     ${next ? `<a class="side-nav next" href="${readHash(next.b, next.c)}" aria-label="Próximo capítulo">${icon('right')}</a>` : ''}`;
   readerClasses($('#reader'));
+  body.style.setProperty('--band', `var(--g${gi})`);
+  const strip = $('.chap-strip');
+  const curChip = $('[aria-current="true"]', strip);
+  if (curChip) {
+    const r = curChip.getBoundingClientRect();
+    const sr = strip.getBoundingClientRect();
+    strip.scrollLeft += r.left - sr.left - (sr.width - r.width) / 2;
+  }
   renderPlanHint();
 
   // Posição de leitura e histórico.
@@ -851,7 +940,8 @@ function markSpeaking(v) {
   el.classList.add('speaking');
   const r = el.getBoundingClientRect();
   if (r.top < 80 || r.bottom > innerHeight - 120) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
-  $('#tts-label').textContent = B.fmtRef(ctx.b, ctx.c, v);
+  $('#tts-label').textContent = `Lendo ${B.fmtRef(ctx.b, ctx.c, v)}`;
+  $('#tts-progress').style.width = `${(v / ctx.texts.length) * 100}%`;
 }
 
 function setTtsToggle(paused) {
@@ -868,6 +958,8 @@ function startTTS(from = 1) {
   const s = S.settings();
   const { b, c } = ctx;
   ttsBar.hidden = false;
+  const voice = T.voices().find((v) => v.voiceURI === s.ttsVoice);
+  $('#tts-sub').textContent = `${voice ? voice.name : 'Voz padrão'} · ${s.ttsRate.toLocaleString('pt-BR')}×`;
   setTtsToggle(false);
   $('#tts-btn').classList.add('active');
   T.play(ctx.texts, from - 1, {
@@ -914,7 +1006,7 @@ function openPicker() {
       <div class="book-grid">${B.testament(t)
         .map(
           (b) =>
-            `<button class="book-item" type="button" data-pb="${b.id}"${b.id === cur.id ? ' style="border-color:var(--accent)"' : ''}><b>${esc(b.name)}</b><small>${plural(b.chapters, 'cap.', 'caps.')}</small></button>`,
+            `<button class="book-item${b.id === cur.id ? ' current' : ''}" type="button" data-pb="${b.id}" data-g="${groupIndex(b.group)}"><span class="badge" aria-hidden="true">${esc(b.abbrev)}</span><span><b>${esc(b.name)}</b><small>${plural(b.chapters, 'cap.', 'caps.')}</small></span></button>`,
         )
         .join('')}</div>`;
     // No desktop, foca o campo; no celular evita abrir o teclado sem pedir.
@@ -962,11 +1054,23 @@ function segHtml(key, options, value) {
 
 function displayControlsHtml() {
   const s = S.settings();
+  const season = L.season();
   return `
-    <div class="themes" role="group" aria-label="Tema">${THEMES.map(
-      (t) => `<button class="theme-opt" type="button" data-theme-opt="${t.id}" aria-pressed="${s.theme === t.id}">
-        <span class="sample" style="background:${t.bg};color:${t.fg}">Aa</span>${t.name}</button>`,
+    <p class="eyebrow">Estilo</p>
+    <div class="styles" role="group" aria-label="Estilo">${STYLES.map(
+      (t) => `<button class="style-opt" type="button" data-style-opt="${t.id}" aria-pressed="${s.theme === t.id}">
+        <span class="sample" style="background:${t.bg}" aria-hidden="true">${t.bars.map((c) => `<i style="background:${c}"></i>`).join('')}</span>${t.name}</button>`,
     ).join('')}</div>
+    <p class="small muted" style="margin:8px 0 0">Automático usa o Vitral de dia e o Noturno quando o aparelho está no modo escuro.</p>
+    <p class="eyebrow" style="margin-top:20px">Cor</p>
+    <div class="colors" role="group" aria-label="Cor de destaque">${COLORS.map((c) => {
+      const hex = c.id === 'liturgical' ? SEASON_HEX[season.color] : c.hex;
+      const dot = hex
+        ? `<span class="dot" style="background:${hex}"></span>`
+        : '<span class="dot" style="background:conic-gradient(#6a3fd1 0 50%,#f5b544 0)"></span>';
+      return `<button class="color-opt" type="button" data-color-opt="${c.id}" aria-pressed="${s.color === c.id}">${dot}${c.name}</button>`;
+    }).join('')}</div>
+    <p class="small muted" style="margin:8px 0 4px">Hoje: ${esc(season.name)} (${esc(L.COLOR_NAMES[season.color].toLowerCase())}). Com “Tempo litúrgico”, a cor muda sozinha ao longo do ano.</p>
     <div class="setting"><div class="label">Tamanho da letra</div>
       <div class="stepper">
         <button class="btn" type="button" data-step="-1" aria-label="Diminuir letra">A−</button>
@@ -989,10 +1093,12 @@ function bindDisplayControls(el) {
   const rerender = () => (el.innerHTML = displayControlsHtml());
   rerender();
   el.addEventListener('click', (e) => {
-    const th = e.target.closest('[data-theme-opt]');
+    const th = e.target.closest('[data-style-opt]');
+    const co = e.target.closest('[data-color-opt]');
     const st = e.target.closest('[data-step]');
     const sg = e.target.closest('[data-seg]');
-    if (th) S.update((s) => (s.settings.theme = th.dataset.themeOpt));
+    if (th) S.update((s) => (s.settings.theme = th.dataset.styleOpt));
+    else if (co) S.update((s) => (s.settings.color = co.dataset.colorOpt));
     else if (st) S.update((s) => (s.settings.fontSize = Math.min(34, Math.max(13, s.settings.fontSize + +st.dataset.step))));
     else if (sg) {
       const raw = sg.dataset.val;
