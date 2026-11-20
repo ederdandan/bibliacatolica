@@ -1,0 +1,8 @@
+# Divisão em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O dia do Senhor
+1:1-1:12 | A paciência nas perseguições e a vinda do Senhor
+2:1-2:12 | O homem do pecado e o mistério da iniquidade
+## Exortações finais
+2:13-3:5 | Conservai as tradições; Deus é fiel
+3:6-3:18 | Quem não quer trabalhar, também não coma

@@ -1,0 +1,65 @@
+{
+ "livro": "2TH",
+ "secoes": [
+  "O dia do Senhor",
+  "Exortações finais"
+ ],
+ "pericopes": [
+  {
+   "id": "2TH.1.1",
+   "titulo": "A paciência nas perseguições e a vinda do Senhor",
+   "secao": "O dia do Senhor",
+   "referencia": "2Ts 1,1-12",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 12
+   }
+  },
+  {
+   "id": "2TH.2.1",
+   "titulo": "O homem do pecado e o mistério da iniquidade",
+   "secao": "O dia do Senhor",
+   "referencia": "2Ts 2,1-12",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 12
+   }
+  },
+  {
+   "id": "2TH.2.13",
+   "titulo": "Conservai as tradições; Deus é fiel",
+   "secao": "Exortações finais",
+   "referencia": "2Ts 2,13–3,5",
+   "ini": {
+    "c": 2,
+    "v": 13
+   },
+   "fim": {
+    "c": 3,
+    "v": 5
+   }
+  },
+  {
+   "id": "2TH.3.6",
+   "titulo": "Quem não quer trabalhar, também não coma",
+   "secao": "Exortações finais",
+   "referencia": "2Ts 3,6-18",
+   "ini": {
+    "c": 3,
+    "v": 6
+   },
+   "fim": {
+    "c": 3,
+    "v": 18
+   }
+  }
+ ]
+}

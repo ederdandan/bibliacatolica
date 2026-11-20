@@ -1,0 +1,49 @@
+{
+  "id": "2TH.2.13",
+  "livro": "2TH",
+  "titulo": "Conservai as tradições; Deus é fiel",
+  "secao": "Exortações finais",
+  "referencia": "2Ts 2,13–3,5",
+  "ini": {
+    "c": 2,
+    "v": 13
+  },
+  "fim": {
+    "c": 3,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Conservai as tradições que aprendestes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo volta à ação de graças: Deus escolheu os tessalonicenses como primícias da salvação, pela santificação do Espírito e pela fé na verdade, chamando-os pelo Evangelho a alcançar a glória de Cristo. Por isso pede que permaneçam firmes e guardem as tradições recebidas, seja de viva voz, seja por carta. Invoca Jesus Cristo e Deus Pai, que nos amou e nos deu consolação eterna e boa esperança, para que consolem e confirmem os seus corações em toda boa obra e palavra. Pede orações para que a Palavra do Senhor corra e seja glorificada e para que os apóstolos sejam livres dos homens maus, pois a fé não é de todos. Mas Deus é fiel: os confirmará e guardará do maligno. Termina pedindo que o Senhor dirija os corações no amor de Deus e na paciência de Cristo.",
+    "alegorico": "As “tradições, ou por nossas palavras ou por nossa carta” mostram a Revelação transmitida por duas vias: a pregação viva e a Escritura. A Igreja vê aqui o fundamento da Tradição apostólica, que, com a Sagrada Escritura, forma um só depósito da Palavra de Deus.",
+    "moral": "A firmeza na fé apoia-se na fidelidade de Deus, não na nossa força: “Deus é fiel”. O cristão pede pela corrida da Palavra e reza pelos que a anunciam. A consolação recebida de Deus deve converter-se em boa obra e boa palavra.",
+    "anagogico": "Chamados para “alcançar a glória de Nosso Senhor Jesus Cristo”, os fiéis vivem já de uma “consolação eterna e boa esperança”. A paciência de Cristo é o caminho que leva a essa glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus vos escolheu como primícias para a salvação, pela santificação do Espírito e pela verdadeira fé. Permanecei constantes, irmãos, e conservai as tradições que aprendestes, ou por nossas palavras ou por nossa carta. Orai por nós, para que a palavra do Senhor se propague. Deus é fiel: ele vos confirmará e guardará do maligno. O Senhor dirija os vossos corações no amor de Deus e na paciência de Cristo.",
+    "meditatio_perguntas": [
+      "Valorizo o que recebi da Igreja, por palavra e por escrito?",
+      "Rezo para que a Palavra do Senhor “corra” e seja glorificada?",
+      "Em que preciso hoje da paciência de Cristo?"
+    ],
+    "oratio_guia": "Deus fiel, que me escolheste e chamaste pelo Evangelho, confirma-me em toda boa obra e palavra. Guarda-me do maligno e dirige o meu coração no teu amor e na paciência de Cristo. Que a tua Palavra corra e seja glorificada. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é fiel: ele vos confirmará e guardará",
+      "ref": "2Ts 3,3"
+    }
+  },
+  "ancoras": {
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tradições” (parádoseis) designa o ensinamento transmitido pelos apóstolos, oral ou escrito; o texto é clássico na doutrina católica sobre a Tradição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2TH.3.6",
+  "livro": "2TH",
+  "titulo": "Quem não quer trabalhar, também não coma",
+  "secao": "Exortações finais",
+  "referencia": "2Ts 3,6-18",
+  "ini": {
+    "c": 3,
+    "v": 6
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Trabalhar em paz e não cansar de fazer o bem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alguns fiéis, talvez convencidos de que o fim estava próximo, deixaram de trabalhar e viviam ociosos, metendo-se em tudo. Paulo ordena, em nome de Cristo, que se afastem do irmão que vive na preguiça. Lembra o seu próprio exemplo: embora tivesse direito a ser sustentado, trabalhou noite e dia para não ser pesado a ninguém, dando um modelo. Já então dizia: quem não quer trabalhar, também não coma. Ordena aos ociosos que trabalhem em paz e comam o pão ganho. Aos demais, pede que não se cansem de fazer o bem. Quem não obedecer deve ser notado e evitado, para que se envergonhe, mas não tratado como inimigo: advirtam-no como irmão. A carta termina com o voto de paz e a assinatura de próprio punho.",
+    "alegorico": "O apóstolo que trabalha com as mãos para não ser pesado reflete o Filho de Deus, que quis trabalhar em Nazaré. O trabalho humano, assumido por Cristo, torna-se colaboração com a obra do Criador e caminho de santificação.",
+    "moral": "A espera do Senhor não dispensa as responsabilidades presentes; pelo contrário, as purifica. O trabalho é dever e dignidade: quem pode e não quer trabalhar vive à custa dos outros. A correção fraterna deve ser firme e, ao mesmo tempo, fraterna: afastar-se para que o irmão se envergonhe, sem nunca vê-lo como inimigo.",
+    "anagogico": "O “Senhor da paz” que dá a paz “sempre e por todas as formas” é aquele que esperamos. Quem não se cansa de fazer o bem prepara-se para o descanso eterno, que não é ociosidade, mas plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não vivemos preguiçosos entre vós, mas trabalhando de noite e de dia, para não sermos pesados a nenhum de vós, para vos dar em nós mesmos um modelo a imitar. Se alguém não quer trabalhar, também não coma. E vós, irmãos, não vos canseis nunca de fazer bem. Não o considereis como inimigo, mas adverti-o como irmão. O mesmo Senhor de paz vos dê a paz.",
+    "meditatio_perguntas": [
+      "Vivo o meu trabalho como serviço e caminho de santidade?",
+      "Em que me canso de fazer o bem?",
+      "Sei corrigir um irmão sem tratá-lo como inimigo?"
+    ],
+    "oratio_guia": "Senhor da paz, que trabalhaste com as tuas mãos, santifica o meu trabalho e livra-me da preguiça. Dá-me perseverança para não me cansar de fazer o bem, e caridade para corrigir os irmãos como irmãos. Dá-me a tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "E vós, irmãos, não vos canseis nunca de fazer bem.",
+      "ref": "2Ts 3,13"
+    }
+  },
+  "ancoras": {
+    "3:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo ditava as cartas e assinava de próprio punho; aqui insiste nisso talvez por causa da carta falsamente atribuída a ele (2,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

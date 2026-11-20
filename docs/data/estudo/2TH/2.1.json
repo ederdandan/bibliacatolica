@@ -1,0 +1,57 @@
+{
+  "id": "2TH.2.1",
+  "livro": "2TH",
+  "titulo": "O homem do pecado e o mistério da iniquidade",
+  "secao": "O dia do Senhor",
+  "referencia": "2Ts 2,1-12",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Não vos deixeis perturbar: o Senhor vencerá o iníquo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alguns, apoiados em supostas revelações ou numa carta atribuída a Paulo, diziam que o dia do Senhor estava iminente, e a comunidade se agitava. Paulo pede que não se deixem alarmar: antes virá a apostasia e aparecerá o homem do pecado, o filho da perdição, que se oporá a tudo o que é divino e se sentará no templo de Deus, fazendo-se passar por Deus. Já lhes falara disso, e eles sabem o que agora o retém. O mistério da iniquidade já está em ação, mas há algo ou alguém que o retém. Depois se manifestará o iníquo, a quem o Senhor Jesus destruirá com o sopro da sua boca e o resplendor da sua vinda. A vinda dele será obra de Satanás, com prodígios mentirosos e seduções para os que se perdem por não terem acolhido o amor da verdade.",
+    "alegorico": "O “homem do pecado” que se senta no templo como se fosse Deus é a contrafação do Cristo: onde o Filho se humilhou, o iníquo se exalta. A Igreja lê aqui a última provação, quando a mentira religiosa tentará ocupar o lugar de Deus; mas basta um sopro da boca do Senhor para derrubá-la.",
+    "moral": "Contra o sensacionalismo apocalíptico, Paulo pede serenidade e discernimento: nem toda “revelação” vem de Deus. O texto ensina também que a perdição começa por não acolher “o amor da verdade”: quem prefere a mentira acaba entregue a ela. O antídoto é amar a verdade e não se deixar seduzir por prodígios.",
+    "anagogico": "O mistério da iniquidade já atua, mas o seu fim está decretado: o Senhor o aniquilará com o resplendor da sua vinda. A história caminha, entre provações, para a vitória definitiva de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Rogamo-vos, irmãos, pela vinda de Nosso Senhor Jesus Cristo e pela nossa reunião com ele, que não deixeis facilmente perturbar o vosso espírito. Ninguém de modo algum vos engane. O mistério da iniquidade já se opera. O Senhor Jesus o destruirá com o sopro da sua boca e o aniquilará com o resplendor da sua vinda. Perdem-se os que não abraçaram o amor da verdade.",
+    "meditatio_perguntas": [
+      "Deixo-me perturbar por previsões e rumores sobre o fim do mundo?",
+      "Amo a verdade, mesmo quando ela me contraria?",
+      "Que “prodígios mentirosos” do nosso tempo me seduzem?"
+    ],
+    "oratio_guia": "Senhor Jesus, vencedor do mistério da iniquidade, guarda o meu espírito na paz. Dá-me o amor da verdade, que salva, e livra-me de toda sedução. Que eu espere com serenidade a tua vinda e a nossa reunião contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "não abraçaram o amor da verdade, que os salvaria",
+      "ref": "2Ts 2,10"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O que o retém” (tò katéchon, v. 6) e “aquele que o retém” (v. 7) não são identificados; os Padres pensaram no Império Romano ou na ordem pública, outros num anjo ou na pregação do Evangelho. Paulo supõe que os leitores sabiam.",
+        "origem": "ia"
+      }
+    },
+    "2:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição identifica o “homem do pecado” com o Anticristo (cf. 1Jo 2,18).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

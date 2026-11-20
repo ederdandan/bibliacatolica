@@ -1,0 +1,49 @@
+{
+  "id": "2TH.1.1",
+  "livro": "2TH",
+  "titulo": "A paciência nas perseguições e a vinda do Senhor",
+  "secao": "O dia do Senhor",
+  "referencia": "2Ts 1,1-12",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Dignos do reino pelo qual padeceis",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, Silvano e Timóteo saúdam a Igreja de Tessalónica e dão graças porque a fé dos fiéis cresce e a caridade mútua abunda. Gloriam-se deles nas Igrejas pela paciência e fé no meio de perseguições. Essas tribulações são sinal do justo juízo de Deus, que os torna dignos do reino pelo qual padecem. Deus é justo: dará tribulação aos que os atribulam e descanso aos atribulados quando o Senhor Jesus se revelar do céu, com os anjos do seu poder, em chama de fogo, para castigar os que não conhecem a Deus nem obedecem ao Evangelho; esses serão punidos com a perdição eterna, longe da face do Senhor. Ele virá para ser glorificado nos seus santos. Por isso Paulo ora para que Deus os torne dignos da sua vocação e para que o nome de Jesus seja glorificado neles, e eles nele.",
+    "alegorico": "A vinda do Senhor “para ser glorificado nos seus santos” mostra que a glória de Cristo resplandece na Igreja, seu Corpo. O que agora se sofre por Ele é já participação na sua Paixão, e a glória que se espera é participação na sua Ressurreição.",
+    "moral": "O sofrimento suportado com fé não é sinal de abandono, mas de purificação: torna “dignos do reino”. Paulo ensina a ler a perseguição à luz da justiça de Deus, sem desejo de vingança pessoal, deixando o juízo ao Senhor. A oração pelos irmãos pede que Deus realize neles todo o desejo de fazer o bem.",
+    "anagogico": "O texto descreve com força as duas sortes finais: o descanso com os santos e a perdição eterna “longe da face do Senhor”. O inferno é, antes de tudo, separação de Deus; o céu é ser glorificado em Cristo, e Cristo em nós."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A vossa fé vai em grande aumento e abunda em cada um de vós a caridade mútua. As tribulações são prova do justo juízo de Deus, para que sejais tidos por dignos do reino de Deus, pelo qual padeceis. Ele virá naquele dia para ser glorificado nos seus santos. Oramos para que o nosso Deus vos faça dignos da vossa vocação, a fim de que o nome de Jesus seja glorificado em vós, e vós nele.",
+    "meditatio_perguntas": [
+      "Como leio as minhas tribulações: como castigo, ou como caminho para o reino?",
+      "Deixo o juízo dos que me fazem mal nas mãos de Deus?",
+      "O nome de Jesus é glorificado na minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que virás para ser glorificado nos teus santos, faz-me digno da minha vocação. Dá-me paciência e fé nas tribulações e faz crescer em mim a caridade. Que o teu nome seja glorificado em mim, e eu em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "o nome de Nosso Senhor Jesus Cristo seja glorificado em vós, e vós nele",
+      "ref": "2Ts 1,12"
+    }
+  },
+  "ancoras": {
+    "1:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Longe da face do Senhor” ecoa Is 2,10; a pena essencial é a perda de Deus, que a teologia chamará pena de dano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
