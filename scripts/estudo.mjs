@@ -16,7 +16,7 @@ const DATA = join(ROOT, 'docs', 'data');
 const EST = join(DATA, 'estudo');
 const json = async (p) => JSON.parse(await readFile(p, 'utf8'));
 
-const ABBR = { MAT: 'Mt', MRK: 'Mc', LUK: 'Lc', JHN: 'Jo' };
+const ABBR = Object.fromEntries((await json(join(DATA, 'index.json'))).books.map((b) => [b.id, b.abbrev]));
 const cmp = (a, b) => a.c - b.c || a.v - b.v;
 const fmt = (id, ini, fim) =>
   `${ABBR[id] || id} ${ini.c},${ini.v}` + (cmp(ini, fim) === 0 ? '' : ini.c === fim.c ? `-${fim.v}` : `–${fim.c},${fim.v}`);

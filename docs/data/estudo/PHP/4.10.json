@@ -1,0 +1,57 @@
+{
+  "id": "PHP.4.10",
+  "livro": "PHP",
+  "titulo": "Tudo posso naquele que me conforta",
+  "secao": "Alegria e gratidão",
+  "referencia": "Fl 4,10-23",
+  "ini": {
+    "c": 4,
+    "v": 10
+  },
+  "fim": {
+    "c": 4,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Tudo posso naquele que me conforta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo alegra-se muito no Senhor porque os filipenses voltaram a mostrar a sua solicitude por ele; já a tinham, faltava-lhes ocasião. Não fala por necessidade: aprendeu a contentar-se com o que tem. Sabe viver na pobreza e na abundância, está habituado a tudo: à fartura e à fome, à abundância e à privação. “Tudo posso naquele que me conforta.” Ainda assim fizeram bem em partilhar a sua tribulação. Lembra que, no início da evangelização, só eles abriram com ele uma conta de dar e receber, e até em Tessalônica lhe enviaram auxílio duas vezes. Não busca o dom, mas o fruto que aumenta na conta deles diante de Deus. Agora tem tudo em abundância: o que recebeu por Epafrodito é perfume suave, sacrifício agradável a Deus. O seu Deus suprirá todas as necessidades deles segundo a sua riqueza em glória. Seguem a doxologia e as saudações, incluindo as dos da casa de César.",
+    "alegorico": "A oferta dos filipenses, chamada “perfume de suavidade” e “sacrifício agradável”, é linguagem do culto do Templo: a caridade fraterna torna-se liturgia, oferenda a Deus no irmão necessitado. Os “santos da casa de César” mostram o Evangelho a penetrar no coração do Império: a Igreja é fermento até no palácio.",
+    "moral": "Paulo ensina o segredo do contentamento: liberdade interior diante da abundância e da privação. A força não vem de si: “tudo posso naquele que me conforta”. Ensina também a gratidão delicada, que reconhece o dom sem se tornar dependente dele, e mostra que dar é investir “na conta diante de Deus”. Quem dá ao pobre faz um sacrifício agradável ao Senhor.",
+    "anagogico": "Deus suprirá todas as necessidades “segundo as suas riquezas, com glória”: promessa que se cumpre plenamente na glória futura. O fruto acumulado “à vossa conta” é tesouro no céu; e a doxologia final, “por todos os séculos dos séculos”, dá o tom eterno da vida cristã."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aprendi a contentar-me com o que tenho. Sei viver nas privações, sei também viver na abundância. Tudo posso naquele que me conforta. Recebi o que me mandastes, como perfume de suavidade, como sacrifício aceite e agradável a Deus. O meu Deus cumpra todos os vossos desejos, conforme as suas riquezas, com glória, em Cristo Jesus.",
+    "meditatio_perguntas": [
+      "Sei contentar-me com o que tenho, ou vivo sempre ansioso por mais?",
+      "Em que dificuldade concreta preciso dizer: “tudo posso naquele que me conforta”?",
+      "Minha generosidade para com os outros é, de fato, uma oferenda a Deus?"
+    ],
+    "oratio_guia": "Senhor, que és a minha força, ensina-me a contentar-me na abundância e na privação. Tudo posso em ti que me confortas. Faz da minha partilha com os irmãos um perfume agradável a ti, e supre todas as minhas necessidades segundo a tua riqueza em glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo posso naquele que me conforta.",
+      "ref": "Fl 4,13"
+    }
+  },
+  "ancoras": {
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Conta de deve e haver” é linguagem comercial: Paulo, que recusava sustento de outras igrejas para não ser peso (1Cor 9), aceitava o dos filipenses, sinal de especial confiança.",
+        "origem": "ia"
+      }
+    },
+    "4:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “casa de César” designa os servidores e libertos imperiais, não necessariamente a família do imperador: o Evangelho já chegara aos funcionários do palácio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

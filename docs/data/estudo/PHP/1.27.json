@@ -1,0 +1,49 @@
+{
+  "id": "PHP.1.27",
+  "livro": "PHP",
+  "titulo": "Lutar unânimes pela fé, na humildade",
+  "secao": "Exortações à comunidade",
+  "referencia": "Fl 1,27–2,4",
+  "ini": {
+    "c": 1,
+    "v": 27
+  },
+  "fim": {
+    "c": 2,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Uma só alma: lutar pela fé na humildade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta os filipenses a viver de modo digno do Evangelho de Cristo, quer ele vá vê-los, quer não: firmes num mesmo espírito, lutando unânimes pela fé, sem medo dos adversários. Essa coragem é para os inimigos sinal de perdição e para eles sinal de salvação, vinda de Deus. Pois lhes foi dada a graça não só de crer em Cristo, mas também de sofrer por Ele, travando o mesmo combate que viram em Paulo. Por isso, se há alguma consolação em Cristo, algum conforto da caridade, alguma comunhão no Espírito, alguma ternura e compaixão, completem a alegria do Apóstolo: tenham o mesmo pensar, a mesma caridade, uma só alma, um mesmo sentimento. Nada façam por rivalidade ou vanglória; pela humildade, considere cada um os outros superiores a si, sem olhar só aos seus interesses, mas também aos dos outros.",
+    "alegorico": "A comunidade unânime que luta pela fé é figura da Igreja militante, um só corpo animado por um só Espírito. A “comunhão do Espírito” e a “uma só alma” evocam a primeira comunidade de Jerusalém, que tinha “um só coração e uma só alma”. Sofrer por Cristo é apresentado como graça: participar da sua Paixão é já participar do seu mistério.",
+    "moral": "A unidade cristã nasce da humildade: considerar os outros superiores a si e cuidar dos interesses alheios. O espírito de partido e a vanglória destroem a comunidade mais que os inimigos de fora. O sofrimento por Cristo não é castigo, mas dom (“vos é dada a graça... de sofrer por ele”), e a firmeza serena diante dos adversários é testemunho da fé.",
+    "anagogico": "A coragem dos fiéis é “sinal de salvação”: aponta para a vitória final de Deus. A unidade de uma só alma, ainda frágil na terra, antecipa a comunhão perfeita dos santos no céu, onde já não haverá rivalidade nem vanglória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Portai-vos de um modo digno do Evangelho de Cristo. A vós vos é dada a graça, não só de crer nele, mas também de sofrer por ele. Tornai completo o meu gozo, tendo todos o mesmo pensar, a mesma caridade, uma só alma. Cada um, por humildade, considere os outros superiores a si.",
+    "meditatio_perguntas": [
+      "Minha vida é “digna do Evangelho” também quando ninguém me observa?",
+      "Consigo ver o sofrimento por Cristo como graça, e não apenas como peso?",
+      "Em que relação concreta preciso considerar o outro superior a mim e cuidar do seu interesse?"
+    ],
+    "oratio_guia": "Senhor, dá-me viver de modo digno do teu Evangelho. Livra-me da vanglória e do espírito de partido; dá-me a humildade de considerar os irmãos superiores a mim e o desejo de servir aos seus interesses. Faz da tua Igreja uma só alma. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cada um, por humildade, considere os outros superiores a si.",
+      "ref": "Fl 2,3"
+    }
+  },
+  "ancoras": {
+    "1:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Portai-vos” traduz politeúesthe, “vivei como cidadãos”: imagem cara a uma colônia romana orgulhosa da sua cidadania; Paulo retomará a ideia em 3,20.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

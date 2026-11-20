@@ -1,0 +1,57 @@
+{
+  "id": "PHP.3.1",
+  "livro": "PHP",
+  "titulo": "Tudo por perda para ganhar a Cristo",
+  "secao": "Ganhar a Cristo",
+  "referencia": "Fl 3,1-16",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Ganhar a Cristo e o poder da sua ressurreição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo convida a alegrar-se no Senhor e adverte contra os “cães”, maus operários que exigem a circuncisão. Os verdadeiros circuncidados são os que servem a Deus em espírito, se gloriam em Cristo e não confiam na carne. Ele próprio teria motivos de confiar na carne: circuncidado ao oitavo dia, israelita da tribo de Benjamim, hebreu filho de hebreus, fariseu, perseguidor da Igreja por zelo, irrepreensível quanto à justiça da lei. Mas o que era lucro considerou perda por Cristo; mais: tudo considera perda e esterco diante do conhecimento de Cristo, para ganhá-lo e ser encontrado nele, com a justiça que vem de Deus pela fé. Quer conhecê-lo, e o poder da sua ressurreição, e a comunhão nos seus sofrimentos, para chegar à ressurreição dos mortos. Não se julga perfeito: esquecendo o que fica atrás, lança-se para a meta, o prêmio da vocação celeste.",
+    "alegorico": "A verdadeira circuncisão é a do coração, realizada pelo Espírito no Batismo: Israel segundo a carne cede lugar ao Israel de Deus, a Igreja. A corrida de Paulo para a meta é figura da peregrinação da Igreja, que avança entre a Páscoa já vivida e a ressurreição ainda esperada, conformando-se à morte de Cristo para participar da sua glória.",
+    "moral": "Nenhum privilégio de nascimento, de observância ou de virtude própria pode substituir a graça. A justiça vem de Deus pela fé e frutifica em obras; quem se gloria em si mesmo perde a Cristo. A vida cristã é corrida: não se deve parar no que já se fez, nem se paralisar pelo passado, mas esquecer o que fica atrás e avançar. Conhecer a Cristo é o maior bem, diante do qual tudo o mais é perda.",
+    "anagogico": "O “prêmio da celeste vocação” é a ressurreição gloriosa. Paulo une o conhecer o poder da ressurreição com a participação nos sofrimentos: a cruz é o caminho para a glória, e a meta não está nesta vida, mas na plenitude futura em Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aquelas coisas que eu considerara como lucro, considerei-as como perdas por amor de Cristo. Tudo isso tenho por perda, perante o eminente conhecimento de Jesus Cristo, meu Senhor. A fim de o conhecer a ele e a virtude da sua ressurreição e a participação dos seus sofrimentos. Esquecendo-me do que fica para trás e avançando para as coisas que estão adiante, prossigo para a meta.",
+    "meditatio_perguntas": [
+      "O que considero “lucro” na minha vida e que talvez precise ter por perda diante de Cristo?",
+      "Desejo conhecer a Cristo também na participação dos seus sofrimentos?",
+      "O que do meu passado (culpa ou glória) preciso esquecer para avançar?"
+    ],
+    "oratio_guia": "Senhor Jesus, que eu te conheça e te ganhe, e tudo o mais tenha por perda. Dá-me a justiça que vem de Deus pela fé, o poder da tua ressurreição e a comunhão nos teus sofrimentos. Faz-me esquecer o que fica atrás e correr para a meta da vocação celeste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esquecendo-me do que fica para trás e avançando para as coisas que estão adiante, prossigo para a meta.",
+      "ref": "Fl 3,13-14"
+    }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cães” era insulto judaico contra os pagãos; Paulo o inverte contra os judaizantes. “Mutilados” (katatomé) faz trocadilho com “circuncisão” (peritomé).",
+        "origem": "ia"
+      }
+    },
+    "3:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “justiça que vem de Deus pela fé” não exclui as obras: o Concílio de Trento ensina que a justificação é gratuita, e que a fé viva opera pela caridade e cresce pelas boas obras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

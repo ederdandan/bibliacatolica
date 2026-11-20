@@ -1,0 +1,65 @@
+{
+  "id": "PHP.2.5",
+  "livro": "PHP",
+  "titulo": "O hino de Cristo: aniquilou-se e foi exaltado",
+  "secao": "Exortações à comunidade",
+  "referencia": "Fl 2,5-11",
+  "ini": {
+    "c": 2,
+    "v": 5
+  },
+  "fim": {
+    "c": 2,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Aniquilou-se a si mesmo, por isso Deus o exaltou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que os filipenses tenham entre si os mesmos sentimentos de Cristo Jesus, e cita um hino. Ele, existindo na forma de Deus, não considerou a igualdade com Deus como algo a reter avidamente, mas aniquilou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens e reconhecido em tudo como homem. Humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. Por isso Deus o exaltou e lhe deu o nome que está acima de todo nome, para que ao nome de Jesus se dobre todo joelho, no céu, na terra e debaixo da terra, e toda língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. O hino desce da glória divina à cruz e sobe da cruz à exaltação universal.",
+    "alegorico": "O hino é o resumo de todo o mistério de Cristo: preexistência divina, Encarnação (“tomando a forma de servo”), Paixão (“morte de cruz”), Ressurreição e Ascensão (“Deus o exaltou”). Cristo é o novo Adão: o primeiro quis ser como Deus por usurpação e caiu; o segundo, sendo Deus, desceu pela obediência e foi exaltado. O “nome acima de todo nome” é o nome divino de Senhor (Kýrios), dado a Jesus em sua humanidade glorificada.",
+    "moral": "O hino é dado como modelo de vida: “tende os mesmos sentimentos”. A humildade cristã não é fraqueza, mas o caminho que o próprio Deus escolheu. Quem se agarra aos próprios direitos e aparências se afasta de Cristo; quem se abaixa para servir e obedece até o fim participa da sua exaltação. A obediência de Cristo cura a desobediência de Adão.",
+    "anagogico": "Todo joelho se dobrará e toda língua confessará: o hino contempla a consumação, quando toda a criação, no céu, na terra e nos infernos, reconhecerá o senhorio de Cristo. A Igreja antecipa esse dia em cada liturgia, dobrando o joelho diante do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tende entre vós os mesmos sentimentos que se deve ter em Jesus Cristo. Aniquilou-se a si mesmo, tomando a forma de servo. Humilhou-se a si mesmo, fazendo-se obediente até à morte, e morte da cruz. Por isso também Deus o exaltou e lhe deu um nome que está acima de todo o nome.",
+    "meditatio_perguntas": [
+      "A que “direitos” ou aparências me agarro, que me impedem de servir?",
+      "Contemplo a humildade de Deus que se fez servo? O que ela muda no meu modo de tratar os outros?",
+      "Como confesso, com a vida e com a boca, que Jesus Cristo é o Senhor?"
+    ],
+    "oratio_guia": "Senhor Jesus, que sendo Deus te fizeste servo e obediente até a morte de cruz, dá-me os teus sentimentos. Ensina-me a descer para servir e a obedecer por amor. Diante do teu nome dobro o joelho e confesso: Tu és o Senhor, para glória do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Humilhou-se a si mesmo, fazendo-se obediente até à morte, e morte da cruz.",
+      "ref": "Fl 2,8"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Forma” (morphé) indica a natureza real, não uma aparência: Cristo é verdadeiro Deus. O texto foi decisivo nas controvérsias cristológicas para afirmar as duas naturezas.",
+        "origem": "ia"
+      }
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Aniquilou-se” (ekénōsen, “esvaziou-se”): daí o termo teológico kénosis. Não perdeu a divindade, mas ocultou a sua glória assumindo a condição de servo.",
+        "origem": "ia"
+      }
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco de Is 45,23, onde o próprio Deus diz: “diante de mim se dobrará todo joelho”. Paulo aplica a Jesus o que o profeta diz de YHWH. O gesto de genuflexão no Credo e na liturgia ecoa este versículo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

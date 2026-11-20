@@ -1,0 +1,17 @@
+# Divisão de Filipenses em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Saudação e ação de graças
+1:1-1:11 | Saudação e oração pelos filipenses
+## Notícias do Apóstolo
+1:12-1:26 | Para mim o viver é Cristo
+## Exortações à comunidade
+1:27-2:4 | Lutar unânimes pela fé, na humildade
+2:5-2:11 | O hino de Cristo: aniquilou-se e foi exaltado
+2:12-2:18 | Trabalhai na vossa salvação
+2:19-2:30 | Timóteo e Epafrodito
+## Ganhar a Cristo
+3:1-3:16 | Tudo por perda para ganhar a Cristo
+3:17-4:1 | Somos cidadãos dos céus
+## Alegria e gratidão
+4:2-4:9 | Alegrai-vos sempre no Senhor
+4:10-4:23 | Tudo posso naquele que me conforta

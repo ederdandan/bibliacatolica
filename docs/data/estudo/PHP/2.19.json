@@ -1,0 +1,49 @@
+{
+  "id": "PHP.2.19",
+  "livro": "PHP",
+  "titulo": "Timóteo e Epafrodito",
+  "secao": "Exortações à comunidade",
+  "referencia": "Fl 2,19-30",
+  "ini": {
+    "c": 2,
+    "v": 19
+  },
+  "fim": {
+    "c": 2,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Servidores do Evangelho: Timóteo e Epafrodito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo espera enviar logo Timóteo, para ter notícias deles e ser reconfortado. Não tem ninguém de sentimentos iguais que se preocupe tão sinceramente com eles, pois todos buscam os seus próprios interesses, não os de Jesus Cristo. Timóteo é de virtude provada: como filho com o pai, serviu com ele ao Evangelho. Enviá-lo-á logo que veja como vão as suas coisas, e confia no Senhor que ele próprio irá em breve. Entretanto, julgou necessário mandar-lhes Epafrodito, irmão, colaborador e companheiro de luta, enviado deles para socorrê-lo. Epafrodito estava ansioso por vê-los e aflito porque souberam da sua doença. Esteve às portas da morte, mas Deus teve compaixão dele e de Paulo. Recebam-no com toda a alegria no Senhor e honrem pessoas assim, que arriscaram a vida pelo serviço de Cristo.",
+    "alegorico": "Timóteo e Epafrodito são retratos do verdadeiro discípulo: um “filho” que serve com o pai ao Evangelho, outro que arrisca a vida pelo serviço. Neles se vê o hino de Cristo encarnado na vida cotidiana: não buscar os próprios interesses, mas os de Jesus Cristo, e fazer-se servo até as portas da morte.",
+    "moral": "Paulo denuncia a tentação permanente: “todos buscam os seus próprios interesses”. O antídoto é a dedicação sincera, o cuidado concreto com os outros. Ensina também a honrar e agradecer os que servem humildemente, e a não ter vergonha de reconhecer a tristeza: até o Apóstolo teme ter “tristeza sobre tristeza” e acolhe a misericórdia de Deus na cura de um amigo.",
+    "anagogico": "A dedicação dos que arriscam a vida pela obra de Cristo será honrada por Deus no seu dia. As alegrias do reencontro, desejadas por Paulo e pelos filipenses, são figura do reencontro definitivo dos que se amaram no Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não tenho ninguém como ele, que se interesse por vós sinceramente. Todos buscam os seus próprios interesses, e não os que são de Jesus Cristo. Como um filho com o pai, serviu comigo o Evangelho. Recebei-o com todo o gênero de alegria no Senhor.",
+    "meditatio_perguntas": [
+      "Busco os interesses de Jesus Cristo ou os meus próprios, mesmo nas coisas de Deus?",
+      "Quem na minha vida serve com dedicação silenciosa e merece minha gratidão e honra?",
+      "Reconheço a misericórdia de Deus nas curas e consolações recebidas?"
+    ],
+    "oratio_guia": "Senhor, dá à tua Igreja servidores como Timóteo e Epafrodito, que busquem os teus interesses e não os próprios. Livra-me do egoísmo, mesmo disfarçado de zelo, e faz-me reconhecer e honrar os que servem com fidelidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todos buscam os seus próprios interesses, e não os que são de Jesus Cristo.",
+      "ref": "Fl 2,21"
+    }
+  },
+  "ancoras": {
+    "2:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Epafrodito trouxera a Paulo a ajuda dos filipenses (4,18). Paulo chama-o “apóstolo” (enviado) deles e “liturgo” (servidor) da sua necessidade: o socorro material é visto como serviço sagrado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PHP.2.12",
+  "livro": "PHP",
+  "titulo": "Trabalhai na vossa salvação",
+  "secao": "Exortações à comunidade",
+  "referencia": "Fl 2,12-18",
+  "ini": {
+    "c": 2,
+    "v": 12
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Deus opera em vós o querer e o executar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Por isso, caríssimos, como sempre obedeceram, não só na presença de Paulo mas sobretudo agora na sua ausência, trabalhem pela sua salvação com temor e tremor, pois é Deus quem neles opera o querer e o executar, segundo o seu beneplácito. Façam tudo sem murmurações nem contestações, para serem irrepreensíveis e puros, filhos de Deus sem mancha no meio de uma geração depravada e corrompida, onde brilham como astros no mundo, conservando a palavra da vida. Assim Paulo poderá gloriar-se, no dia de Cristo, de não ter corrido nem trabalhado em vão. E ainda que o seu sangue deva ser derramado em libação sobre o sacrifício e a oferenda da fé deles, alegra-se e congratula-se com todos; e pede que eles também se alegrem com ele.",
+    "alegorico": "Os fiéis que “brilham como astros” no meio de uma geração corrompida são figura da Igreja, luz do mundo, que reflete a luz de Cristo como os astros refletem a do sol. O sangue do Apóstolo derramado em libação sobre o sacrifício da fé evoca a liturgia: a vida cristã é oferenda, e o martírio a completa, unido ao sacrifício de Cristo.",
+    "moral": "Graça e liberdade cooperam: “trabalhai na vossa salvação” e “Deus é o que opera em vós o querer e o executar”. Não há lugar para a presunção, porque tudo é dom; nem para a preguiça, porque o dom pede resposta. O “temor e tremor” não é medo servil, mas a reverência de quem sabe o que está em jogo. A murmuração, tão comum, apaga a luz do testemunho.",
+    "anagogico": "O “dia de Cristo” é o horizonte do trabalho apostólico: só então se verá que não se correu em vão. A palavra da vida, conservada agora, florescerá na vida eterna; e a alegria partilhada do Apóstolo e da comunidade antecipa a alegria do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Trabalhai na vossa salvação com temor e tremor. Porque Deus é o que opera em vós o querer e o executar, segundo o seu beneplácito. Fazei todas as coisas sem murmuração. Brilhais como astros do mundo, conservando a palavra de vida.",
+    "meditatio_perguntas": [
+      "Confio que Deus opera em mim o querer e o executar, ou ajo como se tudo dependesse só de mim?",
+      "Onde a murmuração tem apagado a minha luz?",
+      "Minha vida brilha como astro no ambiente onde vivo?"
+    ],
+    "oratio_guia": "Deus da graça, que operas em mim o querer e o executar, dá-me cooperar com reverência e confiança. Tira dos meus lábios a murmuração e faz-me brilhar como luz no mundo, guardando a tua palavra de vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é o que opera em vós o querer e o executar, segundo o seu beneplácito.",
+      "ref": "Fl 2,13"
+    }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo central na doutrina católica da graça (Concílio de Orange, 529; Trento, sessão VI): a graça precede e sustenta a liberdade sem anulá-la.",
+        "origem": "ia"
+      }
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Libação: vinho derramado sobre o sacrifício no culto antigo. Paulo vê a sua possível morte como oferenda que completa o sacrifício da fé dos filipenses.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PHP.1.1",
+  "livro": "PHP",
+  "titulo": "Saudação e oração pelos filipenses",
+  "secao": "Saudação e ação de graças",
+  "referencia": "Fl 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Aquele que começou em vós a boa obra a completará",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo e Timóteo, “servos de Jesus Cristo”, saúdam todos os santos de Filipos, com os bispos e diáconos, desejando-lhes graça e paz. Paulo dá graças a Deus cada vez que se lembra deles e reza sempre com alegria, por causa da parte que tomaram no Evangelho desde o primeiro dia: foi a primeira comunidade que fundou na Europa, e a que mais de perto o sustentou. Está certo de que Deus, que começou neles a boa obra, a levará a termo até o dia de Cristo. Tem-nos no coração, porque participam da sua graça tanto nas cadeias como na defesa do Evangelho, e ama-os “com a ternura de Jesus Cristo”. Pede que a caridade deles cresça em conhecimento e discernimento, para escolherem o melhor e chegarem puros e irrepreensíveis ao dia de Cristo, cheios de frutos de justiça, para glória de Deus.",
+    "alegorico": "A comunidade de Filipos, com os seus bispos e diáconos, é imagem da Igreja inteira: um corpo de “santos” ordenado em ministérios e unido na comunhão do Evangelho. A “boa obra” que Deus começa e completa é a própria vida da graça, semeada no Batismo e levada à plenitude no dia de Cristo. O Apóstolo encadeado que ama “com a ternura de Jesus Cristo” é figura do próprio Cristo, que ama a sua Igreja a partir da cruz e nela derrama o seu Coração.",
+    "moral": "A oração de Paulo ensina a rezar pelos outros com alegria e gratidão, não só com pedidos. O amor verdadeiro não é cego: deve crescer em “compreensão e plena inteligência”, para saber distinguir o melhor. A confiança cristã não se apoia nas próprias forças, mas na fidelidade de Deus, que não abandona a obra que começou. Quem tem os irmãos no coração reza por eles nominalmente e participa das suas lutas.",
+    "anagogico": "Tudo se orienta para “o dia de Cristo”: a obra da graça só estará completa quando Ele vier. A vida presente é o tempo em que os frutos de justiça amadurecem, para serem apresentados “para glória e louvor de Deus” na consumação final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dou graças ao meu Deus todas as vezes que me lembro de vós. Aquele que começou em vós a boa obra a completará até ao dia de Jesus Cristo. Vos tenho no coração. Peço que a vossa caridade cresça mais e mais em compreensão, para que possais distinguir o melhor.",
+    "meditatio_perguntas": [
+      "Por quem eu dou graças a Deus, e não só peço?",
+      "Confio que Deus completará a obra que começou em mim, mesmo quando vejo pouco progresso?",
+      "Minha caridade cresce também em discernimento, sabendo escolher o melhor?"
+    ],
+    "oratio_guia": "Pai fiel, que começaste em mim a boa obra, leva-a a termo até o dia de Cristo. Faz crescer o meu amor em luz e discernimento, para que eu escolha sempre o melhor e dê frutos de justiça para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele, que começou em vós a boa obra, a completará até ao dia de Jesus Cristo.",
+      "ref": "Fl 1,6"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Filipos, colônia romana na Macedônia, foi a primeira igreja fundada por Paulo na Europa (At 16). “Bispos e diáconos” é das mais antigas menções desses ministérios; aqui “bispos” (epískopoi) designa ainda os presbíteros-supervisores da comunidade.",
+        "origem": "ia"
+      }
+    },
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Literalmente “nas entranhas (splánchna) de Cristo Jesus”: Paulo ama os filipenses com o próprio afeto de Cristo, que vive nele.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

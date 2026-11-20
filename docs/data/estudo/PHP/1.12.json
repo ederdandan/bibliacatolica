@@ -1,0 +1,57 @@
+{
+  "id": "PHP.1.12",
+  "livro": "PHP",
+  "titulo": "Para mim o viver é Cristo",
+  "secao": "Notícias do Apóstolo",
+  "referencia": "Fl 1,12-26",
+  "ini": {
+    "c": 1,
+    "v": 12
+  },
+  "fim": {
+    "c": 1,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Para mim o viver é Cristo, e morrer é um lucro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, preso, quer que os filipenses saibam que as suas cadeias serviram ao progresso do Evangelho: tornou-se conhecido em todo o Pretório que está preso por causa de Cristo, e muitos irmãos, encorajados, anunciam a palavra com mais ousadia. Alguns pregam por inveja e rivalidade, querendo agravar-lhe a prisão; outros, por amor. Que importa? Contanto que Cristo seja anunciado, ele se alegra. Espera, pela oração deles e pelo auxílio do Espírito de Jesus Cristo, que Cristo seja glorificado no seu corpo, pela vida ou pela morte. “Para mim o viver é Cristo, e morrer é um lucro.” Está dividido: deseja partir para estar com Cristo, o que é muito melhor, mas permanecer na carne é mais necessário por causa deles. Por isso está persuadido de que ficará, para o progresso e a alegria da fé deles.",
+    "alegorico": "As cadeias do Apóstolo que fazem avançar o Evangelho são figura da cruz de Cristo: o que parece derrota torna-se fonte de difusão da Palavra. A Igreja, como Paulo, cresce na perseguição; os laços dos mártires abrem caminho para a fé. E o “estar com Cristo” logo depois da morte revela que a comunhão com Ele não é interrompida pela morte, mas consumada.",
+    "moral": "Paulo ensina a desprender-se de si mesmo: não importa quem receba o mérito, contanto que Cristo seja anunciado. A inveja e o espírito de partido existem até entre pregadores; a resposta não é a amargura, mas a alegria pelo bem que se faz. Ensina também a viver de modo que Cristo seja glorificado “quer na vida, quer na morte”, e a preferir o bem dos irmãos ao próprio desejo, mesmo santo.",
+    "anagogico": "Morrer é lucro porque é “partir para estar com Cristo”. A morte do justo não é o fim, mas a passagem para a comunhão imediata com o Senhor, “incomparavelmente melhor” que tudo o que a vida terrena oferece, à espera da ressurreição do corpo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "As minhas cadeias por amor de Cristo tornaram-se conhecidas. Contanto que Cristo seja anunciado, não só nisto me alegro, mas me alegrarei. Para mim o viver é Cristo, e morrer é um lucro. Tenho o desejo de partir para estar com Cristo, o que é incomparavelmente melhor, mas o permanecer na carne é preferível por amor de vós.",
+    "meditatio_perguntas": [
+      "Posso dizer com sinceridade: “para mim o viver é Cristo”? O que ocupa esse lugar na minha vida?",
+      "Alegro-me quando outros fazem o bem, mesmo que eu não receba o mérito?",
+      "Como olho para a minha própria morte: com medo ou com esperança de estar com Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, sê Tu a minha vida, para que a morte seja para mim um lucro. Livra-me da inveja e do espírito de partido; que eu me alegre sempre que fores anunciado. Seja glorificado em meu corpo, na vida e na morte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Para mim o viver é Cristo, e morrer é um lucro.",
+      "ref": "Fl 1,21"
+    }
+  },
+  "ancoras": {
+    "1:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “Pretório” é a guarda pretoriana ou a sede do governo; a carta foi escrita na prisão, provavelmente em Roma (c. 61–62), ou, segundo outros, em Éfeso.",
+        "origem": "ia"
+      }
+    },
+    "1:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto clássico para a doutrina de que a alma do justo, purificada, goza da presença de Cristo logo após a morte, sem esperar o juízo final (cf. Bento XII, Benedictus Deus).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

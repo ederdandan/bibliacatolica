@@ -1,0 +1,57 @@
+{
+  "id": "PHP.4.2",
+  "livro": "PHP",
+  "titulo": "Alegrai-vos sempre no Senhor",
+  "secao": "Alegria e gratidão",
+  "referencia": "Fl 4,2-9",
+  "ini": {
+    "c": 4,
+    "v": 2
+  },
+  "fim": {
+    "c": 4,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Alegrai-vos sempre no Senhor; o Senhor está perto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo roga a Evódia e a Síntique que tenham o mesmo sentimento no Senhor, e pede ao seu fiel companheiro que as ajude, pois lutaram com ele pelo Evangelho, com Clemente e os outros colaboradores, cujos nomes estão no livro da vida. Depois exorta: “Alegrai-vos sempre no Senhor; outra vez digo, alegrai-vos.” Que a bondade deles seja conhecida de todos; o Senhor está perto. Não se inquietem com nada, mas em tudo apresentem a Deus as suas necessidades com orações e súplicas acompanhadas de ação de graças; e a paz de Deus, que supera todo entendimento, guardará os seus corações e pensamentos em Cristo Jesus. Enfim, ocupem o pensamento com tudo o que é verdadeiro, digno, justo, santo, amável, de boa fama, virtuoso e louvável; e pratiquem o que aprenderam e viram em Paulo, e o Deus da paz estará com eles.",
+    "alegorico": "A alegria “no Senhor” é fruto do Espírito e marca da Igreja que vive na presença de Cristo: “o Senhor está perto”. A paz de Deus que “guarda” os corações, como sentinela, é imagem de Cristo que protege a sua Igreja. As duas mulheres reconciliadas mostram que a comunhão eclesial se constrói em cada relação concreta.",
+    "moral": "A ansiedade combate-se com a oração confiante e agradecida, não com o esforço de controlar tudo. A alegria cristã é mandamento possível porque se apoia no Senhor, não nas circunstâncias. O texto propõe uma higiene do pensamento: ocupar a mente com o verdadeiro, o justo, o belo. A reconciliação entre irmãos é parte da vida espiritual, e a mansidão deve ser visível a todos.",
+    "anagogico": "“O Senhor está perto”: perto na presença e perto na vinda. A alegria que Paulo pede é antecipação da alegria eterna; a paz que supera todo entendimento é o penhor da paz definitiva do Reino. Os nomes escritos “no livro da vida” lembram a esperança da salvação final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos. O Senhor está perto. Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à ação de graças. E a paz de Deus, que está acima de todo o entendimento, guarde os vossos corações.",
+    "meditatio_perguntas": [
+      "Onde a minha alegria depende das circunstâncias e não do Senhor?",
+      "Que inquietação preciso entregar hoje a Deus em oração, com ação de graças?",
+      "Com que pensamentos ocupo habitualmente a minha mente?"
+    ],
+    "oratio_guia": "Senhor, que estás perto, dá-me alegrar-me sempre em ti. Entrego-te as minhas inquietações com súplica e ação de graças; guarda o meu coração com a tua paz, que supera todo entendimento. Reconcilia-me com os irmãos e ocupa a minha mente com o que é verdadeiro e santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos.",
+      "ref": "Fl 4,4"
+    }
+  },
+  "ancoras": {
+    "4:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata: Gaudete in Domino semper. É a antífona de entrada do 3º Domingo do Advento, chamado por isso “Domingo Gaudete”.",
+        "origem": "ia"
+      }
+    },
+    "4:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “livro da vida” é imagem bíblica do registro dos que pertencem a Deus (Ex 32,32; Ap 3,5). Clemente foi identificado por alguns antigos com Clemente de Roma, mas a identificação é incerta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

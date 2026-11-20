@@ -1,0 +1,49 @@
+{
+  "id": "PHP.3.17",
+  "livro": "PHP",
+  "titulo": "Somos cidadãos dos céus",
+  "secao": "Ganhar a Cristo",
+  "referencia": "Fl 3,17–4,1",
+  "ini": {
+    "c": 3,
+    "v": 17
+  },
+  "fim": {
+    "c": 4,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Somos cidadãos dos céus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo convida os filipenses a imitá-lo e a observar os que vivem segundo o exemplo que têm nele. Pois muitos, de quem falou frequentemente e agora fala com lágrimas, vivem como inimigos da cruz de Cristo: o seu fim é a perdição, o seu deus é o ventre, a sua glória está naquilo que é a sua vergonha, e só pensam nas coisas da terra. “Nós, porém, somos cidadãos dos céus”, de onde esperamos como Salvador o Senhor Jesus Cristo, que transformará o nosso corpo miserável, tornando-o semelhante ao seu corpo glorioso, pelo poder com que pode submeter a si todas as coisas. Por isso, irmãos amados e desejados, alegria e coroa do Apóstolo, permaneçam firmes no Senhor.",
+    "alegorico": "A “cidadania” celeste, num povo orgulhoso de ser colônia romana, mostra a Igreja como colônia do céu na terra: vive aqui, mas pertence a outra pátria e obedece a outro Senhor. O corpo glorioso de Cristo ressuscitado é o modelo do que a Igreja inteira, seu corpo, será no fim.",
+    "moral": "O Apóstolo chora pelos que vivem como inimigos da cruz, escravos do ventre e das coisas terrenas. A vida cristã pede o seguimento de bons exemplos e a coragem de ser exemplo. Quem sabe que sua pátria está nos céus usa as coisas da terra sem se deixar dominar por elas, e permanece firme quando o mundo o arrasta.",
+    "anagogico": "Este é um dos textos mais luminosos sobre a ressurreição da carne: Cristo “transformará o nosso corpo de miséria”, conformando-o ao seu corpo glorioso. A esperança cristã não é fuga do corpo, mas a sua glorificação, quando Cristo submeter a si todas as coisas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muitos procedem como inimigos da cruz de Cristo: o deus deles é o ventre. Nós, porém, somos cidadãos dos céus, donde também esperamos o Salvador, o Senhor Jesus Cristo, o qual transformará o nosso corpo de miséria, fazendo-o semelhante ao seu corpo glorioso. Permanecei assim firmes no Senhor.",
+    "meditatio_perguntas": [
+      "Em que pontos a minha vida trai a minha cidadania celeste?",
+      "Quem é exemplo para mim na fé, e para quem eu sou exemplo?",
+      "Como a esperança da ressurreição da carne muda o modo como trato o meu corpo e o dos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, Salvador que esperamos, guarda-me de ser inimigo da tua cruz. Faz-me viver como cidadão do céu e transforma um dia o meu corpo frágil à semelhança do teu corpo glorioso. Dá-me permanecer firme em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós, porém, somos cidadãos dos céus, donde também esperamos o Salvador, o Senhor Jesus Cristo.",
+      "ref": "Fl 3,20"
+    }
+  },
+  "ancoras": {
+    "3:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cidadania” (políteuma): os filipenses, como colônia romana, eram cidadãos de Roma vivendo longe dela. Os cristãos são, do mesmo modo, cidadãos do céu vivendo na terra (cf. Carta a Diogneto, 5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

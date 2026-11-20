@@ -1,0 +1,152 @@
+{
+ "livro": "PHP",
+ "secoes": [
+  "Saudação e ação de graças",
+  "Notícias do Apóstolo",
+  "Exortações à comunidade",
+  "Ganhar a Cristo",
+  "Alegria e gratidão"
+ ],
+ "pericopes": [
+  {
+   "id": "PHP.1.1",
+   "titulo": "Saudação e oração pelos filipenses",
+   "secao": "Saudação e ação de graças",
+   "referencia": "Fl 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "PHP.1.12",
+   "titulo": "Para mim o viver é Cristo",
+   "secao": "Notícias do Apóstolo",
+   "referencia": "Fl 1,12-26",
+   "ini": {
+    "c": 1,
+    "v": 12
+   },
+   "fim": {
+    "c": 1,
+    "v": 26
+   }
+  },
+  {
+   "id": "PHP.1.27",
+   "titulo": "Lutar unânimes pela fé, na humildade",
+   "secao": "Exortações à comunidade",
+   "referencia": "Fl 1,27–2,4",
+   "ini": {
+    "c": 1,
+    "v": 27
+   },
+   "fim": {
+    "c": 2,
+    "v": 4
+   }
+  },
+  {
+   "id": "PHP.2.5",
+   "titulo": "O hino de Cristo: aniquilou-se e foi exaltado",
+   "secao": "Exortações à comunidade",
+   "referencia": "Fl 2,5-11",
+   "ini": {
+    "c": 2,
+    "v": 5
+   },
+   "fim": {
+    "c": 2,
+    "v": 11
+   }
+  },
+  {
+   "id": "PHP.2.12",
+   "titulo": "Trabalhai na vossa salvação",
+   "secao": "Exortações à comunidade",
+   "referencia": "Fl 2,12-18",
+   "ini": {
+    "c": 2,
+    "v": 12
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "PHP.2.19",
+   "titulo": "Timóteo e Epafrodito",
+   "secao": "Exortações à comunidade",
+   "referencia": "Fl 2,19-30",
+   "ini": {
+    "c": 2,
+    "v": 19
+   },
+   "fim": {
+    "c": 2,
+    "v": 30
+   }
+  },
+  {
+   "id": "PHP.3.1",
+   "titulo": "Tudo por perda para ganhar a Cristo",
+   "secao": "Ganhar a Cristo",
+   "referencia": "Fl 3,1-16",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 16
+   }
+  },
+  {
+   "id": "PHP.3.17",
+   "titulo": "Somos cidadãos dos céus",
+   "secao": "Ganhar a Cristo",
+   "referencia": "Fl 3,17–4,1",
+   "ini": {
+    "c": 3,
+    "v": 17
+   },
+   "fim": {
+    "c": 4,
+    "v": 1
+   }
+  },
+  {
+   "id": "PHP.4.2",
+   "titulo": "Alegrai-vos sempre no Senhor",
+   "secao": "Alegria e gratidão",
+   "referencia": "Fl 4,2-9",
+   "ini": {
+    "c": 4,
+    "v": 2
+   },
+   "fim": {
+    "c": 4,
+    "v": 9
+   }
+  },
+  {
+   "id": "PHP.4.10",
+   "titulo": "Tudo posso naquele que me conforta",
+   "secao": "Alegria e gratidão",
+   "referencia": "Fl 4,10-23",
+   "ini": {
+    "c": 4,
+    "v": 10
+   },
+   "fim": {
+    "c": 4,
+    "v": 23
+   }
+  }
+ ]
+}
