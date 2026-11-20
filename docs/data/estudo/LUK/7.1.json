@@ -1,0 +1,79 @@
+{
+  "id": "LUK.7.1",
+  "livro": "LUK",
+  "titulo": "A cura do servo do centurião",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 7,1-10",
+  "ini": { "c": 7, "v": 1 },
+  "fim": { "c": 7, "v": 10 },
+  "liturgia": { "tema_central": "“Não sou digno… mas diz uma só palavra”: a fé de um pagão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em Cafarnaum, um centurião, oficial pagão, tem um servo muito querido à beira da morte. Envia anciãos dos judeus a pedir a Jesus que o cure; eles insistem que o homem merece, pois ama o povo e construiu a sinagoga. Jesus vai com eles. Perto da casa, o centurião manda amigos dizer: “Senhor, não te incomodes, porque eu não sou digno que entres sob o meu tecto… mas diz uma só palavra, e o meu servo será curado”. Explica que, ele próprio sob autoridade, sabe o que é mandar e ser obedecido. Jesus admira-se e diz à multidão: “Não encontrei tanta fé em Israel”. Os enviados encontram o servo curado. Em Lucas, o centurião nunca aparece em pessoa.",
+    "alegorico": "O centurião representa os gentios que creem, cuja fé é preferida à de Israel; o servo doente, o povo gentio escravizado pelas paixões e curado pela misericórdia do Senhor. Cristo cura à distância pela palavra, como hoje cura os que não o veem na carne, mas se aproximam dele pela fé.",
+    "moral": "Os anciãos alegam os méritos do centurião; ele confessa-se indigno: a humildade é a porta da fé. Mesmo poderoso, cuida de um servo. Não diz “roga”, mas “ordena”: reconhece em Jesus um poder divino. A admiração de Jesus convida-nos a admirar essa fé e a imitá-la. A Igreja repete as suas palavras antes da comunhão.",
+    "anagogico": "A fé do pagão anuncia a multidão dos povos que se sentará à mesa do Reino. A palavra que cura à distância é penhor da salvação que chega a todos os que creem sem ter visto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um centurião tinha doente, quase a morrer, um servo que lhe era muito querido. Enviou-lhe alguns anciães dos Judeus a pedir-lhe que viesse curar o seu servo. Jesus foi com eles. Quando estava já perto da casa, o centurião mandou-lhe amigos a dizer: “Senhor, não te incomodes, porque eu não sou digno que entres sob o meu tecto; mas diz uma só palavra, e o meu servo será curado”. Jesus, ao ouvir isto, ficou admirado, e disse: “Em verdade vos digo que não encontrei tanta fé em Israel”. Voltando para casa os que tinham sido enviados, encontraram curado o servo.",
+    "meditatio_perguntas": [
+      "Rezo pelos que dependem de mim com o mesmo cuidado do centurião pelo servo?",
+      "Aproximo-me da comunhão com a humildade e a fé destas palavras?",
+      "Confio que basta uma palavra de Jesus, mesmo quando não o vejo agir?"
+    ],
+    "oratio_guia": "Senhor, eu não sou digno de que entres em minha morada, mas diz uma só palavra e serei salvo. Dá-me a fé humilde do centurião e o seu amor pelos que me foram confiados; cura aqueles por quem te peço. Amém.",
+    "contemplatio_foco": { "texto": "diz uma só palavra, e o meu servo será curado", "ref": "Lc 7,7" }
+  },
+  "ancoras": {
+    "7:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "7:1–10#3", "sintese": "O centurião julgou que tais milagres não eram obra humana e enviou mensageiros a Jesus como a Deus." }
+      ],
+      "nota": null
+    },
+    "7:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "7:1–10#7", "sintese": "Os anciãos pedem o favor em troca do que ele gastou com a sinagoga; o Senhor vai por razão mais alta: suscitar a fé de todos." }
+      ],
+      "nota": { "texto": "O centurião era provavelmente um “temente a Deus”: pagão simpatizante do judaísmo, sem ter recebido a circuncisão.", "origem": "ia" }
+    },
+    "7:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:1–10#8", "sintese": "Vai logo, para não parecer desprezar a humilde condição de um servo; os judeus alegavam o mérito do centurião, ele confessa-se indigno." }
+      ],
+      "nota": null
+    },
+    "7:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:1–10#10", "sintese": "Envia amigos para não parecer constranger o Senhor ou reclamar retribuição pelos seus serviços." }
+      ],
+      "nota": null
+    },
+    "7:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 26 in Matth.", "catena": "7:1–10#11", "sintese": "Tinha opinião correta do Senhor: não diz “roga”, mas “ordena”." }
+      ],
+      "nota": null
+    },
+    "7:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:1–10#14", "sintese": "Quem lhe infundira a fé senão aquele que se admira? A admiração do Senhor ensina-nos a admirar." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:1–10#21", "sintese": "O centurião representa os eleitos dos gentios; nós, que não vemos o Senhor na carne, aproximamo-nos dele pela fé." }
+      ],
+      "nota": null
+    },
+    "7:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:1–10#20", "sintese": "O servo significa o povo gentio, escravizado e doente de paixões mortais, curado pela misericórdia do Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

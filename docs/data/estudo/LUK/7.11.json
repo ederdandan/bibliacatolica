@@ -1,0 +1,74 @@
+{
+  "id": "LUK.7.11",
+  "livro": "LUK",
+  "titulo": "O filho da viúva de Naim",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 7,11-17",
+  "ini": { "c": 7, "v": 11 },
+  "fim": { "c": 7, "v": 17 },
+  "liturgia": { "tema_central": "“Não chores”: a compaixão de Jesus vence a morte", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "À porta da cidade de Naim, o cortejo de Jesus cruza com um cortejo fúnebre: leva-se a sepultar o filho único de uma viúva. Sem marido nem filho, a mulher fica sem amparo. Jesus, movido de compaixão, diz-lhe: “Não chores”. Toca o esquife, os carregadores param, e ordena: “Jovem, eu te ordeno, levanta-te”. O morto senta-se, começa a falar, e Jesus entrega-o à mãe. Todos, cheios de temor, glorificam a Deus: “Um grande profeta apareceu entre nós; Deus visitou o seu povo”. Só Lucas narra este milagre, feito sem que ninguém o pedisse. É a primeira vez que Lucas chama Jesus de “o Senhor” na narração.",
+    "alegorico": "Elias ressuscitara o filho da viúva de Sarepta orando e chorando; Cristo ressuscita com uma palavra própria, como Senhor da vida. Ao tocar o esquife, mostra que a sua carne, unida ao Verbo, é vivificante, como o ferro aquecido faz a obra do fogo. A viúva que chora figura a Igreja, que pelas suas lágrimas obtém a ressurreição dos filhos mortos pelo pecado.",
+    "moral": "Jesus compadece-se antes de agir: dá exemplo de piedade a imitar. A sua compaixão vai a quem não pede. Se o teu pecado é tão grave que não podes lavá-lo com as tuas lágrimas, chore por ti a mãe Igreja; ressuscitarás e dirás palavras de vida. O “não chores” ensina-nos a consolar-nos na esperança diante dos que morreram.",
+    "anagogico": "Este jovem é uma das ressurreições que antecedem a de Cristo, sinais da ressurreição geral que não será desfeita pela morte. “Deus visitou o seu povo”: visita que se consumará quando Ele enxugar toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi ele para uma cidade, chamada Naim. Quando chegou perto da porta da cidade, eis que era levado um defunto a sepultar, filho único de uma viúva. Tendo-a visto, o Senhor, movido de compaixão para com ela, disse-lhe: “Não chores”. Aproximou-se, tocou no esquife, e disse: “Jovem, eu te ordeno, levanta-te”. E sentou-se o que tinha estado morto, e começou a falar. Depois, Jesus entregou-o a sua mãe. Todos glorificavam a Deus, dizendo: “Um grande profeta apareceu entre nós, Deus visitou o seu povo”.",
+    "meditatio_perguntas": [
+      "Que dor minha Jesus vê, mesmo sem que eu lhe peça nada?",
+      "Que parte de mim está “morta” e precisa ouvir: “levanta-te”?",
+      "Choro e rezo pelos que estão espiritualmente mortos, como a mãe Igreja?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te comoveste com a viúva de Naim, olha as minhas lágrimas e as de tantos que choram os seus mortos. Diz ao meu coração: “Levanta-te”, e devolve à vida os que o pecado matou. Que eu reconheça em ti a visita de Deus ao seu povo. Amém.",
+    "contemplatio_foco": { "texto": "Jovem, eu te ordeno, levanta-te.", "ref": "Lc 7,14" }
+  },
+  "ancoras": {
+    "7:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "7:11–17#0", "sintese": "Junta milagre a milagre: antes veio quando lhe pediram; aqui vem sem ser chamado." }
+      ],
+      "nota": null
+    },
+    "7:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "de hom. Opif. c. 25.", "catena": "7:11–17#4", "sintese": "Em poucas palavras, o cúmulo da desgraça: viúva, sem esperança de outros filhos, perdia o único que alegrava a sua casa." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:11–17#16", "sintese": "A viúva rodeada pela multidão figura a Igreja, que pelas suas lágrimas chama de volta à vida o filho levado ao sepulcro." }
+      ],
+      "nota": null
+    },
+    "7:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:11–17#6", "sintese": "Como se dissesse: deixa de chorar como morto aquele que logo verás vivo." }
+      ],
+      "nota": { "texto": "O verbo grego (splanchnizomai) evoca uma compaixão que comove as entranhas; Lucas usa-o também para o samaritano (10,33) e para o pai do filho pródigo (15,20).", "origem": "ia" }
+    },
+    "7:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "7:11–17#8", "sintese": "Toca o esquife para mostrar que a sua carne, unida ao Verbo, é vivificante, como o ferro posto ao fogo faz a obra do fogo." }
+      ],
+      "nota": null
+    },
+    "7:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:11–17#12", "sintese": "Primeiro compadece-se da mãe, depois ressuscita o filho: exemplo de piedade a imitar e fundamento para a fé no seu poder." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:11–17#20", "sintese": "Se não podes lavar o teu pecado com as tuas lágrimas, chore por ti a mãe Igreja: ressuscitarás e começarás a dizer palavras de vida." }
+      ],
+      "nota": null
+    },
+    "7:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Máximo", "obra": null, "catena": "7:11–17#14", "sintese": "Antes da ressurreição do Senhor narram-se sete ressurreições; a de Cristo, a oitava, é sinal da ressurreição geral, que não será desfeita." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:11–17#21", "sintese": "Deus visitou o seu povo pela encarnação do Verbo e visita-o sempre, enviando-o aos nossos corações." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "LUK.8.1",
+  "livro": "LUK",
+  "titulo": "As mulheres que seguiam Jesus",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 8,1-3",
+  "ini": { "c": 8, "v": 1 },
+  "fim": { "c": 8, "v": 3 },
+  "liturgia": { "tema_central": "Discípulas que servem o Senhor com os seus bens", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lucas resume a atividade itinerante de Jesus: percorre cidades e aldeias anunciando a boa nova do Reino de Deus, acompanhado dos Doze e de algumas mulheres curadas de espíritos malignos e de doenças. Nomeia Maria Madalena, de quem saíram sete demônios, Joana, mulher de Cusa, administrador de Herodes, Susana e muitas outras, que os assistiam com os seus bens. Lucas é o evangelista que mais destaca a presença das mulheres junto de Jesus; estas mesmas estarão junto à cruz e ao sepulcro (Lc 23,49.55; 24,10).",
+    "alegorico": "Cristo passa de lugar em lugar para ganhar muitos e santificar muitos lugares. As mulheres libertadas que o servem figuram a Igreja, que, curada por Ele, o segue e o sustenta nos seus membros. Os sete demônios de Madalena significam a totalidade dos vícios, vencida pela graça.",
+    "moral": "Ninguém está excluído do discipulado: mulheres de condições diversas, desde a possessa curada até a esposa de um alto funcionário, seguem Jesus. A gratidão pela cura torna-se serviço generoso. Quem recebe bens espirituais partilha os materiais; e os ministros aprendem a contentar-se com o necessário.",
+    "anagogico": "As que seguem Jesus na Galileia serão as primeiras testemunhas da Ressurreição: o serviço humilde conduz à alegria pascal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus caminhava pelas cidades e aldeias, pregando e anunciando a boa nova do reino de Deus; andavam com ele os doze e algumas mulheres que tinham sido livradas de espíritos malignos e de enfermidades; Maria, chamada Madalena, da qual tinham saído sete demônios, Joana, mulher de Cusa, procurador de Herodes, Susana, e outras muitas, que lhe assistiam de suas posses.",
+    "meditatio_perguntas": [
+      "Que libertação recebi de Jesus, e como a gratidão se transforma em serviço?",
+      "Ponho os meus bens ao serviço do Evangelho?",
+      "Reconheço e valorizo o serviço discreto das mulheres na Igreja?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te deixaste servir por Maria Madalena, Joana, Susana e tantas outras, liberta-me de tudo o que me domina e torna-me teu discípulo. Que eu te siga pelos caminhos e te sirva com os meus bens e o meu tempo. Amém.",
+    "contemplatio_foco": { "texto": "anunciando a boa nova do reino de Deus", "ref": "Lc 8,1" }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nazianzo", "obra": "Orat. xxxvii. 2.", "catena": "8:1–3#1", "sintese": "Passa de um lugar a outro para ganhar muitos e santificar muitos lugares; dorme, trabalha e chora para santificar o sono, o trabalho e as lágrimas." }
+      ],
+      "nota": null
+    },
+    "8:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:1–3#5", "sintese": "Para que não pareça que as mulheres estavam impedidas de seguir a Cristo, menciona as que tinham sido curadas." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Ev.", "catena": "8:1–3#7", "sintese": "Os sete demônios significam todos os vícios, pois o número sete representa a totalidade." }
+      ],
+      "nota": { "texto": "A tradição latina, a partir de São Gregório Magno, identificou Maria Madalena com a pecadora de Lc 7,36-50; o texto, porém, não as identifica, e a liturgia atual celebra Madalena como “apóstola dos apóstolos”, testemunha da Ressurreição.", "origem": "ia" }
+    },
+    "8:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "in Matth. 27:55.", "catena": "8:1–3#8", "sintese": "Era costume judaico que as mulheres sustentassem os mestres; o Senhor aceita para dar aos mestres o exemplo de se contentarem com o alimento e as vestes." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

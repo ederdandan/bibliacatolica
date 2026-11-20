@@ -1,0 +1,109 @@
+{
+  "id": "LUK.7.36",
+  "livro": "LUK",
+  "titulo": "A pecadora perdoada",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 7,36-50",
+  "ini": { "c": 7, "v": 36 },
+  "fim": { "c": 7, "v": 50 },
+  "liturgia": { "tema_central": "“São-lhe perdoados muitos pecados, porque muito amou”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus está à mesa em casa do fariseu Simão. Uma mulher conhecida como pecadora na cidade entra com um frasco de alabastro com perfume; por detrás, aos pés de Jesus reclinado, banha-lhe os pés com lágrimas, enxuga-os com os cabelos, beija-os e unge-os. Simão pensa: se fosse profeta, saberia quem é esta mulher. Jesus, que lê o seu pensamento, conta-lhe a parábola de dois devedores, de quinhentos e de cinquenta denários, ambos perdoados: qual amará mais? Simão responde: aquele a quem mais se perdoou. Jesus contrapõe os gestos dela à falta de hospitalidade dele (água, beijo, óleo) e conclui: os seus muitos pecados são perdoados, porque muito amou; a quem pouco se perdoa, pouco ama. Diz-lhe: “São-te perdoados os pecados… A tua fé te salvou; vai em paz”.",
+    "alegorico": "O fariseu, seguro da sua justiça, representa o povo que se julga sem dívida; a pecadora que chora aos pés do Senhor, a conversão dos gentios e de todo pecador. O perfume derramado é o bom odor das boas obras; os pés de Cristo são os seus membros mais pequenos, que regamos com lágrimas quando nos compadecemos deles e socorremos com o que temos.",
+    "moral": "Esta mulher não se envergonha dos convidados, porque se envergonha muito de si mesma por dentro. Tudo o que servira ao pecado (olhos, cabelos, boca, perfume) torna-se oferta a Deus. Ninguém está sem dívida: quem deve menos não se envaideça. O fariseu despreza a enferma pela doença e o médico pelo remédio. O amor e o perdão crescem juntos: quanto mais arde a caridade, mais se consome a ferrugem do pecado. Nenhum pecador desespere; nenhum justo presuma.",
+    "anagogico": "“Vai em paz”: a paz é a reconciliação com Deus, antecipação da paz eterna. A fé que salva já agora conduz à mesa do Reino, onde os pecadores perdoados serão acolhidos como amigos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo entrado em casa do fariseu, pôs-se à mesa. Uma mulher, que era pecadora na cidade, levou um vaso de alabastro cheio de bálsamo. Colocando-se a seus pés, começou a banhar-lhe os pés com lágrimas, e os enxugava com os cabelos da sua cabeça, os beijava, e os ungia com o bálsamo. O fariseu disse consigo: “Se este fosse profeta, saberia quem é a mulher que o toca”. Jesus disse: “Um credor tinha dois devedores: um devia-lhe quinhentos dinheiros, o outro cinquenta. Perdoou a ambos. Qual deles mais o amará?” Simão respondeu: “Aquele a quem perdoou mais”. E Jesus disse: “São-lhe perdoados muitos pecados, porque muito amou. Mas, ao que pouco se perdoa pouco ama”. E disse à mulher: “A tua fé te salvou; vai em paz”.",
+    "meditatio_perguntas": [
+      "Pareço-me mais com Simão, que se julga sem grande dívida, ou com a mulher que chora aos pés de Jesus?",
+      "O que, na minha vida, outrora serviu ao pecado e pode agora tornar-se oferta de amor?",
+      "Julgo os outros pelo seu passado, ou alegro-me com a misericórdia que recebem?"
+    ],
+    "oratio_guia": "Senhor Jesus, aos teus pés deponho as minhas lágrimas e os meus pecados. Perdoa-me muito, para que eu te ame muito. Livra-me do olhar do fariseu, que despreza e julga, e dá-me o amor humilde desta mulher. Diz também a mim: “A tua fé te salvou; vai em paz”. Amém.",
+    "contemplatio_foco": { "texto": "A tua fé te salvou; vai em paz.", "ref": "Lc 7,50" }
+  },
+  "ancoras": {
+    "7:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Hom. de Mul. Peccat.", "catena": "7:36–50#1", "sintese": "Muitos se justificam a si mesmos e evitam a mesa dos outros; Lucas, médico das almas, mostra o Senhor visitando todos com misericórdia." }
+      ],
+      "nota": { "texto": "Nos banquetes, os convidados reclinavam-se apoiados no cotovelo, com os pés para trás: por isso a mulher pode chegar aos pés de Jesus “por detrás”.", "origem": "ia" }
+    },
+    "7:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Ev.", "catena": "7:36–50#4", "sintese": "Vendo as suas manchas, correu a lavá-las na fonte da misericórdia; envergonhando-se de si por dentro, não se envergonhou dos convidados." }
+      ],
+      "nota": null
+    },
+    "7:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Evang.", "catena": "7:36–50#6", "sintese": "Os olhos que cobiçavam choram; os cabelos que adornavam enxugam; a boca soberba beija; o perfume usado para si é oferecido a Deus." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Evang.", "catena": "7:36–50#30", "sintese": "Regamos os pés do Senhor quando nos compadecemos dos seus últimos membros, e enxugamo-los quando os socorremos com o que nos sobra." }
+      ],
+      "nota": null
+    },
+    "7:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "7:36–50#8", "sintese": "Falsamente justo, censura a enferma pela doença e o médico pelo socorro; teria repelido a mulher com o pé." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Evang.", "catena": "7:36–50#26", "sintese": "O fariseu presunçoso figura o povo judeu; a pecadora que chora, a conversão dos gentios." }
+      ],
+      "nota": null
+    },
+    "7:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "7:36–50#9", "sintese": "Responde aos pensamentos que não ouviu, mostrando-se Senhor dos profetas." }
+      ],
+      "nota": null
+    },
+    "7:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "7:36–50#12", "sintese": "Nem tu estás sem dívidas: se as tuas são menores, não te envaideças, pois também precisas de perdão." },
+        { "autor": "Glosa", "obra": null, "catena": "7:36–50#13", "sintese": "Ninguém se livra por si da dívida do pecado, mas só pelo perdão da graça de Deus." }
+      ],
+      "nota": null
+    },
+    "7:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "7:36–50#15", "sintese": "Dar água é fácil, derramar lágrimas não: lavando os pés do Senhor, ela lavou as próprias manchas." }
+      ],
+      "nota": null
+    },
+    "7:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Evang.", "catena": "7:36–50#17", "sintese": "Quanto mais o coração do pecador arde no fogo da caridade, mais se consome a ferrugem do pecado." }
+      ],
+      "nota": { "texto": "O amor é sinal e fruto do perdão (cf. a parábola: quem mais foi perdoado mais ama) e, ao mesmo tempo, disposição para recebê-lo; a fé da mulher (v. 50) é a raiz de ambos.", "origem": "ia" }
+    },
+    "7:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 67 in Matth.", "catena": "7:36–50#19", "sintese": "Nenhum pecador desespere, nenhum virtuoso adormeça: muitas vezes a meretriz precede o justo." }
+      ],
+      "nota": null
+    },
+    "7:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "7:36–50#20", "sintese": "Curada a enferma, outros adoecem com o remédio; mas o Médico celeste confirma a que curou." }
+      ],
+      "nota": null
+    },
+    "7:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:36–50#21", "sintese": "“Vai em paz”, isto é, na justiça, que é a reconciliação com Deus: faz tudo o que leva à paz com Ele." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

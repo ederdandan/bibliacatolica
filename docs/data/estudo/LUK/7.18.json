@@ -1,0 +1,115 @@
+{
+  "id": "LUK.7.18",
+  "livro": "LUK",
+  "titulo": "Jesus e João Batista",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 7,18-35",
+  "ini": { "c": 7, "v": 18 },
+  "fim": { "c": 7, "v": 35 },
+  "liturgia": { "tema_central": "“És tu o que há de vir?”: os sinais do Messias", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "João, informado pelos discípulos, envia dois deles a perguntar a Jesus: “És tu o que há de vir, ou devemos esperar outro?”. Naquela hora Jesus cura muitos e responde: “Ide referir a João o que vistes e ouvistes”: cegos veem, coxos andam, leprosos ficam limpos, surdos ouvem, mortos ressuscitam, aos pobres é anunciada a boa nova (cf. Is 35 e 61); e feliz quem não se escandaliza dele. Depois elogia João diante da multidão: não é cana agitada pelo vento nem homem de roupas finas, mas profeta e mais que profeta, o mensageiro de Ml 3,1; ninguém nascido de mulher é maior que ele, mas o menor no Reino é maior. O povo e os publicanos, batizados por João, deram razão a Deus; fariseus e doutores frustraram o desígnio de Deus. Esta geração é como crianças caprichosas: rejeitaram João por austero e Jesus por comer com pecadores. Mas a sabedoria é justificada pelos seus filhos.",
+    "alegorico": "João, último dos profetas, figura a Lei que conduz a Cristo; envia os seus discípulos a Jesus como a Lei envia a Cristo. Os sinais respondem às profecias de Isaías: o Messias é reconhecido pelas obras. A maior prova, porém, é a cruz, que pode escandalizar até os eleitos: por isso “bem-aventurado o que não se escandalizar”.",
+    "moral": "A firmeza de João, que preferiu a justiça à vida, opõe-se à cana movida por todo vento e ao conforto que amolece a alma. Quem confessa os seus pecados “dá razão a Deus”. A geração caprichosa não se deixa tocar nem pelo lamento da penitência nem pela alegria do Reino: é o coração fechado que sempre encontra desculpa. Não está a justiça em comer ou jejuar, mas em usar das coisas sem cobiça.",
+    "anagogico": "“O menor no reino de Deus é maior do que ele”: a graça da nova aliança e a glória do Reino ultrapassam a maior grandeza humana. A sabedoria será plenamente justificada no fim, quando os seus filhos forem manifestados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "João enviou dois dos seus discípulos a Jesus a dizer-lhe: “És tu o que há-de vir ou devemos esperar outro?” Jesus respondeu-lhes: “Ide referir a João o que vistes e ouvistes: Os cegos vêem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, aos pobres é anunciado o Evangelho; e bem-aventurado aquele que se não escandalizar a meu respeito”. E disse às turbas: “Que fostes vós ver ao deserto? Uma cana agitada pelo vento? Um profeta? Sim, e mais ainda que profeta. Entre os nascidos das mulheres, não há maior profeta que João Baptista; porém, o que é menor do reino de Deus é maior do que ele. A sabedoria foi justificada por todos os seus filhos”.",
+    "meditatio_perguntas": [
+      "Nas minhas dúvidas, levo as perguntas a Jesus, como João?",
+      "Em que me escandalizo do modo de agir de Deus, da cruz ou da sua misericórdia?",
+      "Sou “cana agitada pelo vento” ou firme como João na verdade?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu és aquele que havia de vir; não espero outro. Abre os meus olhos para as tuas obras e livra-me de me escandalizar da tua cruz. Dá-me a firmeza de João e um coração que não resista nem ao chamado à penitência nem à alegria do teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "bem-aventurado aquele que se não escandalizar a meu respeito", "ref": "Lc 7,23" }
+  },
+  "ancoras": {
+    "7:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:18–23#2", "sintese": "Preso, João aproveita a ocasião em que os discípulos mais precisavam de Jesus para os enviar a Ele." },
+        { "autor": "São Cirilo de Alexandria", "obra": "Thes. lib. 11. c. 4.", "catena": "7:18–23#6", "sintese": "Pergunta com intenção pedagógica: conhecia o mistério de Cristo, mas queria que os discípulos o aprendessem da boca do Salvador." }
+      ],
+      "nota": null
+    },
+    "7:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:18–23#9", "sintese": "Aos pobres é anunciado o Evangelho: não há diferença entre ricos e pobres, e todos são iguais diante do Salvador." }
+      ],
+      "nota": { "texto": "A resposta combina Is 35,5-6, Is 26,19 e Is 61,1: Jesus deixa que as suas obras falem à luz das profecias messiânicas.", "origem": "ia" }
+    },
+    "7:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:18–23#10", "sintese": "A plenitude da fé é a cruz; ela pode escandalizar até os eleitos, mas nada revela mais a pessoa divina que oferecer-se pelo mundo inteiro." }
+      ],
+      "nota": null
+    },
+    "7:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:24–28#3", "sintese": "João preferiu a justiça à vida; a cana agitada são os homens vazios de virtude, movidos de um lado a outro pela vaidade do mundo." }
+      ],
+      "nota": null
+    },
+    "7:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 29 in Ep. ad Heb.", "catena": "7:24–28#5", "sintese": "A roupa delicada relaxa a austeridade e, amolecendo o corpo, enfraquece também a alma." }
+      ],
+      "nota": null
+    },
+    "7:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:24–28#10", "sintese": "Mais que profeta, porque nele terminam os profetas: viu e batizou aquele que muitos desejaram ver." }
+      ],
+      "nota": null
+    },
+    "7:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "7:24–28#12", "sintese": "Chama-o “anjo” (mensageiro) não pela natureza, mas pelo ofício de anunciar a vinda de Cristo." }
+      ],
+      "nota": null
+    },
+    "7:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:24–28#19", "sintese": "O menor no Reino futuro, onde estão os anjos, é maior que o justo na carne; ou: Cristo, menor em idade, é maior pela autoridade divina." }
+      ],
+      "nota": null
+    },
+    "7:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "7:29–35#1", "sintese": "Quem confessa o seu pecado justifica a Deus, submetendo-se a Ele e esperando a sua graça." }
+      ],
+      "nota": null
+    },
+    "7:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "7:29–35#5", "sintese": "Alude a uma brincadeira de crianças em que uns cantavam e outros lamentavam, sem que ninguém acompanhasse o outro: assim era aquela geração." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 11.", "catena": "7:29–35#9", "sintese": "O lamento alude a João, cuja abstinência significava a tristeza da penitência." }
+      ],
+      "nota": null
+    },
+    "7:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:29–35#11", "sintese": "A flauta alude ao Senhor, que, comendo e bebendo como os outros, representava a alegria do seu Reino." }
+      ],
+      "nota": null
+    },
+    "7:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:29–35#17", "sintese": "Os filhos da sabedoria compreendem que a justiça não está em comer ou abster-se, mas em não cobiçar e suportar com paciência a necessidade." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
