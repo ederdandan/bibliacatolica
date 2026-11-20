@@ -1,0 +1,5 @@
+# Divisão em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Carta a Filémon
+1:1-1:7 | Saudação e ação de graças pela caridade de Filémon
+1:8-1:25 | A súplica por Onésimo, irmão caríssimo

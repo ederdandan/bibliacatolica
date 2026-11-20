@@ -1,0 +1,49 @@
+{
+  "id": "PHM.1.1",
+  "livro": "PHM",
+  "titulo": "Saudação e ação de graças pela caridade de Filémon",
+  "secao": "Carta a Filémon",
+  "referencia": "Fm 1,1-7",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "A caridade que conforta o coração dos santos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, prisioneiro de Jesus Cristo, escreve com Timóteo a Filémon, cristão de Colossas convertido por ele, a Ápia, a Arquipo e à igreja que se reúne em casa de Filémon. Depois da saudação de graça e paz, dá graças a Deus sempre que se lembra dele nas orações, porque ouviu falar da sua caridade e da sua fé para com o Senhor Jesus e para com todos os santos. Pede que essa fé partilhada se torne eficaz pelo conhecimento de todo o bem que há em nós por Cristo, e confessa a grande alegria e consolação que recebeu, porque Filémon confortou o coração dos irmãos. É a moldura afetuosa de um pedido delicado que vem a seguir.",
+    "alegorico": "A “igreja que se reúne em tua casa” mostra o Corpo de Cristo nas suas origens: a casa cristã torna-se lugar da assembleia, da Palavra e da Eucaristia. Paulo, preso por Cristo, figura o próprio Senhor, que se fez cativo por amor e dessa prisão gera vida para a Igreja.",
+    "moral": "A fé verdadeira é sempre fé “para com o Senhor Jesus e para com todos os santos”: não se separa do amor concreto aos irmãos. Paulo ensina também a arte de reconhecer e agradecer o bem que os outros fazem, antes de pedir ou corrigir. Uma casa aberta e um coração que conforta são já apostolado.",
+    "anagogico": "A alegria e consolação que a caridade de Filémon dá a Paulo antecipam a alegria plena da comunhão dos santos no céu, onde os corações já não precisarão de ser confortados, porque estarão repletos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Paulo, prisioneiro de Jesus Cristo, saúda Filémon e a igreja que se reúne em sua casa. Dá graças a Deus por saber da sua caridade e da fé para com o Senhor Jesus e para com todos os santos. Tive grande alegria e consolação pela tua caridade, porque os corações dos santos foram confortados por ti, irmão.",
+    "meditatio_perguntas": [
+      "A minha casa é lugar onde Cristo é acolhido e os irmãos se reúnem?",
+      "A minha fé no Senhor transparece no amor “a todos os santos”?",
+      "Sei agradecer a Deus o bem que vejo nos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, que fizeste de Paulo teu prisioneiro e da casa de Filémon a tua Igreja, dá-me uma fé que se torne eficaz no amor. Que o meu coração conforte o coração dos irmãos e que a minha casa seja tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "os corações dos santos foram confortados por ti, irmão",
+      "ref": "Fm 1,7"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ápia seria a esposa de Filémon e Arquipo talvez seu filho; Arquipo é também lembrado em Cl 4,17. A carta, embora pessoal, é dirigida à comunidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

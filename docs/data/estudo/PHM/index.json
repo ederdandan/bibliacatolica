@@ -1,0 +1,36 @@
+{
+ "livro": "PHM",
+ "secoes": [
+  "Carta a Filémon"
+ ],
+ "pericopes": [
+  {
+   "id": "PHM.1.1",
+   "titulo": "Saudação e ação de graças pela caridade de Filémon",
+   "secao": "Carta a Filémon",
+   "referencia": "Fm 1,1-7",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 7
+   }
+  },
+  {
+   "id": "PHM.1.8",
+   "titulo": "A súplica por Onésimo, irmão caríssimo",
+   "secao": "Carta a Filémon",
+   "referencia": "Fm 1,8-25",
+   "ini": {
+    "c": 1,
+    "v": 8
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  }
+ ]
+}
