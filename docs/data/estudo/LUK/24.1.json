@@ -1,0 +1,89 @@
+{
+  "id": "LUK.24.1",
+  "livro": "LUK",
+  "titulo": "O sepulcro vazio",
+  "secao": "A Ressurreição",
+  "referencia": "Lc 24,1-12",
+  "ini": { "c": 24, "v": 1 },
+  "fim": { "c": 24, "v": 12 },
+  "liturgia": { "tema_central": "“Porque buscais entre os mortos o que está vivo?”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No primeiro dia da semana, muito cedo, as mulheres vão ao sepulcro com os aromas que prepararam. Encontram a pedra removida e, entrando, não acham o corpo do Senhor Jesus. Perplexas, veem junto delas dois homens com vestes resplandecentes. Cheias de medo, inclinam o rosto para o chão, e eles dizem: “Por que buscais entre os mortos aquele que vive? Não está aqui, ressuscitou. Lembrai-vos do que vos disse na Galileia: o Filho do homem devia ser entregue aos pecadores, crucificado, e ressuscitar ao terceiro dia”. Elas lembram-se das suas palavras e, voltando, anunciam tudo aos Onze e a todos os outros: eram Maria Madalena, Joana, Maria, mãe de Tiago, e as outras. Mas estas palavras parecem-lhes um delírio, e não acreditam. Pedro, porém, levanta-se e corre ao sepulcro; inclinando-se, vê só os panos de linho, e volta admirado com o que acontecera.",
+    "alegorico": "A pedra que fechava o sepulcro, como se a morte tivesse levado cativo o Verbo, é removida: a vida manifesta-se depois de uma prova suficiente da morte. Os anjos, de vestes luminosas, anunciam serenos e alegres o reino do Senhor. As mulheres que vão muito cedo ao sepulcro figuram as almas que, afastadas as trevas dos vícios, se aproximam do Corpo do Senhor; o sepulcro traz a figura do altar. A mulher, que transmitiu ao homem o pecado, transmite agora a graça.",
+    "moral": "O amor e o terno cuidado das mulheres tornam-nas dignas da visão dos anjos. A ressurreição é naturalmente incrível aos homens; mas a dúvida dos discípulos foi fortaleza nossa, porque as muitas provas que a venceram nos confirmam na verdade. Pedro, que ouve e logo corre, mostra que o fogo do amor não conhece demora. Busquemos o Senhor não entre os mortos, mas como Vivente.",
+    "anagogico": "Não ressuscitou de imediato, para que a sua morte fosse real, nem tarde demais, para não ocultar a glória da incorrupção. O primeiro dia da semana inaugura a nova criação: o sepulcro vazio é a promessa da nossa própria ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No primeiro dia da semana, foram muito cedo ao sepulcro, levando os aromas que tinham preparado. Encontraram revolvida a pedra do sepulcro. Entrando, não encontraram o corpo do Senhor Jesus. Eis que apareceram junto delas dois homens com vestidos resplandecentes, e disseram-lhes: “Porque buscais entre os mortos o que está vivo? Ele não está aqui, ressuscitou”. Então lembraram-se das suas palavras. Todavia Pedro, levantando-se, correu ao sepulcro. Inclinando-se, viu só os lençóis, e retirou-se, admirando consigo mesmo o que sucedera.",
+    "meditatio_perguntas": [
+      "Onde procuro Jesus “entre os mortos”: no passado, no hábito, no desânimo?",
+      "Que palavras de Jesus preciso de “lembrar” para crer na sua vitória?",
+      "Corro, como Pedro, quando ouço o anúncio, ou desconfio como de um delírio?"
+    ],
+    "oratio_guia": "Senhor Jesus, vivo e ressuscitado, não me deixes procurar-te entre os mortos. Afasta as trevas dos meus vícios, para que eu me aproxime de ti bem cedo, com o amor das santas mulheres e a pressa de Pedro. Recorda-me as tuas palavras e faz-me testemunha da tua ressurreição. Amém.",
+    "contemplatio_foco": { "texto": "Porque buscais entre os mortos o que está vivo? Ele não está aqui, ressuscitou.", "ref": "Lc 24,5-6" }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:1–12#23", "sintese": "As mulheres que vão cedo ao sepulcro ensinam a aproximar-nos do Corpo do Senhor afastadas as trevas dos vícios." }
+      ],
+      "nota": null
+    },
+    "24:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "24:1–12#3", "sintese": "A pedra fechava o sepulcro como se a morte levasse cativo o Verbo; ao terceiro dia a vida manifesta-se." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 90 in Matth.", "catena": "24:1–12#5", "sintese": "A pedra foi removida depois da ressurreição, para que as mulheres cressem vendo o sepulcro sem o corpo." }
+      ],
+      "nota": null
+    },
+    "24:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "24:1–12#6", "sintese": "Pelo amor e pelo terno cuidado que mostraram a Cristo, foram julgadas dignas da visão dos anjos." },
+        { "autor": "Eusébio", "obra": null, "catena": "24:1–12#7", "sintese": "As vestes resplandecentes dos anjos são sinais de alegria, convenientes ao reino do Senhor." }
+      ],
+      "nota": null
+    },
+    "24:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:1–12#10", "sintese": "As santas mulheres inclinaram o rosto, sem se prostrar: daí o costume de orar de pé no tempo pascal." }
+      ],
+      "nota": null
+    },
+    "24:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": null, "catena": "24:1–12#11", "sintese": "Ressuscitou ao terceiro dia para provar que morrera de verdade, sem ocultar a glória da incorrupção." }
+      ],
+      "nota": null
+    },
+    "24:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "ex Ambr.", "catena": "24:1–12#16", "sintese": "A mulher, que transmitira ao homem o pecado, transmite agora a graça." }
+      ],
+      "nota": null
+    },
+    "24:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:1–12#17", "sintese": "O milagre da ressurreição é naturalmente incrível para os homens." },
+        { "autor": "São Beda, o Venerável", "obra": "ex Greg.", "catena": "24:1–12#18", "sintese": "A dúvida deles foi fortaleza nossa: as provas que a venceram confirmam-nos na verdade." }
+      ],
+      "nota": null
+    },
+    "24:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:1–12#19", "sintese": "Pedro não se demora e corre: o fogo, quando toca a matéria, não conhece demora." },
+        { "autor": "Eusébio", "obra": null, "catena": "24:1–12#20", "sintese": "Mais ardente que os outros, dá crédito às mulheres e põe-se à frente, buscando o Senhor por toda parte." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

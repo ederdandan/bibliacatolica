@@ -1,0 +1,96 @@
+{
+  "id": "LUK.23.44",
+  "livro": "LUK",
+  "titulo": "A morte e a sepultura de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 23,44-56",
+  "ini": { "c": 23, "v": 44 },
+  "fim": { "c": 23, "v": 56 },
+  "liturgia": { "tema_central": "“Pai, nas tuas mãos entrego o meu espírito”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Por volta da hora sexta, as trevas cobrem toda a terra até a hora nona; o sol escurece e o véu do Templo rasga-se ao meio. Jesus clama em alta voz: “Pai, nas tuas mãos entrego o meu espírito”, e, dizendo isto, expira. O centurião, vendo o que aconteceu, glorifica a Deus: “Verdadeiramente este homem era justo”. Toda a multidão que acorrera ao espetáculo volta batendo no peito. Os conhecidos de Jesus e as mulheres que o seguiam desde a Galileia observam de longe. José de Arimateia, membro do conselho, homem bom e justo, que não consentira na decisão dos outros e esperava o Reino de Deus, pede a Pilatos o corpo de Jesus. Desce-o da cruz, envolve-o num lençol e deposita-o num sepulcro talhado na rocha, onde ninguém ainda fora posto. Era o dia da Preparação e começava o sábado. As mulheres vindas da Galileia acompanham-no, veem o sepulcro e como o corpo foi depositado; voltam, preparam aromas e perfumes, e no sábado repousam segundo a Lei.",
+    "alegorico": "Toda a criação chora o seu Senhor, e a luz escurece ao meio-dia. O véu rasgado mostra que o Santo dos Santos já não é inacessível: abre-se o acesso às coisas santas do céu. Encomendando o seu espírito, Cristo entrega ao Pai toda a humanidade vivificada nele, pois somos seus membros. O centurião figura a fé dos gentios que dão testemunho. O sepulcro novo, sem dolo nem malícia, figura o justo que recebe o corpo de Cristo com mente pura.",
+    "moral": "Cristo não perde o espírito à força, mas entrega-o: a sua morte é voluntária. Invocando o Pai, morre na confiança, e ensina-nos a morrer entregando-nos nas mãos de Deus. Elevado na cruz, atrai todos a si: o ladrão, o centurião, a multidão que bate no peito. José, discípulo oculto, rompe por fim os laços do medo e honra o Senhor. Envolve Jesus num lençol limpo quem o recebe com coração puro.",
+    "anagogico": "Esta voz ensina que as almas dos santos já não ficam encerradas na mansão dos mortos, mas estão com Deus. Crucificado no sexto dia e repousando no sétimo, o Senhor mostra que nesta vida sofremos com Ele e depois da morte repousamos, aguardando a ressurreição do oitavo dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Era então quase a hora sexta, e toda a terra ficou coberta de trevas até à hora nona; escureceu-se o sol, e rasgou-se pelo meio o véu do templo. Jesus, exclamando em alta voz, disse: “Pai, nas tuas mãos encomendo o meu espírito”. Dizendo isto, expirou. O centurião glorificou a Deus, dizendo: “Na verdade este homem era justo”. José foi ter com Pilatos, e pediu-lhe o corpo de Jesus. Tendo-o descido da cruz, envolveu-o num lençol, e depositou-o num sepulcro aberto na rocha.",
+    "meditatio_perguntas": [
+      "O que significa para mim entregar o meu espírito nas mãos do Pai, hoje e na hora da morte?",
+      "Diante da cruz, bato no peito em verdadeira conversão?",
+      "Que medo me impede, como José antes, de manifestar abertamente a minha fé?"
+    ],
+    "oratio_guia": "Pai, nas tuas mãos entrego o meu espírito. Senhor Jesus, que livremente deste a tua vida e abriste o caminho do santuário celeste, atrai-me a ti desde a cruz. Que eu te receba com o coração puro, como José te recebeu, e repouse em ti à espera da ressurreição. Amém.",
+    "contemplatio_foco": { "texto": "Pai, nas tuas mãos encomendo o meu espírito.", "ref": "Lc 23,46" }
+  },
+  "ancoras": {
+    "23:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "23:44–46#0", "sintese": "Toda a criação chorou o seu Senhor e a luz escureceu ao meio-dia, como anunciara Amós." }
+      ],
+      "nota": null
+    },
+    "23:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:44–46#7", "sintese": "O véu rasgado mostra que o Santo dos Santos já não seria inacessível: a sua entrada fica aberta." }
+      ],
+      "nota": null
+    },
+    "23:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:44–46#11", "sintese": "Invocando o Pai declara-se Filho; entregando o espírito, mostra confiança no poder do Pai, não fraqueza." },
+        { "autor": "Santo Atanásio", "obra": "de Incar. et cont. Ar.", "catena": "23:44–46#14", "sintese": "Entrega ao Pai toda a humanidade vivificada nele, pois somos seus membros." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:44–46#13", "sintese": "As almas dos santos já não ficam na mansão dos mortos, mas estão com Deus: Cristo começou esta mudança." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:44–46#20", "sintese": "Entregou o espírito, não o perdeu: o que se entrega é voluntário, o que se perde é forçado." }
+      ],
+      "nota": null
+    },
+    "23:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:47–49#2", "sintese": "Elevado da terra, atrai todos a si: o ladrão, o centurião e muitos do povo." }
+      ],
+      "nota": null
+    },
+    "23:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:47–49#3", "sintese": "Batem no peito em tristeza penitente: chorando o justo morto ou temendo por terem pedido a sua morte." }
+      ],
+      "nota": null
+    },
+    "23:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:47–49#6", "sintese": "As mulheres permanecem e veem: são as primeiras renovadas pela bênção da paixão e da ressurreição." }
+      ],
+      "nota": null
+    },
+    "23:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Expositor Grego", "obra": "Fócio.", "catena": "23:50–56#0", "sintese": "Discípulo oculto, José rompe por fim os laços do medo e, com zelo, desce o corpo do Senhor." }
+      ],
+      "nota": null
+    },
+    "23:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:50–56#7", "sintese": "O justo sepulta o corpo de Cristo num sepulcro sem dolo nem malícia e o reveste da sua glória." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:50–56#8", "sintese": "Envolve Jesus num lençol limpo quem o recebe com mente pura." }
+      ],
+      "nota": null
+    },
+    "23:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:50–56#10", "sintese": "Crucificado no sexto dia e repousando no sétimo: nesta idade sofremos com Cristo, depois da morte repousamos nele." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
