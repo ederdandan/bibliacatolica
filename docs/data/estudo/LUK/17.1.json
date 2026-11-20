@@ -1,0 +1,88 @@
+{
+  "id": "LUK.17.1",
+  "livro": "LUK",
+  "titulo": "O escândalo, o perdão e a fé",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 17,1-10",
+  "ini": { "c": 17, "v": 1 },
+  "fim": { "c": 17, "v": 10 },
+  "liturgia": { "tema_central": "“Aumenta-nos a fé”: perdoar sempre e servir com humildade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus diz aos discípulos que é inevitável que venham escândalos, mas ai daquele por quem vêm: melhor seria ser lançado ao mar com uma mó ao pescoço do que escandalizar um destes pequeninos. Se o teu irmão pecar, repreende-o; se se arrepender, perdoa-lhe; e, se pecar sete vezes no dia e sete vezes voltar dizendo “arrependo-me”, perdoa-lhe. Os apóstolos pedem: “Aumenta-nos a fé”. Jesus responde que uma fé do tamanho de um grão de mostarda poderia mandar a amoreira arrancar-se e plantar-se no mar. E conclui com a parábola do servo que, voltando do campo, ainda serve ao senhor antes de comer: assim também vós, depois de fazerdes tudo o que vos foi mandado, dizei: “Somos servos inúteis; fizemos o que devíamos fazer”.",
+    "alegorico": "A amoreira de frutos vermelhos figura o Evangelho da cruz, arrancado pela pregação apostólica da raiz do povo judeu e plantado no mar das nações. O servo que, depois do campo, prepara a ceia figura o pregador que, depois do trabalho público, se recolhe no exame de si mesmo, alimento que agrada ao Senhor.",
+    "moral": "Cristo ameaça tanto quem escandaliza porque a salvação de uma alma lhe é preciosa. A correção fraterna deve ser amigável, sem aspereza que desanime nem indulgência que convide ao pecado; perdoa-se ao que se arrepende, e sempre, pois o sete significa a totalidade. Uma fé mínima pode muito, se for humilde e fervorosa. Ninguém se glorie de ter feito o seu dever: o sol, a lua e os anjos também obedecem.",
+    "anagogico": "Somos servos “inúteis” porque o Senhor não precisa dos nossos bens e porque nada do que sofremos tem proporção com a glória futura; essa glória é dom, não pagamento."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus disse a seus discípulos: “É impossível que não venham escândalos, porém, ai daquele por quem eles vêm! Estai com cuidado sobre vós. Se teu irmão pecar, repreende-o; e, se ele se arrepender, perdoa-lhe”. Os apóstolos disseram ao Senhor: “Aumenta-nos a fé”. O Senhor disse-lhes: “Se tiverdes fé como um grão de mostarda, direis a esta amoreira: Arranca-te e transplanta-te para o mar, e ela vos obedecerá. Assim também vós, depois de terdes feito tudo o que vos foi mandado, dizei: Somos servos inúteis; fizemos o que devíamos fazer”.",
+    "meditatio_perguntas": [
+      "Posso estar a ser, com as minhas palavras ou atitudes, ocasião de queda para alguém?",
+      "Há um irmão a quem me custa perdoar mais uma vez?",
+      "Espero de Deus uma recompensa como se Ele me devesse algo?"
+    ],
+    "oratio_guia": "Senhor, aumenta a minha fé. Guarda-me de ser escândalo para os pequeninos, ensina-me a corrigir com amor e a perdoar sempre a quem se arrepende. Que eu te sirva com humildade, sabendo que tudo é graça, e diga de coração: sou servo inútil. Amém.",
+    "contemplatio_foco": { "texto": "Somos servos inúteis; fizemos o que devíamos fazer.", "ref": "Lc 17,10" }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "17:1–2#1", "sintese": "Fala aqui dos escândalos entre irmãos, como contendas e calúnias, que fazem tropeçar os outros." }
+      ],
+      "nota": null
+    },
+    "17:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:1–2#4", "sintese": "Pelo castigo de quem escandaliza, aprende-se a recompensa de quem salva: a salvação de uma alma é preciosa para Cristo." }
+      ],
+      "nota": null
+    },
+    "17:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "17:3–4#2", "sintese": "Nem perdão difícil nem fácil demais: a correção amigável vale mais que a acusação contenciosa." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:3–4#3", "sintese": "Corrigir com reto zelo o pecador e abrir as entranhas da misericórdia ao penitente." }
+      ],
+      "nota": null
+    },
+    "17:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:3–4#5", "sintese": "O sete não põe limite: significa a totalidade, perdoar sempre ao penitente." }
+      ],
+      "nota": null
+    },
+    "17:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 22, c. 21.", "catena": "17:5–6#1", "sintese": "Pedem que a fé recebida no início cresça cada vez mais até a perfeição." }
+      ],
+      "nota": null
+    },
+    "17:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 57 in Matth.", "catena": "17:5–6#4", "sintese": "O grão de mostarda é pequeno no tamanho e grande na força: a mínima parte da fé pode fazer grandes coisas." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:5–6#5", "sintese": "A fé perfeita é humilde na aparência e fervorosa no coração." }
+      ],
+      "nota": null
+    },
+    "17:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:7–10#4", "sintese": "Preparar a ceia é humilhar-se no exame de si; cingir-se é recolher a mente dispersa, para não tropeçar no caminho." }
+      ],
+      "nota": null
+    },
+    "17:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "17:7–10#7", "sintese": "Não te glories de ter sido bom servo: o sol, a lua e os anjos também obedecem." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:7–10#8", "sintese": "Servos porque comprados por um preço; inúteis porque o Senhor não precisa dos nossos bens. Fé perfeita é reconhecer-se imperfeito." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

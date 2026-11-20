@@ -1,0 +1,65 @@
+{
+  "id": "LUK.17.11",
+  "livro": "LUK",
+  "titulo": "Os dez leprosos",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 17,11-19",
+  "ini": { "c": 17, "v": 11 },
+  "fim": { "c": 17, "v": 19 },
+  "liturgia": { "tema_central": "Voltar para dar graças: a fé que salva", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A caminho de Jerusalém, entre a Samaria e a Galileia, Jesus entra numa aldeia. Dez leprosos, parados ao longe como mandava a Lei, gritam: “Jesus, Mestre, tem compaixão de nós”. Jesus diz-lhes: “Ide, mostrai-vos aos sacerdotes”, a quem cabia verificar a cura. Enquanto vão, ficam limpos. Um deles, vendo-se curado, volta glorificando a Deus em alta voz, prostra-se aos pés de Jesus e dá-lhe graças; era samaritano. Jesus pergunta: “Não foram dez os curados? Onde estão os outros nove? Não houve quem voltasse para dar glória a Deus senão este estrangeiro?”. E diz-lhe: “Levanta-te, vai; a tua fé te salvou”.",
+    "alegorico": "Os leprosos invocam o nome de Jesus, que significa Salvador, e alcançam a realidade do nome. O samaritano que volta figura os gentios, mais prontos a acolher a fé, enquanto Israel tarda em crer. A lepra, mancha de cores misturadas, figura também a doutrina que mistura verdade e erro, curada pela fé verdadeira.",
+    "moral": "A Lei chamava impura a lepra exterior; o Evangelho chama impura a interior. Ninguém fica impedido de agradar a Deus pela sua origem, se tiver o coração reto; e ninguém se glorie de nascer de santos, pois os nove israelitas foram ingratos. A gratidão completa o milagre: nove foram curados, um foi salvo. Quem se prostra pela lembrança dos seus pecados é levantado pela palavra divina para obras valorosas.",
+    "anagogico": "“A tua fé te salvou”: a cura do corpo torna-se salvação inteira para quem volta a Cristo e lhe dá glória, antecipando o louvor eterno dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Saíram-lhe ao encontro dez homens leprosos, que pararam ao longe, e levantaram a voz, dizendo: “Jesus, Mestre, tem compaixão de nós”. Tendo-os ele visto, disse-lhes: “Ide, mostrai-vos aos sacerdotes”. Aconteceu que, enquanto iam, ficaram limpos. Um deles, quando viu que tinha ficado limpo, voltou atrás, glorificando a Deus em alta voz, e prostrou-se por terra a seus pés, dando-lhe graças. Era um samaritano. Jesus disse: “Não são dez os que foram curados? Os outros nove onde estão?” Depois disse-lhe: “Levanta-te, vai; a tua fé te salvou”.",
+    "meditatio_perguntas": [
+      "Por que graças recebidas ainda não voltei para agradecer?",
+      "Peço a Jesus compaixão com a confiança desses leprosos?",
+      "A minha fé fica no benefício recebido ou chega ao encontro com Aquele que o dá?"
+    ],
+    "oratio_guia": "Jesus, Mestre, tem compaixão de mim e purifica-me. Obrigado por tantas curas que me deste sem que eu voltasse a agradecer. Faz-me como o samaritano, que se prostrou aos teus pés glorificando a Deus, e diz-me também: a tua fé te salvou. Amém.",
+    "contemplatio_foco": { "texto": "Jesus, Mestre, tem compaixão de nós.", "ref": "Lc 17,13" }
+  },
+  "ancoras": {
+    "17:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "17:11–19#3", "sintese": "Param ao longe porque a Lei tinha a lepra por impura; o Evangelho chama impura a lepra interior." }
+      ],
+      "nota": { "texto": "Os leprosos deviam viver separados e manter distância (Lv 13,45-46); a reintegração dependia da verificação pelos sacerdotes (Lv 14).", "origem": "ia" }
+    },
+    "17:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "17:11–19#5", "sintese": "Pronunciam o nome de Jesus, que significa Salvador, e alcançam a realidade; não pedem ouro, mas a saúde." }
+      ],
+      "nota": null
+    },
+    "17:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "17:11–19#10", "sintese": "Os nove israelitas foram ingratos; o samaritano, estrangeiro, voltou e levantou a voz em ação de graças." }
+      ],
+      "nota": null
+    },
+    "17:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "17:11–19#12", "sintese": "A origem não impede de agradar a Deus a quem tem coração reto; e ninguém se glorie de nascer de santos." }
+      ],
+      "nota": null
+    },
+    "17:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:11–19#15", "sintese": "Prostra-se envergonhado das suas maldades e é levantado pela palavra divina para obras valorosas; a incredulidade perde os que não dão glória a Deus." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 40.", "catena": "17:11–19#14", "sintese": "Misticamente, os leprosos são os que ostentam doutrinas errôneas, misturando verdade e falsidade como manchas de cor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

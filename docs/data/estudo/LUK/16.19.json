@@ -1,0 +1,103 @@
+{
+  "id": "LUK.16.19",
+  "livro": "LUK",
+  "titulo": "O rico e Lázaro",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 16,19-31",
+  "ini": { "c": 16, "v": 19 },
+  "fim": { "c": 16, "v": 31 },
+  "liturgia": { "tema_central": "O pobre à nossa porta e o abismo que a morte torna definitivo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um rico vestia-se de púrpura e linho fino e banqueteava-se todos os dias. À sua porta jazia um pobre chamado Lázaro, coberto de chagas, desejando saciar-se com as migalhas da mesa do rico; até os cães vinham lamber-lhe as feridas. O pobre morre e é levado pelos anjos ao seio de Abraão; o rico morre e é sepultado. Nos tormentos, vê Abraão e Lázaro e pede que Lázaro molhe a ponta do dedo para lhe refrescar a língua. Abraão responde: “Filho, lembra-te que recebeste os teus bens em vida, e Lázaro os males; agora ele é consolado e tu atormentado”; e há entre eles um grande abismo. O rico pede que Lázaro avise os seus cinco irmãos. “Têm Moisés e os profetas; ouçam-nos.” “Se algum dos mortos for ter com eles, farão penitência.” “Se não ouvem Moisés e os profetas, também não acreditarão, ainda que algum dos mortos ressuscite.”",
+    "alegorico": "O rico figura o povo soberbo que possuía a Lei e não partilhou o pão da palavra; Lázaro, coberto de chagas, figura os gentios, que não se envergonharam de confessar os seus pecados e desejavam as migalhas da mesa. A palavra final aponta para a ressurreição de Cristo, que muitos não acolheram porque não tinham escutado Moisés e os profetas.",
+    "moral": "Nem toda pobreza é santa, nem toda riqueza é criminosa: o luxo desonra as riquezas. O rico não é condenado por ser rico, mas por não ter sido misericordioso com o pobre que via todos os dias à sua porta. Deus conhece o nome do pobre e cala o do rico. Quem recusou uma migalha mendiga uma gota de água. As Escrituras bastam para a conversão: não esperemos prodígios para mudar de vida.",
+    "anagogico": "Depois da morte, o abismo é fixo e as recompensas não mudam: é nesta vida que se decide a sorte eterna. É tarde para ser mestre quando já não há tempo de aprender nem de ensinar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Havia um homem rico, que se vestia de púrpura e de linho fino, e todos os dias se banqueteava esplêndidamente. Havia também um mendigo, chamado Lázaro, que, coberto de chagas, estava deitado à sua porta, desejando saciar-se com as migalhas que caíam da mesa do rico. Sucedeu morrer o mendigo, e foi levado pelos anjos ao seio de Abraão. Morreu também o rico, e foi sepultado. Abraão disse-lhe: “Filho, lembra-te que recebeste os teus bens em tua vida, e Lázaro, ao contrário, recebeu males; por isso ele é agora consolado, e tu és atormentado. Se não ouvem Moisés e os profetas, tão-pouco acreditarão, ainda que ressuscitasse algum dos mortos”.",
+    "meditatio_perguntas": [
+      "Quem é o Lázaro que jaz à minha porta e eu não vejo?",
+      "Que abismo estou a cavar, hoje, entre mim e os pobres?",
+      "Deixo-me converter pela Palavra, ou espero sinais extraordinários?"
+    ],
+    "oratio_guia": "Senhor, abre os meus olhos para o Lázaro que está à minha porta. Livra-me da indiferença que se banqueteia enquanto outros têm fome. Que eu escute a tua Palavra e me converta enquanto é tempo, para ser acolhido contigo no seio de Abraão. Amém.",
+    "contemplatio_foco": { "texto": "Têm Moisés e os profetas; ouçam-nos.", "ref": "Lc 16,29" }
+  },
+  "ancoras": {
+    "16:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:19–21#2", "sintese": "Nem toda pobreza é santa, nem toda riqueza criminosa; mas o luxo desonra as riquezas e a santidade recomenda a pobreza." }
+      ],
+      "nota": null
+    },
+    "16:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:19–21#8", "sintese": "Lázaro significa “ajudado”: era pobre, e o Senhor o ajudou." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 1, c. 8.", "catena": "16:19–21#10", "sintese": "Diz o nome do pobre e cala o do rico, porque Deus conhece e aprova os humildes, não os soberbos." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Hom. de Div.", "catena": "16:19–21#11", "sintese": "Jazia à porta para que o rico não dissesse “nunca o vi”: via-o ao sair e ao voltar." }
+      ],
+      "nota": { "texto": "É a única personagem das parábolas de Jesus com nome próprio; “Lázaro” é forma de Eleazar, “Deus ajuda”.", "origem": "ia" }
+    },
+    "16:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 40 in Ev.", "catena": "16:19–21#16", "sintese": "Dois juízos numa só coisa: o rico via cada dia a quem devia ter misericórdia, o pobre via aquele por quem era provado." }
+      ],
+      "nota": null
+    },
+    "16:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 40.", "catena": "16:22–26#2", "sintese": "Do alto, quem via os corações exercitava o pobre para a glória e esperava com paciência o rico." }
+      ],
+      "nota": null
+    },
+    "16:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "16:22–26#14", "sintese": "Quem recusou uma migalha de pão mendiga no inferno uma gota de água." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:22–26#16", "sintese": "Não era atormentado por ser rico, mas por não ter sido misericordioso." }
+      ],
+      "nota": null
+    },
+    "16:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 40.", "catena": "16:22–26#27", "sintese": "Teme que a prosperidade presente seja a paga do bem que fizeste; e a fornalha da pobreza talvez purifique os pobres." }
+      ],
+      "nota": null
+    },
+    "16:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:22–26#33", "sintese": "Há um grande abismo porque depois da morte as recompensas não podem ser mudadas." }
+      ],
+      "nota": null
+    },
+    "16:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:27–31#4", "sintese": "É tarde para o rico começar a ser mestre, quando já não tem tempo de aprender nem de ensinar." }
+      ],
+      "nota": null
+    },
+    "16:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:27–31#7", "sintese": "O Senhor declara que o Antigo Testamento é fundamento da fé." }
+      ],
+      "nota": null
+    },
+    "16:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:27–31#11", "sintese": "Quem não ouve as Escrituras não faz caso dos mortos que ressuscitam: tudo o que a Escritura diz, di-lo o Senhor." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 40 in Ev.", "catena": "16:27–31#14", "sintese": "Lázaro figura os gentios, que não se envergonharam de confessar os pecados, abrindo, por assim dizer, as feridas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
