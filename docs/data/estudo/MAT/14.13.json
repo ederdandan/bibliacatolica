@@ -1,0 +1,75 @@
+{
+  "id": "MAT.14.13",
+  "livro": "MAT",
+  "titulo": "A primeira multiplicação dos pães",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 14,13-21",
+  "ini": { "c": 14, "v": 13 },
+  "fim": { "c": 14, "v": 21 },
+  "liturgia": { "tema_central": "“Dai-lhes vós mesmos de comer”: o pão partido para a multidão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao saber da morte de João, Jesus se retira de barca para um lugar deserto; as multidões o seguem a pé pelas margens. Movido de compaixão, cura os doentes. À tarde, os discípulos propõem despedir o povo; Jesus responde: “Dai-lhes vós mesmos de comer”. Com cinco pães e dois peixes, Ele ergue os olhos ao céu, abençoa, parte os pães e os dá aos discípulos, que os distribuem. Todos comem e se saciam, e recolhem-se doze cestos de sobras. Comeram cerca de cinco mil homens, sem contar mulheres e crianças. É o único milagre narrado pelos quatro evangelistas.",
+    "alegorico": "Os gestos de Jesus (tomar, erguer os olhos, abençoar, partir, dar) são os mesmos da Última Ceia (26,26): a multiplicação prefigura a Eucaristia, distribuída pelas mãos dos apóstolos. O deserto e o pão evocam o maná do Êxodo; Cristo é o novo Moisés e o verdadeiro Pão do céu. Os doze cestos indicam a plenitude do novo Israel, a Igreja, que guarda o pão para todos.",
+    "moral": "A compaixão de Jesus não fica nas palavras: cura e alimenta. Ele envolve os discípulos (“dai-lhes vós”), pedindo que coloquem nas suas mãos o pouco que têm. Nada se perde: as sobras ensinam o respeito pelos dons de Deus. A multidão que seguiu a pé, suportando a fome até a tarde, mostra uma fé que é recompensada.",
+    "anagogico": "A saciedade da multidão no deserto anuncia o banquete messiânico do Reino, onde Deus saciará plenamente a fome da humanidade. A Eucaristia é o penhor desse banquete eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus retirou-se de barca para um lugar deserto; as multidões o seguiram a pé. Ao ver a grande multidão, encheu-se de compaixão e curou os doentes. À tarde, os discípulos disseram: “Despede as multidões, para que vão comprar alimento”. Jesus respondeu: “Não precisam ir; dai-lhes vós mesmos de comer”. Disseram: “Só temos aqui cinco pães e dois peixes”. Ele disse: “Trazei-mos”. Tomou os cinco pães e os dois peixes, ergueu os olhos ao céu, abençoou, partiu os pães e deu-os aos discípulos, e os discípulos às multidões. Todos comeram e ficaram saciados, e recolheram doze cestos cheios de pedaços.",
+    "meditatio_perguntas": [
+      "Que “pouco” eu tenho que Jesus me pede para pôr nas suas mãos?",
+      "Como respondo à ordem: “Dai-lhes vós mesmos de comer”?",
+      "Reconheço na Eucaristia o pão que Jesus parte para mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te compadeces das multidões, toma o pouco que sou e tenho, abençoa-o e multiplica-o. Sacia-me com o Pão da tua Eucaristia e faz-me partilhar o pão com quem tem fome. Amém.",
+    "contemplatio_foco": { "texto": "Dai-lhes vós mesmos de comer.", "ref": "Mt 14,16" }
+  },
+  "ancoras": {
+    "14:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:13–14#2", "sintese": "Não se retirou por medo da morte, mas por misericórdia para com os inimigos, para que não acrescentassem homicídio a homicídio." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:13–14#4", "sintese": "Seguiram-no a pé, com o esforço das próprias pernas, mostrando o ardor do seu ânimo." }
+      ],
+      "nota": null
+    },
+    "14:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:13–14#5", "sintese": "Logo recebem a recompensa: compadeceu-se deles e curou os enfermos." }
+      ],
+      "nota": null
+    },
+    "14:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:15–21#0", "sintese": "É prova da fé das multidões terem suportado a fome, esperando o Senhor até a tarde." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:15–21#12", "sintese": "Não o faz de manhã nem ao meio-dia, mas à tarde, quando o Sol de justiça se põe." }
+      ],
+      "nota": null
+    },
+    "14:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:15–21#1", "sintese": "Chama os apóstolos a partir o pão, para que o milagre se torne mais evidente pelo testemunho deles de que não o tinham." }
+      ],
+      "nota": null
+    },
+    "14:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:15–21#4", "sintese": "Partindo os pães, dá-se como uma semeadura de alimento, multiplicado numa colheita." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "14:15–21#19", "sintese": "Os pães são dados aos apóstolos, porque por meio deles se haviam de dispensar os dons da graça divina." }
+      ],
+      "nota": null
+    },
+    "14:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:15–21#6", "sintese": "Cada apóstolo enche o seu cesto, para que os pedaços atestem que eram verdadeiros os pães multiplicados." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:15–21#7", "sintese": "Sobraram doze cestos, para que até Judas levasse o seu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

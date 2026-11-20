@@ -1,0 +1,86 @@
+{
+  "id": "MAT.14.1",
+  "livro": "MAT",
+  "titulo": "A morte de João Batista",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 14,1-12",
+  "ini": { "c": 14, "v": 1 },
+  "fim": { "c": 14, "v": 12 },
+  "liturgia": { "tema_central": "João Batista, mártir da verdade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Herodes Antipas, tetrarca da Galileia e da Pereia, ouve falar de Jesus e, com a consciência pesada, pensa que é João ressuscitado. Mateus narra então em flashback a morte de João. João censurara Herodes por ter tomado Herodíades, mulher de seu irmão Filipe, união proibida pela Lei (Lv 18,16). Herodes o prendera (segundo Flávio Josefo, na fortaleza de Maqueronte), mas temia o povo, que o tinha por profeta. Na festa de aniversário do rei, a filha de Herodíades (Salomé, segundo Josefo) dança e agrada; Herodes promete com juramento dar-lhe o que pedir, e ela, instruída pela mãe, pede a cabeça de João num prato. Os discípulos de João sepultam o corpo e vão contar a Jesus.",
+    "alegorico": "João, o precursor, antecipa na sua morte injusta a Paixão de Cristo: preso por um rei fraco, morto por ódio à verdade, sepultado pelos discípulos. Os Padres viram nele a Lei que anunciava Cristo e que, silenciada, perdeu entre os judeus a sua voz. O banquete de morte de Herodes contrasta com o banquete de vida da multiplicação dos pães que se segue.",
+    "moral": "Herodes mostra a escravidão do pecado: teme João morto, teme o povo, teme perder a palavra diante dos convidados, mas não teme a Deus. Um juramento mau não obriga; cumpri-lo é acrescentar crime a crime. João não morre por confessar diretamente a Cristo, mas pela verdade da justiça; e quem morre pela verdade morre por Cristo, que é a Verdade.",
+    "anagogico": "A morte de João não é o fim: o mártir da verdade recebe a coroa da vida. A ressurreição que Herodes temia supersticiosamente é a esperança dos justos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Herodes ouviu falar de Jesus e disse: “É João Batista, que ressuscitou dos mortos”. Herodes havia mandado prender João por causa de Herodíades, mulher de seu irmão, pois João lhe dizia: “Não te é lícito tê-la”. No aniversário de Herodes, a filha de Herodíades dançou e agradou ao rei, que jurou dar-lhe o que pedisse. Instigada pela mãe, ela disse: “Dá-me aqui, num prato, a cabeça de João Batista”. O rei entristeceu-se, mas, por causa do juramento e dos convidados, mandou decapitar João. Os discípulos de João vieram, levaram o corpo e o sepultaram; depois foram contar a Jesus.",
+    "meditatio_perguntas": [
+      "Tenho a coragem de João para dizer a verdade, mesmo quando custa?",
+      "Há “juramentos” ou respeitos humanos que me levam a agir contra a consciência?",
+      "Quando sofro uma perda, vou contá-la a Jesus, como os discípulos de João?"
+    ],
+    "oratio_guia": "Senhor Jesus, Verdade eterna, que deste a João Batista a coragem de morrer pela justiça, dá-me firmeza para testemunhar a verdade sem medo. Livra-me do respeito humano que leva ao mal. Amém.",
+    "contemplatio_foco": { "texto": "Não te é lícito tê-la.", "ref": "Mt 14,4" }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:1–5#1", "sintese": "O tempo é indicado para mostrar a soberba e a negligência do tirano, que tardou a informar-se sobre Jesus." }
+      ],
+      "nota": null
+    },
+    "14:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:1–5#3", "sintese": "Vê quão grande coisa é a virtude: Herodes teme João mesmo depois de morto e filosofa sobre a ressurreição." }
+      ],
+      "nota": null
+    },
+    "14:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:1–5#12", "sintese": "Herodíades, mulher de Filipe, foi dada a Herodes; e João, no espírito de Elias, repreendeu-os como Elias repreendera Acab e Jezabel." }
+      ],
+      "nota": { "texto": "Herodes Antipas, filho de Herodes, o Grande, governou a Galileia e a Pereia de 4 a.C. a 39 d.C. Flávio Josefo situa a prisão e a morte de João na fortaleza de Maqueronte, a leste do mar Morto.", "origem": "ia" }
+    },
+    "14:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:1–5#15", "sintese": "Temia uma sedição do povo, mas era vencido pelo amor à mulher, que já o fizera transgredir a Lei." }
+      ],
+      "nota": null
+    },
+    "14:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:6–12#1", "sintese": "Só Herodes e o Faraó celebraram o próprio aniversário: semelhantes na maldade, semelhantes nas festas." }
+      ],
+      "nota": null
+    },
+    "14:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:6–12#3", "sintese": "Não desculpo Herodes por causa do juramento: talvez tenha jurado precisamente para provocar o homicídio." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:6–12#8", "sintese": "Se temia tantas testemunhas do seu perjúrio, quanto mais devia temer tantas testemunhas de um homicídio!" }
+      ],
+      "nota": null
+    },
+    "14:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 29, 7", "catena": "14:6–12#12", "sintese": "João não padece por confessar a Cristo, mas pela verdade da justiça; e, porque Cristo é a Verdade, morre por Cristo quem morre pela verdade." }
+      ],
+      "nota": null
+    },
+    "14:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 49", "catena": "14:6–12#15", "sintese": "Os discípulos de João afeiçoam-se desde então mais a Jesus: são eles que lhe contam o que aconteceu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

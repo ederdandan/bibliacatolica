@@ -131,7 +131,7 @@ async function checkBook(id, errs, stats) {
     let d;
     try { d = await json(join(EST, id, f)); } catch (x) { e(`JSON inválido (${x.message})`); continue; }
     if (d.revisado === true) stats.revisadas++;
-    for (const k of ['id', 'titulo', 'referencia']) if (d[k] !== per[k]) e(`${k} difere do índice ("${d[k]}" ≠ "${per[k]}")`);
+    for (const k of ['id', 'titulo', 'secao', 'referencia']) if (d[k] !== per[k]) e(`${k} difere do índice ("${d[k]}" ≠ "${per[k]}")`);
     if (JSON.stringify(d.ini) !== JSON.stringify(per.ini) || JSON.stringify(d.fim) !== JSON.stringify(per.fim)) e('ini/fim difere do índice');
     if ('versiculos' in d || 'texto' in d) e('o arquivo não pode conter texto bíblico');
     const S = d.quatro_sentidos || {};

@@ -1,0 +1,89 @@
+{
+  "id": "MAT.14.22",
+  "livro": "MAT",
+  "titulo": "Jesus caminha sobre as águas",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 14,22-36",
+  "ini": { "c": 14, "v": 22 },
+  "fim": { "c": 14, "v": 36 },
+  "liturgia": { "tema_central": "“Coragem, sou eu”; “Senhor, salva-me!”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois da multiplicação, Jesus obriga os discípulos a atravessar o lago, despede a multidão e sobe ao monte para rezar sozinho. A barca é batida pelas ondas, com vento contrário. Na “quarta vigília” (entre 3 e 6 da manhã, segundo a divisão romana da noite), Jesus vem a eles caminhando sobre o mar. Assustados, pensam que é um fantasma. Jesus diz: “Tende confiança, sou eu, não temais” (“Sou eu” evoca o nome divino, Ex 3,14). Pedro pede para ir até Ele sobre as águas, caminha, mas, sentindo o vento, tem medo, começa a afundar e grita: “Senhor, salva-me!” Jesus o segura: “Homem de pouca fé, por que duvidaste?” Ao subirem à barca, o vento cessa, e os discípulos o adoram: “Verdadeiramente tu és o Filho de Deus”. Em Genesaré, todos os que tocam a orla do seu manto são curados.",
+    "alegorico": "Só Deus caminha sobre as ondas do mar (Jó 9,8): Jesus manifesta a sua divindade. A barca é a Igreja no mar do mundo, açoitada por ventos contrários, enquanto Cristo intercede no monte, como na Ascensão, e vem em seu socorro. Pedro, que caminha pela fé e afunda pela dúvida, é figura de todo crente e da própria Igreja, sustentada pela mão do Senhor.",
+    "moral": "Jesus permite a tempestade para despertar o desejo dele e fortalecer a fé. A fé de Pedro é ardente: não pede que reze por ele, mas que o mande. Vence as ondas, mas teme o vento: assim somos nós, firmes nas grandes provas e vacilantes nas pequenas. Quando olhamos para as dificuldades e não para Cristo, afundamos; mas o grito “Senhor, salva-me” é sempre ouvido.",
+    "anagogico": "O Senhor que vem na quarta vigília, quando a noite parece mais longa, é imagem do Cristo que virá no fim dos tempos para levar a barca da Igreja ao porto. A adoração na barca antecipa o louvor eterno: “Verdadeiramente, tu és o Filho de Deus”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus subiu ao monte para orar sozinho. A barca estava longe, agitada pelas ondas, porque o vento era contrário. Na quarta vigília da noite, Jesus foi até eles andando sobre o mar. Os discípulos, assustados, gritaram: “É um fantasma!” Jesus disse: “Coragem, sou eu, não tenhais medo”. Pedro disse: “Senhor, se és tu, manda-me ir ter contigo sobre as águas”. Jesus disse: “Vem”. Pedro andou sobre as águas, mas, sentindo o vento, teve medo e, começando a afundar, gritou: “Senhor, salva-me!” Jesus estendeu a mão e o segurou: “Homem de pouca fé, por que duvidaste?” Os da barca o adoraram: “Verdadeiramente, tu és o Filho de Deus”.",
+    "meditatio_perguntas": [
+      "Que “ventos contrários” agitam hoje a minha barca?",
+      "Onde fixo o olhar nas dificuldades: no vento ou em Jesus?",
+      "Grito com confiança “Senhor, salva-me” quando começo a afundar?"
+    ],
+    "oratio_guia": "Senhor Jesus, que caminhas sobre as águas e dizes “Coragem, sou eu”, estende a tua mão quando eu começar a afundar. Fixa o meu olhar em ti, e não no vento. Verdadeiramente, tu és o Filho de Deus. Amém.",
+    "contemplatio_foco": { "texto": "Tende confiança; sou eu, não temais.", "ref": "Mt 14,27" }
+  },
+  "ancoras": {
+    "14:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:22–33#1", "sintese": "Deixaram o Senhor contra a vontade, não querendo separar-se dele nem por um momento." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#2", "sintese": "Depois de um grande milagre, despede as multidões, ensinando-nos a nunca buscar o louvor da multidão." }
+      ],
+      "nota": null
+    },
+    "14:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#6", "sintese": "Antes o tinham na barca; agora estão sozinhos: pouco a pouco os conduz a coisas maiores." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#8", "sintese": "Permite que sejam agitados toda a noite, despertando pelo temor maior desejo dele." }
+      ],
+      "nota": null
+    },
+    "14:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:22–33#9", "sintese": "As guardas militares dividem a noite em quatro turnos de três horas: estiveram em perigo a noite inteira." }
+      ],
+      "nota": null
+    },
+    "14:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:22–33#13", "sintese": "“Sou eu”: podiam reconhecê-lo pela voz, ou saber que era aquele que falara a Moisés: “Eu sou”." }
+      ],
+      "nota": null
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#15", "sintese": "Não disse “roga por mim”, mas “manda-me”: crê não só que Cristo pode andar sobre o mar, mas também levar outros." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 76, 5", "catena": "14:22–33#14", "sintese": "Isto não o posso por mim, mas em ti posso: Pedro reconheceu o que era por si e o que receberia do Senhor." }
+      ],
+      "nota": null
+    },
+    "14:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#18", "sintese": "Pedro venceu o maior, as ondas, mas perturba-se com o menor, o vento: tal é a natureza humana." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 76, 8", "catena": "14:22–33#20", "sintese": "Confiou no Senhor e pôde; vacilou como homem, mas voltou-se para o Senhor: “Senhor, salva-me”." }
+      ],
+      "nota": null
+    },
+    "14:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:22–33#21", "sintese": "Não mandou cessar os ventos, mas estendeu a mão, porque era necessária a fé dele." }
+      ],
+      "nota": null
+    },
+    "14:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "14:22–33#24", "sintese": "Se os marinheiros, depois de um só milagre de acalmar o mar, confessam que é verdadeiramente Filho de Deus, como Ário o prega criatura na Igreja?" }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
