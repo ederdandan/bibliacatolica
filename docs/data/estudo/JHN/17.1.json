@@ -1,0 +1,121 @@
+{
+  "id": "JHN.17.1",
+  "livro": "JHN",
+  "titulo": "A oração sacerdotal",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 17,1-26",
+  "ini": { "c": 17, "v": 1 },
+  "fim": { "c": 17, "v": 26 },
+  "liturgia": { "tema_central": "“Para que sejam todos um”: o Filho ora pelos seus e por todos os que hão de crer", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus levanta os olhos ao céu: “Pai, chegou a hora; glorifica o teu Filho, para que o teu Filho te glorifique”, e, pelo poder sobre toda a criatura, dê a vida eterna a todos os que o Pai lhe deu. A vida eterna é conhecer o único Deus verdadeiro e Jesus Cristo, seu enviado. Glorificou o Pai na terra, acabou a obra que lhe confiou; agora pede a glória que tinha junto dele antes que houvesse mundo. Manifestou o nome do Pai aos que lhe deu do meio do mundo; guardaram a palavra e creram que Ele saiu do Pai. Ora por eles, não pelo mundo: tudo o que é seu é do Pai, e tudo o que é do Pai é seu. Já não está no mundo, mas eles estão: “Pai santo, guarda-os no teu nome, para que sejam um, assim como nós”. Guardou-os, e nenhum se perdeu, exceto o filho da perdição. Não pede que os tire do mundo, mas que os guarde do mal. “Santifica-os pela verdade; a tua palavra é a verdade.” Como o Pai o enviou, Ele os envia; por eles se consagra, para que sejam santificados. Ora também pelos que hão de crer pela palavra deles: que todos sejam um, como o Pai nele e Ele no Pai, para que o mundo creia. Quer que, onde Ele está, estejam os que o Pai lhe deu, para contemplarem a sua glória. O mundo não conheceu o Pai; Ele conheceu-o e dá-lo a conhecer, para que o amor com que o Pai o amou esteja neles.",
+    "alegorico": "É a oração do Sumo Sacerdote antes do sacrifício: “por eles me consagro” quer dizer “ofereço-me a ti em sacrifício”; outrora a santificação era em figura, numa ovelha, agora é em verdade. A unidade que pede é a da Cabeça e do corpo, um só Cristo; mas pede mais: que os seus sejam um nele como Ele é um com o Pai, na mesma natureza. A glória que tinha antes do mundo é o amor com que o Pai o amou, e nesse amor também nos amou antes da criação.",
+    "moral": "Jesus ergue os olhos ao céu para nos ensinar o fervor da oração, com os olhos do corpo e os da mente. Deus é glorificado aqui quando é anunciado, conhecido e crido. Não pede que sejamos tirados do mundo, mas guardados do mal; os santos devem ainda crescer em santidade, com o auxílio da graça. Separados por prazeres e concupiscências, não podemos ser um em nós mesmos: só no Mediador. Não há escândalo maior que a divisão, nem argumento maior para crer que a unidade dos fiéis.",
+    "anagogico": "“Que contemplem a minha glória”: o repouso do céu é ver o Filho de Deus. Quando a visão tomar o lugar da fé, a eternidade tomará posse da nossa mortalidade e a transformará. A vida eterna é conhecer o Pai e o Filho, e esse conhecimento é dado ao mundo reconciliado pela misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levantando os olhos ao céu, disse: “Pai, chegou a hora, glorifica o teu Filho, para que teu Filho te glorifique a ti. Ora a vida eterna é esta: Que te conheçam a ti como o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste. Não peço que os tires do mundo, mas que os guardes do mal. Santifica-os pela verdade. Não rogo somente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra, para que sejam todos um”.",
+    "meditatio_perguntas": [
+      "Sei-me incluído na oração de Jesus, entre os que creram pela palavra dos Apóstolos?",
+      "Contribuo para a unidade dos cristãos, ou para a divisão que escandaliza o mundo?",
+      "Deixo a Palavra de Deus santificar-me na verdade, no meio do mundo?"
+    ],
+    "oratio_guia": "Pai santo, guarda-me no teu nome com todos os que o teu Filho te confiou. Santifica-me pela verdade da tua palavra e guarda-me do mal. Faz-nos um, como tu e o Filho sois um, para que o mundo creia; e leva-me a contemplar a glória de Jesus para sempre. Amém.",
+    "contemplatio_foco": { "texto": "para que sejam todos um, como tu, Pai, o és em mim, e eu em ti", "ref": "Jo 17,21" }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:1–5#2", "sintese": "Ergueu os olhos para nos ensinar o fervor na oração, com os olhos do corpo e da mente." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "17:1–5#4", "sintese": "Não o dia, mas a hora: a de ser cuspido, flagelado e crucificado; e nela o Pai glorifica o Filho." }
+      ],
+      "nota": { "texto": "Desde o séc. XVI (David Chytraeus) chama-se a este capítulo “oração sacerdotal”: Jesus, Sumo Sacerdote, intercede antes de se oferecer.", "origem": "ia" }
+    },
+    "17:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:1–5#19", "sintese": "Quando a visão tomar o lugar da fé, a eternidade tomará posse da nossa mortalidade e a transformará." }
+      ],
+      "nota": null
+    },
+    "17:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:1–5#20", "sintese": "Deus é glorificado na terra quando é anunciado, dado a conhecer e crido pelos homens." }
+      ],
+      "nota": null
+    },
+    "17:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:6–8#7", "sintese": "Receberam as palavras apreendendo-as com a mente; e conheceram, não por visão, mas crendo." }
+      ],
+      "nota": null
+    },
+    "17:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:9–13#1", "sintese": "O mundo por quem não ora são os que vivem segundo a concupiscência e não foram escolhidos por graça." }
+      ],
+      "nota": null
+    },
+    "17:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:9–13#8", "sintese": "Não diz só “eu e eles um”, como Cabeça e corpo, mas “um como nós”, mostrando a sua consubstancialidade com o Pai." }
+      ],
+      "nota": null
+    },
+    "17:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:14–19#5", "sintese": "Os que já são santos devem ainda crescer em santidade, com o auxílio da graça." }
+      ],
+      "nota": null
+    },
+    "17:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:14–19#9", "sintese": "“Consagro-me”: ofereço-me a ti em sacrifício; outrora em figura, numa ovelha, agora em verdade." }
+      ],
+      "nota": null
+    },
+    "17:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:20–23#2", "sintese": "“Todos”: também nós, nascidos muito depois, que cremos pela palavra dos Apóstolos." }
+      ],
+      "nota": null
+    },
+    "17:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:20–23#7", "sintese": "Separados por concupiscências e pelo pecado, não podemos ser um em nós; só purificados pelo Mediador, nele." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:20–23#11", "sintese": "Não há escândalo maior que a divisão; a unidade dos fiéis é grande argumento para crer." }
+      ],
+      "nota": null
+    },
+    "17:23": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "Onde o texto traz “seriedade”, o original (eis hen) diz “unidade”: “para que sejam perfeitos na unidade”.", "origem": "ia" }
+    },
+    "17:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:24–26#4", "sintese": "Não “participem”, mas “contemplem”: o repouso, lá, consiste em ver o Filho de Deus." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:24–26#6", "sintese": "A glória é o amor com que o Pai o amou antes do mundo; e nessa glória também nos amou." }
+      ],
+      "nota": null
+    },
+    "17:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:24–26#9", "sintese": "Conhecer-te é a vida eterna, dada não ao mundo condenado, mas ao mundo reconciliado, por misericórdia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

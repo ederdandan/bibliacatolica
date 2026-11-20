@@ -1,0 +1,115 @@
+{
+  "id": "JHN.18.28",
+  "livro": "JHN",
+  "titulo": "Jesus diante de Pilatos",
+  "secao": "A Paixão",
+  "referencia": "Jo 18,28–19,16",
+  "ini": { "c": 18, "v": 28 },
+  "fim": { "c": 19, "v": 16 },
+  "liturgia": { "tema_central": "“O meu reino não é deste mundo”: o Rei coroado de espinhos diante do poder humano", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "De manhã levam Jesus de Caifás ao Pretório; não entram para não se contaminarem e poderem comer a Páscoa. Pilatos sai e pergunta a acusação; respondem que, se não fosse malfeitor, não lho entregariam, e que não lhes é permitido matar ninguém. Pilatos interroga Jesus: “Tu és o rei dos judeus?”. Jesus: “O meu reino não é deste mundo; se fosse, os meus ministros lutariam”. “Logo, tu és rei?” “Tu o dizes, sou rei. Nasci e vim ao mundo para dar testemunho da verdade; todo o que é da verdade ouve a minha voz.” Pilatos: “O que é a verdade?”. Sai e declara não achar nele culpa; propõe soltá-lo pela Páscoa, mas gritam: “Não este, mas Barrabás!”. Pilatos manda flagelá-lo; os soldados coroam-no de espinhos, vestem-lhe um manto de púrpura, saúdam-no por escárnio e esbofeteiam-no. Pilatos apresenta-o: “Eis aqui o homem”. Gritam: “Crucifica-o!”. Dizem que deve morrer porque se fez Filho de Deus; Pilatos teme mais e pergunta-lhe: “Donde és tu?”. Jesus cala-se. “Não sabes que tenho poder?” Jesus: “Não terias poder algum sobre mim, se não te fosse dado do alto”. Pilatos procura soltá-lo, mas ameaçam: “Não és amigo de César”. No Litóstrotos, ao meio-dia da Preparação, diz: “Eis o vosso rei!”. “Não temos rei senão César.” Então entrega-o para ser crucificado.",
+    "alegorico": "O reino de Cristo não vem “daqui”: governa o mundo, mas a sua origem é do alto, de antes dos séculos. Testemunhar a verdade é testemunhar de si mesmo, que é a Verdade. Barrabás, “filho do seu mestre”, isto é, do diabo, é preferido ao Filho do Pai. A coroa de espinhos e a púrpura, postas por escárnio, são para nós sinais do mistério: o Rei reina pelo sofrimento. Os que gritam “não temos rei senão César” rejeitam o Reino de Deus e chamam sobre si outro senhor.",
+    "moral": "Ó ímpia cegueira: temiam contaminar-se num pretório estrangeiro, e não temiam derramar o sangue inocente! A religião exterior pode coexistir com o coração homicida. Pilatos pergunta pela verdade e não espera a resposta; por fim é vencido pelo medo de perder o favor de César. Jesus, quando se cala, cala-se como ovelha; quando fala, ensina como pastor: todo poder vem do alto, e quem entrega um inocente peca mais. Assim aprenderam os mártires a sofrer: o Reino que não é deste mundo venceu o mundo soberbo pela paciência.",
+    "anagogico": "“Eis aqui o homem”: no rosto desfigurado aparece o homem verdadeiro, aquele que Deus quis desde o princípio, e o Rei que um dia se sentará no tribunal para julgar quem o julgou. Quem é da verdade ouve a sua voz agora e há de vê-lo reinar para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus respondeu: “O meu reino não é deste mundo”. “Tu o dizes, sou rei. Nasci, vim ao mundo para dar testemunho da verdade; todo o que está pela verdade, ouve a minha voz.” Pilatos disse-lhe: “O que é a verdade?” Saiu, pois, Jesus, trazendo a coroa de espinhos e o manto de púrpura. Pilatos disse-lhes: “Eis aqui o homem”.",
+    "meditatio_perguntas": [
+      "Pergunto pela verdade e fujo antes de ouvir a resposta, como Pilatos?",
+      "Que “César” prefiro a Cristo quando a fé me custa favor ou segurança?",
+      "Contemplo no Homem coroado de espinhos o meu Rei?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei coroado de espinhos, cujo reino não é deste mundo, dá-me ser da verdade e ouvir a tua voz. Livra-me do medo de Pilatos e da cegueira dos que te preferiram Barrabás. Reina em mim pela tua paciência e pelo teu amor. Amém.",
+    "contemplatio_foco": { "texto": "O meu reino não é deste mundo", "ref": "Jo 18,36" }
+  },
+  "ancoras": {
+    "18:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:28–32#9", "sintese": "Temiam contaminar-se num pretório estrangeiro e não temiam derramar o sangue de um inocente." }
+      ],
+      "nota": { "texto": "Entrar em casa de pagão tornava impuro para a refeição pascal. Em João, Jesus morre na hora em que se imolavam os cordeiros da Páscoa.", "origem": "ia" }
+    },
+    "18:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:33–38#9", "sintese": "Desfaz a ideia de judeus e gentios de que aspirava a um poder político ilegítimo." },
+        { "autor": "Teofilato", "obra": null, "catena": "18:33–38#12", "sintese": "Não “daqui”: reina no mundo e governa-o, mas o seu Reino vem do alto e de antes dos séculos." }
+      ],
+      "nota": null
+    },
+    "18:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:33–38#17", "sintese": "Testemunhando a verdade, testemunha de si mesmo; quem é da verdade ouve com o ouvido interior e crê." }
+      ],
+      "nota": null
+    },
+    "18:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:38–40#1", "sintese": "A pergunta exigia tempo, e era preciso livrá-lo logo da fúria dos judeus; por isso saiu." }
+      ],
+      "nota": null
+    },
+    "18:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "18:38–40#9", "sintese": "Barrabás quer dizer “filho do seu mestre”, isto é, do diabo." }
+      ],
+      "nota": null
+    },
+    "19:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:1–5#2", "sintese": "Em vez de diadema, espinhos; púrpura de rei por escárnio; mas para nós os seus atos têm sentido." }
+      ],
+      "nota": null
+    },
+    "19:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:1–5#4", "sintese": "Assim aprenderam os mártires a sofrer; o Reino que não é deste mundo venceu o mundo pela paciência." }
+      ],
+      "nota": null
+    },
+    "19:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:1–5#6", "sintese": "Pilatos mostra-o ultrajado para que os inimigos, vendo-o assim, deixassem de ter sede do seu sangue." }
+      ],
+      "nota": null
+    },
+    "19:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:6–8#2", "sintese": "Nenhuma das acusações era falsa: era Filho unigênito de Deus e Rei constituído por Deus." }
+      ],
+      "nota": null
+    },
+    "19:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:9–12#3", "sintese": "Calava-se como ovelha, respondeu como pastor: não há poder que não venha de Deus." },
+        { "autor": "Teofilato", "obra": null, "catena": "19:9–12#4", "sintese": "Se Ele não se entregasse e o Pai não consentisse, Pilatos não teria poder algum." }
+      ],
+      "nota": null
+    },
+    "19:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:12–16#13", "sintese": "Rejeitaram o Reino de Cristo e invocaram sobre si o de César." }
+      ],
+      "nota": null
+    },
+    "19:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:12–16#14", "sintese": "Pilatos é por fim vencido pelo medo de parecer opor-se a César." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

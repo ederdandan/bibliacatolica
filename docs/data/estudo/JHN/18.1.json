@@ -1,0 +1,116 @@
+{
+  "id": "JHN.18.1",
+  "livro": "JHN",
+  "titulo": "A prisão de Jesus; Anás e as negações de Pedro",
+  "secao": "A Paixão",
+  "referencia": "Jo 18,1-27",
+  "ini": { "c": 18, "v": 1 },
+  "fim": { "c": 18, "v": 27 },
+  "liturgia": { "tema_central": "“Sou eu”: o Senhor entrega-se livremente, e Pedro nega-o", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus sai com os discípulos para além da torrente do Cedron, onde há um horto. Judas, que conhecia o lugar, vem com a coorte e guardas dos pontífices e fariseus, com lanternas, archotes e armas. Jesus, sabendo tudo o que lhe ia acontecer, adianta-se: “A quem buscais?”. “A Jesus de Nazaré.” “Sou eu.” Recuam e caem por terra. Pergunta de novo, e diz: se o procuram a Ele, deixem ir estes; assim se cumpre que não perdeu nenhum dos que o Pai lhe deu. Pedro puxa da espada e corta a orelha direita de Malco, servo do pontífice. Jesus: “Mete a tua espada na bainha. Não hei de beber o cálice que o Pai me deu?”. Prendem-no, atam-no e levam-no primeiro a Anás, sogro de Caifás. Pedro e outro discípulo, conhecido do pontífice, seguem Jesus; o outro faz entrar Pedro. A porteira pergunta-lhe se é discípulo dele: “Não sou”. Pedro aquece-se ao braseiro com os servos. O pontífice interroga Jesus sobre os discípulos e a doutrina; Jesus responde que falou sempre em público: perguntem aos que o ouviram. Um guarda dá-lhe uma bofetada; Jesus: “Se falei mal, mostra o mal; se falei bem, por que me feres?”. Anás envia-o atado a Caifás. Pedro nega mais duas vezes, e logo o galo canta.",
+    "alegorico": "Atravessar o Cedron é beber da torrente da Paixão; e é num jardim que se apaga o pecado cometido no jardim do paraíso. Uma só palavra, “Sou eu”, sem golpe algum, prostra uma multidão armada: o Deus oculto na carne deixa ver por um instante o seu poder. Malco quer dizer “que há de reinar”: a orelha cortada e curada pelo Senhor é o ouvido velho abolido e o ouvido novo criado, na novidade do Espírito.",
+    "moral": "Cristo dá ordens aos seus inimigos e salva os seus: entrega-se para que eles fiquem livres. Prenderam aquele de quem não se aproximaram; aproximemo-nos dele para o termos no coração. A espada de Pedro é reprovada: a resposta ao mal é a paciência, e Cristo cura até o ferido pelo seu discípulo. Pedro seguia por devoção, mas de longe, por medo; o fogo do amor abafado, aquecia-se nas brasas dos perseguidores, isto é, no amor desta vida. Deus permitiu que caísse para que, lembrando-se da sua queda, fosse brando com os pecadores. Diante da bofetada, Jesus responde com verdade e mansidão, sem desejar castigo.",
+    "anagogico": "“Não hei de beber o cálice que o Pai me deu?”: chamar cálice à morte mostra quanto lhe era aceitável morrer pela salvação dos homens. O ouvido novo de Malco anuncia os que, ouvindo segundo o Espírito, reinarão com Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus que sabia tudo o que estava para lhe acontecer, adiantou-se e disse-lhes: “A quem buscais?” Responderam-lhe: “A Jesus de Nazaré”. Jesus disse-lhes: “Sou eu”. Se é, pois, a mim que buscais, deixai ir estes. Mete a tua espada na bainha. Não hei-de beber o cálice que o Pai me deu? Pedro negou outra vez, e imediatamente cantou o galo.",
+    "meditatio_perguntas": [
+      "Que “espada” uso para me defender quando Jesus me pede paciência?",
+      "Sigo Jesus de perto, ou de longe, aquecendo-me no fogo do mundo?",
+      "Respondo às ofensas com a verdade mansa de Jesus diante da bofetada?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te entregaste livremente para que os teus ficassem livres, dá-me seguir-te de perto e não te negar. Cura o meu ouvido para escutar segundo o Espírito, e ensina-me a beber contigo o cálice que o Pai me dá. Amém.",
+    "contemplatio_foco": { "texto": "Não hei-de beber o cálice que o Pai me deu?", "ref": "Jo 18,11" }
+  },
+  "ancoras": {
+    "18:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "18:1–2#4", "sintese": "Atravessa a torrente da Paixão; num jardim apaga o pecado cometido num jardim." }
+      ],
+      "nota": null
+    },
+    "18:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:1–2#6", "sintese": "Ali o lobo em pele de ovelha aprendeu a dispersar o rebanho e a armar ciladas ao pastor." }
+      ],
+      "nota": null
+    },
+    "18:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:3–9#7", "sintese": "Sem golpe algum, uma só palavra prostrou uma multidão armada: Deus estava oculto na carne." }
+      ],
+      "nota": { "texto": "“Sou eu” (egō eimi) ecoa o nome divino de Ex 3,14; a queda dos soldados é a reação à manifestação de Deus.", "origem": "ia" }
+    },
+    "18:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:3–9#12", "sintese": "Dá ordens aos inimigos, e eles deixam ir os que Ele não queria que perecessem." }
+      ],
+      "nota": null
+    },
+    "18:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:10–11#5", "sintese": "Malco, “que há de reinar”: orelha cortada e curada, ouvido velho abolido e ouvido novo no Espírito." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:10–11#4", "sintese": "Curou-o para nos ensinar a fazer o bem a quem nos faz sofrer e para mostrar o seu poder." }
+      ],
+      "nota": null
+    },
+    "18:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:10–11#7", "sintese": "Reprovou o gesto de Pedro: devia ser exortado à paciência, e isto foi escrito para nossa instrução." },
+        { "autor": "Teofilato", "obra": null, "catena": "18:10–11#9", "sintese": "Chamando-lhe cálice, mostra quanto lhe era aceitável morrer pela salvação dos homens." }
+      ],
+      "nota": null
+    },
+    "18:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:12–14#1", "sintese": "Prenderam-no sem se aproximarem dele; se se aproximassem, prendê-lo-iam no coração, não para o matar." }
+      ],
+      "nota": null
+    },
+    "18:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "18:15–18#1", "sintese": "Seguia o Mestre por devoção, embora de longe, por medo." }
+      ],
+      "nota": null
+    },
+    "18:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:15–18#7", "sintese": "Deus permitiu que Pedro caísse para que, lembrando-se da queda, fosse brando com os pecadores." }
+      ],
+      "nota": null
+    },
+    "18:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "18:15–18#10", "sintese": "Abafado o fogo do amor, aquecia-se nas brasas dos perseguidores, isto é, no amor desta vida." }
+      ],
+      "nota": null
+    },
+    "18:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "18:22–24#2", "sintese": "Cumpre-se “ofereci a face aos que me feriam”: ferido injustamente, responde com mansidão." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:22–24#4", "sintese": "Que há de mais verdadeiro e manso? Não desejou ao agressor fogo do céu nem castigo algum." }
+      ],
+      "nota": null
+    },
+    "18:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:25–27#4", "sintese": "Cumprida a predição do Médico, descoberta a presunção do enfermo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
