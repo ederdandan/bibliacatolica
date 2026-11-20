@@ -1,0 +1,99 @@
+{
+  "id": "MAT.25.1",
+  "livro": "MAT",
+  "titulo": "A parábola das dez virgens",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 25,1-13",
+  "ini": { "c": 25, "v": 1 },
+  "fim": { "c": 25, "v": 13 },
+  "liturgia": { "tema_central": "“Eis o esposo! Saí-lhe ao encontro”: vigiar com as lâmpadas acesas", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O Reino é comparado a dez virgens que, com as suas lâmpadas (tochas embebidas em azeite), saem ao encontro do esposo, segundo os costumes nupciais da época: o noivo ia buscar a noiva e o cortejo entrava à noite na casa da festa. Cinco são prudentes e levam azeite de reserva; cinco são néscias e não levam. O esposo tarda, e todas adormecem. À meia-noite ouve-se o grito: “Eis o esposo!” As lâmpadas das néscias apagam-se; as prudentes não podem partilhar o azeite. Enquanto as néscias vão comprar, chega o esposo; as preparadas entram e a porta se fecha. Às que voltam, ele responde: “Não vos conheço”. Vigiai, pois não sabeis o dia nem a hora.",
+    "alegorico": "O esposo é Cristo; as virgens, a Igreja que o espera. Todas têm lâmpadas, isto é, a fé; mas nem todas têm azeite: as boas obras, a caridade, a misericórdia. O sono é a morte, que alcança bons e maus antes da vinda do Senhor; o grito da meia-noite, a trombeta da ressurreição. A porta fechada é o fim do tempo da conversão.",
+    "moral": "Não basta a fé nem mesmo a virgindade, se falta o azeite das obras de misericórdia. Cada um receberá segundo as próprias obras: as virtudes de um não podem suprir os vícios de outro no dia do juízo. O azeite compra-se agora, com a esmola aos pobres; depois da morte já não há tempo de adquiri-lo. De nada serve chamar “Senhor, Senhor” a quem se negou com as obras.",
+    "anagogico": "As bodas são a união eterna com Cristo, quando o corruptível se revestir de incorruptibilidade. Com o juízo, fecha-se a porta: já não há lugar para orações nem méritos, mas só para a recompensa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Reino dos Céus é semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo. Cinco eram néscias e cinco prudentes. As néscias não levaram azeite; as prudentes levaram azeite nos vasos com as lâmpadas. Tardando o esposo, adormeceram todas. À meia-noite ouviu-se um grito: “Eis o esposo! Saí-lhe ao encontro!” As néscias disseram às prudentes: “Dai-nos do vosso azeite, porque as nossas lâmpadas se apagam”. Enquanto foram comprá-lo, chegou o esposo; as que estavam preparadas entraram com ele para as bodas, e fechou-se a porta. Depois vieram as outras: “Senhor, senhor, abre-nos!” Ele respondeu: “Não vos conheço”. Vigiai, pois, porque não sabeis o dia nem a hora.",
+    "meditatio_perguntas": [
+      "A minha lâmpada da fé tem o azeite das boas obras?",
+      "Estou adiando para “depois” a conversão e a caridade?",
+      "Se o Esposo chegasse esta noite, eu estaria preparado?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo que vens à meia-noite, enche a minha lâmpada com o azeite da caridade. Não permitas que eu adie a conversão. Que, ao ouvir o teu chamado, eu saia ao teu encontro e entre contigo nas bodas eternas. Amém.",
+    "contemplatio_foco": { "texto": "Eis que vem o esposo, saí-lhe ao encontro.", "ref": "Mt 25,6" }
+  },
+  "ancoras": {
+    "25:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 12 sobre os Evangelhos, 1", "catena": "25:1–13#2", "sintese": "Por Reino dos Céus entende-se a Igreja presente." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:1–13#5", "sintese": "A virgindade é coisa grande, mas, sem as obras de misericórdia, será lançada fora com os adúlteros." },
+        { "autor": "Santo Agostinho", "obra": "De Div. Quaest. 83, q. 59", "catena": "25:1–13#8", "sintese": "As lâmpadas que levam nas mãos são as suas obras: “brilhe a vossa luz diante dos homens”." }
+      ],
+      "nota": null
+    },
+    "25:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "25:1–13#14", "sintese": "Todas têm lâmpadas, mas nem todas têm azeite." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:1–13#16", "sintese": "As que têm azeite unem à fé o ornamento das boas obras; as outras professam a mesma fé, mas descuidam as obras." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:1–13#18", "sintese": "O azeite significa a caridade, a esmola e todo socorro prestado aos necessitados." }
+      ],
+      "nota": null
+    },
+    "25:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "25:1–13#21", "sintese": "Dormir é morrer; cochilar é perder a saúde antes da morte." }
+      ],
+      "nota": null
+    },
+    "25:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "25:1–13#25", "sintese": "À meia-noite: quando ninguém sabe nem espera." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:1–13#26", "sintese": "De repente, quando todos se julgarem seguros, a vinda de Cristo será anunciada pelo clamor dos anjos." }
+      ],
+      "nota": null
+    },
+    "25:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "25:1–13#33", "sintese": "Apagam-se porque as obras que pareciam resplandecentes aos homens se obscurecem por dentro à vinda do Juiz." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "25:1–13#34", "sintese": "Buscam dos homens, que não veem o coração, testemunho diante de Deus, que vê o coração." }
+      ],
+      "nota": null
+    },
+    "25:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:1–13#37", "sintese": "Não por avareza, mas por temor: as virtudes de um não poderão expiar os vícios de outro no dia do juízo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:1–13#39", "sintese": "Os pobres são para nós grandes negociantes; mas estão aqui, não lá: é aqui que devemos armazenar o azeite." }
+      ],
+      "nota": null
+    },
+    "25:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:1–13#48", "sintese": "Depois do dia do juízo não há mais ocasião para as boas obras: e fechou-se a porta." }
+      ],
+      "nota": null
+    },
+    "25:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:1–13#51", "sintese": "Chamá-lo Senhor é sinal de fé; mas de que serve confessar com a boca aquele a quem negas com as obras?" }
+      ],
+      "nota": null
+    },
+    "25:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "25:1–13#55", "sintese": "Não sabemos o dia da vinda do Noivo nem o do nosso adormecimento: estejamos preparados para ambos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

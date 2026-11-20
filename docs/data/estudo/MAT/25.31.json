@@ -1,0 +1,83 @@
+{
+  "id": "MAT.25.31",
+  "livro": "MAT",
+  "titulo": "O Juízo final",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 25,31-46",
+  "ini": { "c": 25, "v": 31 },
+  "fim": { "c": 25, "v": 46 },
+  "liturgia": { "tema_central": "“Foi a mim que o fizestes”: Cristo nos pequeninos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O Filho do Homem virá na sua glória, com os anjos, e sentar-se-á no trono. Todas as nações serão reunidas diante dele, e Ele separará uns dos outros como o pastor separa as ovelhas dos cabritos (na Palestina pastavam juntos durante o dia e eram separados à noite). Aos da direita: “Vinde, benditos de meu Pai, recebei o Reino preparado desde a fundação do mundo, porque tive fome e me destes de comer…”. Eles perguntam quando o fizeram; o Rei responde: “Todas as vezes que o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes”. Aos da esquerda: “Apartai-vos de mim, malditos, para o fogo eterno”, por terem omitido as mesmas obras. Irão estes para o suplício eterno, e os justos para a vida eterna.",
+    "alegorico": "O Rei-Juiz é o mesmo Filho do Homem que, dois dias depois, seria entregue à cruz: anuncia a glória do seu triunfo para fortalecer os discípulos. Ele aparecerá no juízo na forma humana que tomou de nós. Identifica-se com os pequeninos: no pobre, no faminto, no preso, é Cristo que é acolhido ou rejeitado.",
+    "moral": "O critério do juízo é a caridade concreta: as obras de misericórdia corporais (dar de comer, dar de beber, acolher, vestir, visitar os doentes e os presos). Os condenados não são acusados de crimes, mas de omissões, e de coisas fáceis, como visitar um doente. Os pequeninos são todos os fiéis humildes, pobres e desprezados, também os seculares.",
+    "anagogico": "“Recebei o Reino preparado para vós”: a herança devida desde sempre na presciência de Deus. O castigo é eterno e a vida é eterna: a vida eterna é contemplar a Deus, “Aquele que é”, sem temor de queda alguma."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando o Filho do Homem vier na sua glória, sentar-se-á no seu trono, e serão reunidas diante dele todas as nações; e separará uns dos outros, como o pastor separa as ovelhas dos cabritos. Então o Rei dirá aos da direita: “Vinde, benditos de meu Pai, possuí o Reino que vos está preparado desde a criação do mundo. Porque tive fome, e destes-me de comer; tive sede, e destes-me de beber; era peregrino, e recolhestes-me; estava nu, e vestistes-me; estava enfermo, e visitastes-me; estava no cárcere, e viestes ver-me”. Os justos perguntarão: “Senhor, quando foi que te vimos com fome?” E o Rei responderá: “Em verdade vos digo: todas as vezes que o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes”.",
+    "meditatio_perguntas": [
+      "Reconheço o rosto de Cristo nos que têm fome, estão sós, doentes ou presos?",
+      "Que obra de misericórdia tenho omitido?",
+      "Vivo hoje de modo a ouvir um dia: “Vinde, benditos de meu Pai”?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei e Juiz, que te escondes nos pequeninos, abre os meus olhos para te reconhecer neles. Dá-me um coração misericordioso, que te sirva no faminto, no doente e no preso, para que um dia eu entre no teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Todas as vezes que o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes.", "ref": "Mt 25,40" }
+  },
+  "ancoras": {
+    "25:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:31–45#2", "sintese": "Aquele que dentro de dois dias seria entregue à cruz apresenta agora a glória do seu triunfo, compensando com a promessa da recompensa o escândalo que se havia de seguir." },
+        { "autor": "Santo Agostinho", "obra": "In Ioann. Tract. 21", "catena": "25:31–45#3", "sintese": "Ímpios e justos vê-lo-ão no juízo na forma humana que tomou de nós; só depois os justos o verão na forma de Deus." }
+      ],
+      "nota": null
+    },
+    "25:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:31–45#12", "sintese": "Ovelhas e cabritos indicam a fecundidade daquelas, ricas em lã, leite e cordeiros, e a esterilidade destes." }
+      ],
+      "nota": null
+    },
+    "25:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:31–45#18", "sintese": "Não diz “recebei”, mas “possuí” ou “herdai”, como coisa vossa, devida desde antigamente." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:31–45#19", "sintese": "“Desde a fundação do mundo”: na presciência de Deus, para quem as coisas futuras são como já feitas." }
+      ],
+      "nota": null
+    },
+    "25:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 26, 27", "catena": "25:31–45#25", "sintese": "São julgados e reinam os que lavam com lágrimas as manchas da sua vida e redimem os pecados com as boas obras." }
+      ],
+      "nota": null
+    },
+    "25:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:31–45#28", "sintese": "Poderia entender-se de cada pobre; mas “meus irmãos mais pequeninos” parece designar os pobres de espírito, os que fazem a vontade do Pai." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:31–45#29", "sintese": "Chama-os pequeninos porque são humildes, pobres e desprezados; e não só os monges, mas todo fiel, ainda que secular." }
+      ],
+      "nota": null
+    },
+    "25:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:31–45#33", "sintese": "Faltaram à misericórdia em tudo, até no mais fácil, como visitar um doente." }
+      ],
+      "nota": null
+    },
+    "25:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Fide et Operibus 15", "catena": "25:46#0", "sintese": "Enganam-se os que dizem que o fogo é eterno, mas não o castigo: o Senhor previu isto e concluiu assim a sua sentença." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "25:46#5", "sintese": "Os castigos são eternos, e a vida perpétua já não teme queda alguma." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 8", "catena": "25:46#4", "sintese": "Na eternidade contemplaremos “Aquele que é”: esta é a vida eterna, conhecer o único Deus verdadeiro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
