@@ -1,0 +1,113 @@
+{
+  "id": "LUK.15.11",
+  "livro": "LUK",
+  "titulo": "O filho pródigo",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 15,11-32",
+  "ini": { "c": 15, "v": 11 },
+  "fim": { "c": 15, "v": 32 },
+  "liturgia": { "tema_central": "O Pai misericordioso que corre ao encontro do filho e convida o irmão à festa", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um homem tinha dois filhos. O mais novo pede a sua parte da herança, parte para uma terra distante e esbanja tudo vivendo dissolutamente. Sobrevém uma grande fome; põe-se a guardar porcos e desejava comer as alfarrobas deles, mas ninguém lhas dava. Entrando em si, diz: “Levantar-me-ei, irei ter com meu pai e lhe direi: Pai, pequei contra o céu e contra ti; já não sou digno de ser chamado teu filho”. Ainda longe, o pai vê-o, enche-se de compaixão, corre, lança-se-lhe ao pescoço e beija-o. Antes que o filho termine, manda trazer a melhor túnica, o anel e as sandálias, e matar o novilho gordo: “Este meu filho estava morto e reviveu; estava perdido e foi encontrado”. O filho mais velho, ao voltar do campo, indigna-se e não quer entrar; o pai sai a pedir-lhe. Ele queixa-se de nunca ter recebido um cabrito; o pai responde: “Filho, tu estás sempre comigo, e tudo o que é meu é teu; mas era justo fazer festa, porque este teu irmão estava morto e reviveu”.",
+    "alegorico": "O pai é Deus, que tem dois povos: o mais velho é Israel, que permaneceu junto da Lei; o mais novo, os gentios, que se afastaram para a idolatria. O senhor dos porcos é o príncipe deste mundo, e as alfarrobas, a doutrina vã do mundo. A melhor túnica é a dignidade perdida por Adão, o anel é o penhor do Espírito Santo, as sandálias a prontidão para o Evangelho. O novilho gordo é Cristo, imolado e oferecido no banquete da Igreja.",
+    "moral": "Afastamo-nos de Deus não pelo lugar, mas pelo coração; afastar-se de Cristo é afastar-se de si mesmo, e voltar a Ele é voltar a si. A fome que sobrevém é a fome de boas obras, pois nada sacia uma mente pródiga. A conversão começa por “entrar em si” e confessar: Deus sabe tudo, mas espera a voz da confissão. O irmão mais velho adverte contra a estreiteza de quem se escandaliza com a misericórdia concedida aos que se convertem tarde.",
+    "anagogico": "“Estava morto e reviveu”: a conversão é passagem da morte à vida, antecipação da ressurreição. A festa na casa do Pai é imagem do banquete eterno, para o qual também o irmão mais velho é convidado a entrar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O filho mais novo partiu para uma terra distante, e lá dissipou os seus bens. Tendo entrado em si, disse: “Levantar-me-ei, irei ter com meu pai, e lhe direi: Pai, pequei contra o céu e contra ti; já não sou digno de ser chamado teu filho”. Quando ele estava ainda longe, seu pai viu-o, ficou movido de compaixão, e, correndo, lançou-lhe os braços ao pescoço, e beijou-o. O pai disse aos seus servos: “Trazei depressa o vestido mais precioso; comamos e façamos festa, porque este meu filho estava morto, e reviveu; tinha-se perdido, e foi encontrado”. Ao filho mais velho disse: “Filho, tu estás sempre comigo, tudo o que é meu é teu”.",
+    "meditatio_perguntas": [
+      "Para que “terra distante” tem fugido o meu coração?",
+      "Que me impede de me levantar e voltar ao Pai, confiando que Ele corre ao meu encontro?",
+      "Em que me pareço com o irmão mais velho, que não quer entrar na festa?"
+    ],
+    "oratio_guia": "Pai de misericórdia, pequei contra o céu e contra ti e não sou digno de ser chamado teu filho. Obrigado por me veres ao longe e correres ao meu encontro. Reveste-me da tua graça e faz-me participar da tua alegria. Livra-me da inveja do irmão mais velho e ensina-me a alegrar-me com todos os que voltam a ti. Amém.",
+    "contemplatio_foco": { "texto": "Quando ele estava ainda longe, seu pai viu-o, ficou movido de compaixão, e, correndo, lançou-lhe os braços ao pescoço, e beijou-o.", "ref": "Lc 15,20" }
+  },
+  "ancoras": {
+    "15:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:11–16#5", "sintese": "O patrimônio divino é dado a quem o pede; oxalá não se tivesse afastado do pai!" }
+      ],
+      "nota": { "texto": "Pedir a herança em vida era, na cultura da época, quase desejar a morte do pai; a parábola acentua a gravidade da ruptura.", "origem": "ia" }
+    },
+    "15:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. de Patre et duobus Filiis.", "catena": "15:11–16#6", "sintese": "Partiu para longe não pelo lugar, pois Deus está em toda parte, mas pelo coração: o pecador foge de Deus." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:11–16#16", "sintese": "Que há de mais distante do que afastar-se de si mesmo? Quem se separa de Cristo é exilado da pátria." }
+      ],
+      "nota": null
+    },
+    "15:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:11–16#18", "sintese": "Fome não de pão, mas de boas obras e virtudes; nada sacia uma mente pródiga." }
+      ],
+      "nota": null
+    },
+    "15:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 33.", "catena": "15:11–16#11", "sintese": "As alfarrobas são a doutrina vã do mundo, que não oferece nada estável para a vida feliz." }
+      ],
+      "nota": { "texto": "Para um judeu, guardar porcos, animais impuros (Lv 11,7), era o último grau de degradação.", "origem": "ia" }
+    },
+    "15:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:17–24#1", "sintese": "Volta a si porque se afastara de si: quem volta ao Senhor restitui-se a si mesmo." }
+      ],
+      "nota": null
+    },
+    "15:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 33.", "catena": "15:17–24#8", "sintese": "“Levantar-me-ei”, porque estava caído; “irei”, porque estava longe; “a meu pai”, porque estava sob um senhor de porcos." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:17–24#9", "sintese": "Deus sabe tudo, mas espera a voz da confissão: alivia o peso do erro quem o toma sobre si." }
+      ],
+      "nota": null
+    },
+    "15:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:17–24#17", "sintese": "Antes que ele visse a Deus, o pai viu-o: estar diante dos olhos de alguém é ser amado." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 10 in Ep. ad Rom.; Greg. ubi sup.", "catena": "15:17–24#18", "sintese": "Percebendo o arrependimento, o pai não espera a confissão: antecipa-se e compadece-se." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:17–24#21", "sintese": "Corre porque te ouve meditar no coração; na corrida há presciência, no abraço misericórdia, para levantar quem estava curvado." }
+      ],
+      "nota": null
+    },
+    "15:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:17–24#26", "sintese": "A túnica é o manto da sabedoria; o anel, o selo da fé sincera e a marca da verdade." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:17–24#28", "sintese": "O anel no dedo é o penhor do Espírito Santo, pela participação na graça." }
+      ],
+      "nota": null
+    },
+    "15:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:17–24#32", "sintese": "O novilho gordo é o Senhor; trazê-lo é pregá-lo, e para cada um é morto quando crê na sua morte." }
+      ],
+      "nota": null
+    },
+    "15:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:25–32#7", "sintese": "O irmão mais velho é como o fariseu que se justifica a si mesmo e acusa malignamente o irmão." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "15:25–32#21", "sintese": "Alguns rejeitam a misericórdia dada a quem se converte na velhice, por estreiteza de espírito, sem ver que o Salvador se alegra com os que se salvam." }
+      ],
+      "nota": null
+    },
+    "15:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:25–32#10", "sintese": "O pai não o repreende, mas louva a sua constância e convida-o a uma alegria mais perfeita." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "15:25–32#14", "sintese": "Se deixar de invejar, sentirá que todas as coisas são suas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

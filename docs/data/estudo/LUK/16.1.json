@@ -1,0 +1,96 @@
+{
+  "id": "LUK.16.1",
+  "livro": "LUK",
+  "titulo": "O administrador infiel; o bom uso dos bens",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 16,1-18",
+  "ini": { "c": 16, "v": 1 },
+  "fim": { "c": 16, "v": 18 },
+  "liturgia": { "tema_central": "Administradores, não donos: não podeis servir a Deus e ao dinheiro", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um homem rico tinha um administrador acusado de esbanjar os seus bens. Chamado a prestar contas, este pensa: cavar não posso, mendigar tenho vergonha. Chama os devedores do senhor e reduz as dívidas: de cem talhas de azeite escreve cinquenta, de cem medidas de trigo, oitenta, para que o recebam em suas casas. O senhor louva o administrador desonesto por ter agido com esperteza, pois os filhos deste mundo são mais hábeis com os seus do que os filhos da luz. Jesus conclui: fazei amigos com o dinheiro da iniquidade, para que vos recebam nas moradas eternas. Quem é fiel no pouco é fiel no muito; se não fostes fiéis no dinheiro iníquo, quem vos confiará o verdadeiro? Ninguém pode servir a dois senhores: não podeis servir a Deus e ao dinheiro. Os fariseus, amigos do dinheiro, zombam; Jesus responde que Deus conhece os corações, que a Lei e os Profetas vão até João, que nem um til da Lei cairá, e reafirma a indissolubilidade do matrimônio.",
+    "alegorico": "O homem rico é Deus, e o administrador é cada homem, posto como hóspede e estrangeiro na terra para administrar bens alheios. As moradas eternas são abertas pelos pobres, amigos de Deus, a quem confiamos as riquezas. Com João termina o tempo da Lei e dos Profetas e começa o anúncio do Reino, que não destrói a Lei, mas a cumpre.",
+    "moral": "Não somos senhores, mas administradores dos bens alheios. A parábola não louva a fraude, mas a prudência: se o administrador injusto foi louvado, quanto mais quem age segundo Deus! Ponhamos as riquezas nas mãos dos pobres antes da morte, para encontrar algo nas mãos depois dela. As riquezas são alheias porque não nascem nem morrem conosco; Cristo é que é nosso. O dinheiro não tem direito de senhorio: é o homem que se põe sob o seu jugo.",
+    "anagogico": "“Dá conta da tua administração”: a morte é a hora de prestar contas. Quem aqui foi fiel no pouco receberá o bem verdadeiro e será acolhido nas moradas eternas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Um homem rico tinha um feitor, que foi acusado diante dele de ter dissipado os seus bens. Chamou-o, e disse-lhe: Dá conta da tua administração. E o senhor louvou o feitor iníquo, por ter procedido sagazmente. Portanto eu vos digo: Granjeai amigos com as riquezas da iniquidade, para que, quando vierdes a precisar, vos recebam nos tabernáculos eternos. O que é fiel no pouco, também é fiel no muito. Nenhum servo pode servir a dois senhores. Não podeis servir Deus e o dinheiro.” Jesus disse aos fariseus: “Deus conhece os vossos corações”.",
+    "meditatio_perguntas": [
+      "Trato os meus bens como dono ou como administrador do que é de Deus?",
+      "Que amigos estou a fazer, com o que tenho, para as moradas eternas?",
+      "Em que pequenas coisas tenho sido infiel?"
+    ],
+    "oratio_guia": "Senhor, tudo o que tenho é teu e me foi confiado. Ensina-me a administrá-lo com fidelidade e a pô-lo nas mãos dos pobres. Livra-me da servidão do dinheiro, para que eu sirva só a ti, e dá-me a prudência dos filhos da luz. Amém.",
+    "contemplatio_foco": { "texto": "O que é fiel no pouco, também é fiel no muito", "ref": "Lc 16,10" }
+  },
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Hom. de Divite.", "catena": "16:1–7#1", "sintese": "É erro julgar-nos senhores dos bens: fomos postos nesta vida como hóspedes e estrangeiros." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:1–7#3", "sintese": "Daqui aprendemos que não somos senhores, mas administradores dos bens alheios." }
+      ],
+      "nota": null
+    },
+    "16:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 34.", "catena": "16:8–13#0", "sintese": "É louvado por se precaver para o futuro; mas não é modelo a imitar na fraude." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:8–13#2", "sintese": "Se o administrador fraudulento foi louvado, quanto mais agradam a Deus os que agem segundo o seu mandamento!" }
+      ],
+      "nota": { "texto": "Há quem pense que o administrador renunciou à sua própria comissão, embutida nas dívidas; de qualquer modo, Jesus louva a sagacidade, não a desonestidade.", "origem": "ia" }
+    },
+    "16:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 18, c. 18.", "catena": "16:8–13#6", "sintese": "Para encontrar algo nas mãos depois da morte, ponham-se antes as riquezas nas mãos dos pobres." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 34.", "catena": "16:8–13#8", "sintese": "São “da iniquidade” porque só são riquezas para os que nelas põem a esperança; os justos só têm por riqueza a celeste." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 21, c. 14.", "catena": "16:8–13#12", "sintese": "Quando damos aos pobres, mais oferecemos presentes a protetores do que fazemos benefícios a necessitados." }
+      ],
+      "nota": null
+    },
+    "16:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:8–13#16", "sintese": "A amizade dos pobres não basta por si: é preciso distribuir com justiça e acompanhá-la de boas obras." }
+      ],
+      "nota": null
+    },
+    "16:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:8–13#18", "sintese": "As riquezas são alheias: não nascem nem morrem conosco. Cristo é nosso, porque é a vida do homem." }
+      ],
+      "nota": null
+    },
+    "16:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "16:8–13#20", "sintese": "Há um só Senhor; o dinheiro não tem direito de senhorio, mas o homem põe sobre si o seu jugo." }
+      ],
+      "nota": null
+    },
+    "16:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "16:14–18#2", "sintese": "Justificam-se os que desprezam os pecadores e se julgam sem necessidade do remédio da esmola; Deus vê o abismo da soberba." }
+      ],
+      "nota": null
+    },
+    "16:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 87.", "catena": "16:14–18#10", "sintese": "Fazem violência ao Reino os que desprezam as coisas temporais e também as zombarias de quem os ridiculariza." }
+      ],
+      "nota": null
+    },
+    "16:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "16:14–18#11", "sintese": "Não prega a destruição da Lei: a figura do mundo passa, mas nem o menor traço da Lei cai sem se cumprir." }
+      ],
+      "nota": { "texto": "O versículo seguinte (16,18) reafirma, contra a prática do repúdio, a indissolubilidade do matrimônio (cf. Mc 10,11-12).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
