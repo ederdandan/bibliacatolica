@@ -1,0 +1,57 @@
+{
+  "id": "1CO.11.17",
+  "livro": "1CO",
+  "titulo": "A Ceia do Senhor",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 11,17-34",
+  "ini": {
+    "c": 11,
+    "v": 17
+  },
+  "fim": {
+    "c": 11,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Fazei isto em memória de mim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo não pode louvar as reuniões dos coríntios: há divisões, e a ceia comum tornou-se ocasião de desprezo, pois cada um come a sua ceia, uns passam fome e outros se embriagam; assim já não é a ceia do Senhor que celebram, e envergonham os pobres. Então recorda o que recebeu do Senhor e lhes transmitiu: o Senhor Jesus, na noite em que foi entregue, tomou o pão, deu graças, partiu-o e disse: isto é o meu corpo, que é dado por vós; fazei isto em memória de mim. Depois da ceia, tomou o cálice: este cálice é a nova aliança no meu sangue; fazei isto, todas as vezes que o beberdes, em memória de mim. Todas as vezes que comerdes este pão e beberdes este cálice, anunciareis a morte do Senhor até que Ele venha. Quem comer ou beber indignamente será réu do corpo e do sangue do Senhor; examine-se cada um antes, pois quem come sem discernir o corpo come a própria condenação. Esperai uns pelos outros.",
+    "alegorico": "É o mais antigo relato escrito da instituição da Eucaristia. A ceia é memorial do sacrifício da cruz e selo da nova aliança anunciada por Jeremias. “Discernir o corpo” significa reconhecer a presença real do Senhor e também o corpo que é a comunidade.",
+    "moral": "Não se pode celebrar a Eucaristia desprezando os pobres: a divisão social na assembleia contradiz o sacramento da unidade. O exame de consciência antes da comunhão é exigência apostólica. E a correção de Deus tem fim medicinal: “para não sermos condenados com o mundo”.",
+    "anagogico": "“Até que ele venha”: cada Eucaristia é anúncio da morte do Senhor e espera da sua vinda gloriosa. O memorial projeta-se para o futuro, como penhor do banquete eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu recebi do Senhor o que vos transmiti: que o Senhor Jesus, na noite em que foi entregue, tomou o pão e, dando graças, o partiu e disse: Tomai e comei; isto é o meu corpo, que é dado para vós; fazei isto em memória de mim. Igualmente tomou o cálice, dizendo: Este cálice é a nova Aliança no meu sangue. Todas as vezes que comerdes este pão e beberdes este cálice, anunciareis a morte do Senhor, até que ele venha. Examine-se, pois, a si mesmo cada um.",
+    "meditatio_perguntas": [
+      "Com que preparação me aproximo da comunhão?",
+      "Discerno o corpo do Senhor no pão e na comunidade, incluindo os pobres?",
+      "Vivo a Missa como anúncio da morte do Senhor até que Ele venha?"
+    ],
+    "oratio_guia": "Senhor Jesus, que na noite em que foste entregue nos deixaste o teu corpo e o teu sangue, dá-me receber-te dignamente. Que eu discirna o teu corpo, ame os irmãos e anuncie a tua morte até que venhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "anunciareis a morte do Senhor, até que ele venha",
+      "ref": "1Cor 11,26"
+    }
+  },
+  "ancoras": {
+    "11:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 11,23-26 é a segunda leitura da Missa da Ceia do Senhor (Quinta-feira Santa); também se usa no Corpo e Sangue de Cristo, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "11:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto que a Igreja invoca para a exigência de estar em estado de graça antes de comungar (Concílio de Trento, sessão XIII).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

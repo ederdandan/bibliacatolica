@@ -1,0 +1,57 @@
+{
+  "id": "1CO.1.1",
+  "livro": "1CO",
+  "titulo": "Chamados à comunhão do seu Filho",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 1,1-9",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Fiel é Deus, que nos chamou à comunhão do seu Filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, chamado a ser apóstolo por vontade de Deus, e o irmão Sóstenes escrevem à Igreja de Deus em Corinto, aos santificados em Cristo Jesus, chamados a ser santos com todos os que em qualquer lugar invocam o nome do Senhor. Depois da saudação de graça e paz, Paulo dá graças pela graça concedida aos coríntios: em Cristo foram enriquecidos em tudo, na palavra e no conhecimento, de modo que nenhum dom lhes falta enquanto esperam a manifestação de Nosso Senhor Jesus Cristo. Ele os confirmará até ao fim, para serem irrepreensíveis no dia do Senhor. Fiel é Deus, que os chamou à comunhão com o seu Filho.",
+    "alegorico": "A Igreja de Corinto, cheia de dons e de problemas, é imagem de toda a Igreja: santa pelo chamado de Deus, ainda a caminho na conduta. A sua unidade com todos os que, em qualquer lugar, invocam o nome do Senhor mostra a catolicidade da Igreja.",
+    "moral": "Paulo começa por agradecer, mesmo a uma comunidade que vai repreender duramente. É lição para quem corrige: reconhecer primeiro o bem que Deus já fez no outro. E a confiança não está na perfeição da comunidade, mas na fidelidade de Deus, que confirma até ao fim.",
+    "anagogico": "A comunidade vive “esperando a manifestação de Nosso Senhor Jesus Cristo”. A comunhão com o Filho, começada agora, terá a sua plenitude no dia do Senhor, quando os fiéis forem achados irrepreensíveis."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "À Igreja de Deus que está em Corinto, aos santificados em Jesus Cristo, chamados a ser santos. Dou graças incessantemente ao meu Deus por vós, pela graça de Deus que vos foi dada em Jesus Cristo, porque nele fostes cumulados de todas as riquezas. Ele vos confirmará até ao fim, para que sejais irrepreensíveis no dia da vinda de Nosso Senhor Jesus Cristo. Fiel é Deus, pelo qual fostes chamados à sociedade de seu Filho.",
+    "meditatio_perguntas": [
+      "Agradeço a Deus pelos dons que vejo na minha comunidade, apesar dos defeitos?",
+      "Vivo à espera da manifestação do Senhor?",
+      "Confio mais na minha perseverança ou na fidelidade de Deus?"
+    ],
+    "oratio_guia": "Deus fiel, que me chamaste à comunhão com o teu Filho, confirma-me até ao fim. Obrigado pelos dons que dás à tua Igreja; faz que, enriquecidos por eles, esperemos com alegria a vinda de Nosso Senhor Jesus Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fiel é Deus, pelo qual fostes chamados à sociedade de seu Filho Jesus Cristo Nosso Senhor",
+      "ref": "1Cor 1,9"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 1,1-3 abre a leitura semicontínua da carta no 2º Domingo do Tempo Comum, Ano A; 1Cor 1,3-9 lê-se no 1º Domingo do Advento, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Invocam o nome de Nosso Senhor Jesus Cristo”: fórmula do AT para o culto a Deus (Jl 2,32), aplicada a Jesus, sinal da fé na sua divindade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

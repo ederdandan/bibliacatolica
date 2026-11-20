@@ -1,0 +1,57 @@
+{
+  "id": "1CO.9.1",
+  "livro": "1CO",
+  "titulo": "Fiz-me tudo para todos",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 9,1-27",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Ai de mim, se eu não evangelizar!",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo defende o seu apostolado: viu o Senhor, e os coríntios são o selo do seu ministério. Tem direito, como os outros apóstolos e Cefas, a ser sustentado pela comunidade e a levar consigo uma mulher irmã; o soldado, o vinhateiro e o pastor vivem do seu trabalho, e a lei diz: não atarás a boca ao boi que debulha. Os que servem ao altar participam do altar, e o Senhor ordenou que os que anunciam o Evangelho vivam do Evangelho. Mas Paulo não usou desse direito, para não pôr obstáculo ao Evangelho. Anunciar não lhe é motivo de glória, mas necessidade: ai dele se não evangelizar! A sua recompensa é anunciar gratuitamente. Livre de todos, fez-se servo de todos: judeu com os judeus, sem lei com os sem lei, fraco com os fracos; fez-se tudo para todos, para salvar alguns. Como atletas que se abstêm de tudo por uma coroa corruptível, corre não à ventura e disciplina o corpo, para não ser reprovado depois de pregar aos outros.",
+    "alegorico": "O “fazer-se tudo para todos” reflete a kénosis de Cristo, que, sendo Deus, se fez homem e servo para salvar a todos. A coroa incorruptível dos atletas de Cristo é a glória eterna.",
+    "moral": "O apóstolo renuncia aos seus direitos por amor do Evangelho. A missão exige adaptação aos outros, sem perder a fidelidade à “lei de Cristo”. A disciplina pessoal, a ascese, não é rigidez: é treino de quem quer ganhar a coroa e não ser desqualificado depois de pregar aos outros.",
+    "anagogico": "A corrida da vida tem uma meta: a coroa incorruptível. Paulo corre sabendo para onde vai; o cristão também vive orientado para o prémio que não murcha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se eu evangelizar, não tenho de que me gloriar, pois me é imposta essa obrigação. Ai de mim, se eu não evangelizar! Embora livre em relação a todos, fiz-me servo de todos, para ganhar o maior número. Fiz-me fraco com os fracos, para ganhar os fracos. Fiz-me tudo para todos, para, por todas as formas, salvar alguns. Correi de tal maneira que alcanceis o prémio.",
+    "meditatio_perguntas": [
+      "Sinto a urgência de anunciar o Evangelho?",
+      "Sei fazer-me próximo dos outros sem perder a minha identidade cristã?",
+      "Que disciplina pessoal preciso para correr bem a minha corrida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste servo de todos, põe em mim a urgência do Evangelho. Que eu me faça tudo para todos, por amor, e corra de tal maneira que alcance a coroa incorruptível. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ai de mim, se eu não evangelizar!",
+      "ref": "1Cor 9,16"
+    }
+  },
+  "ancoras": {
+    "9:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 9,16-19.22-23 é a segunda leitura do 5º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "9:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Mulher irmã”: uma mulher cristã que acompanhava e assistia o apóstolo; a tradição latina (Jerónimo) entendeu-a como assistente, não necessariamente esposa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

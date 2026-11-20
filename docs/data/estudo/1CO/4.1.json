@@ -1,0 +1,57 @@
+{
+  "id": "1CO.4.1",
+  "livro": "1CO",
+  "titulo": "Despenseiros dos mistérios de Deus",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 4,1-21",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Servidores de Cristo e despenseiros dos mistérios de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Considerem-nos todos como servidores de Cristo e administradores dos mistérios de Deus; o que se requer dos administradores é que sejam fiéis. A Paulo pouco importa ser julgado por tribunal humano, nem a si mesmo se julga: embora não tenha consciência de culpa, não se dá por justificado; quem o julga é o Senhor. Não julgueis antes do tempo, até que venha o Senhor, que porá a claro o que está oculto e manifestará os desígnios dos corações. Que tens que não tenhas recebido? E, se o recebeste, por que te glorias? Com ironia, Paulo contrasta a satisfação dos coríntios com a vida dos apóstolos, dados em espetáculo ao mundo, loucos por Cristo, famintos, esbofeteados, sem morada, trabalhando com as mãos: amaldiçoados, bendizem; perseguidos, suportam. Não escreve para envergonhar, mas como pai que os gerou em Cristo pelo Evangelho; pede que o imitem e anuncia a sua ida.",
+    "alegorico": "Os apóstolos expostos “em espetáculo” como condenados no anfiteatro configuram-se ao Cristo da Paixão, exposto e escarnecido. A paternidade espiritual de Paulo mostra a Igreja como mãe que gera filhos pelo Evangelho.",
+    "moral": "“Que tens tu que não recebesses?” é a pergunta que desfaz toda soberba. A fidelidade é o que se pede ao ministro, não o sucesso. E o juízo último pertence a Deus: não julgar os outros antes do tempo, nem canonizar a si mesmo pela consciência tranquila.",
+    "anagogico": "O Senhor virá, iluminará o que está nas trevas e manifestará os desígnios dos corações; então cada um receberá de Deus o seu louvor. O reino de Deus não está em palavras, mas em poder."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Todos nos considerem como servidores de Cristo e despenseiros dos mistérios de Deus. O que se requer nos despenseiros é que sejam fiéis. O Senhor é quem me julga. Não julgueis antes do tempo, até que venha o Senhor. Que tens tu, que não recebesses? E, se o recebeste, porque te glorias? Amaldiçoam-nos, e bendizemos; perseguem-nos, e sofremos.",
+    "meditatio_perguntas": [
+      "Sou fiel naquilo que Deus me confiou?",
+      "Que dons trato como se fossem conquistas minhas?",
+      "Julgo os outros antes do tempo?"
+    ],
+    "oratio_guia": "Senhor, de quem recebi tudo o que tenho, livra-me da vanglória. Faz-me servo fiel dos teus mistérios, que não julga antes do tempo e que, amaldiçoado, sabe bendizer. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que tens tu, que não recebesses?",
+      "ref": "1Cor 4,7"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Despenseiros” (oikonómoi): administradores da casa, que distribuem o que não é deles. A tradição aplicou o texto aos ministros dos sacramentos. 1Cor 4,1-5 é a segunda leitura do 8º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pedagogos”: escravos que acompanhavam as crianças; Paulo distingue-se como pai que gerou a comunidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

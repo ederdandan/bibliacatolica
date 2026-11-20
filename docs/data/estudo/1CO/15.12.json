@@ -1,0 +1,57 @@
+{
+  "id": "1CO.15.12",
+  "livro": "1CO",
+  "titulo": "Se Cristo não ressuscitou, é vã a vossa fé",
+  "secao": "A ressurreição dos mortos",
+  "referencia": "1Cor 15,12-34",
+  "ini": {
+    "c": 15,
+    "v": 12
+  },
+  "fim": {
+    "c": 15,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Cristo ressuscitou, primícias dos que dormem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como dizem alguns que não há ressurreição dos mortos? Se não há, Cristo não ressuscitou; e, se Cristo não ressuscitou, vã é a pregação e vã a fé; os apóstolos são falsas testemunhas, os coríntios estão ainda nos seus pecados e os que morreram em Cristo pereceram. Se só para esta vida esperamos em Cristo, somos os mais miseráveis dos homens. Mas Cristo ressuscitou dos mortos, primícias dos que adormeceram. Como por um homem veio a morte, por um homem vem a ressurreição: como todos morrem em Adão, todos serão vivificados em Cristo, cada um na sua ordem: Cristo, as primícias; depois, os que são de Cristo, na sua vinda. Depois o fim, quando Ele entregar o reino a Deus Pai, tendo destruído todo o poder: é preciso que reine até pôr todos os inimigos debaixo dos pés; o último inimigo destruído será a morte. Então o próprio Filho se submeterá Àquele que tudo lhe submeteu, para que Deus seja tudo em todos. Sem ressurreição, para que os perigos e o morrer todos os dias? “Comamos e bebamos, que amanhã morreremos.”",
+    "alegorico": "Cristo é as “primícias”, o primeiro feixe da colheita oferecido no Templo, penhor da colheita inteira. O novo Adão reverte a morte trazida pelo primeiro. O reinado de Cristo culmina na entrega do Reino ao Pai.",
+    "moral": "A fé na ressurreição não é acessório: sem ela, o cristianismo cai. Ela muda o modo de viver: quem só espera nesta vida acaba no “comamos e bebamos”. Quem espera a ressurreição pode arriscar-se, sofrer e “morrer todos os dias” por amor. E “as más companhias corrompem os bons costumes”.",
+    "anagogico": "O último inimigo, a morte, será destruído. O horizonte final é “Deus tudo em todos”: a plenitude da comunhão de toda a criação com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se Cristo não ressuscitou, é vã a nossa pregação, é também vã a vossa fé. Se somente nesta vida esperamos em Cristo, somos os mais miseráveis de todos os homens. Mas Cristo ressuscitou dos mortos, sendo ele as primícias dos que dormem. Assim como todos morrem em Adão, assim também todos serão vivificados em Cristo. O último inimigo a ser destruído será a morte, a fim de que Deus seja tudo em todas as coisas.",
+    "meditatio_perguntas": [
+      "A ressurreição de Cristo é o centro da minha fé ou um detalhe?",
+      "A esperança da vida eterna muda as minhas escolhas de hoje?",
+      "Como encaro a morte, “último inimigo”?"
+    ],
+    "oratio_guia": "Senhor Jesus, primícias dos que dormem, creio que ressuscitaste e que nos ressuscitarás. Que a minha esperança não se limite a esta vida, e que eu caminhe para o dia em que Deus será tudo em todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cristo ressuscitou dos mortos, sendo ele as primícias dos que dormem",
+      "ref": "1Cor 15,20"
+    }
+  },
+  "ancoras": {
+    "15:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 15,20-27 é a segunda leitura da Assunção de Nossa Senhora (Missa do dia); 1Cor 15,20-26.28, de Cristo Rei, Ano A; 1Cor 15,12.16-20, do 6º Domingo do Tempo Comum, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "15:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Batizar-se pelos mortos”: prática obscura em Corinto (talvez batismo vicário); Paulo não a aprova, apenas a usa como argumento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

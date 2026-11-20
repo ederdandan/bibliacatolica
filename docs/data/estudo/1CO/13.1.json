@@ -1,0 +1,57 @@
+{
+  "id": "1CO.13.1",
+  "livro": "1CO",
+  "titulo": "O hino da caridade",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 13,1-13",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A maior delas é a caridade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O caminho mais excelente é a caridade. Ainda que eu falasse as línguas dos homens e dos anjos, sem caridade seria bronze que soa ou címbalo que retine. Ainda que tivesse o dom da profecia, conhecesse todos os mistérios e toda a ciência e tivesse fé que transporta montanhas, sem caridade nada seria. Ainda que distribuísse todos os bens aos pobres e entregasse o corpo às chamas, sem caridade nada me aproveitaria. A caridade é paciente, é benigna; não é invejosa, não é temerária, não se ensoberbece, não é ambiciosa, não busca os seus interesses, não se irrita, não guarda rancor; não se alegra com a injustiça, mas com a verdade; tudo desculpa, tudo crê, tudo espera, tudo suporta. A caridade nunca acabará; as profecias, as línguas e a ciência passarão, porque o nosso conhecimento é imperfeito. Agora vemos como num espelho, obscuramente; então veremos face a face. Permanecem a fé, a esperança e a caridade; a maior delas é a caridade.",
+    "alegorico": "Os Padres viram neste retrato da caridade o retrato do próprio Cristo: substituindo “caridade” por “Jesus”, o hino descreve perfeitamente o Senhor. A caridade é o próprio Deus derramado em nós, pois Deus é amor.",
+    "moral": "Os dons mais espetaculares e até o heroísmo são vazios sem amor. As quinze características da caridade são concretas e examinam a vida diária: paciência, ausência de inveja, de rancor, de busca de si. A caridade não é sentimento, é forma de agir.",
+    "anagogico": "A fé dará lugar à visão e a esperança à posse; só a caridade permanece para sempre. Agora vemos como num espelho; então face a face, e conheceremos como somos conhecidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ainda que eu fale as línguas dos homens e dos anjos, se não tiver caridade, sou como um bronze que soa. A caridade é paciente, é benéfica; a caridade não é invejosa, não se ensoberbece, não busca os seus próprios interesses, não se irrita, não guarda ressentimento; tudo desculpa, tudo crê, tudo espera, tudo sofre. A caridade nunca há-de acabar. Nós agora vemos como por um espelho, obscuramente, mas então face a face. Permanecem a fé, a esperança, a caridade; porém, a maior delas é a caridade.",
+    "meditatio_perguntas": [
+      "Qual das características da caridade mais me falta?",
+      "Há obras boas que faço sem amor?",
+      "Vivo à espera de ver a Deus face a face?"
+    ],
+    "oratio_guia": "Deus, que és amor, derrama em mim a caridade que nunca acaba. Faz-me paciente e benigno, livra-me da inveja e do rancor, e conduz-me do espelho à visão face a face. Amém.",
+    "contemplatio_foco": {
+      "texto": "a maior delas é a caridade",
+      "ref": "1Cor 13,13"
+    }
+  },
+  "ancoras": {
+    "13:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 12,31–13,13 é a segunda leitura do 4º Domingo do Tempo Comum, Ano C, e uma das mais escolhidas nas celebrações do Matrimónio.",
+        "origem": "ia"
+      }
+    },
+    "13:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os espelhos antigos, de metal polido, davam imagem imperfeita: assim o nosso conhecimento de Deus nesta vida, comparado com a visão beatífica.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

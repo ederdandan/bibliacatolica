@@ -1,0 +1,57 @@
+{
+  "id": "1CO.16.1",
+  "livro": "1CO",
+  "titulo": "A colecta, os projetos e as saudações",
+  "secao": "Conclusão",
+  "referencia": "1Cor 16,1-24",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Todas as vossas obras sejam feitas em caridade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo organiza a coleta para os santos de Jerusalém: no primeiro dia da semana, cada um ponha de parte o que puder, para que não se faça tudo à chegada dele; os escolhidos pela comunidade levarão a oferta a Jerusalém. Anuncia o seu plano: atravessará a Macedónia, talvez passe o inverno em Corinto; por agora fica em Éfeso até ao Pentecostes, porque se abriu uma porta grande, e os adversários são muitos. Recomenda Timóteo e explica que Apolo não quis ir agora. Exorta: vigiai, permanecei firmes na fé, portai-vos varonilmente, sede fortes; que tudo entre vós se faça na caridade. Recomenda a família de Estéfanas, primícias da Acaia, dedicada ao serviço dos santos. Saudações das Igrejas da Ásia, de Áquila e Priscila. Paulo escreve a saudação de próprio punho: se alguém não ama o Senhor, seja anátema. Maran atha! A graça do Senhor Jesus esteja convosco; o meu amor está com todos vós em Cristo Jesus.",
+    "alegorico": "“No primeiro dia da semana”: o domingo, dia da Ressurreição, já é o dia da assembleia e da partilha. “Maran atha” (“O Senhor vem” ou “Vem, Senhor”) é a oração aramaica da Igreja nascente, que encerra também o Apocalipse.",
+    "moral": "A caridade fraterna organiza-se de modo prático e regular: pôr de parte, no domingo, para os pobres. A fé pede firmeza e coragem (“portai-vos varonilmente”), mas tudo deve ser feito na caridade. A gratidão aos que servem a comunidade faz parte da vida cristã.",
+    "anagogico": "“Maran atha”: a Igreja vive suspirando pela vinda do Senhor. A graça desejada na despedida é antecipação da comunhão eterna com Ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No primeiro dia da semana, cada um de vós ponha de parte o que tiver podido poupar. Vigiai, permanecei firmes na fé, portai-vos varonilmente, sede fortes. Todas as vossas obras sejam feitas em caridade. Se alguém não ama a Nosso Senhor Jesus Cristo, seja anátema! Maran Atha. A graça de Nosso Senhor Jesus Cristo seja convosco.",
+    "meditatio_perguntas": [
+      "O meu domingo inclui a partilha com os necessitados?",
+      "Sou firme na fé e, ao mesmo tempo, faço tudo na caridade?",
+      "Rezo “Vem, Senhor” com desejo verdadeiro?"
+    ],
+    "oratio_guia": "Senhor Jesus, vem! Dá-me vigiar, permanecer firme na fé e ser forte, mas que todas as minhas obras sejam feitas na caridade. Que eu te ame de todo o coração, e a tua graça esteja sempre comigo. Maran atha.",
+    "contemplatio_foco": {
+      "texto": "Todas as vossas obras sejam feitas em caridade",
+      "ref": "1Cor 16,14"
+    }
+  },
+  "ancoras": {
+    "16:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Primeiro dia da semana”: testemunho antigo do domingo como dia de reunião cristã (cf. At 20,7; Ap 1,10).",
+        "origem": "ia"
+      }
+    },
+    "16:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Maran atha”: expressão aramaica conservada sem tradução; pode ler-se “o Senhor vem” ou, como oração, “vem, Senhor” (cf. Ap 22,20; Didaqué 10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

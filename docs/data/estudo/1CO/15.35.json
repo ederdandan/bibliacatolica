@@ -1,0 +1,57 @@
+{
+  "id": "1CO.15.35",
+  "livro": "1CO",
+  "titulo": "O corpo espiritual e a vitória sobre a morte",
+  "secao": "A ressurreição dos mortos",
+  "referencia": "1Cor 15,35-58",
+  "ini": {
+    "c": 15,
+    "v": 35
+  },
+  "fim": {
+    "c": 15,
+    "v": 58
+  },
+  "liturgia": {
+    "tema_central": "Onde está, ó morte, a tua vitória?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como ressuscitam os mortos, e com que corpo? Insensato! O que semeias não ganha vida se antes não morre, e não semeias o corpo que há de nascer, mas um simples grão; Deus dá-lhe o corpo que quer. Há diversas carnes e diversos corpos, celestes e terrestres, e diverso o brilho do sol, da lua e das estrelas. Assim a ressurreição: semeia-se corruptível, ressuscita incorruptível; semeia-se em ignomínia, ressuscita em glória; semeia-se em fraqueza, ressuscita em poder; semeia-se corpo animal, ressuscita corpo espiritual. O primeiro Adão foi alma vivente; o último Adão, espírito vivificante. Como trouxemos a imagem do terreno, traremos a do celeste. Carne e sangue não herdam o reino de Deus. Eis um mistério: nem todos morreremos, mas todos seremos transformados, num abrir e fechar de olhos, ao som da última trombeta. O corruptível revestirá a incorruptibilidade, e cumprir-se-á a palavra: a morte foi tragada na vitória. Onde está, ó morte, a tua vitória? Graças a Deus, que nos dá a vitória por Jesus Cristo. Sede firmes, pois o vosso trabalho não é vão no Senhor.",
+    "alegorico": "O grão de trigo que morre para dar vida é imagem do Cristo sepultado e ressuscitado (Jo 12,24) e também do corpo cristão semeado na sepultura. O segundo Adão, vindo do céu, é a imagem celeste que os redimidos irão revestir.",
+    "moral": "A ressurreição dá sentido ao trabalho quotidiano: “o vosso trabalho não é vão no Senhor”. Por isso o cristão pode ser firme e constante. O respeito pelos corpos dos defuntos e a sepultura cristã nascem desta fé: semeia-se o corpo à espera da colheita.",
+    "anagogico": "É a página central da escatologia cristã: o corpo glorioso será incorruptível, glorioso, poderoso e espiritual, sem deixar de ser corpo. A morte será tragada pela vitória de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O que tu semeias não toma vida, se primeiro não morre. Semeia-se o corpo corruptível, ressuscitará incorruptível; semeia-se na ignomínia, ressuscitará glorioso; semeia-se fraco, ressuscitará robusto. Assim como trouxemos a imagem do terreno, tragamos também a imagem do celeste. Tragada foi a morte na vitória. Onde está, ó morte, a tua vitória? Graças a Deus, que nos deu a vitória por Nosso Senhor Jesus Cristo. O vosso trabalho não é vão no Senhor.",
+    "meditatio_perguntas": [
+      "Como imagino a minha ressurreição?",
+      "Que “semente” em mim precisa morrer para dar vida?",
+      "Acredito que nada do que faço no Senhor é vão?"
+    ],
+    "oratio_guia": "Graças a ti, Pai, que nos dás a vitória por Nosso Senhor Jesus Cristo. Transforma o meu corpo corruptível na imagem do celeste. Dá-me ser firme e constante na tua obra, sabendo que o meu trabalho não é vão em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Onde está, ó morte, a tua vitória?",
+      "ref": "1Cor 15,55"
+    }
+  },
+  "ancoras": {
+    "15:45": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Gn 2,7: Adão foi feito “alma vivente”; Cristo ressuscitado é “espírito vivificante”, fonte do Espírito que dá vida.",
+        "origem": "ia"
+      }
+    },
+    "15:54": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Combina Is 25,8 e Os 13,14. 1Cor 15,54-58 é a segunda leitura do 8º Domingo do Tempo Comum, Ano C; 1Cor 15,45-49, do 7º.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CO.1.18",
+  "livro": "1CO",
+  "titulo": "A loucura da cruz",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 1,18-31",
+  "ini": {
+    "c": 1,
+    "v": 18
+  },
+  "fim": {
+    "c": 1,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Cristo crucificado, poder e sabedoria de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A palavra da cruz é loucura para os que se perdem, mas para os que se salvam é poder de Deus. Deus destrói a sabedoria dos sábios, como diz Isaías: onde estão o sábio, o letrado, o disputador deste século? Como o mundo, pela sua sabedoria, não conheceu a Deus, aprouve a Deus salvar os crentes pela loucura da pregação. Os judeus pedem milagres, os gregos buscam sabedoria; nós pregamos Cristo crucificado, escândalo para os judeus e loucura para os gentios, mas, para os chamados, Cristo poder de Deus e sabedoria de Deus. Pois a loucura de Deus é mais sábia que os homens, e a fraqueza de Deus mais forte. Vede a vossa vocação: não muitos sábios, poderosos ou nobres; Deus escolheu o louco, o fraco, o desprezível do mundo, para que ninguém se glorie diante dele. Cristo tornou-se para nós sabedoria, justiça, santificação e redenção; quem se gloria, glorie-se no Senhor.",
+    "alegorico": "A cruz, instrumento de morte infame, torna-se trono de sabedoria e de poder. É a nova árvore da vida. A comunidade de humildes que Deus escolheu é o reflexo do Crucificado: a Igreja dos pequenos é o espelho de Cristo pobre.",
+    "moral": "Paulo convida a olhar a própria vocação: Deus não escolhe pelos critérios do mundo. Isso liberta do complexo de inferioridade e da soberba. A única glória legítima é a que se dá ao Senhor. E o anúncio cristão não deve adaptar-se para agradar, esvaziando o escândalo da cruz.",
+    "anagogico": "A cruz já é, em segredo, a vitória definitiva. Um dia, a “loucura de Deus” aparecerá a todos como a sabedoria que conduziu a história, e os pequenos escolhidos reinarão com Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A palavra da cruz é uma loucura para os que se perdem, mas, para os que se salvam, é a virtude de Deus. Nós pregamos a Cristo crucificado, que é escândalo para os Judeus e loucura para os gentios, mas, para os que são chamados, é Cristo virtude de Deus e sabedoria de Deus. As coisas fracas, segundo o mundo, escolheu-as Deus. O que se gloria, glorie-se no Senhor.",
+    "meditatio_perguntas": [
+      "A cruz de Cristo ainda me escandaliza ou me parece loucura em algum ponto?",
+      "Em que procuro a sabedoria do mundo mais do que a de Deus?",
+      "De que me glorio?"
+    ],
+    "oratio_guia": "Senhor Jesus crucificado, poder e sabedoria de Deus, ensina-me a loucura da cruz. Que eu não me glorie em mim, mas em ti, que te fizeste para nós sabedoria, justiça, santificação e redenção. Amém.",
+    "contemplatio_foco": {
+      "texto": "nós pregamos a Cristo crucificado",
+      "ref": "1Cor 1,23"
+    }
+  },
+  "ancoras": {
+    "1:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 1,22-25 é a segunda leitura do 3º Domingo da Quaresma, Ano B; 1Cor 1,26-31, do 4º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "1:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Is 29,14 (LXX).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

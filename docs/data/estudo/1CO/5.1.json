@@ -1,0 +1,57 @@
+{
+  "id": "1CO.5.1",
+  "livro": "1CO",
+  "titulo": "Cristo, nosso cordeiro pascal, foi imolado",
+  "secao": "Desordens morais",
+  "referencia": "1Cor 5,1-13",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Celebremos a festa com os ázimos da pureza e da verdade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo soube de um caso de imoralidade grave em Corinto: um homem vive com a mulher do próprio pai, coisa que nem entre os pagãos se tolera; e a comunidade, em vez de se entristecer, incha-se de orgulho. Paulo, ausente de corpo mas presente em espírito, julga o culpado: reunida a comunidade em nome do Senhor, seja entregue a Satanás para a destruição da carne, a fim de que o espírito seja salvo no dia do Senhor. Um pouco de fermento leveda toda a massa: purificai-vos do fermento velho, para serdes massa nova, pois Cristo, nosso cordeiro pascal, foi imolado. Celebremos a festa com os ázimos da pureza e da verdade. Paulo esclarece que não pede para evitar os impuros do mundo, mas o que, chamando-se irmão, vive em pecado público; aos de fora, Deus os julgará.",
+    "alegorico": "A Páscoa judaica, com o cordeiro imolado e a remoção do fermento, é figura da Páscoa de Cristo. A vida cristã inteira é festa pascal, celebrada sem o fermento do pecado. A Igreja é a massa nova e ázima.",
+    "moral": "O pecado tolerado contamina a comunidade como o fermento contamina a massa. A disciplina eclesial (aqui, a excomunhão) tem finalidade medicinal: “para que o espírito seja salvo”. A comunidade não pode ser indiferente ao mal entre os seus, mas também não se fecha ao mundo.",
+    "anagogico": "O fim da correção é a salvação “no dia do Senhor”. A festa que celebramos com os ázimos da verdade prepara o banquete eterno das bodas do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não sabeis que um pouco de fermento faz levedar toda a massa? Purificai-vos do velho fermento, para que sejais uma nova massa, assim como sois ázimos. Porquanto Cristo, nosso cordeiro pascal, foi imolado. Celebremos, pois, a festa, não com fermento velho, nem com fermento da malícia e da perversidade, mas com os ázimos da pureza e da verdade.",
+    "meditatio_perguntas": [
+      "Que “fermento velho” ainda leveda a minha vida?",
+      "Vivo a minha fé como festa pascal?",
+      "Sou indiferente ao mal na comunidade ou corrijo com caridade?"
+    ],
+    "oratio_guia": "Senhor Jesus, nosso cordeiro pascal imolado, purifica-me do fermento velho da malícia. Faz de mim massa nova, para celebrar contigo a festa com os ázimos da pureza e da verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cristo, nosso cordeiro pascal, foi imolado",
+      "ref": "1Cor 5,7"
+    }
+  },
+  "ancoras": {
+    "5:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Entregar a Satanás”: excluir da comunhão da Igreja, deixando o pecador fora da proteção da comunidade, com vista ao seu arrependimento.",
+        "origem": "ia"
+      }
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 5,6b-8 é uma das segundas leituras à escolha no Domingo de Páscoa; inspira a sequência e o prefácio pascal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

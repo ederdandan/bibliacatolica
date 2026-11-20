@@ -1,0 +1,377 @@
+{
+ "livro": "1CO",
+ "secoes": [
+  "Divisões na comunidade",
+  "Desordens morais",
+  "Respostas às perguntas dos coríntios",
+  "A assembleia cristã",
+  "A ressurreição dos mortos",
+  "Conclusão"
+ ],
+ "pericopes": [
+  {
+   "id": "1CO.1.1",
+   "titulo": "Chamados à comunhão do seu Filho",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 1,1-9",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 9
+   }
+  },
+  {
+   "id": "1CO.1.10",
+   "titulo": "Está dividido Cristo?",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 1,10-17",
+   "ini": {
+    "c": 1,
+    "v": 10
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "1CO.1.18",
+   "titulo": "A loucura da cruz",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 1,18-31",
+   "ini": {
+    "c": 1,
+    "v": 18
+   },
+   "fim": {
+    "c": 1,
+    "v": 31
+   }
+  },
+  {
+   "id": "1CO.2.1",
+   "titulo": "A sabedoria de Deus revelada pelo Espírito",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 2,1-16",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 16
+   }
+  },
+  {
+   "id": "1CO.3.1",
+   "titulo": "Cooperadores de Deus; vós sois templo de Deus",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 3,1-23",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 23
+   }
+  },
+  {
+   "id": "1CO.4.1",
+   "titulo": "Despenseiros dos mistérios de Deus",
+   "secao": "Divisões na comunidade",
+   "referencia": "1Cor 4,1-21",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 21
+   }
+  },
+  {
+   "id": "1CO.5.1",
+   "titulo": "Cristo, nosso cordeiro pascal, foi imolado",
+   "secao": "Desordens morais",
+   "referencia": "1Cor 5,1-13",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 13
+   }
+  },
+  {
+   "id": "1CO.6.1",
+   "titulo": "Os litígios entre irmãos",
+   "secao": "Desordens morais",
+   "referencia": "1Cor 6,1-11",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 11
+   }
+  },
+  {
+   "id": "1CO.6.12",
+   "titulo": "O corpo é templo do Espírito Santo",
+   "secao": "Desordens morais",
+   "referencia": "1Cor 6,12-20",
+   "ini": {
+    "c": 6,
+    "v": 12
+   },
+   "fim": {
+    "c": 6,
+    "v": 20
+   }
+  },
+  {
+   "id": "1CO.7.1",
+   "titulo": "O matrimónio e a vocação de cada um",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 7,1-24",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 24
+   }
+  },
+  {
+   "id": "1CO.7.25",
+   "titulo": "A virgindade e a figura deste mundo que passa",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 7,25-40",
+   "ini": {
+    "c": 7,
+    "v": 25
+   },
+   "fim": {
+    "c": 7,
+    "v": 40
+   }
+  },
+  {
+   "id": "1CO.8.1",
+   "titulo": "A ciência incha, a caridade edifica",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 8,1-13",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 13
+   }
+  },
+  {
+   "id": "1CO.9.1",
+   "titulo": "Fiz-me tudo para todos",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 9,1-27",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 27
+   }
+  },
+  {
+   "id": "1CO.10.1",
+   "titulo": "As figuras do Êxodo",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 10,1-13",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 13
+   }
+  },
+  {
+   "id": "1CO.10.14",
+   "titulo": "Um só pão, um só corpo",
+   "secao": "Respostas às perguntas dos coríntios",
+   "referencia": "1Cor 10,14–11,1",
+   "ini": {
+    "c": 10,
+    "v": 14
+   },
+   "fim": {
+    "c": 11,
+    "v": 1
+   }
+  },
+  {
+   "id": "1CO.11.2",
+   "titulo": "O decoro na oração",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 11,2-16",
+   "ini": {
+    "c": 11,
+    "v": 2
+   },
+   "fim": {
+    "c": 11,
+    "v": 16
+   }
+  },
+  {
+   "id": "1CO.11.17",
+   "titulo": "A Ceia do Senhor",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 11,17-34",
+   "ini": {
+    "c": 11,
+    "v": 17
+   },
+   "fim": {
+    "c": 11,
+    "v": 34
+   }
+  },
+  {
+   "id": "1CO.12.1",
+   "titulo": "Diversidade de dons, um só Espírito",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 12,1-11",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 11
+   }
+  },
+  {
+   "id": "1CO.12.12",
+   "titulo": "Um só corpo, muitos membros",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 12,12-31",
+   "ini": {
+    "c": 12,
+    "v": 12
+   },
+   "fim": {
+    "c": 12,
+    "v": 31
+   }
+  },
+  {
+   "id": "1CO.13.1",
+   "titulo": "O hino da caridade",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 13,1-13",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 13
+   }
+  },
+  {
+   "id": "1CO.14.1",
+   "titulo": "Profecia e dom das línguas",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 14,1-25",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 25
+   }
+  },
+  {
+   "id": "1CO.14.26",
+   "titulo": "Tudo se faça com ordem",
+   "secao": "A assembleia cristã",
+   "referencia": "1Cor 14,26-40",
+   "ini": {
+    "c": 14,
+    "v": 26
+   },
+   "fim": {
+    "c": 14,
+    "v": 40
+   }
+  },
+  {
+   "id": "1CO.15.1",
+   "titulo": "Cristo morreu e ressuscitou, segundo as Escrituras",
+   "secao": "A ressurreição dos mortos",
+   "referencia": "1Cor 15,1-11",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 11
+   }
+  },
+  {
+   "id": "1CO.15.12",
+   "titulo": "Se Cristo não ressuscitou, é vã a vossa fé",
+   "secao": "A ressurreição dos mortos",
+   "referencia": "1Cor 15,12-34",
+   "ini": {
+    "c": 15,
+    "v": 12
+   },
+   "fim": {
+    "c": 15,
+    "v": 34
+   }
+  },
+  {
+   "id": "1CO.15.35",
+   "titulo": "O corpo espiritual e a vitória sobre a morte",
+   "secao": "A ressurreição dos mortos",
+   "referencia": "1Cor 15,35-58",
+   "ini": {
+    "c": 15,
+    "v": 35
+   },
+   "fim": {
+    "c": 15,
+    "v": 58
+   }
+  },
+  {
+   "id": "1CO.16.1",
+   "titulo": "A colecta, os projetos e as saudações",
+   "secao": "Conclusão",
+   "referencia": "1Cor 16,1-24",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 24
+   }
+  }
+ ]
+}

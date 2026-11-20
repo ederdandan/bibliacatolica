@@ -1,0 +1,57 @@
+{
+  "id": "1CO.15.1",
+  "livro": "1CO",
+  "titulo": "Cristo morreu e ressuscitou, segundo as Escrituras",
+  "secao": "A ressurreição dos mortos",
+  "referencia": "1Cor 15,1-11",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Pela graça de Deus sou o que sou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo recorda o Evangelho que anunciou, que os coríntios receberam e no qual permanecem, e pelo qual serão salvos se o guardarem. Transmitiu-lhes em primeiro lugar o que ele mesmo recebeu: que Cristo morreu pelos nossos pecados segundo as Escrituras, foi sepultado, ressuscitou ao terceiro dia segundo as Escrituras, e apareceu a Cefas e depois aos Doze; depois a mais de quinhentos irmãos de uma vez, a maioria dos quais ainda vive; depois a Tiago e a todos os apóstolos; e, por último, apareceu também a Paulo, como a um abortivo. Ele é o menor dos apóstolos, indigno do nome, porque perseguiu a Igreja; mas pela graça de Deus é o que é, e a graça não foi vã nele: trabalhou mais do que todos, não ele, mas a graça de Deus com ele. Assim pregam todos, e assim os coríntios creram.",
+    "alegorico": "O “recebi… transmiti” mostra a Tradição viva da Igreja: a fé apostólica passa de testemunha em testemunha. O núcleo – morte, sepultura, ressurreição, aparições – é o primeiro Credo da Igreja.",
+    "moral": "Paulo não esconde o seu passado de perseguidor: a memória do pecado perdoado torna-o humilde e grato. “Pela graça de Deus sou o que sou”: o trabalho intenso não é motivo de orgulho, porque é a graça que trabalha. Guardar o Evangelho recebido é condição de salvação.",
+    "anagogico": "As aparições do Ressuscitado são o fundamento da esperança na ressurreição. O testemunho de “mais de quinhentos irmãos” garante que a fé pascal não é mito, mas acontecimento que abre a eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ensinei-vos o que eu mesmo aprendi: que Cristo morreu por nossos pecados, segundo as Escrituras, que foi sepultado e ressuscitou ao terceiro dia, segundo as mesmas Escrituras; que foi visto por Cefas e depois pelos onze. Por último foi também visto por mim. Pela graça de Deus, sou o que sou, e a sua graça, que está em mim, não foi vã; não eu, porém, mas a graça de Deus, que está comigo.",
+    "meditatio_perguntas": [
+      "Guardo o Evangelho tal como foi transmitido pela Igreja?",
+      "Reconheço que tudo o que sou é graça de Deus?",
+      "A graça de Deus em mim tem sido vã ou fecunda?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que apareceste a Pedro, aos apóstolos e a Paulo, confirma em mim a fé recebida. Pela tua graça sou o que sou: que ela não seja vã em mim, mas trabalhe comigo para tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "pela graça de Deus, sou o que sou",
+      "ref": "1Cor 15,10"
+    }
+  },
+  "ancoras": {
+    "15:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula de fé pré-paulina, talvez recebida em Damasco ou Jerusalém nos anos 30; o mais antigo resumo escrito do querigma pascal. 1Cor 15,1-11 é a segunda leitura do 5º Domingo do Tempo Comum, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "15:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pelos onze”: assim lê a Vulgata; o grego tem “os Doze”, usado como nome do colégio apostólico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

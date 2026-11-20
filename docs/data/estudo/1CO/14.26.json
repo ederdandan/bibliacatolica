@@ -1,0 +1,49 @@
+{
+  "id": "1CO.14.26",
+  "livro": "1CO",
+  "titulo": "Tudo se faça com ordem",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 14,26-40",
+  "ini": {
+    "c": 14,
+    "v": 26
+  },
+  "fim": {
+    "c": 14,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Deus não é Deus de discórdia, mas de paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dá normas para as reuniões: cada um traz um cântico, uma instrução, uma revelação, uma palavra em línguas, uma interpretação; tudo se faça para edificação. Falem em línguas dois ou três, um de cada vez, e haja quem interprete; se não, calem-se na assembleia. Dos profetas falem dois ou três, e os outros julguem; se alguém receber revelação, cale-se o primeiro. Todos podem profetizar, um após outro, para que todos aprendam e sejam exortados; os espíritos dos profetas estão sujeitos aos profetas, porque Deus não é Deus de desordem, mas de paz. Segue a norma de que as mulheres se calem nas assembleias, como em todas as Igrejas dos santos. A palavra de Deus não saiu de Corinto nem chegou só a ela: o que Paulo escreve é mandamento do Senhor. Desejai profetizar, não proibais as línguas, mas faça-se tudo com decoro e ordem.",
+    "alegorico": "A ordem na assembleia reflete a ordem do próprio Deus, que é paz. A liturgia ordenada da Igreja é imagem da harmonia da liturgia celeste.",
+    "moral": "Os dons do Espírito não justificam a desordem: o verdadeiro carisma sabe calar-se e submeter-se ao discernimento. A comunidade não é palco de protagonismos. A norma sobre o silêncio das mulheres reflete a disciplina daquele contexto e foi lida na Igreja em relação ao ministério de ensino público na assembleia.",
+    "anagogico": "O Deus da paz conduz a Igreja para a paz perfeita, onde não haverá confusão, e todo o louvor será harmonia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando vos reunis, se um de vós tem um cântico, outro uma instrução, outro uma revelação, faça-se tudo de uma forma edificante. Vós podeis profetizar todos, um depois do outro, a fim de que todos aprendam e todos sejam exortados. Deus não é Deus de discórdia, mas de paz. Faça-se tudo decentemente e com ordem.",
+    "meditatio_perguntas": [
+      "O que levo para a assembleia: algo que edifica ou que me põe em evidência?",
+      "Aceito que os meus dons sejam discernidos pela comunidade?",
+      "Sou instrumento de paz ou de confusão?"
+    ],
+    "oratio_guia": "Deus de paz, ordena a minha vida e a da tua Igreja segundo o teu Espírito. Que tudo, nas nossas reuniões, se faça para edificação, com decoro e ordem, para tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus não é Deus de discórdia, mas de paz",
+      "ref": "1Cor 14,33"
+    }
+  },
+  "ancoras": {
+    "14:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto discutido: em 11,5 Paulo supõe que mulheres oram e profetizam. A tradição entendeu-o como proibição de ensinar e de dirigir a assembleia (cf. 1Tm 2,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

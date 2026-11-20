@@ -1,0 +1,49 @@
+{
+  "id": "1CO.6.1",
+  "livro": "1CO",
+  "titulo": "Os litígios entre irmãos",
+  "secao": "Desordens morais",
+  "referencia": "1Cor 6,1-11",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Fostes lavados, santificados, justificados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo censura os coríntios que levam os litígios entre irmãos aos tribunais pagãos. Não sabem que os santos hão de julgar o mundo, e até os anjos? Como não serão capazes de julgar coisas desta vida? Não haverá entre eles um sábio que possa arbitrar entre irmãos? Já o simples haver processos é uma derrota: por que não sofrer antes a injustiça e o prejuízo? Mas, pelo contrário, são eles que fazem injustiça e prejudicam os irmãos. Os injustos não herdarão o reino de Deus: nem impudicos, idólatras, adúlteros, ladrões, avarentos, bêbedos, maldizentes ou salteadores. Alguns deles eram assim; mas foram lavados, santificados e justificados em nome do Senhor Jesus Cristo e pelo Espírito do nosso Deus.",
+    "alegorico": "O “fostes lavados” remete ao batismo, banho que purifica e santifica em nome de Cristo e pelo Espírito: a Trindade atua no sacramento. A comunidade que julga com sabedoria antecipa o juízo dos santos com Cristo.",
+    "moral": "Entre irmãos, preferir sofrer a injustiça a vencer litígios é atitude evangélica (cf. Mt 5,39-40). A lista de vícios não serve para apontar o dedo, mas para recordar de onde fomos tirados: “tais éreis alguns de vós”. A memória da graça recebida é motivo de vida nova.",
+    "anagogico": "Os santos julgarão o mundo com Cristo: a dignidade do batizado tem horizonte escatológico. O reino de Deus é a herança prometida aos que foram lavados e vivem como tais."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Porventura não sabeis que os santos hão-de julgar este mundo? Por que não sofreis antes a injúria? Por que não tolerais antes o dano? Não sabeis que os injustos não possuirão o reino de Deus? E tais éreis alguns de vós, mas fostes lavados, mas fostes santificados, mas fostes justificados, em nome de Nosso Senhor Jesus Cristo e mediante o Espírito do nosso Deus.",
+    "meditatio_perguntas": [
+      "Prefiro ter razão a preservar a paz com o irmão?",
+      "Lembro-me de onde a graça me tirou?",
+      "Vivo de acordo com o banho do batismo que recebi?"
+    ],
+    "oratio_guia": "Senhor Jesus, em cujo nome fui lavado, santificado e justificado, dá-me viver como quem recebeu tanto. Ensina-me a sofrer antes a injustiça do que a causá-la, e a buscar sempre a reconciliação com os irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "fostes lavados, mas fostes santificados, mas fostes justificados",
+      "ref": "1Cor 6,11"
+    }
+  },
+  "ancoras": {
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula trinitária implícita: “em nome do Senhor Jesus” e “pelo Espírito do nosso Deus”, provável eco da liturgia batismal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

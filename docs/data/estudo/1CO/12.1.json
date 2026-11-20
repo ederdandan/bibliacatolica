@@ -1,0 +1,57 @@
+{
+  "id": "1CO.12.1",
+  "livro": "1CO",
+  "titulo": "Diversidade de dons, um só Espírito",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 12,1-11",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Um só e o mesmo Espírito reparte os dons",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sobre os dons espirituais, Paulo não quer que os coríntios fiquem na ignorância. Recorda que, quando pagãos, eram arrastados para ídolos mudos; agora sabem que ninguém, falando pelo Espírito de Deus, diz “maldito seja Jesus”, e ninguém pode dizer “Jesus é Senhor” senão pelo Espírito Santo. Há diversidade de dons, mas o Espírito é o mesmo; diversidade de ministérios, mas o Senhor é o mesmo; diversidade de operações, mas é o mesmo Deus que opera tudo em todos. A cada um é dada a manifestação do Espírito para utilidade comum: a um, palavra de sabedoria; a outro, de ciência; a outro, a fé; a outro, dons de curas, milagres, profecia, discernimento dos espíritos, línguas, interpretação. Tudo isto é obra do único e mesmo Espírito, que distribui a cada um como quer.",
+    "alegorico": "A tríade “Espírito – Senhor – Deus” com “dons – ministérios – operações” revela a Trindade agindo na Igreja: a variedade dos carismas espelha a riqueza da vida divina, e a sua unidade espelha a unidade de Deus.",
+    "moral": "Nenhum dom é para proveito próprio: “para utilidade comum”. Não há cristãos sem dom, nem dons para exibir. E a própria confissão de fé “Jesus é Senhor” é obra do Espírito: a fé é graça, não conquista.",
+    "anagogico": "Os carismas são para o tempo da Igreja peregrina; mas a ação do Espírito, que já faz confessar “Jesus é Senhor”, conduzirá toda a criação a dobrar o joelho diante dele na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ninguém pode dizer: Jesus é Senhor, senão pelo Espírito Santo. Há diversidade de graças, mas um mesmo é o Espírito; e os ministérios são diversos, mas um mesmo é o Senhor; e as operações são diversas, mas o mesmo Deus é o que opera tudo em todos. A cada um é dada a manifestação do Espírito para utilidade comum. Todas estas coisas as opera um só e o mesmo Espírito, repartindo a cada um como quer.",
+    "meditatio_perguntas": [
+      "Que dom o Espírito me deu para a utilidade comum?",
+      "Valorizo os dons dos outros, sem inveja?",
+      "Digo “Jesus é Senhor” movido pelo Espírito, com a vida inteira?"
+    ],
+    "oratio_guia": "Espírito Santo, que distribuis os teus dons como queres, faz-me reconhecer e pôr a serviço o dom que me deste. Que a diversidade de carismas edifique a unidade da tua Igreja, para glória de Jesus, o Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "ninguém pode dizer: Jesus é Senhor, senão pelo Espírito Santo",
+      "ref": "1Cor 12,3"
+    }
+  },
+  "ancoras": {
+    "12:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 12,3b-7.12-13 é a segunda leitura da Missa do dia de Pentecostes; 1Cor 12,4-11, do 2º Domingo do Tempo Comum, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Discernimento dos espíritos”: capacidade de distinguir o que vem de Deus do que vem do inimigo ou do próprio eu (cf. 1Jo 4,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

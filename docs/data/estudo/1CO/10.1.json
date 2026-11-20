@@ -1,0 +1,57 @@
+{
+  "id": "1CO.10.1",
+  "livro": "1CO",
+  "titulo": "As figuras do Êxodo",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 10,1-13",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Deus é fiel e não permitirá que sejais tentados além das forças",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo recorda o Êxodo: os pais estiveram todos sob a nuvem e atravessaram o mar, foram batizados em Moisés na nuvem e no mar, comeram o mesmo alimento espiritual e beberam a mesma bebida espiritual, pois bebiam da rocha espiritual que os seguia, e a rocha era Cristo. Mas a maioria não agradou a Deus e caiu no deserto. Estas coisas aconteceram como figuras para nós: não cobicemos o mal, não sejamos idólatras, não nos entreguemos à imoralidade, não tentemos o Senhor, não murmuremos, como eles fizeram. Tudo foi escrito para nossa advertência, a nós que chegamos ao fim dos tempos. Quem julga estar de pé, cuide de não cair. Nenhuma tentação vos sobreveio que ultrapasse a medida humana; Deus é fiel e não permitirá que sejais tentados além das vossas forças, mas com a tentação dará os meios de a suportar.",
+    "alegorico": "Leitura tipológica explícita: a passagem do mar e a nuvem figuram o batismo; o maná e a água da rocha, a Eucaristia; a rocha que acompanhava o povo é Cristo. A Igreja é o novo povo peregrino no deserto do mundo.",
+    "moral": "Ter recebido os sacramentos não garante a salvação de modo automático: muitos que comeram o maná caíram no deserto. É preciso vigilância (“veja não caia”). Mas a vigilância não é angústia: Deus é fiel, não permite tentação acima das forças e dá o caminho de saída.",
+    "anagogico": "Os cristãos vivem “no fim dos séculos”: a travessia do deserto aponta para a Terra Prometida definitiva. Os sacramentos são o alimento do caminho até lá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nossos pais todos comeram do mesmo alimento espiritual, e todos beberam da mesma bebida espiritual, pois bebiam da pedra espiritual que os seguia, pedra que era Cristo. Estas coisas foram escritas para advertência de nós, para quem o fim dos séculos chegou. Aquele que crê estar de pé, veja, não caia. Deus, que é fiel, não permitirá que sejais tentados além do que podem as vossas forças.",
+    "meditatio_perguntas": [
+      "Confio nos sacramentos como se garantissem tudo, sem conversão?",
+      "Em que ponto me julgo de pé e corro o risco de cair?",
+      "Na tentação, procuro a saída que Deus oferece?"
+    ],
+    "oratio_guia": "Deus fiel, que alimentaste o teu povo no deserto e me alimentas com Cristo, rocha espiritual, guarda-me da presunção. Na tentação, dá-me a força e o caminho de saída, para que eu não caia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus, que é fiel, não permitirá que sejais tentados além do que podem as vossas forças",
+      "ref": "1Cor 10,13"
+    }
+  },
+  "ancoras": {
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tradição judaica falava de um poço que acompanhava Israel no deserto; Paulo vê nele Cristo preexistente, presente na história do povo. 1Cor 10,1-6.10-12 é a segunda leitura do 3º Domingo da Quaresma, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "10:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Em figura” (typikós): os acontecimentos do AT são “tipos” que anunciam realidades cristãs; fundamento do sentido alegórico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

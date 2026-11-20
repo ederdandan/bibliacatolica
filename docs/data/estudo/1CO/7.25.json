@@ -1,0 +1,57 @@
+{
+  "id": "1CO.7.25",
+  "livro": "1CO",
+  "titulo": "A virgindade e a figura deste mundo que passa",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 7,25-40",
+  "ini": {
+    "c": 7,
+    "v": 25
+  },
+  "fim": {
+    "c": 7,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "A figura deste mundo passa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sobre as virgens, Paulo não tem mandamento do Senhor, mas dá um conselho, como alguém digno de confiança pela misericórdia do Senhor. Por causa das dificuldades presentes, é bom que cada um fique como está: ligado a uma mulher, não procure desligar-se; livre, não procure mulher. Casar não é pecado; mas os casados terão tribulações da carne, e Paulo quisera poupá-los. O tempo é breve: os que têm mulher sejam como se não a tivessem, os que choram como se não chorassem, os que se alegram como se não se alegrassem, os que compram como se não possuíssem, os que usam do mundo como se dele não usassem, porque a figura deste mundo passa. O não casado cuida das coisas do Senhor, de como lhe agradar; o casado, das coisas do mundo, de como agradar à mulher, e está dividido. Paulo diz isto não para lançar um laço, mas para servir ao Senhor sem distração. Casar faz bem; não casar faz melhor. A viúva pode casar-se de novo, mas só no Senhor.",
+    "alegorico": "A virgindade consagrada é sinal escatológico: anuncia o mundo futuro, em que não se casa nem se dá em casamento (Mt 22,30), e a Igreja virgem, toda do Esposo. Maria, Virgem e Mãe, é o seu ícone perfeito.",
+    "moral": "O “como se não” não é desprezo pelas realidades humanas, mas liberdade interior diante delas: usar do mundo sem se deixar possuir por ele. A virgindade por amor do Reino é um conselho que permite pertencer ao Senhor sem divisão. O matrimónio é bom; a virgindade, segundo Paulo, é melhor como caminho de dedicação.",
+    "anagogico": "“A figura deste mundo passa”: tudo o que agora vivemos é provisório diante da realidade definitiva. O coração indiviso dos consagrados antecipa a união total com Deus na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O tempo é breve. Resta que os que têm mulheres sejam como se as não tivessem; os que choram, como se não chorassem; os que compram, como se não possuíssem; os que usam deste mundo, como se dele não usassem, porque a figura deste mundo passa. Eu quereria que vivêsseis sem inquietação. O que está sem mulher está cuidadoso das coisas que são do Senhor, como há-de agradar a Deus.",
+    "meditatio_perguntas": [
+      "Uso as coisas deste mundo com liberdade, ou elas me possuem?",
+      "O que em mim está dividido entre o Senhor e o mundo?",
+      "Como vivo a consciência de que “o tempo é breve”?"
+    ],
+    "oratio_guia": "Senhor, cuja vinda está próxima, dá-me um coração indiviso. Que eu use deste mundo sem me apegar a ele, porque a sua figura passa, e que procure, acima de tudo, agradar-te. Amém.",
+    "contemplatio_foco": {
+      "texto": "a figura deste mundo passa",
+      "ref": "1Cor 7,31"
+    }
+  },
+  "ancoras": {
+    "7:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 7,29-31 é a segunda leitura do 3º Domingo do Tempo Comum, Ano B; 1Cor 7,32-35, do 4º.",
+        "origem": "ia"
+      }
+    },
+    "7:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Matos Soares segue a interpretação tradicional (o pai que decide sobre a filha virgem); outros entendem tratar-se de um noivo e da sua noiva.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

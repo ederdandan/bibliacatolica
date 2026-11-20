@@ -1,0 +1,57 @@
+{
+  "id": "1CO.6.12",
+  "livro": "1CO",
+  "titulo": "O corpo é templo do Espírito Santo",
+  "secao": "Desordens morais",
+  "referencia": "1Cor 6,12-20",
+  "ini": {
+    "c": 6,
+    "v": 12
+  },
+  "fim": {
+    "c": 6,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Glorificai a Deus no vosso corpo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo cita um slogan dos coríntios: “tudo me é permitido”; e responde: mas nem tudo convém, e eu não me farei escravo de nada. Os alimentos são para o ventre e o ventre para os alimentos, e Deus destruirá ambos; mas o corpo não é para a fornicação, e sim para o Senhor, e o Senhor para o corpo. Deus, que ressuscitou o Senhor, também nos ressuscitará. Os vossos corpos são membros de Cristo: tomarei os membros de Cristo para os fazer membros de uma prostituta? De modo nenhum. Quem se une a uma prostituta torna-se um só corpo com ela; quem se une ao Senhor é um só espírito com Ele. Fugi da fornicação: quem a comete peca contra o próprio corpo. O vosso corpo é templo do Espírito Santo, que habita em vós; não pertenceis a vós mesmos, porque fostes comprados por alto preço. Glorificai, pois, a Deus no vosso corpo.",
+    "alegorico": "O corpo do cristão é membro do corpo de Cristo e santuário do Espírito: participa da realidade da Igreja e da Eucaristia. A união “num só espírito” com o Senhor é a forma mais alta da união nupcial de que fala o Génesis.",
+    "moral": "Contra uma liberdade sem limites, Paulo apresenta dois critérios: o que convém e o que não escraviza. A sexualidade envolve a pessoa toda, não é indiferente. O corpo tem dignidade porque será ressuscitado e porque é templo do Espírito: a pureza é forma de glorificar a Deus no corpo.",
+    "anagogico": "“Deus, que ressuscitou o Senhor, também nos ressuscitará”: o corpo não é descartável, está destinado à glória. Vivê-lo em pureza é preparar-se para a ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tudo me é permitido — mas nem tudo convém. O corpo não é para a fornicação, mas para o Senhor, e o Senhor para o corpo. Não sabeis que os vossos corpos são membros de Cristo? O que está unido ao Senhor é um só espírito com ele. Os vossos membros são templo do Espírito Santo, que habita em vós, e não pertenceis a vós mesmos, porque fostes comprados por um grande preço. Glorificai, pois, a Deus no vosso corpo.",
+    "meditatio_perguntas": [
+      "Uso a liberdade como pretexto para o que não convém?",
+      "Trato o meu corpo como templo do Espírito Santo?",
+      "De que hábitos me tornei escravo?"
+    ],
+    "oratio_guia": "Espírito Santo, que habitas o meu corpo como templo, dá-me a graça da pureza. Que eu não me faça escravo de nada, e glorifique a Deus no meu corpo, que foi comprado pelo sangue de Cristo e será ressuscitado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Glorificai, pois, a Deus no vosso corpo",
+      "ref": "1Cor 6,20"
+    }
+  },
+  "ancoras": {
+    "6:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tudo me é permitido”: frase provavelmente usada por alguns coríntios para justificar a imoralidade; Paulo cita-a e corrige-a.",
+        "origem": "ia"
+      }
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 6,13c-15a.17-20 é a segunda leitura do 2º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

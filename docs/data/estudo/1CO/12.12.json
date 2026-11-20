@@ -1,0 +1,57 @@
+{
+  "id": "1CO.12.12",
+  "livro": "1CO",
+  "titulo": "Um só corpo, muitos membros",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 12,12-31",
+  "ini": {
+    "c": 12,
+    "v": 12
+  },
+  "fim": {
+    "c": 12,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Vós sois corpo de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, formam um só corpo, assim também Cristo. Num só Espírito fomos todos batizados para formar um só corpo, judeus ou gregos, escravos ou livres, e todos bebemos de um só Espírito. O pé não deixa de ser do corpo por não ser mão, nem o ouvido por não ser olho; se tudo fosse olho, onde estaria o ouvido? Deus dispôs os membros como quis. O olho não pode dizer à mão “não preciso de ti”; pelo contrário, os membros que parecem mais fracos são os mais necessários, e Deus deu mais honra aos que a não tinham, para que não haja divisão, mas os membros cuidem uns dos outros. Se um membro sofre, todos sofrem; se um é honrado, todos se alegram. Vós sois o corpo de Cristo e, cada um, um membro. Deus estabeleceu na Igreja apóstolos, profetas, doutores e outros dons. Aspirai aos dons maiores. E eu vou mostrar-vos um caminho ainda mais excelente.",
+    "alegorico": "A Igreja não é apenas comparada a um corpo: é o corpo de Cristo. O batismo e o Espírito “bebido” (alusão provável à Eucaristia e à Confirmação) incorporam a Ele. Cristo é a cabeça; os fiéis, os membros vivos.",
+    "moral": "Ninguém é inútil, ninguém é autossuficiente. A comunidade cristã cuida especialmente dos membros fracos. A solidariedade concreta (“se um membro sofre, todos sofrem”) é a prova de que somos um corpo. Comparar-se ou desprezar-se destrói a unidade.",
+    "anagogico": "O corpo de Cristo cresce na história até atingir a plenitude. A comunhão de alegrias e dores entre os membros antecipa a comunhão dos santos na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Do mesmo modo que o corpo é um e tem muitos membros, assim é também Cristo. Num mesmo Espírito fomos baptizados todos nós, para sermos um só corpo. O olho não pode dizer à mão: Não necessito do teu serviço. Os membros do corpo que parecem mais fracos são os mais necessários. Se um membro sofre, todos os membros sofrem com ele; se um membro recebe glória, todos se regozijam com ele. Ora vós sois corpo de Cristo, e cada um, por sua parte, um dos seus membros.",
+    "meditatio_perguntas": [
+      "Sinto-me membro vivo do corpo de Cristo, ou espectador?",
+      "Quais são os membros “mais fracos” da minha comunidade, e como cuido deles?",
+      "Alegro-me sinceramente com a honra dos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, cabeça do corpo que é a Igreja, faz-me membro vivo e útil. Ensina-me a cuidar dos mais fracos, a sofrer com os que sofrem e a alegrar-me com a glória dos irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "vós sois corpo de Cristo, e cada um, por sua parte, um dos seus membros",
+      "ref": "1Cor 12,27"
+    }
+  },
+  "ancoras": {
+    "12:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 12,12-30 é a segunda leitura do 3º Domingo do Tempo Comum, Ano C. A doutrina do corpo místico foi desenvolvida por Pio XII (Mystici Corporis, 1943).",
+        "origem": "ia"
+      }
+    },
+    "12:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Bebido de um só Espírito”: os Padres viram aqui alusão ao Espírito recebido nos sacramentos da iniciação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

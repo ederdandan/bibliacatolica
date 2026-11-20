@@ -1,0 +1,57 @@
+{
+  "id": "1CO.7.1",
+  "livro": "1CO",
+  "titulo": "O matrimónio e a vocação de cada um",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 7,1-24",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Cada um tem de Deus o seu próprio dom",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo responde a perguntas dos coríntios sobre o matrimónio. Por causa da imoralidade, cada homem tenha a sua mulher e cada mulher o seu marido; os esposos cumpram mutuamente o seu dever, pois nenhum tem poder sobre o próprio corpo, mas o outro; não se recusem, a não ser de comum acordo e por algum tempo, para se darem à oração. Paulo quisera que todos fossem como ele, mas cada um tem de Deus o seu dom. Aos não casados e viúvas diz que é bom permanecerem assim; mas, se não se contêm, casem-se. Aos casados, manda não ele, mas o Senhor: a mulher não se separe do marido, e o marido não repudie a mulher. Nos casamentos mistos, o cônjuge cristão não se separe, se o outro consente em viver com ele, pois o cônjuge não crente é santificado; se o não crente se separa, o cristão não fica ligado: Deus chamou-nos à paz. Cada um permaneça na condição em que foi chamado: o que vale é guardar os mandamentos de Deus.",
+    "alegorico": "O matrimónio cristão, em que cada cônjuge pertence ao outro, é imagem da pertença mútua entre Cristo e a Igreja (cf. Ef 5). A santificação do cônjuge e dos filhos pelo cristão mostra a Igreja como fermento que santifica a família.",
+    "moral": "O texto equilibra dois valores: o matrimónio, dom de Deus com deveres recíprocos e indissolúvel por mandato do Senhor, e o celibato, também dom. Cada vocação é carisma, não superioridade. E a vida cristã não exige mudar de condição social, mas viver nela segundo os mandamentos.",
+    "anagogico": "Os casais que se abstêm “para se aplicarem à oração” lembram que o amor humano está orientado para a comunhão com Deus. A paz a que Deus nos chamou é a paz definitiva do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O marido dê à sua mulher o que lhe deve; e da mesma maneira também a mulher ao marido. Cada um tem de Deus o seu próprio dom: um de um modo, e outro de outro. Mando, não eu, mas o Senhor, que a mulher se não separe do marido, e o marido não repudie sua mulher. Deus vos chamou à paz. Cada um permaneça diante de Deus no estado em que foi chamado.",
+    "meditatio_perguntas": [
+      "Reconheço o meu estado de vida como dom de Deus?",
+      "Na minha família, vivo a pertença mútua com generosidade?",
+      "Sou instrumento de santificação para os que vivem comigo?"
+    ],
+    "oratio_guia": "Senhor, que dás a cada um o seu dom, abençoa os esposos, os celibatários e os que vivem sozinhos. Que cada um, no estado em que o chamaste, guarde os teus mandamentos e viva na paz a que nos chamaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "cada um tem de Deus o seu próprio dom: um de um modo, e outro de outro",
+      "ref": "1Cor 7,7"
+    }
+  },
+  "ancoras": {
+    "7:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo distingue o mandamento do Senhor sobre a indissolubilidade (cf. Mc 10,9) do seu próprio conselho apostólico (v. 12).",
+        "origem": "ia"
+      }
+    },
+    "7:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Base do chamado “privilégio paulino” no direito canónico: dissolução do matrimónio de dois não batizados quando um se converte e o outro se separa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

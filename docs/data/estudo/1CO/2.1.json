@@ -1,0 +1,57 @@
+{
+  "id": "1CO.2.1",
+  "livro": "1CO",
+  "titulo": "A sabedoria de Deus revelada pelo Espírito",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 2,1-16",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O que Deus preparou para aqueles que o amam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo recorda como chegou a Corinto: não com sublimidade de palavra ou de sabedoria, mas decidido a não saber outra coisa senão Jesus Cristo, e este crucificado. Esteve entre eles com fraqueza, temor e tremor; a sua pregação não se apoiava em persuasão humana, mas na demonstração do Espírito e do poder, para que a fé repousasse no poder de Deus. Contudo há uma sabedoria que se anuncia aos perfeitos: a sabedoria misteriosa de Deus, escondida, predestinada antes dos séculos para nossa glória, que os príncipes deste mundo não conheceram, pois, se a tivessem conhecido, não teriam crucificado o Senhor da glória. O que olho não viu nem ouvido ouviu, Deus o revelou pelo Espírito, que sonda as profundezas de Deus. O homem natural não acolhe as coisas do Espírito; o espiritual julga todas as coisas. Nós temos o pensamento de Cristo.",
+    "alegorico": "“O Senhor da glória” crucificado: o título mais alto unido à morte mais baixa. A sabedoria escondida desde os séculos é o próprio Cristo, revelado pelo Espírito à Igreja, que recebe “o pensamento de Cristo”.",
+    "moral": "Paulo mostra que a fraqueza do pregador não é obstáculo, antes deixa ver o poder de Deus. A vida espiritual pede docilidade ao Espírito para compreender as coisas de Deus: o puramente “natural” acha-as loucas. Ter o pensamento de Cristo é aprender a julgar como Ele.",
+    "anagogico": "“Nem o olho viu, nem o ouvido ouviu” o que Deus prepara para os que o amam: a glória futura excede toda imaginação. O Espírito dá já agora um antegosto dessa sabedoria predestinada “para nossa glória”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Julguei que não devia saber coisa alguma entre vós senão a Jesus Cristo, e Jesus Cristo crucificado. Pregamos a misteriosa sabedoria de Deus, que Deus predestinou antes dos séculos para nossa glória. Nem o olho viu, nem o ouvido ouviu, nem entrou no coração do homem o que Deus preparou para aqueles que o amam; a nós, porém, Deus revelou-o por meio do seu Espírito. Nós temos o pensamento de Cristo.",
+    "meditatio_perguntas": [
+      "Jesus crucificado é o centro do que eu sei e anuncio?",
+      "Deixo que a minha fraqueza seja lugar do poder de Deus?",
+      "Peço ao Espírito que me dê o pensamento de Cristo?"
+    ],
+    "oratio_guia": "Espírito Santo, que sondas as profundezas de Deus, revela-me o que Ele preparou para os que o amam. Que eu não saiba outra coisa senão Jesus Cristo crucificado, e que tenha o pensamento de Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "não devia saber coisa alguma entre vós senão a Jesus Cristo, e Jesus Cristo crucificado",
+      "ref": "1Cor 2,2"
+    }
+  },
+  "ancoras": {
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação livre de Is 64,4 (Vulgata) e 65,17. 1Cor 2,1-5 é a segunda leitura do 5º Domingo do Tempo Comum, Ano A; 1Cor 2,6-10, do 6º.",
+        "origem": "ia"
+      }
+    },
+    "2:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Homem natural” (psychikós): o que vive só segundo as capacidades humanas, sem a luz do Espírito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

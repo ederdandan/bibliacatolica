@@ -1,0 +1,49 @@
+{
+  "id": "1CO.8.1",
+  "livro": "1CO",
+  "titulo": "A ciência incha, a caridade edifica",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 8,1-13",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A ciência incha, mas a caridade edifica",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sobre as carnes sacrificadas aos ídolos: todos temos conhecimento, mas o conhecimento incha, e a caridade edifica. Quem pensa saber alguma coisa ainda não sabe como convém; mas quem ama a Deus é conhecido por Ele. Sabemos que o ídolo nada é e que não há outro Deus senão um: para nós há um só Deus, o Pai, de quem tudo procede e para quem existimos, e um só Senhor, Jesus Cristo, por quem tudo existe e nós também. Mas nem todos têm este conhecimento: alguns, habituados aos ídolos, comem com consciência fraca e contaminam-se. Um alimento não nos aproxima de Deus. Cuidai que a vossa liberdade não seja tropeço para os fracos: se alguém te vê, a ti que tens conhecimento, à mesa num templo de ídolos, não será levado a comer contra a sua consciência? E por causa do teu conhecimento perece o irmão fraco, por quem Cristo morreu. Pecando assim contra os irmãos, pecais contra Cristo. Por isso, se um alimento escandaliza o meu irmão, nunca mais comerei carne.",
+    "alegorico": "A confissão “um só Deus, o Pai… e um só Senhor, Jesus Cristo” é uma das mais antigas fórmulas de fé cristã: o Shemá de Israel relido à luz de Cristo. O irmão fraco “por quem Cristo morreu” traz em si o preço da Cruz.",
+    "moral": "Ter razão não basta: a liberdade deve submeter-se à caridade. O saber que despreza os simples incha; o amor que se adapta ao irmão edifica. Ferir a consciência fraca de um irmão é pecar contra o próprio Cristo. Paulo está disposto a renunciar a um direito para não escandalizar.",
+    "anagogico": "“Para quem existimos”: o Pai é origem e meta de tudo. Quem ama a Deus é conhecido por Ele, e esse conhecimento mútuo, iniciado no amor, terá plenitude na visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ciência incha, mas a caridade edifica. Se alguém ama a Deus, esse é conhecido dele. Para nós há um só Deus, o Pai, de quem provêm todas as coisas, e para quem existimos, e um só Senhor, Jesus Cristo, por quem todas as coisas foram feitas. Vede que esta liberdade que tendes não se torne ocasião de queda para os fracos. Pela tua ciência perecerá o irmão fraco, pelo qual morreu Cristo!",
+    "meditatio_perguntas": [
+      "O meu conhecimento da fé torna-me orgulhoso ou mais caridoso?",
+      "A minha liberdade já foi pedra de tropeço para alguém?",
+      "Que direito posso renunciar por amor de um irmão?"
+    ],
+    "oratio_guia": "Deus Pai, de quem tudo vem e para quem existimos, e Senhor Jesus, por quem tudo foi feito, livra-me da ciência que incha. Dá-me a caridade que edifica e o cuidado pelo irmão fraco, por quem morreste. Amém.",
+    "contemplatio_foco": {
+      "texto": "A ciência incha, mas a caridade edifica",
+      "ref": "1Cor 8,1"
+    }
+  },
+  "ancoras": {
+    "8:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Releitura cristológica do Shemá (Dt 6,4): o “um só Deus” e o “um só Senhor” são distintos e unidos, base da futura fórmula do Credo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CO.11.2",
+  "livro": "1CO",
+  "titulo": "O decoro na oração",
+  "secao": "A assembleia cristã",
+  "referencia": "1Cor 11,2-16",
+  "ini": {
+    "c": 11,
+    "v": 2
+  },
+  "fim": {
+    "c": 11,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Todas as coisas vêm de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo louva os coríntios por guardarem as tradições que lhes transmitiu, e trata do modo de orar e profetizar nas assembleias. Cristo é a cabeça de todo homem, o homem é cabeça da mulher, e Deus é cabeça de Cristo. O homem que ora ou profetiza com a cabeça coberta desonra a sua cabeça; a mulher que o faz com a cabeça descoberta desonra a sua. Paulo argumenta a partir da criação, do costume e da natureza: a mulher deve ter sobre a cabeça um sinal de autoridade, por causa dos anjos. Mas acrescenta logo que, no Senhor, nem a mulher existe sem o homem, nem o homem sem a mulher: se a mulher foi tirada do homem, o homem nasce da mulher, e tudo vem de Deus. Conclui que as Igrejas de Deus não têm outro costume.",
+    "alegorico": "A ordem “Deus–Cristo–homem–mulher” reflete a ordem da criação e da redenção: Cristo, Cabeça, e a Igreja, corpo e esposa. A presença dos anjos na assembleia lembra que a liturgia terrena se une à liturgia celeste.",
+    "moral": "Para além dos costumes culturais do tempo (o véu), o princípio permanente é que a assembleia de oração deve ter decoro e ordem, e que homem e mulher são interdependentes “no Senhor”. A diferença não anula a igual dignidade: “todas as coisas vêm de Deus”.",
+    "anagogico": "A oração na presença dos anjos antecipa a assembleia celeste. No Senhor, homem e mulher caminham juntos para a mesma glória, onde Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu vos louvo porque guardais os meus preceitos, como vo-los ensinei. Cristo é a cabeça de todo o homem. Contudo nem o homem existe sem a mulher, nem a mulher sem o homem, no Senhor. Porque, se a mulher foi tirada do homem, também o homem é concebido pela mulher, e todas as coisas vêm de Deus.",
+    "meditatio_perguntas": [
+      "Guardo as tradições recebidas com discernimento e fidelidade?",
+      "Como vivo a complementaridade entre homem e mulher na minha vida?",
+      "Participo da liturgia com consciência de estar diante de Deus e dos anjos?"
+    ],
+    "oratio_guia": "Senhor, de quem todas as coisas vêm, ensina-nos a orar diante de ti com reverência. Que homens e mulheres, no Senhor, se reconheçam necessários uns aos outros e caminhem juntos para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "todas as coisas vêm de Deus",
+      "ref": "1Cor 11,12"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Preceitos” traduz parádosis, tradição: o que se recebe e transmite na Igreja.",
+        "origem": "ia"
+      }
+    },
+    "11:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Por causa dos anjos”: provavelmente porque os anjos participam do culto (cf. Sl 137,1 LXX); a interpretação é discutida desde os Padres.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

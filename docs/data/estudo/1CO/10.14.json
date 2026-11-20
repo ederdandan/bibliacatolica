@@ -1,0 +1,57 @@
+{
+  "id": "1CO.10.14",
+  "livro": "1CO",
+  "titulo": "Um só pão, um só corpo",
+  "secao": "Respostas às perguntas dos coríntios",
+  "referencia": "1Cor 10,14–11,1",
+  "ini": {
+    "c": 10,
+    "v": 14
+  },
+  "fim": {
+    "c": 11,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Um só pão, um só corpo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Fugi da idolatria. Paulo apela ao juízo dos coríntios: o cálice de bênção que abençoamos não é comunhão com o sangue de Cristo? O pão que partimos não é comunhão com o corpo de Cristo? Porque há um só pão, nós, embora muitos, somos um só corpo, pois todos participamos do mesmo pão. Os que comem as vítimas em Israel têm parte no altar; e o que se sacrifica aos ídolos é oferecido aos demónios. Não podeis beber o cálice do Senhor e o cálice dos demónios, nem participar da mesa do Senhor e da mesa dos demónios. “Tudo é permitido”, mas nem tudo convém nem edifica; ninguém procure o seu interesse, mas o do outro. Comei o que se vende no mercado sem perguntar nada, pois a terra é do Senhor; mas, se alguém avisar que é carne sacrificada, abstende-vos por causa da consciência do outro. Comendo, bebendo ou fazendo qualquer outra coisa, fazei tudo para a glória de Deus. Sede meus imitadores, como eu o sou de Cristo.",
+    "alegorico": "A Eucaristia é comunhão (koinonía) real com o corpo e o sangue de Cristo e, por isso mesmo, fonte da unidade da Igreja: o único pão faz de muitos um só corpo. A “mesa do Senhor” é o altar cristão, oposto às mesas idolátricas.",
+    "moral": "Participar da Eucaristia exclui a participação em cultos contrários a Deus: não se pode servir a dois senhores. A liberdade cristã é real, mas subordinada ao bem do outro. E todo gesto quotidiano, até comer e beber, pode ser feito para a glória de Deus.",
+    "anagogico": "O único pão partilhado prefigura o banquete do Reino, onde todos os remidos serão um só corpo em Cristo. Fazer tudo para a glória de Deus é já viver a liturgia eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Porventura o cálice de bênção, que benzemos, não é a comunhão do sangue de Cristo? E o pão, que partimos, não é a participação do corpo do Senhor? Visto que há um só pão, nós, embora muitos, formamos um só corpo, nós todos que participamos do mesmo pão. Ninguém busque o bem próprio, mas o bem dos outros. Ou comais, ou bebais, ou façais qualquer outra coisa, fazei tudo para glória de Deus.",
+    "meditatio_perguntas": [
+      "A comunhão eucarística une-me de facto aos irmãos?",
+      "Há “mesas” incompatíveis com a mesa do Senhor na minha vida?",
+      "Faço as coisas simples do dia para a glória de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te dás a nós no pão partido e no cálice de bênção, faz de nós um só corpo. Livra-me de toda idolatria e ensina-me a fazer tudo, até comer e beber, para a glória de Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "há um só pão, nós, embora muitos, formamos um só corpo",
+      "ref": "1Cor 10,17"
+    }
+  },
+  "ancoras": {
+    "10:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cálice de bênção”: nome do cálice da ceia pascal judaica, sobre o qual se pronunciava a bênção. 1Cor 10,16-17 é a segunda leitura do Corpo e Sangue de Cristo, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "10:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 10,31–11,1 é a segunda leitura do 6º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

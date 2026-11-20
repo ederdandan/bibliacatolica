@@ -1,0 +1,57 @@
+{
+  "id": "1CO.3.1",
+  "livro": "1CO",
+  "titulo": "Cooperadores de Deus; vós sois templo de Deus",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 3,1-23",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Vós sois templo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo não pôde falar aos coríntios como a espirituais, mas como a carnais, crianças em Cristo; deu-lhes leite, não alimento sólido, e as suas invejas e contendas mostram que ainda são carnais. Que é Apolo? Que é Paulo? Servos por meio de quem crestes. Eu plantei, Apolo regou, mas Deus deu o crescimento: nem o que planta nem o que rega são alguma coisa, mas Deus. Somos cooperadores de Deus; vós sois campo de Deus, edifício de Deus. Como sábio arquiteto, Paulo lançou o fundamento, que é Jesus Cristo; cada um veja como edifica sobre ele: ouro, prata, pedras preciosas, ou madeira, feno, palha. O dia do Senhor, revelado no fogo, provará a obra de cada um. Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós? Ninguém se glorie nos homens: tudo é vosso, mas vós sois de Cristo, e Cristo é de Deus.",
+    "alegorico": "A Igreja é ao mesmo tempo campo cultivado e edifício construído sobre Cristo, pedra fundamental. É sobretudo templo onde habita o Espírito, substituindo o templo de pedra de Jerusalém. O fogo do último dia, que prova as obras, foi lido pela tradição latina como apoio à doutrina do purgatório.",
+    "moral": "Os ministros são servos, cooperadores; o crescimento é de Deus. Isso liberta da vaidade e do desânimo. Cada um deve examinar com que material edifica: obras de ouro, que resistem ao fogo, ou de palha. E a dignidade do cristão, templo de Deus, pede respeito por si e pelos outros.",
+    "anagogico": "O dia do Senhor revelará no fogo o valor de cada obra; quem edificou mal “será salvo, como por meio do fogo”. A ordem final é clara: tudo é vosso, vós de Cristo, Cristo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu plantei, Apolo regou, mas Deus é que deu o crescimento. Somos cooperadores de Deus. Vós sois cultura de Deus, sois edifício de Deus. Ninguém pode pôr outro fundamento, senão o que foi posto, isto é, Jesus Cristo. Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós? Tudo é vosso, mas vós sois de Cristo, e Cristo de Deus.",
+    "meditatio_perguntas": [
+      "Na minha missão, confio no crescimento que vem de Deus ou no meu esforço?",
+      "Com que material estou a edificar: ouro ou palha?",
+      "Trato-me a mim e aos outros como templos de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, único fundamento, faz de mim cooperador de Deus. Que eu edifique sobre ti com obras que resistam ao fogo, e que, templo do teu Espírito, viva para ti como tu vives para o Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós?",
+      "ref": "1Cor 3,16"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Como por meio do fogo”: texto que a tradição latina (Agostinho, Gregório Magno) relacionou com a purificação depois da morte.",
+        "origem": "ia"
+      }
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 3,16-23 é a segunda leitura do 7º Domingo do Tempo Comum, Ano A; 1Cor 3,9c-11.16-17 lê-se na Dedicação da Basílica de Latrão (9 de novembro).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

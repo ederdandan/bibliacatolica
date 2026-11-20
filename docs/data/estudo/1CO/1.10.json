@@ -1,0 +1,57 @@
+{
+  "id": "1CO.1.10",
+  "livro": "1CO",
+  "titulo": "Está dividido Cristo?",
+  "secao": "Divisões na comunidade",
+  "referencia": "1Cor 1,10-17",
+  "ini": {
+    "c": 1,
+    "v": 10
+  },
+  "fim": {
+    "c": 1,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Está dividido Cristo?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta, pelo nome de Nosso Senhor Jesus Cristo, a que todos falem a mesma linguagem e não haja divisões, mas estejam unidos no mesmo pensar. Pelos da casa de Cloé soube de contendas: uns dizem “eu sou de Paulo”, outros “eu de Apolo”, outros “eu de Cefas”, outros “eu de Cristo”. Estará Cristo dividido? Foi Paulo crucificado por vós, ou fostes batizados em nome de Paulo? Dá graças por ter batizado poucos, Crispo, Caio e a família de Estéfanas, para que ninguém diga que foi batizado em seu nome. Cristo enviou-o não a batizar, mas a evangelizar, e não com sabedoria de palavras, para não esvaziar a cruz de Cristo.",
+    "alegorico": "Cristo é um só, e o seu corpo, a Igreja, não pode ser repartido em partidos. O batismo em nome de Cristo, e não de um pregador, mostra que todos pertencem a um único Senhor, crucificado por todos.",
+    "moral": "O culto às personalidades, mesmo de bons pregadores, divide a Igreja. A fidelidade a Cristo não se mede pela simpatia por este ou aquele ministro. E a eloquência humana pode esvaziar a cruz quando atrai para o pregador em vez de levar ao Crucificado.",
+    "anagogico": "A unidade pedida por Paulo antecipa a Igreja reunida na glória, onde todos serão um em Cristo e ninguém dirá “eu sou de fulano”, mas apenas “eu sou do Senhor”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Rogo-vos, Irmãos, pelo nome de Nosso Senhor Jesus Cristo, que digais todos o mesmo e que entre vós não haja discórdias. Cada um de vós diz: Eu sou de Paulo! Eu de Apolo! Eu de Cefas! Eu de Cristo. Está dividido Cristo? Porventura Paulo foi crucificado por vós? Cristo não me enviou a batizar, mas a pregar o Evangelho, para que não se torne inútil a Cruz de Cristo.",
+    "meditatio_perguntas": [
+      "Alimento divisões na comunidade por preferências pessoais?",
+      "Sigo pessoas ou sigo Cristo através delas?",
+      "Contribuo para a unidade no mesmo espírito e no mesmo parecer?"
+    ],
+    "oratio_guia": "Senhor Jesus, crucificado por todos, livra a tua Igreja das divisões. Que eu não seja de partido algum, senão teu, e que a tua cruz nunca seja esvaziada pela minha vaidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Está dividido Cristo?",
+      "ref": "1Cor 1,13"
+    }
+  },
+  "ancoras": {
+    "1:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cefas é Pedro (do aramaico kefa, “rocha”). Apolo era um judeu de Alexandria, eloquente e versado nas Escrituras (At 18,24-28).",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cor 1,10-13.17 é a segunda leitura do 3º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
