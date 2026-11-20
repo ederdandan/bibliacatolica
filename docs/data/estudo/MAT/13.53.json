@@ -1,0 +1,62 @@
+{
+  "id": "MAT.13.53",
+  "livro": "MAT",
+  "titulo": "Jesus rejeitado em Nazaré",
+  "secao": "As parábolas do Reino",
+  "referencia": "Mt 13,53-58",
+  "ini": { "c": 13, "v": 53 },
+  "fim": { "c": 13, "v": 58 },
+  "liturgia": { "tema_central": "Um profeta só é desprezado na sua pátria", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Terminadas as parábolas, Jesus ensina na sinagoga de Nazaré, “a sua pátria”. Os conterrâneos admiram a sua sabedoria e os seus milagres, mas se escandalizam porque o conhecem como “o filho do carpinteiro” (o termo grego tekton designa o artesão que trabalha a madeira e a pedra), e conhecem sua mãe e seus “irmãos” (parentes próximos). Jesus cita um provérbio: o profeta só é desprezado na sua pátria. Por causa da incredulidade deles, não fez ali muitos milagres.",
+    "alegorico": "Nazaré representa o povo de Israel, “os seus” que não o receberam (Jo 1,11). A humildade da Encarnação, o Filho de Deus escondido como filho de artesão, é ocasião de escândalo para quem só julga pelas aparências. Os Padres viram no “filho do artífice” o Filho daquele que criou e trabalha toda a matéria do mundo.",
+    "moral": "A familiaridade pode gerar desprezo: julgamos os outros pela origem e não pelas obras. É quase natural que os conterrâneos invejem os seus. A incredulidade fecha a porta aos milagres de Deus. Jesus responde à ofensa com mansidão.",
+    "anagogico": "Jesus não faz muitos milagres em Nazaré para não ter de condenar mais os seus conterrâneos. Só a fé abre a vida à ação plena de Deus, que se manifestará totalmente na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus foi à sua pátria e ensinava na sinagoga, de modo que se admiravam e diziam: “De onde lhe vêm esta sabedoria e estes milagres? Não é ele o filho do carpinteiro? A sua mãe não se chama Maria, e os seus irmãos Tiago, José, Simão e Judas? De onde lhe vem tudo isto?” E escandalizavam-se dele. Jesus disse-lhes: “Um profeta só é desprezado na sua pátria e na sua casa”. E não fez ali muitos milagres, por causa da incredulidade deles.",
+    "meditatio_perguntas": [
+      "Sou incapaz de reconhecer Deus nas pessoas e coisas que me são familiares?",
+      "A minha incredulidade limita a ação de Deus na minha vida?",
+      "Como acolho a humildade de Deus que se faz próximo?"
+    ],
+    "oratio_guia": "Senhor Jesus, filho do carpinteiro e Filho do Altíssimo, livra-me do escândalo diante da tua humildade. Que a familiaridade com as coisas santas não me torne indiferente. Aumenta a minha fé, para que possas agir em mim. Amém.",
+    "contemplatio_foco": { "texto": "Não é este o filho do carpinteiro?", "ref": "Mt 13,55" }
+  },
+  "ancoras": {
+    "13:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 48", "catena": "13:53–58#2", "sintese": "Sua pátria é Nazaré; não fez ali tantos milagres como em Cafarnaum, mas mostra a sua doutrina." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:53–58#4", "sintese": "Admirável loucura: admiram-se de onde a própria Sabedoria tem sabedoria, e o próprio Poder, poderes!" }
+      ],
+      "nota": null
+    },
+    "13:55": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "13:53–58#7", "sintese": "Era o filho do artífice que doma o ferro pelo fogo e forma a matéria bruta para toda obra útil ao homem." },
+        { "autor": "São Jerônimo", "obra": "Contra Helvídio 14", "catena": "13:53–58#9", "sintese": "Os chamados irmãos do Senhor são filhos de Maria, irmã de sua Mãe, a mulher de Cléofas." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:53–58#12", "sintese": "Este erro dos judeus é a nossa salvação e a condenação dos hereges: perceberam que era verdadeiro homem." }
+      ],
+      "nota": { "texto": "O termo grego tekton designa o artesão que trabalha a madeira, a pedra e outros materiais de construção.", "origem": "ia" }
+    },
+    "13:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:53–58#13", "sintese": "Observa a mansidão de Cristo: falam mal dele, e Ele responde com brandura." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:53–58#15", "sintese": "É quase natural que os concidadãos se invejem: não olham as obras do homem, mas lembram-se das fraquezas da sua infância." }
+      ],
+      "nota": null
+    },
+    "13:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:53–58#17", "sintese": "Não que não pudesse fazer milagres por eles não crerem, mas para não ter de condenar os seus concidadãos pela incredulidade." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:53–58#18", "sintese": "Não buscava ostentar-se, mas o proveito dos outros; como este não se seguia, absteve-se, para não lhes aumentar o castigo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

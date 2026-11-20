@@ -1,0 +1,107 @@
+{
+  "id": "MAT.13.1",
+  "livro": "MAT",
+  "titulo": "A parábola do semeador",
+  "secao": "As parábolas do Reino",
+  "referencia": "Mt 13,1-23",
+  "ini": { "c": 13, "v": 1 },
+  "fim": { "c": 13, "v": 23 },
+  "liturgia": { "tema_central": "A semente da Palavra e a terra do coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Terceiro grande discurso de Mateus: as parábolas do Reino. Sentado numa barca, Jesus fala à multidão na praia. Na Palestina, semeava-se lançando a semente a mão cheia, antes de arar; por isso parte caía no caminho batido, em terreno rochoso coberto de pouca terra, entre espinhos. A colheita de cem, sessenta e trinta por um era extraordinária. Os discípulos perguntam por que fala em parábolas: a eles é dado conhecer os mistérios do Reino; os outros, por terem o coração endurecido, veem sem ver, como disse Isaías (Is 6,9-10). Jesus explica a parábola: os quatro terrenos são quatro modos de ouvir a Palavra.",
+    "alegorico": "O semeador é Cristo, que “saiu” do Pai, não mudando de lugar, mas aproximando-se de nós pela Encarnação. A semente é a Palavra do Reino; a terra boa, o coração que a acolhe. Os Padres viram nos três graus de fruto os mártires (cem), as virgens (sessenta) e os casados (trinta), todos fecundos na Igreja.",
+    "moral": "A parábola é um exame de consciência: o caminho é o coração endurecido pelo trânsito de maus pensamentos; a pedra, a inconstância que cede na tribulação; os espinhos, as preocupações e o engano das riquezas, que prometem uma coisa e fazem outra. A terra boa ouve, compreende e frutifica com perseverança. Deus não impõe a cegueira: os que não recebem são causa dos próprios males.",
+    "anagogico": "A semente lançada agora frutificará na colheita do fim dos tempos. Os discípulos são felizes porque veem e ouvem o que profetas e justos desejaram; mais felizes ainda serão quando contemplarem face a face o Reino cujos mistérios agora começam a conhecer."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus sentou-se numa barca e disse à multidão: “O semeador saiu a semear. Parte da semente caiu à beira do caminho, e as aves a comeram. Outra caiu em terreno pedregoso, brotou logo, mas, sem raiz, secou ao sol. Outra caiu entre espinhos, que a sufocaram. Outra caiu em terra boa e deu fruto: cem, sessenta, trinta por um. Quem tem ouvidos, ouça”. E explicou: “A semente na terra boa é aquele que ouve a Palavra e a compreende: esse dá fruto”. E aos discípulos: “Felizes os vossos olhos, porque veem, e os vossos ouvidos, porque ouvem”.",
+    "meditatio_perguntas": [
+      "Que tipo de terreno é hoje o meu coração diante da Palavra?",
+      "Que “espinhos” (preocupações, riquezas) sufocam em mim a semente?",
+      "Persevero quando a Palavra me traz tribulação?"
+    ],
+    "oratio_guia": "Senhor Jesus, semeador da Palavra, prepara em mim uma terra boa. Arranca as pedras da inconstância e os espinhos das preocupações. Que a tua Palavra crie raízes no meu coração e dê fruto abundante. Amém.",
+    "contemplatio_foco": { "texto": "Ditosos, porém, os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem.", "ref": "Mt 13,16" }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:1–9#4", "sintese": "Entrou na barca para dispor o povo de modo que ninguém ficasse às suas costas, mas todos diante dele." }
+      ],
+      "nota": null
+    },
+    "13:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:1–9#12", "sintese": "Saiu aquele que está presente em toda parte, não localmente, mas aproximando-se de nós pela Encarnação, revestido da carne." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:1–9#8", "sintese": "No monte não falou em parábolas, pois havia só gente simples; aqui estavam também escribas e fariseus." }
+      ],
+      "nota": null
+    },
+    "13:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Rábano Mauro", "obra": null, "catena": "13:1–9#19", "sintese": "O caminho é a mente trilhada e endurecida pela passagem contínua dos maus pensamentos; a pedra, a dureza da mente obstinada." }
+      ],
+      "nota": null
+    },
+    "13:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "13:1–9#21", "sintese": "Os ouvidos para ouvir são os da mente, para entender e cumprir o que se manda." }
+      ],
+      "nota": null
+    },
+    "13:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 45", "catena": "13:10–17#1", "sintese": "Os discípulos sabem quando interrogá-lo: não o fazem diante da multidão." }
+      ],
+      "nota": null
+    },
+    "13:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:10–17#6", "sintese": "Não implica necessidade nem fatalidade: os que não recebem são causa dos seus próprios males." }
+      ],
+      "nota": null
+    },
+    "13:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:10–17#18", "sintese": "“E se convertam, e eu os cure”: se se convertessem, seriam curados." }
+      ],
+      "nota": null
+    },
+    "13:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:10–17#28", "sintese": "Viram a sua presença, a sua voz, o seu ensino: declara-os mais felizes que os próprios justos antigos." }
+      ],
+      "nota": null
+    },
+    "13:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:18–23#4", "sintese": "“Logo se escandaliza”: há diferença entre quem nega Cristo após muitos tormentos e quem cede à primeira perseguição." }
+      ],
+      "nota": null
+    },
+    "13:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:18–23#6", "sintese": "As riquezas são enganadoras, prometendo uma coisa e fazendo outra; a sua posse é escorregadia." }
+      ],
+      "nota": null
+    },
+    "13:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 9", "catena": "13:18–23#11", "sintese": "O fruto de cem é dos mártires; o de sessenta, das virgens; o de trinta, dos casados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

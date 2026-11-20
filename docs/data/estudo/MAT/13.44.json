@@ -1,0 +1,76 @@
+{
+  "id": "MAT.13.44",
+  "livro": "MAT",
+  "titulo": "O tesouro, a pérola e a rede",
+  "secao": "As parábolas do Reino",
+  "referencia": "Mt 13,44-52",
+  "ini": { "c": 13, "v": 44 },
+  "fim": { "c": 13, "v": 52 },
+  "liturgia": { "tema_central": "Vender tudo pelo tesouro do Reino; coisas novas e velhas", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Duas parábolas gêmeas: um homem encontra por acaso um tesouro escondido num campo (era comum enterrar bens em tempo de guerra) e, cheio de alegria, vende tudo para comprar o campo; um negociante procura pérolas finas e, achando uma de grande valor, vende tudo para adquiri-la. A rede de arrasto, lançada no lago, apanha peixes de toda espécie, que depois são separados (havia peixes impuros segundo Lv 11,10). Assim será no fim do mundo. Por fim, o escriba que se tornou discípulo do Reino é como um pai de família que tira do seu tesouro coisas novas e velhas.",
+    "alegorico": "O tesouro escondido é o Verbo de Deus oculto na carne de Cristo, em quem estão todos os tesouros da sabedoria (Cl 2,3), ou as Escrituras, cujo sentido se esconde na letra. A pérola única é Cristo, buscado entre muitas pérolas boas, a Lei e os Profetas. A rede é a Igreja, confiada às mãos de pescadores, que recolhe bons e maus até a praia do fim dos tempos. As coisas novas e velhas são o Novo e o Antigo Testamento, que o discípulo une.",
+    "moral": "O Reino vale mais que tudo: encontrá-lo gera alegria e leva à renúncia. Uns o encontram sem procurar (o tesouro), outros depois de longa busca (a pérola). O tesouro deve ser guardado no coração, não por inveja, mas por estima. A pertença à rede, a Igreja, não basta para a salvação: a fé deve frutificar em vida reta.",
+    "anagogico": "A separação dos peixes na praia é imagem do Juízo final, quando os anjos separarão os maus dos justos. Convém mais temer do que explicar: os tormentos são anunciados claramente para que ninguém alegue ignorância."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Reino dos Céus é semelhante a um tesouro escondido no campo. Um homem o encontra, esconde-o e, cheio de alegria, vai, vende tudo o que tem e compra aquele campo. É também semelhante a um negociante que procura pérolas finas: encontrando uma de grande valor, vende tudo o que tem e a compra. É ainda semelhante a uma rede lançada ao mar, que apanha peixes de toda espécie. Assim será no fim do mundo: os anjos separarão os maus dos justos”. E acrescentou: “Todo escriba instruído no Reino dos Céus é como um pai de família que tira do seu tesouro coisas novas e velhas”.",
+    "meditatio_perguntas": [
+      "Já experimentei a alegria de encontrar o “tesouro” do Reino?",
+      "O que estou disposto a “vender” para possuir Cristo, a pérola preciosa?",
+      "Como uno, na minha fé, as “coisas novas e velhas” das Escrituras e da Tradição?"
+    ],
+    "oratio_guia": "Senhor Jesus, tesouro escondido e pérola preciosa, dá-me a alegria de te encontrar e a liberdade de deixar tudo por ti. Guarda-me na rede da tua Igreja e faz de mim um peixe bom para o teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Cheio de alegria, vai, vende tudo o que tem, e compra aquele campo.", "ref": "Mt 13,44" }
+  },
+  "ancoras": {
+    "13:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:44#4", "sintese": "O tesouro em que estão todos os tesouros da sabedoria é o Deus Verbo, escondido na carne de Cristo, ou as Sagradas Escrituras." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 11 sobre os Evangelhos, 1", "catena": "13:44#3", "sintese": "O tesouro escondido é o desejo do céu; o campo, a disciplina da doutrina celeste." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:44#2", "sintese": "Escondê-lo não é por inveja, mas porque guarda no coração aquilo que estima mais que todos os seus bens." }
+      ],
+      "nota": null
+    },
+    "13:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "13:45–46#1", "sintese": "As boas pérolas são a Lei e os Profetas; a pérola única, a mais preciosa, é o conhecimento do Salvador e do mistério da sua paixão e ressurreição." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. sobre Mateus, q. 13", "catena": "13:45–46#3", "sintese": "Quem busca homens bons com quem viver encontra um só, Cristo Jesus, sem pecado." }
+      ],
+      "nota": null
+    },
+    "13:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 11 sobre os Evangelhos, 2", "catena": "13:45–46#2", "sintese": "A pérola preciosa é a doçura do Reino celeste: quem a conheceu deixa de bom grado tudo o que amava na terra." }
+      ],
+      "nota": null
+    },
+    "13:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:47–50#0", "sintese": "Para que não pensemos que só a fé basta para a salvação, acrescenta a parábola da rede." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 11 sobre os Evangelhos, 4", "catena": "13:47–50#2", "sintese": "A Igreja é como uma rede, confiada às mãos dos pescadores, que arrasta os homens das ondas deste mundo ao Reino." }
+      ],
+      "nota": null
+    },
+    "13:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "13:47–50#5", "sintese": "Convém-nos aqui antes temer do que expor: os tormentos são anunciados claramente para que ninguém alegue ignorância." }
+      ],
+      "nota": null
+    },
+    "13:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "13:51–52#6", "sintese": "Chama-os escribas pelo conhecimento: entenderam as coisas novas e velhas, da Lei e dos Evangelhos." },
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "13:51–52#8", "sintese": "As coisas velhas: o castigo merecido pelo pecado; as novas: a vida no Reino para quem se converte." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
