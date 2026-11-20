@@ -1,0 +1,90 @@
+{
+  "id": "LUK.18.1",
+  "livro": "LUK",
+  "titulo": "O juiz iníquo; o fariseu e o publicano",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 18,1-14",
+  "ini": { "c": 18, "v": 1 },
+  "fim": { "c": 18, "v": 14 },
+  "liturgia": { "tema_central": "Orar sempre, com fé perseverante e coração humilde", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus conta uma parábola sobre a necessidade de orar sempre sem desanimar. Um juiz que não temia a Deus nem respeitava os homens é importunado por uma viúva que lhe pede justiça contra o seu adversário; por muito tempo recusa, mas por fim atende-a para que não o importune mais. Se assim faz o juiz iníquo, Deus não fará justiça aos seus eleitos que clamam a Ele dia e noite? Fá-la-á depressa. “Mas, quando vier o Filho do homem, encontrará fé sobre a terra?” A outra parábola dirige-se aos que se julgavam justos e desprezavam os outros. Dois homens sobem ao templo para orar. O fariseu, de pé, ora para si: “Graças te dou, ó Deus, porque não sou como os outros homens, nem como este publicano; jejuo duas vezes por semana, pago o dízimo”. O publicano, ao longe, sem ousar levantar os olhos, bate no peito: “Meu Deus, tem piedade de mim, pecador”. Este desceu justificado, o outro não.",
+    "alegorico": "A viúva figura a Igreja, que parece desolada até que volte o Senhor, que agora a guarda às ocultas, e clama como os mártires do Apocalipse. O fariseu figura o povo que se gloria das obras da Lei; o publicano, os gentios que confessam os seus pecados e são justificados pela graça.",
+    "moral": "A perseverança da viúva vence até um juiz iníquo: quanto mais confiança devemos ter em Deus, fonte de justiça e misericórdia! A fé derrama a oração, e a oração dá firmeza à fé. A culpa do fariseu não foi dar graças, mas não pedir nada, como se não precisasse de perdão; ora “consigo mesmo” e faz do próximo ocasião de soberba. O publicano descobre a ferida e busca o remédio: não olhava, para ser olhado. A humildade unida ao pecado ultrapassa a soberba unida à justiça.",
+    "anagogico": "“Encontrará fé sobre a terra?”: a oração perseverante prepara a vinda do Filho do homem. Quem se humilha será exaltado no Reino, como o ladrão que entrou no paraíso pela humildade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Disse-lhes também uma parábola, para mostrar que importa orar sempre e não cessar de o fazer. “E Deus não fará justiça aos seus escolhidos, que estão clamando a ele, de dia e de noite? Mas, quando vier o Filho do homem, julgais vós que encontrará fé sobre a terra?” “Subiram dois homens ao templo a fazer oração: um era fariseu, outro publicano. O fariseu orava: Graças te dou, ó Deus, porque não sou como os outros homens. O publicano, porém, conservando-se a distância, não ousava nem ainda levantar os olhos ao céu, mas batia no peito, dizendo: Meu Deus, tem piedade de mim pecador. Este voltou justificado para sua casa, o outro não.”",
+    "meditatio_perguntas": [
+      "Desanimo na oração quando a resposta tarda?",
+      "Na minha oração, comparo-me com os outros para me sentir melhor?",
+      "Consigo dizer com verdade: “tem piedade de mim, pecador”?"
+    ],
+    "oratio_guia": "Meu Deus, tem piedade de mim, pecador. Dá-me a perseverança da viúva, que não deixa de clamar, e a humildade do publicano, que não ousa levantar os olhos. Livra-me de me julgar justo e de desprezar os outros. Aumenta a minha fé, para que o Filho do homem a encontre em mim quando vier. Amém.",
+    "contemplatio_foco": { "texto": "Meu Deus, tem piedade de mim pecador.", "ref": "Lc 18,13" }
+  },
+  "ancoras": {
+    "18:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:1–8#1", "sintese": "Quer que perseveres na oração incessante: nunca recusa os seus benefícios aos que oram." }
+      ],
+      "nota": null
+    },
+    "18:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 45.", "catena": "18:1–8#5", "sintese": "A viúva é a Igreja, que parece desolada até que venha o Senhor, que agora vela por ela às ocultas." }
+      ],
+      "nota": { "texto": "Na Bíblia, a viúva é figura do indefeso que só tem Deus por protetor (Ex 22,21-23; Sl 68,6).", "origem": "ia" }
+    },
+    "18:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 45.", "catena": "18:1–8#7", "sintese": "Se a perseverança venceu um juiz iníquo, quanto mais confiantes devem estar os que oram a Deus, fonte de justiça e misericórdia!" }
+      ],
+      "nota": null
+    },
+    "18:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 115.", "catena": "18:1–8#9", "sintese": "Fala da fé perfeita, rara na terra: se não houvesse fé, quem entraria na Igreja? Se houvesse fé perfeita, quem não transportaria montanhas?" },
+        { "autor": "Santo Agostinho", "obra": "Serm. 115.", "catena": "18:1–8#11", "sintese": "Quando falta a fé, a oração morre; a fé derrama a oração, e a oração dá firmeza à fé." }
+      ],
+      "nota": null
+    },
+    "18:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 115.", "catena": "18:9–14#0", "sintese": "Como a fé é dom dos humildes e não dos soberbos, segue-se uma parábola contra a soberba." }
+      ],
+      "nota": null
+    },
+    "18:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "in Is. c. 2.", "catena": "18:9–14#4", "sintese": "“Orava consigo mesmo”, não com Deus: a soberba o fazia voltar-se para si." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 115.", "catena": "18:9–14#5", "sintese": "A culpa não foi dar graças, mas não pedir nada, como se não precisasse dizer “perdoa-nos as nossas dívidas”." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "18:9–14#9", "sintese": "Do publicano a seu lado tira nova ocasião de soberba: “eu sou único; ele é dos outros”." }
+      ],
+      "nota": null
+    },
+    "18:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "18:9–14#16", "sintese": "Não levantava os olhos que tinham vagueado pelas coisas terrenas; batia no peito como para o despertar do sono." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:9–14#17", "sintese": "Um descobriu a ferida, o outro buscou o remédio; não te desculpes com vergonha de abrir a boca diante de Deus." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 115.", "catena": "18:9–14#18", "sintese": "Ficava de longe, mas aproximava-se de Deus; não olhava, para ser olhado; batia no peito, fazendo justiça contra si mesmo." }
+      ],
+      "nota": null
+    },
+    "18:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. de Prof. Evang.", "catena": "18:9–14#21", "sintese": "A humildade fez o publicano passar à frente do fariseu e levou o ladrão ao paraíso antes dos apóstolos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

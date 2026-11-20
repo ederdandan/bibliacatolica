@@ -1,0 +1,96 @@
+{
+  "id": "LUK.17.20",
+  "livro": "LUK",
+  "titulo": "A vinda do Reino e o dia do Filho do Homem",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 17,20-37",
+  "ini": { "c": 17, "v": 20 },
+  "fim": { "c": 17, "v": 37 },
+  "liturgia": { "tema_central": "O Reino no meio de vós e a vinda súbita do Filho do homem", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os fariseus perguntam quando virá o Reino de Deus. Jesus responde que ele não vem de modo observável, nem se dirá “está aqui” ou “está ali”, porque o Reino de Deus está no meio de vós. Aos discípulos anuncia: virão dias em que desejareis ver um dos dias do Filho do homem e não o vereis; não sigais os que dizem “ei-lo aqui”, pois o seu dia será como o relâmpago que ilumina o céu de ponta a ponta. Mas primeiro é preciso que ele sofra muito e seja rejeitado. Será como nos dias de Noé e de Ló: comiam, bebiam, casavam, compravam, plantavam, até que veio o dilúvio e choveu fogo. Naquele dia, quem estiver no terraço não desça para buscar os seus bens; lembrai-vos da mulher de Ló. Quem procurar salvar a vida perdê-la-á; quem a perder salvá-la-á. Um será tomado e outro deixado. “Onde, Senhor?” “Onde estiver o corpo, aí se juntarão as águias.”",
+    "alegorico": "O Reino no meio de nós é o próprio Cristo, presente entre os fariseus e reinando pela fé nos corações. Noé construindo a arca figura o Senhor que edifica a Igreja com os fiéis, unidos como tábuas aplainadas; quando estiver concluída, entrará nela com a sua presença visível. As águias reunidas em volta do corpo são as almas dos justos, que voam alto e se juntam em torno do Corpo de Cristo.",
+    "moral": "Depende de nós receber o Reino no coração. A incredulidade dos contemporâneos de Noé nascia da sensualidade e da moleza: tais os desejos, tais as expectativas. Está no terraço quem respira o ar livre da vida espiritual; não desça de novo às coisas carnais no dia da prova. A mulher de Ló, que olhou para trás, é sal para temperar o nosso coração. Perde a vida para a salvar quem crucifica a carne com as suas paixões; a convivência não iguala os méritos, só a perseverança salva.",
+    "anagogico": "A segunda vinda será súbita e universal como o relâmpago, sem esconderijos nem recantos. A alegria do Espírito no coração é já imagem e penhor da alegria eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo-lhe os fariseus perguntado quando viria o reino de Deus, respondeu-lhes: “O reino de Deus não virá com aparato. Não se dirá: Ei-lo aqui ou ei-lo acolá. Porque eis que o reino de Deus está no meio de vós”. Depois disse aos seus discípulos: “Assim como o clarão brilhante de um relâmpago ilumina o céu de uma extremidade à outra, assim será o Filho do homem no seu dia. Mas primeiro é necessário que ele sofra muito. Lembrai-vos da mulher de Lot. O que procurar salvar a sua vida, perdê-la-á; o que a perder, salvá-la-á”.",
+    "meditatio_perguntas": [
+      "Procuro o Reino em sinais espetaculares ou reconheço-o no meio de nós?",
+      "Vivo distraído, “comendo e bebendo”, como nos dias de Noé?",
+      "Para onde costumo olhar para trás, como a mulher de Ló?"
+    ],
+    "oratio_guia": "Senhor Jesus, que estás no meio de nós, reina no meu coração pela fé. Guarda-me da distração dos dias de Noé e da tentação de olhar para trás. Que eu perca a minha vida por ti para a ganhar, e esteja pronto no dia em que te manifestares. Amém.",
+    "contemplatio_foco": { "texto": "eis que o reino de Deus está no meio de vós", "ref": "Lc 17,21" }
+  },
+  "ancoras": {
+    "17:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "17:20–21#1", "sintese": "Depende de vós e dos vossos corações receber o Reino: todo justificado pela fé e pela graça pode alcançá-lo." },
+        { "autor": "São Gregório de Nissa", "obra": "lib. de prop. sec. Deum.", "catena": "17:20–21#2", "sintese": "O Reino dentro de nós é a alegria que o Espírito infunde, imagem e penhor da alegria eterna." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:20–21#3", "sintese": "O Reino é Ele mesmo, posto no meio deles e reinando nos corações pela fé." }
+      ],
+      "nota": { "texto": "A expressão grega pode traduzir-se “dentro de vós” ou “no meio de vós”; os Padres exploram os dois sentidos.", "origem": "ia" }
+    },
+    "17:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "17:22–25#3", "sintese": "Não sigais quem anuncia Cristo em recantos da terra: a sua segunda vinda encherá de repente o mundo inteiro." }
+      ],
+      "nota": null
+    },
+    "17:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "17:22–25#5", "sintese": "Os discípulos esperavam o Reino logo em Jerusalém; mas primeiro devia padecer, subir ao Pai e depois vir julgar." }
+      ],
+      "nota": null
+    },
+    "17:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 1 in Ep. 1 ad Thess.", "catena": "17:26–30#1", "sintese": "A incredulidade nascia da sensualidade e da moleza: tais os desejos, tais as expectativas." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "17:26–30#3", "sintese": "Noé constrói a arca como o Senhor edifica a Igreja com os fiéis, unidos como tábuas aplainadas." }
+      ],
+      "nota": null
+    },
+    "17:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:31–33#1", "sintese": "Está no terraço quem respira o ar livre da vida espiritual; não volte, no dia da prova, à vida carnal dos sentidos." }
+      ],
+      "nota": null
+    },
+    "17:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "17:31–33#5", "sintese": "A mulher de Ló, que olhou para trás, tornou-se sal para temperar o nosso coração, para que não se corrompa." }
+      ],
+      "nota": null
+    },
+    "17:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "17:31–33#7", "sintese": "Perde a vida para a salvar quem crucifica a carne com as suas paixões, combatendo com perseverança." }
+      ],
+      "nota": null
+    },
+    "17:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "17:34–37#7", "sintese": "A convivência não iguala os méritos: só quem perseverar até ao fim será salvo." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. ut sup.", "catena": "17:34–37#6", "sintese": "Leito, moinho e campo figuram três classes de homens: os que buscam o repouso, os governados e os que governam." }
+      ],
+      "nota": null
+    },
+    "17:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "17:34–37#11", "sintese": "As almas dos justos são águias que voam alto e se reúnem em torno do Corpo de Cristo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
