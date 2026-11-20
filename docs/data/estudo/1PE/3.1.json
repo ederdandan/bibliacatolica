@@ -1,0 +1,57 @@
+{
+  "id": "1PE.3.1",
+  "livro": "1PE",
+  "titulo": "Esposos e irmãos de um mesmo coração",
+  "secao": "O testemunho no meio dos gentios",
+  "referencia": "1Pd 3,1-12",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Não retribuindo mal por mal, mas bendizendo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As mulheres sejam submissas aos maridos, para que, se alguns não creem na palavra, sejam ganhos sem palavra, pelo comportamento delas, ao verem a sua vida casta e respeitosa. O seu adorno não seja exterior, penteados, joias de ouro ou vestidos, mas o homem interior do coração, a incorruptibilidade de um espírito manso e sereno, precioso diante de Deus, como faziam as santas mulheres, como Sara. Os maridos convivam com as mulheres com compreensão, honrando-as como co-herdeiras da graça da vida, para que as suas orações não sejam impedidas. Enfim, sejam todos unânimes, compassivos, amigos dos irmãos, misericordiosos, humildes; não retribuam mal por mal, nem injúria por injúria, mas, ao contrário, bendigam, pois para isto foram chamados, para herdarem a bênção. Quem quer amar a vida e ver dias felizes, guarde a língua do mal, afaste-se do mal e faça o bem, busque a paz e a siga, porque os olhos do Senhor estão sobre os justos.",
+    "alegorico": "O lar cristão é lugar de evangelização silenciosa: a esposa que ganha o marido “sem a palavra” é imagem da Igreja que atrai o mundo pela beleza da sua vida. Marido e mulher, “co-herdeiros da graça da vida”, figuram a comunhão de Cristo e da Igreja na herança eterna.",
+    "moral": "A beleza que vale diante de Deus é a do coração manso e sereno. O testemunho de vida converte mais que discursos. Os maridos devem honrar as esposas, e a desarmonia conjugal impede a oração. Para todos: unanimidade, compaixão, humildade, e sobretudo responder ao mal com bênção. Quem quer ser feliz guarde a língua e busque a paz.",
+    "anagogico": "Os esposos são “herdeiros da graça da Vida (eterna)”, e todos são chamados a “possuir a bênção como herança”: a vida cristã quotidiana prepara a bênção definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Resida o vosso adorno no interior do vosso coração, na incorruptibilidade de uma alma doce e serena; eis o que é de grande valor diante de Deus. Sede todos de um mesmo coração, compassivos, amantes dos irmãos, misericordiosos, humildes, não retribuindo mal por mal, nem injúria por injúria, mas pelo contrário, bendizendo. Busque a paz e vá após ela.",
+    "meditatio_perguntas": [
+      "Cuido mais da aparência exterior ou do “homem interior do coração”?",
+      "Minha vida, mesmo sem palavras, aproxima os outros de Deus?",
+      "A quem devo responder hoje com bênção em vez de injúria?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração manso e sereno, precioso aos teus olhos. Faz da minha casa lugar de paz e de oração. Ensina-me a não retribuir mal por mal, mas a bendizer, e a buscar a paz com todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não retribuindo mal por mal, nem injúria por injúria, mas pelo contrário, bendizendo.",
+      "ref": "1Pd 3,9"
+    }
+  },
+  "ancoras": {
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Num mundo que considerava a mulher inferior em tudo, Pedro afirma que ela é “co-herdeira da graça da vida”, igual ao marido diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "3:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 33(34),13-17.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

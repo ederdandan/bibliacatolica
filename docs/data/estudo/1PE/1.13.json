@@ -1,0 +1,57 @@
+{
+  "id": "1PE.1.13",
+  "livro": "1PE",
+  "titulo": "Sede santos: resgatados pelo sangue precioso de Cristo",
+  "secao": "O povo de Deus regenerado",
+  "referencia": "1Pd 1,13-25",
+  "ini": {
+    "c": 1,
+    "v": 13
+  },
+  "fim": {
+    "c": 1,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Sede santos, porque eu sou santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro exorta: cingidos os rins da mente, sóbrios, esperem plenamente a graça que lhes será dada na manifestação de Jesus Cristo. Como filhos obedientes, não se conformem com os desejos de antes, do tempo da ignorância, mas, à imitação do Santo que os chamou, sejam santos em todo o seu proceder, pois está escrito: “Sereis santos, porque eu sou santo”. Se invocam como Pai aquele que julga sem acepção de pessoas segundo as obras de cada um, vivam com temor o tempo da peregrinação, sabendo que foram resgatados da vida vã herdada dos pais não com coisas corruptíveis, prata ou ouro, mas com o sangue precioso de Cristo, Cordeiro sem defeito e sem mancha, predestinado antes da criação do mundo e manifestado nos últimos tempos por amor deles. Por Ele creem em Deus, que o ressuscitou e glorificou, de modo que a fé e a esperança estão em Deus. Purificados pela obediência à verdade, amem-se intensamente de coração, pois renasceram de semente incorruptível, a palavra de Deus que vive e permanece; toda carne é como a erva, mas a palavra do Senhor permanece eternamente.",
+    "alegorico": "“Cingidos os rins” lembra a ceia pascal do Êxodo: os cristãos são o povo que parte em êxodo. Cristo é o Cordeiro pascal sem mancha, cujo sangue resgata não da escravidão do Egito, mas da vida vã. A palavra de Deus, semente incorruptível, é a origem do novo nascimento batismal.",
+    "moral": "A santidade é imitação de Deus, em “todas as ações”. O preço do resgate, o sangue de Cristo, mostra o valor de cada alma e o peso do pecado. O “temor” cristão é o respeito filial de quem sabe que o Pai é também juiz. Renascidos da Palavra, os fiéis devem amar-se intensamente, “do íntimo do coração”.",
+    "anagogico": "A esperança está posta “inteiramente naquela graça que vos será oferecida na manifestação de Jesus Cristo”. A vida é peregrinação; a pátria é o encontro com Ele. Só a palavra de Deus permanece eternamente; tudo o mais seca como a erva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "À imitação do Santo que vos chamou, sede vós também santos em todas as ações. Fostes resgatados, não a preço de coisas corruptíveis, de prata ou de ouro, mas pelo precioso sangue de Cristo, o cordeiro sem defeito e sem mancha. Amai-vos intensamente uns aos outros. A palavra do Senhor permanece eternamente.",
+    "meditatio_perguntas": [
+      "Acredito que sou chamado à santidade em todas as minhas ações?",
+      "Que valor dou ao preço com que fui resgatado?",
+      "Meu amor fraterno é intenso e “do íntimo do coração”?"
+    ],
+    "oratio_guia": "Deus santo, que me chamaste à santidade, dá-me viver com temor filial o tempo da minha peregrinação. Obrigado pelo sangue precioso do Cordeiro sem mancha, que me resgatou. Faz-me renascer sempre da tua palavra e amar intensamente os irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pelo precioso sangue de Cristo, o cordeiro sem defeito e sem mancha.",
+      "ref": "1Pd 1,19"
+    }
+  },
+  "ancoras": {
+    "1:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Lv 11,44 (e 19,2): o “código de santidade” de Israel é aplicado à Igreja.",
+        "origem": "ia"
+      }
+    },
+    "1:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O verbo “resgatar” (lytróō) evoca o preço pago para libertar escravos e a redenção de Israel do Egito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

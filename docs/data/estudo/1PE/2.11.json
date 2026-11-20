@@ -1,0 +1,57 @@
+{
+  "id": "1PE.2.11",
+  "livro": "1PE",
+  "titulo": "Peregrinos que seguem as pisadas de Cristo",
+  "secao": "O testemunho no meio dos gentios",
+  "referencia": "1Pd 2,11-25",
+  "ini": {
+    "c": 2,
+    "v": 11
+  },
+  "fim": {
+    "c": 2,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Cristo sofreu por vós, deixando-vos o exemplo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro pede aos fiéis, estrangeiros e peregrinos, que se abstenham dos desejos carnais que combatem contra a alma, e tenham bom comportamento entre os pagãos, para que, vendo as suas boas obras, glorifiquem a Deus no dia da visita. Sejam submissos a toda instituição humana por causa do Senhor, ao rei e aos governadores; pois é vontade de Deus que, fazendo o bem, façam calar a ignorância dos insensatos. Sejam livres, mas sem usar a liberdade como véu para a malícia, como servos de Deus: honrem a todos, amem os irmãos, temam a Deus, respeitem o rei. Os servos obedeçam aos senhores, também aos difíceis; é graça diante de Deus suportar sofrimentos injustos por consciência de Deus. Para isto foram chamados, pois Cristo sofreu por eles, deixando-lhes o exemplo para que sigam os seus passos: Ele não cometeu pecado, nem houve engano na sua boca; injuriado, não injuriava; sofrendo, não ameaçava, mas entregava-se ao justo Juiz; levou os nossos pecados no seu corpo sobre o madeiro, para que, mortos para o pecado, vivamos para a justiça; pelas suas chagas fomos curados. Eram ovelhas desgarradas, mas voltaram ao pastor e guarda das suas almas.",
+    "alegorico": "O texto é uma meditação sobre o Servo sofredor de Isaías 53, aplicado a Cristo: sem pecado, silencioso, carregando os pecados, curando com as suas chagas. A cruz é o “madeiro”, a árvore da vida. Cristo é o Pastor e Bispo (epískopos) das almas, que reúne as ovelhas desgarradas no seu rebanho, a Igreja.",
+    "moral": "O cristão, peregrino, vive com integridade no mundo, respeita a autoridade legítima e ganha os outros pelas obras, não pela polêmica. A liberdade cristã não é licença. Sofrer injustamente com paciência é graça, se se segue o exemplo de Cristo: não devolver insulto, não ameaçar, entregar a causa ao justo Juiz.",
+    "anagogico": "O “dia em que os visitar” e a entrega “ao justo Juiz” apontam para o juízo final, onde toda injustiça será reparada. Os que seguem as pisadas de Cristo no sofrimento o seguirão na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Honrai a todos, amai os irmãos, temei a Deus. Cristo também sofreu por vós deixando-vos o exemplo, para que sigais as suas pisadas. Quando o injuriavam, não injuriava, sofrendo, não ameaçava, mas entregava-se ao justo Juiz. Foi ele mesmo que levou os nossos pecados em seu corpo sobre o madeiro: por suas chagas fostes sarados.",
+    "meditatio_perguntas": [
+      "Como reajo às injustiças: devolvendo o mal, ou entregando-me ao justo Juiz?",
+      "Minhas boas obras levam os outros a glorificar a Deus?",
+      "Deixo-me curar pelas chagas de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que levaste os meus pecados no teu corpo sobre o madeiro e me curaste pelas tuas chagas, ensina-me a seguir as tuas pisadas. Quando me injuriarem, que eu não injurie; quando sofrer, que me entregue ao Pai, justo Juiz. Pastor da minha alma, guarda-me. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por suas chagas fostes sarados.",
+      "ref": "1Pd 2,24"
+    }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Escrito provavelmente sob Nero, o conselho de respeito ao imperador mostra que a submissão cristã à autoridade civil não depende da virtude do governante, mas tem limites: “temei a Deus” vem antes de “respeitai o rei” (2,17).",
+        "origem": "ia"
+      }
+    },
+    "2:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Guarda” traduz epískopos, “bispo”: Cristo é o Bispo das almas, modelo de todo pastor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1PE.4.12",
+  "livro": "1PE",
+  "titulo": "Participantes dos sofrimentos de Cristo",
+  "secao": "O testemunho no meio dos gentios",
+  "referencia": "1Pd 4,12-19",
+  "ini": {
+    "c": 4,
+    "v": 12
+  },
+  "fim": {
+    "c": 4,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Alegrai-vos de participar dos sofrimentos de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro pede que não estranhem o fogo da provação que se acendeu no meio deles, como se fosse algo extraordinário; ao contrário, alegrem-se por participar dos sofrimentos de Cristo, para também exultarem de alegria na manifestação da sua glória. Se são ultrajados pelo nome de Cristo, são bem-aventurados, porque o Espírito da glória, o Espírito de Deus, repousa sobre eles. Ninguém sofra como homicida, ladrão, malfeitor ou intrometido; mas, se sofre como cristão, não se envergonhe, antes glorifique a Deus por esse nome. Chegou o tempo de o juízo começar pela casa de Deus; se começa por nós, qual será o fim dos que não obedecem ao Evangelho? Se o justo a custo se salva, que será do ímpio e do pecador? Por isso, os que sofrem segundo a vontade de Deus entreguem as suas almas ao Criador fiel, praticando o bem.",
+    "alegorico": "A perseguição é participação na Paixão de Cristo; o Espírito de glória que “repousa” sobre os mártires evoca a nuvem da glória sobre o Tabernáculo e o Espírito sobre o Messias (Is 11,2). A “casa de Deus” é a Igreja, novo Templo, purificada pelo fogo da provação.",
+    "moral": "O sofrimento por ser cristão não deve surpreender nem envergonhar, mas ser vivido com alegria e glória a Deus. Distingue-se, porém, o sofrimento pelo nome de Cristo do sofrimento merecido por faltas próprias. A atitude final é a confiança: entregar a alma ao Criador fiel, continuando a fazer o bem.",
+    "anagogico": "A alegria presente no sofrimento antecipa a exultação “quando se manifestar a sua glória”. O juízo, que começa pela casa de Deus, culmina no fim dos tempos; quem confia no Criador fiel será guardado até lá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não estranheis o fogo da tribulação, que se acendeu no meio de vós para vos provar, mas alegrai-vos de serdes participantes dos sofrimentos de Cristo, para que vos alegreis também e exulteis, quando se manifestar a sua glória. Se sofre como cristão, não se envergonhe, antes glorifique a Deus por tal nome. Encomendam as suas almas ao Criador fiel, praticando o bem.",
+    "meditatio_perguntas": [
+      "Tenho vergonha de ser reconhecido como cristão?",
+      "Como posso unir os meus sofrimentos aos de Cristo?",
+      "Confio a minha vida ao Criador fiel, mesmo na provação?"
+    ],
+    "oratio_guia": "Senhor Jesus, dá-me alegrar-me por participar dos teus sofrimentos e não me envergonhar do teu nome. Que o Espírito de glória repouse sobre mim. Nas mãos do Criador fiel entrego a minha alma, praticando o bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Alegrai-vos de serdes participantes dos sofrimentos de Cristo.",
+      "ref": "1Pd 4,13"
+    }
+  },
+  "ancoras": {
+    "4:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das três únicas ocorrências do nome “cristão” no NT (cf. At 11,26; 26,28), aqui já como motivo de acusação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

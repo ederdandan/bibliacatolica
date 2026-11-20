@@ -1,0 +1,57 @@
+{
+  "id": "1PE.3.13",
+  "livro": "1PE",
+  "titulo": "Prontos a dar razão da esperança",
+  "secao": "O testemunho no meio dos gentios",
+  "referencia": "1Pd 3,13-22",
+  "ini": {
+    "c": 3,
+    "v": 13
+  },
+  "fim": {
+    "c": 3,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Prontos a responder a quem pedir razão da vossa esperança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quem lhes fará mal se forem zelosos do bem? E, se sofrerem pela justiça, bem-aventurados! Não temam as ameaças nem se perturbem, mas santifiquem Cristo, o Senhor, nos seus corações, sempre prontos a responder a quem lhes pedir razão da esperança que há neles, com mansidão e respeito, de boa consciência, para que os que difamam o seu bom proceder em Cristo sejam confundidos. É melhor sofrer fazendo o bem, se Deus quiser, do que fazendo o mal. Pois também Cristo morreu uma vez pelos pecados, o justo pelos injustos, para nos conduzir a Deus; morto na carne, foi vivificado no espírito, e nele foi também pregar aos espíritos em prisão, que outrora foram incrédulos nos dias de Noé, quando se construía a arca, na qual poucos, oito pessoas, se salvaram através da água. Essa água prefigurava o Batismo que agora nos salva, não como remoção da sujeira do corpo, mas como compromisso de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo, que subiu ao céu e está à direita de Deus, tendo-lhe sido submetidos anjos, potestades e virtudes.",
+    "alegorico": "A arca de Noé é figura clássica da Igreja, e a água do dilúvio, do Batismo: a mesma água que destrói o pecado salva os que estão na arca. A pregação de Cristo “aos espíritos no cárcere” é a sua descida à mansão dos mortos, levando a salvação aos justos que o esperavam. A sua obra alcança todos os tempos, até os de Noé.",
+    "moral": "O cristão não deve temer, mas santificar Cristo no coração e saber explicar a sua esperança: é o fundamento da apologética. Mas a defesa da fé deve ser “com doçura e respeito”, nunca com arrogância. Uma boa consciência e uma vida reta desarmam a calúnia. Sofrer pelo bem é participar da Paixão de Cristo.",
+    "anagogico": "Cristo, subido ao céu, já reina sobre anjos e potestades; a sua vitória chega até os mortos. O Batismo une o fiel à ressurreição de Cristo e é o início da salvação que se completará na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se alguma coisa sofrerdes pela justiça, sereis bem-aventurados. Tratai santamente o Cristo Senhor em vossos corações, prontos sempre para responder a todo o que vos pedir razão daquela esperança que há em vós, mas fazei isso com doçura e respeito. Cristo morreu uma vez pelos nossos pecados, ele justo pelos injustos, para nos levar a Deus.",
+    "meditatio_perguntas": [
+      "Sei explicar a alguém a razão da minha esperança?",
+      "Quando defendo a fé, faço-o com doçura e respeito?",
+      "Vivo o meu Batismo como compromisso de boa consciência diante de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, justo que morreste pelos injustos para me levar a Deus, sê santificado no meu coração. Dá-me não temer e estar sempre pronto a dar razão da minha esperança, com doçura e respeito. Guarda-me fiel à graça do meu Batismo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Prontos sempre para responder a todo o que vos pedir razão daquela esperança que há em vós.",
+      "ref": "1Pd 3,15"
+    }
+  },
+  "ancoras": {
+    "3:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto fundamental para o artigo do Credo “desceu à mansão dos mortos”. Os parênteses de Matos Soares (“do Limbo”) seguem a teologia tradicional do “limbo dos Padres”, onde os justos do AT esperavam a redenção.",
+        "origem": "ia"
+      }
+    },
+    "3:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pedido” ou “compromisso” (eperṓtēma): talvez as perguntas e respostas da liturgia batismal (“Renunciais...? Credes...?”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

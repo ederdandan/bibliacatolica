@@ -1,0 +1,57 @@
+{
+  "id": "1PE.5.1",
+  "livro": "1PE",
+  "titulo": "Apascentai o rebanho de Deus",
+  "secao": "Pastores e rebanho",
+  "referencia": "1Pd 5,1-14",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Descarregai sobre Ele as vossas preocupações, porque Ele tem cuidado de vós",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro, presbítero como os outros, testemunha dos sofrimentos de Cristo e participante da glória que se manifestará, exorta os presbíteros: apascentem o rebanho de Deus que lhes foi confiado, cuidando dele não por obrigação, mas de boa vontade, segundo Deus; não por lucro vergonhoso, mas com dedicação; não como dominadores, mas como modelos do rebanho. Quando aparecer o Supremo Pastor, receberão a coroa imarcescível da glória. Os jovens sejam submissos aos anciãos; e todos se revistam de humildade, porque Deus resiste aos soberbos e dá a graça aos humildes. Humilhem-se sob a mão poderosa de Deus, para que Ele os exalte no tempo oportuno, descarregando sobre Ele todas as preocupações, porque Ele cuida deles. Sejam sóbrios e vigiem: o diabo, como leão que ruge, anda ao redor procurando a quem devorar; resistam-lhe firmes na fé. O Deus de toda graça, que os chamou à sua glória eterna em Cristo, depois de breve sofrimento os aperfeiçoará e firmará. Escreve por Silvano; saúdam-nos a Igreja de Babilônia e Marcos, seu filho.",
+    "alegorico": "Pedro, a quem Jesus disse “apascenta as minhas ovelhas” (Jo 21), transmite aos presbíteros a mesma missão: Cristo é o Príncipe dos pastores, e os pastores da Igreja são seus vigários. “Babilônia” é Roma, capital do império pagão: a carta traz a voz de Pedro a partir da Igreja de Roma.",
+    "moral": "O pastor deve servir de boa vontade, sem interesse e sem dominar, sendo exemplo. A humildade é a veste de todos os cristãos. A confiança em Deus liberta da ansiedade: “descarregai sobre ele todas as vossas preocupações”. Mas a confiança não exclui a vigilância: o demônio ronda, e resiste-se a ele pela fé, em comunhão com os irmãos que sofrem no mundo inteiro.",
+    "anagogico": "A “coroa imarcescível de glória” e a “eterna glória” para a qual Deus nos chamou são a meta. O sofrimento é breve; Deus mesmo aperfeiçoará, fortificará e tornará inabaláveis os seus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apascentai o rebanho de Deus, que vos está confiado, não constrangidos, mas de boa vontade. Revesti-vos todos de humildade. Humilhai-vos sob a mão poderosa de Deus, para que ele vos exalte. Descarregai sobre ele todas as vossas preocupações, porque ele tem cuidado de vós. Sede sóbrios e vigiai. Resisti-lhe, fortes na fé.",
+    "meditatio_perguntas": [
+      "Que preocupação preciso “descarregar” hoje sobre Deus?",
+      "Exerço alguma autoridade dominando, ou servindo como exemplo?",
+      "Estou vigilante contra as investidas do mal?"
+    ],
+    "oratio_guia": "Deus de toda graça, que me chamaste à tua glória eterna, em tuas mãos deponho todas as minhas preocupações, porque cuidas de mim. Dá aos pastores da tua Igreja servir com amor e dá-me humildade e vigilância, firme na fé. Amém.",
+    "contemplatio_foco": {
+      "texto": "Descarregai sobre ele todas as vossas preocupações, porque ele tem cuidado de vós.",
+      "ref": "1Pd 5,7"
+    }
+  },
+  "ancoras": {
+    "5:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os versículos 5,8-9 são a leitura breve das Completas da terça-feira na Liturgia das Horas: a Igreja os repete ao cair da noite.",
+        "origem": "ia"
+      }
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Babilônia” como nome cifrado de Roma também aparece no Apocalipse (14,8; 17–18). A tradição liga esta carta à presença de Pedro em Roma; “Marcos, meu filho” é identificado com o evangelista.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

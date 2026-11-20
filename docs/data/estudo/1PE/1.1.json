@@ -1,0 +1,65 @@
+{
+  "id": "1PE.1.1",
+  "livro": "1PE",
+  "titulo": "Regenerados para uma esperança viva",
+  "secao": "O povo de Deus regenerado",
+  "referencia": "1Pd 1,1-12",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Vós o amais sem o ter visto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro, apóstolo de Jesus Cristo, escreve aos eleitos que vivem como estrangeiros dispersos pelo Ponto, Galácia, Capadócia, Ásia e Bitínia, escolhidos segundo a presciência de Deus Pai, santificados pelo Espírito, para obedecer a Jesus Cristo e serem aspergidos com o seu sangue. Bendiz a Deus, que, na sua grande misericórdia, nos regenerou para uma esperança viva pela ressurreição de Jesus, para uma herança incorruptível, imaculada e imarcescível, reservada nos céus para os que o poder de Deus guarda pela fé. Por isso exultam, embora devam agora ser afligidos por várias provações, para que a fé provada, mais preciosa que o ouro provado no fogo, seja motivo de louvor, glória e honra na manifestação de Jesus Cristo. Amam-no sem o ter visto, creem nele sem o ver e exultam com alegria inefável e gloriosa, alcançando a meta da fé, a salvação das almas. Esta salvação foi investigada pelos profetas, guiados pelo Espírito de Cristo, que predizia os sofrimentos de Cristo e a glória que se seguiria; e os próprios anjos desejam contemplá-la.",
+    "alegorico": "Os cristãos “estrangeiros na dispersão” são o novo Israel peregrino, cuja pátria está nos céus. O início é trinitário: eleitos pelo Pai, santificados pelo Espírito, aspergidos pelo sangue de Jesus, como Israel foi aspergido com o sangue da aliança no Sinai. A regeneração “para uma esperança viva” é o Batismo, nova Páscoa. O Espírito de Cristo já falava pelos profetas: todo o Antigo Testamento aponta para a Paixão e a glória.",
+    "moral": "A fé é provada como o ouro no fogo: as provações a purificam. A alegria cristã não depende de ver, mas de amar e crer. A herança verdadeira não se corrompe, por isso o cristão pode suportar perdas terrenas com serenidade. E é guardado “pelo poder de Deus”, não pelas próprias forças.",
+    "anagogico": "A herança “reservada nos céus” e a salvação “preparada para se manifestar no último tempo” orientam toda a vida. A fé provada será motivo de glória “quando Jesus Cristo se manifestar”; então a alegria inefável de agora será visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendito seja Deus, que, segundo a sua grande misericórdia, nos regenerou para uma esperança viva, pela ressurreição de Jesus Cristo dentre os mortos, para uma herança incorruptível, reservada nos céus para vós. Este Jesus, vós o amais, sem nunca o ter visto, credes nele sem o ver ainda, e exultais com uma alegria inefável e cheia de glória.",
+    "meditatio_perguntas": [
+      "Minha esperança é “viva”, ou cansada e apagada?",
+      "Como as provações têm purificado a minha fé?",
+      "Amo Jesus, que não vejo, com amor real e alegre?"
+    ],
+    "oratio_guia": "Bendito sejas, Pai de misericórdia, que me regeneraste para uma esperança viva pela ressurreição de Jesus. Guarda a minha fé no fogo das provações. Que eu ame o teu Filho sem o ver, e exulte com alegria inefável à espera da herança incorruptível. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este Jesus, vós o amais, sem nunca o ter visto.",
+      "ref": "1Pd 1,8"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As cinco regiões ficam na atual Turquia. Matos Soares traz “Bilínia”, por Bitínia. A carta foi escrita de “Babilônia” (5,13), isto é, de Roma.",
+        "origem": "ia"
+      }
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Ex 24,8: Moisés asperge o povo com o sangue da aliança. Os cristãos entram na nova aliança pelo sangue de Cristo.",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Muitos estudiosos veem em 1,3–4,11 ecos de uma catequese ou homilia batismal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

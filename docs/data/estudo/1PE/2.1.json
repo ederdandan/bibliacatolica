@@ -1,0 +1,57 @@
+{
+  "id": "1PE.2.1",
+  "livro": "1PE",
+  "titulo": "Pedras vivas, sacerdócio real",
+  "secao": "O povo de Deus regenerado",
+  "referencia": "1Pd 2,1-10",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Sacerdócio real, povo adquirido por Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deixando toda malícia, engano, hipocrisia, inveja e maledicência, como crianças recém-nascidas, desejem o leite espiritual puro, para crescerem para a salvação, se é que provaram como o Senhor é bom. Aproximem-se dele, pedra viva, rejeitada pelos homens, mas escolhida e preciosa diante de Deus; e eles também, como pedras vivas, sejam edificados em casa espiritual, para um sacerdócio santo, a fim de oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo. Diz a Escritura: “Eis que ponho em Sião uma pedra angular, escolhida, preciosa; quem nela confiar não será confundido.” Para os que creem, ela é honra; para os incrédulos, a pedra rejeitada pelos construtores tornou-se pedra angular e pedra de tropeço. Mas eles são raça escolhida, sacerdócio real, nação santa, povo adquirido por Deus, para proclamar as maravilhas daquele que os chamou das trevas à sua luz admirável. Outrora não eram povo, agora são povo de Deus; não tinham alcançado misericórdia, agora a alcançaram.",
+    "alegorico": "Os títulos de Israel no Sinai (Ex 19,6: “reino de sacerdotes e nação santa”) passam à Igreja. Cristo é a pedra viva e angular; os fiéis, pedras vivas, formam o novo Templo. O “leite espiritual” foi associado pelos antigos ao leite e mel dados aos neófitos depois do Batismo e à Palavra e à Eucaristia que nutrem os recém-nascidos na fé.",
+    "moral": "Todo batizado participa do sacerdócio de Cristo: a sua vida, trabalho, oração e sofrimento são “sacrifícios espirituais” oferecidos por Jesus. Isso exige deixar a malícia e a maledicência, e ter fome da Palavra como criança tem fome de leite. A dignidade de “povo adquirido” é missão: proclamar as maravilhas de Deus.",
+    "anagogico": "A casa espiritual em construção será o Templo eterno, a Jerusalém celeste. Os que confiam na pedra angular “não serão confundidos”: a sua esperança não falhará no último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como meninos recém-nascidos, desejai ardentemente o puro leite espiritual. Aproximai-vos dele, pedra viva, e vós também, como pedras vivas, prestai-vos a entrar na edificação de uma casa espiritual. Vós sois uma geração escolhida, um sacerdócio real, uma gente santa, um povo adquirido por Deus, para que publiqueis as perfeições daquele que das trevas vos chamou à luz admirável.",
+    "meditatio_perguntas": [
+      "Tenho fome da Palavra de Deus como a criança tem fome de leite?",
+      "Ofereço a minha vida diária como “sacrifício espiritual”?",
+      "Como proclamo as maravilhas daquele que me chamou à luz?"
+    ],
+    "oratio_guia": "Senhor Jesus, pedra viva e angular, edifica-me contigo na tua casa espiritual. Dá-me fome da tua Palavra e faz da minha vida um sacrifício agradável ao Pai. Que eu proclame as maravilhas de quem me chamou das trevas à sua luz admirável. Amém.",
+    "contemplatio_foco": {
+      "texto": "Das trevas vos chamou à luz admirável.",
+      "ref": "1Pd 2,9"
+    }
+  },
+  "ancoras": {
+    "2:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Concílio Vaticano II (Lumen Gentium, 10) funda neste texto o sacerdócio comum dos fiéis, distinto em essência, e não só em grau, do sacerdócio ministerial.",
+        "origem": "ia"
+      }
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sl 117(118),22, aplicado por Jesus a si mesmo (Mt 21,42) e por Pedro diante do Sinédrio (At 4,11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1PE.4.1",
+  "livro": "1PE",
+  "titulo": "A caridade cobre uma multidão de pecados",
+  "secao": "O testemunho no meio dos gentios",
+  "referencia": "1Pd 4,1-11",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Sobretudo, tende uma caridade ardente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tendo Cristo sofrido na carne, armem-se do mesmo pensamento: quem sofreu na carne rompeu com o pecado, para viver o resto do tempo não segundo as paixões humanas, mas segundo a vontade de Deus. Basta o tempo passado em que fizeram a vontade dos pagãos, em devassidões, paixões, embriaguez, orgias e idolatrias; os pagãos estranham que não os acompanhem mais e os insultam, mas prestarão contas àquele que está pronto a julgar vivos e mortos. Por isso o Evangelho foi pregado também aos mortos. O fim de todas as coisas está próximo: sejam prudentes e sóbrios para se entregarem à oração. Sobretudo, tenham uns para com os outros uma caridade ardente, porque a caridade cobre uma multidão de pecados. Pratiquem a hospitalidade sem murmurar. Cada um ponha ao serviço dos outros o dom que recebeu, como bons administradores da multiforme graça de Deus: quem fala, fale como palavras de Deus; quem serve, sirva com a força que Deus dá, para que em tudo Deus seja glorificado por Jesus Cristo.",
+    "alegorico": "A comunidade descrita, cheia de carismas diversos, palavra e serviço, é o corpo de Cristo animado pelo Espírito, onde cada um é administrador (ecônomo) da graça. O Evangelho pregado “aos mortos” mostra o alcance universal da redenção de Cristo, que desceu aos infernos.",
+    "moral": "A conversão é ruptura com o passado: “basta o tempo passado”. Quem segue Cristo será estranhado e criticado pelo mundo. A proximidade do fim pede sobriedade e oração. A virtude principal é a caridade ardente, que até cobre pecados. A hospitalidade sem murmuração e o uso dos dons para servir são caridade concreta. Tudo para a glória de Deus.",
+    "anagogico": "“O fim de todas as coisas está próximo” e o Juiz está “pronto para julgar os vivos e os mortos”. A vida presente é tempo breve para viver segundo a vontade de Deus; a doxologia “pelos séculos dos séculos” abre-a à eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O fim de todas as coisas está próximo. Sede prudentes e sóbrios para vos entregardes à oração. Sobretudo tende uns para com os outros uma caridade ardente, porque a caridade cobre uma multidão de pecados. Exercei a hospitalidade uns com os outros, sem murmuração. Cada um ponha ao serviço dos outros o dom que recebeu.",
+    "meditatio_perguntas": [
+      "Rompi de fato com o “tempo passado” do pecado?",
+      "Minha caridade é ardente, ou morna e calculada?",
+      "Que dom recebi de Deus e como o ponho ao serviço dos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, que sofreste na carne, arma-me do teu pensamento. Dá-me sobriedade para rezar, caridade ardente para amar, e hospitalidade sem murmuração. Que eu sirva os irmãos com o dom que me deste, para que em tudo o Pai seja glorificado. Amém.",
+    "contemplatio_foco": {
+      "texto": "A caridade cobre uma multidão de pecados.",
+      "ref": "1Pd 4,8"
+    }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo obscuro: muitos Padres o ligam a 3,19 (descida aos infernos); outros entendem os que ouviram o Evangelho em vida e já morreram.",
+        "origem": "ia"
+      }
+    },
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Pv 10,12 (cf. Tg 5,20). A caridade obtém o perdão dos próprios pecados e cobre os do próximo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

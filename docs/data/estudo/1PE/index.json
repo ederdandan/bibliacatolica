@@ -1,0 +1,136 @@
+{
+ "livro": "1PE",
+ "secoes": [
+  "O povo de Deus regenerado",
+  "O testemunho no meio dos gentios",
+  "Pastores e rebanho"
+ ],
+ "pericopes": [
+  {
+   "id": "1PE.1.1",
+   "titulo": "Regenerados para uma esperança viva",
+   "secao": "O povo de Deus regenerado",
+   "referencia": "1Pd 1,1-12",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 12
+   }
+  },
+  {
+   "id": "1PE.1.13",
+   "titulo": "Sede santos: resgatados pelo sangue precioso de Cristo",
+   "secao": "O povo de Deus regenerado",
+   "referencia": "1Pd 1,13-25",
+   "ini": {
+    "c": 1,
+    "v": 13
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  },
+  {
+   "id": "1PE.2.1",
+   "titulo": "Pedras vivas, sacerdócio real",
+   "secao": "O povo de Deus regenerado",
+   "referencia": "1Pd 2,1-10",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 10
+   }
+  },
+  {
+   "id": "1PE.2.11",
+   "titulo": "Peregrinos que seguem as pisadas de Cristo",
+   "secao": "O testemunho no meio dos gentios",
+   "referencia": "1Pd 2,11-25",
+   "ini": {
+    "c": 2,
+    "v": 11
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "1PE.3.1",
+   "titulo": "Esposos e irmãos de um mesmo coração",
+   "secao": "O testemunho no meio dos gentios",
+   "referencia": "1Pd 3,1-12",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 12
+   }
+  },
+  {
+   "id": "1PE.3.13",
+   "titulo": "Prontos a dar razão da esperança",
+   "secao": "O testemunho no meio dos gentios",
+   "referencia": "1Pd 3,13-22",
+   "ini": {
+    "c": 3,
+    "v": 13
+   },
+   "fim": {
+    "c": 3,
+    "v": 22
+   }
+  },
+  {
+   "id": "1PE.4.1",
+   "titulo": "A caridade cobre uma multidão de pecados",
+   "secao": "O testemunho no meio dos gentios",
+   "referencia": "1Pd 4,1-11",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 11
+   }
+  },
+  {
+   "id": "1PE.4.12",
+   "titulo": "Participantes dos sofrimentos de Cristo",
+   "secao": "O testemunho no meio dos gentios",
+   "referencia": "1Pd 4,12-19",
+   "ini": {
+    "c": 4,
+    "v": 12
+   },
+   "fim": {
+    "c": 4,
+    "v": 19
+   }
+  },
+  {
+   "id": "1PE.5.1",
+   "titulo": "Apascentai o rebanho de Deus",
+   "secao": "Pastores e rebanho",
+   "referencia": "1Pd 5,1-14",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 14
+   }
+  }
+ ]
+}
