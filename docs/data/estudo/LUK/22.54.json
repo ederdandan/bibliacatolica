@@ -1,0 +1,103 @@
+{
+  "id": "LUK.22.54",
+  "livro": "LUK",
+  "titulo": "As negações de Pedro e Jesus diante do Sinédrio",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 22,54-71",
+  "ini": { "c": 22, "v": 54 },
+  "fim": { "c": 22, "v": 71 },
+  "liturgia": { "tema_central": "O olhar do Senhor e as lágrimas de Pedro", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Prendem Jesus e levam-no à casa do sumo sacerdote; Pedro segue de longe. No meio do pátio acendem um fogo, e Pedro senta-se com eles. Uma criada fixa-o: “Este também estava com ele”. Pedro nega: “Mulher, não o conheço”. Pouco depois outro diz: “Tu também és um deles”. — “Homem, não sou.” Cerca de uma hora depois, outro insiste: “Certamente este estava com ele, pois é galileu”. — “Homem, não sei o que dizes.” Ainda está falando quando o galo canta. O Senhor volta-se e olha para Pedro; Pedro lembra-se da palavra do Senhor e, saindo para fora, chora amargamente. Os guardas escarnecem de Jesus e batem-lhe; vendam-lhe os olhos e perguntam: “Adivinha quem te bateu!”, e dizem muitas outras injúrias. De manhã, reúne-se o conselho dos anciãos, sumos sacerdotes e escribas: “Se és o Cristo, dize-nos”. Jesus responde: “Se vo-lo disser, não crereis... Mas desde agora o Filho do homem estará sentado à direita do poder de Deus”. — “Então tu és o Filho de Deus?” — “Vós o dizeis: eu o sou.” E eles: “Que necessidade temos ainda de testemunho? Nós mesmos o ouvimos da sua boca”.",
+    "alegorico": "Pedro, que segue de longe o Senhor que vai à paixão, figura a Igreja, que havia de imitar a paixão, mas de modo diferente: a Igreja padece por si, o Senhor padeceu pela Igreja. O fogo do pátio, onde Pedro vai aquecer-se, mostra o arrefecimento do calor da alma quando o Senhor foi preso. O Senhor dos profetas é escarnecido como falso profeta; e é ferido de novo pelas blasfêmias dos maus cristãos.",
+    "moral": "Pedro segue de longe, e quem se afasta de Cristo prepara a queda; mas não o abandonou, embora tivesse medo. Negou porque prometeu precipitadamente, e negou no átrio onde não estava a verdade. Nem foi preciso tortura: bastou a voz de uma criada. Mas o olhar do Senhor, preso, procura o discípulo e o move às lágrimas: aqueles para quem Jesus olha choram os seus pecados. Pedro chora em segredo, não pelo castigo, mas porque negou o Senhor que amava. Jesus, Senhor do céu e da terra, sofre as zombarias em exemplo de paciência.",
+    "anagogico": "“Desde agora o Filho do homem estará sentado à direita do poder de Deus”: terminou o tempo do ensino e começa o do juízo; o réu do Sinédrio é o Juiz que reinará em majestade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Prendendo-o, levaram-no a casa do príncipe dos sacerdotes. Pedro seguia-o de longe. Uma criada, vendo-o sentado ao lume, disse: “Este estava também com ele”. Mas Pedro o negou, dizendo: “Mulher, eu não o conheço”. Pedro respondeu: “Ó homem, não sei o que dizes”. Imediatamente o galo cantou; e, tendo-se voltado, o Senhor olhou para Pedro. Pedro então lembrou-se da palavra que lhe tinha sido dita pelo Senhor. E, tendo saído para fora, chorou amargamente. Então disseram todos: “Logo tu és o Filho de Deus?” Ele respondeu: “Vós o dizeis, eu o sou”.",
+    "meditatio_perguntas": [
+      "Em que situações sigo Jesus “de longe”, por medo ou comodidade?",
+      "Em que momentos o nego, por palavras ou silêncios?",
+      "Deixo-me olhar por Jesus depois das minhas quedas e chorar com confiança?"
+    ],
+    "oratio_guia": "Senhor Jesus, que, preso e insultado, te voltaste para olhar Pedro, olha também para mim nas minhas negações. Dá-me lágrimas de verdadeiro arrependimento, nascidas do amor e não só do medo. Confesso-te Filho de Deus, sentado à direita do Pai; guarda-me fiel junto de ti. Amém.",
+    "contemplatio_foco": { "texto": "o Senhor olhou para Pedro.", "ref": "Lc 22,61" }
+  },
+  "ancoras": {
+    "22:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:54–62#4", "sintese": "Seguia de longe quem ia negar; mas não abandonou o Senhor: o medo é da natureza, a solicitude é do afeto." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:54–62#5", "sintese": "Pedro segue de longe como a Igreja imita a paixão: ela padece por si, o Senhor padeceu por ela." }
+      ],
+      "nota": null
+    },
+    "22:55": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:54–62#6", "sintese": "Pedro ia aquecer-se porque, preso o seu Senhor, esfriara nele o calor da alma." }
+      ],
+      "nota": null
+    },
+    "22:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:54–62#8", "sintese": "Uma criada o denuncia primeiro; e era melhor que Pedro negasse do que falhasse a palavra do Senhor." }
+      ],
+      "nota": null
+    },
+    "22:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "22:54–62#9", "sintese": "Ainda não há flagelo nem tortura: basta a voz de uma mulher para mudar a boca cheia de fé e amor." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:54–62#10", "sintese": "Negou porque prometeu precipitadamente, e negou no átrio dos judeus, onde não estava a verdade." }
+      ],
+      "nota": null
+    },
+    "22:61": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 83 in Ioann.", "catena": "22:54–62#21", "sintese": "Preso, o Mestre cuidou tanto do discípulo que com um olhar o atraiu a si e lhe provocou as lágrimas." }
+      ],
+      "nota": null
+    },
+    "22:62": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:54–62#24", "sintese": "Aqueles para quem Jesus olha choram os seus pecados: leio as lágrimas de Pedro, que lavam a culpa." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "22:54–62#25", "sintese": "Chorou não pelo castigo, mas por ter negado o seu amado Senhor, o que lhe doía mais que qualquer pena." }
+      ],
+      "nota": null
+    },
+    "22:63": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:63–71#1", "sintese": "O Senhor do céu e da terra sofre as zombarias dos ímpios, dando-nos exemplo de paciência." }
+      ],
+      "nota": null
+    },
+    "22:64": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:63–71#2", "sintese": "O Senhor dos profetas é escarnecido como falso profeta, e ferido também pelas blasfêmias dos falsos cristãos." }
+      ],
+      "nota": null
+    },
+    "22:69": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:63–71#7", "sintese": "Já não é tempo de ensino, mas de juízo: vereis o Filho do homem sentado à direita do poder de Deus." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "22:63–71#8", "sintese": "O trono e o assento de Deus significam a sua majestade régia e suprema, não um lugar ou postura." }
+      ],
+      "nota": null
+    },
+    "22:70": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:63–71#11", "sintese": "Preferiu provar que é Rei a chamar-se Rei, para que, confessando a verdade, ficassem sem desculpa." }
+      ],
+      "nota": { "texto": "“Vós o dizeis, eu o sou” é uma afirmação: Jesus assume diante do Sinédrio o título de Filho de Deus, que motiva a condenação.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

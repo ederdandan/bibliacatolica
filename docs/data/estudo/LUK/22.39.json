@@ -1,0 +1,105 @@
+{
+  "id": "LUK.22.39",
+  "livro": "LUK",
+  "titulo": "A agonia no monte das Oliveiras e a prisão",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 22,39-53",
+  "ini": { "c": 22, "v": 39 },
+  "fim": { "c": 22, "v": 53 },
+  "liturgia": { "tema_central": "“Não se faça a minha vontade, mas a tua”: a oração na agonia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus sai, como de costume, para o monte das Oliveiras, e os discípulos seguem-no. Ali diz-lhes: “Orai, para não entrardes em tentação”. Afasta-se cerca de um tiro de pedra e, de joelhos, ora: “Pai, se queres, afasta de mim este cálice; não se faça, contudo, a minha vontade, mas a tua”. Aparece-lhe um anjo do céu que o conforta. Em agonia, ora com mais insistência, e o seu suor torna-se como gotas de sangue que caem por terra. Levantando-se, encontra os discípulos dormindo de tristeza: “Por que dormis? Levantai-vos e orai”. Ainda está falando quando chega uma multidão, e Judas, um dos Doze, aproxima-se para o beijar. “Judas, com um beijo entregas o Filho do homem?” Os discípulos perguntam se devem ferir com a espada, e um deles corta a orelha direita do servo do sumo sacerdote. “Deixai, basta”, diz Jesus, e, tocando-lhe a orelha, cura-o. Aos sumos sacerdotes, oficiais do Templo e anciãos diz: “Saístes com espadas e varapaus como contra um ladrão? Todos os dias estava convosco no Templo e não me prendestes; mas esta é a vossa hora e o poder das trevas”.",
+    "alegorico": "Ora sozinho por todos aquele que sozinho havia de padecer por todos. O suor de sangue figura os martírios que haviam de correr de todo o seu corpo, a Igreja; e anuncia que purificaria com o seu sangue a fé ainda frágil dos discípulos. O servo ferido na orelha figura quem não ouve a palavra da sabedoria; o Senhor, curando-o, mostra que a sua paixão restitui o ouvido aos que estavam sujeitos ao príncipe deste mundo.",
+    "moral": "Depois da ceia, o Senhor não se entrega ao ócio, mas à oração. É impossível não ser tentado; pede-se, porém, não “entrar” na tentação, isto é, não ser vencido por ela. Em Cristo há duas vontades: a humana, que pela fraqueza da carne recusa a paixão, e a divina, que a abraça; a sua oração ensina-nos a submeter a nossa vontade à do Pai e a buscar na oração força nas adversidades. A alma vendida ao pecado não aproveita as advertências; Cristo, porém, não nega ao traidor os ofícios do amor e cura até os seus perseguidores.",
+    "anagogico": "“Esta é a vossa hora e o poder das trevas”: a hora das trevas é breve e está submetida à vontade do Pai; pela obediência do Filho, ela abre caminho à hora da glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando chegou àquele lugar, disse-lhes: “Orai, para não cairdes em tentação”. Afastou-se deles a distância de um tiro de pedra; e, posto de joelhos, orava, dizendo: “Pai, se é do teu agrado, afasta de mim este cálice; não se faça, contudo, a minha vontade, mas a tua”. Então apareceu-lhe um anjo do céu, que o confortava. Posto em agonia orava mais instantemente. O seu suor tornou-se como gotas de sangue, que corriam até à terra. Aproximou-se Judas de Jesus para o abraçar. Jesus disse-lhe: “Judas! com um beijo entregas o Filho do homem?”",
+    "meditatio_perguntas": [
+      "Que “cálice” me custa aceitar hoje, e consigo dizer “não a minha vontade, mas a tua”?",
+      "Durmo de tristeza quando devia vigiar e orar?",
+      "Há algum “beijo” meu — gesto exterior de amor — que esconde distância de Jesus?"
+    ],
+    "oratio_guia": "Pai, como Jesus no monte das Oliveiras, entrego-te a minha vontade: não se faça a minha, mas a tua. Dá-me o conforto do teu anjo na hora da angústia, e a perseverança na oração para não entrar em tentação. Senhor Jesus, que curaste até quem te vinha prender, ensina-me a amar os que me ferem. Amém.",
+    "contemplatio_foco": { "texto": "não se faça, contudo, a minha vontade, mas a tua.", "ref": "Lc 22,42" }
+  },
+  "ancoras": {
+    "22:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:39–42#3", "sintese": "Depois da ceia, o Senhor não se entrega ao ócio nem ao sono, mas à oração e ao ensino." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:39–42#4", "sintese": "Não ser tentado é impossível; pede-se não entrar em tentação, isto é, não ser vencido por ela." }
+      ],
+      "nota": null
+    },
+    "22:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:39–42#6", "sintese": "Ora sozinho por todos quem sozinho havia de padecer por todos: a sua oração dista da nossa como a sua paixão." }
+      ],
+      "nota": null
+    },
+    "22:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:39–42#10", "sintese": "Como homem recusa a morte; como Deus mantém o seu decreto." },
+        { "autor": "Santo Atanásio", "obra": "de Incarn. et cont. Ar.", "catena": "22:39–42#13", "sintese": "Mostra duas vontades: a humana, que pela fraqueza da carne recusa a paixão, e a divina, que a abraça com ardor." }
+      ],
+      "nota": null
+    },
+    "22:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:43–46#0", "sintese": "É confortado por um anjo para nos mostrar a força da oração nas adversidades." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:43–46#1", "sintese": "O Criador não precisava da criatura; mas, feito homem, por nossa causa se entristece e por nossa causa é confortado." }
+      ],
+      "nota": null
+    },
+    "22:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:43–46#7", "sintese": "Suar sangue é contra a natureza: sinal de que purificaria com o seu sangue a fé frágil dos discípulos." },
+        { "autor": "Santo Agostinho", "obra": "Prosp. ex Aug. sent. 68.", "catena": "22:43–46#8", "sintese": "O suor de sangue representava os martírios que haviam de correr de todo o seu corpo, a Igreja." }
+      ],
+      "nota": null
+    },
+    "22:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:43–46#10", "sintese": "Era meia-noite, e o sono dos discípulos não era de sonolência, mas de tristeza." }
+      ],
+      "nota": null
+    },
+    "22:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:47–53#2", "sintese": "A alma vendida a um pecado não aproveita as advertências, como Judas, a quem Cristo tanto dissuadiu." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:47–53#11", "sintese": "Beijou-o não para ensinar a fingir, mas para não recuar diante do traidor e comovê-lo, não lhe negando o amor." }
+      ],
+      "nota": null
+    },
+    "22:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:47–53#7", "sintese": "Feres com o penhor do amor? Tu, discípulo, entregas o Mestre; tu, escolhido, aquele que te escolheu?" }
+      ],
+      "nota": null
+    },
+    "22:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:47–53#16", "sintese": "Nunca esquece a sua bondade: enquanto lhe trazem a morte, cura as feridas dos perseguidores." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:47–53#17", "sintese": "O servo do príncipe deste mundo é ferido na orelha porque não ouvia a sabedoria; o Senhor cura-o." }
+      ],
+      "nota": null
+    },
+    "22:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:47–53#21", "sintese": "Reunistes-vos nas trevas porque o vosso poder, armado contra a luz do mundo, está nas trevas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
