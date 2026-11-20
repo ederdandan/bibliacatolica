@@ -97,7 +97,7 @@ Itens originais desta fase:
 
 ### Fase 4: Expansão 🔄
 Ordem sugerida: Mateus, Lucas, João, Salmos, Atos, Cartas, demais livros do AT.
-Progresso: Mateus ✅ 107 · Lucas ✅ 78 · João 🔄 46/48 (`scripts/pericopes/JHN.txt` pronto; a Catena de JHN já usa a numeração de Matos Soares). Com Marcos (75), serão 308 perícopes.
+Progresso: Marcos ✅ 75 · Mateus ✅ 107 · Lucas ✅ 78 · João ✅ 48. **Os quatro Evangelhos estão completos: 308 perícopes.** Próximo da ordem: Salmos.
 Fora dos Evangelhos não há Catena. Opções: Haydock (1859, domínio público) ou deixar `[]`.
 
 ---
@@ -197,7 +197,9 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 ## 8. Próximo passo
 
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
-   **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78. Próximo: João (JHN).
+   **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
+   **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
+   **Próximo: Salmos (PSA).** Fora dos Evangelhos não há Catena: decidir antes se `padres` fica `[]` ou se se usa Haydock (1859). Criar `scripts/pericopes/PSA.txt` (um salmo por perícope, ou divisões nos salmos longos como o 118), rodar `index PSA` e seguir o mesmo fluxo.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).

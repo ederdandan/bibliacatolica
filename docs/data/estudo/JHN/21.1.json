@@ -1,0 +1,66 @@
+{
+  "id": "JHN.21.1",
+  "livro": "JHN",
+  "titulo": "A aparição junto ao lago de Tiberíades",
+  "secao": "A Ressurreição",
+  "referencia": "Jo 21,1-14",
+  "ini": { "c": 21, "v": 1 },
+  "fim": { "c": 21, "v": 14 },
+  "liturgia": { "tema_central": "“É o Senhor!”: a pesca abundante e a refeição na praia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus manifesta-se de novo aos discípulos junto ao mar de Tiberíades. Estão juntos Simão Pedro, Tomé, Natanael, os filhos de Zebedeu e outros dois. Pedro diz: “Vou pescar”; os outros vão com ele, mas naquela noite nada apanham. De manhã, Jesus está na praia, e não o reconhecem. “Moços, tendes alguma coisa de comer?” “Nada.” “Lançai a rede para o lado direito da barca, e encontrareis.” Lançam-na e não a podem tirar, tantos são os peixes. O discípulo que Jesus amava diz a Pedro: “É o Senhor”. Pedro cinge-se com a túnica e lança-se à água; os outros vêm na barca, arrastando a rede, a uns duzentos côvados da terra. Em terra veem brasas acesas, peixe em cima e pão. Jesus manda trazer dos peixes que apanharam. Pedro tira a rede para terra, cheia de cento e cinquenta e três grandes peixes, e, sendo tantos, a rede não se rompe. “Vinde comer.” Nenhum ousa perguntar “quem és tu?”, sabendo que é o Senhor. Jesus toma o pão e dá-lho, e igualmente o peixe. É a terceira vez que se manifesta aos discípulos depois de ressuscitar.",
+    "alegorico": "A praia é o fim do mar, figura do fim do mundo: esta pesca representa a Igreja tal como será na ressurreição final, como a outra pesca, no início, a figurava tal como é agora. Os cento e cinquenta e três peixes não limitam o número dos salvos, mas significam todos os que participam da graça do Espírito, com referência ao mistério da Trindade. A rede que não se rompe é a unidade da Igreja. O peixe assado é Cristo que padeceu; o pão é o que desceu do céu; e a Ele se une a Igreja, seu corpo.",
+    "moral": "O ofício exercido sem pecado antes da conversão não se torna pecado depois: Pedro volta à pesca, mas Mateus não volta à coletoria. Deus permite a noite estéril para que se reconheça depois o dom. Sem Cristo, a noite inteira nada dá; com a sua palavra, a rede enche-se. João reconhece primeiro, Pedro lança-se primeiro: o amor contemplativo vê, o amor ardente corre.",
+    "anagogico": "A refeição na praia, depois da pesca, é figura do banquete eterno: na margem do mundo, o Senhor ressuscitado espera os seus com pão e peixe, e reparte-os Ele mesmo. A Igreja inteira, recolhida na rede que não se rompe, será levada até Ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Naquela noite nada apanharam. Chegada a manhã, Jesus apresentou-se na praia; os discípulos todavia não conheceram que era ele. Lançai a rede para o lado direito da barca, e encontrareis. Então aquele discípulo, a quem Jesus amava, disse a Pedro: “É o Senhor”. Jesus disse-lhes: “Vinde jantar”. Jesus aproximou-se, tomou o pão e deu-lho, e igualmente do peixe.",
+    "meditatio_perguntas": [
+      "Que “noites” de trabalho sem fruto vivo, longe da palavra de Jesus?",
+      "Reconheço o Senhor na praia da minha vida quotidiana?",
+      "Deixo-me alimentar por Ele à sua mesa, sobretudo na Eucaristia?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que esperas os teus na praia depois da noite estéril, dá-me ouvir a tua palavra e lançar a rede onde mandas. Que eu te reconheça e diga: “É o Senhor!”, e me sente à tua mesa para receber de ti o pão. Amém.",
+    "contemplatio_foco": { "texto": "É o Senhor.", "ref": "Jo 21,7" }
+  },
+  "ancoras": {
+    "21:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "21:1–11#6", "sintese": "O ofício sem pecado antes da conversão não se torna pecado depois: Pedro volta à pesca, Mateus não à coletoria." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "21:1–11#8", "sintese": "A pesca foi infrutífera para aumentar depois o espanto diante do milagre." }
+      ],
+      "nota": null
+    },
+    "21:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:1–11#20", "sintese": "A praia é o fim do mar, figura do fim do mundo: a Igreja tal como será no fim." }
+      ],
+      "nota": null
+    },
+    "21:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "21:1–11#12", "sintese": "Foi até Jesus com o ardor com que fazia tudo." }
+      ],
+      "nota": null
+    },
+    "21:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:1–11#17", "sintese": "Esta pesca significa a Igreja tal como será na ressurreição final dos mortos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:1–11#25", "sintese": "Os 153 não limitam os salvos: significam todos os que participam da graça do Espírito." }
+      ],
+      "nota": { "texto": "153 é a soma dos números de 1 a 17 (10 mandamentos + 7 dons do Espírito, na leitura de Agostinho). São Jerónimo relaciona-o com as espécies de peixes conhecidas: a universalidade da missão.", "origem": "ia" }
+    },
+    "21:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:12–14#5", "sintese": "O peixe assado é Cristo que padeceu; Ele é o pão do céu, a que a Igreja se une como corpo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

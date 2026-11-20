@@ -1,0 +1,80 @@
+{
+  "id": "JHN.21.15",
+  "livro": "JHN",
+  "titulo": "Pedro, apascenta as minhas ovelhas; o discípulo amado",
+  "secao": "A Ressurreição",
+  "referencia": "Jo 21,15-25",
+  "ini": { "c": 21, "v": 15 },
+  "fim": { "c": 21, "v": 25 },
+  "liturgia": { "tema_central": "“Amas-me?” — “Apascenta as minhas ovelhas”: o amor que se torna missão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de comerem, Jesus pergunta a Simão Pedro: “Simão, filho de João, amas-me mais do que estes?”. “Sim, Senhor, tu sabes que eu te amo.” “Apascenta os meus cordeiros.” Pergunta segunda vez, e diz: “Apascenta as minhas ovelhas”. À terceira, Pedro entristece-se: “Senhor, tu conheces tudo; sabes que eu te amo”. “Apascenta as minhas ovelhas.” E anuncia: quando era mais novo, cingia-se e ia aonde queria; quando for velho, estenderá as mãos, e outro o cingirá e o levará aonde não quer; dizia-o indicando com que morte Pedro havia de glorificar a Deus. E acrescenta: “Segue-me”. Pedro, voltando-se, vê o discípulo que Jesus amava e pergunta: “E este, que será?”. Jesus: “Se quero que ele fique até que eu volte, que tens tu com isso? Tu segue-me”. Correu entre os irmãos que aquele discípulo não morreria; mas Jesus não o disse. Este é o discípulo que dá testemunho destas coisas e as escreveu, e o seu testemunho é verdadeiro. Muitas outras coisas fez Jesus, que, escritas uma por uma, nem o mundo inteiro conteria os livros.",
+    "alegorico": "A tríplice pergunta corresponde à tríplice negação: Pedro, que negou por medo da morte, confessa agora por amor, porque o Ressuscitado destruiu a morte e lhe tirou o medo. A Pedro, primeiro dos Apóstolos e cabeça do colégio, é confiado o rebanho inteiro, cordeiros e ovelhas. Ser cingido por outro e estender as mãos é a crucifixão: Cristo morreu primeiro pela salvação de Pedro, e Pedro morrerá depois pelo Evangelho de Cristo.",
+    "moral": "O Senhor pergunta o que já sabe, para que Pedro confesse do mais íntimo do coração. O que mais atrai o amor divino é o cuidado do próximo: amar Cristo é apascentar as suas ovelhas. Quem apascenta o rebanho como se fosse seu, por glória, poder ou lucro, ama-se a si e não a Cristo. “Que tens tu com isso? Tu segue-me”: não compares o teu caminho com o dos outros; segue o teu. A repugnância natural da alma em deixar o corpo não impede o amor perfeito de dar a vida.",
+    "anagogico": "“Até que eu volte”: a Igreja vive entre a Páscoa e o regresso do Senhor, apascentada por Pedro e iluminada pelo testemunho de João. O que não cabe em todos os livros do mundo será visto face a face quando Ele vier."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Disse Jesus a Simão Pedro: “Simão, filho de João, amas-me mais do que estes?” Ele disse-lhe: “Sim, Senhor, tu sabes que eu te amo”. Jesus disse-lhe: “Apascenta os meus cordeiros”. Disse-lhe pela terceira vez: “Simão, filho de João, amas-me?” E disse-lhe: “Senhor, tu conheces tudo; sabes que eu te amo”. Jesus disse-lhe: “Apascenta as minhas ovelhas”. Depois de assim ter falado, disse: “Segue-me”.",
+    "meditatio_perguntas": [
+      "Se Jesus me perguntasse hoje “amas-me?”, que responderia do fundo do coração?",
+      "Como mostro esse amor no cuidado dos que me foram confiados?",
+      "Comparo o meu caminho com o dos outros, em vez de simplesmente seguir Jesus?"
+    ],
+    "oratio_guia": "Senhor, tu conheces tudo; sabes que eu te amo. Perdoa as minhas negações e transforma-as em confissão de amor. Ensina-me a cuidar das tuas ovelhas não como minhas, mas tuas, e a seguir-te sem olhar para o lado, até onde quiseres levar-me. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, tu conheces tudo; sabes que eu te amo.", "ref": "Jo 21,17" }
+  },
+  "ancoras": {
+    "21:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:15–17#1", "sintese": "Perguntava o que já sabia: que Pedro o amava, e mais do que todos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:15–17#3", "sintese": "Negou por medo da morte; ressuscitado o Senhor e destruída a morte, que havia de temer?" }
+      ],
+      "nota": { "texto": "O primado de Pedro, aqui confirmado depois da negação, foi lido pela Tradição como missão de pastor universal (cf. Mt 16,18-19; Lc 22,32).", "origem": "ia" }
+    },
+    "21:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:15–17#4", "sintese": "O que mais atrai o amor divino é o cuidado do próximo; Pedro é a boca dos discípulos e a cabeça do colégio." }
+      ],
+      "nota": null
+    },
+    "21:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:15–17#9", "sintese": "Entristeceu-se por ser interrogado por quem sabia e lhe inspirava a resposta; responde do mais íntimo." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:15–17#13", "sintese": "Quem apascenta as ovelhas como suas, por glória, poder ou lucro, ama-se a si e não a Cristo." }
+      ],
+      "nota": null
+    },
+    "21:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:18–19#3", "sintese": "“Para onde não queres”: a repugnância natural da alma em separar-se do corpo." }
+      ],
+      "nota": null
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:18–19#4", "sintese": "Cristo morreu primeiro pela salvação de Pedro; Pedro morreu depois, com amor perfeito, pelo Evangelho." }
+      ],
+      "nota": null
+    },
+    "21:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:19–23#4", "sintese": "“Que te importa? Tu segue-me”, como se João não o seguisse, porque queria que permanecesse." }
+      ],
+      "nota": null
+    },
+    "21:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "21:24–25#1", "sintese": "Não por falta de espaço no mundo, mas porque a capacidade dos leitores não bastaria." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
