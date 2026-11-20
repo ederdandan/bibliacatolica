@@ -1,0 +1,108 @@
+{
+  "id": "LUK.18.15",
+  "livro": "LUK",
+  "titulo": "Jesus e as crianças; o jovem rico",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 18,15-30",
+  "ini": { "c": 18, "v": 15 },
+  "fim": { "c": 18, "v": 30 },
+  "liturgia": { "tema_central": "Receber o Reino como criança; deixar tudo para seguir Jesus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Trazem a Jesus crianças pequenas para que as toque; os discípulos repreendem quem as traz, mas Jesus chama-as: “Deixai vir a mim os meninos, porque o reino de Deus é dos que se parecem com eles; quem não receber o Reino como uma criança não entrará nele”. Um dos chefes pergunta: “Bom Mestre, que devo fazer para herdar a vida eterna?”. Jesus responde: “Por que me chamas bom? Ninguém é bom senão Deus”, e lembra os mandamentos. Ele diz tê-los guardado desde a juventude. “Ainda te falta uma coisa: vende tudo, dá-o aos pobres, e terás um tesouro no céu; depois vem e segue-me.” O homem entristece-se, porque era muito rico. Jesus comenta: é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino. “Quem pode então salvar-se?” “O que é impossível aos homens é possível a Deus.” Pedro diz: “Deixámos tudo para te seguir”; e Jesus promete muito mais neste tempo e a vida eterna no século futuro.",
+    "alegorico": "As crianças figuram a inocência e a simplicidade a que o Reino é prometido, não a idade. A pergunta “por que me chamas bom?” não nega a bondade de Cristo, mas aponta para Deus: e, como o Filho não está excluído de Deus, também não está excluído do bem. O chefe, como odre velho, não pôde conter o vinho novo da palavra e rompeu-se de tristeza.",
+    "moral": "Receber o Reino como criança é acolher os ensinamentos do Senhor com confiança e docilidade, sem discutir. Os bens não são maus por natureza: ninguém é condenado por possuí-los, mas por abusar deles; distribuí-los segundo Deus apaga os pecados. Não diz que o rico não se pode salvar, mas que dificilmente: o escravo das riquezas não se salva; quem é senhor delas, com esforço. Toda a terra, comparada com o céu, mede um palmo: renunciar a ela não é grande coisa.",
+    "anagogico": "O tesouro no céu e a vida eterna no século futuro são a herança prometida a quem segue Jesus. O que é impossível aos homens torna-se possível quando Deus é o nosso conselheiro e auxílio."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus, chamando-os a si, disse: “Deixai vir a mim os meninos, e não os embaraceis, porque o reino de Deus é dos que se parecem com eles”. Um dos principais fez-lhe esta pergunta: “Bom Mestre, que devo eu fazer para obter a vida eterna?” Jesus disse-lhe: “Ainda te falta uma coisa: Vende tudo quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem, segue-me”. Mas ele, ouvindo isto, entristeceu-se, porque era muito rico. Jesus respondeu: “O que é impossível aos homens, é possível a Deus”.",
+    "meditatio_perguntas": [
+      "Acolho o Reino com a confiança e a docilidade de uma criança?",
+      "Que “uma coisa” ainda me falta para seguir Jesus de todo o coração?",
+      "De que riquezas sou senhor, e de quais sou escravo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que acolheste as crianças, dá-me um coração simples para receber o teu Reino. Mostra-me o que ainda me falta e dá-me a liberdade de deixar o que me prende, para não me afastar triste, mas te seguir. Confio que o impossível para mim é possível a ti. Amém.",
+    "contemplatio_foco": { "texto": "O que é impossível aos homens, é possível a Deus.", "ref": "Lc 18,27" }
+  },
+  "ancoras": {
+    "18:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "18:15–17#0", "sintese": "Ensina a humildade com o seu exemplo: não rejeita as crianças, mas recebe-as com bondade." }
+      ],
+      "nota": null
+    },
+    "18:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "18:15–17#3", "sintese": "Diz “dos que se parecem com eles”: o Reino é dado ao caráter, não à idade, à inocência e à simplicidade." }
+      ],
+      "nota": null
+    },
+    "18:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Reg. brev. int. 217.", "catena": "18:15–17#5", "sintese": "Recebe o Reino como criança quem acolhe os ensinamentos do Senhor com confiança e docilidade, sem contradizer." }
+      ],
+      "nota": null
+    },
+    "18:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "18:18–23#3", "sintese": "Não nega que é bom, mas aponta para Deus; como não seria bom aquele que nasce do Bom?" }
+      ],
+      "nota": null
+    },
+    "18:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "18:18–23#8", "sintese": "Esperava ouvi-lo rejeitar Moisés, mas Cristo remete-o aos mandamentos." }
+      ],
+      "nota": null
+    },
+    "18:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "18:18–23#15", "sintese": "Não mentiu: vivera honestamente nas coisas exteriores; por isso Jesus, fitando-o, o amou (Mc 10,21)." }
+      ],
+      "nota": null
+    },
+    "18:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Reg. brev. int. 92.", "catena": "18:18–23#20", "sintese": "Não manda lançar fora os bens como maus, mas distribuí-los; ninguém é condenado por possuí-los, mas por abusar deles." },
+        { "autor": "Santo Atanásio", "obra": "ex Apol. de fuga sua.", "catena": "18:18–23#17", "sintese": "Toda a terra, comparada com o céu, mede um palmo: renunciar ao mundo não é grande coisa." }
+      ],
+      "nota": null
+    },
+    "18:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "18:18–23#25", "sintese": "Como odre velho, não pôde conter a palavra nova e rompeu-se de tristeza." }
+      ],
+      "nota": null
+    },
+    "18:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "18:24–30#2", "sintese": "O escravo das riquezas não se salva; quem é senhor delas salva-se com dificuldade, pela fraqueza humana." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 80 in Matth.", "catena": "18:24–30#3", "sintese": "De nada valem as riquezas se a alma é pobre; nenhum dano há na pobreza se a alma é rica." }
+      ],
+      "nota": { "texto": "Imagem hiperbólica e proverbial: o maior animal da Palestina e a menor abertura conhecida.", "origem": "ia" }
+    },
+    "18:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "18:24–30#7", "sintese": "Impossível para quem tem pensamentos rasteiros; possível a quem toma Deus por conselheiro e invoca o seu auxílio." }
+      ],
+      "nota": null
+    },
+    "18:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "18:24–30#11", "sintese": "Quem despreza os afetos e riquezas terrenas pelo Reino recebe muito mais já agora, e não num milênio de bens carnais." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

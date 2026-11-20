@@ -1,0 +1,79 @@
+{
+  "id": "LUK.18.31",
+  "livro": "LUK",
+  "titulo": "O terceiro anúncio da Paixão; o cego de Jericó",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 18,31-43",
+  "ini": { "c": 18, "v": 31 },
+  "fim": { "c": 18, "v": 43 },
+  "liturgia": { "tema_central": "“Senhor, que eu veja”: a luz da fé no caminho da cruz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus toma à parte os Doze: “Vamos subir a Jerusalém, e cumprir-se-á tudo o que os profetas escreveram sobre o Filho do homem”: será entregue aos gentios, escarnecido, ultrajado, cuspido, açoitado e morto, e ao terceiro dia ressuscitará. Eles nada compreendem; a palavra lhes fica escondida. Perto de Jericó, um cego que pede esmola à beira do caminho ouve a multidão e sabe que passa Jesus de Nazaré. Grita: “Jesus, Filho de David, tem piedade de mim!”. Os que vão à frente repreendem-no, mas ele grita ainda mais. Jesus para, manda trazê-lo e pergunta: “Que queres que eu te faça?” — “Senhor, que eu veja.” — “Vê; a tua fé te salvou.” Logo recupera a vista e segue Jesus glorificando a Deus, e todo o povo dá louvor a Deus.",
+    "alegorico": "O cego é figura do gênero humano, que desde o primeiro pai não conhece a luz celeste. Jericó, a “lua”, figura a nossa mortalidade: quando o Criador se aproxima dela assumindo a fraqueza da carne, o cego recupera a vista. É também figura dos gentios, que recebem pelo sacramento do Senhor o esplendor da luz. O cego vê Jesus antes com o coração, e chama-o Filho de David, título messiânico.",
+    "moral": "Jesus anuncia a paixão com antecedência para que os discípulos não se perturbem e saibam que vai a ela livremente. A multidão que manda calar o cego figura os ruídos e os hábitos que abafam a oração; é preciso gritar mais. Jesus pergunta “que queres?” para nos ensinar que sem confissão ninguém se salva. Não peçamos ouro, mas luz; e quem vê segue, porque pratica o bem que compreende.",
+    "anagogico": "Paixão e ressurreição anunciadas juntas: o caminho para Jerusalém conduz à glória. A luz que o cego recebe aponta para a luz que veremos com os anjos, cujo caminho é a fé."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus tomou aparte os doze, e disse-lhes: “Eis que vamos para Jerusalém, e será cumprido tudo o que está escrito pelos profetas relativo ao Filho do homem; e ressuscitará ao terceiro dia”. Eles, porém, nada disto compreenderam. Estava sentado à borda da estrada um cego pedindo esmola. Então ele clamou: “Jesus, Filho de David, tem piedade de mim!” Jesus interrogou-o: “Que queres que eu te faça?” Ele respondeu: “Senhor, fazei que eu veja”. Jesus disse-lhe: “Vê; a tua fé te salvou”. Imediatamente, viu, e foi-o seguindo, glorificando a Deus.",
+    "meditatio_perguntas": [
+      "Que parte do caminho da cruz eu ainda não compreendo ou não aceito?",
+      "Que vozes, dentro e fora de mim, tentam calar o meu clamor a Jesus?",
+      "Se Jesus me perguntasse hoje “que queres que eu te faça?”, o que responderia?"
+    ],
+    "oratio_guia": "Jesus, Filho de David, tem piedade de mim! Abre os olhos do meu coração para compreender o mistério da tua cruz e da tua ressurreição. Senhor, que eu veja, e que, vendo, te siga glorificando a Deus. Amém.",
+    "contemplatio_foco": { "texto": "Jesus, Filho de David, tem piedade de mim!", "ref": "Lc 18,38" }
+  },
+  "ancoras": {
+    "18:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 2 in Ev.", "catena": "18:31–34#0", "sintese": "Prevendo a perturbação dos discípulos, anuncia com antecedência o sofrimento da paixão e a glória da ressurreição." }
+      ],
+      "nota": null
+    },
+    "18:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "18:31–34#3", "sintese": "Descreve por ordem a paixão para mostrar que a previa e ia a ela por vontade própria." }
+      ],
+      "nota": null
+    },
+    "18:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "18:31–34#7", "sintese": "Desejavam a sua vida acima de tudo e sabiam-no Deus verdadeiro: julgavam que falar da morte era alegoria." }
+      ],
+      "nota": null
+    },
+    "18:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 2 in Ev.", "catena": "18:35–43#10", "sintese": "O cego é o gênero humano sem a luz celeste; quando o Criador se aproxima de Jericó, a mortalidade, o cego vê." }
+      ],
+      "nota": null
+    },
+    "18:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Hom. de cæco et Zacchæo.", "catena": "18:35–43#3", "sintese": "Não o via, mas abraçou com o coração o que a vista não alcançava." }
+      ],
+      "nota": { "texto": "“Filho de David” é título messiânico: o cego proclama em público o que os discípulos ainda não compreendem.", "origem": "ia" }
+    },
+    "18:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "18:35–43#11", "sintese": "Interroga o cego para crermos que sem confissão ninguém pode salvar-se." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 2 in Ev.", "catena": "18:35–43#12", "sintese": "Não pede ouro, mas luz: busquemos a luz que se vê com os anjos, cujo caminho é a fé." }
+      ],
+      "nota": null
+    },
+    "18:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "18:35–43#6", "sintese": "Foi libertado de dupla cegueira, do corpo e da mente, e deu aos outros ocasião de glorificar a Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

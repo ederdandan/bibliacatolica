@@ -1,0 +1,79 @@
+{
+  "id": "LUK.19.1",
+  "livro": "LUK",
+  "titulo": "Zaqueu",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 19,1-10",
+  "ini": { "c": 19, "v": 1 },
+  "fim": { "c": 19, "v": 10 },
+  "liturgia": { "tema_central": "“Hoje entrou a salvação nesta casa”: o Filho do homem veio salvar o que estava perdido", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus atravessa Jericó. Zaqueu, chefe dos publicanos e rico, procura ver quem é Jesus, mas não consegue por causa da multidão, porque é de pequena estatura. Corre à frente e sobe a um sicômoro. Ao chegar ali, Jesus levanta os olhos: “Zaqueu, desce depressa, porque hoje convém que eu fique em tua casa”. Ele desce depressa e recebe-o com alegria. Todos murmuram: “Foi hospedar-se em casa de um pecador”. Zaqueu, de pé, diz: “Senhor, dou aos pobres metade dos meus bens e, se defraudei alguém, restituo-lhe o quádruplo”. Jesus declara: “Hoje entrou a salvação nesta casa, porque também este é filho de Abraão. O Filho do homem veio buscar e salvar o que estava perdido”.",
+    "alegorico": "Zaqueu, cujo nome significa “justificado”, figura os gentios que creem, pequenos e escondidos pela multidão, que sobem à árvore para ver o Senhor. O sicômoro, “figueira louca”, é a loucura da cruz: os que escolhem humildemente as coisas loucas deste mundo contemplam mais de perto a sabedoria de Deus. É o camelo que, aliviado da corcova, passa pelo fundo da agulha.",
+    "moral": "Quem deseja ver Jesus já tem a semente da salvação; ninguém que o vê permanece na maldade. Os obstáculos são a multidão dos próprios pecados e a pequenez espiritual, vencidos pelo desejo e pela humildade. Jesus convida-se a si mesmo, porque vê a vontade antes do convite. A culpa não está nos bens, mas em não saber usá-los: as riquezas impedem a virtude nos indignos e a promovem nos bons. A conversão verdadeira restitui e partilha.",
+    "anagogico": "“Hoje”: a salvação não é só promessa futura, mas entra já na casa que acolhe Jesus. Filho de Abraão pela fé, Zaqueu antecipa a reunião dos filhos da promessa no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um homem, chamado Zaqueu, chefe dos publicanos, e rico, procurava conhecer de vista Jesus, mas não o podia por causa da multidão, porque era pequeno de estatura. Correndo adiante, subiu a um sicómoro para o ver. Quando Jesus chegou àquele lugar, levantou os olhos e disse-lhe: “Zaqueu, desce depressa, porque convém que eu fique hoje em tua casa”. Ele desceu a toda a pressa, e recebeu-o alegremente. Zaqueu disse: “Eis, Senhor, que dou aos pobres metade dos meus bens”. Jesus disse-lhe: “Hoje entrou a salvação nesta casa. Porque o Filho do homem veio buscar e salvar o que estava perdido”.",
+    "meditatio_perguntas": [
+      "O que me impede de ver Jesus: a multidão, a minha pequenez, o meu pecado?",
+      "Deixo-me olhar por Jesus e chamar pelo nome?",
+      "Que gesto concreto de partilha ou reparação a conversão me pede hoje?"
+    ],
+    "oratio_guia": "Senhor Jesus, que levantaste os olhos para Zaqueu, olha também para mim e chama-me pelo nome. Quero descer depressa e receber-te com alegria em minha casa. Converte o meu coração, para que eu partilhe e repare o mal feito, e entre hoje a salvação na minha vida. Amém.",
+    "contemplatio_foco": { "texto": "Zaqueu, desce depressa, porque convém que eu fique hoje em tua casa.", "ref": "Lc 19,5" }
+  },
+  "ancoras": {
+    "19:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "19:1–10#2", "sintese": "A semente da salvação germinava no desejo de ver Jesus; o impediam a multidão dos pecados e a pequena estatura." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:1–10#3", "sintese": "Pequeno na maldade ou fraco na fé; mas não estava prostrado no pecado quem podia subir." }
+      ],
+      "nota": null
+    },
+    "19:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 27, c. 46.", "catena": "19:1–10#19", "sintese": "O sicômoro é a “figueira louca”: quem escolhe humildemente as loucuras do mundo contempla mais de perto a sabedoria de Deus." }
+      ],
+      "nota": { "texto": "O sicômoro é uma figueira de tronco curto e ramos baixos e largos, fácil de subir.", "origem": "ia" }
+    },
+    "19:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:1–10#5", "sintese": "Sem ser convidado, convida-se, porque já via a vontade antes de ouvir o convite." }
+      ],
+      "nota": null
+    },
+    "19:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:1–10#6", "sintese": "Eis o camelo que, aliviado da corcova, passa pelo fundo da agulha: o rico que deixa o amor às riquezas." }
+      ],
+      "nota": null
+    },
+    "19:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:1–10#7", "sintese": "A culpa não está nos bens, mas em não saber usá-los: impedem a virtude nos indignos e a promovem nos bons." }
+      ],
+      "nota": { "texto": "A restituição quádrupla ia além do que a Lei exigia na maioria dos casos (cf. Ex 21,37; Nm 5,6-7).", "origem": "ia" }
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:1–10#10", "sintese": "Filho de Abraão não pela descendência, mas por imitar a sua fé, deixando os bens como Abraão deixou a sua terra." }
+      ],
+      "nota": null
+    },
+    "19:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Hom. de cæco et Zacchæo.", "catena": "19:1–10#12", "sintese": "Vim por causa dos pecadores, para curar e não para julgar: sou hóspede assíduo dos enfermos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
