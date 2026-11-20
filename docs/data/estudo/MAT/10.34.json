@@ -1,0 +1,80 @@
+{
+  "id": "MAT.10.34",
+  "livro": "MAT",
+  "titulo": "Não a paz, mas a espada; a recompensa",
+  "secao": "O discurso missionário",
+  "referencia": "Mt 10,34-42",
+  "ini": { "c": 10, "v": 34 },
+  "fim": { "c": 10, "v": 42 },
+  "liturgia": { "tema_central": "Quem perde a sua vida por mim, encontrá-la-á", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus, o Príncipe da paz, diz que não veio trazer “paz, mas espada”: a sua palavra provoca decisão e, por isso, divisão, até no interior das famílias, como anunciara Miqueias (Mq 7,6). O amor a Ele deve estar acima do amor aos pais e aos filhos. Tomar a cruz, suplício romano em que o condenado carregava a trave, é a condição para segui-lo. O paradoxo central: quem se agarra à própria vida a perde; quem a perde por Ele a encontra. O discurso termina com a lei da acolhida: quem recebe os enviados recebe Cristo e o Pai, e até um copo de água fresca dado a um “pequenino” (um discípulo) terá recompensa.",
+    "alegorico": "A espada é a Palavra de Deus, “mais cortante que espada de dois gumes” (Hb 4,12), que separa o homem do pecado e do diabo, seu falso pai. Tomar a cruz é participar da Paixão de Cristo. Os enviados são o prolongamento do próprio Cristo: acolhê-los é acolher o Filho e o Pai.",
+    "moral": "Não se suprime o amor familiar: ele é ordenado pelo amor a Deus. Obedece-se aos pais em tudo o que não prejudica a piedade para com Deus. A cruz leva-se de dois modos: afligindo a carne pela abstinência e compadecendo-se do próximo. Ninguém é tão pobre que não possa dar um copo de água: a caridade mais simples tem valor eterno.",
+    "anagogico": "Quem “perde” a vida por Cristo a encontra na vida eterna. Até o menor gesto de acolhida aos discípulos receberá a recompensa do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não penseis que vim trazer paz à terra; não vim trazer paz, mas espada. Quem ama o pai ou a mãe mais do que a mim não é digno de mim; quem ama o filho ou a filha mais do que a mim não é digno de mim. Quem não toma a sua cruz e não me segue não é digno de mim. Quem se apega à sua vida, perdê-la-á; e quem perder a sua vida por causa de mim, encontrá-la-á. Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou. Quem der ainda que seja um copo de água fresca a um destes pequeninos, por ser meu discípulo, não perderá a sua recompensa”.",
+    "meditatio_perguntas": [
+      "Cristo ocupa realmente o primeiro lugar nos meus afetos?",
+      "Qual é a cruz que hoje me custa tomar para seguir Jesus?",
+      "Que “copo de água fresca” posso oferecer hoje a um discípulo de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que me chamas a amar-te acima de tudo, ordena os meus afetos. Dá-me força para tomar a minha cruz e seguir-te. Ensina-me a perder a vida por ti e a acolher-te nos teus pequeninos. Amém.",
+    "contemplatio_foco": { "texto": "O que perder a sua vida por meu amor, achá-la-á.", "ref": "Mt 10,39" }
+  },
+  "ancoras": {
+    "10:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:34–36#3", "sintese": "Quanto à fé em Cristo, o mundo inteiro estava dividido; cada casa tinha crentes e incrédulos: foi enviada esta guerra santa." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:34–36#4", "sintese": "Diz isto para consolá-los: não vos perturbeis como se estas coisas vos sobreviessem inesperadamente." }
+      ],
+      "nota": null
+    },
+    "10:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Quaest. sobre Mateus, q. 3", "catena": "10:34–36#7", "sintese": "Vim separar o homem de seu pai, porque renuncia ao diabo, que era seu pai." }
+      ],
+      "nota": null
+    },
+    "10:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 3, 8", "catena": "10:34–36#10", "sintese": "O inimigo, expulso do coração dos bons, fala pela boca dos que lhes são mais queridos." }
+      ],
+      "nota": null
+    },
+    "10:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:37–39#0", "sintese": "Para que ninguém pensasse que o afeto familiar fora banido da sua religião, acrescenta: “mais do que a mim”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:37–39#2", "sintese": "Devemos obedecer aos pais só nas coisas que não prejudicam a nossa piedade para com Deus." }
+      ],
+      "nota": null
+    },
+    "10:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 32 sobre os Evangelhos, 3", "catena": "10:37–39#7", "sintese": "Levamos a cruz de dois modos: afligindo a carne pela abstinência, ou, por compaixão, fazendo nossas as aflições do próximo." }
+      ],
+      "nota": null
+    },
+    "10:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:40–42#3", "sintese": "Não disse só “quem recebe um profeta”, mas “em nome de profeta”: não pela sua grandeza no mundo, mas por ser profeta." }
+      ],
+      "nota": null
+    },
+    "10:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:40–42#9", "sintese": "Para que ninguém dissesse “sou pobre, não posso ser hospitaleiro”, tira a desculpa com um copo de água fria dado de boa vontade." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "MAT.10.26",
+  "livro": "MAT",
+  "titulo": "Não temais",
+  "secao": "O discurso missionário",
+  "referencia": "Mt 10,26-33",
+  "ini": { "c": 10, "v": 26 },
+  "fim": { "c": 10, "v": 33 },
+  "liturgia": { "tema_central": "Não temais: até os cabelos da vossa cabeça estão contados", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Três vezes Jesus repete “não temais”. Primeiro, porque a verdade escondida será revelada: o que Ele ensina em particular deve ser proclamado “sobre os telhados”, os terraços planos das casas palestinas, de onde se faziam anúncios públicos. Segundo, porque os perseguidores só podem matar o corpo; deve-se temer a Deus, que tem poder sobre o corpo e a alma na geena. Terceiro, porque a Providência cuida de tudo: dois pardais valiam um asse (pequena moeda de cobre romana), e nem um cai sem o Pai saber. Por fim, a confissão ou negação de Jesus diante dos homens decide a sua confissão ou negação diante do Pai.",
+    "alegorico": "Cristo é a Testemunha fiel que confessará os seus diante do Pai, e a Igreja, pela boca dos mártires, o confessa diante do mundo. O que foi dito “ao ouvido” aos Apóstolos tornou-se a pregação pública da Igreja depois de Pentecostes.",
+    "moral": "O temor de Deus liberta do temor dos homens. Jesus não promete livrar da morte, mas ensina a desprezá-la, o que é muito mais. A Providência que conta os cabelos é imensa e cuidadosa: nada do que é nosso lhe escapa. A fé deve ser professada também com a boca: com o coração se crê, com a boca se confessa para a salvação (Rm 10,10).",
+    "anagogico": "Nada ficará oculto no Juízo, quando Deus iluminará o que está escondido. Quem confessa Cristo na terra será por Ele reconhecido no céu; quem o nega será excluído da visão do Pai e do Filho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não tenhais medo deles: nada há de encoberto que não venha a ser revelado. O que vos digo às escuras, dizei-o à luz; o que ouvis ao ouvido, proclamai-o sobre os telhados. Não temais os que matam o corpo, mas não podem matar a alma. Não se vendem dois pardais por um asse? Nem um deles cai por terra sem o consentimento do vosso Pai. Até os cabelos da vossa cabeça estão todos contados. Não temais, pois: valeis mais do que muitos pardais. Todo aquele que me confessar diante dos homens, também eu o confessarei diante de meu Pai que está nos céus”.",
+    "meditatio_perguntas": [
+      "Que medos me impedem de testemunhar a fé abertamente?",
+      "Acredito que o Pai cuida de cada detalhe da minha vida?",
+      "Confesso Cristo com palavras e obras diante dos outros?"
+    ],
+    "oratio_guia": "Pai, que contas os cabelos da minha cabeça, liberta-me do medo dos homens. Dá-me o santo temor de ti e a coragem de confessar o teu Filho diante de todos. Que Ele me reconheça como seu diante de ti. Amém.",
+    "contemplatio_foco": { "texto": "Até os próprios cabelos da vossa cabeça estão todos contados.", "ref": "Mt 10,30" }
+  },
+  "ancoras": {
+    "10:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:26–28#1", "sintese": "Diz-se do tempo futuro, quando Deus julgará as coisas ocultas dos homens." }
+      ],
+      "nota": null
+    },
+    "10:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:26–28#5", "sintese": "Livres do temor e postos acima de toda calúnia, manda-lhes pregar com liberdade e sem reservas." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:26–28#11", "sintese": "Mostra que realiza todas as coisas mais por meio deles do que por si mesmo." }
+      ],
+      "nota": null
+    },
+    "10:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:26–28#16", "sintese": "Não promete livrá-los da morte, mas exorta-os a desprezá-la, o que é muito mais do que ser livrado dela." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 13, 2", "catena": "10:26–28#15", "sintese": "Chama-se com razão morte da alma, porque ela não vive de Deus." }
+      ],
+      "nota": null
+    },
+    "10:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:29–31#1", "sintese": "Se os pequenos seres não caem sem a providência de Deus, vós, que sois imortais, não deveis temer." }
+      ],
+      "nota": null
+    },
+    "10:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:29–31#5", "sintese": "Não que Deus conte os cabelos, mas para mostrar o seu conhecimento diligente e o grande cuidado que tem de nós." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 22, 19", "catena": "10:29–31#7", "sintese": "Na ressurreição nada do que é nosso se perderá, sem que por isso volte a deformidade." }
+      ],
+      "nota": null
+    },
+    "10:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "10:32–33#2", "sintese": "É a confissão de que fala o Apóstolo: com o coração se crê para a justiça, e com a boca se confessa para a salvação." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "10:32–33#3", "sintese": "Na medida em que dermos testemunho dele na terra, Ele dará testemunho de nós no céu, diante do Pai." }
+      ],
+      "nota": null
+    },
+    "10:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:32–33#4", "sintese": "O castigo é maior que o mal feito, e a recompensa maior que o bem feito." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

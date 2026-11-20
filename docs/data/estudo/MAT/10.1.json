@@ -1,0 +1,81 @@
+{
+  "id": "MAT.10.1",
+  "livro": "MAT",
+  "titulo": "A missão dos Doze",
+  "secao": "O discurso missionário",
+  "referencia": "Mt 10,1-15",
+  "ini": { "c": 10, "v": 1 },
+  "fim": { "c": 10, "v": 15 },
+  "liturgia": { "tema_central": "“De graça recebestes, de graça dai”: o envio dos Apóstolos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Início do segundo grande discurso de Mateus. Jesus dá aos Doze o seu próprio poder sobre os espíritos imundos e as doenças. Os nomes vêm aos pares, encabeçados por “o primeiro, Simão, chamado Pedro”. Mateus se identifica como “o publicano”, e Judas Iscariotes é lembrado como o traidor. O número doze evoca as doze tribos: é o novo Israel. Esta primeira missão limita-se às “ovelhas perdidas da casa de Israel”; a missão universal virá depois da Ressurreição (28,19). As instruções são de pobreza radical (sem dinheiro, alforje, túnica de reserva nem sandálias extras), de confiança na hospitalidade e de urgência: a paz oferecida volta a quem a deu se for recusada; sacudir o pó, gesto que os judeus faziam ao sair de terra pagã, indica ruptura e testemunho.",
+    "alegorico": "Os Doze são os fundamentos da Igreja, a nova Jerusalém (Ap 21,14). Pedro, nomeado “o primeiro”, recebe um primado que se tornará explícito em 16,18. A participação no poder de Cristo prefigura a sucessão apostólica e o ministério ordenado, pelo qual Cristo continua a curar, a expulsar o mal e a anunciar o Reino.",
+    "moral": "O apóstolo é livre de interesses: dá gratuitamente o que gratuitamente recebeu; o Evangelho não está à venda. A pobreza liberta de suspeitas e de preocupações para dedicar-se à Palavra. Mas o operário merece o seu sustento: os fiéis devem sustentar os seus pastores. Jesus escolhe homens humildes e sem letras, para que se veja que a obra é dele.",
+    "anagogico": "“O Reino dos Céus está próximo”: a pregação apostólica abre o caminho para o Reino definitivo. A rejeição da mensagem terá consequências no “dia do Juízo”, mais graves que as de Sodoma."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus chamou os doze discípulos e deu-lhes poder de expulsar os espíritos imundos e de curar toda doença. Os nomes dos doze apóstolos são: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago e João, filhos de Zebedeu… e Judas Iscariotes, que o entregou. Jesus os enviou, dizendo: “Ide às ovelhas perdidas da casa de Israel. Pelo caminho, anunciai: o Reino dos Céus está próximo. Curai os enfermos, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça dai. Não leveis ouro, nem prata, nem dinheiro. Ao entrardes numa casa, saudai-a: a paz esteja nesta casa”.",
+    "meditatio_perguntas": [
+      "Tenho consciência de que tudo o que recebi de Deus foi de graça?",
+      "Que apegos me impedem de anunciar o Evangelho com liberdade?",
+      "Levo a paz de Cristo às casas e aos ambientes onde entro?"
+    ],
+    "oratio_guia": "Senhor Jesus, que escolheste os Doze e os enviaste com o teu poder, abençoa os sucessores dos Apóstolos e todos os que anunciam o teu Reino. Faz-me dar de graça o que de graça recebi, e levar a tua paz a cada casa. Amém.",
+    "contemplatio_foco": { "texto": "Dai de graça o que de graça recebestes.", "ref": "Mt 10,8" }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:1–4#7", "sintese": "O Mestre bondoso não inveja aos seus servos a participação nos seus poderes: como Ele curou toda doença, concede-lhes o mesmo." }
+      ],
+      "nota": null
+    },
+    "10:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:1–4#10", "sintese": "Não é pequena a honra feita a Pedro: é posto em primeiro lugar pelo seu mérito." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:1–4#12", "sintese": "Junta os nomes aos pares: Pedro e André, irmãos mais pelo espírito que pela carne; Tiago e João, que deixaram o pai segundo a carne." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 18, 49", "catena": "10:1–4#26", "sintese": "Escolheu homens de origem humilde, sem honra e sem letras, para que tudo o que fizessem de grande fosse Ele a fazê-lo neles." }
+      ],
+      "nota": null
+    },
+    "10:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:5–8#4", "sintese": "Exercitados primeiro na Judeia como num ginásio, entrariam depois na arena do mundo: assim os ensinou a voar." }
+      ],
+      "nota": null
+    },
+    "10:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:5–8#25", "sintese": "Cuida tanto da virtude moral quanto dos poderes milagrosos, mostrando que os milagres sem ela nada são." }
+      ],
+      "nota": null
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:9–10#1", "sintese": "Se tivessem riquezas, julgar-se-ia que pregavam não pela salvação dos homens, mas pelo lucro." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:9–10#7", "sintese": "Feliz troca: em lugar de ouro e prata, receberam poder para curar os enfermos e ressuscitar os mortos." }
+      ],
+      "nota": null
+    },
+    "10:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 46", "catena": "10:9–10#10", "sintese": "O Evangelho não está à venda: se o vendem, vendem coisa grande por preço pequeno. Recebam do povo o sustento, e de Deus a recompensa." }
+      ],
+      "nota": null
+    },
+    "10:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:11–15#7", "sintese": "Alusão à saudação hebraica e siríaca, que significa: “A paz esteja convosco”." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

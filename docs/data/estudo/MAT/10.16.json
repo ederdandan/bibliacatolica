@@ -1,0 +1,90 @@
+{
+  "id": "MAT.10.16",
+  "livro": "MAT",
+  "titulo": "As perseguições anunciadas",
+  "secao": "O discurso missionário",
+  "referencia": "Mt 10,16-25",
+  "ini": { "c": 10, "v": 16 },
+  "fim": { "c": 10, "v": 25 },
+  "liturgia": { "tema_central": "Ovelhas no meio de lobos: quem perseverar até o fim será salvo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O discurso alarga o horizonte para além da primeira missão: Jesus anuncia perseguições em tribunais judeus (sinagogas, onde se aplicavam açoites) e diante de governadores e reis pagãos. Os discípulos devem unir a prudência da serpente à simplicidade da pomba. Diante dos juízes, não se preocupar: o Espírito do Pai falará neles. Haverá divisões até dentro das famílias (cf. Mq 7,6). Quando perseguidos, podem fugir para outra cidade. O discípulo não está acima do mestre: se chamaram Belzebu (“senhor das moscas”, divindade filisteia de Acaron) ao dono da casa, o mesmo farão aos de casa.",
+    "alegorico": "Cristo é o Cordeiro enviado ao meio dos lobos, e os discípulos participam da sua sorte. A perseguição dos mártires é testemunho (em grego, martyrion) diante das nações. A presença do Espírito que fala nos perseguidos é já o dom de Pentecostes, que transforma pescadores em testemunhas diante dos reis.",
+    "moral": "A ira não se apaga com a ira: a simplicidade da pomba não retribui o mal. A prudência da serpente protege o essencial, a fé. As feridas causadas pelos próximos doem mais. A virtude não está em começar, mas em acabar: perseverar é permanecer na fé que opera pela caridade. Fugir da perseguição não é covardia quando preserva a missão.",
+    "anagogico": "“Quem perseverar até o fim será salvo”: a recompensa é para quem termina. A vinda do Filho do Homem dá à história e à perseguição o seu sentido final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que vos envio como ovelhas no meio de lobos. Sede prudentes como as serpentes e simples como as pombas. Sereis levados diante de governadores e reis por minha causa, para dar testemunho. Quando vos entregarem, não vos preocupeis com o que haveis de dizer: não sereis vós que falareis, mas o Espírito do vosso Pai falará em vós. Sereis odiados por todos por causa do meu nome; mas quem perseverar até o fim será salvo. O discípulo não está acima do mestre: basta ao discípulo ser como o seu mestre”.",
+    "meditatio_perguntas": [
+      "Como uno, na minha vida de fé, a prudência e a simplicidade?",
+      "Confio no Espírito Santo quando preciso testemunhar a fé?",
+      "Estou disposto a perseverar até o fim, mesmo diante de oposição?"
+    ],
+    "oratio_guia": "Senhor Jesus, Cordeiro enviado ao meio dos lobos, dá-me a prudência da serpente e a simplicidade da pomba. Que o Espírito do Pai fale em mim na hora da prova. Concede-me perseverar até o fim, como teu discípulo. Amém.",
+    "contemplatio_foco": { "texto": "Aquele, porém, que perseverar até ao fim, será salvo.", "ref": "Mt 10,22" }
+  },
+  "ancoras": {
+    "10:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:16–18#4", "sintese": "O seu consolo era o poder de quem os enviava: por isso diz primeiro “Eis que eu vos envio”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:16–18#9", "sintese": "A prudência da serpente, para não sermos feridos em parte vital; a simplicidade da pomba, para não retribuirmos o mal." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:16–18#12", "sintese": "Não basta sofrer o mal; não devemos irritar-nos com ele, pois a ira não se extingue com a ira." }
+      ],
+      "nota": null
+    },
+    "10:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:16–18#2", "sintese": "Chama lobos aos escribas e fariseus, o clero dos judeus." }
+      ],
+      "nota": null
+    },
+    "10:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:19–20#2", "sintese": "Diante dos juízes, ofereçamos só a nossa vontade por Cristo; e Cristo, que habita em nós, falará por si mesmo." }
+      ],
+      "nota": null
+    },
+    "10:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": "ap. Rábano", "catena": "10:19–20#4", "sintese": "Vós saís para o combate, mas sou eu que luto; vós proferis as palavras, mas sou eu que falo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:19–20#5", "sintese": "Assim os eleva à dignidade dos profetas, que falaram pelo Espírito de Deus." }
+      ],
+      "nota": null
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 35 sobre os Evangelhos, 3", "catena": "10:21–22#1", "sintese": "As injúrias de estranhos doem menos que as daqueles com cujo afeto contávamos: há a dor do corpo e a do amor perdido." }
+      ],
+      "nota": null
+    },
+    "10:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:21–22#4", "sintese": "A virtude não está em começar, mas em acabar." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 21, 25", "catena": "10:21–22#8", "sintese": "Perseverar em Cristo é permanecer na sua fé, que opera pela caridade." }
+      ],
+      "nota": null
+    },
+    "10:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faustum 22, 36", "catena": "10:23#2", "sintese": "Não por ser incapaz de protegê-los os manda fugir, dando Ele mesmo o exemplo, mas para que o homem não tente a Deus quando pode fazer algo por si mesmo para evitar os males." }
+      ],
+      "nota": { "texto": "A frase sobre a vinda do Filho do Homem antes de percorrerem as cidades de Israel é das mais discutidas: foi referida à Ressurreição, à destruição de Jerusalém (ano 70) ou à missão a Israel que só termina no fim dos tempos.", "origem": "ia" }
+    },
+    "10:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:24–25#6", "sintese": "Não disse “servos”, mas “os da sua casa”, para mostrar quão queridos lhe eram." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:24–25#9", "sintese": "Belzebu é o ídolo de Acaron, deus das moscas: “Bel” significa ídolo, e “zebub”, mosca." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
