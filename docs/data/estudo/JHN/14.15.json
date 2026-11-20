@@ -1,0 +1,95 @@
+{
+  "id": "JHN.14.15",
+  "livro": "JHN",
+  "titulo": "A promessa do Paráclito; a paz de Cristo",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 14,15-31",
+  "ini": { "c": 14, "v": 15 },
+  "fim": { "c": 14, "v": 31 },
+  "liturgia": { "tema_central": "“Viremos a ele e faremos nele a nossa morada”: o Espírito, o amor e a paz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "“Se me amais, observareis os meus mandamentos.” Jesus rogará ao Pai, e Ele dará outro Paráclito, que ficará para sempre: o Espírito de verdade, que o mundo não pode receber porque não o vê nem o conhece; mas eles conhecem-no, porque habita com eles e estará neles. Não os deixará órfãos: voltará. Em breve o mundo já não o verá, mas eles vê-lo-ão, porque Ele vive e eles viverão. Naquele dia conhecerão que Ele está no Pai, eles nele e Ele neles. Quem guarda os seus mandamentos é quem o ama, e será amado pelo Pai, e Ele o amará e se lhe manifestará. Judas, não o Iscariotes, pergunta por que se manifestará a eles e não ao mundo. Jesus responde: se alguém o ama, guardará a sua palavra, e o Pai o amará, e virão a ele e farão nele morada. O Paráclito, o Espírito Santo, que o Pai enviará em seu nome, ensinará tudo e recordará tudo o que lhes disse. “Deixo-vos a paz, dou-vos a minha paz; não vo-la dou como a dá o mundo.” Se o amassem, alegrar-se-iam por ir para o Pai, porque o Pai é maior do que Ele. Vem o príncipe deste mundo, que nada pode contra Ele; mas o mundo há de saber que ama o Pai e faz o que Ele mandou. “Levantai-vos, vamo-nos daqui.”",
+    "alegorico": "“Outro Paráclito” mostra que também Cristo é Paráclito, nosso advogado junto do Pai. O Espírito é outro, não pela natureza, mas pela operação: o Filho intercede como Sumo Sacerdote; o Espírito consola as nossas dores. Onde o Pai e o Filho fazem morada, mora também o Espírito: a Trindade inteira habita na alma que ama. O príncipe deste mundo é príncipe dos pecadores, não das criaturas, e nada tem em Cristo, que não tem pecado.",
+    "moral": "O amor prova-se pelas obras: tem os mandamentos quem os tem na mente e os guarda na vida; amor sem obras é nome estéril. O amor de Deus nunca está ocioso: se não age, não é amor. O mundo, isto é, os que amam o mundo, não pode receber o Espírito, porque o amor do mundo não tem olhos para o invisível. Sem o Mestre interior, a língua do mestre exterior trabalha em vão; e toda lembrança salutar vem da graça do Espírito. A paz de Cristo é serenidade de alma e vínculo de caridade: ninguém está unido a Cristo se está em inimizade com os cristãos.",
+    "anagogico": "“Porque eu vivo, e vós vivereis”: a sua ressurreição vem primeiro, a nossa no fim do mundo. A paz que nos deixa agora é aquela em que vencemos o inimigo; a sua paz, no mundo futuro, será reinar sem inimigo e sem discórdia, e essa paz é Ele mesmo, visto tal como é."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu rogarei ao Pai, e ele vos dará um outro Paráclito, para que fique eternamente convosco. Não vos deixarei órfãos; voltarei a vós. Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e nós viremos a ele, e faremos nele a nossa morada. O Espírito Santo vos ensinará todas as coisas. Deixo-vos a paz, dou-vos a minha paz; não vo-la dou, como a dá o mundo.",
+    "meditatio_perguntas": [
+      "O meu amor a Jesus mostra-se em obras, ou fica em palavras?",
+      "Escuto o Mestre interior, o Espírito, que me recorda as palavras de Cristo?",
+      "Que paz procuro: a que o mundo dá, ou a de Cristo, que reconcilia com os irmãos?"
+    ],
+    "oratio_guia": "Senhor Jesus, que não nos deixaste órfãos, envia-me o teu Espírito, o Paráclito, para que me ensine e recorde as tuas palavras. Faz em mim a tua morada com o Pai, e dá-me a tua paz, que o mundo não pode dar. Amém.",
+    "contemplatio_foco": { "texto": "Deixo-vos a paz, dou-vos a minha paz; não vo-la dou, como a dá o mundo.", "ref": "Jo 14,27" }
+  },
+  "ancoras": {
+    "14:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:15–17#1", "sintese": "“Outro Paráclito” mostra que também Ele é Paráclito, o advogado junto do Pai (1Jo 2,1)." },
+        { "autor": "Dídimo", "obra": null, "catena": "14:15–17#3", "sintese": "Outro não pela natureza, mas pela operação: o Filho intercede como Sumo Sacerdote, o Espírito consola as dores." }
+      ],
+      "nota": { "texto": "Paráklētos: “chamado para junto”, o que assiste, defende e consola. Em João, o título aplica-se ao Espírito e, implicitamente, ao próprio Cristo.", "origem": "ia" }
+    },
+    "14:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:15–17#13", "sintese": "Os amantes do mundo não podem recebê-lo: o amor do mundo não tem olhos para o invisível." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:15–17#15", "sintese": "“Estará em vós”: para que o conheçamos, deve estar em nós; vemo-lo dentro, na consciência." }
+      ],
+      "nota": null
+    },
+    "14:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:18–21#5", "sintese": "“Vivo” no presente, “vivereis” no futuro: a sua ressurreição vem primeiro, a nossa no fim do mundo." }
+      ],
+      "nota": null
+    },
+    "14:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:18–21#9", "sintese": "Ama-o quem tem os mandamentos na mente e os guarda na vida: amor sem obras é nome estéril." }
+      ],
+      "nota": null
+    },
+    "14:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:22–27#1", "sintese": "O amor de Deus nunca está ocioso: onde está, faz grandes coisas; se não age, não é amor." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:22–27#4", "sintese": "Onde o Pai e o Filho fazem morada, não fica excluído o Espírito, que também permanece connosco." }
+      ],
+      "nota": null
+    },
+    "14:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:22–27#14", "sintese": "Sem o Mestre interior, a língua do mestre exterior trabalha em vão." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:22–27#17", "sintese": "“Recordará”: toda lembrança salutar vem da graça do Espírito." }
+      ],
+      "nota": null
+    },
+    "14:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:22–27#20", "sintese": "Deixa-nos a paz em que vencemos o inimigo; dar-nos-á a sua paz, onde reinaremos sem inimigo nem discórdia." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:22–27#22", "sintese": "Ninguém está unido a Cristo se está em inimizade com os cristãos." }
+      ],
+      "nota": null
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "“O Pai é maior do que eu” foi lido pelos Padres segundo a humanidade assumida, ou como referência ao Pai enquanto princípio sem princípio; não nega a igualdade de natureza afirmada em Jo 10,30.", "origem": "ia" }
+    },
+    "14:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:27–31#7", "sintese": "Príncipe dos pecadores, não das criaturas; e nada tem em Cristo, que não tinha pecado." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

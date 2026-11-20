@@ -1,0 +1,87 @@
+{
+  "id": "JHN.13.21",
+  "livro": "JHN",
+  "titulo": "O anúncio da traição; o mandamento novo",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 13,21-38",
+  "ini": { "c": 13, "v": 21 },
+  "fim": { "c": 13, "v": 38 },
+  "liturgia": { "tema_central": "“Como eu vos amei, amai-vos uns aos outros”: o amor como sinal dos discípulos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus perturba-se no espírito e declara: “Um de vós me há de entregar”. Os discípulos olham uns para os outros, sem saber de quem fala. O discípulo que Jesus amava está reclinado no seu seio; Pedro faz-lhe sinal para perguntar. Ele, inclinando-se sobre o peito de Jesus, pergunta: “Senhor, quem é?”. Jesus responde: aquele a quem der o bocado molhado; e dá-o a Judas Iscariotes. Depois do bocado, entra nele Satanás. Jesus diz-lhe: “O que fazes, faze-o depressa”. Ninguém entende; pensam que, por ter a bolsa, o manda comprar algo ou dar aos pobres. Judas sai logo. Era noite. Saído ele, Jesus diz: “Agora é glorificado o Filho do homem, e Deus é glorificado nele”. Chama-os “filhinhos”: estará pouco tempo com eles, e para onde vai não podem ir. Dá-lhes um mandamento novo: amarem-se uns aos outros como Ele os amou; nisto conhecerão todos que são seus discípulos. Pedro pergunta para onde vai; não pode segui-lo agora, mas segui-lo-á depois. Pedro promete dar a vida por Ele. Jesus responde: antes que o galo cante, negá-lo-á três vezes.",
+    "alegorico": "Saiu o impuro, e os puros ficaram com aquele que os purificara: é figura do dia em que o joio será separado do trigo. O seio de Jesus, onde repousa João, é o segredo, o aposento recôndito da sabedoria: dali beberá o evangelista os mistérios que escreverá. A noite em que Judas sai é a noite que se estende sobre a sua alma. Logo que ela entra, começa a glorificação: a cruz já é glória.",
+    "moral": "Não é vergonha o cristão perturbar-se, não por miséria, mas por compaixão. Cristo não manda o crime: prediz o que Judas fará, para apressar a salvação dos fiéis. O amor que nos pede não é pagamento de dívida: teve início nele, e assim devemos fazer o bem ainda quando não o devemos. Os outros dons, até a profecia e a ciência, podem tê-los também os que não são de Cristo; só o amor distingue os seus discípulos. Pedro presume dar a vida antes de a ter recebido; mas, se alguém cair, o seu exemplo o livre do desespero.",
+    "anagogico": "“Seguir-me-ás mais tarde”: o caminho de Jesus ao Pai será também o de Pedro, quando der a vida por Ele. O mandamento novo é antecipação do céu, onde o amor que agora nos distingue será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ora um dos seus discípulos, ao qual Jesus amava, estava recostado sobre o seio de Jesus. Ele, pois, tendo recebido o bocado, saiu logo. Era já noite. Dou-vos um novo mandamento: Que vos ameis uns aos outros, que, assim como vos amei, vos ameis também uns aos outros. Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros.",
+    "meditatio_perguntas": [
+      "Repouso no peito de Jesus, como o discípulo amado, ou fico à distância?",
+      "Amo os outros “como Ele me amou”, tomando a iniciativa, sem esperar retribuição?",
+      "Onde presumo das minhas forças, como Pedro, em vez de confiar na graça?"
+    ],
+    "oratio_guia": "Senhor Jesus, deixa-me repousar no teu peito como o discípulo amado. Livra-me da noite de Judas e da presunção de Pedro. Dá-me amar os meus irmãos como tu me amaste, para que todos reconheçam em mim um teu discípulo. Amém.",
+    "contemplatio_foco": { "texto": "assim como vos amei, vos ameis também uns aos outros.", "ref": "Jo 13,34" }
+  },
+  "ancoras": {
+    "13:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:21–30#3", "sintese": "Fora com os estoicos: é bom que o cristão se perturbe, não por miséria, mas por compaixão." }
+      ],
+      "nota": null
+    },
+    "13:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:21–30#9", "sintese": "A causa dessa familiaridade é o amor: os outros eram amados, ele mais do que todos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:21–30#16", "sintese": "O seio significa o segredo: o recôndito do peito, o aposento da sabedoria." }
+      ],
+      "nota": null
+    },
+    "13:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:21–30#25", "sintese": "Não ordenou o crime, mas predisse-o, para apressar a salvação dos fiéis." }
+      ],
+      "nota": null
+    },
+    "13:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "13:21–30#31", "sintese": "A hora da noite correspondia à noite que se estendia sobre a alma de Judas." }
+      ],
+      "nota": null
+    },
+    "13:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:31–32#2", "sintese": "Saiu o impuro, ficaram os puros: figura da separação do joio e do trigo." }
+      ],
+      "nota": null
+    },
+    "13:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:33–35#8", "sintese": "O meu amor não foi pagamento, começou de mim: fazei o bem uns aos outros, ainda que não o devais." }
+      ],
+      "nota": null
+    },
+    "13:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:33–35#11", "sintese": "Os outros dons, até a profecia e a ciência, têm-nos também os que não são meus; só o amor vos distingue." }
+      ],
+      "nota": null
+    },
+    "13:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:36–38#4", "sintese": "Farás por mim o que eu ainda não fiz por ti? Tu que prometes a tua morte negarás três vezes a tua vida." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:36–38#5", "sintese": "Se alguém cair, o exemplo de Pedro o livre do desespero: pode alcançar sem demora o perdão." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

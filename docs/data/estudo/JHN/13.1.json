@@ -1,0 +1,100 @@
+{
+  "id": "JHN.13.1",
+  "livro": "JHN",
+  "titulo": "O lava-pés",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 13,1-20",
+  "ini": { "c": 13, "v": 1 },
+  "fim": { "c": 13, "v": 20 },
+  "liturgia": { "tema_central": "“Amou-os até ao extremo”: o Senhor que lava os pés dos discípulos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Antes da Páscoa, sabendo Jesus que chegara a sua hora de passar deste mundo ao Pai, tendo amado os seus que estavam no mundo, amou-os até ao extremo. Durante a ceia, quando o demónio já pusera no coração de Judas entregá-lo, Jesus, sabendo que o Pai tudo lhe pusera nas mãos e que saíra de Deus e voltava para Deus, levanta-se, depõe as vestes, cinge-se com uma toalha, deita água numa bacia e começa a lavar os pés dos discípulos. Pedro resiste: “Tu lavares-me os pés? Não me lavarás jamais”. Jesus: “O que faço não compreendes agora, compreendê-lo-ás depois. Se eu não te lavar, não terás parte comigo”. Pedro: “Não só os pés, mas também as mãos e a cabeça”. Quem se banhou só precisa de lavar os pés; “vós estais limpos, mas não todos”, pois sabia quem o ia entregar. Retomando as vestes, explica: chamam-lhe Mestre e Senhor, e com razão; se Ele lhes lavou os pés, também eles devem lavá-los uns aos outros. Deu-lhes o exemplo. O servo não é maior que o seu senhor; felizes serão se o praticarem. Não fala de todos: há de cumprir-se a Escritura, “o que come o pão comigo levantou contra mim o calcanhar”. Di-lo antes, para que creiam; quem recebe o seu enviado recebe-o a Ele, e quem o recebe, recebe o Pai.",
+    "alegorico": "Depor as vestes é o Filho que, sendo de condição divina, se esvaziou; cingir-se com a toalha é assumir a forma de servo; a água na bacia é o sangue derramado na terra, que lava os pecados. O que tem tudo nas mãos lava não as mãos, mas os pés: realiza obra de servo quem saiu de Deus e para Ele volta. O banho é o batismo, que limpa o homem inteiro; os pés são os afetos humanos, que, ao andarmos no mundo, se sujam e precisam de ser lavados cada dia.",
+    "moral": "“Tu” e “me”: é melhor meditá-lo do que falar dele. Pedro, entre temor e amor, receou mais ficar sem Cristo do que vê-lo a seus pés. Cristo mostra-nos o maior para que façamos o menor: lavar os pés dos irmãos é servir, acolher, perdoar; quando o corpo se inclina aos pés do irmão, a humildade desperta ou cresce no coração. Saber o bem e não o fazer não traz felicidade, mas condenação: “bem-aventurados sereis se o praticardes”.",
+    "anagogico": "“Amou-os até ao fim”, isto é, até Ele próprio, para que também eles passassem deste mundo, pelo amor, para a sua Cabeça. A passagem de Jesus ao Pai abre aos discípulos o mesmo caminho: quem se deixa lavar por Ele “terá parte” com Ele na herança do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Sabendo Jesus que tinha chegado a sua hora de passar deste mundo ao Pai, tendo amado os seus, que estavam no mundo, amou-os até ao extremo. Levantou-se da mesa, depôs as vestes, e, pegando numa toalha, cingiu-se com ela. Começou a lavar os pés dos discípulos. Se eu não te lavar, não terás parte comigo. Dei-vos o exemplo, para que, como eu vos fiz, assim façais vós também.",
+    "meditatio_perguntas": [
+      "Deixo Jesus lavar-me os pés, ou resisto como Pedro, por orgulho disfarçado de respeito?",
+      "Que “pés” dos meus irmãos sou chamado a lavar esta semana?",
+      "Sei o que é bom; pratico-o?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te ajoelhaste diante dos teus discípulos, lava-me os pés sujos do caminho deste mundo, para que eu tenha parte contigo. Dá-me a humildade de me deixar servir por ti e de servir os meus irmãos como tu fizeste. Amém.",
+    "contemplatio_foco": { "texto": "tendo amado os seus, que estavam no mundo, amou-os até ao extremo.", "ref": "Jo 13,1" }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:1–5#4", "sintese": "“Até ao fim”, isto é, até Cristo, fim da Lei, para que também eles passassem pelo amor para a sua Cabeça." }
+      ],
+      "nota": { "texto": "Eis telos: “até ao fim” e “até ao extremo”, ao máximo. João abre aqui a segunda parte do Evangelho, o “Livro da Glória”.", "origem": "ia" }
+    },
+    "13:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:1–5#12", "sintese": "Tendo tudo nas mãos, lavou não as mãos, mas os pés: obra não de Senhor, mas de servo." }
+      ],
+      "nota": null
+    },
+    "13:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:1–5#15", "sintese": "Depôs as vestes ao esvaziar-se, cingiu-se ao tomar a forma de servo; a água é o sangue que lavou os pecados." }
+      ],
+      "nota": null
+    },
+    "13:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:6–11#1", "sintese": "Que significam “tu” e “me”? É melhor meditá-lo do que falar dele." }
+      ],
+      "nota": null
+    },
+    "13:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:6–11#15", "sintese": "Agitado por temor e amor, temia mais ser privado de Cristo do que vê-lo a seus pés." }
+      ],
+      "nota": null
+    },
+    "13:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:6–11#17", "sintese": "O batismo lava o homem inteiro; mas, vivendo no mundo, os afetos humanos, como pés, sujam-se na terra." }
+      ],
+      "nota": null
+    },
+    "13:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:12–20#6", "sintese": "Mostra o maior para que façamos o menor: Ele era o Senhor, nós servimos os nossos conservos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:12–20#10", "sintese": "Quando o corpo se inclina aos pés do irmão, a humildade desperta ou cresce no coração." }
+      ],
+      "nota": null
+    },
+    "13:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:12–20#14", "sintese": "Saber o bem e não o fazer não leva à felicidade, mas à condenação." }
+      ],
+      "nota": null
+    },
+    "13:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "13:12–20#21", "sintese": "Os escolhidos comiam o pão que é o Senhor; Judas comia o pão do Senhor contra o Senhor." }
+      ],
+      "nota": null
+    },
+    "13:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "13:12–20#24", "sintese": "Quem recebe o enviado de Jesus recebe Jesus, nele representado, e, recebendo Jesus, recebe o Pai." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

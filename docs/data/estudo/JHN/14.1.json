@@ -1,0 +1,75 @@
+{
+  "id": "JHN.14.1",
+  "livro": "JHN",
+  "titulo": "Eu sou o caminho, a verdade e a vida",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 14,1-14",
+  "ini": { "c": 14, "v": 1 },
+  "fim": { "c": 14, "v": 14 },
+  "liturgia": { "tema_central": "“Ninguém vai ao Pai senão por mim”: Cristo, caminho para a casa do Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus consola os discípulos: “Não se turbe o vosso coração. Credes em Deus, crede também em mim”. Na casa do Pai há muitas moradas; vai preparar-lhes um lugar e voltará para os levar consigo, para que onde Ele está estejam também eles. Diz que conhecem o caminho. Tomé objeta: “Não sabemos para onde vais; como podemos saber o caminho?”. Jesus responde: “Eu sou o caminho, a verdade e a vida; ninguém vai ao Pai senão por mim”. Se o conhecessem, conheceriam também o Pai; desde agora o conhecem e o viram. Filipe pede: “Mostra-nos o Pai, e isso nos basta”. Jesus: “Há tanto tempo que estou convosco, e não me conheces, Filipe? Quem me viu, viu o Pai”. Ele está no Pai e o Pai nele; as palavras que diz não são suas, é o Pai, que nele permanece, quem faz as obras. Creiam ao menos pelas obras. Quem crê nele fará as obras que Ele faz, e maiores ainda, porque vai para o Pai; e tudo o que pedirem em seu nome, Ele o fará, para que o Pai seja glorificado no Filho.",
+    "alegorico": "Muitas moradas e um só denário: um alegra-se mais que outro, mas todos com a mesma alegria, a visão do Criador. As moradas já estão preparadas pela predestinação, e Cristo prepara-as pela sua obra. Ele é o caminho por onde vamos, a verdade para onde vamos, a vida em que desejamos permanecer: os filósofos viram de longe a verdade e a vida, mas não acharam o caminho. Quem vê o Filho vê o Pai, porque o Pai está no Filho e o Filho no Pai, na unidade da mesma natureza.",
+    "moral": "A fé em Cristo e no Pai é mais forte do que tudo o que nos possa sobrevir. O caminho não nos leva por atalhos, a verdade não nos engana, a vida não nos deixa nas trevas. Na vida ativa Ele é o nosso caminho; na contemplativa, a nossa verdade; e em ambas a vida a que tendemos. Pedimos e não recebemos? Talvez peçamos mal; e Deus, por misericórdia, nega o que usaríamos mal. As obras maiores dos discípulos são também dele: ninguém se atribua o mérito.",
+    "anagogico": "“Mostra-nos o Pai, e isso nos basta”: à alegria de contemplar a face de Deus nada se pode acrescentar. Agora vivemos da fé; a visão é recompensa da fé, dada às almas purificadas. Cristo voltará para nos levar consigo, e então estaremos onde Ele está."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não se turbe o vosso coração. Credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas. Vou preparar um lugar para vós. Jesus disse-lhe: “Eu sou o caminho, a verdade e a vida; ninguém vai ao Pai senão por mim”. Filipe disse-lhe: “Senhor, mostra-nos o Pai, e isso nos basta”. Quem me viu, viu também o Pai.",
+    "meditatio_perguntas": [
+      "O que perturba hoje o meu coração, e que lugar dou à fé em Jesus no meio disso?",
+      "Procuro a verdade e a vida por outros atalhos, fora do caminho que é Cristo?",
+      "Quando olho para Jesus, reconheço nele o rosto do Pai?"
+    ],
+    "oratio_guia": "Senhor Jesus, caminho, verdade e vida, acalma o meu coração perturbado. Conduz-me por ti ao Pai, sem atalhos nem enganos. Mostra-me o Pai no teu rosto, e isso me basta. Amém.",
+    "contemplatio_foco": { "texto": "Eu sou o caminho, a verdade e a vida; ninguém vai ao Pai senão por mim.", "ref": "Jo 14,6" }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:1–4#1", "sintese": "A fé em mim e no Pai é mais forte do que tudo o que vos sobrevier." }
+      ],
+      "nota": null
+    },
+    "14:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:1–4#3", "sintese": "Muitas moradas e um só denário: um alegra-se mais que outro, mas todos com a mesma alegria da visão do Criador." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:1–4#11", "sintese": "As moradas preparadas pela predestinação, prepara-as Ele pela ação." }
+      ],
+      "nota": null
+    },
+    "14:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:5–7#2", "sintese": "Caminho por onde vais, verdade para onde vais, vida em que queres ficar; os filósofos viram o fim, não o caminho." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "14:5–7#3", "sintese": "O caminho não leva por atalhos, a verdade não engana, a vida não deixa nas trevas da morte." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:5–7#4", "sintese": "Na vida ativa é o caminho, na contemplativa a verdade; a ambas se une a vida do mundo futuro." }
+      ],
+      "nota": null
+    },
+    "14:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:8–11#1", "sintese": "À alegria de contemplar a face de Deus nada se acrescenta; podia ter dito: mostra-nos a ti mesmo." }
+      ],
+      "nota": null
+    },
+    "14:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:8–11#8", "sintese": "Queria que vivesse da fé antes de ver: a visão é recompensa da fé, dada às almas purificadas." }
+      ],
+      "nota": null
+    },
+    "14:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:12–14#3", "sintese": "Também as obras maiores são suas: “eu o farei”, para que ninguém se atribua o mérito." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "14:12–14#6", "sintese": "Pedimos e não recebemos? Talvez peçamos mal; Deus, por misericórdia, nega o que usaríamos mal." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

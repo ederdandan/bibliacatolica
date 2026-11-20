@@ -97,7 +97,7 @@ Itens originais desta fase:
 
 ### Fase 4: Expansão 🔄
 Ordem sugerida: Mateus, Lucas, João, Salmos, Atos, Cartas, demais livros do AT.
-Progresso: Mateus ✅ 107 · Lucas ✅ 78 · João 🔄 31/48 (`scripts/pericopes/JHN.txt` pronto; a Catena de JHN já usa a numeração de Matos Soares). Com Marcos (75), serão 308 perícopes.
+Progresso: Mateus ✅ 107 · Lucas ✅ 78 · João 🔄 35/48 (`scripts/pericopes/JHN.txt` pronto; a Catena de JHN já usa a numeração de Matos Soares). Com Marcos (75), serão 308 perícopes.
 Fora dos Evangelhos não há Catena. Opções: Haydock (1859, domínio público) ou deixar `[]`.
 
 ---
