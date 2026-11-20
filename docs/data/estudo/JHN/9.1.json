@@ -1,0 +1,121 @@
+{
+  "id": "JHN.9.1",
+  "livro": "JHN",
+  "titulo": "A cura do cego de nascença",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 9,1-41",
+  "ini": { "c": 9, "v": 1 },
+  "fim": { "c": 9, "v": 41 },
+  "liturgia": { "tema_central": "“Era cego, e agora vejo”: do lodo e de Siloé à fé que adora", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vê um cego de nascença. Os discípulos perguntam quem pecou, ele ou os pais. Jesus responde que nem um nem outros: é para que se manifestem nele as obras de Deus; enquanto é dia, Ele é a luz do mundo. Cospe no chão, faz lodo, unge-lhe os olhos e manda-o lavar-se na piscina de Siloé, que quer dizer Enviado. Ele vai, lava-se e volta a ver. Os vizinhos discutem se é o mesmo; ele diz: “Sou eu”, e conta o que Jesus fez. Levam-no aos fariseus; era sábado. Uns dizem que quem não guarda o sábado não é de Deus; outros, que um pecador não faria tais sinais. O homem diz: “É um profeta”. Chamam os pais, que, por medo de serem expulsos da sinagoga, respondem: “Tem idade, perguntai-lhe a ele”. Interrogam-no de novo: “Dá glória a Deus; sabemos que esse homem é pecador”. Ele responde: “Se é pecador, não sei; sei que era cego e agora vejo”. Quando insistem, pergunta se querem também ser discípulos dele. Injuriam-no e expulsam-no. Jesus encontra-o: “Tu crês no Filho do homem?”. “Quem é, Senhor?” “Tu o vês, é o que fala contigo.” “Creio, Senhor”, e adora-o. Jesus diz que veio para que os que não veem vejam e os que veem se tornem cegos; e aos fariseus: porque dizem “vemos”, o seu pecado permanece.",
+    "alegorico": "O cego de nascença é o género humano, que herdou de Adão a cegueira do pecado. O Verbo feito carne cospe na terra e faz lodo: a saliva que sai da cabeça unida à terra é a divindade unida à nossa carne. O ungido que ainda não vê é o catecúmeno, que crê sem conhecer plenamente; enviado a Siloé, o Enviado, é batizado em Cristo e iluminado. O caminho do cego, de “aquele homem” a “profeta”, até “Senhor” adorado, é o itinerário da fé batismal.",
+    "moral": "Nem toda a desgraça é castigo de um pecado pessoal: há golpes que preparam a manifestação das obras de Deus. O curado torna-se arauto da graça: não se envergonha da cegueira passada nem teme a fúria dos poderosos. A verdade torna forte o pequeno; a mentira torna fracos os fortes. Os pais calam por medo; o filho confessa e é expulso, mas a quem a sinagoga expulsa, Cristo acolhe. O pior cego é o que diz “vejo” e não deixa que o curem.",
+    "anagogico": "“Vem a noite, quando ninguém pode trabalhar”: o dia da presença de Cristo dura até ao fim do mundo, e é agora o tempo de obrar. A luz que o cego recebeu, e que culmina na adoração, antecipa a visão face a face, quando os que agora creem sem ver contemplarão aquele que lhes abriu os olhos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Passando Jesus, viu um homem cego de nascença. Enquanto estou no mundo, sou a luz do mundo. Cuspiu no chão, fez lodo com a saliva, e ungiu com o lodo os olhos do cego. Disse-lhe: “Vai, lava-te na piscina de Siloé (que quer dizer Enviado)”. Foi, lavou-se e voltou com vista. O que eu sei é que era cego, e agora vejo. Jesus disse-lhe: “Tu o vês, é aquele mesmo que fala contigo”. Então ele disse: “Creio, Senhor”. E, prostrando-se, o adorou.",
+    "meditatio_perguntas": [
+      "De que cegueira, que trago desde sempre, preciso que Jesus me cure?",
+      "Sei testemunhar com simplicidade o que Ele fez na minha vida, mesmo diante de quem me despreza?",
+      "Digo “eu vejo” com orgulho, ou deixo-me guiar até à fé que adora?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz do mundo, eu era cego desde o nascimento. Unge os meus olhos, envia-me a lavar-me em ti, o Enviado, e abre-me a vista. Dá-me a coragem de testemunhar o que fizeste e a humildade de te adorar dizendo: creio, Senhor. Amém.",
+    "contemplatio_foco": { "texto": "Creio, Senhor.", "ref": "Jo 9,38" }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:1–7#2", "sintese": "O cego é o género humano: a cegueira veio ao primeiro homem pelo pecado, e todos a herdamos de nascença." }
+      ],
+      "nota": null
+    },
+    "9:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "9:1–7#8", "sintese": "Há golpes para castigo, para correção, para prevenção, e outros para que a libertação inesperada desperte maior amor a Deus." }
+      ],
+      "nota": null
+    },
+    "9:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:1–7#13", "sintese": "O dia da presença de Cristo dura até ao fim do mundo: se trabalhamos agora, agora é dia." }
+      ],
+      "nota": null
+    },
+    "9:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:1–7#16", "sintese": "Faz lodo com a saliva porque é o Verbo feito carne; o ungido ainda não vê, como o catecúmeno, até ser lavado em Siloé." }
+      ],
+      "nota": null
+    },
+    "9:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:8–17#6", "sintese": "Figura do catecúmeno, que crê em Jesus mas ainda não o conhece por não estar lavado." }
+      ],
+      "nota": { "texto": "A piscina de Siloé recebia a água do túnel de Ezequias. Na festa dos Tabernáculos tirava-se dela a água para o altar (cf. Jo 7,37).", "origem": "ia" }
+    },
+    "9:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:8–17#3", "sintese": "Tornou-se arauto da graça, evangelista e testemunha; os ímpios enfureciam-se por não terem no coração o que nele brilhava no rosto." }
+      ],
+      "nota": null
+    },
+    "9:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:18–23#7", "sintese": "Ser expulso da sinagoga não era perda: a quem eles expulsavam, Cristo acolhia." }
+      ],
+      "nota": null
+    },
+    "9:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:24–34#1", "sintese": "“Dá glória a Deus” queria dizer: nega o benefício. Isso não é glorificar a Deus, mas blasfemar." }
+      ],
+      "nota": null
+    },
+    "9:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:24–34#7", "sintese": "A verdade torna forte o humilde que a abraça; a falsidade reduz os fortes à fraqueza." }
+      ],
+      "nota": null
+    },
+    "9:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:24–34#17", "sintese": "Fizeram-no mestre com tantas perguntas, e agora expulsam-no com ingratidão por ensinar." }
+      ],
+      "nota": null
+    },
+    "9:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:35–41#0", "sintese": "Expulso do Templo, é encontrado pelo Senhor do Templo, que o recebe como o juiz coroa o atleta." }
+      ],
+      "nota": { "texto": "Muitos manuscritos gregos trazem “Filho do homem”; a Vulgata e Matos Soares, “Filho de Deus”.", "origem": "ia" }
+    },
+    "9:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "9:35–41#4", "sintese": "Lavada a face do coração, reconhece-o como Filho de Deus: “creio” é pouco, e por isso o adora." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:35–41#5", "sintese": "Exemplo para não orarmos de cerviz erguida, mas prostrados, implorando misericórdia." }
+      ],
+      "nota": null
+    },
+    "9:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:35–41#10", "sintese": "Há dupla visão e dupla cegueira, dos sentidos e do entendimento: melhor lhes seria ser cegos do que ver como viam." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

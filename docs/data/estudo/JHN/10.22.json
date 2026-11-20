@@ -1,0 +1,86 @@
+{
+  "id": "JHN.10.22",
+  "livro": "JHN",
+  "titulo": "Eu e o Pai somos um",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 10,22-42",
+  "ini": { "c": 10, "v": 22 },
+  "fim": { "c": 10, "v": 42 },
+  "liturgia": { "tema_central": "“Ninguém as arrebatará da minha mão”: o Filho, um com o Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "É a festa da Dedicação, em Jerusalém, no inverno. Jesus passeia no Templo, no pórtico de Salomão. Os judeus rodeiam-no: “Se és o Cristo, di-lo claramente”. Ele responde que já o disse e não creem; as obras que faz em nome do Pai dão testemunho dele. Mas não creem porque não são das suas ovelhas. As suas ovelhas ouvem a sua voz, Ele conhece-as e elas seguem-no; dá-lhes a vida eterna, nunca perecerão, e ninguém as arrebatará da sua mão, nem da mão do Pai, que é maior que todas as coisas. “Eu e o Pai somos um.” Pegam em pedras. Jesus pergunta por qual das obras boas o apedrejam. Respondem: por blasfémia, porque, sendo homem, se faz Deus. Ele recorda o Salmo: “Vós sois deuses”, dito àqueles a quem a palavra de Deus foi dirigida; como acusam de blasfémia aquele que o Pai santificou e enviou, por dizer “Sou Filho de Deus”? Se não crerem nele, creiam nas obras, para saberem que o Pai está nele e Ele no Pai. Procuram prendê-lo, mas Ele escapa. Retira-se para além do Jordão, onde João começara a batizar. Muitos dizem: João não fez nenhum sinal, mas tudo o que disse deste era verdade. E muitos creem nele.",
+    "alegorico": "A festa da Dedicação recordava a purificação do Templo profanado; mas o verdadeiro templo dedicado é aquele que o Pai santificou e enviou. “Um” refuta o ariano, que nega a igualdade; “somos” refuta o sabeliano, que confunde as pessoas: há o Pai e o Filho, e são um na natureza. A mão do Filho e a mão do Pai são a mesma, porque o poder é um só. Os judeus entenderam o que os arianos não entendem: que Ele se dizia igual ao Pai.",
+    "moral": "O inverno corresponde aos corações frios dos que rodeiam Jesus não para crer, mas para o apanhar. Também nós, no inverno deste mundo, devemos celebrar a dedicação do templo interior, renovando-nos e elevando o coração. Prender Cristo pela violência é inútil; prendamo-lo com a mão da fé, para o possuir com segurança. A pergunta “se és o Cristo, di-lo” não nasce do desejo de crer, mas do de acusar: a fé verdadeira escuta antes de exigir.",
+    "anagogico": "“Eu dou-lhes a vida eterna; elas jamais hão de perecer”: esta é a pastagem prometida, cuja erva não seca. Nenhum lobo, nenhuma morte pode arrebatar das mãos do Pai e do Filho as ovelhas que o seguem; a sua segurança não está na sua força, mas na mão que as segura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Celebrava-se em Jerusalém a festa da dedicação. Era inverno. As minhas ovelhas ouvem a minha voz; eu conheço-as, e elas seguem-me. Eu dou-lhes a vida eterna; elas jamais hão-de perecer, e ninguém as arrebatará da minha mão. Eu e o Pai somos um. Se as faço, crede nas minhas obras, para que saibais e reconheçais que o Pai está em mim, e eu no Pai.",
+    "meditatio_perguntas": [
+      "Sinto-me seguro na mão do Pastor, ou vivo como se tudo dependesse de mim?",
+      "Peço a Jesus sinais “claros” para crer, ou escuto a sua voz?",
+      "Há inverno no meu coração? Como posso renovar o templo interior?"
+    ],
+    "oratio_guia": "Senhor Jesus, um com o Pai, guarda-me na tua mão, de onde ninguém me pode arrebatar. Aquece o meu coração frio e renova o templo da minha alma. Que eu ouça a tua voz, te siga e receba de ti a vida eterna. Amém.",
+    "contemplatio_foco": { "texto": "Eu e o Pai somos um.", "ref": "Jo 10,30" }
+  },
+  "ancoras": {
+    "10:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:22–30#5", "sintese": "O inverno correspondia aos corações frios e maldosos dos judeus." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:22–30#8", "sintese": "No inverno deste mundo, celebra a dedicação do teu templo espiritual, renovando-te e elevando o coração." }
+      ],
+      "nota": { "texto": "A Dedicação (Hanucá) recordava a purificação do Templo por Judas Macabeu em 164 a.C., depois da profanação de Antíoco IV (1Mc 4,36-59).", "origem": "ia" }
+    },
+    "10:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:22–30#9", "sintese": "Frios no amor e ardentes na malevolência, aproximaram-se dele não para o honrar, mas para o perseguir." }
+      ],
+      "nota": null
+    },
+    "10:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:22–30#18", "sintese": "A vida eterna é a boa pastagem prometida: a sua erva não seca, tudo ali verdeja." }
+      ],
+      "nota": null
+    },
+    "10:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:22–30#25", "sintese": "“Um” refuta o ariano, “somos” refuta o sabeliano: há Pai e Filho, sem diferença de natureza." }
+      ],
+      "nota": null
+    },
+    "10:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:31–38#4", "sintese": "Os judeus entenderam o que os arianos não entendem: que Ele afirmava a igualdade do Pai e do Filho." }
+      ],
+      "nota": null
+    },
+    "10:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:31–38#7", "sintese": "Chama “Lei” a todas as Escrituras: “Vós sois deuses” foi dito pelo profeta no Salmo." }
+      ],
+      "nota": { "texto": "O Salmo 81(82),6 chama “deuses” aos juízes de Israel, que exerciam a justiça em nome de Deus. Se a eles se aplica o título, quanto mais ao Filho enviado pelo Pai.", "origem": "ia" }
+    },
+    "10:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:39–42#1", "sintese": "Queriam prendê-lo com violência, não com a fé; prende-o tu com a mão da fé, para o possuíres com segurança." }
+      ],
+      "nota": null
+    },
+    "10:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:39–42#6", "sintese": "Apegaram-se a Ele enquanto ali permanecia; cheguemos ao dia guiados pela lâmpada, que é João, testemunha do dia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "JHN.10.1",
+  "livro": "JHN",
+  "titulo": "O Bom Pastor",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 10,1-21",
+  "ini": { "c": 10, "v": 1 },
+  "fim": { "c": 10, "v": 21 },
+  "liturgia": { "tema_central": "“Eu sou o bom pastor; o bom pastor dá a vida pelas suas ovelhas”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus diz que quem não entra pela porta no redil, mas sobe por outra parte, é ladrão e salteador; quem entra pela porta é o pastor: o porteiro abre-lhe, as ovelhas ouvem a sua voz, Ele chama-as pelo nome, leva-as para fora e vai à frente, e elas seguem-no porque conhecem a sua voz; ao estranho não seguem. Não compreendem a alegoria. Jesus explica: “Eu sou a porta das ovelhas”; os que vieram antes eram ladrões, mas as ovelhas não os ouviram. Quem entrar por Ele será salvo, entrará, sairá e encontrará pastagem. O ladrão vem para roubar, matar e destruir; Ele veio para que tenham vida em abundância. “Eu sou o bom pastor”: dá a vida pelas ovelhas. O mercenário, a quem as ovelhas não pertencem, foge quando vê o lobo. Ele conhece as suas ovelhas e elas conhecem-no, como o Pai o conhece e Ele conhece o Pai. Tem outras ovelhas que não são deste redil; também essas ouvirão a sua voz, e haverá um só rebanho e um só pastor. O Pai ama-o porque dá a vida para a retomar: ninguém lha tira, Ele dá-a por si. Os judeus dividem-se: uns dizem que tem demónio; outros, que um demónio não abre os olhos aos cegos.",
+    "alegorico": "Cristo é ao mesmo tempo a Porta e o Pastor: só por Ele se entra no redil, que é a Igreja. Os profetas não vieram “fora” dele, mas com Ele, porque o Verbo os enviava; ladrões são os que vieram fora de Cristo. Ele vai à frente das ovelhas: ressuscitado, abre o caminho que elas seguem. As outras ovelhas são os gentios: de dois rebanhos faz um só, com um só sinal, o batismo, e um só Pastor.",
+    "moral": "Entra pela porta quem imita a humildade de Cristo: se Deus se fez homem, o homem não se julgue deus. Bons pastores são os que deram o sangue não por soberba, mas por amor às ovelhas. É mercenário quem apascenta pelo ganho temporal e foge quando vem o lobo. Devemos amar o pastor, guardar-nos do lobo, tolerar o mercenário. Conhecer o Pastor é amá-lo: quem não ama a verdade ainda não a conheceu.",
+    "anagogico": "“Entrará”, na fé; “sairá”, para a visão; “e encontrará pastagem”, na plenitude eterna. O Pastor que dá a vida e a retoma conduz o rebanho, judeus e gentios, para a pastagem onde já não há lobo nem mercenário, e onde a vida é abundante para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "As ovelhas ouvem a sua voz, ele as chama pelo seu nome, e as tira para fora. Vai adiante delas, e as ovelhas seguem-no, porque conhecem a sua voz. Eu sou a porta; se alguém entrar por mim, será salvo. Eu vim para que elas tenham vida e estejam na abundância. Eu sou o bom pastor. O bom pastor expõe a sua vida pelas suas ovelhas. Conheço as minhas ovelhas, e as minhas ovelhas conhecem-me.",
+    "meditatio_perguntas": [
+      "Reconheço a voz do Pastor no meio de tantas vozes estranhas?",
+      "Deixo-me chamar pelo nome e conduzir por Ele, ou prefiro ir à minha frente?",
+      "Onde sou chamado a ser pastor, e não mercenário, para os que me foram confiados?"
+    ],
+    "oratio_guia": "Senhor Jesus, bom Pastor, que deste a vida por mim, chama-me pelo nome e vai à minha frente. Ensina-me a reconhecer a tua voz e a fugir da voz do estranho. Faz-me entrar por ti, a Porta, e encontrar em ti a vida em abundância. Amém.",
+    "contemplatio_foco": { "texto": "Eu sou o bom pastor. O bom pastor expõe a sua vida pelas suas ovelhas.", "ref": "Jo 10,11" }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:1–5#3", "sintese": "Entra pela porta quem imita a humildade de Cristo: se Deus se fez homem, o homem não se julgue deus." }
+      ],
+      "nota": null
+    },
+    "10:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:1–5#12", "sintese": "Os pastores vão atrás das ovelhas; Ele vai à frente, para conduzir todos à verdade." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:1–5#13", "sintese": "Vai à frente o Ressuscitado que já não morre e quer que, onde Ele está, estejam os seus." }
+      ],
+      "nota": null
+    },
+    "10:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:6#0", "sintese": "O Senhor alimenta com palavras claras e exercita com palavras obscuras." }
+      ],
+      "nota": null
+    },
+    "10:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:7–10#3", "sintese": "Ladrões são os que vieram fora dele; os profetas vieram com Ele, enviados pelo Verbo." }
+      ],
+      "nota": null
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:7–10#10", "sintese": "Entrará na fé, sairá para a visão, e encontrará pastagem na plenitude eterna." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:7–10#6", "sintese": "Entrar é a reflexão interior; sair é a ação exterior, como o homem que sai para o seu trabalho." }
+      ],
+      "nota": null
+    },
+    "10:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:11–13#3", "sintese": "Bons pastores não por derramarem o sangue, mas por o derramarem pelas ovelhas, por amor e não por soberba." }
+      ],
+      "nota": { "texto": "O grego diz “o pastor belo” (kalos): bom, nobre, verdadeiro. A imagem cumpre Ez 34, onde Deus promete apascentar Ele mesmo o seu rebanho.", "origem": "ia" }
+    },
+    "10:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:11–13#5", "sintese": "É mercenário quem apascenta o rebanho do Senhor pela paga temporal, e não por amor." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:11–13#14", "sintese": "Amar o pastor, guardar-se do lobo, tolerar o mercenário: útil até ver o lobo; então foge." }
+      ],
+      "nota": null
+    },
+    "10:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:14–21#1", "sintese": "Amo as minhas ovelhas e elas amam-me: quem não ama a verdade ainda não a conheceu." }
+      ],
+      "nota": null
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:14–21#10", "sintese": "De dois rebanhos faz um só, unindo judeus e gentios na sua fé." }
+      ],
+      "nota": null
+    },
+    "10:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:14–21#14", "sintese": "Grande força há em “dou”: enfureçam-se os judeus; se Ele não quiser dar a vida, de que lhes serve a fúria?" }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
