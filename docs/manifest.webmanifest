@@ -1,7 +1,7 @@
 {
-  "name": "Bíblia Católica — Matos Soares",
-  "short_name": "Bíblia",
-  "description": "Bíblia Sagrada católica (73 livros) para ler, pesquisar, marcar e anotar. Funciona offline.",
+  "name": "Estudo Bíblico Católico",
+  "short_name": "Estudo Bíblico",
+  "description": "Estudo bíblico católico: Bíblia Sagrada (73 livros, Matos Soares) com estudo por perícopes e Lectio Divina. Funciona offline.",
   "lang": "pt-BR",
   "id": "./",
   "start_url": "./",

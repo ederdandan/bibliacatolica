@@ -233,7 +233,7 @@ function parseHash() {
 
 function setView(name, title, tab) {
   body.dataset.view = name;
-  document.title = title ? `${title} · Bíblia Católica` : 'Bíblia Católica';
+  document.title = title ? `${title} · Estudo Bíblico Católico` : 'Estudo Bíblico Católico';
   $$('#tabbar a').forEach((a) => a.toggleAttribute('aria-current', a.dataset.tab === tab));
   $$('#tabbar a[aria-current]').forEach((a) => a.setAttribute('aria-current', 'page'));
   $('#ref-btn').hidden = name !== 'reader';

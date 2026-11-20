@@ -1,6 +1,6 @@
-# Bíblia Católica — PWA
+# Estudo Bíblico Católico — PWA
 
-Site e aplicativo (PWA) da Bíblia Sagrada católica, 73 livros, tradução do Pe. Manuel de Matos Soares.
+Site e aplicativo (PWA) de estudo bíblico católico: a Bíblia Sagrada, 73 livros, tradução do Pe. Manuel de Matos Soares, com estudo por perícopes (quatro sentidos da Escritura e Lectio Divina).
 Funciona offline, pode ser instalado no celular ou no computador e roda no GitHub Pages sem build.
 
 Texto: [bibliacatolica/biblia](https://github.com/bibliacatolica/biblia) (CC0 / domínio público).

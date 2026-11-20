@@ -133,13 +133,14 @@ h1, h2, h3 { font-family: var(--font-head); font-weight: var(--head-weight); lin
   font-family: var(--font-head); font-weight: var(--head-weight); font-size: 1.05rem; white-space: nowrap; min-width: 0;
 }
 .brand img { border-radius: 8px; }
+.brand-name { overflow: hidden; text-overflow: ellipsis; }
 .ref-btn {
   display: inline-flex; align-items: center; gap: 6px; min-height: 44px; padding: 0 16px;
   border: 0; border-radius: 22px; background: var(--surface); color: var(--text);
   font-weight: 700; min-width: 0; max-width: 52vw; box-shadow: var(--soft-shadow);
 }
 .ref-btn span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-body[data-view='reader'] .brand-name { display: none; }
+body[data-view='reader'] .brand-name, body[data-view='study'] .brand-name { display: none; }
 .top-actions { margin-left: auto; display: flex; align-items: center; gap: 4px; }
 body:not([data-view='reader']) .reader-only { display: none; }
 body[data-view='study'] #display-btn { display: inline-flex; }
