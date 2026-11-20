@@ -1,0 +1,75 @@
+{
+  "id": "MRK.11.12",
+  "livro": "MRK",
+  "titulo": "A figueira estéril e a purificação do Templo",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 11,12-26",
+  "ini": { "c": 11, "v": 12 },
+  "fim": { "c": 11, "v": 26 },
+  "liturgia": { "tema_central": "Casa de oração para todos os povos: fé que move montes e perdão que abre o coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Novo “sanduíche” de Marcos: a maldição da figueira (v. 12-14) e a sua secura (v. 20-21) envolvem a purificação do Templo (v. 15-19), e uma cena explica a outra. A figueira tem folhas, mas não frutos; o Templo tem culto exuberante, mas não o fruto da oração e da justiça. Jesus expulsa vendedores e cambistas do átrio dos gentios, único espaço onde os pagãos podiam rezar, e cita Is 56,7 (“casa de oração para todos os povos”) e Jr 7,11 (“covil de ladrões”). Os chefes decidem matá-lo. Diante da figueira seca, Jesus ensina a fé que move montes, a oração confiante e o perdão como condição para ser perdoado.",
+    "alegorico": "A figueira coberta de folhas e sem fruto figura a sinagoga e todo culto que tem aparência de religião sem frutos de conversão. Assim como fala em parábolas, Jesus age por parábolas: a figueira não tinha culpa, mas serviu de sinal do juízo sobre Jerusalém. A purificação do Templo anuncia o novo Templo, o Corpo de Cristo, e a Igreja, casa de oração para todos os povos. O monte lançado ao mar foi lido como a soberba do diabo, removida pela fé.",
+    "moral": "Deus procura frutos, não apenas folhas: uma vida religiosa de aparências não basta. Vendem as “pombas”, isto é, os dons do Espírito Santo, os que comercializam as coisas santas; e também quem entrega ao diabo a graça do Batismo pelo pecado. A nossa alma é templo de Deus e deve ser purificada de toda avareza. A oração verdadeira é feita com fé sem hesitação e com o coração reconciliado: quem não perdoa não pode ser perdoado.",
+    "anagogico": "A figueira seca desde a raiz é advertência do juízo definitivo sobre quem não dá fruto. Mas a promessa de que tudo o que se pede com fé será concedido aponta para a plenitude da oração atendida no Reino, onde todos os povos adorarão a Deus na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus tem fome e, vendo uma figueira com folhas, procura frutos; não encontra e diz: “Nunca mais alguém coma fruto de ti”. Em Jerusalém, expulsa os que vendiam e compravam no Templo e derruba as mesas dos cambistas, dizendo: “A minha casa será chamada casa de oração para todos os povos, mas vós fizestes dela um covil de ladrões”. No dia seguinte, a figueira está seca desde a raiz. Jesus diz: “Tende fé em Deus”; tudo o que pedirdes na oração, crede que o recebereis; e, ao orar, perdoai, para que o Pai vos perdoe.",
+    "meditatio_perguntas": [
+      "A minha vida cristã tem “folhas” (aparências) ou também frutos?",
+      "O que, no templo do meu coração, Jesus precisa derrubar e expulsar?",
+      "Há alguém a quem ainda não perdoei, e isso bloqueia a minha oração?"
+    ],
+    "oratio_guia": "Senhor Jesus, purifica o templo do meu coração. Livra-me de uma religião de folhas sem frutos. Dá-me uma fé que não hesita e um coração que perdoa, para que a minha oração suba a ti como a de um filho. Amém.",
+    "contemplatio_foco": { "texto": "A minha casa será chamada casa de oração para todas as gentes.", "ref": "Mc 11,17" }
+  },
+  "ancoras": {
+    "11:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:11–14#5", "sintese": "Como fala em parábolas, também as suas ações são parábolas: sabendo que não era tempo de figos, condena a figueira para significar a sinagoga, que tinha folhas sem frutos." }
+      ],
+      "nota": { "texto": "Em abril, a figueira já pode ter brotos comestíveis (pagim) junto às folhas. Folhas sem nenhum broto indicavam árvore estéril.", "origem": "ia" }
+    },
+    "11:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:15–18#0", "sintese": "O que fez em figura ao amaldiçoar a figueira mostra agora abertamente, expulsando os ímpios do Templo." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:15–18#2", "sintese": "Como o Espírito apareceu em forma de pomba, as pombas designam os seus dons; vende a pomba quem impõe as mãos por dinheiro." }
+      ],
+      "nota": { "texto": "Os cambistas trocavam moedas romanas e gregas pela moeda de Tiro, usada para o imposto do Templo. As pombas eram a oferta dos pobres (Lv 5,7).", "origem": "ia" }
+    },
+    "11:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:15–18#6", "sintese": "Diz “para todas as nações”, não só para os judeus; e não “casa de touros e carneiros”, mas “de oração”." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:15–18#8", "sintese": "A mente e a consciência dos fiéis são templo de Deus; não deve haver nela comércio de avareza." }
+      ],
+      "nota": null
+    },
+    "11:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:19–26#4", "sintese": "Secou desde as raízes para mostrar que a nação ímpia não seria ferida só por algum tempo e em parte, mas para sempre." }
+      ],
+      "nota": null
+    },
+    "11:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:19–26#11", "sintese": "O diabo é chamado monte pela sua soberba; pela palavra dos fortes na fé, é erguido da terra e lançado ao mar." },
+        { "autor": "Teofilato", "obra": null, "catena": "11:19–26#7", "sintese": "A misericórdia divina nos concede, se nos aproximamos com fé, o poder que Ele possui por natureza." }
+      ],
+      "nota": null
+    },
+    "11:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "11:19–26#13", "sintese": "Marcos resumiu numa frase as sete petições da oração do Senhor: que mais pode pedir quem foi perdoado, senão perseverar?" },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:19–26#14", "sintese": "Quem tem fé perfeita, que age pela caridade, pode remover montes espirituais pela oração." }
+      ],
+      "nota": { "texto": "O v. 26 falta em muitos manuscritos antigos, mas está na Vulgata e reflete Mt 6,15.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

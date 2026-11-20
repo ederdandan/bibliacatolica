@@ -1,0 +1,78 @@
+{
+  "id": "MRK.7.1",
+  "livro": "MRK",
+  "titulo": "As tradições humanas e a verdadeira pureza",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 7,1-23",
+  "ini": { "c": 7, "v": 1 },
+  "fim": { "c": 7, "v": 23 },
+  "liturgia": { "tema_central": "O que torna o homem impuro sai do coração: a religião verdadeira é a do coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Fariseus e escribas de Jerusalém criticam os discípulos por comerem sem as abluções rituais prescritas pela “tradição dos antigos”, a lei oral, não pela Lei de Moisés. Marcos explica esses costumes aos seus leitores não judeus. Jesus cita Is 29,13 e denuncia o culto de lábios. Dá um exemplo: pelo “Corbã” (oferta consagrada ao Templo), um filho podia subtrair os seus bens ao sustento dos pais, anulando o quarto mandamento. Depois ensina à multidão que o que contamina não é o que entra, mas o que sai do coração. Marcos comenta: “Com isto declarava puros todos os alimentos”. Segue uma lista de doze vícios.",
+    "alegorico": "Cristo, Legislador divino, revela a intenção profunda da Lei, que a interpretação carnal ocultara. A purificação exterior era figura da purificação do coração que Ele traz pelo Batismo e pelo Espírito. Declarar puros todos os alimentos prepara a abertura aos gentios (cf. At 10,15): os discípulos que comem sem abluções figuram a futura comunhão dos gentios com os apóstolos.",
+    "moral": "Deus quer o coração, não apenas os lábios. Toda prática religiosa exterior vale se exprime amor interior, e torna-se hipocrisia quando o substitui. Nenhuma devoção dispensa os deveres de justiça e caridade, como o cuidado dos pais idosos. A fonte do mal está no coração humano: o diabo pode incitar os maus pensamentos, mas não é o seu autor, pois nascem da nossa vontade. A conversão começa por dentro.",
+    "anagogico": "“Bem-aventurados os puros de coração, porque verão a Deus” (Mt 5,8): a pureza interior é a condição para a visão de Deus. As purificações exteriores passarão; o coração purificado pela graça permanecerá para sempre diante de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fariseus e escribas de Jerusalém veem os discípulos comerem sem lavar as mãos segundo a tradição dos antigos e questionam Jesus. Ele responde com Isaías: “Este povo me honra com os lábios, mas o seu coração está longe de mim”. Acusa-os de anular o mandamento de honrar pai e mãe pela tradição do Corbã. Depois ensina que nada do que entra no homem o torna impuro, mas o que sai do seu coração: maus pensamentos, roubos, adultérios, inveja, soberba e outros males.",
+    "meditatio_perguntas": [
+      "A minha oração e prática religiosa nascem do coração, ou ficam só nos lábios?",
+      "Uso alguma “devoção” como desculpa para descuidar dos meus deveres com os outros?",
+      "Que males, da lista de Jesus, percebo saindo do meu coração?"
+    ],
+    "oratio_guia": "Senhor Jesus, cria em mim um coração puro. Não permitas que eu te honre só com os lábios. Purifica a fonte dos meus pensamentos e desejos, para que de mim saiam só palavras e obras de amor. Amém.",
+    "contemplatio_foco": { "texto": "Este povo honra-me com os lábios, mas o seu coração está longe de mim.", "ref": "Mc 7,6" }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 29", "catena": "7:1–13#0", "sintese": "Os de Genesaré, gente simples, trazem os enfermos para tocar a orla da veste; os fariseus e escribas, que deveriam ser mestres do povo, vêm só para discutir." }
+      ],
+      "nota": null
+    },
+    "7:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:1–13#2", "sintese": "Tomando em sentido carnal as palavras espirituais dos profetas, como “Lavai-vos, purificai-vos” (Is 1,16), lavavam só o corpo, quando se tratava da purificação do coração e das obras." }
+      ],
+      "nota": { "texto": "A “tradição dos antigos” era a lei oral dos fariseus, mais tarde codificada na Mishná. As abluções antes das refeições eram exigidas pela Lei só aos sacerdotes.", "origem": "ia" }
+    },
+    "7:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:1–13#8", "sintese": "Nas Escrituras, honrar não é tanto saudar quanto dar esmolas e oferecer dons: “Honra as viúvas que são verdadeiramente viúvas” (1Tm 5,3)." }
+      ],
+      "nota": null
+    },
+    "7:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:1–13#10", "sintese": "Os fariseus, querendo as ofertas, ensinavam os filhos a responder aos pais: o que me pedes é corbã, já o ofereci ao Senhor." }
+      ],
+      "nota": { "texto": "“Corbã” é palavra hebraica que significa “oferta” consagrada a Deus. A declaração tornava o bem indisponível para outros usos, como o sustento dos pais.", "origem": "ia" }
+    },
+    "7:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:14–23#1", "sintese": "Ensinava que as observâncias da lei sobre os alimentos não deviam ser entendidas carnalmente, e começou a revelar a intenção da lei." }
+      ],
+      "nota": null
+    },
+    "7:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:14–23#6", "sintese": "Nem o oferecido aos ídolos é impuro enquanto alimento e criatura de Deus; o que mancha é a invocação dos ídolos." }
+      ],
+      "nota": { "texto": "A observação de Marcos (“declarava puros todos os alimentos”) foi decisiva para a Igreja primitiva acolher os gentios (cf. At 10,9-16; Rm 14,14).", "origem": "ia" }
+    },
+    "7:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:14–23#11", "sintese": "São condenados os que supõem que os maus pensamentos vêm do diabo e não da própria vontade: o diabo pode excitá-los, mas não ser o seu autor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

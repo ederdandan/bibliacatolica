@@ -1,0 +1,81 @@
+{
+  "id": "MRK.6.14",
+  "livro": "MRK",
+  "titulo": "A morte de João Batista",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,14-29",
+  "ini": { "c": 6, "v": 14 },
+  "fim": { "c": 6, "v": 29 },
+  "liturgia": { "tema_central": "O Precursor dá a vida pela verdade e anuncia a Paixão do Senhor", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A fama de Jesus chega a Herodes Antipas, tetrarca da Galileia, que o povo chamava “rei”. As opiniões sobre Jesus (João ressuscitado, Elias, um profeta) antecipam a confissão de Pedro (8,28). Em flashback, Marcos narra a morte de João, que denunciara o casamento ilícito de Herodes com Herodíades, mulher de seu irmão (Lv 18,16). Herodes respeitava João e o ouvia, perplexo, mas a fraqueza, o juramento imprudente e o respeito humano o levaram a mandar decapitá-lo durante um banquete. Os discípulos de João recolhem o corpo e o sepultam. Segundo Flávio Josefo, João morreu na fortaleza de Maqueronte.",
+    "alegorico": "A morte de João, o Precursor, antecipa a de Jesus: ambos são entregues por um governante fraco que reconhece a sua inocência, e ambos são sepultados pelos discípulos. João precede Cristo no nascimento, na pregação e na morte. Os Padres viram na cabeça cortada a profecia separada do seu corpo, a Lei, e na moça o povo que recebe a Palavra, enquanto a sinagoga permanece presa à letra.",
+    "moral": "Herodes mostra como uma falta menor leva a outra maior: a luxúria o fez esquecer o respeito que tinha por João. O respeito humano e um juramento ímpio não justificam um crime; melhor seria quebrar o juramento que cometer tal pecado. João é modelo de coragem: diz a verdade aos poderosos sem medo. Herodes ouvia com gosto a Palavra, mas não se convertia: escutar sem mudar de vida não salva.",
+    "anagogico": "É mais proveitoso recordar com temor o dia da morte do que celebrar com luxo o dia do nascimento. João, morto pela verdade, vive em Deus, e a sua morte é o seu nascimento para o céu. A Igreja celebra o seu martírio na esperança de que a fidelidade até o sangue recebe a coroa eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Herodes ouve falar de Jesus e pensa que é João Batista ressuscitado, a quem mandara degolar. João fora preso por dizer a Herodes que não lhe era lícito ter a mulher de seu irmão. Herodíades o odiava, mas Herodes o respeitava e o ouvia de boa vontade. No banquete de aniversário, a filha de Herodíades dança, e Herodes jura dar-lhe o que pedir. A mãe pede a cabeça de João. O rei se entristece, mas, por causa do juramento e dos convidados, manda degolá-lo. Os discípulos sepultam o corpo.",
+    "meditatio_perguntas": [
+      "Tenho a coragem de João para dizer a verdade, mesmo quando custa?",
+      "Como Herodes, ouço a Palavra com gosto, mas adio a conversão?",
+      "Que respeito humano me leva a fazer o que sei que é errado?"
+    ],
+    "oratio_guia": "Senhor Jesus, que deste a São João Batista a graça de morrer pela verdade, dá-me a coragem de ser fiel. Livra-me da fraqueza de Herodes, que ouvia sem se converter, e do respeito humano. Que eu prepare os teus caminhos com a palavra e com a vida. Amém.",
+    "contemplatio_foco": { "texto": "Não te é lícito ter a mulher de teu irmão.", "ref": "Mc 6,18" }
+  },
+  "ancoras": {
+    "6:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 25", "catena": "6:14–16#3", "sintese": "Quão grande a inveja: creem que João, que não fez milagre algum, ressuscitou sem testemunho; mas não creem na ressurreição de Jesus, aprovado por sinais e anunciada por anjos e apóstolos." }
+      ],
+      "nota": { "texto": "Herodes Antipas, filho de Herodes, o Grande, era tetrarca da Galileia e da Pereia (4 a.C. a 39 d.C.). “Rei” era título popular.", "origem": "ia" }
+    },
+    "6:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "6:14–16#5", "sintese": "O “profeta” é aquele anunciado por Moisés (Dt 18,15); diziam a verdade, mas por medo dos chefes não diziam abertamente: este é o Cristo." }
+      ],
+      "nota": null
+    },
+    "6:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:17–29#5", "sintese": "Vê o furor da luxúria: embora tivesse tanto respeito e temor por João, Herodes esquece tudo para servir à sua paixão." },
+        { "autor": "São Remígio", "obra": null, "catena": "6:17–29#6", "sintese": "Uma falta menor tornou-se para ele causa de outra maior: o que é imundo torne-se ainda mais imundo (Ap 22,11)." }
+      ],
+      "nota": null
+    },
+    "6:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:17–29#7", "sintese": "Só de Herodes e do faraó lemos que celebraram o aniversário com festas, e ambos o mancharam de sangue; Herodes com maior maldade, matando o santo mestre da verdade." }
+      ],
+      "nota": null
+    },
+    "6:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:17–29#12", "sintese": "Não sendo senhor de si, cumpriu o juramento e matou o justo; teria sido melhor quebrar o juramento que cometer pecado tão grande." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:17–29#9", "sintese": "O juramento não escusa o assassinato: se ela tivesse pedido a morte do pai ou da mãe dele, certamente não a teria concedido." }
+      ],
+      "nota": null
+    },
+    "6:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. III, 7", "catena": "6:17–29#16", "sintese": "Espanta que o maior entre os nascidos de mulher, cheio do Espírito desde o seio materno, seja decapitado pela dança de uma moça; Deus permite que os seus sejam abatidos aqui para elevá-los à glória." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:17–29#15", "sintese": "É mais proveitoso recordar com temor o dia futuro da nossa morte do que celebrar com luxo o dia do nascimento." }
+      ],
+      "nota": null
+    },
+    "6:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:17–29#17", "sintese": "Josefo refere que João foi morto na fortaleza de Maqueronte; a história eclesiástica diz que foi sepultado em Sebaste, na Palestina." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

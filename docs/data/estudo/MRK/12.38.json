@@ -1,0 +1,72 @@
+{
+  "id": "MRK.12.38",
+  "livro": "MRK",
+  "titulo": "Os escribas e a oferta da viúva pobre",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,38-44",
+  "ini": { "c": 12, "v": 38 },
+  "fim": { "c": 12, "v": 44 },
+  "liturgia": { "tema_central": "Deus olha o coração: a viúva pobre deu tudo o que tinha para viver", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus denuncia os escribas que buscam prestígio (roupas vistosas, saudações, primeiros lugares) e exploram as viúvas sob pretexto de longas orações; serão julgados com mais rigor. Em contraste, sentado diante do tesouro do Templo, onde havia treze cofres em forma de trombeta para as ofertas, Jesus observa uma viúva pobre lançar duas pequenas moedas (leptá), a menor moeda em circulação, um quarto de asse. Chama os discípulos e declara que ela deu mais que todos, porque deu “tudo o que tinha para viver”. A viúva, figura dos mais desprotegidos na Escritura, contrasta com os escribas que “devoram as casas das viúvas”.",
+    "alegorico": "A viúva pobre que dá toda a sua vida é figura de Cristo, que dias depois dará tudo na Cruz. É também imagem da Igreja, pobre e humilde, que oferece a Deus as duas moedas da fé e do amor, ou do amor a Deus e ao próximo. Os ricos que dão do supérfluo figuram os que se gloriam da justiça da Lei.",
+    "moral": "Deus não mede a quantidade, mas o amor e o sacrifício. Dar do supérfluo é fácil; dar do necessário revela confiança total em Deus. A advertência contra os escribas vale para todo ministério na Igreja: a vaidade, a busca de honras e a exploração dos fracos sob aparência de piedade são graves. Os lugares de honra não são proibidos aos que os ocupam por ofício, mas o seu amor é condenável.",
+    "anagogico": "Diante do olhar de Deus, no Juízo, as medidas do mundo se invertem: a pobre viúva será grande e os vaidosos serão julgados com mais rigor. Quem entrega tudo nas mãos de Deus encontra nele o tesouro que não se perde."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus ensina: “Guardai-vos dos escribas, que gostam de andar com roupas largas, ser saudados nas praças, ocupar os primeiros lugares, e que devoram as casas das viúvas com pretexto de longas orações”. Sentado diante do tesouro do Templo, vê muitos ricos lançarem muito. Uma viúva pobre lança duas pequenas moedas. Jesus chama os discípulos e diz: “Esta pobre viúva deu mais do que todos, porque os outros deram do que lhes sobrava, e ela deu tudo o que tinha para viver”.",
+    "meditatio_perguntas": [
+      "Dou a Deus e aos pobres do que me sobra, ou também do que me custa?",
+      "Busco reconhecimento, honras ou os primeiros lugares, até na vida da Igreja?",
+      "Confio em Deus a ponto de entregar-lhe “tudo o que tenho para viver”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que viste o coração da viúva pobre, livra-me da vaidade e da hipocrisia. Ensina-me a dar não do que sobra, mas com amor e confiança. Toma tudo o que sou e tenho, porque tu és o meu tesouro. Amém.",
+    "contemplatio_foco": { "texto": "Esta pobre viúva deu mais que todos os outros.", "ref": "Mc 12,43" }
+  },
+  "ancoras": {
+    "12:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:38–40#1", "sintese": "Andar com vestes longas é sair em público com roupas demasiado ornamentadas; também nisso pecou o rico que se banqueteava todos os dias." }
+      ],
+      "nota": null
+    },
+    "12:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:38–40#3", "sintese": "Não proíbe as saudações e os primeiros lugares a quem cabem por ofício, mas adverte contra quem os ama indevidamente." }
+      ],
+      "nota": null
+    },
+    "12:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:38–40#5", "sintese": "Buscam não só louvores, mas lucro: fingem ser justos e, com aparência de piedade, tiram os bens dos simples." },
+        { "autor": "Teofilato", "obra": null, "catena": "12:38–40#6", "sintese": "Procuravam as mulheres sem a proteção dos maridos, como se fossem protetores, e com pretexto de oração devoravam os seus bens." }
+      ],
+      "nota": null
+    },
+    "12:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:41–44#1", "sintese": "Havia o costume louvável de depositar no gazofilácio algo para o sustento dos sacerdotes, dos pobres e das viúvas." }
+      ],
+      "nota": { "texto": "O gazofilácio era o tesouro do Templo, no átrio das mulheres, com cofres em forma de trombeta para as ofertas.", "origem": "ia" }
+    },
+    "12:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:41–44#4", "sintese": "A viúva é a alma que, deixando Satanás, lança no templo duas moedas: a carne pela abstinência e a mente pela humildade." }
+      ],
+      "nota": { "texto": "O leptón era a menor moeda em circulação. Marcos explica aos leitores romanos que duas delas valiam um quadrante, um quarto de asse.", "origem": "ia" }
+    },
+    "12:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:41–44#5", "sintese": "Os ricos figuram os que se inflam com a justiça da Lei; a viúva pobre é a simplicidade da Igreja, que oferece tudo o que tem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "MRK.2.23",
+  "livro": "MRK",
+  "titulo": "As espigas no sábado: o Filho do Homem é senhor do sábado",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 2,23-28",
+  "ini": { "c": 2, "v": 23 },
+  "fim": { "c": 2, "v": 28 },
+  "liturgia": { "tema_central": "O sábado foi feito para o homem: Cristo é o Senhor do descanso de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A Lei permitia colher espigas com a mão no campo alheio (Dt 23,26), mas a tradição farisaica considerava isso “colheita”, trabalho proibido no sábado. Jesus responde com o exemplo de David, que, fugindo de Saul, comeu os pães consagrados reservados aos sacerdotes (1Sm 21). A necessidade humana justifica a exceção. Depois, formula dois princípios: o sábado existe para o bem do homem, e o Filho do Homem é senhor do sábado. A segunda afirmação é uma reivindicação de autoridade divina, pois o sábado era instituição do próprio Deus.",
+    "alegorico": "Os discípulos, libertos da figura e unidos à verdade, já não guardam o sábado figurativo: o verdadeiro descanso é Cristo. David, rei e ungido, que come os pães da proposição com os seus, prefigura o Filho de David que dará aos seus o Pão da vida, a Eucaristia. O descanso do sábado encontra o seu cumprimento no Domingo, dia da Ressurreição, em que a Igreja celebra o descanso novo em Cristo.",
+    "moral": "A lei de Deus está a serviço da vida e da salvação, e não é um peso que esmaga o homem. O episódio adverte contra o legalismo que se apega à letra e esquece a caridade. Também ensina o sentido do dia do Senhor: descansar das obras servis, isto é, do pecado, para se dedicar a Deus e ao bem. Quem medita a Palavra no repouso da alma “colhe espigas” e se alimenta do pão da vida.",
+    "anagogico": "O sábado prefigura o descanso eterno do povo de Deus (Hb 4,9-10). O Filho do Homem, Senhor do sábado, é quem nos introduz nesse repouso definitivo, onde a fome será saciada e o homem viverá para sempre na festa de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Num sábado, ao atravessarem uma plantação de trigo, os discípulos começam a colher espigas. Os fariseus protestam que isso não é lícito. Jesus lembra que David, com fome, entrou na casa de Deus e comeu os pães da proposição, reservados aos sacerdotes. E conclui: o sábado foi feito para o homem, e não o homem para o sábado; por isso o Filho do Homem é senhor também do sábado.",
+    "meditatio_perguntas": [
+      "Vivo o domingo como dia do Senhor, de descanso, oração e caridade, ou como um dia qualquer?",
+      "Em que situações sou rígido com os outros e esqueço a misericórdia?",
+      "Tenho fome da Palavra de Deus? Dedico tempo a “colher espigas” nas Escrituras?"
+    ],
+    "oratio_guia": "Senhor Jesus, Senhor do sábado, tu és o meu verdadeiro descanso. Livra-me da rigidez que esquece o amor e ensina-me a santificar o teu dia. Sacia a minha fome com o pão da tua Palavra e da tua Eucaristia. Amém.",
+    "contemplatio_foco": { "texto": "O sábado foi feito para o homem.", "ref": "Mc 2,27" }
+  },
+  "ancoras": {
+    "2:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "2:23–28#0", "sintese": "Os discípulos de Cristo, libertos da figura e unidos à verdade, já não guardam a festa figurativa do sábado." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:23–28#10", "sintese": "Caminham pelas searas com o Senhor os que meditam as suas palavras; têm fome quando desejam nelas o pão da vida, e colhem as espigas quando, meditando, chegam ao alimento da alma." }
+      ],
+      "nota": { "texto": "Dt 23,26 permitia colher espigas com a mão na plantação do próximo; o que os fariseus contestam é o fazê-lo no sábado.", "origem": "ia" }
+    },
+    "2:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Op. Monach. 23", "catena": "2:23–28#3", "sintese": "A Lei permitia comer no campo alheio sem levar nada; por isso acusam os discípulos de violar o sábado, e não de roubar." }
+      ],
+      "nota": null
+    },
+    "2:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:23–28#6", "sintese": "Não há contradição com o livro dos Reis: estavam presentes Aquimelec, o sumo sacerdote, e seu filho Abiatar, que depois seria companheiro de David e sumo sacerdote mais ilustre que o pai." }
+      ],
+      "nota": { "texto": "Os “pães da proposição” eram doze pães colocados cada sábado diante do Senhor no santuário e depois comidos só pelos sacerdotes (Lv 24,5-9).", "origem": "ia" }
+    },
+    "2:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "2:23–28#7", "sintese": "Sendo Filho de Deus, dignou-se ser chamado Filho do Homem por causa dos homens. A lei não tem autoridade sobre o Legislador e Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

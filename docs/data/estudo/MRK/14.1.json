@@ -1,0 +1,81 @@
+{
+  "id": "MRK.14.1",
+  "livro": "MRK",
+  "titulo": "A conspiração e a unção em Betânia",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,1-11",
+  "ini": { "c": 14, "v": 1 },
+  "fim": { "c": 14, "v": 11 },
+  "liturgia": { "tema_central": "O amor generoso que unge o Senhor para a sepultura, diante da traição", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Começa o relato da Paixão. Dois dias antes da Páscoa e dos Ázimos, os chefes procuram prender Jesus às escondidas, evitando a festa por medo do povo. Em Betânia, na casa de Simão, o leproso (provavelmente curado por Jesus), uma mulher quebra um frasco de alabastro e derrama sobre a cabeça de Jesus um perfume de nardo puro, de valor superior a trezentos denários, quase um ano de salário. Alguns protestam contra o “desperdício”. Jesus a defende: ela fez uma boa obra, ungiu antecipadamente o seu corpo para a sepultura, e o seu gesto será lembrado onde o Evangelho for pregado. Em seguida, Judas, “um dos Doze”, vai aos sacerdotes oferecer-se para entregá-lo, e eles prometem dinheiro.",
+    "alegorico": "A unção na cabeça lembra a unção dos reis: Jesus é o Messias, o Ungido, que reina pela Cruz. O vaso quebrado é figura do Corpo de Cristo, que será partido, e de onde o perfume da salvação se espalha pelo mundo. Para os Padres, Simão, o leproso, representa o mundo convertido, e a mulher, a fé da Igreja que derrama o seu amor sobre Cristo.",
+    "moral": "O amor a Cristo não calcula: dá o melhor, o que é precioso, sem medir. A crítica ao “desperdício” pode esconder avareza, como em Judas. Jesus não despreza os pobres: estarão sempre conosco, e devemos servi-los; mas a adoração a Ele não é perda de tempo nem de bens. O contraste entre a mulher e Judas mostra que a cobiça é capaz de vender o próprio Senhor.",
+    "anagogico": "A mulher antecipa a unção do corpo de Cristo, que as mulheres não chegarão a fazer na manhã da Páscoa, porque Ele terá ressuscitado. O perfume que enche a casa é imagem da glória da Ressurreição, que se difunde por toda a terra. A memória da mulher, prometida por Jesus, é sinal de que nenhum gesto de amor a Ele se perde."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Faltavam dois dias para a Páscoa, e os chefes dos sacerdotes e os escribas procuravam prender Jesus à traição. Em Betânia, na casa de Simão, o leproso, uma mulher quebra um frasco de alabastro com perfume de nardo puro, muito caro, e o derrama sobre a cabeça de Jesus. Alguns se indignam com o desperdício. Jesus diz: “Deixai-a. Ela fez uma boa obra; ungiu antecipadamente o meu corpo para a sepultura. Onde for pregado o Evangelho, se contará o que ela fez”. Então Judas vai aos sacerdotes para entregá-lo, e eles prometem dar-lhe dinheiro.",
+    "meditatio_perguntas": [
+      "O que é o “perfume precioso” que eu poderia derramar aos pés de Jesus?",
+      "Julgo como “desperdício” o tempo e os bens dados a Deus?",
+      "Em que sentido a cobiça pode me levar, como Judas, a trair o Senhor?"
+    ],
+    "oratio_guia": "Senhor Jesus, que aceitaste a unção da mulher de Betânia, recebe o pouco que tenho e o amor do meu coração. Livra-me da avareza e do cálculo mesquinho. Que eu te dê o melhor de mim, sem medida. Amém.",
+    "contemplatio_foco": { "texto": "Ela fez-me uma boa obra.", "ref": "Mc 14,6" }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 4, 43", "catena": "14:1–2#1", "sintese": "Páscoa (fase) não vem de paixão, mas significa passagem: o exterminador passou pelas casas marcadas com o sangue do cordeiro." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:1–2#6", "sintese": "Cristo determinou o dia da paixão: quis ser crucificado na Páscoa, porque Ele era a verdadeira Páscoa." }
+      ],
+      "nota": null
+    },
+    "14:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:3–9#2", "sintese": "Chama-se Simão, o leproso, não porque ainda o fosse, mas porque, curado pelo Salvador, conservou o nome para que se manifestasse o poder de quem o curou." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:3–9#8", "sintese": "Simão, o leproso, significa o mundo primeiro infiel e depois convertido; a mulher com o alabastro, a fé da Igreja." }
+      ],
+      "nota": { "texto": "O nardo era um perfume importado da Índia, caríssimo. Trezentos denários equivaliam a quase um ano de salário de um trabalhador (Mt 20,2).", "origem": "ia" }
+    },
+    "14:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "in Matth. 35", "catena": "14:3–9#11", "sintese": "Entristeceram-se com o desperdício do perfume que poderia ser dado aos pobres; mas isso não devia ser assim." }
+      ],
+      "nota": null
+    },
+    "14:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:3–9#12", "sintese": "Fala da sua presença corporal, que não teriam do modo como então viviam com Ele." }
+      ],
+      "nota": null
+    },
+    "14:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:3–9#14", "sintese": "O que julgais desperdício de perfume é serviço prestado à minha sepultura." }
+      ],
+      "nota": null
+    },
+    "14:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:3–9#16", "sintese": "Assim como a mulher alcançou glória no mundo inteiro pelo serviço ao Senhor, aquele que ousou censurá-la tornou-se infame." }
+      ],
+      "nota": null
+    },
+    "14:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:10–11#2", "sintese": "Era um dos Doze em número, não em mérito; em corpo, não em alma." },
+        { "autor": "São João Crisóstomo", "obra": "De Prod. Iud. Hom. 1", "catena": "14:10–11#6", "sintese": "Ó loucura, ou antes, avareza do traidor! A cobiça gerou todo o mal e aprisiona as almas de que se apodera." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

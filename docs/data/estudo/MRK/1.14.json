@@ -1,0 +1,46 @@
+{
+  "id": "MRK.1.14",
+  "livro": "MRK",
+  "titulo": "Jesus começa a pregar o Evangelho",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 1,14-15",
+  "ini": { "c": 1, "v": 14 },
+  "fim": { "c": 1, "v": 15 },
+  "liturgia": { "tema_central": "O tempo se cumpriu: o Reino está próximo, convertei-vos e crede no Evangelho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Estes dois versículos resumem toda a pregação de Jesus. Marcos situa o início do ministério público depois da prisão de João: termina o tempo do precursor e começa o do Messias. A Galileia, região periférica e misturada com pagãos, é o primeiro campo da missão. A mensagem tem duas afirmações e dois imperativos: o tempo (em grego, kairós, o momento decisivo) está cumprido e o Reino de Deus se aproximou; por isso, convertei-vos e crede. O “Reino de Deus” não é um território, mas o próprio Deus que começa a reinar na história por meio de Jesus.",
+    "alegorico": "Cessa a sombra e surge a verdade: João na prisão representa a Lei que chega ao fim, e Jesus na Galileia, o Evangelho que se abre aos povos. A passagem da Judeia à Galileia prefigura a passagem da pregação de Israel aos gentios, que Paulo levará adiante. O Reino anunciado é o próprio Cristo presente, e a Igreja é o seu germe e começo na terra, onde ele já age pela Palavra e pelos sacramentos.",
+    "moral": "O chamado à conversão (metanoia, mudança de mente) não é um momento isolado, mas a forma permanente da vida cristã. Converter-se é renunciar às obras mortas; crer é confiar a vida à boa notícia. Fé e obras andam juntas: a fé vem primeiro, e as boas obras a seguem. Diante da perseguição, Jesus ensina também a prudência: não buscar o confronto, mas suportá-lo quando vier.",
+    "anagogico": "“O tempo está cumprido” abre a última etapa da história da salvação, que se encaminha para o Reino definitivo. O Reino de Deus, onde Ele reina plenamente, é a região dos vivos em que os santos o verão face a face. Cada conversão é um passo nessa direção, e o Evangelho é a promessa de que esse Reino virá em plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Depois que João é preso, Jesus vai para a Galileia e prega o Evangelho de Deus. Anuncia que o tempo está completo e que o Reino de Deus se aproxima, e chama todos à penitência e à fé no Evangelho.",
+    "meditatio_perguntas": [
+      "Em que área da minha vida ainda não deixei Deus reinar?",
+      "A minha conversão é algo do passado ou um caminho que retomo cada dia?",
+      "Creio de verdade que o Evangelho é uma boa notícia para mim, hoje?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu vens ao meu encontro na Galileia da minha vida comum. Que o teu Reino se aproxime de mim e eu não o deixe passar. Dá-me um coração convertido e uma fé simples na tua Palavra. Amém.",
+    "contemplatio_foco": { "texto": "Fazei penitência e crede no Evangelho.", "ref": "Mc 1,15" }
+  },
+  "ancoras": {
+    "1:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:14–15#3", "sintese": "Com a prisão de João, o Senhor começa a pregar: quando cessa a Lei, surge logo o Evangelho." },
+        { "autor": "Teofilato", "obra": null, "catena": "1:14–15#1", "sintese": "Ao retirar-se para a Galileia, Jesus ensina que nas perseguições não devemos ir ao seu encontro, mas suportá-las quando nelas cairmos." }
+      ],
+      "nota": { "texto": "O Evangelho de João mostra que Jesus já havia ensinado e feito sinais antes da prisão do Batista (Jo 3,24). Marcos concentra a narrativa no ministério que vem depois.", "origem": "ia" }
+    },
+    "1:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:14–15#7", "sintese": "Cumpriu-se o tempo da Lei; de agora em diante age o Reino de Deus, isto é, a vida segundo o Evangelho, que é justiça, paz e alegria no Espírito Santo." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "1:14–15#8", "sintese": "Quem deseja o bem eterno deve fazer penitência: quem quer a amêndoa quebra a casca, e a doçura do fruto compensa o amargor da raiz." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:14–15#9", "sintese": "Fazer penitência e crer é renunciar às obras mortas. Não são as obras que conduzem à fé; a fé começa para que as boas obras se sigam." }
+      ],
+      "nota": { "texto": "“Fazei penitência” traduz o latim paenitentiam agite (grego metanoeite): mudança interior de mentalidade que se manifesta em obras.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

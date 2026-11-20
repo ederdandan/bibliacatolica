@@ -569,3 +569,61 @@ mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2
   body { padding: 0; background: #fff; color: #000; }
   .chap-band { background: none !important; color: #000 !important; }
 }
+
+/* ===== Estudo por perícopes ===== */
+.peri-sec {
+  font-family: var(--font-ui); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted); margin: 1.6em 0 0.2em; display: flex; align-items: center; gap: 10px;
+}
+.peri-sec::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+.peri-head { display: flex; align-items: center; gap: 10px; margin: 1.1em 0 0.5em; font-family: var(--font-ui); }
+.verses > .peri-sec:first-child, .verses > .peri-head:first-child { margin-top: 0; }
+.peri-head h2 { flex: 1; min-width: 0; margin: 0; font-family: var(--font-head); font-size: 1.05rem; line-height: 1.3; }
+.peri-btn, .peri-carry {
+  display: inline-flex; align-items: center; gap: 6px; flex: none; text-decoration: none; font-weight: 700;
+  font-size: 0.82rem; border-radius: 16px; padding: 6px 12px; background: var(--accent); color: var(--on-accent);
+}
+.peri-btn .ic, .peri-carry .ic { width: 16px; height: 16px; }
+.peri-carry { background: var(--surface-2); color: var(--text); margin-bottom: 12px; font-family: var(--font-ui); }
+.layout-paragraph .peri-head, .layout-paragraph .peri-sec { display: flex; }
+
+.study h1 { margin-bottom: 4px; }
+.study-ref { margin: 0 0 8px; font-weight: 700; }
+.study-ref a { color: var(--accent-ink); text-decoration: none; }
+.study-tema { font-family: var(--font-text); font-style: italic; color: var(--muted); margin: 0 0 12px; line-height: 1.5; }
+.study .chips { margin-bottom: 12px; }
+.study-tabs { margin-top: 12px; }
+.study-body { font-size: 1rem; }
+.study-verses { font-family: var(--font-text); font-size: 1.08rem; line-height: 1.7; }
+.sv { display: block; width: 100%; margin: 0 0 2px; padding: 4px 8px; border-radius: 12px; text-align: left; font: inherit; color: inherit; background: none; border: 0; }
+button.sv { cursor: pointer; }
+button.sv:hover, button.sv[aria-expanded='true'] { background: var(--surface-2); }
+.anc-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); margin-left: 6px; vertical-align: middle; }
+.anc-box { margin: 2px 8px 12px; padding: 12px 14px; border-radius: 14px; background: var(--surface); box-shadow: var(--soft-shadow); font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.5; }
+[data-style='noturno'] .anc-box { background: var(--surface-2); }
+.anc-father { margin: 0 0 10px; }
+.anc-father:last-child { margin-bottom: 0; }
+.anc-father strong { font-family: var(--font-head); }
+.anc-father p { margin: 2px 0 0; }
+.anc-nota { margin: 10px 0 0; padding-left: 10px; border-left: 3px solid var(--accent); color: var(--muted); }
+.anc-cic { margin: 0 0 10px; }
+.anc-nota b, .anc-cic b { color: var(--text); margin-right: 4px; }
+.anc-item { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 14px 0; border-top: 1px solid var(--border); }
+.anc-item:first-child { border-top: 0; }
+.anc-item .anc-father p, .anc-item .anc-nota { font-size: 0.95rem; }
+.anc-ref { font-family: var(--font-head); font-weight: 700; color: var(--accent-ink); text-decoration: none; }
+.sense h3, .lectio h3 { margin: 0; font-size: 1.05rem; }
+.sense h3 small, .lectio h3 small { font-family: var(--font-ui); font-weight: 500; color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
+.sense p, .lectio p, .lectio ul { font-family: var(--font-text); line-height: 1.65; margin: 8px 0 0; }
+.lectio { list-style: none; padding: 0; margin: 8px 0; counter-reset: deg; }
+.lectio > li { position: relative; padding: 0 0 20px 48px; counter-increment: deg; }
+.lectio > li::before {
+  content: counter(deg); position: absolute; left: 0; top: -4px; width: 34px; height: 34px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--accent-soft); color: var(--accent-ink); font: 800 0.95rem var(--font-head);
+}
+.lectio ul { padding-left: 18px; }
+.lectio ul li { margin-bottom: 6px; }
+.jac { margin: 10px 0 0; padding: 16px; border-radius: 16px; background: var(--accent-soft); text-align: center; font-family: var(--font-text); font-style: italic; font-size: 1.2rem; line-height: 1.5; }
+.jac cite { display: block; margin-top: 6px; font-family: var(--font-ui); font-style: normal; font-size: 0.8rem; color: var(--muted); }
+.study-flag { margin-top: 24px; }
+.study-nav { margin-top: 16px; display: flex; gap: 10px; justify-content: space-between; }

@@ -1,0 +1,69 @@
+{
+  "id": "MRK.16.15",
+  "livro": "MRK",
+  "titulo": "O envio dos discípulos e a Ascensão",
+  "secao": "A Ressurreição",
+  "referencia": "Mc 16,15-20",
+  "ini": { "c": 16, "v": 15 },
+  "fim": { "c": 16, "v": 20 },
+  "liturgia": { "tema_central": "“Ide por todo o mundo”: o Senhor sobe ao céu e coopera com os que pregam", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O Ressuscitado envia os Onze a todo o mundo, a pregar o Evangelho a toda criatura. A salvação está ligada à fé e ao batismo; quem recusar crer será condenado. Sinais acompanharão os que crerem: expulsar demônios, falar novas línguas, pegar serpentes sem dano (cf. At 28,3-6), não sofrer com venenos, curar enfermos pela imposição das mãos. Depois, o Senhor Jesus é elevado ao céu e senta-se à direita de Deus (cf. Sl 110,1). Os discípulos partem e pregam por toda parte, e o Senhor coopera com eles, confirmando a Palavra com os sinais. O Evangelho, que começou com “o princípio do Evangelho de Jesus Cristo” (1,1), termina com a sua difusão pelo mundo.",
+    "alegorico": "A Ascensão é a entronização do Filho do Homem: aquele que se humilhou até a Cruz está sentado à direita do Pai, isto é, na glória e no poder divinos, não num lugar físico. O título “o Senhor Jesus”, único em Marcos, proclama a sua divindade. A missão universal é a Galileia dos gentios: o Evangelho passa de Israel a todas as nações. O Senhor que subiu continua presente na pregação da Igreja.",
+    "moral": "Não basta crer: é preciso receber o batismo e viver a fé com obras, pois a fé verdadeira é a que não contradiz pela vida o que diz com as palavras. Os sinais eram necessários no início da Igreja; hoje, o maior sinal é a caridade e a conversão dos corações. Todo batizado é enviado: a obediência segue o preceito, e os sinais seguem a obediência. As palavras se confirmam pelas obras.",
+    "anagogico": "Cristo subiu ao céu como Cabeça, e para lá nos atrai como seus membros. A missão da Igreja continua até que o Evangelho chegue a toda criatura e o Senhor volte. A nossa esperança é estar onde Ele está, à direita do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus diz aos Onze: “Ide por todo o mundo, pregai o Evangelho a toda criatura. Quem crer e for batizado será salvo; quem não crer será condenado. Estes sinais acompanharão os que crerem: em meu nome expulsarão demônios, falarão novas línguas, pegarão em serpentes, e, se beberem algum veneno, não lhes fará mal; imporão as mãos sobre os doentes, e eles ficarão curados”. Depois de lhes falar, o Senhor Jesus foi elevado ao céu e sentou-se à direita de Deus. E eles partiram e pregaram por toda parte, e o Senhor cooperava com eles, confirmando a Palavra com os sinais.",
+    "meditatio_perguntas": [
+      "Sinto-me enviado por Jesus a anunciar o Evangelho no meu ambiente?",
+      "A minha fé se manifesta em obras que a confirmam?",
+      "Confio que o Senhor “coopera comigo” quando testemunho a fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, sentado à direita do Pai, tu me enviaste a anunciar o teu Evangelho. Confirma a minha fé com as obras e coopera comigo na missão. Atrai-me a ti, para que um dia eu esteja onde tu estás. Amém.",
+    "contemplatio_foco": { "texto": "Ide por todo o mundo, pregai o Evangelho a toda a criatura.", "ref": "Mc 16,15" }
+  },
+  "ancoras": {
+    "16:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:14–18#6", "sintese": "Depois de censurar a dureza dos corações, dirige-lhes a exortação: “Ide por todo o mundo”." },
+        { "autor": "Teofilato", "obra": null, "catena": "16:14–18#7", "sintese": "A toda criatura, crente ou incrédula; e não basta crer: é preciso ser batizado." }
+      ],
+      "nota": null
+    },
+    "16:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:14–18#8", "sintese": "Diz a verdade quem diz “já cri, serei salvo” se sustentar a fé com obras; a fé verdadeira não contradiz pela vida o que diz com as palavras." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "16:14–18#9", "sintese": "Na Igreja, as crianças que ainda não podem crer creem por meio de outros, assim como de outros contraíram os pecados perdoados no batismo." }
+      ],
+      "nota": null
+    },
+    "16:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "16:14–18#10", "sintese": "Afastarão as serpentes espirituais e materiais, como se diz: “Pisareis serpentes e escorpiões”." },
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:14–18#11", "sintese": "Os sinais eram necessários no início da Igreja para nutrir a fé nascente, como se regam as plantas novas até firmarem as raízes." }
+      ],
+      "nota": null
+    },
+    "16:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:19–20#0", "sintese": "O Senhor, que desceu do céu para libertar a nossa natureza fraca, subiu também acima dos céus." },
+        { "autor": "Santo Agostinho", "obra": "De Symb. 4", "catena": "16:19–20#3", "sintese": "Não se entenda o “estar sentado” como se tivesse membros humanos postos num lugar: a direita é o poder que, como homem, recebeu de Deus para vir julgar, Ele que antes viera para ser julgado." }
+      ],
+      "nota": { "texto": "“O Senhor Jesus” só aparece aqui em Marcos. A expressão “sentar-se à direita de Deus” retoma o Sl 110,1, já citado em Mc 12,36 e 14,62.", "origem": "ia" }
+    },
+    "16:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:19–20#5", "sintese": "A obediência segue o preceito, e os sinais seguem a obediência." },
+        { "autor": "Teofilato", "obra": null, "catena": "16:19–20#7", "sintese": "As palavras se confirmam pelas obras, como então as obras dos apóstolos confirmavam a sua pregação." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

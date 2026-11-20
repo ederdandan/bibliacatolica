@@ -1,0 +1,65 @@
+{
+  "id": "MRK.2.13",
+  "livro": "MRK",
+  "titulo": "O chamado de Levi; Jesus come com os pecadores",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 2,13-17",
+  "ini": { "c": 2, "v": 13 },
+  "fim": { "c": 2, "v": 17 },
+  "liturgia": { "tema_central": "O médico veio para os doentes: Jesus chama os pecadores e senta-se à mesa com eles", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Levi (o Mateus do primeiro Evangelho) é cobrador de impostos em Cafarnaum, posto de alfândega na rota comercial. Os publicanos eram desprezados como colaboradores do poder romano e tidos por desonestos. Jesus o chama com a mesma palavra dirigida aos pescadores: “Segue-me”. Levi se levanta e o segue, e oferece um banquete onde Jesus come com publicanos e pecadores. Para os fariseus, comer juntos significava comunhão e aprovação; daí o escândalo. Jesus responde com um provérbio: o médico existe para os doentes.",
+    "alegorico": "O chamado do publicano exprime a fé dos gentios, antes ocupados com os lucros deste mundo; a murmuração dos fariseus figura a resistência de parte de Israel à salvação oferecida a todos. A mesa compartilhada com os pecadores prefigura a Eucaristia, banquete em que Cristo acolhe os que reconhecem a própria doença. Cristo é o Médico que veio curar a humanidade inteira, ferida pelo pecado.",
+    "moral": "Ninguém deve desesperar da própria salvação: o publicano foi feito apóstolo e evangelista. Seguir é imitar, e Levi deixa o que tinha, ainda que ganho de modo duvidoso, para abraçar a pobreza de Cristo. A atitude dos fariseus adverte contra a presunção de quem se julga justo e despreza os outros. Para ser curado é preciso reconhecer-se doente.",
+    "anagogico": "A mesa de Levi antecipa o banquete do Reino, onde se sentarão muitos vindos do Oriente e do Ocidente, pecadores perdoados. O Médico que agora cura chama todos à saúde eterna, onde já não haverá doença nem pecado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus ensina a multidão à beira do mar. Passando, vê Levi, filho de Alfeu, sentado na coletoria, e lhe diz: “Segue-me”; ele se levanta e o segue. Depois, à mesa em casa de Levi, Jesus come com muitos publicanos e pecadores. Os escribas e fariseus criticam, e Jesus responde: “Os sãos não precisam de médico, mas os doentes; não vim chamar os justos, mas os pecadores”.",
+    "meditatio_perguntas": [
+      "Reconheço-me doente e necessitado do Médico, ou me julgo justo?",
+      "Há alguém que eu considero “perdido demais” para ser chamado por Deus?",
+      "O que, no meu “posto de trabalho”, preciso deixar para seguir Jesus de verdade?"
+    ],
+    "oratio_guia": "Senhor Jesus, médico das almas, tu me chamas mesmo sabendo quem eu sou. Levanta-me do meu posto de pecado e dá-me a alegria de te seguir. Livra-me do orgulho de quem se julga justo e ensina-me a acolher os pecadores como tu os acolhes. Amém.",
+    "contemplatio_foco": { "texto": "Eu não vim chamar os justos, mas os pecadores.", "ref": "Mc 2,17" }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:13–17#1", "sintese": "Jesus vai ao mar querendo ficar só, mas a multidão o procura: quanto mais foges da glória, mais ela te persegue; se correres atrás dela, ela foge de ti." }
+      ],
+      "nota": null
+    },
+    "2:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 11", "catena": "2:13–17#3", "sintese": "Marcos e Lucas o chamam Levi por respeito; ele próprio se chama Mateus e publicano, acusando-se a si mesmo, para mostrar que nenhum convertido deve desesperar da salvação." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:13–17#5", "sintese": "Seguir é imitar: quem costumava apoderar-se dos bens alheios deixa agora os seus, para imitar a pobreza de Cristo." }
+      ],
+      "nota": { "texto": "O “telônio” era o posto de cobrança de impostos e taxas sobre mercadorias. Cafarnaum ficava na rota comercial entre a Galileia e a região de Damasco.", "origem": "ia" }
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:13–17#7", "sintese": "Aquele que tramava contra os outros torna-se tão benévolo que convida muitos à sua mesa." }
+      ],
+      "nota": null
+    },
+    "2:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:13–17#10", "sintese": "O chamado dos publicanos exprime a fé dos gentios; a arrogância dos escribas insinua a inveja de quem se irrita com a salvação dos gentios." }
+      ],
+      "nota": null
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:13–17#11", "sintese": "Chama os pecadores não para que continuem pecadores, mas para que se convertam e façam penitência." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

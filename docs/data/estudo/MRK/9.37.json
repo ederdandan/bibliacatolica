@@ -1,0 +1,81 @@
+{
+  "id": "MRK.9.37",
+  "livro": "MRK",
+  "titulo": "Quem não é contra nós; o escândalo e o fogo",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 9,37-49",
+  "ini": { "c": 9, "v": 37 },
+  "fim": { "c": 9, "v": 49 },
+  "liturgia": { "tema_central": "Não escandalizar os pequenos, cortar o que leva ao pecado, ter sal e paz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "João conta que proibiram um exorcista que agia em nome de Jesus sem os seguir. Jesus corrige: quem não é contra nós está conosco, e até um copo de água dado a um discípulo terá recompensa. Segue-se uma série de ditos ligados por palavras-chave (“em meu nome”, “escândalo”, “fogo”, “sal”). Escandalizar, isto é, fazer cair na fé um dos pequeninos, é tão grave que seria melhor ser lançado ao mar com uma mó de moinho. Com hipérboles orientais (cortar a mão, o pé, arrancar o olho), Jesus mostra a radicalidade necessária para evitar a Geena, descrita com as palavras de Is 66,24. “Todo homem será salgado pelo fogo” alude ao sal das oferendas (Lv 2,13).",
+    "alegorico": "A comunidade dos discípulos é o novo Israel, aberto a quem age em nome de Cristo. O sal que acompanhava os sacrifícios figura a sabedoria e a caridade que tornam a nossa vida oferenda agradável a Deus; o fogo é o do Espírito, que Cristo veio lançar sobre a terra, e também o da prova que purifica. Os discípulos são o sal da terra, que preserva o mundo da corrupção.",
+    "moral": "Não devemos afastar ninguém do bem parcial que já pratica, mas estimulá-lo ao que ainda falta. O zelo não pode virar exclusivismo. Pelo contrário, devemos temer escandalizar os fracos na fé. A mão, o pé e o olho podem significar também amigos e convivências que nos arrastam ao mal: é melhor entrar na vida sem eles. Ter sal em si é ouvir a Palavra e temperar o coração com sabedoria; mas o saber não deve romper a paz com os irmãos.",
+    "anagogico": "O texto fala com seriedade da possibilidade da perdição eterna: o verme que não morre (o remorso da consciência) e o fogo que não se apaga. Ao mesmo tempo, promete a vida eterna e o Reino a quem renuncia ao que o faz cair. Até o menor gesto de caridade, um copo de água, não perderá a recompensa eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "João diz que proibiram um homem de expulsar demônios em nome de Jesus porque não os seguia. Jesus responde: “Não o proibais; quem não é contra nós está conosco”. Quem der um copo de água em nome de Cristo não perderá a recompensa. Quem escandalizar um destes pequeninos, melhor seria ser lançado ao mar com uma mó ao pescoço. Se a mão, o pé ou o olho te fazem cair, corta-os: é melhor entrar na vida mutilado que ir para a geena. Tende sal em vós e paz uns com os outros.",
+    "meditatio_perguntas": [
+      "Sei reconhecer e valorizar o bem que outros fazem fora do meu grupo?",
+      "As minhas palavras ou atitudes podem estar escandalizando alguém fraco na fé?",
+      "Que “mão”, “pé” ou “olho” (hábito, ocasião, amizade) preciso cortar para não pecar?"
+    ],
+    "oratio_guia": "Senhor Jesus, dá-me um coração largo, que se alegra com o bem onde quer que esteja. Livra-me de escandalizar os pequenos. Dá-me a coragem de cortar o que me leva ao pecado, e o sal da sabedoria e da paz com os irmãos. Amém.",
+    "contemplatio_foco": { "texto": "Tende sal em vós, e tende paz uns com os outros.", "ref": "Mc 9,49" }
+  },
+  "ancoras": {
+    "9:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "9:38–42#3", "sintese": "Não foi por inveja que João quis proibi-lo, mas porque desejava que todos os que invocavam o nome do Senhor formassem um só corpo com os discípulos." }
+      ],
+      "nota": { "texto": "Na Vulgata, a numeração de Mc 9 é uma unidade menor que a das edições modernas: 9,37-49 corresponde a 9,38-50.", "origem": "ia" }
+    },
+    "9:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:38–42#4", "sintese": "Ninguém deve ser afastado do bem parcial que já possui, mas estimulado para o que ainda não alcançou." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. IV, 6", "catena": "9:38–42#10", "sintese": "Aquele homem não estava tão separado dos discípulos que devesse ser rejeitado como herege, mas era como os que ainda não recebem os sacramentos de Cristo." }
+      ],
+      "nota": null
+    },
+    "9:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "9:38–42#11", "sintese": "Para que ninguém alegue pobreza, menciona um copo de água: não é o valor da dádiva, mas a dignidade de quem a recebe e a intenção de quem a dá." }
+      ],
+      "nota": null
+    },
+    "9:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:38–42#12", "sintese": "Chama-se pequeno o que se escandaliza: quem é grande não se afasta da fé, mas o fraco procura ocasiões de tropeço." },
+        { "autor": "São Gregório Magno", "obra": "Hom. in Ez. I, 7", "catena": "9:38–42#13", "sintese": "Na medida em que podemos sem pecado, devemos evitar o escândalo do próximo; mas, se o escândalo nasce da verdade, é melhor permitir o escândalo que abandonar a verdade." }
+      ],
+      "nota": null
+    },
+    "9:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 59", "catena": "9:43–50#1", "sintese": "Não fala dos nossos membros, mas dos amigos íntimos que consideramos como membros: nada é tão nocivo quanto a má companhia." }
+      ],
+      "nota": null
+    },
+    "9:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "9:43–50#5", "sintese": "Não fala de um verme visível: chama verme à consciência que rói a alma por não ter feito o bem." }
+      ],
+      "nota": { "texto": "“Geena” era o vale de Hinom, ao sul de Jerusalém, antigo lugar de cultos idolátricos (Jr 7,31). Tornou-se imagem do castigo eterno.", "origem": "ia" }
+    },
+    "9:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:43–50#15", "sintese": "O sal bom consiste em ouvir com frequência a palavra de Deus e temperar o coração com a sabedoria espiritual." },
+        { "autor": "São Gregório Magno", "obra": "Reg. Past. III, 22", "catena": "9:43–50#19", "sintese": "Contra os que um conhecimento maior separa da comunhão com os outros: quanto mais cresce o saber, mais desaprendem a virtude da concórdia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "MRK.5.21",
+  "livro": "MRK",
+  "titulo": "A filha de Jairo e a mulher com fluxo de sangue",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 5,21-43",
+  "ini": { "c": 5, "v": 21 },
+  "fim": { "c": 5, "v": 43 },
+  "liturgia": { "tema_central": "“Não temas; crê somente”: a fé toca Jesus e recebe dele a vida", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Novo “sanduíche” de Marcos: o pedido de Jairo, chefe da sinagoga, é interrompido pela cura da mulher, e depois retomado. As duas histórias se espelham: a mulher sofria havia doze anos, a menina tinha doze anos; ambas são chamadas “filha”; ambas estavam em situação de impureza legal (fluxo de sangue, cadáver), e Jesus, em vez de se contaminar, comunica a pureza e a vida. A mulher toca a veste com fé, e uma força sai de Jesus. Na casa de Jairo, Jesus diz que a menina “dorme”, toma-lhe a mão e diz em aramaico: “Talitha koum”. A ordem de dar-lhe de comer confirma a realidade da ressurreição.",
+    "alegorico": "A mulher curada figura a Igreja dos gentios, que toca Cristo pela fé sem tê-lo visto na carne; a menina figura a sinagoga, que será reanimada quando tiver entrado a plenitude das nações (Rm 11,25-26). A multidão que comprime Jesus contrasta com a única mulher que o toca com fé: muitos o cercam, poucos o tocam de verdade. A ressurreição da menina antecipa a Ressurreição de Cristo, testemunhada pelos mesmos três apóstolos que verão a Transfiguração e a agonia no Getsêmani.",
+    "moral": "A fé verdadeira é contato pessoal com Cristo, não proximidade exterior. A mulher é modelo de fé perseverante e humilde, e Jesus a chama a confessar publicamente, para confirmá-la e servir de exemplo. A Jairo, diante da notícia mais dura, Jesus diz: “Não temas; crê somente”. Os Padres viram nas três ressurreições (a menina em casa, o jovem à porta, Lázaro no túmulo) os graus do pecado: o oculto, o manifesto e o habitual, todos curáveis por Cristo.",
+    "anagogico": "“Não está morta, mas dorme”: para Deus, a morte do corpo é um sono do qual se desperta. Daí o costume cristão de dizer que os mortos “dormem” na esperança da ressurreição. O “Levanta-te” dito à menina é a palavra que Cristo dirá a todos no último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jairo, chefe da sinagoga, suplica a Jesus que imponha as mãos sobre a filha moribunda. No caminho, uma mulher que sofria havia doze anos de fluxo de sangue toca a veste de Jesus e é curada. Jesus pergunta quem o tocou; ela confessa tremendo, e Ele lhe diz: “Filha, a tua fé te salvou; vai em paz”. Chegam notícias de que a menina morreu. Jesus diz a Jairo: “Não temas; crê somente”. Entra na casa, toma a mão da menina e diz: “Talitha koum”; ela se levanta e anda.",
+    "meditatio_perguntas": [
+      "Estou apenas no meio da multidão que “comprime” Jesus, ou eu o toco com fé?",
+      "Que notícia ou situação em minha vida me faz duvidar, e a que Jesus me diz “crê somente”?",
+      "Que área da minha vida precisa ouvir hoje: “Levanta-te”?"
+    ],
+    "oratio_guia": "Senhor Jesus, como a mulher, quero tocar-te com fé; como Jairo, confio a ti os que amo. Quando o medo e a morte parecerem vencer, repete-me: “Não temas; crê somente”. Toma a minha mão e diz-me: “Levanta-te”. Amém.",
+    "contemplatio_foco": { "texto": "Não temas; crê somente.", "ref": "Mc 5,36" }
+  },
+  "ancoras": {
+    "5:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "5:21–34#4", "sintese": "Jairo tinha fé em parte, pois caiu aos pés de Jesus; mas, ao pedir que fosse à sua casa, não mostrou toda a fé devida, pois poderia ter dito: dize uma só palavra." }
+      ],
+      "nota": null
+    },
+    "5:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 31", "catena": "5:21–34#5", "sintese": "Sendo legalmente impura, não ousou aproximar-se abertamente e tocou-o por trás; mas não foi a orla da veste, e sim a disposição do seu espírito que a curou." }
+      ],
+      "nota": { "texto": "Segundo Lv 15,25-27, a mulher com fluxo de sangue era impura e tornava impuro quem ela tocasse.", "origem": "ia" }
+    },
+    "5:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "5:21–34#7", "sintese": "O poder de Cristo comunica-se, por sua vontade, aos que o tocam com fé; não sai dele local ou corporalmente." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:21–34#16", "sintese": "Uma só mulher que crê toca o Senhor, enquanto a multidão o comprime: só o coração da Igreja Católica o adora fielmente." }
+      ],
+      "nota": null
+    },
+    "5:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.; cf. Crisóstomo, Hom. in Matth. 31", "catena": "5:21–34#10", "sintese": "Chama-a de filha porque foi salva pela fé; a fé em Cristo nos torna seus filhos." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "5:21–34#12", "sintese": "“Vai em paz”: foi curada não só no corpo, mas também da causa das dores, os seus pecados." }
+      ],
+      "nota": null
+    },
+    "5:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "no lugar citado", "catena": "5:35–43#1", "sintese": "“Não temas, crê somente” não repreende a falta de fé de Jairo, mas fortalece a fé que ele já tinha." }
+      ],
+      "nota": null
+    },
+    "5:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:35–43#5", "sintese": "Estava morta para os homens, que não podiam ressuscitá-la, mas para Deus dormia; daí o costume cristão de dizer que dormem os mortos que hão de ressuscitar." }
+      ],
+      "nota": null
+    },
+    "5:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Epist. 57, ad Pammach.", "catena": "5:35–43#9", "sintese": "O evangelista acrescentou “eu te mando” ao “Talitha cumi” para exprimir que se tratava de um chamado e de uma ordem." },
+        { "autor": "São Gregório Magno", "obra": "Moral. IV, 27", "catena": "5:35–43#13", "sintese": "O Redentor ressuscitou a menina em casa, o jovem à porta e Lázaro no túmulo: o pecado oculto, o manifesto e o já sepultado no hábito." }
+      ],
+      "nota": { "texto": "“Talitha koum” é aramaico, a língua materna de Jesus. Marcos conserva algumas de suas palavras originais (cf. 7,34; 14,36; 15,34).", "origem": "ia" }
+    },
+    "5:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 31", "catena": "5:35–43#11", "sintese": "Mandou dar-lhe de comer para mostrar que a ressuscitara realmente, e não só na aparência." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

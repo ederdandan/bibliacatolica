@@ -1,0 +1,66 @@
+{
+  "id": "MRK.14.66",
+  "livro": "MRK",
+  "titulo": "As negações de Pedro",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,66-72",
+  "ini": { "c": 14, "v": 66 },
+  "fim": { "c": 14, "v": 72 },
+  "liturgia": { "tema_central": "A fraqueza de Pedro e as lágrimas do arrependimento", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Enquanto Jesus confessa a verdade diante do Sinédrio, Pedro, no pátio, a nega. Uma criada o reconhece: “Tu também estavas com Jesus, o Nazareno”. Pedro nega e vai para a entrada, e o galo canta. A criada insiste diante dos outros, e ele nega de novo. Os presentes observam: “És galileu” (o sotaque o denunciava). Pedro começa a praguejar e a jurar: “Não conheço esse homem”. O galo canta pela segunda vez; Pedro se lembra da palavra de Jesus e começa a chorar. Marcos, cujo Evangelho reflete a pregação de Pedro, não esconde a queda do chefe dos apóstolos.",
+    "alegorico": "O contraste é intencional: no mesmo momento, Jesus diz “Eu sou” e Pedro diz “não conheço”. A negação tríplice será reparada pela tríplice confissão de amor junto ao lago (Jo 21,15-17). O galo, arauto do dia, anuncia que a noite do pecado pode terminar com a luz do arrependimento. Para os Padres, as três negações figuram as etapas do pecado: hesitação, consentimento e ato.",
+    "moral": "Ninguém é forte por si mesmo: Pedro, que prometera morrer com Jesus, cede diante de uma criada. A convivência com os ímpios e o medo do que dirão são caminhos de queda. Nega a Cristo não só quem diz que Ele não é o Cristo, mas também quem, sendo cristão, nega sê-lo. As lágrimas reconduziram Pedro a Cristo: nenhum pecado é sem perdão para quem se arrepende.",
+    "anagogico": "A queda e o pranto de Pedro mostram que o caminho do Céu passa pela humildade e pela misericórdia. O apóstolo que negou será a rocha da Igreja e dará a vida pelo Senhor. A esperança do pecador arrependido é a mesma de Pedro: o olhar de Cristo que salva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro estava embaixo, no pátio. Uma criada do sumo sacerdote o vê aquecer-se e diz: “Tu também estavas com Jesus, o Nazareno”. Ele nega: “Não sei nem entendo o que dizes”. Sai para a entrada, e o galo canta. A criada repete aos presentes: “Este é um deles”. Ele nega de novo. Pouco depois, os que estavam ali dizem: “Certamente és um deles, pois és galileu”. Pedro começa a praguejar e a jurar: “Não conheço esse homem”. O galo canta pela segunda vez. Pedro se lembra da palavra de Jesus e começa a chorar.",
+    "meditatio_perguntas": [
+      "Em que situações tenho vergonha de mostrar que sou de Cristo?",
+      "Que ambientes ou companhias me enfraquecem na fé?",
+      "Sei chorar os meus pecados e voltar a Jesus, como Pedro?"
+    ],
+    "oratio_guia": "Senhor Jesus, quantas vezes também eu disse “não conheço esse homem”. Perdoa as minhas negações, por palavra e por omissão. Dá-me as lágrimas de Pedro e a graça de voltar sempre a ti. Amém.",
+    "contemplatio_foco": { "texto": "Pedro recordou-se da palavra que Jesus tinha dito… E começou a chorar.", "ref": "Mc 14,72" }
+  },
+  "ancoras": {
+    "14:67": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:66–72#1", "sintese": "Que significa ser reconhecido primeiro por uma mulher, senão que também esse sexo pecou na morte do Senhor e seria redimido pela sua paixão?" },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:66–72#2", "sintese": "Sem o Espírito, Pedro cedeu diante da voz de uma criada; com o Espírito, não cedeu diante de príncipes e reis." }
+      ],
+      "nota": null
+    },
+    "14:68": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:66–72#3", "sintese": "O Senhor permitiu providencialmente essa queda para que Pedro não se exaltasse e aprendesse a compadecer-se dos que caem." }
+      ],
+      "nota": null
+    },
+    "14:70": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:66–72#6", "sintese": "Nega a Cristo não só quem diz que Ele não é o Cristo, mas também quem, sendo cristão, nega sê-lo." }
+      ],
+      "nota": { "texto": "Os galileus tinham sotaque próprio, reconhecível em Jerusalém (cf. Mt 26,73).", "origem": "ia" }
+    },
+    "14:71": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:66–72#8", "sintese": "Quão nociva é a convivência com os ímpios! Diante dos infiéis nega conhecer o homem que, entre os discípulos, confessara ser Deus." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:66–72#10", "sintese": "A primeira criada significa a hesitação; a segunda, o consentimento; o terceiro, um homem, é o ato." }
+      ],
+      "nota": null
+    },
+    "14:72": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:66–72#9", "sintese": "As lágrimas reconduziram Pedro a Cristo pela penitência; confundam-se os novacianos, que negam o perdão a quem peca depois do batismo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

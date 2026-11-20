@@ -1,0 +1,80 @@
+{
+  "id": "MRK.2.1",
+  "livro": "MRK",
+  "titulo": "A cura do paralítico de Cafarnaum",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 2,1-12",
+  "ini": { "c": 2, "v": 1 },
+  "fim": { "c": 2, "v": 12 },
+  "liturgia": { "tema_central": "O Filho do Homem tem poder de perdoar pecados: a fé que abre caminho até Jesus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Esta cena abre uma série de cinco controvérsias na Galileia (2,1–3,6), em que cresce a oposição dos escribas e fariseus. Em Cafarnaum, a casa fica cheia; quatro homens, sem conseguir entrar, abrem o teto de terra e ramos das casas palestinas e descem o paralítico. Jesus vê a fé deles e, surpreendentemente, perdoa primeiro os pecados. Os escribas pensam em blasfêmia, pois só Deus perdoa. Jesus lê os seus pensamentos e cura o corpo como sinal visível do perdão invisível. É a primeira vez que Marcos usa o título “Filho do Homem” (cf. Dn 7,13-14).",
+    "alegorico": "O perdão dado “na terra” revela que o Filho de Deus uniu o poder divino à natureza humana: Ele é Deus e homem. Esse poder, Cristo o confia à Igreja no sacramento da Penitência, onde a palavra “teus pecados te são perdoados” continua a ressoar. Os quatro que carregam o paralítico figuram os quatro Evangelhos, ou as quatro virtudes cardeais, que elevam o homem até Cristo. O teto aberto figura as Escrituras que, abertas, nos fazem descer à humildade da fé.",
+    "moral": "A fé dos amigos obtém a graça para o paralítico: daí o valor da intercessão e da comunidade que leva os fracos a Cristo. A paralisia figura o torpor espiritual de quem deseja o bem, mas não tem forças. O texto convida a não desistir diante dos obstáculos, a criatividade da caridade, e a buscar primeiro a cura da alma. Levar a própria maca é empregar o corpo, antes instrumento do pecado, na prática do bem.",
+    "anagogico": "A cura total do paralítico, no corpo e na alma, antecipa a ressurreição, quando o homem inteiro será restaurado. O espanto final (“Nunca tal vimos”) prefigura o assombro dos redimidos diante da glória de Deus. O poder do Filho do Homem, que agora perdoa, é o mesmo com que Ele virá julgar os vivos e os mortos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em Cafarnaum, a multidão lota a casa onde Jesus prega. Quatro homens trazem um paralítico e, não podendo entrar, abrem o teto e descem o leito. Vendo a fé deles, Jesus diz: “Filho, teus pecados te são perdoados”. Os escribas o acusam em pensamento de blasfêmia. Jesus, para mostrar que o Filho do Homem tem poder de perdoar, ordena ao paralítico que se levante, tome o leito e vá para casa; ele o faz diante de todos, que louvam a Deus.",
+    "meditatio_perguntas": [
+      "Quem eu tenho “carregado” até Jesus pela minha oração e pelo meu exemplo?",
+      "Em que sou paralítico: desejo o bem, mas não tenho forças para fazê-lo?",
+      "Procuro o perdão dos meus pecados com a mesma urgência com que procuro a solução dos meus problemas?"
+    ],
+    "oratio_guia": "Senhor Jesus, olha também para a minha fé e para a fé dos que me carregam. Dize-me, como ao paralítico: “Filho, teus pecados te são perdoados”. Levanta-me da minha paralisia e faz que eu leve outros até ti. Amém.",
+    "contemplatio_foco": { "texto": "Filho, são-te perdoados os teus pecados.", "ref": "Mc 2,5" }
+  },
+  "ancoras": {
+    "2:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:1–12#17", "sintese": "Se eu, sem forças para o bem como um paralítico, for levado a Cristo pelos quatro evangelistas e ouvir-me chamar filho, também os meus pecados me serão perdoados." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:1–12#18", "sintese": "Os quatro que carregam são as virtudes da prudência, fortaleza, temperança e justiça. A multidão que impede é o peso do antigo costume, que retém a alma que deseja ser renovada." }
+      ],
+      "nota": null
+    },
+    "2:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:1–12#20", "sintese": "O enfermo é descido pelo teto aberto porque, quando as Escrituras se nos abrem, chegamos ao conhecimento de Cristo e descemos à sua humildade pela obediência da fé." }
+      ],
+      "nota": { "texto": "Os tetos das casas da Galileia eram de vigas cobertas com ramos e terra batida, e podiam ser abertos.", "origem": "ia" }
+    },
+    "2:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:1–12#3", "sintese": "Se a fé alheia valeu tanto que o homem foi curado no corpo e na alma, quanto vale diante de Deus a fé pessoal de cada um!" },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:1–12#5", "sintese": "Desata primeiro as cadeias dos pecados, causa da paralisia. E, com admirável humildade, chama “filho” o homem desprezado em quem os sacerdotes nem se dignavam tocar." }
+      ],
+      "nota": null
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:1–12#7", "sintese": "É Deus quem perdoa os pecados, também por meio daqueles a quem deu esse poder. Como Cristo perdoa como Deus, prova-se que é verdadeiro Deus, contra os que o negam." }
+      ],
+      "nota": null
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "2:1–12#9", "sintese": "Diz “na terra” para mostrar que uniu o poder da divindade à natureza humana numa união inseparável: feito homem, continuou sendo o Verbo de Deus." }
+      ],
+      "nota": { "texto": "“Filho do Homem” é o título com que Jesus mais se designa. Evoca a figura gloriosa de Daniel 7,13-14, a quem é dado poder eterno.", "origem": "ia" }
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:1–12#10", "sintese": "“Toma o teu leito” confirma o milagre e mostra que não só curou, mas deu força: Ele não só afasta do pecado, mas dá força para cumprir os mandamentos." }
+      ],
+      "nota": null
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:1–12#13", "sintese": "Muitas doenças nascem dos pecados. Os males do corpo vêm por cinco motivos: aumentar méritos, guardar a humildade, corrigir pecados, manifestar a glória de Deus ou começar o castigo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,1065 @@
+{
+ "livro": "MRK",
+ "secoes": [
+  "Prólogo",
+  "O ministério na Galileia",
+  "Jesus, os Doze e as parábolas do Reino",
+  "A missão dos Doze e o pão",
+  "A caminho de Jerusalém",
+  "O ministério em Jerusalém",
+  "A Paixão e a Morte do Senhor",
+  "A Ressurreição"
+ ],
+ "pericopes": [
+  {
+   "id": "MRK.1.1",
+   "titulo": "A pregação de João Batista",
+   "secao": "Prólogo",
+   "referencia": "Mc 1,1-8",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 8
+   }
+  },
+  {
+   "id": "MRK.1.9",
+   "titulo": "O batismo de Jesus",
+   "secao": "Prólogo",
+   "referencia": "Mc 1,9-11",
+   "ini": {
+    "c": 1,
+    "v": 9
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "MRK.1.12",
+   "titulo": "A tentação no deserto",
+   "secao": "Prólogo",
+   "referencia": "Mc 1,12-13",
+   "ini": {
+    "c": 1,
+    "v": 12
+   },
+   "fim": {
+    "c": 1,
+    "v": 13
+   }
+  },
+  {
+   "id": "MRK.1.14",
+   "titulo": "Jesus começa a pregar o Evangelho",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,14-15",
+   "ini": {
+    "c": 1,
+    "v": 14
+   },
+   "fim": {
+    "c": 1,
+    "v": 15
+   }
+  },
+  {
+   "id": "MRK.1.16",
+   "titulo": "O chamado dos primeiros discípulos",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,16-20",
+   "ini": {
+    "c": 1,
+    "v": 16
+   },
+   "fim": {
+    "c": 1,
+    "v": 20
+   }
+  },
+  {
+   "id": "MRK.1.21",
+   "titulo": "O endemoninhado na sinagoga de Cafarnaum",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,21-28",
+   "ini": {
+    "c": 1,
+    "v": 21
+   },
+   "fim": {
+    "c": 1,
+    "v": 28
+   }
+  },
+  {
+   "id": "MRK.1.29",
+   "titulo": "A cura da sogra de Pedro e de muitos doentes",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,29-34",
+   "ini": {
+    "c": 1,
+    "v": 29
+   },
+   "fim": {
+    "c": 1,
+    "v": 34
+   }
+  },
+  {
+   "id": "MRK.1.35",
+   "titulo": "Jesus ora e prega por toda a Galileia",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,35-39",
+   "ini": {
+    "c": 1,
+    "v": 35
+   },
+   "fim": {
+    "c": 1,
+    "v": 39
+   }
+  },
+  {
+   "id": "MRK.1.40",
+   "titulo": "A cura de um leproso",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 1,40-45",
+   "ini": {
+    "c": 1,
+    "v": 40
+   },
+   "fim": {
+    "c": 1,
+    "v": 45
+   }
+  },
+  {
+   "id": "MRK.2.1",
+   "titulo": "A cura do paralítico de Cafarnaum",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 2,1-12",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 12
+   }
+  },
+  {
+   "id": "MRK.2.13",
+   "titulo": "O chamado de Levi; Jesus come com os pecadores",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 2,13-17",
+   "ini": {
+    "c": 2,
+    "v": 13
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "MRK.2.18",
+   "titulo": "A questão do jejum: vinho novo em odres novos",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 2,18-22",
+   "ini": {
+    "c": 2,
+    "v": 18
+   },
+   "fim": {
+    "c": 2,
+    "v": 22
+   }
+  },
+  {
+   "id": "MRK.2.23",
+   "titulo": "As espigas no sábado: o Filho do Homem é senhor do sábado",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 2,23-28",
+   "ini": {
+    "c": 2,
+    "v": 23
+   },
+   "fim": {
+    "c": 2,
+    "v": 28
+   }
+  },
+  {
+   "id": "MRK.3.1",
+   "titulo": "O homem da mão seca",
+   "secao": "O ministério na Galileia",
+   "referencia": "Mc 3,1-6",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 6
+   }
+  },
+  {
+   "id": "MRK.3.7",
+   "titulo": "As multidões seguem Jesus",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 3,7-12",
+   "ini": {
+    "c": 3,
+    "v": 7
+   },
+   "fim": {
+    "c": 3,
+    "v": 12
+   }
+  },
+  {
+   "id": "MRK.3.13",
+   "titulo": "A escolha dos Doze",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 3,13-19",
+   "ini": {
+    "c": 3,
+    "v": 13
+   },
+   "fim": {
+    "c": 3,
+    "v": 19
+   }
+  },
+  {
+   "id": "MRK.3.20",
+   "titulo": "Jesus e Belzebu: o pecado contra o Espírito Santo",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 3,20-30",
+   "ini": {
+    "c": 3,
+    "v": 20
+   },
+   "fim": {
+    "c": 3,
+    "v": 30
+   }
+  },
+  {
+   "id": "MRK.3.31",
+   "titulo": "A verdadeira família de Jesus",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 3,31-35",
+   "ini": {
+    "c": 3,
+    "v": 31
+   },
+   "fim": {
+    "c": 3,
+    "v": 35
+   }
+  },
+  {
+   "id": "MRK.4.1",
+   "titulo": "A parábola do semeador",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 4,1-20",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 20
+   }
+  },
+  {
+   "id": "MRK.4.21",
+   "titulo": "A lâmpada e a medida",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 4,21-25",
+   "ini": {
+    "c": 4,
+    "v": 21
+   },
+   "fim": {
+    "c": 4,
+    "v": 25
+   }
+  },
+  {
+   "id": "MRK.4.26",
+   "titulo": "A semente que cresce sozinha e o grão de mostarda",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 4,26-34",
+   "ini": {
+    "c": 4,
+    "v": 26
+   },
+   "fim": {
+    "c": 4,
+    "v": 34
+   }
+  },
+  {
+   "id": "MRK.4.35",
+   "titulo": "Jesus acalma a tempestade",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 4,35-40",
+   "ini": {
+    "c": 4,
+    "v": 35
+   },
+   "fim": {
+    "c": 4,
+    "v": 40
+   }
+  },
+  {
+   "id": "MRK.5.1",
+   "titulo": "O endemoninhado de Gerasa",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 5,1-20",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 20
+   }
+  },
+  {
+   "id": "MRK.5.21",
+   "titulo": "A filha de Jairo e a mulher com fluxo de sangue",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 5,21-43",
+   "ini": {
+    "c": 5,
+    "v": 21
+   },
+   "fim": {
+    "c": 5,
+    "v": 43
+   }
+  },
+  {
+   "id": "MRK.6.1",
+   "titulo": "Jesus rejeitado em Nazaré",
+   "secao": "Jesus, os Doze e as parábolas do Reino",
+   "referencia": "Mc 6,1-6",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 6
+   }
+  },
+  {
+   "id": "MRK.6.7",
+   "titulo": "A missão dos Doze",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 6,7-13",
+   "ini": {
+    "c": 6,
+    "v": 7
+   },
+   "fim": {
+    "c": 6,
+    "v": 13
+   }
+  },
+  {
+   "id": "MRK.6.14",
+   "titulo": "A morte de João Batista",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 6,14-29",
+   "ini": {
+    "c": 6,
+    "v": 14
+   },
+   "fim": {
+    "c": 6,
+    "v": 29
+   }
+  },
+  {
+   "id": "MRK.6.30",
+   "titulo": "O descanso dos apóstolos: ovelhas sem pastor",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 6,30-34",
+   "ini": {
+    "c": 6,
+    "v": 30
+   },
+   "fim": {
+    "c": 6,
+    "v": 34
+   }
+  },
+  {
+   "id": "MRK.6.35",
+   "titulo": "A primeira multiplicação dos pães",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 6,35-44",
+   "ini": {
+    "c": 6,
+    "v": 35
+   },
+   "fim": {
+    "c": 6,
+    "v": 44
+   }
+  },
+  {
+   "id": "MRK.6.45",
+   "titulo": "Jesus caminha sobre as águas; curas em Genesaré",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 6,45-56",
+   "ini": {
+    "c": 6,
+    "v": 45
+   },
+   "fim": {
+    "c": 6,
+    "v": 56
+   }
+  },
+  {
+   "id": "MRK.7.1",
+   "titulo": "As tradições humanas e a verdadeira pureza",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 7,1-23",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 23
+   }
+  },
+  {
+   "id": "MRK.7.24",
+   "titulo": "A fé da mulher siro-fenícia",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 7,24-30",
+   "ini": {
+    "c": 7,
+    "v": 24
+   },
+   "fim": {
+    "c": 7,
+    "v": 30
+   }
+  },
+  {
+   "id": "MRK.7.31",
+   "titulo": "A cura do surdo-mudo: “Efeta”",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 7,31-37",
+   "ini": {
+    "c": 7,
+    "v": 31
+   },
+   "fim": {
+    "c": 7,
+    "v": 37
+   }
+  },
+  {
+   "id": "MRK.8.1",
+   "titulo": "A segunda multiplicação dos pães",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 8,1-9",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 9
+   }
+  },
+  {
+   "id": "MRK.8.10",
+   "titulo": "O sinal pedido pelos fariseus e o fermento",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 8,10-21",
+   "ini": {
+    "c": 8,
+    "v": 10
+   },
+   "fim": {
+    "c": 8,
+    "v": 21
+   }
+  },
+  {
+   "id": "MRK.8.22",
+   "titulo": "O cego de Betsaida",
+   "secao": "A missão dos Doze e o pão",
+   "referencia": "Mc 8,22-26",
+   "ini": {
+    "c": 8,
+    "v": 22
+   },
+   "fim": {
+    "c": 8,
+    "v": 26
+   }
+  },
+  {
+   "id": "MRK.8.27",
+   "titulo": "A profissão de Pedro e o primeiro anúncio da Paixão",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 8,27-33",
+   "ini": {
+    "c": 8,
+    "v": 27
+   },
+   "fim": {
+    "c": 8,
+    "v": 33
+   }
+  },
+  {
+   "id": "MRK.8.34",
+   "titulo": "Tomar a cruz e seguir Jesus",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 8,34-39",
+   "ini": {
+    "c": 8,
+    "v": 34
+   },
+   "fim": {
+    "c": 8,
+    "v": 39
+   }
+  },
+  {
+   "id": "MRK.9.1",
+   "titulo": "A Transfiguração e a vinda de Elias",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 9,1-12",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 12
+   }
+  },
+  {
+   "id": "MRK.9.13",
+   "titulo": "A cura do menino possesso",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 9,13-28",
+   "ini": {
+    "c": 9,
+    "v": 13
+   },
+   "fim": {
+    "c": 9,
+    "v": 28
+   }
+  },
+  {
+   "id": "MRK.9.29",
+   "titulo": "O segundo anúncio da Paixão; quem é o maior",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 9,29-36",
+   "ini": {
+    "c": 9,
+    "v": 29
+   },
+   "fim": {
+    "c": 9,
+    "v": 36
+   }
+  },
+  {
+   "id": "MRK.9.37",
+   "titulo": "Quem não é contra nós; o escândalo e o fogo",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 9,37-49",
+   "ini": {
+    "c": 9,
+    "v": 37
+   },
+   "fim": {
+    "c": 9,
+    "v": 49
+   }
+  },
+  {
+   "id": "MRK.10.1",
+   "titulo": "O matrimônio indissolúvel",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,1-12",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 12
+   }
+  },
+  {
+   "id": "MRK.10.13",
+   "titulo": "Jesus abençoa as crianças",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,13-16",
+   "ini": {
+    "c": 10,
+    "v": 13
+   },
+   "fim": {
+    "c": 10,
+    "v": 16
+   }
+  },
+  {
+   "id": "MRK.10.17",
+   "titulo": "O homem rico e a recompensa de quem tudo deixa",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,17-31",
+   "ini": {
+    "c": 10,
+    "v": 17
+   },
+   "fim": {
+    "c": 10,
+    "v": 31
+   }
+  },
+  {
+   "id": "MRK.10.32",
+   "titulo": "O terceiro anúncio da Paixão",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,32-34",
+   "ini": {
+    "c": 10,
+    "v": 32
+   },
+   "fim": {
+    "c": 10,
+    "v": 34
+   }
+  },
+  {
+   "id": "MRK.10.35",
+   "titulo": "O pedido de Tiago e João: o Filho do Homem veio para servir",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,35-45",
+   "ini": {
+    "c": 10,
+    "v": 35
+   },
+   "fim": {
+    "c": 10,
+    "v": 45
+   }
+  },
+  {
+   "id": "MRK.10.46",
+   "titulo": "A cura do cego Bartimeu",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mc 10,46-52",
+   "ini": {
+    "c": 10,
+    "v": 46
+   },
+   "fim": {
+    "c": 10,
+    "v": 52
+   }
+  },
+  {
+   "id": "MRK.11.1",
+   "titulo": "A entrada messiânica em Jerusalém",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 11,1-11",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 11
+   }
+  },
+  {
+   "id": "MRK.11.12",
+   "titulo": "A figueira estéril e a purificação do Templo",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 11,12-26",
+   "ini": {
+    "c": 11,
+    "v": 12
+   },
+   "fim": {
+    "c": 11,
+    "v": 26
+   }
+  },
+  {
+   "id": "MRK.11.27",
+   "titulo": "Com que autoridade fazes estas coisas?",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 11,27-33",
+   "ini": {
+    "c": 11,
+    "v": 27
+   },
+   "fim": {
+    "c": 11,
+    "v": 33
+   }
+  },
+  {
+   "id": "MRK.12.1",
+   "titulo": "A parábola dos vinhateiros homicidas",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,1-12",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 12
+   }
+  },
+  {
+   "id": "MRK.12.13",
+   "titulo": "O tributo a César",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,13-17",
+   "ini": {
+    "c": 12,
+    "v": 13
+   },
+   "fim": {
+    "c": 12,
+    "v": 17
+   }
+  },
+  {
+   "id": "MRK.12.18",
+   "titulo": "Os saduceus e a ressurreição dos mortos",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,18-27",
+   "ini": {
+    "c": 12,
+    "v": 18
+   },
+   "fim": {
+    "c": 12,
+    "v": 27
+   }
+  },
+  {
+   "id": "MRK.12.28",
+   "titulo": "O maior mandamento",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,28-34",
+   "ini": {
+    "c": 12,
+    "v": 28
+   },
+   "fim": {
+    "c": 12,
+    "v": 34
+   }
+  },
+  {
+   "id": "MRK.12.35",
+   "titulo": "O Messias, Filho e Senhor de David",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,35-37",
+   "ini": {
+    "c": 12,
+    "v": 35
+   },
+   "fim": {
+    "c": 12,
+    "v": 37
+   }
+  },
+  {
+   "id": "MRK.12.38",
+   "titulo": "Os escribas e a oferta da viúva pobre",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 12,38-44",
+   "ini": {
+    "c": 12,
+    "v": 38
+   },
+   "fim": {
+    "c": 12,
+    "v": 44
+   }
+  },
+  {
+   "id": "MRK.13.1",
+   "titulo": "A destruição do Templo e o princípio das dores",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 13,1-13",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 13
+   }
+  },
+  {
+   "id": "MRK.13.14",
+   "titulo": "A grande tribulação",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 13,14-23",
+   "ini": {
+    "c": 13,
+    "v": 14
+   },
+   "fim": {
+    "c": 13,
+    "v": 23
+   }
+  },
+  {
+   "id": "MRK.13.24",
+   "titulo": "A vinda do Filho do Homem; a lição da figueira",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 13,24-32",
+   "ini": {
+    "c": 13,
+    "v": 24
+   },
+   "fim": {
+    "c": 13,
+    "v": 32
+   }
+  },
+  {
+   "id": "MRK.13.33",
+   "titulo": "Vigiai!",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mc 13,33-37",
+   "ini": {
+    "c": 13,
+    "v": 33
+   },
+   "fim": {
+    "c": 13,
+    "v": 37
+   }
+  },
+  {
+   "id": "MRK.14.1",
+   "titulo": "A conspiração e a unção em Betânia",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,1-11",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 11
+   }
+  },
+  {
+   "id": "MRK.14.12",
+   "titulo": "A Ceia pascal e a instituição da Eucaristia",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,12-25",
+   "ini": {
+    "c": 14,
+    "v": 12
+   },
+   "fim": {
+    "c": 14,
+    "v": 25
+   }
+  },
+  {
+   "id": "MRK.14.26",
+   "titulo": "O anúncio da negação de Pedro",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,26-31",
+   "ini": {
+    "c": 14,
+    "v": 26
+   },
+   "fim": {
+    "c": 14,
+    "v": 31
+   }
+  },
+  {
+   "id": "MRK.14.32",
+   "titulo": "A agonia no Getsêmani",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,32-42",
+   "ini": {
+    "c": 14,
+    "v": 32
+   },
+   "fim": {
+    "c": 14,
+    "v": 42
+   }
+  },
+  {
+   "id": "MRK.14.43",
+   "titulo": "A prisão de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,43-52",
+   "ini": {
+    "c": 14,
+    "v": 43
+   },
+   "fim": {
+    "c": 14,
+    "v": 52
+   }
+  },
+  {
+   "id": "MRK.14.53",
+   "titulo": "Jesus diante do Sinédrio",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,53-65",
+   "ini": {
+    "c": 14,
+    "v": 53
+   },
+   "fim": {
+    "c": 14,
+    "v": 65
+   }
+  },
+  {
+   "id": "MRK.14.66",
+   "titulo": "As negações de Pedro",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 14,66-72",
+   "ini": {
+    "c": 14,
+    "v": 66
+   },
+   "fim": {
+    "c": 14,
+    "v": 72
+   }
+  },
+  {
+   "id": "MRK.15.1",
+   "titulo": "Jesus diante de Pilatos",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 15,1-15",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 15
+   }
+  },
+  {
+   "id": "MRK.15.16",
+   "titulo": "A coroação de espinhos e a crucifixão",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 15,16-32",
+   "ini": {
+    "c": 15,
+    "v": 16
+   },
+   "fim": {
+    "c": 15,
+    "v": 32
+   }
+  },
+  {
+   "id": "MRK.15.33",
+   "titulo": "A morte de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 15,33-41",
+   "ini": {
+    "c": 15,
+    "v": 33
+   },
+   "fim": {
+    "c": 15,
+    "v": 41
+   }
+  },
+  {
+   "id": "MRK.15.42",
+   "titulo": "A sepultura de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mc 15,42-47",
+   "ini": {
+    "c": 15,
+    "v": 42
+   },
+   "fim": {
+    "c": 15,
+    "v": 47
+   }
+  },
+  {
+   "id": "MRK.16.1",
+   "titulo": "O sepulcro vazio",
+   "secao": "A Ressurreição",
+   "referencia": "Mc 16,1-8",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 8
+   }
+  },
+  {
+   "id": "MRK.16.9",
+   "titulo": "As aparições do Ressuscitado",
+   "secao": "A Ressurreição",
+   "referencia": "Mc 16,9-14",
+   "ini": {
+    "c": 16,
+    "v": 9
+   },
+   "fim": {
+    "c": 16,
+    "v": 14
+   }
+  },
+  {
+   "id": "MRK.16.15",
+   "titulo": "O envio dos discípulos e a Ascensão",
+   "secao": "A Ressurreição",
+   "referencia": "Mc 16,15-20",
+   "ini": {
+    "c": 16,
+    "v": 15
+   },
+   "fim": {
+    "c": 16,
+    "v": 20
+   }
+  }
+ ]
+}

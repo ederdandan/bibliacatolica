@@ -1,0 +1,67 @@
+{
+  "id": "MRK.16.9",
+  "livro": "MRK",
+  "titulo": "As aparições do Ressuscitado",
+  "secao": "A Ressurreição",
+  "referencia": "Mc 16,9-14",
+  "ini": { "c": 16, "v": 9 },
+  "fim": { "c": 16, "v": 14 },
+  "liturgia": { "tema_central": "O Ressuscitado se manifesta e vence a incredulidade dos seus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O “final longo” de Marcos resume as aparições narradas nos outros Evangelhos. Jesus ressuscitado aparece primeiro a Maria Madalena, de quem expulsara sete demônios (cf. Lc 8,2; Jo 20,11-18); ela anuncia aos discípulos, que choravam, mas eles não creem. Depois aparece “sob outra forma” a dois que iam para o campo (os discípulos de Emaús, Lc 24,13-35); também a eles não dão crédito. Por fim, aparece aos Onze à mesa e censura a sua incredulidade e dureza de coração, por não terem crido nas testemunhas. O texto insiste na dificuldade em crer, mostrando que a fé pascal não nasceu da credulidade.",
+    "alegorico": "Maria Madalena, libertada de sete demônios, é figura da humanidade pecadora resgatada: a mulher que primeiro levou o homem ao pecado é agora a primeira a anunciar a vida. Os Padres a viram como a Igreja que anuncia a Ressurreição. A “outra forma” indica que o corpo ressuscitado é o mesmo, mas glorioso: o mortal tornou-se imortal. Cristo é o novo Sansão, que saiu da cidade levando consigo as suas portas, isto é, venceu a morte.",
+    "moral": "Jesus confia o primeiro anúncio a quem mais fora perdoado: a misericórdia faz apóstolos. A incredulidade dos discípulos é advertência contra a dureza de coração, mas também nos é útil: a demora deles em crer confirma a nossa fé. Somos chamados a crer no testemunho dos que viram, transmitido pela Igreja, sem exigir ver por nós mesmos.",
+    "anagogico": "Os que choram agora serão consolados: a dor dos discípulos se transforma em alegria pascal. A Ressurreição de Cristo é primícia da nossa: também nós, transformados, teremos um corpo glorioso como o seu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo ressuscitado de manhã, no primeiro dia da semana, Jesus aparece primeiro a Maria Madalena, de quem expulsara sete demônios. Ela vai anunciá-lo aos que tinham estado com Ele, que estavam tristes e chorando; mas, ouvindo que Ele vivia e fora visto por ela, não creem. Depois Ele se mostra sob outra forma a dois deles que iam para o campo; também estes anunciam aos outros, que não lhes dão crédito. Por fim, aparece aos Onze à mesa e censura-lhes a incredulidade e a dureza de coração, por não terem crido nos que o viram ressuscitado.",
+    "meditatio_perguntas": [
+      "Creio no testemunho da Igreja sobre a Ressurreição, ou exijo “ver” para crer?",
+      "Que dureza de coração me impede de reconhecer Jesus vivo na minha vida?",
+      "Como Maria Madalena, anuncio aos outros o que o Senhor fez por mim?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que te mostraste a Maria Madalena e aos teus discípulos, vence a minha incredulidade e a dureza do meu coração. Faz-me crer no testemunho dos que te viram e anunciar com alegria que estás vivo. Amém.",
+    "contemplatio_foco": { "texto": "Apareceu primeiramente a Maria Madalena.", "ref": "Mc 16,9" }
+  },
+  "ancoras": {
+    "16:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:9–13#3", "sintese": "Como Sansão à meia-noite saiu de Gaza levando as suas portas, assim o Redentor, ressuscitando antes do dia, não só saiu livre do inferno, mas destruiu as suas portas." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:9–13#5", "sintese": "Mostra-se à que fora libertada de sete demônios, porque as meretrizes e os publicanos precederão a sinagoga no Reino dos Céus." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "16:9–13#6", "sintese": "No princípio a mulher levou o homem ao pecado; agora, a que primeiro provou a morte é a primeira a ver a ressurreição." }
+      ],
+      "nota": null
+    },
+    "16:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:9–13#7", "sintese": "Estão aflitos e choram porque ainda não o tinham visto; mas em breve serão consolados." }
+      ],
+      "nota": null
+    },
+    "16:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 29", "catena": "16:9–13#10", "sintese": "A demora dos discípulos em crer não foi tanto fraqueza deles quanto firmeza nossa: duvidando, eles nos confirmam." }
+      ],
+      "nota": null
+    },
+    "16:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "no lugar citado", "catena": "16:9–13#11", "sintese": "Lucas refere toda a história desses dois, um dos quais era Cléofas; Marcos apenas a toca de leve." }
+      ],
+      "nota": { "texto": "Os vv. 9-20 formam o chamado “final longo” de Marcos, que resume as aparições narradas por Lucas e João.", "origem": "ia" }
+    },
+    "16:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:14–18#2", "sintese": "Apareceu quando os Onze estavam todos juntos, para que todos fossem testemunhas." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:14–18#5", "sintese": "Censura a incredulidade para que a fé tome o seu lugar, e a dureza do coração de pedra para que nele entre um coração de carne." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

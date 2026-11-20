@@ -1,0 +1,60 @@
+{
+  "id": "MRK.6.7",
+  "livro": "MRK",
+  "titulo": "A missão dos Doze",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,7-13",
+  "ini": { "c": 6, "v": 7 },
+  "fim": { "c": 6, "v": 13 },
+  "liturgia": { "tema_central": "Enviados dois a dois, pobres e livres, a pregar a conversão e a curar", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de “estarem com Ele” (3,14), os Doze são enviados em missão, dois a dois, como exigia o testemunho válido na Lei (Dt 19,15). Recebem poder sobre os espíritos impuros. As instruções pedem extrema pobreza: só bastão e sandálias, como os peregrinos do Êxodo (Ex 12,11), sem pão, sem alforje, sem dinheiro, sem túnica de reserva. Devem permanecer na mesma casa, e, se forem rejeitados, sacudir o pó dos pés, gesto que os judeus faziam ao sair de terra pagã. Pregam a conversão, expulsam demônios e ungem os doentes com óleo.",
+    "alegorico": "A missão dos Doze prefigura a missão universal da Igreja, que prolonga a obra de Cristo com o seu próprio poder. Ir dois a dois significa os dois preceitos da caridade: ninguém deve assumir o ofício de pregar sem amor ao próximo. A unção dos doentes com óleo é o germe do sacramento da Unção dos Enfermos, que a Igreja depois praticará (Tg 5,14-15).",
+    "moral": "O pregador deve confiar em Deus a ponto de não se preocupar com as necessidades materiais, para oferecer com liberdade as coisas eternas. A pobreza dos enviados torna credível o Evangelho que anunciam. Não devem andar de casa em casa buscando conforto. Diante da rejeição, não se impõem nem se vingam: sacodem o pó e seguem adiante. A missão começa pela conversão, e a primeira conversão é a do próprio missionário.",
+    "anagogico": "A pobreza dos enviados aponta para a única riqueza que permanece, o Reino. Os que deixam tudo pelo Evangelho recebem a herança eterna. E a unção dos doentes, alívio e força na enfermidade, prepara a passagem para a cura definitiva na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus chama os Doze e começa a enviá-los dois a dois, dando-lhes poder sobre os espíritos impuros. Manda que não levem nada para o caminho, além de um bastão: nem pão, nem alforje, nem dinheiro; apenas sandálias e uma só túnica. Que fiquem na casa onde forem recebidos, e, onde não forem acolhidos, sacudam o pó dos pés. Eles partem, pregam a conversão, expulsam demônios, ungem com óleo muitos doentes e os curam.",
+    "meditatio_perguntas": [
+      "Sinto-me enviado por Jesus no meu ambiente de família, trabalho e comunidade?",
+      "Que “bagagens” me impedem de anunciar o Evangelho com liberdade?",
+      "Como reajo quando a minha fé é rejeitada: com amargura, ou com paz?"
+    ],
+    "oratio_guia": "Senhor Jesus, que enviaste os Doze pobres e livres, envia-me também. Despoja-me do que me prende e dá-me a confiança de quem tudo espera de ti. Que eu anuncie a conversão com a palavra e com a vida, na caridade. Amém.",
+    "contemplatio_foco": { "texto": "Pregavam aos povos que fizessem penitência.", "ref": "Mc 6,12" }
+  },
+  "ancoras": {
+    "6:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 17", "catena": "6:6–13#3", "sintese": "Envia-os dois a dois porque são dois os preceitos da caridade, e a caridade não existe entre menos de dois: quem não tem caridade com o próximo não deve assumir o ofício de pregar." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 24", "catena": "6:6–13#1", "sintese": "O Senhor bondoso não negava aos seus servos os próprios poderes: como Ele curara toda doença, deu esse poder aos discípulos." }
+      ],
+      "nota": null
+    },
+    "6:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:6–13#4", "sintese": "O pregador deve confiar tanto em Deus que, sem se ocupar das coisas temporais, ofereça com mais liberdade as eternas." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 30", "catena": "6:6–13#7", "sintese": "Não proibiu essas coisas por não serem necessárias, mas para mostrar que eram devidas aos enviados pelos fiéis: o operário é digno do seu sustento." }
+      ],
+      "nota": { "texto": "Mateus e Lucas excluem também o bastão. Marcos o permite, talvez como recordação dos peregrinos da Páscoa (Ex 12,11).", "origem": "ia" }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "6:6–13#12", "sintese": "O pó sacudido é testemunho da fadiga suportada por eles, ou como se o pó dos pecados deles voltasse contra eles mesmos." }
+      ],
+      "nota": null
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:6–13#14", "sintese": "Vê-se pelos próprios apóstolos que é costume antigo da Igreja ungir com óleo consagrado os possessos ou os afligidos por qualquer doença." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:6–13#13", "sintese": "O óleo significa também a graça do Espírito Santo, que nos alivia das fadigas e nos dá luz e alegria espiritual." }
+      ],
+      "nota": { "texto": "O Concílio de Trento viu neste versículo uma insinuação do sacramento da Unção dos Enfermos, promulgado em Tg 5,14-15.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

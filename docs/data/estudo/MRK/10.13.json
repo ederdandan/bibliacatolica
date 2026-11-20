@@ -1,0 +1,60 @@
+{
+  "id": "MRK.10.13",
+  "livro": "MRK",
+  "titulo": "Jesus abençoa as crianças",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,13-16",
+  "ini": { "c": 10, "v": 13 },
+  "fim": { "c": 10, "v": 16 },
+  "liturgia": { "tema_central": "“Deixai vir a mim os meninos”: receber o Reino com coração de criança", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Levam crianças a Jesus para que as toque e abençoe, como era costume com os rabinos. Os discípulos repreendem quem as traz, talvez para proteger o Mestre de importunações. Jesus “fica indignado”, emoção forte que só Marcos registra, e diz: “Deixai vir a mim os meninos”, porque o Reino pertence aos que são como eles. Quem não recebe o Reino como uma criança não entrará nele. Então as abraça, impõe-lhes as mãos e as abençoa. Na sociedade antiga, a criança era o ser sem direitos nem méritos.",
+    "alegorico": "As crianças trazidas a Cristo prefiguram o Batismo das crianças, em que a Igreja as leva ao Senhor para receberem a sua bênção e graça. O abraço de Jesus significa a reconciliação da criação, que caiu e se afastou de Deus, e agora é elevada ao seu seio. Os “pequenos” são também os simples e humildes, que os pastores nunca devem afastar de Cristo.",
+    "moral": "Receber o Reino como criança é acolhê-lo como dom gratuito, com confiança, dependência e simplicidade, sem pretensões de mérito. A criança não odeia, não guarda rancor, não se vangloria: devemos praticar por escolha o que ela vive por natureza. Os que exercem autoridade na Igreja não devem impedir os simples e humildes de chegar a Cristo. Quem não se torna pequeno não entra.",
+    "anagogico": "O Reino dos céus pertence aos humildes, que serão abraçados e abençoados por Cristo para sempre. A infância espiritual, vivida aqui, é a porta da glória eterna, onde seremos para sempre filhos no seio do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apresentam crianças a Jesus para que as toque, mas os discípulos repreendem os que as trazem. Vendo isso, Jesus fica indignado e diz: “Deixai vir a mim os meninos, não os impeçais, porque o Reino de Deus é dos que são como eles. Quem não receber o Reino de Deus como um menino não entrará nele”. Então os abraça, impõe-lhes as mãos e os abençoa.",
+    "meditatio_perguntas": [
+      "Recebo o amor de Deus como dom, ou acho que preciso merecê-lo?",
+      "Há algo em mim (orgulho, desconfiança, complicação) que me impede de ser “criança” diante de Deus?",
+      "Ajudo as crianças e os simples a chegarem a Jesus, ou os impeço?"
+    ],
+    "oratio_guia": "Senhor Jesus, que abraças e abençoas os pequenos, faz-me criança diante de ti. Dá-me a confiança simples de quem tudo recebe do Pai. Abençoa as crianças da minha família e da tua Igreja, e não permitas que eu seja obstáculo para ninguém chegar a ti. Amém.",
+    "contemplatio_foco": { "texto": "Deixai vir a mim os meninos.", "ref": "Mc 10,14" }
+  },
+  "ancoras": {
+    "10:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:13–16#0", "sintese": "Acima, a malícia dos fariseus; agora, a grande fé da multidão, que acreditava que Cristo abençoava as crianças só pela imposição das mãos." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:13–16#1", "sintese": "Os discípulos as impediam por respeito à dignidade de Cristo; o Salvador, porém, ensina-lhes a ser humildes e a pisar o fausto do mundo." }
+      ],
+      "nota": null
+    },
+    "10:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "in Matth. tom. XV, 7", "catena": "10:13–16#2", "sintese": "Quem exerce na Igreja o ofício de mestre não impeça que lhe tragam os simples e humildes deste mundo, os pequeninos." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:13–16#4", "sintese": "Não diz “destas”, mas “dos tais”: o Reino é dos que têm na intenção e nas obras a inocência e a simplicidade que as crianças têm por natureza." }
+      ],
+      "nota": null
+    },
+    "10:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:13–16#3", "sintese": "A mente da criança está livre de todas as paixões; devemos praticar por livre escolha o que as crianças têm por natureza." }
+      ],
+      "nota": null
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "10:13–16#6", "sintese": "Toma-as nos braços como que elevando ao seu seio e reconciliando consigo a criação que no princípio caiu e se separou dele." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:13–16#7", "sintese": "Abraça e abençoa, dando a entender que os humildes de espírito são dignos da sua bênção, da sua graça e do seu amor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

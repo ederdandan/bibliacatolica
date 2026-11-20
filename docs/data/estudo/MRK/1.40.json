@@ -1,0 +1,62 @@
+{
+  "id": "MRK.1.40",
+  "livro": "MRK",
+  "titulo": "A cura de um leproso",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 1,40-45",
+  "ini": { "c": 1, "v": 40 },
+  "fim": { "c": 1, "v": 45 },
+  "liturgia": { "tema_central": "“Quero, sê limpo”: a compaixão de Cristo toca o excluído e o reintegra", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A lepra, termo que abrangia várias doenças de pele, tornava a pessoa ritualmente impura e a excluía da convivência (Lv 13–14). O leproso rompe essa barreira e se ajoelha diante de Jesus com uma fé humilde: “Se queres, podes”. Jesus, “compadecido”, faz o impensável: toca-o. A cura é imediata. Em seguida, manda-o ao sacerdote para cumprir a Lei e ser reintegrado na comunidade, e pede silêncio. O homem, porém, divulga tudo, e Jesus passa a ficar fora das cidades, quase trocando de lugar com o antigo leproso.",
+    "alegorico": "A ordem da restauração repete a ordem da queda: primeiro a serpente é calada, depois a mulher é curada, e agora o homem é purificado. A lepra figura o pecado, que desfigura e separa de Deus e dos outros. A mão estendida de Cristo é o Verbo encarnado que toca a natureza humana e a purifica sem se contaminar. O envio ao sacerdote prefigura o sacramento da Penitência, onde o pecador é reconciliado com Deus e reintegrado na Igreja.",
+    "moral": "A oração do leproso é modelo: humilde (de joelhos), confiante (“podes”) e abandonada à vontade de Deus (“se queres”). Jesus não teme tocar o impuro: o cristão também não pode fugir dos excluídos. O pedido de silêncio ensina a não buscar honra pelas boas obras; a desobediência do curado, por sua vez, mostra como é difícil calar a gratidão. Quem foi purificado deve render graças, ainda que o benfeitor não o exija.",
+    "anagogico": "A purificação do leproso anuncia a criação inteira purificada no fim, quando nada impuro entrará na Cidade santa. O homem reintegrado na comunidade figura a admissão dos redimidos à assembleia dos santos. E o Cristo que fica “fora”, no deserto, é o mesmo que padecerá fora da cidade para nos introduzir na cidade eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um leproso se aproxima de Jesus e, de joelhos, suplica: “Se queres, podes limpar-me”. Jesus, compadecido, estende a mão, toca-o e diz: “Quero, sê limpo”; e a lepra desaparece. Jesus o despede severamente, mandando que não conte a ninguém, mas se apresente ao sacerdote. Ele, porém, divulga o fato, e Jesus já não pode entrar abertamente nas cidades; ainda assim, de toda parte vêm até ele.",
+    "meditatio_perguntas": [
+      "Qual é a “lepra” que me isola de Deus e dos outros? Tenho coragem de mostrá-la a Jesus?",
+      "Rezo com a confiança e o abandono do leproso: “Se queres, podes”?",
+      "Quem são os “intocáveis” ao meu redor que eu evito? Como posso estender-lhes a mão?"
+    ],
+    "oratio_guia": "Senhor Jesus, de joelhos diante de ti eu te digo: se queres, podes purificar-me. Estende sobre mim a tua mão compassiva, toca as minhas feridas e devolve-me à comunhão com os irmãos. Que eu saiba agradecer e tocar também os que estão à margem. Amém.",
+    "contemplatio_foco": { "texto": "Quero, sê limpo.", "ref": "Mc 1,41" }
+  },
+  "ancoras": {
+    "1:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 7", "catena": "1:40–45#0", "sintese": "Depois de calar os demônios e curar a mulher, purifica-se em terceiro lugar o homem, para que a ordem da restauração no Senhor fosse a mesma da queda dos primeiros pais." },
+        { "autor": "Teofilato", "obra": null, "catena": "1:40–45#3", "sintese": "Não disse “se quiseres pedir a Deus”, mas “se queres”, por julgá-lo verdadeiro Deus." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:40–45#4", "sintese": "Não duvidou da misericórdia do Senhor; consciente da própria impureza, apenas não ousava presumir." }
+      ],
+      "nota": null
+    },
+    "1:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 25", "catena": "1:40–45#5", "sintese": "A Lei declarava impuro quem tocasse um leproso. Jesus o toca para mostrar que a Lei não foi posta para Ele, que é o seu Senhor, e que cura não como servo, mas como Senhor." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:40–45#6", "sintese": "Tocou-o para provar que não podia ser contaminado aquele que livrava os outros da contaminação. “Quero”: eis a sua vontade; “sê limpo”: eis o efeito da sua compaixão." }
+      ],
+      "nota": null
+    },
+    "1:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 25", "catena": "1:40–45#9", "sintese": "Ao pedir silêncio, ensina a não buscar honras mundanas pelas nossas obras. Envia-o ao sacerdote para que verifique a cura e o homem possa voltar a ser contado com o povo na oração." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:40–45#12", "sintese": "O Senhor ainda manda oferecer o sacrifício da Lei porque ainda não havia oferecido o seu próprio holocausto na Paixão: as figuras só deviam cessar depois de confirmada a realidade." }
+      ],
+      "nota": { "texto": "Lv 14 prescreve o rito pelo qual o sacerdote constatava a cura do leproso e o readmitia na comunidade.", "origem": "ia" }
+    },
+    "1:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:40–45#13", "sintese": "Quem recebe um benefício deve ser grato e dar graças, ainda que o benfeitor não o exija." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 10", "catena": "1:40–45#20", "sintese": "Depois do milagre, retira-se para o deserto, mostrando que ama acima de tudo a vida tranquila e que se dedicou à cura dos corpos para atender ao desejo das multidões." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

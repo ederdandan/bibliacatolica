@@ -1,0 +1,67 @@
+{
+  "id": "MRK.10.46",
+  "livro": "MRK",
+  "titulo": "A cura do cego Bartimeu",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,46-52",
+  "ini": { "c": 10, "v": 46 },
+  "fim": { "c": 10, "v": 52 },
+  "liturgia": { "tema_central": "“Jesus, Filho de David, tem piedade de mim!”: a fé que vê e segue pelo caminho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em Jericó, última etapa antes de Jerusalém, o mendigo cego Bartimeu (“filho de Timeu”) ouve que Jesus passa e grita: “Jesus, Filho de David, tem piedade de mim!”, primeira vez em Marcos que Jesus é publicamente chamado com o título messiânico. Repreendido, grita ainda mais. Jesus para e manda chamá-lo. Ele joga fora o manto, talvez a sua única posse, e salta até Jesus. À pergunta “Que queres que eu te faça?” (a mesma feita a Tiago e João, 10,36), responde: “Rabôni, que eu veja”. Curado, segue Jesus “pelo caminho”, isto é, rumo a Jerusalém e à Cruz. É o modelo do discípulo e fecha a seção iniciada com o cego de Betsaida.",
+    "alegorico": "Jericó, que significa “lua” (São Jerônimo), indica o declínio da nossa condição mortal; Cristo, aproximando-se da sua Paixão, ilumina o gênero humano. O cego à beira do caminho representa a humanidade, e também Israel, que guardou as Escrituras sem as cumprir e mendiga à beira do caminho. Lançar o manto é despojar-se do homem velho, como no Batismo, para seguir aquele que é o Caminho.",
+    "moral": "Bartimeu é o modelo da oração perseverante e humilde: grita, mesmo quando querem calá-lo, e pede o essencial. Ao contrário de Tiago e João, que pediram glória, ele pede luz. Não peçamos riquezas nem honras, mas a luz que se vê com os anjos e cujo caminho é a fé. O curado não volta à vida de antes: segue Jesus pelo caminho da Cruz. A gratidão se exprime no seguimento.",
+    "anagogico": "A luz que Bartimeu recebe é penhor da Luz eterna, a visão de Deus. Seguir Jesus “pelo caminho” nesta vida é a condição para entrar com Ele na Jerusalém celeste, onde não será preciso nem sol nem lua, porque o Cordeiro é a sua lâmpada (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao sair de Jericó, com os discípulos e uma grande multidão, Jesus passa por Bartimeu, mendigo cego sentado à beira do caminho. Ouvindo que é Jesus de Nazaré, ele grita: “Jesus, Filho de David, tem piedade de mim!”. Muitos o repreendem, mas ele grita ainda mais. Jesus para e diz: “Chamai-o”. Ele joga fora o manto, levanta-se de um salto e vai até Jesus, que pergunta: “Que queres que eu te faça?” “Rabôni, que eu veja.” “Vai, a tua fé te salvou.” Logo ele vê e segue Jesus pelo caminho.",
+    "meditatio_perguntas": [
+      "Se Jesus me perguntasse hoje “Que queres que eu te faça?”, o que eu lhe pediria?",
+      "Que vozes tentam calar a minha oração, e eu continuo gritando?",
+      "Que “manto” (segurança, hábito, apego) preciso lançar fora para ir a Jesus?"
+    ],
+    "oratio_guia": "Jesus, Filho de David, tem piedade de mim! Abre os meus olhos para ver-te e para ver o caminho. Dá-me a coragem de lançar fora o que me prende e de seguir-te até Jerusalém. Rabôni, que eu veja! Amém.",
+    "contemplatio_foco": { "texto": "Jesus, Filho de David, tem piedade de mim!", "ref": "Mc 10,47" }
+  },
+  "ancoras": {
+    "10:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "10:46–52#0", "sintese": "O nome da cidade corresponde à proximidade da paixão: Jericó significa “lua” ou “anátema”, e o desfalecimento da carne de Cristo prepara a Jerusalém celeste." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 65", "catena": "10:46–52#2", "sintese": "Mateus fala de dois cegos; Marcos refere só este, porque a sua cura deu ao milagre fama tanto maior quanto mais conhecida era a sua desgraça." }
+      ],
+      "nota": null
+    },
+    "10:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "10:46–52#3", "sintese": "Chama-o Filho de David ao ouvir a multidão louvá-lo, certo de que se cumprira a expectativa dos profetas." }
+      ],
+      "nota": { "texto": "“Filho de David” era título messiânico (2Sm 7,12-16). É a primeira vez em Marcos que Jesus é aclamado publicamente como Messias, às portas de Jerusalém.", "origem": "ia" }
+    },
+    "10:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:46–52#15", "sintese": "O povo dos gentios quis tornar-se participante de Cristo, mas muitos se opuseram, primeiro os judeus, depois os próprios gentios." }
+      ],
+      "nota": null
+    },
+    "10:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:46–52#5", "sintese": "Pergunta não por ignorar o que o cego queria, mas para estimular o seu coração a orar." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:46–52#7", "sintese": "O cego despreza todos os dons, exceto a luz, porque, sem ela, não pode ver o que possui." }
+      ],
+      "nota": null
+    },
+    "10:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:46–52#17", "sintese": "Imitemo-lo: não peçamos ao Senhor riquezas nem honras, mas a Luz que só veremos com os anjos e cujo caminho é a fé." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:46–52#18", "sintese": "Segue-o pelo caminho, isto é, nesta vida, porque depois dela ficam excluídos os que aqui não o seguem cumprindo os seus mandamentos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "MRK.13.24",
+  "livro": "MRK",
+  "titulo": "A vinda do Filho do Homem; a lição da figueira",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 13,24-32",
+  "ini": { "c": 13, "v": 24 },
+  "fim": { "c": 13, "v": 32 },
+  "liturgia": { "tema_central": "O Filho do Homem virá com grande poder e glória; as suas palavras não passarão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Com imagens dos profetas (Is 13,10; 34,4; Jl 2,10), Jesus descreve o abalo do cosmos: o sol escurece, as estrelas caem. Não é uma descrição astronômica, mas a linguagem bíblica do “Dia do Senhor”. Então se verá o Filho do Homem vindo sobre as nuvens (Dn 7,13), que enviará os anjos para reunir os eleitos dos quatro cantos da terra. A figueira, que em Israel brota tarde e anuncia o verão, ensina a ler os sinais. “Esta geração” verá o cumprimento (para muitos intérpretes, a destruição de Jerusalém, figura do fim). As palavras de Jesus são mais firmes que o céu e a terra. Do dia e da hora, porém, só o Pai sabe.",
+    "alegorico": "A vinda do Filho do Homem sobre as nuvens é a Parusia, quando Cristo, que subiu ao céu, virá do mesmo modo, com o corpo glorioso. Os anjos que Ele envia mostram que tem o mesmo poder do Pai. Os eleitos reunidos dos quatro ventos são a Igreja universal, recolhida como trigo joeirado na eira de toda a terra. As estrelas escurecem não por perder a luz, mas diante do esplendor da verdadeira Luz.",
+    "moral": "Saber ler os sinais dos tempos sem cair na curiosidade sobre datas, que Deus quis esconder para o nosso bem. A Palavra de Cristo é a única coisa estável num mundo que passa: sobre ela devemos construir. Se as próprias potências angélicas tremem diante do Juízo, quanto mais devemos nós prepará-lo com uma vida justa.",
+    "anagogico": "Este é o centro da esperança cristã: Cristo voltará na glória para julgar os vivos e os mortos e reunir os seus. A visão do Filho do Homem será dada também aos maus; mas a visão de Deus, só aos puros de coração. O verão que se aproxima é o Reino, quando cada árvore mostrará o que tinha dentro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Naqueles dias, depois da tribulação, o sol escurecerá, a lua não dará a sua luz, as estrelas cairão do céu e as potências dos céus serão abaladas. Então verão o Filho do Homem vir sobre as nuvens com grande poder e glória, e Ele enviará os anjos para reunir os eleitos dos quatro ventos. Aprendei da figueira: quando os ramos brotam, sabeis que o verão está perto. O céu e a terra passarão, mas as minhas palavras não passarão. Daquele dia e daquela hora, ninguém sabe, senão o Pai.",
+    "meditatio_perguntas": [
+      "Vivo à espera da vinda de Cristo, ou como se ela nunca fosse acontecer?",
+      "A Palavra de Jesus é a rocha da minha vida, quando tudo o mais passa?",
+      "Que “sinais” Deus me dá hoje para que eu me converta?"
+    ],
+    "oratio_guia": "Senhor Jesus, que virás sobre as nuvens com grande poder e glória, conta-me entre os teus eleitos. Que eu construa a minha vida sobre as tuas palavras, que não passam. Vem, Senhor Jesus! Amém.",
+    "contemplatio_foco": { "texto": "O céu e a terra passarão, mas as minhas palavras não passarão.", "ref": "Mc 13,31" }
+  },
+  "ancoras": {
+    "13:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:21–27#6", "sintese": "No dia do juízo, as estrelas parecerão escuras não por diminuição da sua luz, mas pelo esplendor da verdadeira Luz, o supremo Juiz." }
+      ],
+      "nota": { "texto": "As imagens cósmicas são tiradas dos profetas (Is 13,10; 34,4; Jl 2,10; 3,15). Exprimem a intervenção decisiva de Deus na história.", "origem": "ia" }
+    },
+    "13:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:21–27#8", "sintese": "Se as potências angélicas tremem diante desse juízo, que farão as tábuas da casa quando as colunas tremem?" }
+      ],
+      "nota": null
+    },
+    "13:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Epist. 199, 11", "catena": "13:21–27#10", "sintese": "Como os anjos disseram, virá do mesmo modo como o vimos subir ao céu: no mesmo corpo e sobre uma nuvem." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. I, 13", "catena": "13:21–27#12", "sintese": "A visão do Filho do Homem será mostrada também aos maus; a visão da forma de Deus, só aos puros de coração." }
+      ],
+      "nota": { "texto": "Retoma Dn 7,13-14, onde “um como filho de homem” vem sobre as nuvens e recebe um reino eterno.", "origem": "ia" }
+    },
+    "13:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:21–27#13", "sintese": "Cristo envia os anjos assim como o Pai: onde estão os que dizem que Ele não é igual ao Pai?" },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:21–27#14", "sintese": "Reúne os eleitos como o trigo joeirado na eira de toda a terra." }
+      ],
+      "nota": null
+    },
+    "13:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:28–31#4", "sintese": "As folhas que brotam são as palavras agora pronunciadas; o verão que se aproxima é o dia do juízo, em que cada árvore mostrará o que tinha dentro." }
+      ],
+      "nota": null
+    },
+    "13:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:28–31#5", "sintese": "Por geração entende todo o gênero humano, ou especialmente os judeus." }
+      ],
+      "nota": null
+    },
+    "13:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:32–37#0", "sintese": "Diz isso querendo impedir que os discípulos perguntassem sobre aquele dia e aquela hora." },
+        { "autor": "Teofilato", "obra": null, "catena": "13:32–37#7", "sintese": "Não disse “não sei”, mas “vós não sabeis”: escondeu-o porque era melhor para nós, que, sem saber o fim, já somos descuidados." }
+      ],
+      "nota": { "texto": "A tradição entende que o Filho, enquanto homem, não tinha a missão de revelar esse dia. Não se trata de ignorância na sua natureza divina.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

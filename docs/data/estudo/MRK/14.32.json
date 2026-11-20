@@ -1,0 +1,74 @@
+{
+  "id": "MRK.14.32",
+  "livro": "MRK",
+  "titulo": "A agonia no Getsêmani",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,32-42",
+  "ini": { "c": 14, "v": 32 },
+  "fim": { "c": 14, "v": 42 },
+  "liturgia": { "tema_central": "“Abba, Pai… não o que eu quero, mas o que tu queres”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No Getsêmani (“lagar de azeite”), ao pé do monte das Oliveiras, Jesus leva consigo Pedro, Tiago e João, as mesmas testemunhas da Transfiguração. Começa a sentir pavor e angústia: “A minha alma está numa tristeza mortal” (cf. Sl 42,6). Prostrado por terra, reza: “Abba, Pai”, termo aramaico de intimidade filial que Marcos conserva, “afasta de mim este cálice; mas não o que eu quero, e sim o que tu queres”. Três vezes volta e encontra os discípulos dormindo: “Simão, dormes? Vigiai e orai para não entrardes em tentação; o espírito está pronto, mas a carne é fraca”. Por fim: “Chegou a hora… levantai-vos, vamos”.",
+    "alegorico": "Cristo, novo Adão, vence no jardim da obediência onde o primeiro Adão falhou no jardim da desobediência. A angústia mostra a verdade da sua humanidade: verdadeiro Deus e verdadeiro homem, tem vontade humana que se submete livremente à vontade do Pai. O “cálice” é a Paixão, o juízo sobre o pecado que Ele aceita beber por nós. O lagar de azeite é figura do Cristo esmagado, de onde corre o óleo da salvação.",
+    "moral": "Jesus ensina a rezar na angústia: com confiança filial (“Abba”), com sinceridade (“afasta de mim”) e com abandono (“não o que eu quero”). Não se pede para não ser tentado, o que é impossível, mas para não entrar na tentação, isto é, não ser vencido por ela. Quem deixa de orar entra em tentação. O sono dos discípulos é o torpor da alma; a fraqueza da carne pede vigilância e humildade.",
+    "anagogico": "A obediência de Cristo no Getsêmani abre o caminho da glória: pela Cruz, à Ressurreição. Unidos à sua oração, também nós passamos das nossas agonias à vitória final. A vontade do Pai, aceita com amor, conduz sempre à vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Chegam ao Getsêmani. Jesus leva Pedro, Tiago e João, e começa a sentir pavor e angústia: “A minha alma está numa tristeza mortal; ficai aqui e vigiai”. Prostrado por terra, reza: “Abba, Pai, tudo te é possível; afasta de mim este cálice. Porém, não o que eu quero, mas o que tu queres”. Volta e os encontra dormindo: “Simão, dormes? Não pudeste vigiar uma hora? Vigiai e orai para não entrardes em tentação; o espírito está pronto, mas a carne é fraca”. Na terceira vez diz: “Chegou a hora. Levantai-vos, vamos”.",
+    "meditatio_perguntas": [
+      "Sei rezar com confiança filial nas minhas angústias, chamando Deus de “Abba”?",
+      "Consigo dizer, numa situação concreta: “não o que eu quero, mas o que tu queres”?",
+      "Estou “dormindo” enquanto Jesus me pede que vigie com Ele?"
+    ],
+    "oratio_guia": "Abba, Pai, tudo te é possível. Nas minhas angústias, ensina-me a rezar como o teu Filho no Getsêmani. Que eu não durma quando me chamas a vigiar. Não se faça a minha vontade, mas a tua. Amém.",
+    "contemplatio_foco": { "texto": "Não se faça o que eu quero, mas o que tu queres.", "ref": "Mc 14,36" }
+  },
+  "ancoras": {
+    "14:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:32–42#1", "sintese": "O Getsêmani mostra-se ainda hoje ao pé do monte das Oliveiras; o nome significa vale da gordura ou da fertilidade." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:32–42#3", "sintese": "Era seu costume orar sozinho, para nos dar exemplo de buscar o silêncio e a solidão na oração." }
+      ],
+      "nota": null
+    },
+    "14:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:32–42#4", "sintese": "Sendo Deus num corpo, mostra a fragilidade da carne, para que não tenha lugar a blasfêmia dos que negam o mistério da Encarnação." }
+      ],
+      "nota": null
+    },
+    "14:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. III, 4", "catena": "14:32–42#8", "sintese": "Não disse “se Ele pudesse”, mas “se fosse possível”, pois tudo o que Ele quer é possível." }
+      ],
+      "nota": null
+    },
+    "14:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:32–42#9", "sintese": "Pede que o cálice passe para mostrar que é verdadeiro homem; mas, lembrando o motivo por que viera, acrescenta: “não o que eu quero”." }
+      ],
+      "nota": { "texto": "“Abba” é a palavra aramaica com que um filho chamava o pai, em tom de intimidade. Marcos a conserva, e Paulo a usa em Rm 8,15 e Gl 4,6.", "origem": "ia" }
+    },
+    "14:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:32–42#11", "sintese": "Não diz “para não serdes tentados”, o que é impossível ao homem, mas “para não entrardes em tentação”, isto é, não serdes vencidos por ela." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:32–42#12", "sintese": "Entra em tentação quem deixa de orar." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:32–42#14", "sintese": "Reprime os temerários: quanto mais confiamos no ardor do espírito, mais devemos temer a fraqueza da carne." }
+      ],
+      "nota": null
+    },
+    "14:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:32–42#17", "sintese": "O tríplice sono dos discípulos indica os três mortos que o Senhor ressuscitou: em casa, à porta da cidade e no sepulcro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

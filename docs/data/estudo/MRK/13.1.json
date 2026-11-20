@@ -1,0 +1,78 @@
+{
+  "id": "MRK.13.1",
+  "livro": "MRK",
+  "titulo": "A destruição do Templo e o princípio das dores",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 13,1-13",
+  "ini": { "c": 13, "v": 1 },
+  "fim": { "c": 13, "v": 13 },
+  "liturgia": { "tema_central": "Não vos deixeis enganar; quem perseverar até o fim será salvo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Começa o “discurso escatológico”, o mais longo de Marcos. Um discípulo admira as grandes pedras do Templo reconstruído por Herodes; Jesus anuncia que não ficará pedra sobre pedra, o que se cumpriu no ano 70, quando os romanos o destruíram. No monte das Oliveiras, os quatro primeiros chamados perguntam quando e com que sinal. Jesus não dá datas, mas advertências: falsos messias, guerras, terremotos e fomes são apenas “o princípio das dores” de parto. Os discípulos serão entregues aos tribunais, açoitados e levados diante de reis; antes, o Evangelho deve ser pregado a todas as nações. O Espírito Santo falará por eles. Até as famílias se dividirão, mas quem perseverar até o fim será salvo.",
+    "alegorico": "O Templo de pedras dá lugar ao novo Templo, o Corpo de Cristo e a Igreja, edificada de pedras vivas. A destruição de Jerusalém é figura do fim do mundo: um acontecimento histórico que anuncia o juízo final. As “dores de parto” indicam que a história não caminha para o nada, mas para um nascimento: o mundo novo de Deus.",
+    "moral": "A primeira palavra de Jesus é: “Vede que ninguém vos engane”. Diante das crises, não cair no pânico nem nas falsas promessas. As perseguições são ocasião de testemunho, e a perseverança é a virtude decisiva. Diante dos tribunais, basta oferecer a vontade a Cristo; o Espírito Santo dará a palavra. Não pode haver afeto firme entre os que divergem na fé.",
+    "anagogico": "Toda a história humana, com as suas guerras e catástrofes, está sob o olhar de Deus e caminha para a vinda do Filho do Homem. As dores do presente são o prelúdio do nascimento do novo céu e da nova terra. A salvação final é dom para quem persevera."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Saindo do Templo, um discípulo admira as suas pedras. Jesus diz que não ficará pedra sobre pedra. No monte das Oliveiras, Pedro, Tiago, João e André perguntam quando isso acontecerá. Jesus responde: “Vede que ninguém vos engane”. Virão falsos cristos, guerras, terremotos e fomes: é o princípio das dores. Sereis entregues aos tribunais e levados diante de governadores por causa dele, mas antes o Evangelho deve ser pregado a todas as nações. O Espírito Santo falará por vós. Quem perseverar até o fim será salvo.",
+    "meditatio_perguntas": [
+      "Em que “pedras” (instituições, seguranças, obras) eu deposito a minha confiança?",
+      "Diante das crises do mundo, vivo com medo ou com esperança?",
+      "Confio que o Espírito Santo me dará as palavras para testemunhar a fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, nas incertezas e nas crises, guarda-me do engano e do medo. Dá-me o teu Espírito para que eu testemunhe a fé com coragem. Concede-me a graça da perseverança até o fim. Amém.",
+    "contemplatio_foco": { "texto": "O que perseverar até ao fim, esse será salvo.", "ref": "Mc 13,13" }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:1–2#2", "sintese": "Difundida a graça do Evangelho, o próprio Templo, com as suas cerimônias, foi suprimido, para que nenhum fraco na fé fosse atraído de volta a elas." }
+      ],
+      "nota": { "texto": "O Templo, ampliado por Herodes, o Grande, a partir de 20 a.C., era famoso pelas suas pedras imensas. Foi destruído por Tito no ano 70 d.C.", "origem": "ia" }
+    },
+    "13:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:3–8#2", "sintese": "Antes de responder à pergunta, fortalece-lhes a mente para que não sejam enganados." }
+      ],
+      "nota": null
+    },
+    "13:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:3–8#3", "sintese": "Quando a destruição pairava sobre Jerusalém, muitos se apresentaram dizendo ser o Cristo e que o tempo da libertação estava próximo." }
+      ],
+      "nota": null
+    },
+    "13:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:9–13#3", "sintese": "Os historiadores atestam que todos os apóstolos, muito antes da destruição da Judeia, se dispersaram para pregar o Evangelho pelo mundo." }
+      ],
+      "nota": null
+    },
+    "13:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:9–13#5", "sintese": "Diante dos juízes, o nosso dever é oferecer a vontade por Cristo; quanto ao resto, o próprio Cristo, que habita em nós, responderá." }
+      ],
+      "nota": null
+    },
+    "13:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:9–13#7", "sintese": "Isso se viu muitas vezes nas perseguições; não pode haver afeto firme entre os que divergem na fé." }
+      ],
+      "nota": null
+    },
+    "13:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:9–13#8", "sintese": "Diz isso para que se preparem para suportar com paciência as perseguições, e depois lhes traz o consolo da salvação." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

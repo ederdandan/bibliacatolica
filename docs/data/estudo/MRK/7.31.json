@@ -1,0 +1,67 @@
+{
+  "id": "MRK.7.31",
+  "livro": "MRK",
+  "titulo": "A cura do surdo-mudo: “Efeta”",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 7,31-37",
+  "ini": { "c": 7, "v": 31 },
+  "fim": { "c": 7, "v": 37 },
+  "liturgia": { "tema_central": "“Efeta, abre-te”: Cristo abre os ouvidos à Palavra e solta a língua para o louvor", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ainda em território pagão (Decápole), trazem a Jesus um surdo com dificuldade de falar. Jesus o leva à parte, põe os dedos nos seus ouvidos, toca-lhe a língua com saliva, ergue os olhos ao céu, suspira e diz em aramaico: “Efeta”, isto é, “abre-te”. Os gestos são concretos, quase de médico, e mostram que a humanidade de Jesus é instrumento da cura. A multidão exclama: “Tudo tem feito bem”, eco de Gn 1,31, e cita Is 35,5-6, profecia dos tempos messiânicos em que os surdos ouvem e os mudos falam.",
+    "alegorico": "O surdo-mudo representa a humanidade, sobretudo os gentios, incapaz de ouvir a Palavra de Deus e de louvá-lo. Cristo realiza a nova criação anunciada por Isaías. Os dedos nos ouvidos simbolizam o Espírito Santo, “dedo de Deus” (Lc 11,20). O gesto do “Efeta” foi conservado no rito do Batismo: o sacerdote toca os ouvidos e a boca do batizado, para que receba a Palavra e professe a fé.",
+    "moral": "Somos surdos quando não ouvimos a Palavra de Deus, e mudos quando não abrimos a boca para louvá-lo e anunciá-lo. Os que já aprenderam a ouvir devem trazer os outros a Jesus. A cura acontece “à parte”, longe do tumulto dos pensamentos e das palavras desordenadas. O suspiro de Jesus revela a sua compaixão pela miséria humana. Não devemos buscar aplausos pelo bem que fazemos, mas proclamar os benefícios recebidos de Deus.",
+    "anagogico": "“Tudo tem feito bem”: a obra de Cristo é a nova criação, que chegará à plenitude quando tudo for renovado. Então os ouvidos abertos ouvirão para sempre a voz de Deus, e as línguas soltas cantarão o seu louvor eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus volta pela Decápole ao mar da Galileia. Trazem-lhe um surdo que falava com dificuldade e pedem que lhe imponha a mão. Jesus o leva à parte, põe os dedos em seus ouvidos e com saliva toca-lhe a língua. Erguendo os olhos ao céu, suspira e diz: “Efeta”, isto é, “abre-te”. Os ouvidos se abrem e a língua se solta. Jesus pede silêncio, mas eles o divulgam ainda mais, dizendo: “Tudo tem feito bem; faz ouvir os surdos e falar os mudos”.",
+    "meditatio_perguntas": [
+      "Em que estou surdo à Palavra de Deus e aos irmãos?",
+      "A minha língua está solta para louvar a Deus e anunciar a fé, ou presa pelo medo?",
+      "Quem eu posso “trazer” a Jesus para que Ele o cure?"
+    ],
+    "oratio_guia": "Senhor Jesus, toca os meus ouvidos e a minha língua e diz-me: “Efeta”. Abre-me à tua Palavra e solta-me para o teu louvor. Que eu ouça a tua voz e a anuncie aos outros com alegria. Amém.",
+    "contemplatio_foco": { "texto": "Ephphata, que quer dizer: abre-te.", "ref": "Mc 7,34" }
+  },
+  "ancoras": {
+    "7:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 31", "catena": "7:31–37#1", "sintese": "A Decápole é uma região de dez cidades além do Jordão, a leste, defronte da Galileia." }
+      ],
+      "nota": null
+    },
+    "7:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "7:31–37#3", "sintese": "Afasta-o da multidão para não fazer os milagres às claras, ensinando-nos a rejeitar a vanglória." },
+        { "autor": "Teofilato", "obra": null, "catena": "7:31–37#4", "sintese": "Mostra que todos os membros do seu corpo sagrado são santos, até a saliva que desatou a língua: no Senhor, tudo é divino." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "7:31–37#15", "sintese": "Os dedos postos nos ouvidos são as palavras e os dons do Espírito Santo, de quem se diz: isto é o dedo de Deus." }
+      ],
+      "nota": null
+    },
+    "7:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:31–37#5", "sintese": "Ergueu os olhos ao céu para ensinar que é de lá que se deve buscar a fala para os mudos, o ouvido para os surdos e a saúde para todos." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "7:31–37#6", "sintese": "Gemeu ao tomar sobre si a nossa causa, compadecendo-se da natureza humana e da miséria em que caíra." }
+      ],
+      "nota": { "texto": "O rito do “Efeta” faz parte da celebração do Batismo: o ministro toca os ouvidos e a boca do batizado, pedindo que ouça a Palavra e professe a fé.", "origem": "ia" }
+    },
+    "7:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:31–37#10", "sintese": "Não devemos buscar aplausos quando fazemos o bem; mas, quando o recebemos, devemos proclamar e louvar os benfeitores, ainda que eles não queiram." }
+      ],
+      "nota": null
+    },
+    "7:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:31–37#14", "sintese": "É surdo e mudo quem não ouve as palavras de Deus nem abre a boca para proferi-las; os que já aprenderam devem apresentá-los ao Senhor." }
+      ],
+      "nota": { "texto": "A exclamação ecoa Gn 1,31 (“Deus viu que tudo era muito bom”) e Is 35,5-6, sinais da era messiânica.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

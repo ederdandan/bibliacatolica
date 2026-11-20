@@ -1,0 +1,95 @@
+{
+  "id": "MRK.15.16",
+  "livro": "MRK",
+  "titulo": "A coroação de espinhos e a crucifixão",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 15,16-32",
+  "ini": { "c": 15, "v": 16 },
+  "fim": { "c": 15, "v": 32 },
+  "liturgia": { "tema_central": "O Rei coroado de espinhos salva os outros e não salva a si mesmo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No pretório, a coorte romana zomba de Jesus como rei de teatro: manto de púrpura, coroa de espinhos, saudações (“Salve, Rei dos Judeus!”), golpes com uma cana, cusparadas e genuflexões. Depois o levam para crucificar. Simão de Cireneu, pai de Alexandre e Rufo (conhecidos da comunidade de Marcos, cf. Rm 16,13), é obrigado a carregar a cruz. No Gólgota (“lugar do Crânio”), oferecem-lhe vinho com mirra, um anestésico, que Ele recusa. Crucificam-no na hora terceira (nove da manhã), repartem as suas vestes (Sl 22,19), e a inscrição diz: “O Rei dos Judeus”. Dois ladrões são crucificados com Ele. Os que passam, os sacerdotes e até os crucificados o insultam: “Salvou os outros e não pode salvar a si mesmo!”",
+    "alegorico": "A zombaria diz a verdade sem saber: Jesus é Rei, e a sua coroa de espinhos é a coroa do novo Adão, que carrega a maldição da terra (Gn 3,18). Simão de Cireneu é figura dos gentios e de todo discípulo que carrega a cruz atrás de Jesus. O Gólgota, segundo tradição antiga, seria o lugar do sacrifício de Isaac, que levou a lenha como Cristo leva a cruz. “Salvou os outros e não pode salvar a si mesmo”: é exatamente porque não se salva que nos salva.",
+    "moral": "Ferem a cabeça de Cristo os que negam a sua divindade; cospem nele os que rejeitam a sua palavra. O Cireneu ensina a aceitar a cruz que nos é imposta, transformando-a em participação na de Jesus. A recusa do anestésico mostra que Jesus quis beber o cálice com plena consciência. As zombarias tentam Jesus a “descer da cruz”, isto é, a salvar a si mesmo, a tentação de toda vida cristã diante do sofrimento.",
+    "anagogico": "A inscrição da cruz, posta por zombaria, proclama a realeza que a Ressurreição revelará: mesmo matando-o, não puderam tirar-lhe o reino. Os dois ladrões, um à direita e outro à esquerda, antecipam o Juízo final, quando o Rei separará os que estiverem à sua direita."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os soldados levam Jesus ao pretório, vestem-no de púrpura, põem-lhe uma coroa de espinhos e o saúdam: “Salve, Rei dos Judeus!” Batem-lhe com uma cana, cospem nele e ajoelham-se por zombaria. Depois o levam para crucificar. Obrigam Simão de Cireneu a carregar a cruz. No Gólgota, oferecem-lhe vinho com mirra, mas Ele não o toma. Crucificam-no, repartem as suas vestes, e a inscrição diz: “O Rei dos Judeus”. Com Ele crucificam dois ladrões. Os que passam e os sacerdotes zombam: “Salvou os outros e não pode salvar a si mesmo! Desça agora da cruz, para que vejamos e creiamos”.",
+    "meditatio_perguntas": [
+      "Que cruz me foi imposta, como ao Cireneu, e como a estou carregando?",
+      "Em que momentos também eu gostaria que Jesus “descesse da cruz” para eu crer?",
+      "Reconheço como Rei Aquele que está coroado de espinhos?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei coroado de espinhos, eu te adoro e te bendigo, porque pela tua santa Cruz remiste o mundo. Ensina-me a carregar a minha cruz contigo, como o Cireneu. Tu não salvaste a ti mesmo para me salvar: que eu viva para ti. Amém.",
+    "contemplatio_foco": { "texto": "Salvou os outros, e não se pode salvar a si mesmo.", "ref": "Mc 15,31" }
+  },
+  "ancoras": {
+    "15:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:16–20#3", "sintese": "Em lugar do diadema, puseram-lhe uma coroa de espinhos." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:16–20#4", "sintese": "A sua ignomínia tirou a nossa ignomínia; as suas cadeias nos libertaram; pela coroa de espinhos alcançamos o diadema do reino." }
+      ],
+      "nota": null
+    },
+    "15:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:16–20#9", "sintese": "Ferem a cabeça de Cristo os que negam que Ele é verdadeiro Deus." }
+      ],
+      "nota": null
+    },
+    "15:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:20–28#2", "sintese": "João diz que Ele mesmo carregou a cruz: ambas as coisas aconteceram; primeiro carregou-a, depois a impuseram a Simão." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:20–28#4", "sintese": "Simão não é de Jerusalém, mas cireneu, estrangeiro: figura dos povos gentios, que tomariam a cruz de Cristo." }
+      ],
+      "nota": { "texto": "Alexandre e Rufo eram, ao que parece, conhecidos da comunidade de Marcos. Um Rufo é saudado em Rm 16,13.", "origem": "ia" }
+    },
+    "15:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:20–28#1", "sintese": "Aqui Abel é levado ao campo pelo irmão para ser morto; aqui Isaac sai com a lenha, e Abraão com o carneiro preso entre os espinhos." }
+      ],
+      "nota": null
+    },
+    "15:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:20–28#9", "sintese": "Amarga videira, que produziu vinho amargo, oferecido ao Senhor para que se cumprisse a Escritura: “Deram-me fel por alimento”." }
+      ],
+      "nota": null
+    },
+    "15:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:20–28#14", "sintese": "As vestes do Senhor são os seus mandamentos, que cobrem o seu corpo, a Igreja; os soldados gentios as repartem." }
+      ],
+      "nota": { "texto": "Cumpre o Sl 22,19: “Repartiram entre si as minhas vestes e sobre a minha túnica lançaram sortes”.", "origem": "ia" }
+    },
+    "15:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:20–28#20", "sintese": "A inscrição mostra que, mesmo matando-o, não puderam tirar o reinado Àquele que haveria de lhes retribuir segundo as obras." }
+      ],
+      "nota": null
+    },
+    "15:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:20–28#22", "sintese": "A Verdade foi contada entre os ímpios; deixa um à esquerda e toma o outro à direita, como fará no último dia." }
+      ],
+      "nota": null
+    },
+    "15:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:29–32#2", "sintese": "Mesmo contra a vontade, confessam que Ele salvou a muitos; assim, as suas próprias palavras os condenam." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:29–32#3", "sintese": "Depois o viram levantar-se do sepulcro, eles que não acreditavam que pudesse descer do madeiro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

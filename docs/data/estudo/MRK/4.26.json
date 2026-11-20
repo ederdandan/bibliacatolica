@@ -1,0 +1,81 @@
+{
+  "id": "MRK.4.26",
+  "livro": "MRK",
+  "titulo": "A semente que cresce sozinha e o grão de mostarda",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 4,26-34",
+  "ini": { "c": 4, "v": 26 },
+  "fim": { "c": 4, "v": 34 },
+  "liturgia": { "tema_central": "O Reino cresce pela força de Deus, de começos pequenos a frutos grandes", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Duas parábolas de crescimento. A primeira, exclusiva de Marcos, mostra o lavrador que semeia e depois dorme e se levanta, enquanto a semente cresce “sem ele saber como”: a terra produz “por si mesma” (em grego, automátē), erva, espiga e grão. Quando o fruto amadurece, vem a foice, imagem bíblica da colheita final (Jl 4,13). A segunda contrasta a pequenez do grão de mostarda com a grande hortaliça em que as aves se abrigam, imagem tirada de Dn 4 e Ez 17 para falar de um reino que acolhe os povos. Marcos conclui que Jesus ensinava em parábolas conforme a capacidade dos ouvintes e explicava tudo aos discípulos em particular.",
+    "alegorico": "O semeador é Cristo, que lançou a Palavra sobre a terra. O seu “sono” é a morte e a ascensão; depois dele, a Igreja continuou a crescer, na adversidade e na prosperidade. O grão de mostarda é a palavra breve da fé, que se espalhou por toda a terra. Os seus grandes ramos são os apóstolos que partiram para Roma, para a Índia e para outras regiões, e as aves que neles pousam são os povos e os sábios que encontram repouso na Igreja.",
+    "moral": "O crescimento espiritual é obra de Deus e da nossa liberdade: Ele faz crescer, mas confia à nossa vontade uma parte da obra. A vida cristã progride por etapas: a erva (o começo do bem, o temor de Deus), a espiga (a resistência às tentações) e o grão maduro (a caridade perfeita). É preciso paciência com o próprio crescimento e com o dos outros, e confiança na força escondida da graça, mesmo quando não a vemos.",
+    "anagogico": "A foice e a colheita significam a morte de cada um e o fim do mundo, quando o Reino chegará à plenitude. O pequeno grão de agora se tornará a árvore imensa do Reino consumado, onde todas as nações encontrarão abrigo e repouso em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Reino de Deus é como um homem que lança a semente na terra: dorme e levanta-se, e a semente brota e cresce sem que ele saiba como; a terra produz a erva, a espiga e o grão; quando o fruto amadurece, mete a foice. É também como o grão de mostarda, a menor das sementes, que cresce e se torna a maior das hortaliças, com ramos onde as aves se abrigam. Jesus falava em parábolas e explicava tudo aos discípulos em particular.",
+    "meditatio_perguntas": [
+      "Tenho paciência com o meu crescimento espiritual, ou quero ver resultados imediatos?",
+      "Confio que Deus age em mim e nos outros mesmo quando não vejo nada acontecer?",
+      "Que “grão de mostarda” Deus me pede para semear hoje, por menor que pareça?"
+    ],
+    "oratio_guia": "Senhor, Senhor da messe, faz crescer em mim a semente da tua Palavra, mesmo quando eu durmo e não percebo. Dá-me paciência e confiança na tua graça. Que a pequena fé que me deste se torne árvore que acolhe e abriga os outros. Amém.",
+    "contemplatio_foco": { "texto": "A semente brota e cresce sem ele saber como.", "ref": "Mc 4,27" }
+  },
+  "ancoras": {
+    "4:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "4:26–29#2", "sintese": "Sendo Deus e Filho de Deus, feito homem sem mudança, Ele mesmo lançou a semente na terra, iluminando o mundo inteiro com a palavra do conhecimento divino." }
+      ],
+      "nota": null
+    },
+    "4:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:26–29#3", "sintese": "O sono do homem significa a morte do Salvador; depois dela, o número dos cristãos, na adversidade e na prosperidade, continuou a crescer na fé e nas obras." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "4:26–29#7", "sintese": "“Sem ele saber” indica o livre-arbítrio de quem recebe a palavra: Deus confia uma parte da obra à nossa vontade, para que o bem não seja involuntário." },
+        { "autor": "São Gregório Magno", "obra": "Hom. in Ez. II, 3", "catena": "4:26–29#12", "sintese": "Lança a semente quem põe no coração uma boa intenção; dorme quando repousa na esperança; progride entre prosperidade e adversidade sem conseguir medir o próprio crescimento." }
+      ],
+      "nota": null
+    },
+    "4:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:26–29#10", "sintese": "Produzimos a erva quando mostramos um começo de bem; a espiga, quando resistimos às tentações; o fruto, quando realizamos algo perfeito." }
+      ],
+      "nota": { "texto": "“Por si mesma” traduz o grego automátē: a força de crescer está na semente e na terra, não no esforço do lavrador.", "origem": "ia" }
+    },
+    "4:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:26–29#11", "sintese": "A foice é a morte ou o juízo, que tudo ceifa; a colheita é o fim do mundo." }
+      ],
+      "nota": null
+    },
+    "4:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:30–34#1", "sintese": "Muito breve é a palavra da fé, “Crê em Deus e serás salvo”, mas a sua pregação cresceu por toda a terra, e muitos sábios encontraram repouso nela." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:30–34#4", "sintese": "A semente é pequena no temor e grande quando se transforma em caridade; os seus ramos são a misericórdia e a compaixão, sob as quais se abrigam os pobres de Cristo." }
+      ],
+      "nota": null
+    },
+    "4:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:30–34#3", "sintese": "Os grandes ramos são os apóstolos, que se dividiram como ramos de uma árvore: uns foram para Roma, outros para a Índia, outros para outras partes do mundo." }
+      ],
+      "nota": { "texto": "A mostarda-negra da Galileia pode chegar a dois ou três metros. A imagem das aves sob os ramos retoma Dn 4,9.18 e Ez 17,23.", "origem": "ia" }
+    },
+    "4:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:30–34#8", "sintese": "Os discípulos eram dignos de ouvir os mistérios à parte porque, afastados dos maus pensamentos, viviam na solidão das virtudes; a sabedoria se recebe no repouso do silêncio." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

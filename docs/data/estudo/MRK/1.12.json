@@ -1,0 +1,49 @@
+{
+  "id": "MRK.1.12",
+  "livro": "MRK",
+  "titulo": "A tentação no deserto",
+  "secao": "Prólogo",
+  "referencia": "Mc 1,12-13",
+  "ini": { "c": 1, "v": 12 },
+  "fim": { "c": 1, "v": 13 },
+  "liturgia": {
+    "tema_central": "O novo Adão vence o tentador no deserto e restaura a paz com a criação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Marcos narra a tentação em apenas dois versículos, sem os diálogos de Mateus e Lucas. O Espírito que acabara de descer sobre Jesus “o impeliu” ao deserto: o verbo é forte e mostra que a prova faz parte do plano de Deus. Os quarenta dias evocam os quarenta anos de Israel no deserto, os quarenta dias de Moisés no Sinai e a caminhada de Elias até o Horeb. Satanás, o “adversário”, põe à prova o Filho recém-proclamado. A menção às feras e aos anjos é própria de Marcos: Jesus está entre o perigo e o cuidado de Deus.",
+    "alegorico": "Jesus é o novo Adão: onde o primeiro homem caiu, no jardim, Ele vence no deserto, e assim inicia a reconstrução do que o pecado destruiu. A convivência pacífica com as feras recorda o paraíso e anuncia a paz messiânica de Isaías (11,6-9), quando o lobo habitará com o cordeiro. Os anjos que o servem mostram que o céu, aberto no Jordão, já se une à terra em Cristo. A Igreja revive esse mistério cada ano nos quarenta dias da Quaresma.",
+    "moral": "Ser batizado não livra da tentação; ao contrário, quem é chamado a maior honra é mais visado pelo inimigo. Não devemos procurar a tentação por conta própria, mas, quando ela vier, resistir com confiança. O deserto ensina o valor do silêncio, do jejum e da oração, armas do combate espiritual. Quem vence a tentação experimenta o consolo de Deus, como Cristo servido pelos anjos.",
+    "anagogico": "Os quarenta dias figuram todo o tempo desta vida, em que o adversário não cessa de nos provar, de dia na prosperidade e de noite na adversidade. Ao fim do combate vem o descanso: os anjos que serviram a Cristo são os mesmos que conduzirão os fiéis, libertos do corpo, à felicidade eterna, onde a criação reconciliada não conhecerá mais inimizade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Logo depois do batismo, o Espírito impele Jesus ao deserto. Ali Ele permanece quarenta dias, tentado por Satanás. Vive entre os animais selvagens, e os anjos o servem.",
+    "meditatio_perguntas": [
+      "Qual é a tentação que mais me prova neste tempo da minha vida? Eu a enfrento com a força de Deus ou sozinho?",
+      "Tenho um “deserto” na minha rotina, um tempo de silêncio e oração em que me deixo conduzir pelo Espírito?",
+      "Em que situações eu mesmo me exponho às tentações, em vez de fugir das ocasiões de pecado?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te deixaste conduzir ao deserto e venceste o tentador, fica comigo no meu combate. Quando eu for provado, dá-me a força do teu Espírito; quando eu cair, levanta-me; e envia os teus anjos para me guardar em todos os meus caminhos. Amém.",
+    "contemplatio_foco": { "texto": "E os anjos o serviam.", "ref": "Mc 1,13" }
+  },
+  "ancoras": {
+    "1:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 13", "catena": "1:12–13#0", "sintese": "Depois do batismo Cristo combateu o diabo para ensinar que todo batizado deve suportar com paciência tentações ainda maiores. Diz-se “impelido” para mostrar a disposição da providência: ninguém deve lançar-se por si mesmo à tentação." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 5", "catena": "1:12–13#1", "sintese": "O espírito que impele Jesus é o Espírito Santo, de quem estava cheio; o espírito maligno não tinha poder algum sobre Ele, que ia aonde queria e fazia o que queria." }
+      ],
+      "nota": null
+    },
+    "1:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:12–13#3", "sintese": "Os quarenta dias e noites significam todo o tempo deste mundo: na prosperidade e na adversidade o adversário está sempre por perto. Quatro partes do mundo vezes os dez mandamentos dão quarenta." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:12–13#5", "sintese": "Como homem, Cristo habita entre as feras; como Deus, é servido pelos anjos. Assim nós, suportando com alma pura os costumes ferozes dos homens, merecemos o ministério dos anjos que nos levarão à felicidade eterna." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:12–13#4", "sintese": "Os anjos assistem e servem aos que vencem na tentação, pois são enviados para servir aos que hão de herdar a salvação (Hb 1,14)." }
+      ],
+      "nota": { "texto": "A menção aos animais selvagens é exclusiva de Marcos. O deserto da Judeia, entre Jerusalém e o mar Morto, era inabitado e perigoso.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

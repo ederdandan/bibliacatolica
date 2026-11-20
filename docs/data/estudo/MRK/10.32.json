@@ -1,0 +1,52 @@
+{
+  "id": "MRK.10.32",
+  "livro": "MRK",
+  "titulo": "O terceiro anúncio da Paixão",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,32-34",
+  "ini": { "c": 10, "v": 32 },
+  "fim": { "c": 10, "v": 34 },
+  "liturgia": { "tema_central": "Jesus caminha à frente rumo a Jerusalém, ao encontro da Paixão e da Ressurreição", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "É o terceiro e mais detalhado anúncio da Paixão. Pela primeira vez se diz que sobem a Jerusalém. Jesus caminha à frente; os discípulos estão perplexos e o seguem com medo. Ele os toma à parte e descreve cada etapa: entregue aos sumos sacerdotes e escribas, condenado à morte, entregue aos gentios (os romanos), escarnecido, cuspido, flagelado, morto, e ressuscitado ao terceiro dia. O relato da Paixão (Mc 14-16) seguirá exatamente esses passos.",
+    "alegorico": "Jesus que caminha à frente é o Pastor que conduz o rebanho e o novo Josué que guia o povo à verdadeira Terra Prometida pela passagem da morte. A entrega aos gentios mostra que toda a humanidade, judeus e pagãos, participa da sua morte e será alcançada pela sua salvação. O Servo de Isaías “não escondeu o rosto aos ultrajes e escarros” (Is 50,6).",
+    "moral": "Jesus não foge da Paixão, mas corre ao seu encontro por amor de nós. O discípulo segue-o mesmo com medo: o medo não impede a fidelidade se continuamos atrás dele. Jesus prepara os seus para as provações, falando-lhes com clareza, para que não sejam surpreendidos. Também nós devemos aceitar as cruzes previstas com o coração preparado, olhando para a ressurreição prometida.",
+    "anagogico": "“Ao terceiro dia ressuscitará”: a última palavra é sempre a vida. O caminho para a Jerusalém terrena, onde Cristo sofre, conduz à Jerusalém celeste, onde Ele reina e para onde leva todos os que o seguem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Sobem a Jerusalém, e Jesus vai à frente deles; eles estão perturbados e o seguem com medo. Tomando de novo os Doze à parte, Jesus começa a dizer o que lhe vai acontecer: o Filho do Homem será entregue aos sumos sacerdotes e aos escribas, que o condenarão à morte e o entregarão aos gentios; zombarão dele, cuspirão nele, o açoitarão e o matarão; mas, ao terceiro dia, ressuscitará.",
+    "meditatio_perguntas": [
+      "Sigo Jesus mesmo quando tenho medo do caminho?",
+      "Contemplo com gratidão cada sofrimento que Jesus suportou por mim?",
+      "A esperança da ressurreição sustenta as minhas cruzes?"
+    ],
+    "oratio_guia": "Senhor Jesus, que caminhas à minha frente rumo à cruz, dá-me coragem para seguir-te, mesmo com medo. Obrigado por tudo o que sofreste por mim. Que a luz da tua ressurreição ilumine os meus dias de dor. Amém.",
+    "contemplatio_foco": { "texto": "Jesus ia adiante deles.", "ref": "Mc 10,32" }
+  },
+  "ancoras": {
+    "10:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:32–34#1", "sintese": "Vai à frente para mostrar que corre ao encontro da sua paixão e não recusa a morte por causa da nossa salvação." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:32–34#2", "sintese": "Temiam perecer com Ele, ou que Ele, cuja vida e ensinamento eram a sua alegria, caísse nas mãos dos inimigos." }
+      ],
+      "nota": null
+    },
+    "10:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.; cf. Crisóstomo, Hom. in Matth. 65", "catena": "10:32–34#4", "sintese": "Enumera cada coisa que haveria de acontecer-lhe, para que depois não se perturbassem com algo imprevisto." },
+        { "autor": "Glosa", "obra": "interlinear", "catena": "10:32–34#5", "sintese": "O Filho do Homem, isto é, aquele a quem pertence o sofrimento, pois a divindade não pode padecer." }
+      ],
+      "nota": null
+    },
+    "10:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 65", "catena": "10:32–34#6", "sintese": "Para que, entristecidos pela paixão, esperassem a ressurreição, acrescenta: ao terceiro dia ressuscitará." }
+      ],
+      "nota": { "texto": "A flagelação romana precedia normalmente a crucifixão. Os escarros e as zombarias cumprem Is 50,6.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

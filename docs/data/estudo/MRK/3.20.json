@@ -1,0 +1,65 @@
+{
+  "id": "MRK.3.20",
+  "livro": "MRK",
+  "titulo": "Jesus e Belzebu: o pecado contra o Espírito Santo",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 3,20-30",
+  "ini": { "c": 3, "v": 20 },
+  "fim": { "c": 3, "v": 30 },
+  "liturgia": { "tema_central": "Cristo, o mais forte, vence Satanás; só não é perdoado quem recusa o perdão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Marcos usa aqui a técnica do “sanduíche”: a cena dos parentes de Jesus (v. 20-21, retomada em 31-35) envolve a acusação dos escribas (v. 22-30). Os parentes pensam que Ele “está fora de si”; os escribas, vindos de Jerusalém, dizem que expulsa demônios pelo poder de Belzebu. Jesus responde com parábolas: um reino dividido não subsiste, e ninguém saqueia a casa do forte sem antes amarrá-lo. Por fim, uma advertência solene: todo pecado pode ser perdoado, exceto a blasfêmia contra o Espírito Santo, isto é, atribuir ao demônio a obra evidente de Deus.",
+    "alegorico": "O “forte” é Satanás; a sua casa, o mundo; os seus bens, os homens que ele dominava. Cristo é o “mais forte” que entra nessa casa pela Encarnação, amarra o inimigo na Cruz e liberta os homens, unindo-os à sua Igreja. A casa onde Jesus se recolhe com os apóstolos figura a Igreja primitiva, e a unidade do reino de Cristo contrasta com a divisão que destrói o reino do mal.",
+    "moral": "Há grande diferença entre não compreender por fraqueza, como os parentes, e recusar a verdade por malícia, como os escribas. O pecado contra o Espírito Santo é a impenitência: o coração que se fecha ao perdão que o Espírito oferece. Deus não recusa perdão a ninguém; é o homem obstinado que se exclui. A divisão interior e comunitária enfraquece; a unidade fortalece.",
+    "anagogico": "A vitória de Cristo sobre o “forte” anuncia a derrota definitiva de Satanás no fim dos tempos (Ap 20,10). O “pecado eterno” mostra a seriedade da escolha final: quem recusa até o fim a misericórdia de Deus fixa-se para sempre longe dele. Quem a acolhe, entra no Reino sem divisões."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus entra em casa e a multidão é tanta que nem podem comer. Os seus parentes saem para agarrá-lo, dizendo que está louco. Os escribas de Jerusalém afirmam que Ele expulsa demônios pelo príncipe dos demônios. Jesus responde que um reino ou uma casa divididos não subsistem, e que ninguém saqueia a casa do forte sem antes amarrá-lo. Todos os pecados e blasfêmias serão perdoados, mas quem blasfemar contra o Espírito Santo não terá perdão.",
+    "meditatio_perguntas": [
+      "Já me fechei à verdade por orgulho, chamando de mal o que vinha de Deus?",
+      "Confio que nenhum pecado meu é maior que a misericórdia de Deus quando me arrependo?",
+      "Há divisões em mim, na minha família ou na minha comunidade que enfraquecem o Reino?"
+    ],
+    "oratio_guia": "Senhor Jesus, mais forte que todo mal, amarra o inimigo que quer me dominar e liberta-me. Livra-me do coração endurecido que recusa o teu perdão. Espírito Santo, não permitas que eu me feche à tua luz. Amém.",
+    "contemplatio_foco": { "texto": "Serão perdoados aos filhos dos homens todos os pecados.", "ref": "Mc 3,28" }
+  },
+  "ancoras": {
+    "3:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:19–22#2", "sintese": "Bem-aventurada a multidão cujo desejo de salvação não deixava ao Autor da salvação nem uma hora para comer; mas aquele que os estranhos seguem, os seus o têm em pouca estima." }
+      ],
+      "nota": null
+    },
+    "3:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:19–22#3", "sintese": "Que insensatez pensar que perdera o juízo aquele que fazia tão grandes milagres e estava cheio da sabedoria divina!" }
+      ],
+      "nota": { "texto": "“Os seus” designa os parentes. No uso semítico, “irmãos” podia indicar primos e outros familiares próximos.", "origem": "ia" }
+    },
+    "3:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:19–22#4", "sintese": "Há grande diferença entre os que não entendem por lentidão de inteligência e os que blasfemam deliberadamente, pervertendo com interpretação maliciosa o que não podem negar." }
+      ],
+      "nota": { "texto": "“Belzebu” era um nome dado ao príncipe dos demônios, derivado de uma divindade cananeia (cf. 2Rs 1,2).", "origem": "ia" }
+    },
+    "3:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 17", "catena": "3:23–30#3", "sintese": "O Senhor amarrou o forte, o diabo, impedindo-o de seduzir os eleitos; entrou na sua casa, o mundo, e levou os seus bens, os homens, arrancando-os das ciladas do diabo e unindo-os à Igreja." }
+      ],
+      "nota": null
+    },
+    "3:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 71, 12, 21", "catena": "3:23–30#8", "sintese": "A blasfêmia contra o Espírito Santo que não tem perdão é a própria impenitência: quem entesoura um coração impenitente fala contra o Espírito que perdoa os pecados." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:23–30#7", "sintese": "Não são réus dessa blasfêmia os que erram sobre o Espírito Santo por ignorância humana, e não por malícia diabólica." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

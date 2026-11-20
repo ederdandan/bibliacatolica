@@ -1,0 +1,80 @@
+{
+  "id": "MRK.15.1",
+  "livro": "MRK",
+  "titulo": "Jesus diante de Pilatos",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 15,1-15",
+  "ini": { "c": 15, "v": 1 },
+  "fim": { "c": 15, "v": 15 },
+  "liturgia": { "tema_central": "O Rei dos Judeus, inocente, é condenado em lugar do culpado Barrabás", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "De manhã, o Sinédrio entrega Jesus amarrado a Pôncio Pilatos, governador romano (26-36 d.C.), porque só os romanos podiam executar a pena de morte. A acusação muda de natureza: de “blasfêmia” passa a ser política, a pretensão de ser “Rei dos Judeus”. Jesus responde “Tu o dizes” e depois se cala, para espanto de Pilatos. O governador, sabendo que o entregaram por inveja, tenta soltá-lo com o costume da anistia pascal, mas os sacerdotes incitam a multidão a pedir Barrabás, um sedicioso e homicida. A multidão grita: “Crucifica-o!” Pilatos, querendo agradar ao povo, solta Barrabás, manda flagelar Jesus e o entrega para ser crucificado.",
+    "alegorico": "Barrabás (“filho do pai”) é solto, e o verdadeiro Filho do Pai é condenado: imagem da substituição salvífica, o inocente no lugar do culpado. Os Padres viram aqui os dois bodes do Dia da Expiação (Lv 16): um é enviado ao deserto, o outro sacrificado pelo pecado do povo. O silêncio de Jesus cumpre Is 53,7: como cordeiro diante do tosquiador, não abriu a boca.",
+    "moral": "Pilatos é o retrato de quem conhece a verdade, mas cede por covardia e para agradar aos outros: faz a vontade do povo, e não o que agrada à justiça e a Deus. A multidão manipulada mostra como é fácil passar do “Hosana” ao “Crucifica-o”. Diante de Jesus, cada um tem de escolher: Ele ou Barrabás. A inveja dos chefes é a raiz deste crime.",
+    "anagogico": "O Rei condenado pelos homens é o Rei eterno, cuja realeza não é deste mundo. A sua condenação injusta é a nossa justificação: Ele é entregue para que sejamos libertados. No Juízo, o juiz de hoje comparecerá diante do Juiz que hoje condena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "De manhã, os chefes amarram Jesus e o entregam a Pilatos. Pilatos pergunta: “Tu és o Rei dos Judeus?” Jesus responde: “Tu o dizes”. Os sacerdotes o acusam de muitas coisas, mas Jesus nada mais responde, e Pilatos se admira. Na festa, Pilatos costumava soltar um preso. Havia Barrabás, preso por homicídio numa revolta. Pilatos pergunta: “Quereis que vos solte o Rei dos Judeus?”, pois sabia que o tinham entregado por inveja. Mas os sacerdotes incitam o povo a pedir Barrabás. “Que farei do Rei dos Judeus?” “Crucifica-o!” Pilatos solta Barrabás, manda açoitar Jesus e o entrega para ser crucificado.",
+    "meditatio_perguntas": [
+      "Em que situações ajo como Pilatos, cedendo à pressão para não desagradar?",
+      "Escolho Jesus ou “Barrabás” nas pequenas decisões do dia?",
+      "Contemplo Jesus condenado em meu lugar, o inocente pelo culpado?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei dos Judeus e Rei do meu coração, condenado injustamente em meu lugar, eu te escolho. Livra-me da covardia de Pilatos e da volubilidade da multidão. Que eu te confesse sempre, mesmo contra a corrente. Amém.",
+    "contemplatio_foco": { "texto": "Que quereis pois que eu faça ao Rei dos Judeus?", "ref": "Mc 15,12" }
+  },
+  "ancoras": {
+    "15:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 4, 44", "catena": "15:1–5#0", "sintese": "Os judeus costumavam entregar ao juiz, amarrado, aquele que tinham condenado à morte." },
+        { "autor": "Teofilato", "obra": null, "catena": "15:1–5#1", "sintese": "Entregaram Jesus aos romanos, mas eles mesmos foram entregues por Deus nas mãos dos romanos." }
+      ],
+      "nota": null
+    },
+    "15:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:1–5#2", "sintese": "Pilatos não o interroga sobre outra acusação senão se é Rei dos Judeus: isso condena a impiedade dos acusadores, que nada mais puderam provar." }
+      ],
+      "nota": null
+    },
+    "15:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:1–5#6", "sintese": "Pilatos admirou-se porque, sendo capaz de destruir as acusações com uma resposta, nada respondia." }
+      ],
+      "nota": null
+    },
+    "15:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:6–15#0", "sintese": "Pilatos buscou muitas ocasiões para libertar Jesus, primeiro opondo um bandido ao Justo." }
+      ],
+      "nota": null
+    },
+    "15:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:6–15#3", "sintese": "Podendo escolher, escolheram um bandido em vez de Cristo, um homicida em vez do Salvador, e perderam a salvação e a vida." }
+      ],
+      "nota": null
+    },
+    "15:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:6–15#5", "sintese": "Vê a maldade dos acusadores e a moderação de Pilatos, embora também ele fosse digno de condenação por não resistir ao povo." }
+      ],
+      "nota": null
+    },
+    "15:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:6–15#7", "sintese": "Queria contentar o povo, isto é, fazer a sua vontade, e não o que agradava à justiça e a Deus." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:6–15#8", "sintese": "Eis os dois bodes: um, solto e enviado ao deserto com o pecado do povo; o outro, morto como cordeiro pelos pecados perdoados." }
+      ],
+      "nota": { "texto": "A flagelação romana (com o flagellum de tiras de couro com pontas de osso ou metal) era tão brutal que podia levar à morte.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

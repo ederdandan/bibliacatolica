@@ -1,0 +1,90 @@
+{
+  "id": "MRK.14.12",
+  "livro": "MRK",
+  "titulo": "A Ceia pascal e a instituição da Eucaristia",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,12-25",
+  "ini": { "c": 14, "v": 12 },
+  "fim": { "c": 14, "v": 25 },
+  "liturgia": { "tema_central": "“Isto é o meu corpo… isto é o meu sangue, o sangue da Aliança”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No primeiro dia dos Ázimos, quando se imolava o cordeiro pascal, Jesus envia dois discípulos (Pedro e João, segundo Lucas) à cidade: um homem com uma bilha de água, sinal incomum porque era trabalho de mulheres, os guiará a uma sala superior já preparada. À tarde, à mesa, Jesus anuncia que um dos Doze, que come com Ele no mesmo prato, o entregará; cada um pergunta: “Sou eu?” O Filho do Homem vai conforme está escrito, mas ai do traidor. Durante a ceia, Jesus toma o pão, abençoa, parte e dá: “Isto é o meu corpo”. Depois o cálice: “Isto é o meu sangue, o sangue da Aliança, derramado por muitos” (cf. Ex 24,8). E promete beber o vinho novo no Reino de Deus.",
+    "alegorico": "A Páscoa antiga se cumpre na nova: Cristo é o verdadeiro Cordeiro, cujo sangue sela a nova e eterna Aliança. O pão partido antecipa o Corpo entregue na Cruz, e o cálice, o Sangue derramado. Os Padres afirmam claramente a presença real: o pão não é mera figura, mas é transformado no Corpo de Cristo. Aquele que preparou aquela mesa consagra também hoje a nossa no altar.",
+    "moral": "A Eucaristia exige preparação: como os discípulos prepararam a sala, devemos preparar o coração. O “Sou eu?” de cada discípulo ensina o exame de consciência humilde, sem julgar os outros. Ai de quem se aproxima da mesa do Senhor com má intenção, como Judas: comungar indignamente é entregar o Senhor de novo. Cristo ofereceu o seu sangue até ao traidor, para que pudesse se converter.",
+    "anagogico": "A Ceia aponta para o banquete do Reino, quando Cristo beberá conosco o vinho novo. Cada Missa é antecipação dessa mesa eterna. A Eucaristia é penhor da glória futura: quem come deste pão vive para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No primeiro dia dos Ázimos, os discípulos perguntam onde preparar a Páscoa. Jesus os envia à cidade, onde encontram tudo como Ele dissera, e preparam a ceia numa sala superior. À tarde, à mesa, Jesus diz: “Um de vós, que come comigo, me há de entregar”. Entristecidos, perguntam: “Sou eu?” Enquanto comiam, Jesus toma o pão, abençoa, parte e dá: “Tomai, isto é o meu corpo”. Depois toma o cálice, dá graças, e todos bebem: “Isto é o meu sangue, o sangue da Aliança, derramado por muitos. Não beberei mais do fruto da videira até o dia em que o beber novo no Reino de Deus”.",
+    "meditatio_perguntas": [
+      "Como preparo o meu coração para receber a Eucaristia?",
+      "Faço com sinceridade a pergunta “Sou eu, Senhor?”, sem acusar os outros?",
+      "Creio de verdade que o pão consagrado é o Corpo de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que na última Ceia nos deste o teu Corpo e o teu Sangue, eu te adoro presente no Sacramento. Prepara o meu coração para receber-te dignamente. Que eu nunca te traia, e que um dia beba contigo o vinho novo no teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Tomai, isto é o meu corpo.", "ref": "Mc 14,22" }
+  },
+  "ancoras": {
+    "14:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:12–16#1", "sintese": "O primeiro dia dos ázimos é o décimo quarto do primeiro mês, quando se lançava fora o fermento e se imolava o cordeiro." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:12–16#2", "sintese": "O pão ázimo comido com ervas amargas é a nossa redenção; a amargura é a paixão do Senhor." }
+      ],
+      "nota": null
+    },
+    "14:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:12–16#5", "sintese": "Envia dois discípulos a um homem que não o conhecia, mostrando que poderia, se quisesse, ter evitado a paixão." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:12–16#10", "sintese": "A água é o banho da graça; o cântaro indica a fraqueza daqueles que deviam mostrar essa graça ao mundo." }
+      ],
+      "nota": null
+    },
+    "14:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:17–21#0", "sintese": "Profetizou sobre o traidor para lhe dar lugar à penitência, a fim de que, compreendendo que seus pensamentos eram conhecidos, se arrependesse." }
+      ],
+      "nota": null
+    },
+    "14:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:17–21#7", "sintese": "A palavra “vai” mostra que a morte de Cristo não foi forçada, mas voluntária." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:17–21#9", "sintese": "Ai também, hoje e sempre, de quem se aproxima com má intenção da mesa do Senhor: a exemplo de Judas, o entrega." }
+      ],
+      "nota": null
+    },
+    "14:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:22–25#0", "sintese": "Terminada a antiga Páscoa, passou à nova: substituiu a carne e o sangue do cordeiro pelo sacramento do seu Corpo e Sangue." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:22–25#3", "sintese": "O pão não é mera figura do Corpo de Cristo, mas é transformado no próprio Corpo de Cristo." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "14:22–25#4", "sintese": "Também agora Cristo está presente: Aquele que preparou aquela mesa consagra também esta; não é o homem que faz as oferendas se tornarem o Corpo e o Sangue." }
+      ],
+      "nota": null
+    },
+    "14:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "14:22–25#10", "sintese": "Cristo ofereceu o seu sangue até ao que o traía, para que alcançasse o perdão, se quisesse deixar a iniquidade." }
+      ],
+      "nota": null
+    },
+    "14:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:22–25#13", "sintese": "Opõe-se ao Antigo Testamento, consagrado com sangue de bezerros e bodes, quando Moisés disse: “Este é o sangue da aliança”." }
+      ],
+      "nota": { "texto": "“Sangue da Aliança” retoma Ex 24,8, a aliança do Sinai; “por muitos” ecoa o Servo de Is 53,12, que carrega o pecado de muitos.", "origem": "ia" }
+    },
+    "14:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:22–25#15", "sintese": "Chama Reino à sua ressurreição, porque então reinou sobre a morte; depois de ressuscitado, comeu e bebeu com os discípulos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

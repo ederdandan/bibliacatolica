@@ -1,0 +1,65 @@
+{
+  "id": "MRK.8.10",
+  "livro": "MRK",
+  "titulo": "O sinal pedido pelos fariseus e o fermento",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 8,10-21",
+  "ini": { "c": 8, "v": 10 },
+  "fim": { "c": 8, "v": 21 },
+  "liturgia": { "tema_central": "“Ainda não entendeis?”: o coração endurecido não vê os sinais de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de dois banquetes milagrosos, os fariseus pedem “um sinal do céu” para pôr Jesus à prova. Ele suspira profundamente e recusa: a esta geração não será dado sinal. Na barca, os discípulos têm um só pão. Jesus adverte contra o “fermento” dos fariseus e de Herodes: a incredulidade e a mentalidade mundana que corrompem tudo, como o fermento leveda a massa. Os discípulos entendem literalmente e discutem sobre a falta de pão. Jesus os repreende com sete perguntas e recorda os doze e os sete cestos: “Ainda não entendeis?”",
+    "alegorico": "O “único pão” na barca é, para muitos intérpretes, o próprio Cristo, presente na barca da Igreja. O sinal do céu que os fariseus pedem será dado de outro modo, na Ressurreição e na Ascensão, diante de quem busca o Senhor. Os números dos cestos (doze e sete) indicam que o pão de Cristo basta para Israel e para as nações.",
+    "moral": "Pedir sinais para pôr Deus à prova é falta de fé; quem busca de verdade recebe sinais suficientes. Onde há esperança de correção convém permanecer; onde o mal é obstinado, é melhor retirar-se. O fermento dos fariseus é a hipocrisia e a incredulidade; o de Herodes, a ambição mundana. As preocupações materiais podem cegar-nos para a presença de Cristo. A memória das graças recebidas cura o coração endurecido.",
+    "anagogico": "Os sinais no céu virão na segunda vinda, quando os astros serão abalados; agora é o tempo da misericórdia. Quem aprende a reconhecer o Senhor nos sinais humildes desta vida o verá na sua glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os fariseus discutem com Jesus e, para tentá-lo, pedem um sinal do céu. Ele suspira profundamente: “Por que esta geração pede um sinal? Não lhe será dado sinal algum”. Na barca, os discípulos tinham só um pão. Jesus os adverte: “Guardai-vos do fermento dos fariseus e do fermento de Herodes”. Eles pensam que é por falta de pão. Jesus os repreende, recordando os cinco pães para cinco mil e os sete pães para quatro mil: “Ainda não entendeis?”",
+    "meditatio_perguntas": [
+      "Exijo sinais de Deus para crer, ou reconheço os que Ele já me deu?",
+      "Que “fermento” de hipocrisia ou de mundanidade está levedando o meu coração?",
+      "Lembro-me das graças que já recebi quando as dificuldades me preocupam?"
+    ],
+    "oratio_guia": "Senhor Jesus, perdoa a minha dureza de coração e a minha memória curta. Livra-me do fermento da hipocrisia e da mundanidade. Abre os meus olhos para reconhecer-te, pão único que estás na barca da minha vida. Amém.",
+    "contemplatio_foco": { "texto": "Como é que não entendeis ainda?", "ref": "Mc 8,21" }
+  },
+  "ancoras": {
+    "8:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 33", "catena": "8:10–21#2", "sintese": "Pedem que, a exemplo de Moisés, sacie toda a nação com o maná vindo do céu." }
+      ],
+      "nota": { "texto": "Dalmanuta é lugar não identificado; Mateus fala de Magadã (Mt 15,39), talvez Magdala, na margem ocidental do lago.", "origem": "ia" }
+    },
+    "8:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:10–21#4", "sintese": "Como deu graças ao saciar a multidão que cria, geme agora pelo pedido insensato: tendo assumido os afetos humanos, alegra-se com a salvação e se entristece com o erro." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:10–21#7", "sintese": "A quem tenta o Senhor não se dá sinal do céu; a quem o busca, Ele o mostra quando sobe ao céu à vista dos apóstolos." }
+      ],
+      "nota": null
+    },
+    "8:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:10–21#8", "sintese": "Deixa os fariseus como incorrigíveis: onde há esperança de correção convém permanecer; onde o mal é incorrigível, devemos retirar-nos." }
+      ],
+      "nota": null
+    },
+    "8:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:10–21#13", "sintese": "O fermento dos fariseus é pospor a lei divina às tradições humanas, pregar a lei com palavras e combatê-la com as obras." }
+      ],
+      "nota": null
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:10–21#10", "sintese": "Por providência os discípulos esqueceram o pão, para serem repreendidos, tornarem-se melhores e chegarem ao conhecimento do poder de Cristo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

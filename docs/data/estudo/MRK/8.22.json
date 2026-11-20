@@ -1,0 +1,60 @@
+{
+  "id": "MRK.8.22",
+  "livro": "MRK",
+  "titulo": "O cego de Betsaida",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 8,22-26",
+  "ini": { "c": 8, "v": 22 },
+  "fim": { "c": 8, "v": 26 },
+  "liturgia": { "tema_central": "Cristo abre os olhos aos poucos: a fé cresce até ver com clareza", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Episódio próprio de Marcos e único milagre feito em duas etapas. Jesus leva o cego para fora da aldeia, põe saliva nos seus olhos e impõe as mãos. Primeiro ele vê de modo confuso (“homens como árvores que andam”); depois de nova imposição, vê tudo com nitidez. Está colocado entre a cegueira dos discípulos (8,18: “tendo olhos, não vedes”) e a confissão de Pedro (8,29), e funciona como parábola em ação: os discípulos também veem a Jesus só em parte, e precisarão de um segundo toque, a Cruz e a Ressurreição, para ver plenamente.",
+    "alegorico": "O cego é a humanidade e cada discípulo, chamados a passar das trevas à luz. A saliva, que procede da cabeça, indica a graça do Espírito Santo, e a mão, a humanidade assumida pelo Verbo: Cristo cura pela graça invisível e pelo sacramento da sua humanidade. A cura gradual figura o caminho da fé, da iluminação batismal à visão plena.",
+    "moral": "A cura é dada na medida da fé, e o crescimento espiritual é muitas vezes progressivo: não devemos desanimar se ainda vemos “como árvores”. Jesus nos toma pela mão para fortalecer-nos nas boas obras e nos leva para fora da “aldeia”, longe do ruído e da influência dos ímpios. Ver os outros “como árvores” pode significar julgá-los maiores que nós, sinal de humildade. Contemos ao próximo a nossa cegueira, nunca a nossa virtude.",
+    "anagogico": "Agora vemos como em espelho, de modo confuso; um dia veremos face a face (1Cor 13,12). O segundo toque de Cristo é figura da visão beatífica, quando veremos tudo com clareza. A “casa” para onde o curado é enviado é o céu, a nossa verdadeira morada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em Betsaida, trazem a Jesus um cego e pedem que o toque. Jesus o toma pela mão e o leva para fora da aldeia; põe-lhe saliva nos olhos, impõe-lhe as mãos e pergunta se vê alguma coisa. Ele responde: “Vejo os homens como árvores que andam”. Jesus impõe-lhe de novo as mãos, e ele passa a ver tudo com clareza. Jesus o manda para casa, dizendo que não entre na aldeia.",
+    "meditatio_perguntas": [
+      "Em que ainda vejo Jesus e os outros “como árvores”, de modo confuso?",
+      "Deixo Jesus tomar-me pela mão e levar-me “para fora da aldeia”, ao silêncio?",
+      "Tenho paciência com o crescimento gradual da minha fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, toma-me pela mão e conduz-me para longe do ruído. Toca os meus olhos uma e outra vez, até que eu veja tudo com clareza, a ti, aos irmãos e a mim mesmo. Que eu chegue um dia a ver-te face a face. Amém.",
+    "contemplatio_foco": { "texto": "Vejo os homens que me parecem árvores que andam.", "ref": "Mc 8,24" }
+  },
+  "ancoras": {
+    "8:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:22–26#9", "sintese": "O Senhor nos toca quando ilumina a mente com o sopro do seu Espírito; toma a mão do cego para fortalecê-lo na prática das boas obras." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:22–26#11", "sintese": "Removeu a cegueira humana pelos dons invisíveis e pelo sacramento da humanidade assumida; a saliva, que procede da cabeça, indica a graça do Espírito Santo." }
+      ],
+      "nota": null
+    },
+    "8:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:22–26#4", "sintese": "Via as formas entre sombras, mas, pela longa escuridão, não distinguia os contornos, como árvores muito juntas vistas de longe." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "8:22–26#12", "sintese": "Vê os homens como árvores porque julga todos superiores a si." }
+      ],
+      "nota": null
+    },
+    "8:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:22–26#5", "sintese": "Não viu perfeitamente de uma só vez porque não tinha fé perfeita: a cura é concedida na proporção da fé." }
+      ],
+      "nota": null
+    },
+    "8:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:22–26#13", "sintese": "Manda-o para casa, pois a casa de cada um de nós é o céu e as moradas que lá existem." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "8:22–26#14", "sintese": "Conta continuamente ao próximo a tua cegueira, mas nunca lhe contes a tua virtude." }
+      ],
+      "nota": { "texto": "Betsaida (“casa da pesca”) ficava na margem nordeste do lago. Era a terra de Pedro, André e Filipe (Jo 1,44).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

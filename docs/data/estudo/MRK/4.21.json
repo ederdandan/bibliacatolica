@@ -1,0 +1,59 @@
+{
+  "id": "MRK.4.21",
+  "livro": "MRK",
+  "titulo": "A lâmpada e a medida",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 4,21-25",
+  "ini": { "c": 4, "v": 21 },
+  "fim": { "c": 4, "v": 25 },
+  "liturgia": { "tema_central": "A luz da Palavra não é para ficar escondida: a quem acolhe, mais será dado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Dois pequenos ditos completam o discurso das parábolas. A lâmpada de azeite era posta no candelabro para iluminar a casa; ninguém a escondia debaixo do alqueire (um recipiente de medir grãos) ou da cama. O que agora está velado nas parábolas será manifestado. O segundo dito usa a imagem da medida no comércio: a atenção com que se escuta determina o que se recebe, e Deus ainda acrescenta mais. Quem acolhe a Palavra cresce nela; quem a despreza perde até o pouco que pensava ter.",
+    "alegorico": "A lâmpada é Cristo, luz do mundo, e também a Palavra do Evangelho, que não veio para ficar escondida, mas para ser posta sobre o candelabro, isto é, a Igreja e os apóstolos que ela ilumina. Deus, o mais oculto de todos, manifestou-se na carne. O mistério do Reino, agora velado em parábolas, é revelado aos discípulos e, por meio deles, a todas as nações.",
+    "moral": "O discípulo deve ser lâmpada: a sua vida, iluminada pela Palavra, deve brilhar diante dos outros. Esconde a lâmpada quem a cobre com o amor desta vida passageira ou com as seduções da carne. A medida da escuta é a medida do fruto: quanto mais nos aplicamos a ouvir, praticar e anunciar a Palavra, mais Deus nos dá entendimento e vontade de fazer o bem. A negligência faz perder até os dons recebidos.",
+    "anagogico": "“Nada há escondido que não venha a ser manifesto” aponta para o Juízo, quando tudo o que fizemos, bom ou mau, será revelado. A medida generosa de Deus, que acrescenta sempre mais, culmina na recompensa eterna, que excede toda medida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus pergunta se alguém traz a lâmpada para pô-la debaixo do alqueire ou da cama, e não sobre o candelabro. Nada há escondido que não deva ser manifestado. Quem tem ouvidos, ouça. E acrescenta: prestai atenção ao que ouvis; com a medida com que medirdes, sereis medidos, e ainda vos será acrescentado. A quem tem, será dado; a quem não tem, até o que tem lhe será tirado.",
+    "meditatio_perguntas": [
+      "A minha fé ilumina quem está à minha volta, ou está escondida “debaixo do alqueire”?",
+      "Com que medida de atenção eu escuto a Palavra de Deus?",
+      "Que dons recebidos de Deus estou deixando perder por negligência?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz verdadeira, acende em mim a lâmpada da tua Palavra e não permitas que eu a esconda. Dá-me ouvidos atentos e um coração generoso, para que eu receba sempre mais de ti e o partilhe com os outros. Amém.",
+    "contemplatio_foco": { "texto": "Atendei ao que ouvis.", "ref": "Mc 4,24" }
+  },
+  "ancoras": {
+    "4:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:21–25#2", "sintese": "Exorta os discípulos a serem luminosos na vida e na conduta: todos olharão para a vossa vida; não vos escondais pelos cantos, mas sede lâmpada." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 20", "catena": "4:21–25#3", "sintese": "O alqueire é o tempo da nossa vida, medido pela Providência; a cama é o corpo. Esconde a lâmpada quem cobre a Palavra com o amor desta vida passageira e das seduções carnais." }
+      ],
+      "nota": { "texto": "O “alqueire” (modius) era uma vasilha de medir grãos, com cerca de 8 a 9 litros.", "origem": "ia" }
+    },
+    "4:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:21–25#5", "sintese": "Tudo o que fizemos, bem ou mal, é revelado nesta vida, e muito mais na futura. O que há de mais oculto que Deus? E, no entanto, Ele se manifestou na carne." }
+      ],
+      "nota": null
+    },
+    "4:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "4:21–25#8", "sintese": "Se vos esforçardes por fazer todo o bem possível e ensiná-lo ao próximo, Deus vos dará entendimento e vontade de coisas melhores, e acrescentará a recompensa eterna." }
+      ],
+      "nota": null
+    },
+    "4:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:21–25#9", "sintese": "Quem tem fé terá a virtude, e quem obedece à palavra terá também o entendimento do mistério." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "4:21–25#11", "sintese": "Às vezes um leitor de engenho vivo, por negligência, perde a sabedoria que saboreia aquele que, embora lento, se aplica com mais diligência." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

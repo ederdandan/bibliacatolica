@@ -1,0 +1,51 @@
+{
+  "id": "MRK.12.35",
+  "livro": "MRK",
+  "titulo": "O Messias, Filho e Senhor de David",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,35-37",
+  "ini": { "c": 12, "v": 35 },
+  "fim": { "c": 12, "v": 37 },
+  "liturgia": { "tema_central": "O Messias é mais que filho de David: é o seu Senhor, sentado à direita de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de responder a todas as perguntas, é Jesus quem pergunta. Os escribas ensinavam que o Messias é “filho de David”, o que era verdade (2Sm 7). Mas no Sl 110,1 (Sl 109 na Vulgata), atribuído a David e inspirado pelo Espírito Santo, David chama o Messias de “meu Senhor”, a quem Deus diz: “Senta-te à minha direita”. Como pode ser ao mesmo tempo filho e Senhor? Jesus não nega a filiação davídica, mas mostra que ela não basta: o Messias é maior que David. A multidão o escuta com gosto.",
+    "alegorico": "A resposta implícita é o mistério da Encarnação: segundo a carne, Cristo é filho de David; segundo a divindade, é o seu Senhor, Filho de Deus. O Sl 110 é o texto do Antigo Testamento mais citado no Novo, aplicado à Ressurreição e à Ascensão: Cristo está sentado à direita do Pai. A submissão dos inimigos não mostra fraqueza do Filho, mas a unidade de natureza com o Pai.",
+    "moral": "Não basta uma ideia correta, mas incompleta, de Jesus: um grande homem, um descendente ilustre, um mestre. É preciso reconhecê-lo como Senhor. A pergunta de Jesus convida-nos a deixar que a Escritura, lida no Espírito, amplie a nossa compreensão de quem Ele é. Escutar Jesus “com gosto” é o primeiro passo; segui-lo é o seguinte.",
+    "anagogico": "Cristo, sentado à direita do Pai, reina até que todos os inimigos, e por último a morte, sejam postos sob os seus pés (1Cor 15,25-26). A sua realeza, hoje escondida, será manifesta a todos no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ensinando no Templo, Jesus pergunta: “Como dizem os escribas que o Cristo é filho de David? O próprio David, inspirado pelo Espírito Santo, disse: ‘Disse o Senhor ao meu Senhor: Senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés’. Se David o chama Senhor, como pode ser seu filho?” E a grande multidão o escutava com gosto.",
+    "meditatio_perguntas": [
+      "Reconheço Jesus apenas como mestre e modelo, ou como meu Senhor e Deus?",
+      "Leio a Escritura deixando que ela amplie a minha imagem de Jesus?",
+      "Escuto Jesus “com gosto”? Que lugar tem a sua Palavra no meu dia?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de David e Senhor de David, eu te adoro sentado à direita do Pai. Que eu não reduza o teu mistério à medida das minhas ideias. Reina sobre mim e sobre todos os meus inimigos interiores. Amém.",
+    "contemplatio_foco": { "texto": "Disse o Senhor ao meu Senhor: Senta-te à minha direita.", "ref": "Mc 12,36" }
+  },
+  "ancoras": {
+    "12:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:35–37#0", "sintese": "Perto da Paixão, corrige a falsa opinião dos judeus, que diziam que o Cristo era filho de David, e não seu Senhor." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:35–37#1", "sintese": "Fala-lhes abertamente de si mesmo, para que fiquem sem desculpa." }
+      ],
+      "nota": null
+    },
+    "12:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:35–37#3", "sintese": "Que o Pai lhe submeta os inimigos não mostra fraqueza do Filho, mas a unidade de natureza, pela qual um opera no outro." }
+      ],
+      "nota": { "texto": "O Sl 110 (Vulgata 109) é o salmo do Antigo Testamento mais citado no Novo (At 2,34-35; Hb 1,13). Fundamenta a fé de que Cristo “está sentado à direita do Pai”.", "origem": "ia" }
+    },
+    "12:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:35–37#5", "sintese": "A pergunta é útil ainda hoje contra os que esperam um Messias mero homem, santo varão da linhagem de David: ele é também Senhor de David." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

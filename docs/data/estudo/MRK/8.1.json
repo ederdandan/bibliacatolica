@@ -1,0 +1,60 @@
+{
+  "id": "MRK.8.1",
+  "livro": "MRK",
+  "titulo": "A segunda multiplicação dos pães",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 8,1-9",
+  "ini": { "c": 8, "v": 1 },
+  "fim": { "c": 8, "v": 9 },
+  "liturgia": { "tema_central": "“Tenho compaixão deste povo”: o pão de Cristo para os que vêm de longe", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ainda em território pagão (a Decápole), uma multidão está com Jesus há três dias e nada tem para comer. Desta vez é Jesus quem toma a iniciativa: “Tenho compaixão deste povo”. Alguns vieram “de longe”, expressão usada para os gentios (cf. Is 60,4; At 2,39). Com sete pães e alguns peixinhos, Jesus “dá graças” (em grego, eucharistēsas), parte e dá aos discípulos para distribuírem. Comem cerca de quatro mil pessoas, e sobram sete cestos. Este segundo banquete, em terra pagã, completa o primeiro, em terra judaica.",
+    "alegorico": "Se o primeiro milagre (cinco pães e doze cestos) se dirigia a Israel, este (sete pães e sete cestos) se dirige às nações: o número sete indica plenitude e universalidade. A ação de graças de Jesus antecipa a Eucaristia, alimento da Igreja reunida de todos os povos. Os sete pães foram lidos pelos Padres como os dons do Espírito Santo, e os que esperam três dias, como os batizados.",
+    "moral": "Jesus não despede o povo em jejum, para que não desfaleça no caminho: assim, os pastores devem dar a palavra de consolação aos fiéis, para que não sucumbam nas fadigas desta vida. Os que voltam à penitência depois de graves pecados vêm “de longe”, e Cristo os acolhe e alimenta. Diante da necessidade dos outros, a compaixão deve preceder o cálculo. Aprendemos também a contentar-nos com o suficiente.",
+    "anagogico": "O pão dado no deserto sustenta no caminho até a fonte da vida, o Pai. A Eucaristia é viático para a peregrinação terrena; no fim, todos os que vieram de longe serão saciados no banquete eterno, onde não haverá mais fome."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Havendo de novo grande multidão sem ter o que comer, Jesus chama os discípulos e diz: “Tenho compaixão deste povo, porque há três dias estão comigo e não têm o que comer; se os despedir em jejum, desfalecerão no caminho”. Os discípulos perguntam como saciá-los no deserto. Têm sete pães. Jesus dá graças, parte-os e os dá aos discípulos para distribuírem; abençoa também alguns peixinhos. Comem cerca de quatro mil e sobram sete cestos.",
+    "meditatio_perguntas": [
+      "Tenho a compaixão de Jesus pelos que estão “desfalecendo no caminho”?",
+      "Agradeço a Deus antes de partilhar o que tenho?",
+      "Confio que Jesus acolhe os que vêm “de longe”, inclusive eu mesmo?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu tens compaixão de mim e não queres que eu desfaleça no caminho. Alimenta-me com a tua Palavra e com o teu Corpo. Faz-me partilhar com gratidão os meus poucos pães, para que ninguém fique com fome. Amém.",
+    "contemplatio_foco": { "texto": "Tenho compaixão deste povo.", "ref": "Mc 8,2" }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. I, 19", "catena": "8:1–9#8", "sintese": "Não quer despedi-los em jejum: é necessário que os homens encontrem na pregação a palavra de consolação, para não sucumbirem às fadigas desta vida." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:1–9#10", "sintese": "Vêm de longe os que voltam à penitência depois de graves pecados: quanto mais alguém se desviou em más obras, mais se afastou de Deus." }
+      ],
+      "nota": null
+    },
+    "8:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:1–9#2", "sintese": "Apesar dos milagres anteriores, os discípulos ainda não compreendiam nem acreditavam no seu poder." }
+      ],
+      "nota": null
+    },
+    "8:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:1–9#13", "sintese": "Partir o pão significa a abertura dos mistérios; a ação de graças mostra a alegria do Senhor pela salvação do gênero humano." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:1–9#4", "sintese": "Devemos notar no mesmo Redentor a operação distinta da divindade e da humanidade, contra o erro de Eutiques, que afirmava em Cristo uma só operação." }
+      ],
+      "nota": { "texto": "“Deu graças” traduz o grego eucharistēsas, de onde vem a palavra “Eucaristia”.", "origem": "ia" }
+    },
+    "8:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:1–9#6", "sintese": "A primeira refeição significa a letra do Antigo Testamento, cheia de graça espiritual; esta, a verdade e a graça do Novo Testamento." },
+        { "autor": "Teofilato", "obra": null, "catena": "8:1–9#11", "sintese": "Os sete pães são os discursos espirituais, pois sete é o número do Espírito Santo, que tudo aperfeiçoa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

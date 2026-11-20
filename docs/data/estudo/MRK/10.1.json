@@ -1,0 +1,73 @@
+{
+  "id": "MRK.10.1",
+  "livro": "MRK",
+  "titulo": "O matrimônio indissolúvel",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,1-12",
+  "ini": { "c": 10, "v": 1 },
+  "fim": { "c": 10, "v": 12 },
+  "liturgia": { "tema_central": "“Não separe o homem o que Deus juntou”: o desígnio original do matrimônio", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus deixa a Galileia e vai para a Judeia e a Transjordânia, território de Herodes Antipas, que se casara ilicitamente. Os fariseus perguntam, para tentá-lo, se é lícito repudiar a mulher. Moisés permitira o libelo de divórcio (Dt 24,1-4), mas Jesus explica que foi uma concessão à “dureza do coração”. Remonta ao “princípio da criação” (Gn 1,27; 2,24): Deus fez o homem e a mulher para serem uma só carne. Daí a conclusão: “Não separe o homem o que Deus juntou”. Em casa, Jesus explica aos discípulos que um novo casamento depois do repúdio é adultério, e aplica o princípio também à mulher, o que era novo no contexto judaico.",
+    "alegorico": "A união do homem e da mulher, uma só carne, é imagem da união de Cristo com a Igreja (Ef 5,31-32). Se não se deve separar o que Deus uniu, muito menos se deve separar de Cristo a Igreja. Cristo, novo Adão, restaura a criação ao seu desígnio original, e o matrimônio torna-se sacramento dessa aliança indissolúvel.",
+    "moral": "A fidelidade conjugal não é apenas uma regra, mas a verdade do amor tal como Deus o quis desde o princípio. A dureza do coração é a raiz das rupturas; a graça de Cristo torna possível o que parecia impossível. Jesus defende também a dignidade da mulher, que podia ser repudiada facilmente. O texto chama os esposos à paciência, ao perdão e à oração, e a comunidade a sustentar os casais.",
+    "anagogico": "O matrimônio terreno é sinal das núpcias eternas do Cordeiro com a sua Esposa. A fidelidade dos esposos até a morte prepara e anuncia a comunhão definitiva com Deus, na qual o amor não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus vai para a Judeia e para além do Jordão e ensina as multidões. Os fariseus, para tentá-lo, perguntam se é lícito ao marido repudiar a mulher. Jesus pergunta o que Moisés mandou; respondem que permitiu escrever carta de divórcio. Jesus diz que foi pela dureza do coração deles; mas, no princípio, Deus os fez homem e mulher, e os dois serão uma só carne. “Não separe o homem o que Deus juntou.” Em casa, explica que quem repudia o cônjuge e se casa com outro comete adultério.",
+    "meditatio_perguntas": [
+      "Que “dureza de coração” ameaça as minhas relações mais próximas?",
+      "Rezo pelos casais, sobretudo os que estão em crise?",
+      "Vejo o matrimônio como projeto de Deus, ou apenas como contrato humano?"
+    ],
+    "oratio_guia": "Senhor Jesus, que restauraste o matrimônio segundo o desígnio do princípio, abençoa as famílias. Cura a dureza dos corações, dá aos esposos fidelidade, paciência e perdão. Que o amor deles seja sinal do teu amor pela Igreja. Amém.",
+    "contemplatio_foco": { "texto": "Não separe o homem o que Deus juntou.", "ref": "Mc 10,9" }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 3, 40", "catena": "10:1–12#0", "sintese": "Até aqui Marcos narrou o que o Senhor fez na Galileia; agora começa a narrar o que fez, ensinou ou padeceu na Judeia." }
+      ],
+      "nota": null
+    },
+    "10:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. XIX, 26", "catena": "10:1–12#6", "sintese": "Moisés era contrário ao repúdio: interpôs a demora da carta de divórcio para que quem estivesse inclinado à separação desistisse." }
+      ],
+      "nota": { "texto": "Dt 24,1 fala de “algo vergonhoso”. A escola rabínica de Hillel interpretava largamente; a de Shammai, restritamente.", "origem": "ia" }
+    },
+    "10:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:1–12#8", "sintese": "Não diz “homem e mulheres”, mas “homem e mulher”, para que ficassem unidos pelo vínculo de uma só esposa." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:1–12#9", "sintese": "Se quisesse que uma esposa fosse despedida e outra introduzida, teria criado várias mulheres." }
+      ],
+      "nota": null
+    },
+    "10:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:1–12#12", "sintese": "O fruto do matrimônio é que os dois se tornem uma só carne; a virgindade, unida ao Espírito, torna-se um só espírito." }
+      ],
+      "nota": null
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:1–12#13", "sintese": "Não disse “não separeis”, mas apresentou um argumento temível: o que Deus uniu, o homem não separe." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:1–12#16", "sintese": "Se não devem ser separados dois que Deus uniu, muito pior é separar de Cristo a Igreja que Deus lhe uniu." }
+      ],
+      "nota": null
+    },
+    "10:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "10:1–12#20", "sintese": "Não é esposa aquela que alguém tomou depois de abandonar a primeira; por isso comete adultério com ela." }
+      ],
+      "nota": { "texto": "Mateus acrescenta a cláusula “exceto em caso de porneia” (Mt 19,9). A tradição católica a entende como uniões ilegítimas desde a origem, não como exceção à indissolubilidade.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

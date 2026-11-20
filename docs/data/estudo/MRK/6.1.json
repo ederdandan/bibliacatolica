@@ -1,0 +1,66 @@
+{
+  "id": "MRK.6.1",
+  "livro": "MRK",
+  "titulo": "Jesus rejeitado em Nazaré",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,1-6",
+  "ini": { "c": 6, "v": 1 },
+  "fim": { "c": 6, "v": 6 },
+  "liturgia": { "tema_central": "Um profeta só não é honrado em sua pátria: a incredulidade fecha as portas à graça", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus volta a Nazaré e ensina na sinagoga. Os conterrâneos admiram a sua sabedoria e os seus milagres, mas se escandalizam: conhecem-no como “o carpinteiro, filho de Maria”, e conhecem os seus parentes. Os “irmãos” e “irmãs” citados são parentes próximos; Tiago e José aparecem em 15,40 como filhos de outra Maria. A familiaridade os impede de crer. Jesus cita o provérbio do profeta desonrado em sua terra. Marcos diz, com ousadia, que “não podia” fazer milagres ali: não por falta de poder, mas porque o milagre supõe a fé. E Jesus “admirava-se” da incredulidade deles.",
+    "alegorico": "A rejeição em Nazaré prefigura a rejeição de Cristo pelo seu povo e anuncia a Paixão. O “carpinteiro” é Filho do verdadeiro Artífice, que fez a aurora e o sol, e que opera pelo fogo e pelo espírito. Os de Nazaré, que só veem a origem humilde, figuram todos os que tropeçam no escândalo da Encarnação: Deus que se faz próximo demais.",
+    "moral": "A familiaridade com as coisas santas pode gerar indiferença: corremos o risco de “conhecer” Jesus sem crer nele. O desprezo por causa da origem humilde revela a soberba, pois o Senhor olha para os humildes e conhece de longe os soberbos. A incredulidade limita a ação de Deus em nós: Ele não força a graça onde não há acolhida. Depois da rejeição, Jesus não desiste e vai ensinar pelas aldeias.",
+    "anagogico": "O Filho que habitou escondido em Nazaré será manifestado em glória a todos. Os que agora o desprezam por parecer comum o verão vir como Juiz. A fé que se abre ao mistério escondido no cotidiano prepara para a visão face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus vai à sua terra com os discípulos e ensina na sinagoga no sábado. Muitos se admiram: de onde lhe vem essa sabedoria e esses milagres? Não é o carpinteiro, filho de Maria, irmão de Tiago, José, Judas e Simão? E escandalizavam-se dele. Jesus diz que um profeta só não é honrado em sua pátria e em sua casa. Não pôde fazer ali milagres, a não ser curar alguns doentes, e admirava-se da incredulidade deles.",
+    "meditatio_perguntas": [
+      "A familiaridade com a fé e com a Igreja me tornou indiferente a Jesus?",
+      "Desprezo alguém, ou a mensagem de alguém, por causa da sua origem ou aparência?",
+      "Que “milagres” Deus não pode fazer em mim por causa da minha incredulidade?"
+    ],
+    "oratio_guia": "Senhor Jesus, carpinteiro de Nazaré e Filho de Deus, não permitas que eu te conheça sem crer em ti. Livra-me da indiferença e do orgulho. Abre o meu coração para que possas agir em mim com todo o teu poder. Amém.",
+    "contemplatio_foco": { "texto": "E admirava-se da incredulidade deles.", "ref": "Mc 6,6" }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:1–6#0", "sintese": "Volta à sua pátria, sabendo que seria desprezado, para que não pudessem dizer: se tivesses vindo, teríamos crido." }
+      ],
+      "nota": null
+    },
+    "6:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 23", "catena": "6:1–6#1", "sintese": "Quão grande a cegueira dos nazarenos: desprezam, só por causa dos parentes, aquele que por palavras e obras podiam reconhecer como o Cristo." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "6:1–6#3", "sintese": "É chamado filho do artífice, mas daquele cuja obra foram a aurora e o sol." }
+      ],
+      "nota": { "texto": "O termo grego tékton designa o artesão que trabalha a madeira e a pedra. Tiago e José reaparecem em Mc 15,40 como filhos de outra Maria.", "origem": "ia" }
+    },
+    "6:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "6:1–6#5", "sintese": "Muitas vezes a origem humilde acarreta desprezo; mas o Senhor olha para os humildes e conhece de longe os soberbos (Sl 138,6)." }
+      ],
+      "nota": null
+    },
+    "6:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:1–6#6", "sintese": "“Não pôde” deve entender-se como “não quis”: não por fraqueza dele, mas porque eles não tinham fé." }
+      ],
+      "nota": null
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:1–6#7", "sintese": "Não se admira como quem não previra, mas mostra abertamente a admiração para dar a entender aos homens que tal cegueira é digna de espanto." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:6–13#0", "sintese": "Pregava também nas aldeias, para aprendermos a não desprezar as coisas pequenas e a semear a palavra nos lugares humildes e abandonados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

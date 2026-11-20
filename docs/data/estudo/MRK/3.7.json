@@ -1,0 +1,58 @@
+{
+  "id": "MRK.3.7",
+  "livro": "MRK",
+  "titulo": "As multidões seguem Jesus",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 3,7-12",
+  "ini": { "c": 3, "v": 7 },
+  "fim": { "c": 3, "v": 12 },
+  "liturgia": { "tema_central": "Rejeitado pelos seus, Jesus atrai multidões de toda parte que buscam tocá-lo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Este resumo abre uma nova seção. Depois do complô (3,6), Jesus se retira para junto do mar, e uma multidão imensa o segue, vinda não só da Galileia e da Judeia, mas da Idumeia, da Transjordânia e da região pagã de Tiro e Sidônia. Jesus pede uma barca para não ser esmagado. Muitos doentes se lançam sobre Ele para tocá-lo, e os espíritos impuros se prostram e gritam: “Tu és o Filho de Deus”. Jesus os proíbe severamente de revelá-lo: é o chamado “segredo messiânico” de Marcos.",
+    "alegorico": "Os estrangeiros de Tiro e Sidônia que acorrem a Cristo, enquanto os seus o perseguem, prefiguram a entrada dos gentios na Igreja. A barca preparada à beira do mar é figura da Igreja, a partir da qual Cristo ensina e protege. Tocar Jesus para ser curado anuncia a economia sacramental, em que a força que sai dele nos alcança por sinais sensíveis.",
+    "moral": "De nada vale o parentesco ou a proximidade exterior com Cristo se não há semelhança na bondade. A busca ansiosa da multidão por tocar Jesus convida a perguntar com que fé nos aproximamos dele nos sacramentos. Jesus foge das ciladas, porque ainda não chegara a sua hora: a prudência evita perigos inúteis. E o silêncio imposto aos demônios ensina que a verdadeira confissão de fé deve nascer do amor.",
+    "anagogico": "A multidão de todas as regiões reunida em torno de Cristo antecipa a multidão incontável de todas as nações diante do trono do Cordeiro (Ap 7,9). Os demônios, que agora se prostram a contragosto, manifestam que no fim todo joelho se dobrará diante de Jesus, Senhor de tudo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus se retira com os discípulos para o mar, e uma grande multidão o segue, vinda da Galileia, da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão e de Tiro e Sidônia. Ele pede que lhe preparem uma barca para não ser comprimido. Como curava muitos, todos os doentes se lançam para tocá-lo. Os espíritos impuros se prostram e gritam que ele é o Filho de Deus, e Jesus os proíbe de o tornar conhecido.",
+    "meditatio_perguntas": [
+      "Com que desejo eu me aproximo de Jesus na Eucaristia e na Confissão?",
+      "A minha fé é só proximidade exterior, ou procuro ser semelhante a Ele na bondade?",
+      "O que eu busco quando procuro Jesus: apenas soluções, ou Ele mesmo?"
+    ],
+    "oratio_guia": "Senhor Jesus, como a multidão à beira do mar, eu também quero tocar-te. Cura as minhas feridas, mas sobretudo faz-me semelhante a ti. Que eu te busque não só pelos teus dons, mas por ti mesmo, Filho de Deus. Amém.",
+    "contemplatio_foco": { "texto": "Tu és o Filho de Deus.", "ref": "Mc 3,11" }
+  },
+  "ancoras": {
+    "3:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:6–12#2", "sintese": "Fugia das ciladas porque ainda não chegara a hora da Paixão, e nenhum lugar fora de Jerusalém era apropriado para ela." },
+        { "autor": "Teofilato", "obra": null, "catena": "3:6–12#3", "sintese": "Deixa os ingratos para fazer o bem a mais pessoas. Os estrangeiros de Tiro e Sidônia recebem os benefícios, os seus o perseguem: de nada vale o parentesco sem semelhança na bondade." }
+      ],
+      "nota": { "texto": "A Idumeia ficava ao sul da Judeia; Tiro e Sidônia eram cidades fenícias, pagãs, no litoral norte. A lista mostra a fama de Jesus além de Israel.", "origem": "ia" }
+    },
+    "3:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:6–12#5", "sintese": "Pede uma pequena barca para não ser comprimido. Os “flagelos” são as doenças, pois Deus nos corrige como um pai aos filhos." }
+      ],
+      "nota": null
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:6–12#6", "sintese": "Os doentes se prostravam pelo desejo da saúde; os demônios, dominados pelo temor de Deus, eram obrigados a prostrar-se e a louvar a sua majestade." }
+      ],
+      "nota": null
+    },
+    "3:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:6–12#7", "sintese": "Os herodianos, amigos dos desejos carnais, querem matar Cristo; os que deixam o modo de vida carnal o seguem, e as feridas da sua consciência são curadas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "MRK.14.43",
+  "livro": "MRK",
+  "titulo": "A prisão de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,43-52",
+  "ini": { "c": 14, "v": 43 },
+  "fim": { "c": 14, "v": 52 },
+  "liturgia": { "tema_central": "Entregue com um beijo, Jesus se deixa prender para que se cumpram as Escrituras", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Judas, “um dos Doze”, chega com uma multidão armada enviada pelo Sinédrio. O sinal combinado é o beijo, saudação habitual de um discípulo ao mestre, aqui transformada em senha de traição: “Rabi!”, e o beija. Prendem Jesus. Um dos presentes (Pedro, segundo João) corta a orelha do servo do sumo sacerdote. Jesus protesta contra a maneira de prendê-lo, como a um bandido, de noite, quando todos os dias ensinava no Templo; mas tudo acontece para que se cumpram as Escrituras. Todos os discípulos o abandonam e fogem. Só Marcos narra o episódio do jovem que, agarrado, foge nu, deixando o lençol.",
+    "alegorico": "Jesus é o José vendido pelos irmãos, o justo entregue. O beijo de Judas, sinal de amor feito instrumento de traição, é como o sacrifício enganoso de Caim. A fuga dos discípulos cumpre a profecia do pastor ferido. O jovem que foge nu foi lido como figura de quem, para escapar das mãos dos maus, abandona tudo o que é do mundo, como José deixou o manto nas mãos da mulher de Putifar.",
+    "moral": "A traição mais dolorosa vem de perto: de quem partilhou a mesa. O gesto de amizade pode esconder a hipocrisia. Jesus não responde à violência com violência; recebe até o beijo do traidor, sem recusar-lhe a última oportunidade. O abandono dos discípulos mostra como o medo vence as melhores promessas quando falta a oração. Quem desespera do auxílio de Deus recorre ao poder do mundo.",
+    "anagogico": "Jesus se deixa prender livremente, porque a sua hora é a hora da salvação. As Escrituras se cumprem, e o desígnio de Deus atravessa até a traição. O que parece derrota é o começo da vitória da Páscoa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enquanto Jesus ainda falava, chega Judas, um dos Doze, com uma multidão armada de espadas e paus. Ele combinara: “Aquele a quem eu beijar, é esse; prendei-o”. Aproxima-se, diz “Mestre!” e o beija. Eles o prendem. Um dos presentes fere com a espada o servo do sumo sacerdote. Jesus diz: “Viestes prender-me como a um ladrão? Todos os dias eu estava ensinando no Templo, e não me prendestes. Mas é para que se cumpram as Escrituras”. Então todos o abandonam e fogem. Um jovem, envolto num lençol, é agarrado, mas foge nu.",
+    "meditatio_perguntas": [
+      "Há gestos de “amizade” com Deus que, em mim, escondem falta de sinceridade?",
+      "Como reajo à violência e à injustiça: com espada ou com a mansidão de Jesus?",
+      "Em que momentos eu também “fujo” e abandono o Senhor?"
+    ],
+    "oratio_guia": "Senhor Jesus, entregue com um beijo e abandonado pelos teus, perdoa as minhas traições e fugas. Dá-me um amor sincero e fiel, que não te abandone na hora da prova. Que eu te siga mesmo quando seguir-te custa. Amém.",
+    "contemplatio_foco": { "texto": "Então os seus discípulos, abandonando-o, fugiram todos.", "ref": "Mc 14,50" }
+  },
+  "ancoras": {
+    "14:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:43–52#1", "sintese": "Diz “um dos Doze” para maior condenação do traidor: embora do grupo principal dos discípulos, voltou-se contra o Mestre." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:43–52#2", "sintese": "Quem desespera do auxílio de Deus recorre ao poder do mundo." }
+      ],
+      "nota": null
+    },
+    "14:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:43–52#5", "sintese": "Judas dá o beijo como sinal, com astúcia venenosa, como Caim ofereceu um sacrifício astuto e reprovado." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:43–52#6", "sintese": "O Senhor recebe o beijo do traidor, não para ensinar a fingir, mas para não parecer fugir da traição." }
+      ],
+      "nota": null
+    },
+    "14:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:43–52#9", "sintese": "Marcos cala o nome de Pedro para não parecer louvar o seu mestre pelo zelo por Cristo." }
+      ],
+      "nota": null
+    },
+    "14:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:43–52#11", "sintese": "É prova da sua divindade: quando ensinava no Templo não puderam prendê-lo, porque ainda não chegara o tempo da sua paixão; quando quis, entregou-se." }
+      ],
+      "nota": null
+    },
+    "14:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:43–52#12", "sintese": "Cumpre-se a palavra do Senhor: todos os seus discípulos se escandalizariam por causa dele naquela noite." }
+      ],
+      "nota": null
+    },
+    "14:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:43–52#13", "sintese": "Como José deixou o manto e fugiu da mulher impudica, quem quiser escapar das mãos dos maus abandone tudo o que é do mundo." },
+        { "autor": "São Gregório Magno", "obra": "Moral. XIV, 49", "catena": "14:43–52#15", "sintese": "Ou isso se diz de João, que depois voltou à cruz para ouvir o Redentor, mas a princípio se assustou e fugiu." }
+      ],
+      "nota": { "texto": "Episódio exclusivo de Marcos. Muitos autores modernos veem nele uma discreta “assinatura” do próprio evangelista.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

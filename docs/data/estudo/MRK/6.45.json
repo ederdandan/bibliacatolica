@@ -1,0 +1,74 @@
+{
+  "id": "MRK.6.45",
+  "livro": "MRK",
+  "titulo": "Jesus caminha sobre as águas; curas em Genesaré",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,45-56",
+  "ini": { "c": 6, "v": 45 },
+  "fim": { "c": 6, "v": 56 },
+  "liturgia": { "tema_central": "“Tende confiança, sou eu, não temais”: o Senhor vem no meio da noite", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois do milagre, Jesus obriga os discípulos a partir e sobe ao monte para rezar. Na quarta vigília (entre três e seis da manhã), vê-os cansados de remar contra o vento e vem andando sobre o mar. “Fez menção de passar adiante”, como Deus que “passa” diante de Moisés e de Elias (Ex 33,22; 1Rs 19,11). A palavra “Sou eu” (em grego, egō eimi) ecoa o nome divino de Ex 3,14. Os discípulos não tinham compreendido o sinal dos pães: o seu coração estava endurecido. Em Genesaré, os doentes são trazidos de toda parte e curados ao tocar a orla da veste de Jesus.",
+    "alegorico": "Andar sobre o mar é prerrogativa de Deus, que “caminha sobre as ondas do mar” (Jó 9,8). A barca é a Igreja, que no meio da noite deste mundo rema contra o vento das perseguições; Cristo, que reza no monte, intercede por ela junto do Pai e vem no tempo certo. As quatro vigílias foram lidas como as idades do mundo, até a vinda do Senhor. O vento cessa quando Ele sobe na barca: onde Cristo reina, há paz.",
+    "moral": "Jesus permite a provação para que aprendamos a paciência e a esperar sem exigir socorro imediato. Ele reza e vê os seus em dificuldade, mesmo de longe. Muitas vezes parece “passar adiante”, mas é para despertar o clamor que pede o seu auxílio. Onde Ele está presente pela graça, aquietam-se os combates dos vícios e dos espíritos malignos. Não compreender os sinais de Deus é um endurecimento do coração do qual precisamos pedir cura.",
+    "anagogico": "“Tende confiança, sou eu”: um dia o veremos tal como Ele é. A noite de remar contra o vento é a vida presente; a vinda do Senhor na quarta vigília anuncia a sua vinda gloriosa ao amanhecer. E a cura de todos os que o tocam se cumprirá quando fugirem a dor e o pranto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus obriga os discípulos a embarcar enquanto despede a multidão, e sobe ao monte para rezar. À noite, vendo-os cansados de remar contra o vento, vai até eles andando sobre o mar. Pensando ver um fantasma, eles gritam de medo. Jesus lhes diz: “Tende confiança, sou eu, não temais”. Sobe na barca e o vento cessa. Eles não tinham compreendido o milagre dos pães. Em Genesaré, trazem-lhe os doentes, e todos os que tocam a orla do seu manto ficam curados.",
+    "meditatio_perguntas": [
+      "Em que ponto da minha vida estou “remando contra o vento”?",
+      "Creio que Jesus me vê e intercede por mim, mesmo quando parece distante?",
+      "Que sinais de Deus eu não compreendi por ter o coração endurecido?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu me vês remando na noite e vens ao meu encontro. Quando o medo me dominar, faz-me ouvir a tua voz: “Tende confiança, sou eu”. Sobe na barca da minha vida e acalma o vento. Amém.",
+    "contemplatio_foco": { "texto": "Tende confiança, sou eu, não temais.", "ref": "Mc 6,50" }
+  },
+  "ancoras": {
+    "6:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 28", "catena": "6:45–52#5", "sintese": "Nem todo o que ora sobe ao monte, mas só quem ora bem, buscando a Deus; quem pede riquezas ou a morte do inimigo envia a Deus súplicas rasteiras." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:45–52#4", "sintese": "Depois de despedir a multidão, sobe para orar, pois a oração requer repouso e silêncio." }
+      ],
+      "nota": null
+    },
+    "6:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:45–52#6", "sintese": "Deixou-os em perigo a noite inteira para ensiná-los a esperar com paciência e a não contar com socorro imediato nas tribulações." },
+        { "autor": "Santo Agostinho", "obra": "no lugar citado", "catena": "6:45–52#11", "sintese": "A intenção de passar adiante servia para arrancar deles o clamor que pedia o seu auxílio." }
+      ],
+      "nota": { "texto": "Os romanos dividiam a noite em quatro vigílias de três horas. A quarta ia aproximadamente das 3h às 6h da manhã.", "origem": "ia" }
+    },
+    "6:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "cf. Hom. in Matth. 50", "catena": "6:45–52#10", "sintese": "Assim que o reconheceram pela voz, o medo os abandonou." }
+      ],
+      "nota": { "texto": "“Sou eu” traduz o grego egō eimi, que ecoa a revelação do nome de Deus a Moisés (Ex 3,14).", "origem": "ia" }
+    },
+    "6:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:45–52#18", "sintese": "Em qualquer coração onde Ele esteja pela graça do seu amor, aquietam-se todos os combates dos vícios, do mundo e dos espíritos malignos." }
+      ],
+      "nota": null
+    },
+    "6:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:45–52#14", "sintese": "Os discípulos, ainda carnais, admiravam a grandeza do seu poder, mas ainda não podiam reconhecer nele a verdade da majestade divina." }
+      ],
+      "nota": null
+    },
+    "6:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:53–56#4", "sintese": "A orla da veste é a carne que Ele assumiu, pela qual chegamos ao Verbo de Deus e depois gozaremos da sua majestade." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "6:53–56#5", "sintese": "“Todos os que o tocavam ficavam curados” se cumprirá plenamente quando fugirem a dor e o pranto." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

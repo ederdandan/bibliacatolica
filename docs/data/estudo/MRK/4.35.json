@@ -1,0 +1,58 @@
+{
+  "id": "MRK.4.35",
+  "livro": "MRK",
+  "titulo": "Jesus acalma a tempestade",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 4,35-40",
+  "ini": { "c": 4, "v": 35 },
+  "fim": { "c": 4, "v": 40 },
+  "liturgia": { "tema_central": "Quem é este, a quem o vento e o mar obedecem? A fé vence o medo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao entardecer, Jesus manda atravessar o lago para a margem oriental, terra pagã. O mar da Galileia, cercado de montes, está sujeito a ventos repentinos e violentos. Jesus dorme na popa sobre uma almofada, sinal da sua verdadeira humanidade e da sua confiança no Pai. Os discípulos o acordam com uma queixa: “Não te importa que pereçamos?”. Ele “ameaça” o vento e manda o mar calar-se, com as mesmas palavras usadas para expulsar demônios (1,25). A grande calmaria provoca um temor maior que o da tempestade: “Quem é este?”. No Antigo Testamento, só Deus domina o mar (Sl 89,10; 107,29).",
+    "alegorico": "A barca é a Igreja, sacudida pelas tempestades das perseguições e das heresias. Cristo parece dormir, mas não dorme aquele que guarda Israel. A barca sustentada pela madeira figura a Igreja salva pela Cruz, e o sono do Senhor na popa evoca o sono da morte, do qual se levantará vencedor. Ao comando de Cristo, o mar do mundo se acalma: Ele é o Criador que domina as forças do caos.",
+    "moral": "As tempestades da vida revelam a medida da nossa fé. Jesus permite a provação para que experimentemos em nós o poder que vemos agir nos outros. O silêncio aparente de Deus não é indiferença: Ele está na barca. A repreensão “Ainda não tendes fé?” convida a confiar nele também quando parece dormir. A oração, mesmo angustiada, é o caminho para despertar a fé adormecida em nós.",
+    "anagogico": "A travessia para a “outra margem” é figura da passagem desta vida para a eterna. As tempestades acabarão, e Cristo conduzirá a barca da Igreja ao porto seguro, onde reinará a grande calmaria da paz de Deus e o mar já não existirá (Ap 21,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao entardecer, Jesus diz: “Passemos para a outra margem”. Levam-no na barca, e uma grande tempestade faz as ondas encherem a barca. Jesus dorme na popa sobre um travesseiro. Acordam-no: “Mestre, não te importa que pereçamos?”. Ele ameaça o vento e diz ao mar: “Cala-te, emudece”; e faz-se grande calma. Pergunta-lhes: “Por que sois tão medrosos? Ainda não tendes fé?”. Cheios de temor, dizem: “Quem é este, a quem o vento e o mar obedecem?”.",
+    "meditatio_perguntas": [
+      "Qual é a tempestade que hoje sacode a minha barca?",
+      "Quando Deus parece dormir, eu me desespero ou continuo confiando?",
+      "Já fiz a experiência de ver Jesus acalmar uma tempestade em minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu estás na minha barca, mesmo quando pareces dormir. Nas tempestades da vida, aumenta a minha fé e afasta o meu medo. Diz ao mar do meu coração: “Cala-te, emudece”, e dá-me a tua paz. Amém.",
+    "contemplatio_foco": { "texto": "Cala-te, emudece.", "ref": "Mc 4,39" }
+  },
+  "ancoras": {
+    "4:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "4:35–41#1", "sintese": "O Senhor tinha três refúgios, a barca, o monte e o deserto; quando a multidão o comprimia, recolhia-se num deles." }
+      ],
+      "nota": null
+    },
+    "4:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:35–41#3", "sintese": "Permitiu que caíssem no temor do perigo para que experimentassem em si mesmos o poder pelo qual viam outros serem beneficiados." }
+      ],
+      "nota": { "texto": "O lago de Genesaré está cerca de 200 metros abaixo do nível do mar, cercado de montes. Ventos frios que descem das encostas provocam tempestades súbitas.", "origem": "ia" }
+    },
+    "4:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 28", "catena": "4:35–41#4", "sintese": "Dormindo, mostrava a sua humildade. Os discípulos ainda não conheciam a sua glória e pensavam que, dormindo, Ele não poderia dar ordens aos ventos." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "4:35–41#8", "sintese": "A popa é o princípio da Igreja, onde o Senhor dorme só no corpo, pois não dorme quem guarda Israel; a barca sustentada pela madeira significa a Igreja salva pela Cruz." }
+      ],
+      "nota": null
+    },
+    "4:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:35–41#7", "sintese": "Repreende-os por não terem fé: se tivessem fé, creriam que, mesmo dormindo, Ele podia mantê-los a salvo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "MRK.7.24",
+  "livro": "MRK",
+  "titulo": "A fé da mulher siro-fenícia",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 7,24-30",
+  "ini": { "c": 7, "v": 24 },
+  "fim": { "c": 7, "v": 30 },
+  "liturgia": { "tema_central": "A fé humilde de uma pagã alcança as migalhas da mesa e abre a porta aos gentios", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vai à região de Tiro, terra pagã, e tenta ficar oculto. Uma mulher grega (isto é, pagã), de origem siro-fenícia, prostra-se e pede a libertação da filha. A resposta de Jesus é dura: os “filhos” (Israel) devem ser saciados primeiro; não se dá o pão aos “cachorrinhos” (o diminutivo grego designa os cães domésticos). A mulher aceita a imagem e a transforma: os cachorrinhos comem as migalhas debaixo da mesa. Pela sua palavra, a filha é libertada à distância. Logo depois da discussão sobre o puro e o impuro, Jesus cura uma pagã.",
+    "alegorico": "A mulher siro-fenícia figura a Igreja dos gentios, que pede as migalhas e recebe o pão inteiro. A ordem “primeiro os filhos” corresponde ao plano da salvação: “primeiro o judeu, depois o grego” (Rm 1,16). A cura à distância prefigura a salvação dos povos que não viram Jesus na carne, mas creram na sua palavra. A libertação da filha pela fé da mãe foi vista como precedente do Batismo das crianças na fé dos pais.",
+    "moral": "A mulher é modelo de oração humilde, perseverante e confiante: não se ofende, não desiste e se coloca no último lugar, mas não renuncia à esperança. A humildade não é inimiga da audácia. O seu exemplo ensina os pais e as mães a interceder pelos filhos com fé incansável. Também a nossa alma, quando cai no pecado, tem uma “filha doente”, as más obras, e precisa suplicar ao Senhor a libertação.",
+    "anagogico": "As migalhas que caem da mesa anunciam o banquete do Reino, onde gentios e judeus se sentarão juntos à mesa do Senhor. A fé que hoje pede as sobras será saciada na plenitude da mesa celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus vai para a região de Tiro e entra numa casa, querendo que ninguém soubesse, mas não consegue ficar oculto. Uma mulher pagã, siro-fenícia, cuja filha tinha um espírito impuro, lança-se a seus pés e pede que expulse o demônio. Jesus diz que primeiro se saciem os filhos, pois não é bom tirar o pão dos filhos e dá-lo aos cachorrinhos. Ela responde: “Sim, Senhor, mas os cachorrinhos comem, debaixo da mesa, as migalhas dos filhos”. Por essa palavra, a filha é libertada.",
+    "meditatio_perguntas": [
+      "A minha oração é perseverante, ou desisto quando Deus parece não responder?",
+      "Sei rezar com humildade, sem exigir de Deus como se Ele me devesse algo?",
+      "Por quem eu intercedo com a mesma fé daquela mãe?"
+    ],
+    "oratio_guia": "Senhor Jesus, eu não sou digno de sentar-me à tua mesa, mas confio nas migalhas da tua misericórdia. Escuta a minha súplica por aqueles que amo e liberta-os de todo mal. Dá-me a fé humilde e perseverante da mulher siro-fenícia. Amém.",
+    "contemplatio_foco": { "texto": "Assim é, Senhor, mas também os cachorrinhos comem, debaixo da mesa, das migalhas.", "ref": "Mc 7,28" }
+  },
+  "ancoras": {
+    "7:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:24–30#0", "sintese": "Vendo os judeus incrédulos, entra na terra dos gentios, pois, sendo os judeus infiéis, a salvação se volta para os gentios." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 30", "catena": "7:24–30#4", "sintese": "Pede segredo para que os discípulos, aos quais concedera a graça das curas, aprendessem a fugir, quanto possível, da glória do louvor humano." }
+      ],
+      "nota": null
+    },
+    "7:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "7:24–30#6", "sintese": "O Senhor queria mostrar aos discípulos que abria a porta da fé também aos gentios; por isso se indica a nação da mulher." }
+      ],
+      "nota": { "texto": "“Gentia” traduz o grego “helênica”, isto é, pagã de cultura grega. Siro-fenícia distingue a Fenícia da Síria da Líbio-Fenícia, região de Cartago.", "origem": "ia" }
+    },
+    "7:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:24–30#8", "sintese": "Também os gentios alcançarão a salvação; mas é justo que primeiro os judeus, filhos pela antiga eleição, sejam saciados com o pão celeste." }
+      ],
+      "nota": null
+    },
+    "7:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "7:24–30#13", "sintese": "Pôr-se na condição dos cães é sinal de reverência: tenho por favor comer não de outra mesa, mas da mesa do próprio Senhor." },
+        { "autor": "Teofilato", "obra": null, "catena": "7:24–30#12", "sintese": "Como se dissesse: os judeus têm o pão inteiro que desce do céu; eu peço as migalhas, uma pequena parte do benefício." }
+      ],
+      "nota": null
+    },
+    "7:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "7:24–30#14", "sintese": "Não disse “o meu poder te curou”, mas “por esta palavra”, isto é, pela tua fé, que se manifesta nesta palavra." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "7:24–30#15", "sintese": "Pela palavra humilde e fiel da mãe, o demônio deixou a filha: precedente para batizar as crianças, libertadas do diabo pela fé e confissão dos pais." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "MRK.12.18",
+  "livro": "MRK",
+  "titulo": "Os saduceus e a ressurreição dos mortos",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,18-27",
+  "ini": { "c": 12, "v": 18 },
+  "fim": { "c": 12, "v": 27 },
+  "liturgia": { "tema_central": "Deus não é Deus dos mortos, mas dos vivos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os saduceus, grupo sacerdotal aristocrático que só aceitava a autoridade da Torá e negava a ressurreição e os anjos, propõem um caso absurdo baseado na lei do levirato (Dt 25,5-6): uma mulher casada sucessivamente com sete irmãos; de quem será esposa na ressurreição? Jesus responde que erram por não conhecerem nem as Escrituras nem o poder de Deus. A vida ressuscitada não é simples continuação desta: não haverá casamento, todos serão “como os anjos”. E prova a ressurreição com a própria Torá: na sarça (Ex 3,6), Deus se chama “Deus de Abraão, de Isaac e de Jacó”, e não é Deus de mortos, mas de vivos.",
+    "alegorico": "O argumento de Jesus revela que a aliança de Deus com os patriarcas é mais forte que a morte: quem está em comunhão com o Deus vivo não pode ser aniquilado. A ressurreição de Cristo será a prova definitiva. A tríplice menção de Deus (de Abraão, de Isaac, de Jacó) foi lida pelos Padres como alusão à Trindade, e a sarça que arde sem se consumir, como figura da presença de Deus.",
+    "moral": "Erramos quando reduzimos a fé à medida da nossa imaginação, sem conhecer as Escrituras nem o poder de Deus. A esperança na ressurreição muda o modo de viver: o casamento e os laços terrenos são bons, mas não são o fim último. Quem nega a vida eterna empobrece também a vida presente. A fé na ressurreição é consolo diante da morte dos que amamos, que vivem para Deus.",
+    "anagogico": "Na ressurreição seremos “como os anjos”: não sem corpo, mas com o corpo glorificado, livres da morte e da necessidade de gerar. Ali ninguém morre nem nasce, não há criança nem velho. A comunhão com o Deus vivo será plena e eterna, e todos os laços de amor verdadeiro serão transfigurados em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os saduceus, que negam a ressurreição, propõem a Jesus o caso de uma mulher que se casou com sete irmãos, um após outro, sem ter filhos: de quem será esposa na ressurreição? Jesus responde que eles erram por não conhecerem as Escrituras nem o poder de Deus. Quando ressuscitarem, não se casarão, mas serão como os anjos no céu. E lembra que, na sarça, Deus disse a Moisés: “Eu sou o Deus de Abraão, de Isaac e de Jacó”. Ele não é Deus dos mortos, mas dos vivos.",
+    "meditatio_perguntas": [
+      "Creio de verdade na ressurreição da carne e na vida eterna?",
+      "Conheço as Escrituras o suficiente para fundamentar a minha esperança?",
+      "Como a fé de que Deus é Deus dos vivos me consola diante da morte dos que amo?"
+    ],
+    "oratio_guia": "Deus de Abraão, de Isaac e de Jacó, Deus dos vivos, aumenta a minha fé na ressurreição. Que eu conheça as tuas Escrituras e confie no teu poder. Guarda em ti os que amo e já partiram, e leva-nos todos à vida eterna. Amém.",
+    "contemplatio_foco": { "texto": "Ele não é Deus dos mortos, mas dos vivos.", "ref": "Mc 12,27" }
+  },
+  "ancoras": {
+    "12:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:18–27#1", "sintese": "A seita dos saduceus negava a ressurreição e dizia que não havia anjo nem espírito; por isso propõem astuciosamente uma hipótese." }
+      ],
+      "nota": { "texto": "Os saduceus eram ligados às famílias sacerdotais do Templo e só reconheciam a Torá (os cinco livros de Moisés). Por isso Jesus argumenta a partir do Êxodo.", "origem": "ia" }
+    },
+    "12:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:18–27#2", "sintese": "Forjam essa fábula para provar a insensatez dos que afirmam a ressurreição do corpo, embora tal caso pudesse ter acontecido entre eles." }
+      ],
+      "nota": null
+    },
+    "12:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:18–27#4", "sintese": "Pensais que haverá uma restauração dos corpos tais como são agora; mas não será assim." }
+      ],
+      "nota": null
+    },
+    "12:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:18–27#6", "sintese": "Na ressurreição os homens serão como os anjos de Deus: ali ninguém morre, ninguém nasce, não há criança nem velho." }
+      ],
+      "nota": null
+    },
+    "12:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:18–27#9", "sintese": "Não disse “Eu fui”, mas “Eu sou o Deus de Abraão”: o Deus dos vivos." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:18–27#10", "sintese": "Provado que a alma permanece depois da morte, pois Deus não seria Deus dos que não existem, segue-se também a ressurreição do corpo, que agiu junto com a alma." }
+      ],
+      "nota": null
+    },
+    "12:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:18–27#11", "sintese": "Ao nomear Deus três vezes, dá a entender a Trindade; e, ao nomear de novo um só Deus, a unidade da natureza." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

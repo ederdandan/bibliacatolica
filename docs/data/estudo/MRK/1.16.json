@@ -1,0 +1,59 @@
+{
+  "id": "MRK.1.16",
+  "livro": "MRK",
+  "titulo": "O chamado dos primeiros discípulos",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 1,16-20",
+  "ini": { "c": 1, "v": 16 },
+  "fim": { "c": 1, "v": 20 },
+  "liturgia": { "tema_central": "Segui-me: o chamado que transforma pescadores em pescadores de homens", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Logo após anunciar o Reino, Jesus forma uma comunidade. À beira do mar da Galileia, chama dois pares de irmãos, Simão e André, Tiago e João, no meio do trabalho cotidiano. Diferentemente dos rabinos, a quem os discípulos escolhiam, aqui é o Mestre quem escolhe. O chamado é breve (“Segui-me”) e a resposta, imediata: deixam as redes, a barca e até o pai. A imagem “pescadores de homens” retoma os profetas (Jr 16,16) e dá ao ofício deles um sentido novo: reunir pessoas para o Reino.",
+    "alegorico": "Os quatro primeiros chamados são como as pedras angulares sobre as quais se edifica a Igreja nascente. A barca figura a Igreja, e a rede, a pregação apostólica que tira os homens do mar da incredulidade para a luz da fé. Pedro, ardoroso, representa a vida ativa; João, que falará mais plenamente das coisas divinas, a vida contemplativa. Na escolha de homens simples, Deus mostra que a fé se apoia no seu poder, e não na eloquência humana.",
+    "moral": "O chamado de Cristo alcança cada um no lugar do seu trabalho e pede uma resposta sem demora. Seguir Jesus supõe desprender-se: das seguranças (as redes), dos bens (a barca) e, quando necessário, até dos laços familiares que impedem a vocação. A prontidão dos apóstolos é exemplo para toda vocação, sacerdotal, religiosa ou laical, e lembra que todo cristão é chamado a ser, à sua maneira, pescador de homens.",
+    "anagogico": "A pesca dos homens tem uma diferença admirável: os peixes, quando apanhados, morrem; os homens, apanhados pela pregação, recebem a vida. Essa rede será recolhida no fim dos tempos, quando o Senhor reunir na praia eterna os que se deixaram pescar. Quem deixa tudo para seguir Cristo caminha, por esse mesmo seguimento, para a pátria do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Passando à beira do mar da Galileia, Jesus vê Simão e André lançando as redes e lhes diz: “Segui-me, e eu vos farei pescadores de homens”. Eles deixam imediatamente as redes e o seguem. Um pouco adiante, chama Tiago e João, que consertavam as redes na barca; eles deixam o pai Zebedeu com os empregados e o seguem.",
+    "meditatio_perguntas": [
+      "Onde, no meu dia a dia, Jesus passa e me chama?",
+      "Que “redes” me impedem de segui-lo com prontidão?",
+      "Como posso ser hoje “pescador de homens” para alguém próximo de mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu passaste à beira do mar e chamaste homens simples pelo nome. Chama-me também no meio do meu trabalho e dá-me a coragem de deixar o que me prende. Faz de mim um instrumento para atrair outros a ti. Amém.",
+    "contemplatio_foco": { "texto": "Segui-me, e eu vos farei pescadores de homens.", "ref": "Mc 1,17" }
+  },
+  "ancoras": {
+    "1:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:16–20#1", "sintese": "Eles viviam do próprio trabalho, e não de ganhos iníquos: tais homens eram dignos de ser os primeiros discípulos. Já haviam conhecido Jesus junto ao Batista; este é um segundo chamado." }
+      ],
+      "nota": { "texto": "O “mar da Galileia” é o lago de Genesaré, de água doce, com cerca de 21 km de comprimento. A pesca era a principal atividade das cidades à sua margem.", "origem": "ia" }
+    },
+    "1:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "1:16–20#2", "sintese": "Pela rede da pregação tiraram os homens das profundezas da incredulidade para a luz da fé. Admirável pesca: os peixes apanhados morrem; os homens apanhados recebem a vida." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 6", "catena": "1:16–20#3", "sintese": "Pescadores iletrados são enviados a pregar para que se entenda que a fé dos que creem se apoia no poder de Deus, e não na eloquência ou na erudição." }
+      ],
+      "nota": null
+    },
+    "1:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:16–20#4", "sintese": "Não devemos deixar passar tempo algum, mas seguir imediatamente o Senhor." }
+      ],
+      "nota": null
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:16–20#4", "sintese": "Deixaram o pai porque ele os teria impedido de seguir a Cristo. Também tu, quando os teus te impedirem, deixa-os e vem para Deus." },
+        { "autor": "Teofilato", "obra": null, "catena": "1:16–20#7", "sintese": "Primeiro é chamada a ação e depois a contemplação: Pedro, mais ardoroso, figura a vida ativa; João, que fala mais plenamente das coisas divinas, a contemplativa." }
+      ],
+      "nota": { "texto": "A menção aos “jornaleiros” (empregados) indica que a família de Zebedeu tinha um pequeno negócio de pesca.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

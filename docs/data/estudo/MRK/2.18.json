@@ -1,0 +1,60 @@
+{
+  "id": "MRK.2.18",
+  "livro": "MRK",
+  "titulo": "A questão do jejum: vinho novo em odres novos",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 2,18-22",
+  "ini": { "c": 2, "v": 18 },
+  "fim": { "c": 2, "v": 22 },
+  "liturgia": { "tema_central": "O Esposo está presente: a novidade do Evangelho pede corações novos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os fariseus jejuavam duas vezes por semana, e os discípulos de João também praticavam jejuns. Perguntam por que os de Jesus não jejuam. Jesus responde com a imagem das bodas: enquanto o noivo está presente, os convidados não jejuam, porque é tempo de festa. Mas virá o dia em que o noivo lhes será “tirado”, primeira alusão velada à Paixão, e então jejuarão. As duas parábolas seguintes (remendo novo em roupa velha, vinho novo em odres velhos) mostram que a novidade de Jesus não cabe nos moldes antigos.",
+    "alegorico": "Cristo é o Esposo que vem desposar a Igreja, dando-lhe como penhor a graça do Espírito Santo. No Antigo Testamento, Deus já se apresentava como esposo de Israel (Os 2; Is 62). O vinho novo é o fervor do Espírito, derramado em Pentecostes sobre os apóstolos renovados, os odres novos. O dia em que o Esposo é tirado é a Sexta-feira Santa, e a Igreja jejua em memória dele e na espera do seu retorno.",
+    "moral": "O jejum cristão não é rotina nem exibição, mas expressão de amor e saudade do Esposo e meio de penitência quando o perdemos pelo pecado. Ao mesmo tempo, a vida cristã tem uma alegria de fundo: o Senhor está conosco. Para receber o vinho novo da graça, é preciso deixar-se renovar por inteiro, sem tentar ajustar o Evangelho aos velhos hábitos, como um remendo.",
+    "anagogico": "As bodas que começam na presença terrena de Jesus se consumarão nas núpcias do Cordeiro (Ap 19,7-9). O jejum da Igreja neste tempo de espera se transformará no banquete eterno, quando o Esposo não nos será mais tirado e o vinho novo será bebido no Reino do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os discípulos de João e os fariseus jejuavam, e perguntam a Jesus por que os seus discípulos não jejuam. Jesus responde que os companheiros do esposo não podem jejuar enquanto ele está com eles; virão dias em que o esposo lhes será tirado, e então jejuarão. E acrescenta que ninguém põe remendo de pano novo em roupa velha, nem vinho novo em odres velhos: vinho novo, odres novos.",
+    "meditatio_perguntas": [
+      "O meu jejum e as minhas penitências nascem do amor a Cristo ou do costume e da aparência?",
+      "Vivo a alegria de ter o Esposo comigo, ou minha fé é triste e pesada?",
+      "Que “odres velhos” em mim resistem à novidade do Evangelho?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da Igreja e da minha alma, faz-me viver a alegria da tua presença. Quando eu te perder pelo pecado, dá-me a saudade que leva à penitência. Renova o meu coração para que receba o vinho novo do teu Espírito. Amém.",
+    "contemplatio_foco": { "texto": "Para vinho novo, odres novos.", "ref": "Mc 2,22" }
+  },
+  "ancoras": {
+    "2:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:18–22#3", "sintese": "Enciumados, perguntam se só Ele e os seus discípulos venceriam as paixões sem abstinência e sem esforço." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:18–22#4", "sintese": "Cristo também jejuou, para não transgredir o preceito; e comeu com os pecadores, para que vejas a sua graça e reconheças o seu poder." }
+      ],
+      "nota": { "texto": "Os fariseus jejuavam às segundas e quintas-feiras (cf. Lc 18,12). A Lei só prescrevia o jejum no Dia da Expiação.", "origem": "ia" }
+    },
+    "2:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "2:18–22#6", "sintese": "Chama-se esposo porque havia de desposar a Igreja, dando como penhor a graça do Espírito Santo, pela qual o mundo creu." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:18–22#10", "sintese": "Quem se gloria das obras da Lei sem fé definha com a alma em jejum; quem está unido a Cristo por amor fiel não pode jejuar, porque se banqueteia." }
+      ],
+      "nota": null
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "2:18–22#9", "sintese": "Quem pratica boas obras tem consigo o Esposo; quando o perde pela queda no pecado, então jejua e faz penitência para curar o seu pecado." }
+      ],
+      "nota": null
+    },
+    "2:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:18–22#12", "sintese": "Os discípulos serão odres novos quando, depois da Ascensão, se renovarem pelo desejo do Consolador; então o vinho novo, o fervor do Espírito Santo, encherá os seus corações." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "2:18–22#14", "sintese": "A veste nova são as boas obras exteriores; o vinho novo, o fervor da fé, da esperança e da caridade que renova a mente." }
+      ],
+      "nota": { "texto": "Os odres eram recipientes de couro. O vinho novo, ainda fermentando, dilatava-se e rompia o couro velho, já ressecado.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

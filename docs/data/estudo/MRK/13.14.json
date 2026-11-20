@@ -1,0 +1,76 @@
+{
+  "id": "MRK.13.14",
+  "livro": "MRK",
+  "titulo": "A grande tribulação",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 13,14-23",
+  "ini": { "c": 13, "v": 14 },
+  "fim": { "c": 13, "v": 23 },
+  "liturgia": { "tema_central": "Na tribulação, Deus abrevia os dias por causa dos eleitos: estai de sobreaviso", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A “abominação da desolação” retoma Dn 9,27 e 11,31, onde designava a profanação do Templo por Antíoco IV (167 a.C.). O parêntese “leitor, atende bem!” convida a decifrar o sinal. Jesus aplica-o à profanação que precederia a destruição de Jerusalém. Manda fugir sem demora: quem estiver no terraço não desça, quem estiver no campo não volte. Segundo a tradição (Eusébio), os cristãos de Jerusalém fugiram para Pela, na Transjordânia, antes do cerco romano. A tribulação será sem igual, mas Deus abrevia os dias por causa dos eleitos. Surgirão falsos cristos e falsos profetas com sinais enganosos.",
+    "alegorico": "A tribulação de Jerusalém é figura da grande tribulação final, ligada pelos Padres à vinda do Anticristo. A abominação no lugar santo é toda tentativa de pôr outra coisa no lugar de Deus. A fuga para os montes é a subida às alturas da virtude, onde o inimigo não alcança; o terraço é a mente elevada acima das coisas carnais, que não deve descer às obras vis.",
+    "moral": "Na hora da prova, é preciso desapego: não voltar para buscar o manto, isto é, não deixar que os bens nos prendam. Rezar para que a fuga não seja no inverno é pedir que a nossa fé e o nosso amor não esfriem. Devemos fugir do pecado com fervor, não com tibieza. Contra os falsos profetas, a vigilância: nem todo prodígio vem de Deus.",
+    "anagogico": "Deus é Senhor também da tribulação: abrevia os dias por amor dos eleitos. A tribulação será grande, mas breve, e não poderá separar os escolhidos do amor de Cristo. Depois dela vem a vinda gloriosa do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando virdes a abominação da desolação onde não deve estar (leitor, entende!), os que estiverem na Judeia fujam para os montes; quem estiver no terraço não desça para levar nada, e quem estiver no campo não volte para buscar o manto. Ai das grávidas e das que amamentam naqueles dias! Rezai para que não seja no inverno. Haverá tribulação como nunca houve; mas o Senhor abreviou aqueles dias por causa dos eleitos. Surgirão falsos cristos e falsos profetas: ficai atentos, eu vos predisse tudo.",
+    "meditatio_perguntas": [
+      "Que “mantos” (bens, seguranças) me impediriam de seguir a Deus numa hora decisiva?",
+      "A minha fé está esfriando, como no “inverno”?",
+      "Sei discernir os falsos profetas e as promessas enganosas do meu tempo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que nos avisaste de tudo, dá-me vigilância e desapego. Não permitas que a minha fé esfrie nem que eu seja enganado pelos falsos profetas. Na hora da prova, sustenta-me e abrevia os dias da tribulação. Amém.",
+    "contemplatio_foco": { "texto": "Estai, pois, de sobreaviso, eis que eu vos predisse tudo.", "ref": "Mc 13,23" }
+  },
+  "ancoras": {
+    "13:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:14–20#2", "sintese": "Quando somos convidados a compreender, trata-se de algo místico; pode entender-se do Anticristo, ou da estátua de César que Pilatos pôs no Templo." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:14–20#5", "sintese": "Cumpriu-se à letra quando, aproximando-se a guerra com Roma, os cristãos da província, advertidos pela profecia, fugiram para além do Jordão." }
+      ],
+      "nota": { "texto": "A expressão vem de Dn 9,27; 11,31; 12,11, sobre a profanação do Templo por Antíoco IV Epífanes, que ali ergueu um altar pagão (1Mc 1,54).", "origem": "ia" }
+    },
+    "13:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:14–20#18", "sintese": "Quem está no terraço, isto é, com a mente elevada acima das ações carnais, não desça aos atos vis da vida antiga." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:14–20#17", "sintese": "A nossa fuga é para os montes: quem subiu às alturas da virtude não desça às profundezas do pecado." }
+      ],
+      "nota": null
+    },
+    "13:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:14–20#20", "sintese": "Ordena que a nossa fé e o nosso amor a Cristo não esfriem, e que não nos tornemos preguiçosos e frios na obra de Deus." },
+        { "autor": "Teofilato", "obra": null, "catena": "13:14–20#21", "sintese": "Devemos fugir do pecado com fervor, e não com frieza e inatividade." }
+      ],
+      "nota": null
+    },
+    "13:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Epist. 199, 9", "catena": "13:14–20#12", "sintese": "Josefo refere que esse povo sofreu coisas que dificilmente se podem crer; não sem razão se diz que não houve tribulação igual." }
+      ],
+      "nota": null
+    },
+    "13:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:14–20#13", "sintese": "O único refúgio em tais males é que Deus, que dá força para sofrer, restringe o poder de infligir." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:14–20#22", "sintese": "A tribulação será grande, mas os dias serão breves por causa dos eleitos, para que a malícia daquele tempo não lhes perverta o entendimento." }
+      ],
+      "nota": null
+    },
+    "13:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "cf. Hom. in Ez. I, 9", "catena": "13:21–27#2", "sintese": "“Se possível” não indica dúvida em Deus: se são eleitos, não é possível que sejam enganados até o fim." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei XX, 19", "catena": "13:21–27#1", "sintese": "Satanás será solto e agirá por meio do Anticristo com todo o seu poder, de modo admirável, mas enganoso." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

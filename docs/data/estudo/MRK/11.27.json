@@ -1,0 +1,58 @@
+{
+  "id": "MRK.11.27",
+  "livro": "MRK",
+  "titulo": "Com que autoridade fazes estas coisas?",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 11,27-33",
+  "ini": { "c": 11, "v": 27 },
+  "fim": { "c": 11, "v": 33 },
+  "liturgia": { "tema_central": "A autoridade de Jesus vem do Céu; só a reconhece quem busca a verdade com sinceridade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No Templo, os três grupos do Sinédrio (sumos sacerdotes, escribas e anciãos) questionam a autoridade de Jesus, sobretudo depois da expulsão dos vendedores. Jesus responde, ao modo rabínico, com outra pergunta: o batismo de João vinha do céu ou dos homens? Eles calculam: se disserem “do céu”, terão de explicar por que não creram; se disserem “dos homens”, temem o povo, que tinha João por profeta. Respondem: “Não sabemos”. Jesus, então, também não lhes diz. A pergunta não é evasiva: a autoridade de João e a de Jesus vêm da mesma fonte, e quem rejeitou uma rejeitará a outra.",
+    "alegorico": "A pergunta de Jesus remete ao Batismo do Jordão, onde o próprio Céu se abriu e o Pai declarou: “Tu és o meu Filho amado”. A autoridade de Jesus é a do Filho, testemunhada por João, a lâmpada que precedeu a Luz. Os chefes, que invejaram a lâmpada, ficaram nas trevas.",
+    "moral": "Quem pergunta não para conhecer a verdade, mas para ganhar uma discussão, não a encontra. Os chefes medem a resposta pelo medo e pela conveniência, não pela verdade. A verdade se esconde a quem a busca com má intenção ou não é capaz de compreendê-la. É uma advertência contra a duplicidade e o respeito humano no seguimento de Cristo.",
+    "anagogico": "A autoridade de Cristo, hoje contestada, será um dia manifesta a todos, quando Ele vier como Juiz. Os que agora dizem “não sabemos” para fugir da verdade terão de reconhecê-lo; os que o acolhem com sinceridade verão a sua glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enquanto Jesus anda pelo Templo, os sumos sacerdotes, os escribas e os anciãos lhe perguntam: “Com que autoridade fazes estas coisas?” Jesus responde com uma pergunta: “O batismo de João era do céu ou dos homens?” Eles raciocinam: se disserem “do céu”, Ele perguntará por que não creram; se disserem “dos homens”, temem o povo. Respondem: “Não sabemos”. E Jesus diz: “Nem eu vos digo com que autoridade faço estas coisas”.",
+    "meditatio_perguntas": [
+      "Procuro a verdade com sinceridade, ou só respostas que me convêm?",
+      "Em que decisões o medo do que os outros vão pensar pesa mais que a verdade?",
+      "Reconheço de fato a autoridade de Jesus sobre a minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, tua autoridade vem do Pai. Livra-me da duplicidade e do medo que me fazem fugir da verdade. Dá-me um coração sincero para reconhecer-te e obedecer-te em tudo. Amém.",
+    "contemplatio_foco": { "texto": "O batismo de João era do céu ou dos homens?", "ref": "Mc 11,30" }
+  },
+  "ancoras": {
+    "11:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:27–33#1", "sintese": "Duvidam de que seja o poder de Deus e insinuam que o que Ele fazia era obra do diabo." },
+        { "autor": "Teofilato", "obra": null, "catena": "11:27–33#2", "sintese": "Querem apanhá-lo: se disser “por meu poder”, prendê-lo; se disser “por outro”, fazer o povo abandoná-lo." }
+      ],
+      "nota": null
+    },
+    "11:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:27–33#3", "sintese": "Poderia refutá-los diretamente, mas prudentemente pergunta, para que fossem condenados pelo silêncio ou pela própria resposta." }
+      ],
+      "nota": null
+    },
+    "11:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "11:27–33#4", "sintese": "Invejaram a lâmpada e ficaram nas trevas: “Preparei uma lâmpada para o meu ungido; cobrirei de vergonha os seus inimigos” (Sl 132,17-18)." }
+      ],
+      "nota": null
+    },
+    "11:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:27–33#5", "sintese": "Não vos digo o que sei, já que não quereis confessar o que sabeis: o conhecimento se oculta a quem o busca com má intenção ou é incapaz de compreendê-lo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

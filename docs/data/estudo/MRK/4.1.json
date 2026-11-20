@@ -1,0 +1,75 @@
+{
+  "id": "MRK.4.1",
+  "livro": "MRK",
+  "titulo": "A parábola do semeador",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 4,1-20",
+  "ini": { "c": 4, "v": 1 },
+  "fim": { "c": 4, "v": 20 },
+  "liturgia": { "tema_central": "A Palavra semeada com generosidade dá fruto no coração que a acolhe", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus ensina de uma barca, com a multidão na praia. A parábola descreve a semeadura palestina: semeava-se a lanço e só depois se arava, por isso a semente caía em todo tipo de solo. Três terrenos fracassam (caminho, pedregulho, espinhos) e um produz colheita extraordinária. Aos Doze, Jesus explica: a semente é a Palavra, e os terrenos são as disposições de quem a ouve. Os v. 11-12 citam Is 6,9-10: as parábolas revelam o “mistério do Reino” a quem se aproxima e o velam a quem se fecha.",
+    "alegorico": "O Semeador é Cristo, que “saiu” do Pai pela Encarnação para vir ao nosso encontro, já que os pecados nos impediam de ir até Ele. A barca de onde ensina figura a Igreja, edificada no meio das nações. A semente é a Palavra de Deus, e a terra boa, a alma que a acolhe com fé. Os frutos de trinta, sessenta e cem foram lidos pelos Padres como diferentes estados de vida e graus de perfeição na Igreja.",
+    "moral": "A parábola é um exame de consciência sobre como recebemos a Palavra. O caminho é a mente endurecida pelos maus pensamentos, onde o demônio rouba a semente; o pedregulho, o entusiasmo sem raiz que cede na tribulação; os espinhos, as preocupações, as riquezas e as paixões que sufocam. A terra boa não nasce pronta: pode ser lavrada pela conversão. O Semeador não desiste de semear, e nós não devemos desistir de nos deixar trabalhar.",
+    "anagogico": "A colheita final é o Juízo, quando se verá o fruto de cada vida. O cem por um, número que na contagem antiga passava à mão direita, significa a felicidade eterna. A semente pequena da Palavra, acolhida agora, produz a vida eterna, onde a colheita será plena e sem perdas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "De uma barca, Jesus ensina a multidão em parábolas. Um semeador sai a semear: parte da semente cai no caminho e as aves a comem; parte cai no pedregulho, brota e seca; parte cai entre espinhos e é sufocada; e parte cai em terra boa e dá trinta, sessenta e cem por um. Aos Doze, Jesus explica que a semente é a Palavra, e os terrenos são os diferentes modos de recebê-la.",
+    "meditatio_perguntas": [
+      "Qual desses terrenos se parece mais com o meu coração neste momento?",
+      "Que “espinhos” (preocupações, riquezas, desejos) sufocam a Palavra em mim?",
+      "Quando a fé me custa, tenho raízes, ou desisto logo?"
+    ],
+    "oratio_guia": "Senhor Jesus, semeador generoso, lança em mim a tua Palavra. Afasta os pássaros que a roubam, quebra as pedras do meu coração, arranca os espinhos que a sufocam. Faz de mim terra boa, que dê fruto para a tua glória. Amém.",
+    "contemplatio_foco": { "texto": "Quem tem ouvidos para ouvir, ouça.", "ref": "Mc 4,9" }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:1–20#5", "sintese": "A barca figurava a Igreja, que havia de ser edificada no meio das nações e na qual o Senhor consagra para si uma morada querida." }
+      ],
+      "nota": null
+    },
+    "4:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 44", "catena": "4:1–20#9", "sintese": "Não saiu no espaço quem está em toda parte, mas aproximou-se de nós revestindo-se da carne: como os pecados nos impediam de ir até Ele, Ele saiu ao nosso encontro." }
+      ],
+      "nota": { "texto": "Na Palestina antiga semeava-se antes de arar. Por isso a semente podia cair no caminho, nas pedras ou entre os espinhos ainda não arrancados.", "origem": "ia" }
+    },
+    "4:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:1–20#12", "sintese": "Não diz que o semeador a lançou no caminho, mas que caiu: da parte dele, semeia em boa terra; se a terra é má, ela corrompe a semente." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "4:1–20#13", "sintese": "O caminho é a mente pisada e endurecida pela passagem contínua dos maus pensamentos, onde a semente não germina e é arrebatada pelos demônios." }
+      ],
+      "nota": null
+    },
+    "4:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "4:1–20#15", "sintese": "Grande é o amor do Semeador: louva o primeiro grau, não rejeita o segundo e dá lugar também ao terceiro." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "4:1–20#17", "sintese": "A semente se perde por culpa da terra, não do Semeador. Nas coisas espirituais, porém, a pedra pode tornar-se terra fértil." }
+      ],
+      "nota": null
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "4:1–20#21", "sintese": "Ver e ouvir lhes vem da graça de Deus; não ver e não entender, da recusa em receber a graça, fechando os olhos." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. in Matth. 14", "catena": "4:1–20#23", "sintese": "Mereceram não entender; e, contudo, isso lhes foi feito por misericórdia, para que reconhecessem os seus pecados e, convertidos, merecessem o perdão." }
+      ],
+      "nota": { "texto": "Citação de Is 6,9-10. A forma semítica “para que” exprime o resultado do endurecimento, não a vontade de Deus de que se percam.", "origem": "ia" }
+    },
+    "4:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:1–20#30", "sintese": "Há três graus dos que recebem bem a semente: cem, os de vida perfeita, como as virgens e os eremitas; sessenta, os continentes e os monges; trinta, os que, embora fracos, produzem fruto segundo as suas forças." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "4:1–20#31", "sintese": "Na contagem pelos dedos, ao chegar a cem passa-se para a mão direita; por isso esse número significa a felicidade eterna." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "MRK.8.34",
+  "livro": "MRK",
+  "titulo": "Tomar a cruz e seguir Jesus",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 8,34-39",
+  "ini": { "c": 8, "v": 34 },
+  "fim": { "c": 8, "v": 39 },
+  "liturgia": { "tema_central": "Quem perde a vida por Cristo e pelo Evangelho a salvará", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois do anúncio da Paixão, Jesus chama a multidão e os discípulos: o caminho do Mestre é o caminho do discípulo. Três exigências: negar-se a si mesmo, tomar a cruz (imagem crua para quem conhecia a crucifixão romana) e segui-lo. Segue um paradoxo: quem quer salvar a vida a perde, e quem a perde por Cristo e pelo Evangelho a salva. Nada vale mais que a própria vida eterna. Quem se envergonhar de Jesus diante desta geração será envergonhado quando Ele vier na glória. O último versículo (na Vulgata, 8,39) promete que alguns verão o Reino vir com poder, o que se cumpre logo na Transfiguração.",
+    "alegorico": "A cruz do discípulo é participação na Cruz de Cristo, que salvou o mundo. A vinda do Filho do Homem “na glória de seu Pai com os santos anjos” retoma Dn 7,13-14 e anuncia a Parusia. O Reino “com poder” foi antecipado na Transfiguração, manifestado na Ressurreição e em Pentecostes, e cresce na Igreja que se edifica contra a glória do mundo.",
+    "moral": "Negar-se a si mesmo é deixar o que éramos e caminhar para aquilo a que fomos chamados de novo. Tomar a cruz é aceitar a mortificação do corpo e a compaixão que aflige a alma pelo próximo. Mas não basta sofrer: é preciso sofrer por Cristo e segui-lo. A fé que fica só na mente não basta; Cristo pede a confissão da boca, sem vergonha. Alguns confessam Cristo só porque todos o fazem; a prova da fé vem na hora da adversidade.",
+    "anagogico": "“De que aproveita ganhar o mundo inteiro e perder a alma?”: a eternidade dá a medida verdadeira das coisas. Quem confessar o Crucificado será confessado por Ele na glória, diante dos anjos. A breve contemplação prometida a alguns é penhor da alegria eterna que fortalece nas adversidades."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus chama a multidão e os discípulos e diz: “Se alguém me quer seguir, negue-se a si mesmo, tome a sua cruz e siga-me”. Quem quiser salvar a sua vida a perderá; quem a perder por Ele e pelo Evangelho a salvará. De que serve ao homem ganhar o mundo inteiro e perder a sua alma? Quem se envergonhar dele e das suas palavras, também o Filho do Homem se envergonhará dele quando vier na glória. Alguns dos presentes verão o Reino de Deus vir com poder.",
+    "meditatio_perguntas": [
+      "Qual é a cruz concreta que hoje me cabe tomar?",
+      "Em que estou tentando “salvar a minha vida” à custa da fidelidade a Cristo?",
+      "Envergonho-me de Jesus ou das suas palavras em algum ambiente?"
+    ],
+    "oratio_guia": "Senhor Jesus, quero seguir-te. Dá-me a graça de negar-me a mim mesmo e de tomar a minha cruz cada dia. Que eu não me envergonhe de ti nem das tuas palavras, e perca a minha vida por ti para encontrá-la em ti. Amém.",
+    "contemplatio_foco": { "texto": "Negue-se a si mesmo, tome a sua cruz, e siga-me.", "ref": "Mc 8,34" }
+  },
+  "ancoras": {
+    "8:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:34–38#6", "sintese": "Negamo-nos quando fugimos do que éramos e buscamos aquilo a que fomos chamados de novo; tomamos a cruz quando o corpo é afligido pela abstinência ou a alma pela compaixão do próximo." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "8:34–38#8", "sintese": "Pode alguém sofrer e não seguir a Cristo, quando não sofre por Ele; segue-o quem caminha após Ele e se conforma à sua morte." }
+      ],
+      "nota": null
+    },
+    "8:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "8:34–38#9", "sintese": "Por “alma” deve-se entender aqui a vida presente, e não a substância da alma." }
+      ],
+      "nota": { "texto": "O grego psychē significa ao mesmo tempo “vida” e “alma”, o que permite o jogo de palavras do versículo.", "origem": "ia" }
+    },
+    "8:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 36", "catena": "8:34–38#11", "sintese": "Em tempo de perseguição devemos entregar a vida; em tempo de paz, quebrar os desejos terrenos." }
+      ],
+      "nota": null
+    },
+    "8:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:34–38#12", "sintese": "Não basta a fé que fica na mente; o Senhor requer a confissão da boca, para que também o corpo seja santificado." },
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 32", "catena": "8:34–38#15", "sintese": "Alguns confessam a Cristo porque todos são cristãos; a voz da profissão não prova a fé, que se põe à prova na adversidade." }
+      ],
+      "nota": null
+    },
+    "8:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 3, 36", "catena": "8:34–38#17", "sintese": "Por amorosa providência, alguns provaram por um instante a contemplação da alegria eterna, para suportarem com mais fortaleza as adversidades." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:34–38#19", "sintese": "Ou então o Reino de Deus é a Igreja presente, que alguns discípulos veriam edificada contra a glória do mundo." }
+      ],
+      "nota": { "texto": "Na Vulgata e em Matos Soares este é Mc 8,39; nas edições modernas é Mc 9,1.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

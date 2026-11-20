@@ -3,9 +3,10 @@ import * as S from './store.js';
 import * as P from './plans.js';
 import * as T from './tts.js';
 import * as L from './liturgy.js';
+import * as ST from './study.js';
 import { trackView, trackEvent } from './analytics.js';
 
-const APP_VERSION = '1.2.0';
+const APP_VERSION = '1.3.0';
 
 // ---------- Utilidades ----------
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -266,6 +267,9 @@ async function route() {
         break;
       case 'ler':
         await readerView(a, +b || 1, c ? +c : null, signal);
+        break;
+      case 'estudo':
+        await studyView(a, +b || 1, +c || 1, q, signal);
         break;
       case 'buscar':
         await searchView(q, signal);
@@ -581,6 +585,148 @@ function refreshVerse(v) {
   el.outerHTML = verseHtml(ctx.b, ctx.c, v, ctx.texts[v - 1]).trimEnd();
 }
 
+// ---------- Estudo por perícopes ----------
+const studyHash = (b, ini, tab) => `#/estudo/${b}/${ini.c}/${ini.v}${tab && tab !== 'texto' ? `?aba=${tab}` : ''}`;
+
+function periHeadHtml(b, h) {
+  if (!h) return '';
+  const { p } = h;
+  return `${h.novaSecao ? `<div class="peri-sec">${esc(p.secao)}</div>` : ''}<div class="peri-head">
+    <h2>${esc(p.titulo)}</h2>
+    <a class="peri-btn" href="${studyHash(b, p.ini)}">${icon('book')}Estudar</a></div>`;
+}
+
+const STUDY_TABS = [
+  ['texto', 'Texto'],
+  ['sentidos', '4 Sentidos'],
+  ['lectio', 'Lectio Divina'],
+  ['padres', 'Padres'],
+];
+const SENSES = [
+  ['literal', 'Literal', 'o que o autor sagrado quis dizer'],
+  ['alegorico', 'Alegórico', 'Cristo, a Igreja e os sacramentos'],
+  ['moral', 'Moral', 'o que devo fazer'],
+  ['anagogico', 'Anagógico', 'para onde caminhamos'],
+];
+const LIT_HEX = { verde: '#0b7a5c', roxo: '#6a3fd1', branco: '#d9a520', vermelho: '#c8323c', rosa: '#e58fb6' };
+
+function anchorHtml(a) {
+  if (!a) return '';
+  const parts = [];
+  if (a.cic?.length) parts.push(`<p class="anc-cic"><b>Catecismo</b> ${a.cic.map((n) => `§ ${n}`).join(' · ')}</p>`);
+  for (const f of a.padres || []) {
+    parts.push(`<div class="anc-father"><strong>${esc(f.autor)}</strong>${f.obra ? `<span class="small muted"> · ${esc(f.obra)}</span>` : ''}<p>${esc(f.sintese)}</p></div>`);
+  }
+  if (a.nota?.texto) parts.push(`<p class="anc-nota"><b>Nota</b> ${esc(a.nota.texto)}</p>`);
+  return parts.join('');
+}
+
+async function studyView(id, c, v, q, signal) {
+  const bk = B.book(id);
+  if (!bk) return notFound();
+  setView('study', `Estudo · ${bk.name} ${c}`, 'books');
+  view.innerHTML = '<div class="loading">Carregando…</div>';
+  const idx = await ST.bookIndex(id);
+  if (signal.aborted) return;
+  const loc = idx && ST.locate(idx, c, v);
+  if (!loc) return notFound();
+  const per = loc.cur;
+  if (per.ini.c !== c || per.ini.v !== v) return location.replace(studyHash(id, per.ini));
+
+  const chs = [];
+  for (let k = per.ini.c; k <= per.fim.c; k++) chs.push(k);
+  const [d, ...texts] = await Promise.all([ST.pericope(id, c, v), ...chs.map((k) => B.chapter(id, k))]);
+  if (signal.aborted) return;
+  const verses = [];
+  chs.forEach((k, j) => {
+    const a = k === per.ini.c ? per.ini.v : 1;
+    const z = k === per.fim.c ? per.fim.v : texts[j].length;
+    for (let n = a; n <= z; n++) verses.push({ c: k, v: n, t: texts[j][n - 1] });
+  });
+  const multi = chs.length > 1;
+  const tab = STUDY_TABS.some(([k]) => k === q.get('aba')) ? q.get('aba') : 'texto';
+  const gi = groupIndex(bk.group);
+  body.style.setProperty('--band', `var(--g${gi})`);
+  const vref = (k) => {
+    const [cc, vv] = k.split(':');
+    return `${bk.abbrev} ${cc},${vv}`;
+  };
+
+  let content;
+  if (!d) {
+    content = `<div class="empty"><p>O estudo desta perícope ainda está em preparação.</p>
+      <a class="btn" href="${readHash(id, c, v)}">${icon('book')}Ler o texto</a></div>`;
+  } else if (tab === 'texto') {
+    content = `<p class="small muted">Toque nos versículos marcados para ver os Padres e as notas.</p>
+      <div class="study-verses">${verses
+        .map(({ c: cc, v: vv, t }) => {
+          const k = `${cc}:${vv}`;
+          const a = d.ancoras?.[k];
+          const num = multi ? `${cc},${vv}` : vv;
+          return a
+            ? `<button class="sv has" type="button" data-k="${k}" aria-expanded="false"><sup class="vn">${num}</sup>${esc(t)}<span class="anc-dot" aria-label="tem comentário"></span></button><div class="anc-box" data-for="${k}" hidden>${anchorHtml(a)}</div>`
+            : `<p class="sv"><sup class="vn">${num}</sup>${esc(t)}</p>`;
+        })
+        .join('')}</div>`;
+  } else if (tab === 'sentidos') {
+    const S4 = d.quatro_sentidos || {};
+    content = `<p class="small muted">Os quatro sentidos da Escritura (Catecismo 115–118).</p>${SENSES.map(
+      ([k, h, sub]) => `<section class="card sense"><h3>${h} <small>${sub}</small></h3><p>${esc(S4[k])}</p></section>`,
+    ).join('')}`;
+  } else if (tab === 'lectio') {
+    const Lc = d.lectio_divina || {};
+    content = `<ol class="lectio">
+      <li><h3>Lectio <small>o que o texto diz · leia devagar, duas vezes</small></h3><p>${esc(Lc.lectio_resumo)}</p>
+        <a class="small" href="#/estudo/${id}/${c}/${v}">Ler o texto da perícope</a></li>
+      <li><h3>Meditatio <small>o que o texto me diz</small></h3><ul>${(Lc.meditatio_perguntas || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul></li>
+      <li><h3>Oratio <small>o que eu digo a Deus</small></h3><p>${esc(Lc.oratio_guia)}</p></li>
+      <li><h3>Contemplatio <small>repouse em silêncio, repetindo</small></h3>
+        <blockquote class="jac">“${esc(Lc.contemplatio_foco?.texto)}”<cite>${esc(Lc.contemplatio_foco?.ref)}</cite></blockquote></li>
+    </ol>`;
+  } else {
+    const keys = Object.keys(d.ancoras || {}).sort((x, y) => {
+      const [a1, b1] = x.split(':').map(Number);
+      const [a2, b2] = y.split(':').map(Number);
+      return a1 - a2 || b1 - b2;
+    });
+    content = keys.length
+      ? keys.map((k) => `<section class="anc-item"><a class="anc-ref" href="${readHash(id, ...k.split(':').map(Number))}">${esc(vref(k))}</a><div>${anchorHtml(d.ancoras[k])}</div></section>`).join('')
+      : '<p class="empty">Sem comentários dos Padres para esta perícope.</p>';
+    content += '<p class="small muted">Fonte: <i>Catena Aurea</i>, de Santo Tomás de Aquino. Sínteses em português.</p>';
+  }
+
+  const usos = d?.liturgia?.usos || [];
+  view.innerHTML = `<div class="page study">
+    <p class="eyebrow">${esc(per.secao || bk.name)}</p>
+    <h1>${esc(per.titulo)}</h1>
+    <p class="study-ref"><a href="${readHash(id, c, v)}">${esc(per.referencia)}</a></p>
+    ${d?.liturgia?.tema_central ? `<p class="study-tema">${esc(d.liturgia.tema_central)}</p>` : ''}
+    ${usos.length ? `<div class="chips">${usos.map((u) => `<span class="chip"><span class="dot" style="background:${LIT_HEX[u.cor] || 'var(--muted)'}"></span>${esc(u.celebracao)}</span>`).join('')}</div>` : ''}
+    <nav class="tabs study-tabs" aria-label="Partes do estudo">${STUDY_TABS.map(
+      ([k, l]) => `<a href="${studyHash(id, per.ini, k)}"${k === tab ? ' aria-current="page"' : ''}>${l}</a>`,
+    ).join('')}</nav>
+    <div class="study-body">${content}</div>
+    ${d && !d.revisado ? '<p class="small muted study-flag">Conteúdo preparado com auxílio de IA a partir da Tradição; ainda sem revisão.</p>' : ''}
+    <nav class="chap-nav study-nav" aria-label="Perícopes">
+      ${loc.prev ? `<a class="btn" href="${studyHash(id, loc.prev.ini, tab)}" rel="prev">${icon('left')}${esc(loc.prev.referencia)}</a>` : '<span class="spacer"></span>'}
+      ${loc.next ? `<a class="btn" href="${studyHash(id, loc.next.ini, tab)}" rel="next">${esc(loc.next.referencia)}${icon('right')}</a>` : '<span class="spacer"></span>'}
+    </nav>
+  </div>`;
+
+  view.addEventListener(
+    'click',
+    (e) => {
+      const sv = e.target.closest('.sv.has');
+      if (!sv) return;
+      const box = $(`.anc-box[data-for="${sv.dataset.k}"]`, view);
+      const open = sv.getAttribute('aria-expanded') !== 'true';
+      sv.setAttribute('aria-expanded', open);
+      box.hidden = !open;
+    },
+    { signal },
+  );
+}
+
 async function readerView(id, c, v, signal) {
   const bk = B.book(id);
   if (!bk) return notFound();
@@ -588,10 +734,12 @@ async function readerView(id, c, v, signal) {
   setView('reader', `${bk.name} ${c}`, 'books');
   $('#ref-label').textContent = `${bk.name} ${c}`;
   view.innerHTML = '<div class="loading">Carregando…</div>';
-  const texts = await B.chapter(id, c);
+  const [texts, sidx] = await Promise.all([B.chapter(id, c), ST.bookIndex(id)]);
   if (signal.aborted) return;
   ctx = { b: id, c, texts };
   selected.clear();
+  const heads = sidx ? ST.headingsFor(sidx, c) : {};
+  const carry = sidx && !heads[1] ? ST.locate(sidx, c, 1) : null; // capítulo que começa no meio de uma perícope
 
   const prev = B.adjacent(id, c, -1);
   const next = B.adjacent(id, c, 1);
@@ -613,7 +761,8 @@ async function readerView(id, c, v, signal) {
     </header>
     <div class="reader-sheet">
     <article class="reader" id="reader" lang="pt">
-      <div class="verses">${texts.map((t, i) => verseHtml(id, c, i + 1, t)).join('')}</div>
+      ${carry ? `<a class="peri-carry" href="${studyHash(id, carry.cur.ini)}">${icon('book')}Continuação de: ${esc(carry.cur.titulo)}</a>` : ''}
+      <div class="verses">${texts.map((t, i) => periHeadHtml(id, heads[i + 1]) + verseHtml(id, c, i + 1, t)).join('')}</div>
       <div class="chap-end">
         <button class="btn${isRead ? ' primary' : ''}" type="button" id="mark-read" aria-pressed="${isRead}">${icon('check')}${isRead ? 'Capítulo lido' : 'Marcar como lido'}</button>
         <div id="plan-hint"></div>

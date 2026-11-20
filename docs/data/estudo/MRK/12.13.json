@@ -1,0 +1,60 @@
+{
+  "id": "MRK.12.13",
+  "livro": "MRK",
+  "titulo": "O tributo a César",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,13-17",
+  "ini": { "c": 12, "v": 13 },
+  "fim": { "c": 12, "v": 17 },
+  "liturgia": { "tema_central": "“Dai a César o que é de César, e a Deus o que é de Deus”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Fariseus (opostos ao domínio romano) e herodianos (partidários de Herodes e de Roma) se unem para apanhar Jesus numa armadilha. Depois de elogios hipócritas, perguntam se é lícito pagar o tributo a César, o imposto pessoal cobrado pelos romanos. Se Jesus disser “sim”, perde o povo; se disser “não”, será denunciado como rebelde. Jesus pede um denário, que trazia a imagem de Tibério e a inscrição que o proclamava “filho do divino Augusto”. “De quem é a imagem?” “De César.” “Dai a César o que é de César, e a Deus o que é de Deus.”",
+    "alegorico": "A moeda traz a imagem de César; o homem traz a imagem de Deus (Gn 1,27). Por isso, o que se deve a Deus é o próprio homem, inteiro. Cristo, que pagou o tributo por si e por Pedro, deu ao Pai o que lhe pertencia: toda a sua vida, em obediência até a Cruz. A autoridade civil tem o seu lugar, mas não é divina: só Deus é Senhor.",
+    "moral": "O cristão cumpre os deveres civis (impostos, leis justas, bem comum), mas não absolutiza o poder político. Acima de tudo está o dever para com Deus, a quem pertence o coração. A lisonja e a duplicidade dos interlocutores contrastam com a verdade simples de Jesus. Aplicado à vida pessoal: dar ao corpo o necessário, alimento e vestuário, e a Deus a alma e o melhor de nós.",
+    "anagogico": "A imagem de Deus impressa em nós, obscurecida pelo pecado, será restaurada plenamente na glória, quando formos semelhantes a Ele porque o veremos tal como é (1Jo 3,2). Então, entregues inteiramente a Deus, encontraremos a nossa plena realização."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fariseus e herodianos são enviados para apanhar Jesus numa palavra. Elogiam-no como verdadeiro e imparcial e perguntam: “É lícito pagar o tributo a César, ou não?” Jesus, conhecendo a hipocrisia deles, diz: “Por que me tentais? Trazei-me um denário”. Pergunta: “De quem é esta imagem e inscrição?” Respondem: “De César”. Jesus diz: “Dai, pois, o que é de César a César, e o que é de Deus a Deus”. E eles ficam admirados.",
+    "meditatio_perguntas": [
+      "Cumpro os meus deveres de cidadão com honestidade e senso do bem comum?",
+      "O que, em minha vida, eu ainda não “devolvi” a Deus?",
+      "Tenho consciência de que trago em mim a imagem de Deus, e em cada pessoa também?"
+    ],
+    "oratio_guia": "Senhor, eu trago em mim a tua imagem: a ti pertenço por inteiro. Ensina-me a cumprir com justiça os meus deveres na sociedade, sem jamais te tirar o primeiro lugar. Toma o meu coração, que é teu. Amém.",
+    "contemplatio_foco": { "texto": "Dai, pois, o que é de César a César, e o que é de Deus a Deus.", "ref": "Mc 12,17" }
+  },
+  "ancoras": {
+    "12:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:13–17#0", "sintese": "Temendo a multidão, tentam conseguir por meio dos poderes terrenos o que não podiam fazer por si mesmos." }
+      ],
+      "nota": null
+    },
+    "12:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:13–17#2", "sintese": "Interrogam-no com palavras lisonjeiras, como abelhas que trazem mel na boca e ferrão na cauda." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:13–17#3", "sintese": "A pergunta astuta visava levá-lo a dizer que não se devia pagar, para que os herodianos o denunciassem como sedicioso contra os romanos." }
+      ],
+      "nota": { "texto": "O tributo (kēnsos) era o imposto pessoal pago diretamente a Roma, símbolo da sujeição. Foi motivo da revolta de Judas, o Galileu, no ano 6 d.C.", "origem": "ia" }
+    },
+    "12:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:13–17#5", "sintese": "O denário era uma moeda que valia dez moedas menores e trazia a imagem de César." }
+      ],
+      "nota": null
+    },
+    "12:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:13–17#7", "sintese": "A Deus, os dízimos, as primícias e as oblações; como pagou o tributo por si e por Pedro, deu também a Deus o que é de Deus, fazendo a vontade do Pai." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:13–17#8", "sintese": "Dai a César a moeda com a sua imagem e entregai-vos de boa vontade a Deus, pois é a luz do rosto do Senhor, e não a de César, que está gravada sobre nós." },
+        { "autor": "Teofilato", "obra": null, "catena": "12:13–17#9", "sintese": "As necessidades do corpo são como César: dê-se ao corpo o alimento e o vestuário, e a Deus o que é de Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

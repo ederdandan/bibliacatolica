@@ -1,0 +1,74 @@
+{
+  "id": "MRK.8.27",
+  "livro": "MRK",
+  "titulo": "A profissão de Pedro e o primeiro anúncio da Paixão",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 8,27-33",
+  "ini": { "c": 8, "v": 27 },
+  "fim": { "c": 8, "v": 33 },
+  "liturgia": { "tema_central": "“E vós, quem dizeis que eu sou?”: o Messias que deve sofrer", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "É o ponto central do Evangelho de Marcos. Perto de Cesareia de Filipe, cidade pagã no extremo norte, Jesus pergunta o que dizem os homens e depois o que dizem os discípulos. Pedro responde: “Tu és o Messias”. Jesus impõe silêncio, porque a ideia corrente de Messias era política e triunfal. Logo “começa a ensinar”, abertamente, que o Filho do Homem “deve” sofrer, ser rejeitado, morrer e ressuscitar. Pedro o repreende; Jesus, olhando para os discípulos, repreende Pedro com dureza: “Retira-te, Satanás”, literalmente “vai para trás de mim”. A partir daqui, o caminho conduz a Jerusalém e à Cruz.",
+    "alegorico": "A confissão de Pedro, porta-voz dos Doze, é o fundamento da fé da Igreja (cf. Mt 16,16-18). O “deve” (em grego, dei) indica o desígnio do Pai anunciado nas Escrituras: o Servo sofredor de Isaías 53. A tentação de Pedro repete a de Satanás no deserto: um Messias sem cruz. Cristo recusa esse caminho, pois a Cruz é a vitória sobre Satanás e a salvação do gênero humano.",
+    "moral": "Não basta saber o que os outros dizem de Jesus: cada um deve responder pessoalmente quem Ele é para si. É possível confessar a fé certa e, ao mesmo tempo, recusar a Cruz. Pensar “segundo os homens” é querer um cristianismo sem sacrifício. O lugar do discípulo é “atrás” de Jesus, seguindo-o, e não à frente, ditando-lhe o caminho. A correção de Jesus, mesmo dura, é amor que restitui Pedro ao seu lugar.",
+    "anagogico": "O anúncio da Paixão termina com a Ressurreição “depois de três dias”: a Cruz não é o fim, mas a passagem para a glória. A confissão de fé feita no caminho se tornará visão no fim do caminho, quando reconheceremos plenamente o Cristo glorioso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No caminho para as aldeias de Cesareia de Filipe, Jesus pergunta aos discípulos: “Quem dizem os homens que eu sou?” Respondem: João Batista, Elias, um dos profetas. “E vós, quem dizeis que eu sou?” Pedro responde: “Tu és o Messias”. Jesus proíbe que o digam a alguém e começa a ensinar que o Filho do Homem deve sofrer muito, ser rejeitado, morrer e ressuscitar depois de três dias. Pedro o repreende, e Jesus diz: “Retira-te, Satanás; não pensas as coisas de Deus, mas as dos homens”.",
+    "meditatio_perguntas": [
+      "Se Jesus me perguntasse hoje “Quem sou eu para ti?”, o que eu responderia com sinceridade?",
+      "Em que procuro um cristianismo sem cruz?",
+      "Aceito ficar “atrás” de Jesus, ou quero ditar-lhe o caminho?"
+    ],
+    "oratio_guia": "Senhor Jesus, eu creio que tu és o Messias, o Filho do Deus vivo. Quando eu fugir da cruz e pensar segundo os homens, corrige-me e coloca-me de novo atrás de ti. Ensina-me os pensamentos de Deus. Amém.",
+    "contemplatio_foco": { "texto": "E vós quem dizeis que eu sou?", "ref": "Mc 8,29" }
+  },
+  "ancoras": {
+    "8:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:27–33#0", "sintese": "Afasta os discípulos dos judeus e então os interroga, para que pudessem dizer a verdade sem medo." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 35", "catena": "8:27–33#1", "sintese": "Filipe, irmão de Herodes, chamou a cidade, hoje Paneas, de Cesareia de Filipe, em honra de Tibério César." }
+      ],
+      "nota": null
+    },
+    "8:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "8:27–33#3", "sintese": "Pergunta primeiro a opinião dos homens para provar a fé dos discípulos, a fim de que a sua confissão não parecesse fundada na opinião comum." }
+      ],
+      "nota": null
+    },
+    "8:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 54", "catena": "8:27–33#5", "sintese": "Pelo modo de perguntar, leva-os a pensar mais alto; responde a cabeça dos discípulos, a boca dos apóstolos." },
+        { "autor": "Teofilato", "obra": null, "catena": "8:27–33#6", "sintese": "Marcos omite a bem-aventurança dada a Pedro para não parecer favorecer o seu mestre; Mateus a narra." }
+      ],
+      "nota": { "texto": "Segundo a tradição antiga (Papias, citado por Eusébio), Marcos escreveu a pregação de Pedro. Isso explica a discrição sobre os elogios ao apóstolo.", "origem": "ia" }
+    },
+    "8:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "8:27–33#9", "sintese": "Queria esperar que se consumasse a crucifixão, motivo de escândalo, para firmar neles a fé pura; depois mandou ensinar todas as nações." }
+      ],
+      "nota": null
+    },
+    "8:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado; cf. Crisóstomo, no lugar citado", "catena": "8:27–33#12", "sintese": "Pedro fala com o afeto de quem ama: isso não pode acontecer, os meus ouvidos não admitem que o Filho de Deus seja morto." }
+      ],
+      "nota": null
+    },
+    "8:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "8:27–33#15", "sintese": "Ao diabo não disse “vai para trás de mim”; a Pedro diz: segue-me e não te oponhas ao desígnio da minha paixão voluntária." },
+        { "autor": "Teofilato", "obra": null, "catena": "8:27–33#14", "sintese": "Só Satanás não queria que Cristo padecesse e o gênero humano fosse salvo; por isso chama Pedro de Satanás, que pensava como ele." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

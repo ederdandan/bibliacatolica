@@ -1,0 +1,83 @@
+{
+  "id": "MRK.10.17",
+  "livro": "MRK",
+  "titulo": "O homem rico e a recompensa de quem tudo deixa",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,17-31",
+  "ini": { "c": 10, "v": 17 },
+  "fim": { "c": 10, "v": 31 },
+  "liturgia": { "tema_central": "“Uma coisa te falta”: o olhar de amor de Jesus e o tesouro no céu", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um homem corre, ajoelha-se e pergunta o que fazer para herdar a vida eterna. Jesus recusa o título “bom” para levá-lo a pensar em Deus, único bom, e recorda os mandamentos da segunda tábua. O homem os cumpre desde jovem. Marcos registra um detalhe único: Jesus “pondo nele os olhos, mostrou-lhe afeto”. Então o convida a vender tudo, dar aos pobres e segui-lo. Ele vai embora triste, porque tinha muitos bens. Jesus comenta a dificuldade dos ricos com a imagem hiperbólica do camelo e da agulha; os discípulos se espantam, pois a riqueza era vista como bênção. A salvação é impossível aos homens, mas não a Deus. Aos que deixam tudo, Jesus promete o cêntuplo já agora, “com perseguições”, e a vida eterna.",
+    "alegorico": "Jesus, ao dizer “ninguém é bom senão Deus”, convida o homem a reconhecer nele a bondade divina: o Pai, o Filho e o Espírito são o único Deus bom. O chamado a vender tudo e seguir Cristo é a vocação à perfeição evangélica, que a Igreja viveu nos apóstolos e na vida consagrada. O cêntuplo prometido é a nova família da Igreja, onde os que deixaram tudo encontram irmãos, mães e casas.",
+    "moral": "Guardar os mandamentos é o caminho da vida; mas o amor de Cristo chama sempre a algo mais. As riquezas não são más em si, mas o apego a elas impede de seguir a Jesus: grande diferença há entre ter riquezas e amá-las. O dinheiro deve servir aos pobres. Quem deixa pouco, mas com o coração inteiro, deixa “tudo”. A tristeza do homem rico mostra que nenhum bem deste mundo dá a alegria que só Cristo dá.",
+    "anagogico": "O tesouro no céu é a vida eterna, recompensa infinitamente maior que tudo o que se deixa. “A Deus tudo é possível”: a salvação é dom da graça. No Reino, os últimos serão os primeiros: a lógica de Deus inverte as medidas do mundo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um homem corre até Jesus, ajoelha-se e pergunta: “Bom Mestre, que devo fazer para alcançar a vida eterna?” Jesus recorda os mandamentos; ele diz que os observa desde a juventude. Jesus, olhando para ele, o ama e diz: “Uma coisa te falta: vai, vende tudo, dá aos pobres e terás um tesouro no céu; depois vem e segue-me”. Ele se vai triste, porque tinha muitos bens. Jesus diz como é difícil aos ricos entrar no Reino; mas a Deus tudo é possível. A quem deixa tudo por Ele, promete o cêntuplo e a vida eterna.",
+    "meditatio_perguntas": [
+      "Sinto o olhar de amor com que Jesus me olha, mesmo quando me pede algo difícil?",
+      "Qual é “a coisa que me falta” para seguir Jesus de todo o coração?",
+      "A que bens, pessoas ou seguranças o meu coração está apegado?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu me olhas com amor e me chamas a seguir-te. Liberta o meu coração de todo apego que me entristece e me afasta de ti. Que eu encontre em ti o meu tesouro e saiba partilhar com os pobres. Para mim é impossível, mas a ti tudo é possível. Amém.",
+    "contemplatio_foco": { "texto": "Jesus, pondo nele os olhos, mostrou-lhe afeto.", "ref": "Mc 10,21" }
+  },
+  "ancoras": {
+    "10:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:17–27#1", "sintese": "Admiro esse jovem: quando todos vêm a Cristo para serem curados, ele lhe pede a vida eterna, apesar do seu apego ao dinheiro." }
+      ],
+      "nota": null
+    },
+    "10:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:17–27#3", "sintese": "Por esse Deus bom devemos entender não só o Pai, mas também o Filho, que diz “Eu sou o bom pastor”, e o Espírito Santo." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:17–27#4", "sintese": "O Senhor queria elevar a mente do jovem, para que soubesse que Ele era Deus." }
+      ],
+      "nota": null
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:17–27#8", "sintese": "Deus ama os que guardam os mandamentos, ainda que menores; mas mostra aos que desejam ser perfeitos o que falta à lei." },
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:17–27#10", "sintese": "Não disse “vida eterna”, mas “tesouro”: tratando-se de riquezas, mostra que restitui mais do que manda deixar." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:17–27#12", "sintese": "Segue o Senhor quem o imita e caminha em suas pegadas." }
+      ],
+      "nota": null
+    },
+    "10:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:17–27#16", "sintese": "Há grande diferença entre ter riquezas e amá-las: Salomão não diz “quem tem prata”, mas “quem ama a prata não se fartará” (Ecl 5,9)." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:17–27#14", "sintese": "Não diz que as riquezas são más, mas que são maus os que as possuem só para guardá-las, em vez de usá-las bem." }
+      ],
+      "nota": null
+    },
+    "10:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:17–27#19", "sintese": "Mateus, Zaqueu e muitos ricos do Antigo Testamento entraram no Reino porque aprenderam, por inspiração de Deus, a ter por nada as suas riquezas." }
+      ],
+      "nota": { "texto": "Imagem hiperbólica: o maior animal da Palestina e a menor abertura conhecida. A leitura “cabo” (em grego, kamilos) é uma explicação antiga, também lembrada por Teofilato.", "origem": "ia" }
+    },
+    "10:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:28–31#1", "sintese": "Pedro deixou pouco, mas o chama de tudo, pois mesmo o pouco nos prende pelo afeto: é bem-aventurado também quem deixa pouco." }
+      ],
+      "nota": null
+    },
+    "10:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Cat. in Marc. Oxon.", "catena": "10:28–31#5", "sintese": "O cêntuplo consiste na participação, não na posse: o Senhor o cumpriu nos apóstolos não carnal, mas espiritualmente." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 64", "catena": "10:28–31#3", "sintese": "Com essas palavras anunciava veladamente as perseguições que viriam." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

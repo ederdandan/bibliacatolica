@@ -1,0 +1,57 @@
+{
+  "id": "MRK.1.9",
+  "livro": "MRK",
+  "titulo": "O batismo de Jesus",
+  "secao": "Prólogo",
+  "referencia": "Mc 1,9-11",
+  "ini": { "c": 1, "v": 9 },
+  "fim": { "c": 1, "v": 11 },
+  "liturgia": {
+    "tema_central": "No Jordão a Trindade se revela: o Filho amado é ungido pelo Espírito, e o céu se abre para nós",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois do anúncio de João, Jesus entra em cena vindo de Nazaré, aldeia obscura da Galileia, e recebe o batismo misturado aos pecadores. Marcos narra a cena do ponto de vista de Jesus: é Ele quem vê os céus “abertos” (literalmente, “rasgados”) e o Espírito descendo como pomba. A voz do Pai une três textos do Antigo Testamento: o Salmo 2 (o Filho-rei), Gênesis 22 (o filho amado, Isaac) e Isaías 42 (o Servo em quem Deus se compraz). O batismo funciona como investidura messiânica: Jesus é declarado Filho e ungido pelo Espírito para a missão.",
+    "alegorico": "É a primeira manifestação clara da Santíssima Trindade: o Filho na água, o Espírito em forma de pomba e a voz do Pai. Jesus não precisava de purificação, mas desce ao Jordão para santificar as águas e instituir nelas o Batismo cristão. Os céus que se abrem anunciam que a porta do Reino, fechada desde Adão, é reaberta pelo lavacro da regeneração. A pomba recorda a do dilúvio, que trouxe o ramo da paz, e a esposa do Cântico, figura da Igreja. A unção do Espírito faz de Jesus o Cristo, o Ungido, Rei, Sacerdote e Profeta.",
+    "moral": "Pelo Batismo, o que o Pai disse a Jesus é dito também a nós: somos filhos amados. Essa identidade precede todo mérito e fundamenta toda a vida cristã. A pomba ensina que o Espírito Santo procura corações simples e sem malícia, e foge da duplicidade. A humildade de Jesus, que se põe na fila dos pecadores, convida-nos a não nos julgarmos acima dos outros e a viver a vocação batismal com gratidão.",
+    "anagogico": "Os céus abertos sobre o Jordão são promessa do céu aberto para sempre a todos os batizados que perseverarem. A voz do Pai que se compraz no Filho é a mesma que um dia dirá aos fiéis: “Vinde, benditos de meu Pai”. O Espírito que desce e permanece é o penhor da glória, até que sejamos plenamente filhos na visão de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus vem de Nazaré da Galileia e é batizado por João no Jordão. Ao sair da água, vê os céus abertos e o Espírito Santo descendo sobre Ele em forma de pomba. Do céu, uma voz declara: “Tu és o meu Filho amado, em ti pus as minhas complacências.”",
+    "meditatio_perguntas": [
+      "Eu vivo como alguém que ouviu de Deus: “Tu és o meu filho amado”? Onde ainda busco o meu valor fora desse amor?",
+      "Lembro-me do meu Batismo e o agradeço? Sei a data em que fui batizado?",
+      "O meu coração é simples como a pomba, ou guardo malícia e duplicidade que afastam o Espírito Santo?"
+    ],
+    "oratio_guia": "Pai Santo, no Batismo me fizeste teu filho no teu Filho amado. Abre sobre mim os céus, envia o teu Espírito e dá-me um coração simples, onde Ele possa permanecer. Que a minha vida seja motivo da tua complacência. Amém.",
+    "contemplatio_foco": { "texto": "Tu és o meu Filho amado.", "ref": "Mc 1,11" }
+  },
+  "ancoras": {
+    "1:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:9–11#1", "sintese": "Jesus recebe o batismo de João não para remissão de pecados nem para receber o Espírito, coisas que esse batismo não dava, mas para ser manifestado a todos e cumprir toda a justiça." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 4", "catena": "1:9–11#2", "sintese": "Foi batizado para aprovar o batismo de João e para, santificando as águas do Jordão com a descida da pomba, mostrar a vinda do Espírito Santo no lavacro dos fiéis." }
+      ],
+      "nota": { "texto": "Nazaré era uma aldeia pequena e sem fama, nunca mencionada no Antigo Testamento (cf. Jo 1,46).", "origem": "ia" }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 4", "catena": "1:9–11#2", "sintese": "Os céus se abrem aos olhos do espírito, e por nossa causa: a porta do Reino dos Céus nos é aberta pelo lavacro da regeneração." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:9–11#6", "sintese": "O Espírito desceu em forma de pomba, ave simples e sem fel, para mostrar que busca corações simples e não habita na mente dos ímpios." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:9–11#8", "sintese": "É próprio de Cristo que o Espírito, uma vez que O encheu, nunca O deixe. Nos fiéis, a graça dos milagres vai e vem, mas a graça para a piedade e a caridade não lhes falta." }
+      ],
+      "nota": { "texto": "O verbo grego que Marcos usa significa “rasgar”, o mesmo que aparece quando o véu do Templo se rasga na morte de Jesus (15,38).", "origem": "ia" }
+    },
+    "1:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:9–11#10", "sintese": "A voz ensina que também nós, pela água e pelo Espírito, podemos tornar-nos filhos de Deus. No batismo se manifesta a Trindade: o Filho é batizado, o Espírito desce e o Pai dá testemunho." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 14", "catena": "1:9–11#9", "sintese": "Mateus escreve “Este é o meu Filho” e Marcos “Tu és o meu Filho”: os evangelistas não repetem a mesma forma de expressão, mas transmitem o mesmo sentido." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

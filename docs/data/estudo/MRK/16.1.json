@@ -1,0 +1,84 @@
+{
+  "id": "MRK.16.1",
+  "livro": "MRK",
+  "titulo": "O sepulcro vazio",
+  "secao": "A Ressurreição",
+  "referencia": "Mc 16,1-8",
+  "ini": { "c": 16, "v": 1 },
+  "fim": { "c": 16, "v": 8 },
+  "liturgia": { "tema_central": "“Ressuscitou, não está aqui”: o Crucificado vive e vai adiante dos seus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Passado o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compram aromas para ungir o corpo de Jesus. No primeiro dia da semana, ao nascer do sol, vão ao sepulcro preocupadas com a grande pedra; mas a encontram removida. Dentro, um jovem vestido de branco, sentado à direita, as tranquiliza: “Não temais. Buscais Jesus Nazareno, o crucificado? Ressuscitou, não está aqui. Eis o lugar onde o puseram”. E as envia: “Dizei aos seus discípulos e a Pedro que Ele vai adiante de vós para a Galileia”. Elas fogem, tomadas de temor e assombro, e não dizem nada a ninguém. Segundo os manuscritos mais antigos, o Evangelho terminava aqui, de modo abrupto; os vv. 9-20, canônicos, completam o relato.",
+    "alegorico": "O primeiro dia da semana é o dia da nova criação: a luz da Ressurreição brilha como no primeiro dia do mundo. A pedra removida significa a abertura dos mistérios de Cristo, antes escondidos pelo véu da Lei. O jovem de branco anuncia a alegria da festa; sentado à direita, indica a vida eterna. A Galileia, “passagem”, é figura da passagem de Cristo da morte à vida, e da Igreja que passa de Israel aos gentios.",
+    "moral": "As mulheres vão buscar um morto com perfumes, e encontram o Vivo: o amor fiel, mesmo sem compreender, é recompensado. “E a Pedro”: o anjo o nomeia para que aquele que negou não se julgasse excluído. Quem busca o Senhor com o bom odor das obras encontra os anjos, isto é, a consolação de Deus. O temor das mulheres é humano; mas no amor não há temor.",
+    "anagogico": "A imortalidade é mostrada aos mortais para que saibamos o que havemos de ser. O sepulcro vazio é a garantia da nossa ressurreição: Cristo “vai adiante” de nós, e onde Ele está, lá estaremos. Teremos a alegria da Ressurreição se passarmos, com Ele, do vício à virtude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Passado o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compram aromas para ungir Jesus. Bem cedo, no primeiro dia da semana, ao nascer do sol, vão ao sepulcro, perguntando: “Quem nos removerá a pedra?” Olhando, veem que a pedra, muito grande, já fora removida. Entrando, veem um jovem vestido de branco e se assustam. Ele diz: “Não temais. Buscais Jesus Nazareno, o crucificado? Ressuscitou, não está aqui. Ide dizer aos seus discípulos e a Pedro que Ele vai adiante de vós para a Galileia; lá o vereis”. Elas saem e fogem, tomadas de temor, e nada dizem a ninguém.",
+    "meditatio_perguntas": [
+      "Que “pedras” me parecem impossíveis de remover no caminho para Jesus?",
+      "Busco Jesus entre os mortos, ou creio que Ele vive e vai à minha frente?",
+      "Como respondo ao envio de anunciar a Ressurreição, com medo ou com coragem?"
+    ],
+    "oratio_guia": "Senhor Jesus, crucificado e ressuscitado, tu removes as pedras que eu julgava impossíveis. Vence o meu medo e faz-me testemunha da tua Ressurreição. Vai adiante de mim, para que eu te veja e te siga. Aleluia! Amém.",
+    "contemplatio_foco": { "texto": "Ressuscitou, não está aqui.", "ref": "Mc 16,6" }
+  },
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "16:1–8#3", "sintese": "Não compreendiam a grandeza de Cristo: vieram, segundo o costume dos judeus, ungir o corpo para que conservasse o bom odor e não se decompusesse." },
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 21", "catena": "16:1–8#4", "sintese": "Se buscamos o Senhor com o bom odor das virtudes e a fama das boas obras, vamos ao seu sepulcro com aromas." }
+      ],
+      "nota": null
+    },
+    "16:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:1–8#0", "sintese": "Depois da tristeza do sábado, amanhece um dia feliz, o primeiro dos dias, em que brilha a luz primordial." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 4, 45", "catena": "16:1–8#7", "sintese": "As mulheres mostram o grande fervor do seu amor chegando muito cedo; assim devemos buscar o Senhor com ardor." }
+      ],
+      "nota": null
+    },
+    "16:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "16:1–8#11", "sintese": "A pedra foi removida por um anjo; significa misticamente a abertura dos mistérios de Cristo, antes fechados pela letra da Lei." }
+      ],
+      "nota": null
+    },
+    "16:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:1–8#19", "sintese": "O lado esquerdo é a vida presente; o direito, a vida eterna: o anjo à direita anuncia que o Redentor já passou à vida eterna." },
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:1–8#21", "sintese": "Apareceu de branco porque anunciava as alegrias da nossa festa." }
+      ],
+      "nota": null
+    },
+    "16:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "16:1–8#24", "sintese": "No amor não há temor: por que temeriam as que encontraram Aquele a quem procuravam?" },
+        { "autor": "Teofilato", "obra": null, "catena": "16:1–8#26", "sintese": "Não se envergonha de dizer “o crucificado”, porque na cruz está a salvação dos homens." },
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:1–8#28", "sintese": "“Não está aqui” diz-se da presença corporal; quanto à majestade, não está ausente de lugar algum." }
+      ],
+      "nota": null
+    },
+    "16:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:1–8#31", "sintese": "Se o anjo não tivesse nomeado aquele que negara o Mestre, ele não teria ousado vir para o meio dos discípulos." },
+        { "autor": "São Gregório Magno", "obra": "no lugar citado", "catena": "16:1–8#33", "sintese": "Galileia significa passagem: o Redentor passou da paixão à ressurreição, e teremos a sua alegria se passarmos do vício à virtude." }
+      ],
+      "nota": null
+    },
+    "16:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "16:1–8#36", "sintese": "Tremiam por causa da visão do anjo e estavam espantadas por causa da ressurreição." }
+      ],
+      "nota": { "texto": "Nos manuscritos mais antigos (Sinaítico, Vaticano), Marcos termina aqui. O “final longo” (16,9-20) é canônico e inspirado, reconhecido pelo Concílio de Trento.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

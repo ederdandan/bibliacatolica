@@ -1,0 +1,93 @@
+{
+  "id": "MRK.1.1",
+  "livro": "MRK",
+  "titulo": "A pregação de João Batista",
+  "secao": "Prólogo",
+  "referencia": "Mc 1,1-8",
+  "ini": { "c": 1, "v": 1 },
+  "fim": { "c": 1, "v": 8 },
+  "liturgia": {
+    "tema_central": "Preparar o caminho do Senhor: a penitência abre o coração para Aquele que batiza no Espírito Santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O versículo 1 é o título de todo o Evangelho de Marcos: “Princípio do Evangelho de Jesus Cristo, Filho de Deus”. “Evangelho” é a boa notícia, e o título já confessa quem é Jesus, o que o centurião proclamará ao pé da Cruz (15,39). Marcos, o mais breve dos evangelistas, não narra a infância de Jesus: começa pela profecia. Une Malaquias (3,1) e Isaías (40,3) sob o nome de Isaías, o profeta mais antigo, para mostrar que João cumpre as Escrituras. João aparece no deserto, lugar do êxodo e da aliança, vestido como Elias (2Rs 1,8), pregando um batismo de penitência. Ele mesmo aponta para alguém “mais forte” que batizará no Espírito Santo.",
+    "alegorico": "João é a voz que precede a Palavra: como o som vem antes do sentido, ele vem antes do Verbo eterno feito carne. É o “amigo do Esposo” que conduz a Esposa, a Igreja, até Cristo. O seu batismo de água prepara, mas não perdoa; prefigura o Batismo cristão, no qual Cristo dá o Espírito Santo e perdoa de fato os pecados. O Jordão, onde Israel entrou na Terra Prometida, torna-se figura da fonte batismal pela qual entramos na Igreja. A correia da sandália que João não se julga digno de desatar indica o mistério da Encarnação: Deus que se calçou com a nossa carne mortal.",
+    "moral": "O caminho do Senhor até o coração se prepara pela penitência: reconhecer e confessar os pecados, como faziam os que vinham a João. As veredas se endireitam quando os pensamentos se purificam e a vida se conforma à fé. A austeridade de João, nas vestes, no alimento e na palavra franca, chama à sobriedade e à mortificação, sem as quais a pregação perde força. A sua humildade é lição para todo apóstolo: apontar para Cristo, nunca para si mesmo.",
+    "anagogico": "O Evangelho é chamado “princípio”: o que começa no Jordão só se consuma na vinda gloriosa do Senhor. João prepara a primeira vinda; a Igreja, com a mesma voz, prepara a segunda. O batismo no Espírito Santo é o penhor da herança eterna, e cada conversão aplaina um pouco mais o caminho do Senhor que vem para julgar e para levar os seus à glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Marcos abre o seu Evangelho anunciando Jesus Cristo, Filho de Deus, e mostra que as profecias de Malaquias e Isaías se cumprem em João Batista. João aparece no deserto pregando um batismo de penitência; toda a Judeia e Jerusalém vêm a ele e são batizadas no Jordão, confessando os pecados. Vestido de pelo de camelo, alimentando-se de gafanhotos e mel silvestre, ele anuncia alguém mais forte, de quem não é digno de desatar as sandálias, e que batizará no Espírito Santo.",
+    "meditatio_perguntas": [
+      "Que “montes” de orgulho e que “vales” de desânimo precisam ser aplainados para o Senhor entrar na minha vida?",
+      "Quando foi a última vez que confessei os meus pecados com sinceridade, como os que vinham a João?",
+      "Na minha família e no meu trabalho, eu aponto para Cristo ou para mim mesmo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Deus, a tua Palavra me encontra no deserto da minha vida. Dá-me a humildade de João para reconhecer os meus pecados e preparar-te o caminho. Batiza-me de novo, cada dia, no teu Espírito Santo, para que eu faça o que te agrada. Amém.",
+    "contemplatio_foco": { "texto": "Preparai o caminho do Senhor, endireitai as suas veredas.", "ref": "Mc 1,3" }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": "De Trin. III, 11", "catena": "1:1#3", "sintese": "Marcos atesta que Cristo é Filho de Deus não só de nome, mas por natureza: nós somos filhos por adoção; Ele é o Filho verdadeiro e próprio, por nascimento e não por criação." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 1", "catena": "1:1#2", "sintese": "Mateus começa pelo Filho do homem, descendente de David e Abraão; Marcos, pelo Filho de Deus. Assim a nossa inteligência sobe aos poucos da humanidade assumida ao reconhecimento da sua divindade eterna." }
+      ],
+      "nota": { "texto": "“Evangelho” vem do grego euangelion, “boa notícia”. O versículo funciona como título de todo o livro.", "origem": "ia" }
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:2–3#6", "sintese": "João é chamado “anjo” não por ter natureza angélica, mas pelo ofício: anjo quer dizer mensageiro. Por isso também os sacerdotes, que anunciam o Evangelho, podem ser chamados anjos do Senhor (Ml 2,7)." },
+        { "autor": "Pseudo-Agostinho", "obra": "Quaest. Vet. et Nov. Test. 57", "catena": "1:2–3#3", "sintese": "O evangelista reúne as palavras de Malaquias e de Isaías, que têm o mesmo sentido, sob o nome do profeta mais antigo, que foi o primeiro a exprimir essa promessa." }
+      ],
+      "nota": { "texto": "A primeira citação é de Malaquias 3,1 e a segunda de Isaías 40,3. Marcos atribui ambas a Isaías, o profeta principal, prática comum ao citar profecias combinadas.", "origem": "ia" }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:2–3#9", "sintese": "João pode ser chamado “voz” porque, com o seu som, precedeu o Verbo do Pai: primeiro soa a voz, depois se entende a palavra." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:2–3#13", "sintese": "Quem prega a fé reta e as boas obras prepara o caminho do Senhor ao coração dos ouvintes, e endireita as suas veredas quando forma na alma pensamentos puros." }
+      ],
+      "nota": null
+    },
+    "1:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 2", "catena": "1:4–8#1", "sintese": "João ministrava um batismo de penitência, mas não podia perdoar os pecados: a remissão só é dada pelo batismo de Cristo. Ele pregava, portanto, o batismo que viria e que perdoaria de fato." }
+      ],
+      "nota": null
+    },
+    "1:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:4–8#4", "sintese": "Os que vinham a João confessando os pecados dão exemplo a quem deseja ser batizado: confessar as faltas e prometer uma vida nova." }
+      ],
+      "nota": null
+    },
+    "1:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:4–8#10", "sintese": "A veste áspera mostra que João não lisonjeava os pecadores, mas os repreendia com vigor; o cinto de couro, que tinha crucificado a própria carne; o mel e os gafanhotos, a doçura passageira com que o povo o ouviu até entender que ele não era o Cristo." },
+        { "autor": "São Gregório Magno", "obra": "Moral. XXXI, 25", "catena": "1:4–8#9", "sintese": "Pelo próprio alimento João apontava o Senhor: o mel silvestre é a doçura dos gentios que Cristo acolheu; os gafanhotos, que saltam e logo caem, são os que prometem com palavras e caem com as obras." }
+      ],
+      "nota": { "texto": "A veste de pelo e o cinto de couro recordam o profeta Elias (2Rs 1,8). Marcos apresenta João como o Elias que havia de vir (Ml 3,23).", "origem": "ia" }
+    },
+    "1:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 7", "catena": "1:4–8#15", "sintese": "As sandálias são feitas de pele de animais mortos: o Senhor, vindo na carne, apareceu como que calçado com a nossa mortalidade. Pela lei antiga, desatar a sandália era tomar o direito do esposo, e João não usurpa o nome de Esposo, que pertence só a Cristo." }
+      ],
+      "nota": { "texto": "Desatar a correia das sandálias era serviço de escravo. João declara-se menos ainda que um escravo diante do que vem.", "origem": "ia" }
+    },
+    "1:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:4–8#17", "sintese": "Ao dizer que o mais forte batizará no Espírito Santo, João declara veladamente que Ele é Deus, pois só Deus pode dar a graça do Espírito." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:4–8#19", "sintese": "Somos batizados no Espírito Santo não só no dia do nosso batismo, mas também cada dia, quando a mesma graça nos inflama a fazer o que agrada a Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

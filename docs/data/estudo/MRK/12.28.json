@@ -1,0 +1,66 @@
+{
+  "id": "MRK.12.28",
+  "livro": "MRK",
+  "titulo": "O maior mandamento",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,28-34",
+  "ini": { "c": 12, "v": 28 },
+  "fim": { "c": 12, "v": 34 },
+  "liturgia": { "tema_central": "Amar a Deus com todo o ser e o próximo como a si mesmo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um escriba, impressionado com as respostas de Jesus, pergunta sinceramente qual é o primeiro mandamento, questão debatida entre os rabinos, que contavam 613 preceitos. Jesus responde com o Shemá (Dt 6,4-5), a oração que todo judeu recitava cada dia, e une a ela Lv 19,18: o amor ao próximo. O escriba concorda e acrescenta que isso vale mais que holocaustos e sacrifícios (cf. Os 6,6; 1Sm 15,22), palavra significativa dita no próprio Templo. Jesus lhe diz: “Não estás longe do Reino de Deus”. É o único escriba elogiado em Marcos.",
+    "alegorico": "Os dois mandamentos resumem toda a Lei e os Profetas e se cumprem em Cristo, que amou o Pai até a obediência da Cruz e amou os homens até dar a vida por eles. A unidade de Deus proclamada no Shemá não exclui, mas acolhe, o mistério do Filho, que o escriba ainda não conhece: por isso está “perto” do Reino, mas não dentro.",
+    "moral": "O amor a Deus envolve todas as potências: coração, alma, inteligência e forças. Os dois mandamentos estão unidos: quem ama a Deus ama a sua criatura, e a principal criatura é o homem. O culto exterior não substitui o amor. O escriba ensina também a honestidade intelectual: reconhece a verdade, mesmo vinda de quem os seus colegas combatiam. Estar “perto” não basta; é preciso entrar.",
+    "anagogico": "A caridade é a única virtude que permanece na vida eterna (1Cor 13,13). No céu, o amor a Deus e ao próximo será perfeito e sem obstáculos. Quem vive desses dois mandamentos já antecipa o Reino, de que não está longe."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um escriba pergunta a Jesus qual é o primeiro de todos os mandamentos. Jesus responde: “Ouve, Israel! O Senhor nosso Deus é o único Senhor. Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento e com todas as tuas forças. O segundo é este: Amarás o teu próximo como a ti mesmo”. O escriba concorda e diz que isso vale mais que todos os holocaustos e sacrifícios. Jesus lhe diz: “Não estás longe do Reino de Deus”.",
+    "meditatio_perguntas": [
+      "Amo a Deus com todo o meu ser, ou só com uma parte da minha vida?",
+      "Quem é o “próximo” que me custa amar como a mim mesmo?",
+      "Estou “perto” do Reino ou já dentro? O que me falta para entrar?"
+    ],
+    "oratio_guia": "Ouve, Senhor, a minha oração: quero amar-te com todo o meu coração, toda a minha alma, todo o meu entendimento e todas as minhas forças. Ensina-me a amar o meu próximo como tu me amas. Não permitas que eu fique apenas perto do teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Amarás o Senhor teu Deus com todo o teu coração.", "ref": "Mc 12,30" }
+  },
+  "ancoras": {
+    "12:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:28–34#1", "sintese": "A questão era debatida entre os peritos da lei, porque os mandamentos aparecem de modos diferentes no Êxodo, no Levítico e no Deuteronômio." }
+      ],
+      "nota": null
+    },
+    "12:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:28–34#2", "sintese": "Enumera todas as potências da alma: a vital, com a ira e o desejo, a racional e as demais, que devem ser todas dadas a Deus." }
+      ],
+      "nota": { "texto": "O Shemá (“Ouve”) é a profissão de fé de Israel, recitada de manhã e à noite (Dt 6,4-9).", "origem": "ia" }
+    },
+    "12:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:28–34#4", "sintese": "Os dois mandamentos se contêm mutuamente: quem ama a Deus ama também a sua criatura, e a principal delas é o homem." }
+      ],
+      "nota": null
+    },
+    "12:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:28–34#5", "sintese": "Entre escribas e fariseus debatia-se qual era o primeiro mandamento: uns diziam as ofertas e sacrifícios, outros as obras de fé e de amor." }
+      ],
+      "nota": null
+    },
+    "12:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:28–34#6", "sintese": "Mostra que ele ainda não era perfeito: não disse “estás dentro do Reino”, mas “não estás longe”." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:28–34#7", "sintese": "Não estava longe porque defendeu a opinião própria do Novo Testamento e da perfeição do Evangelho." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 73", "catena": "12:28–34#8", "sintese": "Embora tenha vindo como tentador, segundo Mateus, pode ter sido corrigido pela resposta do Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

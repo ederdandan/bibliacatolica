@@ -1,0 +1,64 @@
+{
+  "id": "MRK.13.33",
+  "livro": "MRK",
+  "titulo": "Vigiai!",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 13,33-37",
+  "ini": { "c": 13, "v": 33 },
+  "fim": { "c": 13, "v": 37 },
+  "liturgia": { "tema_central": "Vigiai, porque não sabeis quando virá o senhor da casa", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O discurso termina com uma breve parábola. Um homem parte em viagem, confia a casa aos servos, dá a cada um a sua tarefa e manda o porteiro vigiar. Os servos não sabem quando ele voltará: à tarde, à meia-noite, ao cantar do galo ou de manhã, as quatro vigílias romanas da noite. O imperativo “Vigiai” se repete três vezes e conclui: “O que vos digo, digo a todos”. As vigílias antecipam a noite da Paixão: à tarde a Ceia, à meia-noite o Getsêmani, ao cantar do galo a negação de Pedro, de manhã a entrega a Pilatos, quando os discípulos não vigiaram.",
+    "alegorico": "O homem que parte é Cristo, que subiu ao Pai depois da Ressurreição e deixou a sua Igreja quanto à presença corporal, sem nunca a abandonar com a presença divina. Os servos com autoridade são os pastores e todos os fiéis, a quem foi confiada uma tarefa; o porteiro é a vigilância dos pastores. O regresso do senhor é a Parusia, e também a hora da morte de cada um.",
+    "moral": "Vigiar não é ficar inquieto, mas fiel: cada um cumpre a tarefa recebida, sem dormir no torpor do pecado nem nas fantasias do amor ao mundo. Vigiar e orar andam juntos: muitos vigiam, mas para passar a noite na maldade. Devemos vigiar com a alma antes da morte do corpo. A palavra é para todos: ninguém está dispensado.",
+    "anagogico": "O senhor da casa voltará, e feliz o servo que Ele encontrar acordado e trabalhando. A vigilância desta noite que é a vida terrena desemboca na manhã eterna, quando o Senhor voltar e nos introduzir na sua alegria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estai de sobreaviso, vigiai, porque não sabeis quando será o momento. É como um homem que, partindo de viagem, deixou a sua casa, deu autoridade aos servos, a cada um a sua tarefa, e mandou o porteiro vigiar. Vigiai, pois, porque não sabeis quando virá o senhor da casa: à tarde, à meia-noite, ao cantar do galo ou de manhã, para que, chegando de repente, não vos encontre dormindo. O que vos digo, digo a todos: Vigiai!”",
+    "meditatio_perguntas": [
+      "Que tarefa o Senhor me confiou na sua casa, e como a estou cumprindo?",
+      "Em que área da minha vida estou “dormindo” espiritualmente?",
+      "Se o Senhor viesse hoje, como me encontraria?"
+    ],
+    "oratio_guia": "Senhor Jesus, que confiaste a mim uma parte da tua casa, mantém-me desperto e fiel. Livra-me do sono do pecado e da tibieza. Que, quando vieres, à tarde, à meia-noite ou de manhã, me encontres vigiando no teu amor. Amém.",
+    "contemplatio_foco": { "texto": "O que eu, pois, digo a vós, o digo a todos: Vigiai!", "ref": "Mc 13,37" }
+  },
+  "ancoras": {
+    "13:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:32–37#2", "sintese": "Devemos vigiar com a alma antes da morte do corpo." },
+        { "autor": "Teofilato", "obra": null, "catena": "13:32–37#3", "sintese": "Ensina duas coisas, vigiar e orar; pois muitos de nós vigiamos, mas apenas para passar a noite na maldade." }
+      ],
+      "nota": null
+    },
+    "13:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "13:32–37#4", "sintese": "O homem que partiu é Cristo, que, subindo vencedor ao Pai, deixou a Igreja quanto à presença corporal, sem jamais privá-la da presença divina." },
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. 9", "catena": "13:32–37#5", "sintese": "A carne, cujo lugar próprio é a terra, foi como que levada a uma região estrangeira quando o Redentor a colocou no céu." }
+      ],
+      "nota": null
+    },
+    "13:35": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "As quatro vigílias romanas da noite (tarde, meia-noite, canto do galo, manhã) correspondem aos momentos da Paixão em Mc 14-15.", "origem": "ia" }
+    },
+    "13:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "13:32–37#6", "sintese": "Quem dorme aplica a mente a fantasias e, ao acordar, não possui o que viu; assim acontece com os que o amor deste mundo seduz." }
+      ],
+      "nota": null
+    },
+    "13:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Epist. 199, 3", "catena": "13:32–37#9", "sintese": "Não fala só aos que o ouviam, mas a todos os que vieram depois, a nós e a todos os que virão até a sua última vinda." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

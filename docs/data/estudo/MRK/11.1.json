@@ -1,0 +1,82 @@
+{
+  "id": "MRK.11.1",
+  "livro": "MRK",
+  "titulo": "A entrada messiânica em Jerusalém",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 11,1-11",
+  "ini": { "c": 11, "v": 1 },
+  "fim": { "c": 11, "v": 11 },
+  "liturgia": { "tema_central": "“Bendito o que vem em nome do Senhor!”: o Rei humilde entra na sua cidade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Perto do monte das Oliveiras, de onde se esperava a vinda do Senhor (Zc 14,4), Jesus envia dois discípulos buscar um jumentinho nunca montado, como os animais reservados a usos sagrados (Nm 19,2). Montar num jumento cumpre Zc 9,9: o rei vem humilde, não num cavalo de guerra. O povo estende mantos, como na aclamação do rei Jeú (2Rs 9,13), e ramos pelo caminho. Gritam “Hosana” (em hebraico, “salva, por favor”) e as palavras do Sl 118,25-26, cantado nas festas de peregrinação, e aclamam o reino de David que vem. Jesus entra no Templo, observa tudo e, sendo tarde, volta para Betânia.",
+    "alegorico": "O jumentinho indomado, sobre o qual ninguém montara, figura o povo dos gentios, ainda sem a lei de Deus, que é desamarrado pelos apóstolos através da fé e do Batismo e sobre o qual Cristo passa a reinar. Os mantos estendidos são as vestes do Batismo, e também a carne dos mártires, que com o seu sangue preparam o caminho. Os que vão à frente e os que seguem atrás são os justos do Antigo e do Novo Testamento, que aclamam o mesmo Mediador.",
+    "moral": "Jesus, que antes fugira dos que queriam fazê-lo rei, agora aceita a aclamação, porque vem reinar pela Cruz. O seu reinado é de humildade e de paz. Cobrimos o caminho com ramos quando imitamos as virtudes dos santos. Mas a mesma multidão que aclama poderá gritar “Crucifica-o”: a nossa fidelidade deve ser constante, e o fim da vida deve corresponder ao bom começo.",
+    "anagogico": "A entrada em Jerusalém prefigura a entrada gloriosa de Cristo na Jerusalém celeste, à frente dos redimidos. O “Hosana nas alturas” une o louvor da terra ao do céu e ressoa em cada Missa no Sanctus, antes de o Senhor vir sobre o altar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Perto de Jerusalém, junto ao monte das Oliveiras, Jesus envia dois discípulos buscar um jumentinho em que ninguém montou: “Se perguntarem, dizei: o Senhor precisa dele”. Eles o trazem, põem sobre ele os mantos, e Jesus monta. Muitos estendem os mantos pelo caminho, outros ramos cortados dos campos. Os que vão à frente e os que seguem gritam: “Hosana! Bendito o que vem em nome do Senhor! Bendito o reino de nosso pai David!” Jesus entra no Templo, observa tudo e volta para Betânia com os Doze.",
+    "meditatio_perguntas": [
+      "Deixo Jesus “montar” e reinar na minha vida, como no jumentinho?",
+      "O meu louvor a Jesus é constante, ou muda conforme as circunstâncias?",
+      "De que “amarras” o Senhor quer me soltar, porque “tem necessidade” de mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei humilde e manso, entra na minha vida e reina nela. Solta-me do que me prende e faz de mim o teu jumentinho para levar-te aos outros. Que o meu “Hosana” seja fiel até a cruz. Bendito o que vem em nome do Senhor! Amém.",
+    "contemplatio_foco": { "texto": "Hosana! Bendito o que vem em nome do Senhor!", "ref": "Mc 11,9" }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "11:1–10#0", "sintese": "Com a cruz já às portas, faz com mais publicidade aquilo que havia de excitá-los contra Ele." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#15", "sintese": "Betânia significa casa da obediência; fica junto ao monte das Oliveiras porque nutre os obedientes com a unção do Espírito." }
+      ],
+      "nota": null
+    },
+    "11:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#18", "sintese": "O jumentinho indômito designa o povo das nações, sobre o qual nenhum doutor ainda impusera o freio da doutrina." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "11:1–10#19", "sintese": "Estava amarrado junto à porta, do lado de fora, porque o povo gentio estava preso pela corrente dos pecados diante da porta da fé." }
+      ],
+      "nota": { "texto": "Zc 9,9: “Eis que o teu rei vem a ti, justo e salvador, humilde, montado num jumento”. Mateus e João citam explicitamente a profecia.", "origem": "ia" }
+    },
+    "11:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "11:1–10#27", "sintese": "Põem sobre ele as suas vestes, isto é, pelo Batismo dão-lhes a primeira veste da imortalidade; e Jesus montou nele, isto é, começou a reinar neles." }
+      ],
+      "nota": null
+    },
+    "11:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#28", "sintese": "Estendem as vestes os mártires, que se despojam da própria carne e preparam com o sangue o caminho para os servos mais simples." },
+        { "autor": "Teofilato", "obra": null, "catena": "11:1–10#29", "sintese": "Cubramos o caminho da nossa vida com ramos das árvores santas, imitando as virtudes dos santos." }
+      ],
+      "nota": null
+    },
+    "11:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#7", "sintese": "Hosana é palavra hebraica composta: hosi, “salvar”, e anna, interjeição de súplica." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#31", "sintese": "Os que iam à frente e os que seguiam figuram os eleitos da Judeia e os da Igreja, que creram e creem no mesmo Mediador." }
+      ],
+      "nota": { "texto": "As aclamações vêm do Sl 118,25-26, salmo cantado pelos peregrinos nas grandes festas. A liturgia as conserva no Sanctus da Missa.", "origem": "ia" }
+    },
+    "11:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:1–10#12", "sintese": "Antes fugira para que não o fizessem rei; agora, vindo para padecer, não foge dos que o chamam rei, para ensinar que o seu Reino é eterno." }
+      ],
+      "nota": null
+    },
+    "11:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "11:11–14#3", "sintese": "Examina o coração de todos e, não encontrando nos que se opunham à verdade lugar para reclinar a cabeça, retira-se para junto dos fiéis." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

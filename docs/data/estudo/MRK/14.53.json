@@ -1,0 +1,82 @@
+{
+  "id": "MRK.14.53",
+  "livro": "MRK",
+  "titulo": "Jesus diante do Sinédrio",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,53-65",
+  "ini": { "c": 14, "v": 53 },
+  "fim": { "c": 14, "v": 65 },
+  "liturgia": { "tema_central": "“Eu o sou”: Jesus confessa ser o Cristo, o Filho de Deus, e é condenado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus é levado ao sumo sacerdote (Caifás), onde se reúne o Sinédrio. Pedro o segue de longe e se aquece ao fogo com os criados. Buscam testemunhos para condená-lo, mas as falsas testemunhas não concordam, nem mesmo sobre a frase acerca da destruição do Templo. Jesus se cala. Então o sumo sacerdote pergunta diretamente: “És tu o Cristo, o Filho do Bendito?” Jesus responde: “Eu o sou”, e une o Sl 110,1 a Dn 7,13: verão o Filho do Homem sentado à direita do Poder e vindo sobre as nuvens. O sumo sacerdote rasga as vestes, acusa-o de blasfêmia, e todos o condenam à morte. Cospem nele, vendam-no, esbofeteiam-no: “Profetiza!”",
+    "alegorico": "Aqui se desvela o “segredo messiânico” de Marcos: só diante do tribunal, no momento da humilhação, Jesus declara abertamente quem é, com o “Eu sou” que evoca o nome divino (Ex 3,14). O Templo que Ele reconstruirá em três dias é o seu Corpo ressuscitado. Ao rasgar as vestes, o sumo sacerdote figura, sem o saber, o fim do sacerdócio antigo, substituído pelo de Cristo.",
+    "moral": "Pedro segue “de longe”: quem se afasta de Cristo está a um passo de negá-lo. O silêncio de Jesus diante da mentira ensina a mansidão e a confiança em Deus quando somos caluniados. Ele fala, porém, quando é preciso confessar a verdade. Os ultrajes que sofre (cusparadas, bofetadas, zombaria) são o preço do nosso pecado: foi tido por culpado para nos absolver da nossa culpa.",
+    "anagogico": "O condenado será o Juiz: os que hoje o julgam o verão sentado à direita de Deus e vindo sobre as nuvens. A humilhação da Cruz é o caminho da glória da Parusia. Para o cristão, é a certeza de que a verdade, hoje condenada, prevalecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levam Jesus ao sumo sacerdote, e reúne-se todo o Sinédrio. Pedro o segue de longe até o pátio e se aquece ao fogo. Muitos dão falso testemunho, mas os depoimentos não concordam. Jesus permanece em silêncio. O sumo sacerdote lhe pergunta: “És tu o Cristo, o Filho de Deus bendito?” Jesus responde: “Eu o sou, e vereis o Filho do Homem sentado à direita do Poder de Deus e vindo sobre as nuvens do céu”. O sumo sacerdote rasga as vestes: “Ouvistes a blasfêmia!” Todos o condenam à morte. Cospem nele, vendam-lhe o rosto e o esbofeteiam.",
+    "meditatio_perguntas": [
+      "Sigo Jesus de perto ou “de longe”, como Pedro naquela noite?",
+      "Sei calar diante da calúnia e falar quando é preciso confessar a fé?",
+      "Contemplo os ultrajes sofridos por Jesus como preço do meu pecado?"
+    ],
+    "oratio_guia": "Senhor Jesus, Cristo e Filho de Deus bendito, que te calaste diante da mentira e confessaste a verdade, dá-me a tua mansidão e a tua coragem. Que eu não te siga de longe. Eu te adoro, humilhado por mim e glorioso à direita do Pai. Amém.",
+    "contemplatio_foco": { "texto": "Eu o sou.", "ref": "Mc 14,62" }
+  },
+  "ancoras": {
+    "14:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:53–59#1", "sintese": "É o sumo sacerdote Caifás, que, segundo Josefo, comprou o sacerdócio ao imperador romano." }
+      ],
+      "nota": null
+    },
+    "14:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:53–59#3", "sintese": "Com razão segue de longe quem estava para negá-lo: não o teria negado se tivesse permanecido perto." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:53–59#4", "sintese": "O pátio do sumo sacerdote é o recinto do mundo; os guardas são os demônios, e quem fica com eles não pode chorar os pecados." }
+      ],
+      "nota": null
+    },
+    "14:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:53–59#8", "sintese": "O Senhor não disse “destruirei”, mas “destruí”; nem disse “feito por mãos humanas”, mas “este templo”." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:53–59#9", "sintese": "Falava de um templo vivo e animado; é falsa testemunha quem entende as palavras num sentido diferente do que foram ditas." }
+      ],
+      "nota": null
+    },
+    "14:61": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:60–65#1", "sintese": "O nosso Deus e Salvador é levado como ovelha ao matadouro, sem clamar, e cala-se." }
+      ],
+      "nota": null
+    },
+    "14:62": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. III, 6", "catena": "14:60–65#5", "sintese": "Mateus traz “Tu o disseste”; Marcos mostra que essas palavras equivalem a “Eu sou”." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:60–65#7", "sintese": "Se desprezas a humilhação e a cruz de Cristo, vê como por elas Ele há de vir sentado à direita do Poder." }
+      ],
+      "nota": { "texto": "Jesus une o Sl 110,1 (“senta-te à minha direita”) e Dn 7,13 (“vindo sobre as nuvens”). É a declaração messiânica mais explícita de Marcos.", "origem": "ia" }
+    },
+    "14:63": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Leão Magno", "obra": "Serm. de Pass. 5", "catena": "14:60–65#9", "sintese": "Caifás, sem saber o que significava o seu gesto, rasgou as vestes e privou-se da honra do sacerdócio." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:60–65#12", "sintese": "O sacerdócio judaico haveria de ser rasgado a partir do momento em que condenaram Cristo à morte." }
+      ],
+      "nota": null
+    },
+    "14:64": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:60–65#13", "sintese": "Condenaram-no como réu para que, sendo tido por culpado, nos absolvesse da nossa culpa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

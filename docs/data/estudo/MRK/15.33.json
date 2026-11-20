@@ -1,0 +1,81 @@
+{
+  "id": "MRK.15.33",
+  "livro": "MRK",
+  "titulo": "A morte de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 15,33-41",
+  "ini": { "c": 15, "v": 33 },
+  "fim": { "c": 15, "v": 41 },
+  "liturgia": { "tema_central": "“Verdadeiramente este homem era Filho de Deus”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Do meio-dia às três da tarde, trevas cobrem a terra (cf. Am 8,9). Na hora nona, Jesus grita em aramaico o início do Sl 22: “Eloí, Eloí, lamá sabactâni?”, “Meu Deus, meu Deus, por que me abandonaste?”. Alguns entendem que chama Elias; um lhe oferece vinagre. Jesus, dando um grande brado, expira. O véu do Templo, que separava o Santo dos Santos, rasga-se de alto a baixo. O centurião romano, vendo-o morrer assim, confessa: “Verdadeiramente este homem era Filho de Deus”, a confissão que fecha o arco aberto em Mc 1,1. De longe, olham as mulheres que o seguiam desde a Galileia: Maria Madalena, Maria, mãe de Tiago Menor e de José, e Salomé.",
+    "alegorico": "O grito do Sl 22 não é desespero: é a oração do Justo sofredor, que começa em abandono e termina em louvor e anúncio a todas as nações. Cristo assume em si o abandono do homem pecador. O véu rasgado “de alto a baixo”, por obra de Deus, abre o acesso ao Pai: o céu é aberto, e o culto antigo dá lugar ao sacrifício definitivo. A confissão do centurião, um pagão, antecipa a fé dos povos.",
+    "moral": "Jesus nos ensina a rezar até no abandono, com as palavras da Escritura. A morte do Senhor não é derrota: Ele, que governa a morte, morre com poder, entregando o espírito. O centurião mostra que é contemplando a Cruz que se chega à fé. As mulheres fiéis, que permanecem quando os discípulos fogem, ensinam a perseverança do amor.",
+    "anagogico": "Pela morte de Cristo, o caminho para o Santuário celeste está aberto (Hb 10,19-20). As trevas da sexta hora preparam a luz da manhã de Páscoa. A confissão do centurião prefigura o dia em que todo joelho se dobrará e toda língua confessará que Jesus Cristo é o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Na hora sexta, trevas cobrem toda a terra até a hora nona. Na hora nona, Jesus clama em alta voz: “Eloí, Eloí, lamá sabactâni?”, isto é: “Meu Deus, meu Deus, por que me abandonaste?” Alguns dizem: “Chama por Elias”. Um corre, embebe uma esponja em vinagre e lhe dá de beber. Jesus, dando um grande brado, expira. O véu do Templo se rasga de alto a baixo. O centurião, vendo-o expirar assim, diz: “Verdadeiramente este homem era Filho de Deus”. Algumas mulheres olhavam de longe: Maria Madalena, Maria, mãe de Tiago e de José, e Salomé, que o seguiam desde a Galileia.",
+    "meditatio_perguntas": [
+      "Nos meus momentos de abandono, sei rezar com as palavras de Jesus e dos Salmos?",
+      "Diante da Cruz, posso dizer com o centurião: “Verdadeiramente este é o Filho de Deus”?",
+      "Permaneço junto de Jesus nas horas difíceis, como as mulheres?"
+    ],
+    "oratio_guia": "Senhor Jesus, que no abandono da Cruz rezaste ao Pai e entregaste o teu espírito, eu te adoro e confesso: verdadeiramente és o Filho de Deus. Abre-me o caminho do Pai pelo véu rasgado do teu Corpo. Faz-me permanecer contigo até o fim. Amém.",
+    "contemplatio_foco": { "texto": "Verdadeiramente este homem era Filho de Deus.", "ref": "Mc 15,39" }
+  },
+  "ancoras": {
+    "15:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:33–37#0", "sintese": "O sol retirou os seus raios para não ver o Senhor pendente da cruz e para que os blasfemos não gozassem da sua luz." },
+        { "autor": "Teofilato", "obra": null, "catena": "15:33–37#2", "sintese": "Não era tempo de eclipse: era o décimo quarto dia da lua, quando não pode haver eclipse do sol." }
+      ],
+      "nota": null
+    },
+    "15:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:33–37#5", "sintese": "Diz isso como homem, falando em nosso lugar: nós é que fomos abandonados pelo Pai; Ele nunca o foi." }
+      ],
+      "nota": { "texto": "É o primeiro verso do Sl 22 (Vulgata 21), salmo do justo perseguido que termina em confiança e louvor. Recitar o início evocava o salmo inteiro.", "origem": "ia" }
+    },
+    "15:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:33–37#6", "sintese": "Eram talvez soldados romanos que, não entendendo o hebraico, ao ouvir “Eloí” pensaram que chamava Elias." }
+      ],
+      "nota": null
+    },
+    "15:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:33–37#10", "sintese": "Aquele que governa a morte morre com poder, como seu Senhor; o grito, diz Lucas, foi: “Pai, em tuas mãos entrego o meu espírito”." }
+      ],
+      "nota": null
+    },
+    "15:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:38–41#1", "sintese": "O véu do templo é rasgado, isto é, o céu é aberto." },
+        { "autor": "Teofilato", "obra": null, "catena": "15:38–41#2", "sintese": "Deus deu a entender que a graça do Espírito Santo se afasta do templo, e o Santo dos Santos se torna visível a todos." }
+      ],
+      "nota": null
+    },
+    "15:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:38–41#3", "sintese": "O centurião admirou-se ao ver que o Senhor morria entregando Ele mesmo o espírito." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:38–41#5", "sintese": "Os últimos são agora os primeiros: o povo gentio confessa." }
+      ],
+      "nota": { "texto": "A confissão do centurião retoma o título de Mc 1,1 (“Filho de Deus”). É a primeira vez em Marcos que um ser humano o proclama.", "origem": "ia" }
+    },
+    "15:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:38–41#6", "sintese": "A ordem se inverte: o judeu mata e o gentio confessa; os discípulos fogem e as mulheres permanecem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

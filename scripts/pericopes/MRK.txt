@@ -1,0 +1,85 @@
+# Divisão de Marcos em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Prólogo
+1:1-1:8 | A pregação de João Batista
+1:9-1:11 | O batismo de Jesus
+1:12-1:13 | A tentação no deserto
+## O ministério na Galileia
+1:14-1:15 | Jesus começa a pregar o Evangelho
+1:16-1:20 | O chamado dos primeiros discípulos
+1:21-1:28 | O endemoninhado na sinagoga de Cafarnaum
+1:29-1:34 | A cura da sogra de Pedro e de muitos doentes
+1:35-1:39 | Jesus ora e prega por toda a Galileia
+1:40-1:45 | A cura de um leproso
+2:1-2:12 | A cura do paralítico de Cafarnaum
+2:13-2:17 | O chamado de Levi; Jesus come com os pecadores
+2:18-2:22 | A questão do jejum: vinho novo em odres novos
+2:23-2:28 | As espigas no sábado: o Filho do Homem é senhor do sábado
+3:1-3:6 | O homem da mão seca
+## Jesus, os Doze e as parábolas do Reino
+3:7-3:12 | As multidões seguem Jesus
+3:13-3:19 | A escolha dos Doze
+3:20-3:30 | Jesus e Belzebu: o pecado contra o Espírito Santo
+3:31-3:35 | A verdadeira família de Jesus
+4:1-4:20 | A parábola do semeador
+4:21-4:25 | A lâmpada e a medida
+4:26-4:34 | A semente que cresce sozinha e o grão de mostarda
+4:35-4:40 | Jesus acalma a tempestade
+5:1-5:20 | O endemoninhado de Gerasa
+5:21-5:43 | A filha de Jairo e a mulher com fluxo de sangue
+6:1-6:6 | Jesus rejeitado em Nazaré
+## A missão dos Doze e o pão
+6:7-6:13 | A missão dos Doze
+6:14-6:29 | A morte de João Batista
+6:30-6:34 | O descanso dos apóstolos: ovelhas sem pastor
+6:35-6:44 | A primeira multiplicação dos pães
+6:45-6:56 | Jesus caminha sobre as águas; curas em Genesaré
+7:1-7:23 | As tradições humanas e a verdadeira pureza
+7:24-7:30 | A fé da mulher siro-fenícia
+7:31-7:37 | A cura do surdo-mudo: “Efeta”
+8:1-8:9 | A segunda multiplicação dos pães
+8:10-8:21 | O sinal pedido pelos fariseus e o fermento
+8:22-8:26 | O cego de Betsaida
+## A caminho de Jerusalém
+8:27-8:33 | A profissão de Pedro e o primeiro anúncio da Paixão
+8:34-8:39 | Tomar a cruz e seguir Jesus
+9:1-9:12 | A Transfiguração e a vinda de Elias
+9:13-9:28 | A cura do menino possesso
+9:29-9:36 | O segundo anúncio da Paixão; quem é o maior
+9:37-9:49 | Quem não é contra nós; o escândalo e o fogo
+10:1-10:12 | O matrimônio indissolúvel
+10:13-10:16 | Jesus abençoa as crianças
+10:17-10:31 | O homem rico e a recompensa de quem tudo deixa
+10:32-10:34 | O terceiro anúncio da Paixão
+10:35-10:45 | O pedido de Tiago e João: o Filho do Homem veio para servir
+10:46-10:52 | A cura do cego Bartimeu
+## O ministério em Jerusalém
+11:1-11:11 | A entrada messiânica em Jerusalém
+11:12-11:26 | A figueira estéril e a purificação do Templo
+11:27-11:33 | Com que autoridade fazes estas coisas?
+12:1-12:12 | A parábola dos vinhateiros homicidas
+12:13-12:17 | O tributo a César
+12:18-12:27 | Os saduceus e a ressurreição dos mortos
+12:28-12:34 | O maior mandamento
+12:35-12:37 | O Messias, Filho e Senhor de David
+12:38-12:44 | Os escribas e a oferta da viúva pobre
+13:1-13:13 | A destruição do Templo e o princípio das dores
+13:14-13:23 | A grande tribulação
+13:24-13:32 | A vinda do Filho do Homem; a lição da figueira
+13:33-13:37 | Vigiai!
+## A Paixão e a Morte do Senhor
+14:1-14:11 | A conspiração e a unção em Betânia
+14:12-14:25 | A Ceia pascal e a instituição da Eucaristia
+14:26-14:31 | O anúncio da negação de Pedro
+14:32-14:42 | A agonia no Getsêmani
+14:43-14:52 | A prisão de Jesus
+14:53-14:65 | Jesus diante do Sinédrio
+14:66-14:72 | As negações de Pedro
+15:1-15:15 | Jesus diante de Pilatos
+15:16-15:32 | A coroação de espinhos e a crucifixão
+15:33-15:41 | A morte de Jesus
+15:42-15:47 | A sepultura de Jesus
+## A Ressurreição
+16:1-16:8 | O sepulcro vazio
+16:9-16:14 | As aparições do Ressuscitado
+16:15-16:20 | O envio dos discípulos e a Ascensão

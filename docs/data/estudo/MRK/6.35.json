@@ -1,0 +1,60 @@
+{
+  "id": "MRK.6.35",
+  "livro": "MRK",
+  "titulo": "A primeira multiplicação dos pães",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,35-44",
+  "ini": { "c": 6, "v": 35 },
+  "fim": { "c": 6, "v": 44 },
+  "liturgia": { "tema_central": "“Dai-lhes vós de comer”: Cristo sacia o povo e prefigura a Eucaristia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao entardecer, num lugar deserto, os discípulos querem despedir a multidão. Jesus responde: “Dai-lhes vós de comer”. Duzentos denários equivaliam ao salário de cerca de duzentos dias de trabalho. Com cinco pães e dois peixes, Jesus faz o povo sentar-se em grupos de cem e de cinquenta sobre a “relva verde” (detalhe de testemunha ocular, que situa o fato na primavera, perto da Páscoa). Os gestos são os da Ceia: tomou, ergueu os olhos, abençoou, partiu e deu. Todos se saciam, e sobram doze cestos. Cinco mil homens, sem contar mulheres e crianças.",
+    "alegorico": "O milagre recorda o maná do deserto e o profeta Eliseu, que alimentou cem homens com vinte pães (2Rs 4,42-44); mas Jesus é maior que Moisés e que Eliseu. Os gestos anunciam a Eucaristia, em que Cristo se dá como pão por meio dos apóstolos. Os grupos ordenados figuram as diversas igrejas que formam a única Igreja Católica; os doze cestos, o ministério dos Doze, que distribui o pão a todas as gerações.",
+    "moral": "“Dai-lhes vós de comer”: Jesus não aceita que nos desinteressemos da fome dos outros, mas pede que ofereçamos o pouco que temos, para que Ele o multiplique. Erguer os olhos ao céu antes de partir o pão ensina a buscar em Deus o nosso sustento e a dar graças. O Senhor alimenta primeiro com a Palavra e depois com o pão: a caridade cuida da alma e do corpo. Nada deve ser desperdiçado.",
+    "anagogico": "O pão partido no deserto ao cair da tarde anuncia o banquete do Reino, onde os famintos serão saciados para sempre. O Sol da justiça, que se põe na Cruz, nos dá o pão da vida eterna. A Eucaristia é penhor desse banquete, onde nada faltará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao entardecer, os discípulos pedem a Jesus que despeça a multidão para comprar comida. Ele responde: “Dai-lhes vós de comer”. Eles têm cinco pães e dois peixes. Jesus manda que todos se sentem em grupos sobre a relva verde. Toma os pães e os peixes, ergue os olhos ao céu, abençoa, parte os pães e os dá aos discípulos para distribuírem. Todos comem e ficam saciados, e recolhem doze cestos de sobras. Eram cinco mil homens.",
+    "meditatio_perguntas": [
+      "Que “cinco pães e dois peixes” eu tenho para oferecer a Jesus?",
+      "Diante da fome (material ou espiritual) dos outros, digo “despede-os” ou “eis o que tenho”?",
+      "Participo da Eucaristia consciente de que é Cristo quem me alimenta?"
+    ],
+    "oratio_guia": "Senhor Jesus, pão da vida, eu te ofereço o pouco que tenho. Multiplica-o para a fome dos meus irmãos. Ensina-me a erguer os olhos ao céu, a dar graças e a partilhar. Sacia-me na Eucaristia até o banquete do teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Dai-lhes vós de comer.", "ref": "Mc 6,37" }
+  },
+  "ancoras": {
+    "6:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:35–44#2", "sintese": "Os discípulos crescem no amor e intercedem pelas multidões; o Senhor os põe à prova, para ver se sabiam que o seu poder bastava para alimentá-las." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:35–44#3", "sintese": "Chama os apóstolos a repartir o pão para que dessem testemunho de que não tinham pão, e a grandeza do milagre se tornasse mais conhecida." }
+      ],
+      "nota": { "texto": "O denário era o salário de um dia de trabalho (Mt 20,2): duzentos denários eram quase o ganho de um ano.", "origem": "ia" }
+    },
+    "6:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. XVI, 55", "catena": "6:35–44#12", "sintese": "Os diversos grupos em que se recostam indicam as diversas igrejas que formam a única Igreja Católica." }
+      ],
+      "nota": null
+    },
+    "6:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.; cf. Crisóstomo, Hom. in Matth. 49", "catena": "6:35–44#7", "sintese": "Ergueu os olhos ao céu porque no deserto os judeus duvidaram de que Deus pudesse dar pão; antes do milagre, referiu ao Pai o que ia fazer." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:35–44#8", "sintese": "Ergue os olhos ao céu para nos ensinar a buscar em Deus o nosso alimento, e não no diabo, como os que se alimentam injustamente do trabalho alheio." }
+      ],
+      "nota": { "texto": "A sequência tomar, abençoar, partir e dar é a mesma da Última Ceia (Mc 14,22).", "origem": "ia" }
+    },
+    "6:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:35–44#9", "sintese": "Sacia as multidões ao cair do dia porque, quando o Sol da justiça se pôs, morrendo por nós, fomos livrados de desfalecer de fome espiritual." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "6:35–44#14", "sintese": "Os doze cestos significam o tempo em que os apóstolos se sentarão em tronos para julgar as doze tribos, quando o resto de Israel será salvo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

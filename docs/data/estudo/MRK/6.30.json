@@ -1,0 +1,53 @@
+{
+  "id": "MRK.6.30",
+  "livro": "MRK",
+  "titulo": "O descanso dos apóstolos: ovelhas sem pastor",
+  "secao": "A missão dos Doze e o pão",
+  "referencia": "Mc 6,30-34",
+  "ini": { "c": 6, "v": 30 },
+  "fim": { "c": 6, "v": 34 },
+  "liturgia": { "tema_central": "O Bom Pastor dá descanso aos seus e tem compaixão das ovelhas sem pastor", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os apóstolos (único uso do termo em Marcos) voltam da missão e contam a Jesus o que fizeram e ensinaram. Jesus os convida a um lugar deserto para descansar, pois o movimento era tanto que não tinham tempo nem para comer. A multidão, porém, adivinha o destino e chega antes. Ao desembarcar, Jesus sente compaixão: eram “como ovelhas sem pastor”, expressão do Antigo Testamento (Nm 27,17; Ez 34,5) para o povo sem guia. Antes de lhes dar pão, dá-lhes o ensinamento.",
+    "alegorico": "Jesus é o Pastor messiânico prometido em Ez 34, que reúne e apascenta o rebanho disperso. O “lugar deserto” evoca o Êxodo, onde Deus alimentou o seu povo, e prepara a multiplicação dos pães. Os apóstolos que voltam à fonte, Cristo, figuram a Igreja, que sempre retorna ao seu Senhor para prestar contas e se renovar.",
+    "moral": "Quem é enviado deve voltar com frequência àquele que o enviou e prestar contas do que fez e ensinou. O descanso é necessário: quem trabalha pela palavra merece repouso e não deve trabalhar sem interrupção. Mas a caridade pastoral está acima do próprio descanso: diante da necessidade do povo, Jesus se deixa interromper. A verdadeira compaixão abre o caminho da verdade pelo ensinamento e alivia as dores do corpo.",
+    "anagogico": "Pouco é o descanso dos santos na terra e longo o seu trabalho, mas depois serão convidados a descansar das suas fadigas. O repouso no lugar deserto junto de Jesus é figura do descanso eterno, onde o Pastor conduzirá as ovelhas às fontes da água da vida (Ap 7,17)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os apóstolos voltam a Jesus e contam tudo o que fizeram e ensinaram. Ele lhes diz: “Vinde à parte, a um lugar deserto, e descansai um pouco”, pois eram tantos os que iam e vinham que nem tinham tempo para comer. Partem de barca, mas muitos os veem e chegam antes a pé. Ao desembarcar, Jesus vê a grande multidão e tem compaixão, porque eram como ovelhas sem pastor, e começa a ensinar-lhes muitas coisas.",
+    "meditatio_perguntas": [
+      "Costumo voltar a Jesus para contar-lhe o que vivi e fiz?",
+      "Sei descansar “à parte” com o Senhor, ou vivo só de atividade?",
+      "Quem, ao meu redor, está como ovelha sem pastor, precisando da minha compaixão?"
+    ],
+    "oratio_guia": "Senhor Jesus, Bom Pastor, quero voltar a ti e contar-te tudo. Leva-me à parte e dá-me o teu descanso. E dá-me um coração compassivo como o teu, para cuidar dos que andam sem pastor. Amém.",
+    "contemplatio_foco": { "texto": "Vinde à parte, a um lugar solitário, e descansai um pouco.", "ref": "Mc 6,31" }
+  },
+  "ancoras": {
+    "6:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "6:30–34#1", "sintese": "Voltam à fonte de onde brotam os regatos; os enviados por Deus sempre dão graças pelo que receberam." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:30–34#2", "sintese": "Quando enviados em missão, voltemos com frequência àquele que nos enviou e relatemos o que fizemos e ensinamos." }
+      ],
+      "nota": null
+    },
+    "6:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:30–34#5", "sintese": "Dá descanso aos discípulos para que os que estão à frente aprendam que quem se afadiga na obra ou na palavra merece repouso e não deve trabalhar sem interrupção." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "6:30–34#6", "sintese": "Quão grande a ventura daquele tempo, tanto pelo trabalho dos mestres quanto pela diligência dos discípulos!" }
+      ],
+      "nota": null
+    },
+    "6:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:30–34#7", "sintese": "Os fariseus, lobos vorazes, não apascentavam as ovelhas, mas as devoravam; por isso elas se reuniam em torno do verdadeiro Pastor." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 2, 26", "catena": "6:30–34#8", "sintese": "A verdadeira compaixão com os pobres consiste em abrir-lhes o caminho da verdade pelo ensinamento e aliviar-lhes as dores do corpo." }
+      ],
+      "nota": { "texto": "“Ovelhas sem pastor” retoma Nm 27,17 e Ez 34,5, onde Deus promete Ele mesmo apascentar o seu rebanho.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

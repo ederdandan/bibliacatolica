@@ -1,0 +1,67 @@
+{
+  "id": "MRK.3.1",
+  "livro": "MRK",
+  "titulo": "O homem da mão seca",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 3,1-6",
+  "ini": { "c": 3, "v": 1 },
+  "fim": { "c": 3, "v": 6 },
+  "liturgia": { "tema_central": "Fazer o bem ou o mal, salvar ou tirar a vida: a dureza de coração diante da misericórdia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "É a última das cinco controvérsias da Galileia. Na sinagoga, num sábado, os adversários vigiam Jesus para acusá-lo. Ele põe o homem doente “no meio” e faz uma pergunta que desmonta o legalismo: no sábado é lícito fazer o bem ou o mal, salvar ou matar? O silêncio deles provoca em Jesus ira e tristeza diante da dureza de coração. A cura acontece só pela palavra. Ironicamente, enquanto Jesus salva uma vida no sábado, os fariseus e os herodianos, partidários de Herodes Antipas, tramam no mesmo sábado como tirar a dele. Pela primeira vez, Marcos deixa clara a sombra da Cruz.",
+    "alegorico": "O homem da mão seca representa o gênero humano, estéril para as boas obras desde que o primeiro pai estendeu a mão para o fruto proibido. Essa mão é restaurada pelo Redentor, que estendeu as suas mãos inocentes na árvore da Cruz. A sinagoga onde ele é curado figura a humanidade inteira que Cristo vem restaurar. O complô que se forma anuncia a Paixão, pela qual a cura será dada a todos.",
+    "moral": "A mão seca é figura de quem não pratica o bem: o avarento, que prefere receber a dar, ou quem gastou as mãos em obras proibidas. A ordem “Estende a tua mão” chama à generosidade e à obra boa. A tristeza de Jesus diante da dureza dos corações mostra que a pior doença não é a do corpo, mas a do coração fechado à misericórdia. Omitir o bem que podemos fazer já é escolher o mal.",
+    "anagogico": "A restauração da mão é sinal da restauração final do homem inteiro na ressurreição. As mãos curadas para dar, nesta vida, preparam as mãos que no céu se erguerão só para louvar. E o Senhor do sábado, condenado por fazer o bem, introduzirá no repouso eterno os que estenderam a mão aos necessitados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Num sábado, na sinagoga, está um homem com a mão seca, e os adversários observam Jesus para acusá-lo. Jesus chama o homem para o meio e pergunta se no sábado é lícito fazer o bem ou o mal, salvar ou tirar a vida; eles se calam. Olhando-os com indignação e triste pela dureza dos seus corações, diz ao homem: “Estende a tua mão”, e ela fica curada. Os fariseus saem e tramam com os herodianos como matar Jesus.",
+    "meditatio_perguntas": [
+      "Em que a minha “mão” está seca: no serviço, na generosidade, no perdão?",
+      "Deixo de fazer o bem por medo do que os outros vão pensar ou dizer?",
+      "Há dureza no meu coração que entristece o Senhor?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu me chamas para o meio e me dizes: “Estende a tua mão”. Cura a aridez do meu coração e das minhas mãos, para que eu faça o bem sem medo. Livra-me da dureza que te entristece. Amém.",
+    "contemplatio_foco": { "texto": "Estende a tua mão.", "ref": "Mc 3,5" }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 14", "catena": "3:1–5#1", "sintese": "Observam-no para acusá-lo de transgressão, se curasse, ou de crueldade e impotência, se não curasse." }
+      ],
+      "nota": null
+    },
+    "3:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "3:1–5#2", "sintese": "Colocou-o no meio para que, vendo-o, se comovessem e deixassem de lado a sua malícia." }
+      ],
+      "nota": null
+    },
+    "3:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:1–5#3", "sintese": "Eles pensavam que no sábado se devia descansar até das boas obras, quando a Lei manda abster-se das más, isto é, do trabalho servil." }
+      ],
+      "nota": null
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "3:1–5#5", "sintese": "Olhar com ira e entristecer-se é próprio da humanidade que Ele assumiu por nós; curar só com a palavra prova o seu poder divino." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:1–5#6", "sintese": "A mão do homem, que secou quando o primeiro pai colheu o fruto proibido, é restituída pela graça do Redentor, que estendeu as mãos inocentes na árvore da Cruz." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "3:1–5#7", "sintese": "A mão seca significa o avarento, que prefere receber a dar; a ele se ordena estender a mão: quem roubava, trabalhe para ter o que dar ao necessitado." }
+      ],
+      "nota": null
+    },
+    "3:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 15", "catena": "3:6–12#0", "sintese": "Julgam crime que uma mão tenha sido curada por uma palavra, como se eles mesmos não fizessem coisas maiores no sábado, levando comida e oferecendo bebida." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:6–12#2", "sintese": "Os herodianos eram servos de Herodes, que, pelo ódio do seu senhor a João, perseguiam também o Salvador que João anunciara." }
+      ],
+      "nota": { "texto": "Os herodianos eram partidários de Herodes Antipas, tetrarca da Galileia. Fariseus e herodianos eram adversários entre si, mas se unem contra Jesus.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

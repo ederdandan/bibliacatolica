@@ -1,0 +1,66 @@
+{
+  "id": "MRK.3.13",
+  "livro": "MRK",
+  "titulo": "A escolha dos Doze",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 3,13-19",
+  "ini": { "c": 3, "v": 13 },
+  "fim": { "c": 3, "v": 19 },
+  "liturgia": { "tema_central": "Chamou os que quis: estar com Jesus e ser enviado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No monte, lugar da revelação, Jesus “chamou os que quis”: a iniciativa é toda dele. Constitui os Doze com dupla finalidade: “para que andassem com ele” e “para os enviar a pregar”, com poder sobre os demônios. O número doze recorda as doze tribos: Jesus refunda o povo de Deus. Simão recebe o nome de Pedro, e Tiago e João, o de Boanerges, “filhos do trovão”. A lista termina com Judas Iscariotes, “que o entregou”, lembrando desde já a Paixão.",
+    "alegorico": "Os Doze são os fundamentos do novo Israel, a Igreja, como as doze tribos acampadas em torno do tabernáculo, três de cada lado: assim os apóstolos levarão o Evangelho às quatro partes do mundo, batizando em nome da Trindade. O nome de Pedro vem de “pedra”, e a pedra é Cristo: Pedro participa da firmeza de Cristo para sustentar a Igreja. O monte figura Cristo mesmo, de cuja altura os apóstolos recebem a doutrina que pregarão.",
+    "moral": "A vocação é dom, não conquista: ninguém se faz apóstolo por esforço próprio. Antes de ser enviado, é preciso “estar com Ele”: a oração e a intimidade com Cristo são o fundamento de toda missão. A presença de Judas entre os Doze ensina que Deus não rejeita ninguém por uma maldade futura, mas também adverte que nenhuma eleição dispensa a vigilância e a fidelidade.",
+    "anagogico": "Os nomes dos doze apóstolos estão escritos nos doze alicerces da muralha da Jerusalém celeste (Ap 21,14). Quem é chamado a estar com Jesus nesta vida é chamado a estar com Ele para sempre; a comunhão iniciada no monte da Galileia se consumará na visão eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus sobe ao monte e chama os que quer, e eles vão até ele. Constitui doze para estarem com ele e para enviá-los a pregar, com poder de expulsar demônios. Dá a Simão o nome de Pedro e a Tiago e João o de Boanerges, filhos do trovão. Seguem-se André, Filipe, Bartolomeu, Mateus, Tomé, Tiago de Alfeu, Tadeu, Simão o Cananeu e Judas Iscariotes, que o entregou.",
+    "meditatio_perguntas": [
+      "Reconheço que a minha fé e a minha vocação são dom gratuito, e não mérito meu?",
+      "Dedico tempo simplesmente a “estar com Jesus”, antes de fazer coisas para Ele?",
+      "Rezo pelo Papa, pelos bispos e pelos sacerdotes, sucessores e colaboradores dos apóstolos?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu chamas os que queres, e me chamaste também. Ensina-me a estar contigo antes de qualquer obra, e envia-me depois aonde quiseres. Guarda na fidelidade os pastores da tua Igreja e a mim. Amém.",
+    "contemplatio_foco": { "texto": "Chamou a si os que quis.", "ref": "Mc 3,13" }
+  },
+  "ancoras": {
+    "3:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:13–19#3", "sintese": "Foram chamados ao apostolado não por escolha e empenho deles, mas por condescendência e graça divina; o monte indica a elevada justiça que deviam aprender e pregar." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "3:13–19#2", "sintese": "Ensina aos pastores da Igreja a passar a noite em oração antes de conferir as ordens sagradas, para que o ministério não se frustre." }
+      ],
+      "nota": null
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:13–19#5", "sintese": "Como as doze tribos acampavam três de cada lado do tabernáculo, os apóstolos foram enviados em quatro grupos de três às quatro partes do mundo, para batizar em nome da Trindade." }
+      ],
+      "nota": null
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 17", "catena": "3:13–19#7", "sintese": "Simão não recebeu o nome só agora: João narra que já lhe fora dito “Tu te chamarás Cefas”. Marcos apenas recorda o fato ao listar os apóstolos." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:13–19#8", "sintese": "Pedro e Cefas derivam de “pedra”, e a pedra é Cristo (1Cor 10,4): a mudança de nome transmite um mistério." }
+      ],
+      "nota": null
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "3:13–19#12", "sintese": "Chama os filhos de Zebedeu de “filhos do trovão” porque haveriam de difundir pelo mundo os decretos poderosos e gloriosos da divindade." }
+      ],
+      "nota": { "texto": "“Boanerges” transcreve uma expressão aramaica. O temperamento dos dois irmãos aparece em Lc 9,54, quando querem fazer descer fogo do céu.", "origem": "ia" }
+    },
+    "3:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:13–19#17", "sintese": "Judas é contado entre os apóstolos para aprendermos que Deus não rejeita ninguém por uma maldade futura, mas o julga pela virtude presente." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

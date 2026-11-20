@@ -1,0 +1,68 @@
+{
+  "id": "MRK.9.29",
+  "livro": "MRK",
+  "titulo": "O segundo anúncio da Paixão; quem é o maior",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 9,29-36",
+  "ini": { "c": 9, "v": 29 },
+  "fim": { "c": 9, "v": 36 },
+  "liturgia": { "tema_central": "Quem quer ser o primeiro seja o servo de todos; acolher os pequenos é acolher Cristo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Atravessando a Galileia em segredo, Jesus repete o anúncio da Paixão: o Filho do Homem “vai ser entregue” (o mesmo verbo usado para a traição de Judas e para a entrega pelo Pai) e ressuscitará. Os discípulos não entendem e têm medo de perguntar. Em casa, em Cafarnaum, Jesus pergunta sobre o que discutiam: tinham discutido quem era o maior. Jesus se senta, como mestre, e ensina: o primeiro deve ser o último e o servo de todos. Põe uma criança no meio, abraça-a e diz que acolhê-la em seu nome é acolhê-lo, e acolher o Pai que o enviou. Na sociedade antiga, a criança não tinha status.",
+    "alegorico": "Cristo, que se entrega à morte, é Ele mesmo o “servo de todos” (cf. Mc 10,45; Is 53). A criança abraçada representa os pequenos e os pobres em quem Cristo se identifica, e também os humildes de coração, nos quais habitam o Pai, o Filho e o Espírito Santo. O contraste entre o anúncio da Cruz e a disputa por honras mostra a distância entre o pensamento de Deus e o dos homens.",
+    "moral": "Jesus não condena o desejo de grandeza, mas indica o caminho: o serviço. A verdadeira honra se alcança pela humildade, não pela usurpação dos primeiros lugares. Os que desejam ser grandes devem acolher os pobres de Cristo e tornar-se como crianças na ausência de malícia, inveja e vaidade. A ambição nos cega para o sofrimento de Cristo e dos irmãos.",
+    "anagogico": "As alegrias vêm depois das lutas: a Ressurreição segue a Paixão. No Reino, os últimos serão os primeiros, e os que serviram reinarão. Quem acolhe Cristo nos pequenos será acolhido por Ele na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Atravessando a Galileia, Jesus ensina aos discípulos que o Filho do Homem será entregue nas mãos dos homens, que o matarão, e ressuscitará ao terceiro dia. Eles não compreendem e têm medo de perguntar. Em Cafarnaum, Jesus pergunta o que discutiam pelo caminho; eles se calam, pois discutiam quem era o maior. Jesus se senta, chama os Doze e diz: “Se alguém quer ser o primeiro, seja o último de todos e o servo de todos”. Abraça uma criança e diz que quem a recebe em seu nome o recebe.",
+    "meditatio_perguntas": [
+      "Sobre o que eu “discuto pelo caminho”: o serviço ou o meu próprio prestígio?",
+      "Onde posso ser hoje “o servo de todos” de modo concreto?",
+      "Quem são os “pequenos” que Jesus me pede para acolher em seu nome?"
+    ],
+    "oratio_guia": "Senhor Jesus, servo de todos, livra-me da ambição de ser maior que os outros. Ensina-me a servir sem buscar recompensa e a acolher os pequenos como se fosses tu mesmo. Dá-me um coração simples como o de uma criança. Amém.",
+    "contemplatio_foco": { "texto": "Se alguém quer ser o primeiro, será o último de todos e o servo de todos.", "ref": "Mc 9,34" }
+  },
+  "ancoras": {
+    "9:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 3, 39", "catena": "9:30–37#1", "sintese": "Mistura as coisas tristes com as alegres, para que a tristeza não aterrorizasse os apóstolos, mas fosse suportada com ânimo preparado." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:30–37#2", "sintese": "Depois do triste acrescenta a ressurreição, para aprendermos que as alegrias vêm depois das lutas." }
+      ],
+      "nota": null
+    },
+    "9:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:30–37#3", "sintese": "A ignorância dos discípulos vem menos da lentidão de inteligência que do amor ao Salvador: não podiam crer que aquele a quem reconheceram como Deus havia de morrer." }
+      ],
+      "nota": null
+    },
+    "9:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:30–37#7", "sintese": "A disputa parece ter surgido porque Pedro, Tiago e João foram levados à parte ao monte, e porque as chaves foram prometidas a Pedro." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "9:30–37#6", "sintese": "Discutem o primeiro lugar pelo caminho: a posição elevada só se alcança para ser deixada, e enquanto se a ocupa, é escorregadia." }
+      ],
+      "nota": null
+    },
+    "9:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:30–37#8", "sintese": "Os discípulos disputavam pelo caminho o primeiro lugar, e Cristo se sentou para ensinar a humildade: os grandes se afadigam, os humildes repousam." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:30–37#10", "sintese": "Não quer que usurpemos os primeiros lugares, mas que alcancemos a altura pela humildade." }
+      ],
+      "nota": null
+    },
+    "9:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.; cf. Crisóstomo, Hom. in Matth. 58", "catena": "9:30–37#11", "sintese": "Pela própria visão os persuade à humildade e à simplicidade, pois a criança estava livre de inveja, vanglória e desejo de superioridade." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:30–37#13", "sintese": "Quão grande é a humildade: alcança para si a habitação do Pai, do Filho e do Espírito Santo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

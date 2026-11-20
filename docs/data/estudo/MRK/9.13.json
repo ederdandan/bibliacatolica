@@ -1,0 +1,75 @@
+{
+  "id": "MRK.9.13",
+  "livro": "MRK",
+  "titulo": "A cura do menino possesso",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 9,13-28",
+  "ini": { "c": 9, "v": 13 },
+  "fim": { "c": 9, "v": 28 },
+  "liturgia": { "tema_central": "“Eu creio! Auxilia a minha falta de fé”: tudo é possível a quem crê", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao descer do monte, Jesus encontra os discípulos discutindo com os escribas: não conseguiram libertar um menino possesso de um espírito que o faz cair, espumar e lançar-se no fogo e na água (sintomas semelhantes aos da epilepsia, aqui atribuídos a um espírito). Jesus lamenta a “geração incrédula”. O pai suplica: “Se podes alguma coisa…”. Jesus devolve-lhe a frase: “Se podes!... Tudo é possível ao que crê”. O pai grita: “Eu creio! Auxilia a minha falta de fé”. Jesus expulsa o espírito, toma o menino pela mão e o levanta, gesto que evoca a ressurreição. Aos discípulos, explica que essa espécie só sai pela oração (e pelo jejum, segundo a Vulgata).",
+    "alegorico": "O contraste entre a glória do monte e o sofrimento da planície mostra que Cristo desce da glória para salvar a humanidade atormentada. O menino que parece morto e é levantado pela mão de Jesus é figura da Ressurreição e do Batismo, passagem da morte à vida. Para os Padres, ele representa também os nascidos sob o pecado original, libertados pela graça; o fogo, a ira, e a água, os prazeres da carne.",
+    "moral": "A oração do pai é a oração de todo crente: fé verdadeira e frágil ao mesmo tempo, que pede ajuda para crer mais. Ninguém chega de uma vez ao cume: a fé cresce aos poucos. Quando tentamos voltar a Deus, o inimigo muitas vezes nos ataca com mais força. Os combates mais duros contra o mal se vencem com oração e jejum; até o poder recebido de Deus se enfraquece sem oração.",
+    "anagogico": "“Tomando-o pela mão, levantou-o”: é o gesto com que Cristo nos levantará no último dia. Quem morre para o mundo, vencendo os desejos terrenos, parece morto aos olhos dos homens, mas vive para Deus e ressuscitará na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao voltar, Jesus encontra uma multidão e os escribas discutindo com os discípulos. Um pai conta que trouxe o filho possesso por um espírito mudo, e os discípulos não o puderam expulsar. Jesus lamenta a geração incrédula e manda trazer o menino. O pai pede: “Se podes alguma coisa, ajuda-nos”. Jesus responde: “Tudo é possível ao que crê”. O pai exclama: “Eu creio! Auxilia a minha falta de fé”. Jesus expulsa o espírito e levanta o menino pela mão. Aos discípulos, diz que essa espécie só sai pela oração e pelo jejum.",
+    "meditatio_perguntas": [
+      "Rezo como o pai do menino, reconhecendo a fé e a falta de fé ao mesmo tempo?",
+      "Em que situação digo a Deus “se podes”, em vez de confiar plenamente?",
+      "A oração e o jejum têm lugar real no meu combate contra o mal?"
+    ],
+    "oratio_guia": "Senhor Jesus, eu creio, mas ajuda a minha falta de fé. Tu podes tudo; dá-me confiança para pedir e perseverança para rezar e jejuar. Toma-me pela mão quando o mal me derrubar e levanta-me. Amém.",
+    "contemplatio_foco": { "texto": "Eu creio! Auxilia a minha falta de fé.", "ref": "Mc 9,23" }
+  },
+  "ancoras": {
+    "9:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 3, 38", "catena": "9:14–29#2", "sintese": "Nunca se diz que os escribas mostraram devoção, fé, humildade ou reverência; mas, logo que o Senhor chegou, toda a multidão correu a saudá-lo." }
+      ],
+      "nota": { "texto": "Na Vulgata, a numeração de Mc 9 é uma unidade menor que a das edições modernas: 9,13-28 corresponde a 9,14-29.", "origem": "ia" }
+    },
+    "9:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:14–29#7", "sintese": "Reprova o pecado sem se irritar com a pessoa, e logo acrescenta: trazei-mo." }
+      ],
+      "nota": null
+    },
+    "9:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:14–29#13", "sintese": "A resposta corresponde ao pedido: ele disse “se podes alguma coisa”, e o Senhor respondeu “se podes crer”; ao leproso que disse “se queres”, respondeu “quero”." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "9:14–29#12", "sintese": "“Se podes” é prova da liberdade da vontade; e tudo é possível a quem crê no que pede com lágrimas em nome de Jesus." }
+      ],
+      "nota": null
+    },
+    "9:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:14–29#15", "sintese": "Ninguém chega de uma vez ao ponto mais alto: uma coisa é o início da virtude, outra o seu progresso e outra a sua perfeição." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "9:14–29#16", "sintese": "A nossa fé vacila se não se apoia no auxílio de Deus; mas, pelas lágrimas, alcança o que deseja." }
+      ],
+      "nota": null
+    },
+    "9:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:14–29#25", "sintese": "Quando tentamos voltar a Deus depois do pecado, o antigo inimigo nos ataca com ciladas novas e maiores." },
+        { "autor": "São Gregório Magno", "obra": "Moral. X, 30", "catena": "9:14–29#26", "sintese": "Quem subjugou os desejos terrenos extingue em si o viver carnal e parece morto ao mundo." }
+      ],
+      "nota": null
+    },
+    "9:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:14–29#31", "sintese": "Os ataques mais graves dos espíritos malignos ou dos homens devem ser vencidos com jejuns e orações." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "9:14–29#32", "sintese": "A loucura ligada à moleza da carne cura-se pelo jejum; a ira e a preguiça, pela oração: cada ferida tem o seu remédio." }
+      ],
+      "nota": { "texto": "“E o jejum” está na Vulgata e em muitos manuscritos gregos, mas falta nos mais antigos.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "MRK.12.1",
+  "livro": "MRK",
+  "titulo": "A parábola dos vinhateiros homicidas",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mc 12,1-12",
+  "ini": { "c": 12, "v": 1 },
+  "fim": { "c": 12, "v": 12 },
+  "liturgia": { "tema_central": "O Filho amado, rejeitado e morto, torna-se pedra angular", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A parábola retoma o “cântico da vinha” de Is 5,1-7, em que a vinha é Israel. O dono planta, cerca, cava o lagar, constrói a torre e arrenda a vinha. Os servos enviados para receber os frutos são maltratados e mortos; por fim, envia o “filho amado” (como na voz do Batismo e da Transfiguração), que os vinhateiros matam para ficar com a herança. O dono dará a vinha a outros. Jesus cita o Sl 118,22-23: a pedra rejeitada tornou-se pedra angular. Os chefes entendem que a parábola é contra eles e procuram prendê-lo, mas temem o povo.",
+    "alegorico": "O dono é Deus Pai; a vinha, a casa de Israel; a cerca, a proteção dos anjos ou a Lei; o lagar, o altar; a torre, o Templo; os vinhateiros, os chefes do povo; os servos, os profetas; o filho amado, o Unigênito, morto fora da vinha, isto é, fora de Jerusalém. A vinha é entregue a outros: a Igreja dos povos. A pedra rejeitada é Cristo ressuscitado, pedra angular que une judeus e gentios num só edifício.",
+    "moral": "Deus confia a cada um a sua “vinha”: vida, dons, família, Igreja. E espera frutos, que são a obediência e o amor. A paciência de Deus, que envia servo após servo, mostra a sua misericórdia; mas a recusa obstinada leva ao juízo. A tentação dos vinhateiros é a de toda autoridade: apropriar-se do que pertence a Deus. Os chefes mataram o Filho não por ignorância, mas por inveja.",
+    "anagogico": "A pedra angular rejeitada pelos homens e escolhida por Deus é o fundamento da Jerusalém celeste. A vinha dada a outros são os que vêm do oriente e do ocidente e se sentam à mesa com Abraão, Isaac e Jacó no Reino dos Céus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um homem planta uma vinha, cerca-a, cava um lagar, constrói uma torre, arrenda-a a vinhateiros e parte. No tempo certo, envia servos para receber os frutos, mas os vinhateiros os espancam e matam. Por último, envia o filho amado, pensando: “Respeitarão o meu filho”. Mas eles dizem: “Este é o herdeiro; matemo-lo, e a herança será nossa”. Matam-no e o lançam fora da vinha. O dono virá e dará a vinha a outros. “A pedra que os construtores rejeitaram tornou-se pedra angular.”",
+    "meditatio_perguntas": [
+      "Que “vinha” Deus me confiou, e que frutos estou entregando a Ele?",
+      "Comporto-me como dono do que é de Deus (tempo, dons, bens)?",
+      "Cristo é realmente a pedra angular sobre a qual construo a minha vida?"
+    ],
+    "oratio_guia": "Pai, que nos enviaste o teu Filho amado, perdoa-me as vezes em que rejeitei os teus mensageiros. Faz de mim um vinhateiro fiel, que te entrega os frutos no tempo certo. Que Cristo, pedra angular, seja o fundamento da minha vida. Amém.",
+    "contemplatio_foco": { "texto": "A pedra que fora rejeitada pelos que edificavam tornou-se cabeça do ângulo.", "ref": "Mc 12,10" }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:1–12#1", "sintese": "A vinha é a casa de Israel; a cerca, a proteção dos anjos; o lagar, a lei; a torre, o Templo; os lavradores, os mestres do povo." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:1–12#4", "sintese": "Partiu não por mudança de lugar, mas pareceu afastar-se para deixar os lavradores agir segundo a própria vontade." }
+      ],
+      "nota": { "texto": "A imagem retoma Is 5,1-7: “A vinha do Senhor dos exércitos é a casa de Israel”.", "origem": "ia" }
+    },
+    "12:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:1–12#5", "sintese": "Os servos enviados são os profetas; o fruto da vinha é a obediência." }
+      ],
+      "nota": null
+    },
+    "12:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:1–12#8", "sintese": "O filho amado e último é o Unigênito." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:1–12#9", "sintese": "Não por ignorância: diz-se que Deus duvida para que se deixe ao homem a liberdade da vontade." }
+      ],
+      "nota": null
+    },
+    "12:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "12:1–12#11", "sintese": "Os chefes crucificaram o Filho de Deus não por ignorância, mas por inveja: compreenderam que Ele era o herdeiro." }
+      ],
+      "nota": null
+    },
+    "12:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:1–12#12", "sintese": "Lançaram-no fora da vinha, isto é, fora de Jerusalém, pois o Senhor foi crucificado fora da cidade." }
+      ],
+      "nota": null
+    },
+    "12:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "12:1–12#16", "sintese": "A vinha é dada aos que vêm do oriente e do ocidente e se sentam à mesa com Abraão, Isaac e Jacó no Reino dos Céus." }
+      ],
+      "nota": null
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:1–12#18", "sintese": "A Igreja é o ângulo que une judeus e gentios, e a pedra rejeitada tornou-se a pedra angular." }
+      ],
+      "nota": { "texto": "Citação do Sl 118,22-23, o mesmo salmo das aclamações de Ramos. Pedro o aplica à Ressurreição em At 4,11 e 1Pd 2,7.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

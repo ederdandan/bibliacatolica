@@ -1,0 +1,52 @@
+{
+  "id": "MRK.3.31",
+  "livro": "MRK",
+  "titulo": "A verdadeira família de Jesus",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 3,31-35",
+  "ini": { "c": 3, "v": 31 },
+  "fim": { "c": 3, "v": 35 },
+  "liturgia": { "tema_central": "Quem faz a vontade de Deus é irmão, irmã e mãe de Jesus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A cena conclui o “sanduíche” iniciado em 3,20-21. A mãe e os parentes de Jesus chegam e ficam do lado de fora, mandando chamá-lo. A oposição espacial é intencional: fora estão os parentes; dentro, sentados em círculo ao redor do Mestre, os que o escutam. Jesus olha para eles e define uma nova família, fundada não no sangue, mas no cumprimento da vontade de Deus. Os “irmãos” mencionados são parentes próximos, segundo o uso semítico.",
+    "alegorico": "A nova família reunida em círculo em torno de Jesus é a Igreja, comunidade dos que escutam a Palavra. A mãe e os irmãos que ficam fora figuram, para os Padres, a sinagoga de onde Cristo nasceu segundo a carne, enquanto os gentios entram pressurosos. Maria, porém, é a primeira a cumprir plenamente a vontade de Deus (Lc 1,38): ela é duplamente mãe, pela carne e pela fé, e modelo da Igreja.",
+    "moral": "O vínculo com Cristo é antes do coração que do corpo: devemos honrar mais o parentesco da fé. Ser “família de Jesus” não depende de proximidade exterior, mas de fazer a vontade do Pai. Quem acolhe e prega Cristo torna-se de certo modo “mãe” dele, porque o gera nos corações. A frase não desonra Maria, antes a exalta, pois nela a fé precedeu a maternidade.",
+    "anagogico": "A família reunida em torno de Jesus antecipa a família de Deus no céu, onde todos os que fizeram a vontade do Pai serão coerdeiros com Cristo. Ali os laços de fé se tornarão eternos, e Maria estará à frente dessa multidão de irmãos do seu Filho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A mãe e os irmãos de Jesus chegam e, ficando do lado de fora, mandam chamá-lo. A multidão sentada ao redor lhe diz que eles o procuram. Jesus pergunta: “Quem é minha mãe e quem são meus irmãos?” E, olhando os que estão sentados à sua volta, diz: “Eis minha mãe e meus irmãos. Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe”.",
+    "meditatio_perguntas": [
+      "Estou “dentro”, sentado ao redor de Jesus para escutá-lo, ou ainda fico do lado de fora?",
+      "Em que ponto concreto da minha vida a vontade de Deus me pede algo que hesito em fazer?",
+      "Como Maria, deixo que a Palavra me faça gerar Cristo para os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, quero fazer parte da tua família. Ensina-me a escutar-te e a cumprir a vontade do Pai como Maria, tua mãe e minha mãe. Que a minha vida inteira diga: faça-se em mim segundo a tua palavra. Amém.",
+    "contemplatio_foco": { "texto": "Eis minha mãe e meus irmãos.", "ref": "Mc 3,34" }
+  },
+  "ancoras": {
+    "3:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:31–35#0", "sintese": "Enquanto os parentes vinham agarrá-lo, julgando-o fora de si, sua mãe veio movida pela ternura do seu amor." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "3:31–35#2", "sintese": "Os irmãos do Senhor não são filhos da sempre Virgem Maria, como dizia Helvídio, nem filhos de José de casamento anterior, mas seus parentes." }
+      ],
+      "nota": { "texto": "Em hebraico e aramaico não havia palavra própria para “primo”; “irmão” designava também parentes próximos (cf. Gn 13,8, onde Ló, sobrinho de Abraão, é chamado “irmão”).", "origem": "ia" }
+    },
+    "3:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado; cf. Ambrósio, in Luc. VI, 36", "catena": "3:31–35#4", "sintese": "Não rejeita o serviço solícito da mãe, mas mostra que deve mais aos mistérios do Pai do que aos afetos maternos, e ensina que a religião é antes vínculo do coração que do corpo." }
+      ],
+      "nota": null
+    },
+    "3:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:31–35#5", "sintese": "Devemos honrar mais os parentes pela fé que os pelo sangue. Quem prega Cristo torna-se mãe de Jesus, pois o faz nascer no coração dos ouvintes." },
+        { "autor": "Teofilato", "obra": null, "catena": "3:31–35#7", "sintese": "Não renega a mãe, mas mostra que ela é digna de honra não só por ter dado à luz o Cristo, mas por possuir todas as demais virtudes." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

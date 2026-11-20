@@ -1,0 +1,82 @@
+{
+  "id": "MRK.9.1",
+  "livro": "MRK",
+  "titulo": "A Transfiguração e a vinda de Elias",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 9,1-12",
+  "ini": { "c": 9, "v": 1 },
+  "fim": { "c": 9, "v": 12 },
+  "liturgia": { "tema_central": "“Este é o meu Filho caríssimo, ouvi-o”: a glória que sustenta o caminho da Cruz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Seis dias depois do anúncio da Paixão, Jesus leva Pedro, Tiago e João a um alto monte (a tradição o identifica com o Tabor) e transfigura-se: as suas vestes ficam de uma brancura que nenhum lavadeiro poderia dar. Aparecem Elias e Moisés, os profetas e a Lei. Pedro, assustado, propõe três tendas, evocando a festa das Tendas. Uma nuvem, sinal da presença de Deus como no Sinai, cobre-os, e a voz do Pai repete a do Batismo, acrescentando: “ouvi-o” (cf. Dt 18,15). Na descida, Jesus manda calar até a Ressurreição e explica que Elias já veio: é João Batista, que sofreu como o Filho do Homem sofrerá.",
+    "alegorico": "A Transfiguração revela a divindade escondida na humanidade de Cristo e antecipa a glória da Ressurreição. Moisés e Elias dão testemunho de que a Lei e os Profetas convergem para Ele. Toda a Trindade se manifesta: o Pai na voz, o Filho no homem transfigurado, o Espírito na nuvem luminosa. As vestes resplandecentes figuram os santos, que Cristo une a si e purifica.",
+    "moral": "A glória do Tabor é dada para fortalecer os discípulos diante do escândalo da Cruz. Também nós recebemos momentos de consolação para perseverar nas provações, mas não podemos fazer “tendas” e ficar no monte: é preciso descer e seguir Jesus até Jerusalém. A ordem do Pai resume a vida cristã: escutar o Filho. No fim, “não viram mais ninguém senão Jesus”: Ele basta.",
+    "anagogico": "A Transfiguração é a imagem da nossa glorificação futura: como Ele apareceu aos apóstolos, aparecerá a todos os eleitos depois do Juízo. Se um instante de visão encheu Pedro de tal alegria, quão grande será gozar para sempre da visão de Deus com todos os santos! Na Ressurreição, não seremos protegidos por tendas, mas pela glória do Espírito Santo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Seis dias depois, Jesus leva Pedro, Tiago e João a um alto monte e se transfigura diante deles; as suas vestes ficam resplandecentes. Aparecem Elias e Moisés conversando com Jesus. Pedro propõe fazer três tendas, sem saber o que diz. Uma nuvem os cobre, e uma voz diz: “Este é o meu Filho caríssimo, ouvi-o”. Logo já não veem ninguém, a não ser Jesus. Ao descer, Jesus manda que não contem nada até a Ressurreição e explica que Elias já veio e o maltrataram.",
+    "meditatio_perguntas": [
+      "Que momentos de “Tabor” Deus me deu para sustentar a minha fé?",
+      "Eu realmente “escuto” o Filho, ou só falo a Ele?",
+      "Quero ficar só nas consolações, ou aceito descer do monte e seguir para a Cruz?"
+    ],
+    "oratio_guia": "Senhor Jesus, transfigurado no monte, mostra-me a tua glória para que eu não desanime no caminho da cruz. Dá-me ouvidos para escutar-te, como o Pai ordena. Que no fim eu não veja mais ninguém senão a ti. Amém.",
+    "contemplatio_foco": { "texto": "Este é o meu Filho caríssimo, ouvi-o.", "ref": "Mc 9,6" }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "9:1–8#0", "sintese": "Depois de anunciada a cruz, mostra-se a glória da ressurreição, para que os que a veriam não temessem a ignomínia da cruz." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:1–8#4", "sintese": "Transfiguração não é mudança de feições: permanecendo as mesmas, acrescentou-se-lhes um esplendor inefável." }
+      ],
+      "nota": { "texto": "Na Vulgata e em Matos Soares, a numeração de Mc 9 é uma unidade menor que a das edições modernas (aqui 9,1 = 9,2 moderno).", "origem": "ia" }
+    },
+    "9:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 3, 37", "catena": "9:1–8#6", "sintese": "Não perdeu a substância da verdadeira carne, mas mostrou a glória da sua ressurreição e da nossa: assim aparecerá a todos os eleitos depois do juízo." },
+        { "autor": "São Gregório Magno", "obra": "Moral. XXXII, 6", "catena": "9:1–8#7", "sintese": "Pelas vestes designam-se os justos, que Ele une a si no alto do esplendor celeste." }
+      ],
+      "nota": null
+    },
+    "9:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 56", "catena": "9:1–8#8", "sintese": "Mostra-se com Moisés e Elias para que os discípulos vissem a diferença entre o Senhor e os servos." }
+      ],
+      "nota": null
+    },
+    "9:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:1–8#9", "sintese": "Se um instante de visão da humanidade transfigurada causou tal deleite, quão grande felicidade será gozar para sempre da visão de Deus!" }
+      ],
+      "nota": null
+    },
+    "9:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:1–8#13", "sintese": "Pedro buscava uma tenda material e foi coberto pela nuvem, para aprender que na ressurreição seremos protegidos pela glória do Espírito Santo." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "9:1–8#23", "sintese": "Como no Batismo do Jordão, também no monte se manifesta todo o mistério da Santíssima Trindade." }
+      ],
+      "nota": null
+    },
+    "9:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "9:9–13#2", "sintese": "Manda calar para que não se escandalizassem ao ouvir coisas tão gloriosas daquele que veriam crucificado." }
+      ],
+      "nota": null
+    },
+    "9:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Matth. 57", "catena": "9:9–13#7", "sintese": "Elias virá antes da segunda vinda; e João, que cumpriu o ministério de Elias, foi o precursor da primeira." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:9–13#13", "sintese": "João repreendia os vícios e vivia no deserto como Elias; mas não o ouviram, antes lhe cortaram a cabeça." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,10 +1,11 @@
 // Service worker: app offline.
 // Ao publicar mudanças no app, aumente VERSION. Ao regenerar os dados (docs/data/books), aumente DATA_VERSION.
-const VERSION = '1.2.0';
+const VERSION = '1.3.0';
 const DATA_VERSION = '1';
 const SHELL = `shell-${VERSION}`;
 const DATA = `data-${DATA_VERSION}`;
 const FONTS = 'fonts-1';
+const STUDY = 'estudo-1';
 const FONT_HOSTS = new Set(['fonts.googleapis.com', 'fonts.gstatic.com']);
 
 const SHELL_FILES = [
@@ -18,6 +19,7 @@ const SHELL_FILES = [
   'js/tts.js',
   'js/liturgy.js',
   'js/analytics.js',
+  'js/study.js',
   'manifest.webmanifest',
   'data/index.json',
   'icons/favicon-32.png',
@@ -36,7 +38,7 @@ self.addEventListener('install', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     (async () => {
-      const keep = new Set([SHELL, DATA, FONTS]);
+      const keep = new Set([SHELL, DATA, FONTS, STUDY]);
       for (const k of await caches.keys()) if (!keep.has(k)) await caches.delete(k);
       await self.clients.claim();
     })(),
@@ -81,6 +83,11 @@ self.addEventListener('fetch', (event) => {
 
   if (url.pathname.includes('/data/books/')) {
     event.respondWith(cacheFirst(req, DATA));
+    return;
+  }
+  // Estudo por perícopes: cresce com o tempo, então mostra o que tem e atualiza em segundo plano.
+  if (url.pathname.includes('/data/estudo/')) {
+    event.respondWith(staleWhileRevalidate(req, STUDY));
     return;
   }
   if (req.mode === 'navigate') {

@@ -1,0 +1,67 @@
+{
+  "id": "MRK.10.35",
+  "livro": "MRK",
+  "titulo": "O pedido de Tiago e João: o Filho do Homem veio para servir",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mc 10,35-45",
+  "ini": { "c": 10, "v": 35 },
+  "fim": { "c": 10, "v": 45 },
+  "liturgia": { "tema_central": "O Filho do Homem veio para servir e dar a vida em resgate de muitos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Logo depois do terceiro anúncio da Paixão, Tiago e João pedem os primeiros lugares na glória, à direita e à esquerda de Jesus. Ele responde: “Não sabeis o que pedis”. O “cálice” e o “batismo” são imagens do sofrimento e da morte, em que se é mergulhado. Eles dizem que podem, e Jesus anuncia que de fato partilharão a sua sorte (Tiago será martirizado, At 12,2). Mas os lugares são dados pelo Pai. Os outros dez se indignam. Jesus contrapõe o poder dos chefes das nações ao serviço entre os discípulos e conclui com a frase que resume a sua missão: veio para servir e dar a vida “em resgate” (lytron, o preço da libertação de um escravo) “de muitos”.",
+    "alegorico": "Mc 10,45 é a chave teológica do Evangelho: Jesus é o Servo de Isaías 53, que dá a vida pelos muitos. O cálice é a Paixão e, ao mesmo tempo, o cálice eucarístico da Nova Aliança. O batismo de sangue na Cruz é a fonte do Batismo cristão. Ironicamente, os que estarão à sua direita e à sua esquerda, quando for “glorificado” na Cruz, serão dois ladrões (15,27).",
+    "moral": "A ambição se infiltra até entre os mais próximos de Jesus. Não sabem o que pedem os que buscam a glória sem a cruz, ou um lugar que ainda não merecem. Na Igreja, a autoridade não é domínio, mas serviço: quem quer ser o maior seja servo de todos. A indignação dos dez revela a mesma ambição dos dois. O modelo de todo serviço é Cristo, que serve até dar a vida.",
+    "anagogico": "O lugar na glória é preparado pelo Pai para os que seguiram Cristo no cálice e no batismo. Quem se faz servo nesta vida reinará com Ele. O resgate pago na Cruz abre aos “muitos”, a multidão dos redimidos, a liberdade eterna dos filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tiago e João pedem a Jesus sentar-se um à sua direita e outro à sua esquerda na sua glória. Jesus responde: “Não sabeis o que pedis. Podeis beber o cálice que eu vou beber?” Eles dizem que sim, e Jesus confirma que beberão, mas os lugares são para quem estão preparados. Os dez se indignam. Jesus os chama e diz: entre vós, quem quiser ser o maior seja o vosso servo, porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate de muitos.",
+    "meditatio_perguntas": [
+      "Que “lugares de honra” eu busco, às vezes sem perceber, até na minha vida de fé?",
+      "Estou disposto a beber o cálice de Jesus, aceitando sofrimentos por amor?",
+      "Como exerço a autoridade que tenho (em casa, no trabalho, na Igreja): como domínio ou como serviço?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vieste para servir e dar a tua vida por mim, livra-me da ambição e da inveja. Dá-me a coragem de beber o teu cálice e a alegria de servir. Que eu não busque o primeiro lugar, mas o último, junto de ti. Amém.",
+    "contemplatio_foco": { "texto": "O Filho do homem não veio para ser servido, mas para servir.", "ref": "Mc 10,45" }
+  },
+  "ancoras": {
+    "10:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:35–40#1", "sintese": "Pensavam que Ele subia a Jerusalém para reinar e só depois padecer; por isso desejavam sentar-se à sua direita e à sua esquerda." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 64", "catena": "10:35–40#2", "sintese": "Mateus diz que foi a mãe quem apresentou o pedido; Marcos, resumindo, atribui-o a eles, cujo desejo ela levou ao Senhor." }
+      ],
+      "nota": null
+    },
+    "10:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "no lugar citado", "catena": "10:35–40#7", "sintese": "Vós falais de honras, e eu falo de lutas e fadigas: este não é tempo de recompensas, mas de sangue, de combates e de perigos." },
+        { "autor": "Teofilato", "obra": null, "catena": "10:35–40#8", "sintese": "Por cálice e batismo entende a cruz: cálice, bebida recebida com doçura; batismo, causa da purificação dos nossos pecados." }
+      ],
+      "nota": null
+    },
+    "10:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:35–40#12", "sintese": "Não me cabe concedê-lo a vós, soberbos como ainda sois. Está preparado para outros: sede outros, isto é, humildes, e estará preparado para vós." }
+      ],
+      "nota": null
+    },
+    "10:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:41–45#1", "sintese": "O maior é aquele que se faz menor, e torna-se senhor quem é servo de todos." }
+      ],
+      "nota": null
+    },
+    "10:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:41–45#2", "sintese": "Que pode haver de mais admirável que morrer por aquele a quem se serve? Esse serviço e essa humildade foram a sua glória." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "10:41–45#3", "sintese": "Não disse “de todos”, mas “de muitos”, isto é, dos que haveriam de crer nele." }
+      ],
+      "nota": { "texto": "“Resgate” traduz o grego lytron, o preço pago para libertar um escravo ou prisioneiro. “Muitos” é semitismo que pode significar a multidão, todos (cf. Is 53,11-12).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

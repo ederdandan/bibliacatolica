@@ -1,0 +1,67 @@
+{
+  "id": "MRK.1.29",
+  "livro": "MRK",
+  "titulo": "A cura da sogra de Pedro e de muitos doentes",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 1,29-34",
+  "ini": { "c": 1, "v": 29 },
+  "fim": { "c": 1, "v": 34 },
+  "liturgia": { "tema_central": "Jesus toma pela mão e levanta: a cura que se torna serviço", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O mesmo sábado continua, agora na casa de Simão e André. A sogra de Simão está de cama com febre; os discípulos falam dela a Jesus, que se aproxima, a toma pela mão e a levanta. A febre a deixa e ela começa a servir. Ao pôr do sol, quando terminava o repouso sabático e era permitido carregar doentes, toda a cidade se reúne à porta. Jesus cura muitos e expulsa demônios, mas os impede de falar: Ele não quer ser proclamado Messias antes do tempo, nem por tais testemunhas.",
+    "alegorico": "Depois de calar a serpente na sinagoga, Cristo cura a mulher, assim como a primeira a ser seduzida foi a mulher: é a restauração da humanidade ferida desde a origem. O verbo “levantar” é o mesmo usado para a ressurreição, e a mão estendida prefigura a graça sacramental que nos ergue. O pôr do sol figura a paixão de Cristo: depois dela, mais doentes são curados, porque os dons da fé e da saúde se estendem a todos os povos.",
+    "moral": "A sogra de Pedro, curada, põe-se imediatamente a servir: a graça recebida se torna serviço. A febre é figura das paixões desordenadas, da intemperança e da ira, que a mão de Cristo acalma. A cena ensina também a interceder pelos outros, como os discípulos que “falaram dela” a Jesus. A casa de Pedro, aberta à multidão, é modelo de uma vida cristã acolhedora.",
+    "anagogico": "A cidade inteira reunida à porta antecipa a multidão de todos os povos reunida diante de Cristo. Ser “levantado” pela mão do Senhor é penhor da ressurreição final, quando Ele nos tomará pela mão para a vida eterna, e o serviço da terra se transformará em louvor no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Saindo da sinagoga, Jesus vai à casa de Simão e André. A sogra de Simão está com febre; falam dela a Jesus, que a toma pela mão e a levanta; a febre a deixa e ela os serve. Ao pôr do sol, trazem-lhe todos os doentes e possessos, e a cidade inteira se junta à porta. Jesus cura muitos, expulsa demônios e não os deixa falar.",
+    "meditatio_perguntas": [
+      "Por quem eu tenho “falado a Jesus” na minha oração? Quem precisa da minha intercessão hoje?",
+      "Qual “febre” me prende à cama: desânimo, ira, desejos desordenados?",
+      "Depois de receber graças de Deus, eu as transformo em serviço aos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, aproxima-te de mim como te aproximaste da sogra de Pedro. Toma-me pela mão e levanta-me do que me paralisa. Cura também os que hoje te apresento, e faz que eu, curado por ti, me ponha a servir. Amém.",
+    "contemplatio_foco": { "texto": "Tomando-a pela mão, levantou-a.", "ref": "Mc 1,31" }
+  },
+  "ancoras": {
+    "1:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 7", "catena": "1:29–31#0", "sintese": "Primeiro convinha calar a língua da serpente; depois, curar da febre da concupiscência a mulher, a primeira a ser seduzida." }
+      ],
+      "nota": null
+    },
+    "1:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:29–31#3", "sintese": "O Salvador cura ora a pedido, ora por iniciativa própria: sempre atende às orações dos fiéis que pedem a libertação das más paixões, e até perdoa faltas que eles não percebem." }
+      ],
+      "nota": { "texto": "Pedro era casado, como atesta também São Paulo (1Cor 9,5). As escavações em Cafarnaum identificaram uma casa venerada desde muito cedo como a de Pedro.", "origem": "ia" }
+    },
+    "1:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 6.8", "catena": "1:29–31#5", "sintese": "A saúde dada por ordem do Senhor volta inteira e com tal vigor que ela pode servir àqueles de quem antes precisava." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "1:29–31#6", "sintese": "A febre significa a intemperança, da qual somos curados pela mão da disciplina, e então passamos a servir à vontade daquele que nos cura." },
+        { "autor": "Teofilato", "obra": null, "catena": "1:29–31#7", "sintese": "Também quem se ira tem febre; mas, se a razão lhe contém as mãos, ele se levanta e passa a servir." }
+      ],
+      "nota": null
+    },
+    "1:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:32–34#7", "sintese": "O pôr do sol significa a paixão do Salvador: depois dela foram curados mais doentes do que antes, porque os dons da fé e da saúde passaram a todos os povos." }
+      ],
+      "nota": { "texto": "O sábado terminava ao pôr do sol. Só então era permitido carregar os doentes até Jesus.", "origem": "ia" }
+    },
+    "1:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:32–34#5", "sintese": "Proibia os demônios de falar para nos ensinar a não lhes dar crédito, mesmo quando dizem a verdade: se encontram quem os escute, misturam verdade e mentira." },
+        { "autor": "Pseudo-Agostinho", "obra": "Quaest. Vet. et Nov. Test. XVI", "catena": "1:32–34#3", "sintese": "Os demônios sabiam que Ele era o Cristo prometido, mas ignoravam a sua divindade; se a tivessem conhecido, não teriam crucificado o Senhor da glória." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": "MRK.1.35",
+  "livro": "MRK",
+  "titulo": "Jesus ora e prega por toda a Galileia",
+  "secao": "O ministério na Galileia",
+  "referencia": "Mc 1,35-39",
+  "ini": { "c": 1, "v": 35 },
+  "fim": { "c": 1, "v": 39 },
+  "liturgia": { "tema_central": "Da oração solitária nasce a missão: “para isso é que vim”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois do dia cheio em Cafarnaum, Jesus se levanta de madrugada e vai a um lugar deserto para orar. Marcos menciona a oração de Jesus em momentos decisivos (1,35; 6,46; 14,32-39). Simão e os outros vão “à caça” dele, porque todos o procuram. Jesus, porém, não se deixa reter pelo sucesso: decide ir às aldeias vizinhas, porque veio para pregar. O versículo 39 resume a missão na Galileia: pregação nas sinagogas e expulsão de demônios.",
+    "alegorico": "Se o pôr do sol figura a morte do Salvador, a aurora figura a sua ressurreição. À luz dela, Cristo vai ao “deserto” dos gentios e ali continua a orar na pessoa dos seus discípulos, cujos corações desperta para a oração pelo Espírito Santo. A palavra “para isso é que vim” revela o mistério da Encarnação: o Filho veio ao mundo livremente, enviado pelo Pai, para anunciar a salvação a todos.",
+    "moral": "Jesus não precisava orar como nós, mas o fez para ser nosso modelo: toda ação apostólica nasce do silêncio diante do Pai. Afastar-se depois do sucesso ensina a não fazer nada por ostentação e a atribuir a Deus todo bem. A recusa de ficar onde é aclamado ensina o desapego do aplauso. Unir palavra e obra, como Ele, impede que a pregação seja estéril em quem prega.",
+    "anagogico": "A oração de madrugada antecipa a vigília da Igreja que espera o dia sem ocaso. A missão que não se fecha numa só cidade anuncia o Evangelho que deve chegar a todos os povos antes do fim. A comunhão silenciosa do Filho com o Pai é o que nos espera no céu, onde a oração será contemplação eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muito antes de amanhecer, Jesus sai para um lugar solitário e ora. Simão e os companheiros vão procurá-lo e dizem que todos o procuram. Jesus responde que irá às aldeias vizinhas para pregar também lá, pois para isso veio. E percorre toda a Galileia, pregando nas sinagogas e expulsando demônios.",
+    "meditatio_perguntas": [
+      "Tenho um tempo e um lugar de oração diária, mesmo nos dias mais cheios?",
+      "Quando sou elogiado ou bem-sucedido, procuro reter o aplauso ou devolvo a glória a Deus?",
+      "As minhas obras confirmam o que digo, ou a minha palavra é estéril?"
+    ],
+    "oratio_guia": "Senhor Jesus, que oravas ao Pai no silêncio da madrugada, ensina-me a orar. Tira-me da agitação e da busca de aplauso, e envia-me, a partir da oração, aos que precisam da tua Palavra. Amém.",
+    "contemplatio_foco": { "texto": "Foi a um lugar solitário, e lá fazia oração.", "ref": "Mc 1,35" }
+  },
+  "ancoras": {
+    "1:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:35–39#0", "sintese": "Depois das curas retirou-se à parte, ensinando-nos a não fazer nada por ostentação e a não divulgar o bem que fazemos." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:35–39#1", "sintese": "Não precisava orar, pois era Ele quem recebia as orações dos homens; fazia-o para se tornar nosso modelo das boas obras." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:35–39#8", "sintese": "Se o pôr do sol figura a sua morte, a aurora figura a sua ressurreição: então Ele foi ao deserto dos gentios e ali ora nos seus discípulos, despertados pelo Espírito para a oração." }
+      ],
+      "nota": null
+    },
+    "1:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:35–39#4", "sintese": "Não convinha encerrar a doutrina num só lugar, mas espalhar os seus raios por toda parte." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:35–39#5", "sintese": "Ao dizer “para isso vim”, manifesta o mistério da Encarnação e mostra que veio ao mundo voluntariamente." }
+      ],
+      "nota": null
+    },
+    "1:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "1:35–39#7", "sintese": "Uniu a ação ao ensino. Assim também tu: depois de ensinar, age, para que a tua palavra não seja estéril em ti mesmo." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. II, 19", "catena": "1:35–39#6", "sintese": "Nessa pregação por toda a Galileia entende-se incluído o Sermão da Montanha que Mateus narra e Marcos omite." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

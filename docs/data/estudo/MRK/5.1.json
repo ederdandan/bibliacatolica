@@ -1,0 +1,81 @@
+{
+  "id": "MRK.5.1",
+  "livro": "MRK",
+  "titulo": "O endemoninhado de Gerasa",
+  "secao": "Jesus, os Doze e as parábolas do Reino",
+  "referencia": "Mc 5,1-20",
+  "ini": { "c": 5, "v": 1 },
+  "fim": { "c": 5, "v": 20 },
+  "liturgia": { "tema_central": "Cristo liberta o homem escravizado pelo mal e o envia a anunciar a misericórdia de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na margem oriental do lago, terra pagã da Decápole, Jesus encontra um homem dominado por espíritos impuros. Ele vive entre os túmulos, lugar impuro, quebra as correntes e fere-se com pedras: é a imagem extrema da desumanização. O demônio reconhece Jesus como “Filho de Deus Altíssimo”, título usado por pagãos. O nome “Legião”, a unidade militar romana de cerca de seis mil soldados, indica a multidão dos espíritos. Os porcos, animais impuros para os judeus, precipitam-se no mar. O povo, assustado, pede a Jesus que vá embora; o homem curado, “sentado, vestido e em seu juízo”, é enviado como primeiro anunciador entre os pagãos.",
+    "alegorico": "O endemoninhado figura o povo dos gentios antes de Cristo: sem lei, sem freio, morando nos túmulos das obras mortas. Cristo, que acabara de dominar o mar, agora domina as potências do mal na terra pagã e liberta o homem. O homem curado, sentado aos pés de Jesus e enviado à Decápole, é imagem da Igreja dos gentios, que, liberta, se torna missionária. A vitória sobre a Legião anuncia a vitória da Cruz sobre todo o poder do inimigo.",
+    "moral": "O pecado desfigura o homem: isola-o, fá-lo habitar nas obras mortas e voltar-se contra si mesmo. Cristo restitui a dignidade: sentado, vestido, em seu juízo. Os demônios nada podem sem a permissão divina. Os gerasenos, que preferem os porcos à presença do Senhor, advertem contra quem antepõe interesses materiais à salvação. E o curado aprende que, depois do perdão, é preciso primeiro servir ao Evangelho em casa, entre os seus, antes de repousar em Cristo.",
+    "anagogico": "A derrota da Legião antecipa o dia em que Satanás e os seus anjos serão definitivamente lançados no abismo. O homem libertado, sentado em paz junto de Jesus, é figura da humanidade redimida que, no fim, estará para sempre com o Senhor, livre de todo domínio do mal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Na região dos gerasenos, um homem possesso, que vivia nos túmulos e ninguém conseguia prender, corre e prostra-se diante de Jesus, gritando que não o atormente. Jesus pergunta o seu nome: “Legião, porque somos muitos”. Os espíritos pedem para entrar nos porcos; a manada de uns dois mil precipita-se no mar. O povo encontra o homem sentado, vestido e em seu juízo, e pede a Jesus que se retire. Jesus envia o homem curado a anunciar aos seus o que o Senhor fez por ele.",
+    "meditatio_perguntas": [
+      "Quais “correntes” e “túmulos” ainda me prendem e me afastam da vida?",
+      "Prefiro, às vezes, os meus “porcos” (bens, comodidades) à presença de Jesus?",
+      "A quem Jesus me envia para contar o que Ele fez por mim e como teve misericórdia de mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho do Deus Altíssimo, liberta-me de tudo o que me escraviza e me desfigura. Faz-me sentar aos teus pés, vestido da tua graça e em pleno juízo. E envia-me aos meus para anunciar a tua misericórdia. Amém.",
+    "contemplatio_foco": { "texto": "Anuncia-lhes quão grandes coisas o Senhor te fez, e como teve piedade de ti.", "ref": "Mc 5,19" }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:1–20#26", "sintese": "Gerasa interpreta-se “que expulsa o morador”: o povo dos gentios expulsou do coração o inimigo, e o que estava longe tornou-se próximo." }
+      ],
+      "nota": { "texto": "Os manuscritos variam entre gerasenos, gadarenos e gergesenos. A região, na margem oriental do lago, pertencia à Decápole, confederação de cidades de cultura grega.", "origem": "ia" }
+    },
+    "5:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:1–20#28", "sintese": "Habitava nos túmulos porque se deleitava nas obras mortas, os pecados; estava furioso dia e noite porque, na prosperidade e na adversidade, nunca se via livre dos espíritos malignos." }
+      ],
+      "nota": null
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "5:1–20#6", "sintese": "O diabo está dividido entre o medo e a audácia: mantém-se à distância e suplica, como se dissesse: tu me expulsas dos homens, que são meus?" },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:1–20#7", "sintese": "Quão grande a impiedade de quem dizia que Ele expulsava demônios pelo príncipe dos demônios, quando os próprios demônios confessam que nada têm em comum com Ele!" }
+      ],
+      "nota": null
+    },
+    "5:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "5:1–20#11", "sintese": "O Senhor pergunta não porque precisasse saber, mas para que os outros soubessem que nele habitava uma multidão de demônios." }
+      ],
+      "nota": { "texto": "Uma legião romana contava cerca de seis mil soldados. O nome indica multidão e talvez evoque a ocupação militar romana.", "origem": "ia" }
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": "cf. Catena Aurea sobre Mt 8,31", "catena": "5:1–20#17", "sintese": "Os demônios pediram licença para mostrar que não podem causar dano sem a permissão divina." },
+        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "5:1–20#19", "sintese": "Permitiu que entrassem nos porcos para mostrar o furor que os demônios têm contra os homens, que lhes infligiriam males piores se o poder divino não os impedisse." }
+      ],
+      "nota": null
+    },
+    "5:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "5:1–20#21", "sintese": "Pedem-lhe que se retire, temendo sofrer algo semelhante, ou aflitos com a perda dos porcos, e assim rejeitam a presença do Senhor." }
+      ],
+      "nota": null
+    },
+    "5:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "5:1–20#31", "sintese": "Depois da remissão dos pecados, cada um deve esforçar-se por uma boa consciência e servir ao Evangelho pela salvação dos outros, para depois repousar em Cristo." },
+        { "autor": "São Gregório Magno", "obra": "Moral. VI, 37", "catena": "5:1–20#32", "sintese": "Provado o conhecimento divino, queremos logo o repouso da contemplação; mas o Senhor manda que a mente primeiro se exercite no trabalho e depois se restaure na contemplação." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

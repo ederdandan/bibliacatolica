@@ -1,0 +1,67 @@
+{
+  "id": "MRK.14.26",
+  "livro": "MRK",
+  "titulo": "O anúncio da negação de Pedro",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 14,26-31",
+  "ini": { "c": 14, "v": 26 },
+  "fim": { "c": 14, "v": 31 },
+  "liturgia": { "tema_central": "Ferido o pastor, as ovelhas se dispersam; mas o Ressuscitado irá à frente deles", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de cantar os salmos do Hallel (Sl 113-118), que concluíam a ceia pascal, Jesus vai ao monte das Oliveiras. Anuncia que todos se escandalizarão, citando Zc 13,7: “Ferirei o pastor, e as ovelhas se dispersarão”. Mas logo acrescenta a promessa: depois de ressuscitar, irá adiante deles para a Galileia. Pedro protesta que, mesmo que todos caiam, ele não cairá. Jesus prediz que, nesta mesma noite, antes que o galo cante duas vezes, ele o negará três vezes, um pormenor próprio de Marcos, que talvez venha do próprio Pedro. Pedro insiste que morrerá com Ele, e todos dizem o mesmo.",
+    "alegorico": "Cristo é o Pastor ferido pelo Pai, isto é, entregue segundo o desígnio divino, para reunir as ovelhas dispersas. A promessa da Galileia indica que a Ressurreição reconstitui a comunidade dispersa: o Pastor ressuscitado volta a reunir o rebanho. O galo, arauto do dia, foi lido como figura do Espírito Santo, que nos desperta da negação para a penitência.",
+    "moral": "A confiança em si mesmo é o caminho da queda. Pedro é sincero, mas não conhece a própria fraqueza. Jesus permite que os discípulos caiam para que aprendam a não confiar em si, mas em Deus. Todos caem, mas nem todos permanecem caídos: a queda pode tornar-se caminho de humildade e penitência. O canto do hino antes da Paixão ensina a louvar a Deus mesmo na hora da prova.",
+    "anagogico": "A promessa “irei adiante de vós para a Galileia” é sinal de que nenhuma dispersão é definitiva para quem segue o Pastor. O Ressuscitado vai sempre à frente e reunirá, no fim, o seu rebanho na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Depois de cantarem os salmos, saem para o monte das Oliveiras. Jesus diz: “Todos vos escandalizareis, pois está escrito: Ferirei o pastor e as ovelhas se dispersarão. Mas, depois de ressuscitar, irei adiante de vós para a Galileia”. Pedro diz: “Ainda que todos se escandalizem, eu não”. Jesus lhe responde: “Hoje, nesta noite, antes que o galo cante duas vezes, me negarás três vezes”. Mas Pedro insiste: “Ainda que tenha de morrer contigo, não te negarei”. E todos diziam o mesmo.",
+    "meditatio_perguntas": [
+      "Em que ponto confio mais em mim do que na graça de Deus?",
+      "Conheço as minhas fraquezas, ou me julgo mais forte que os outros?",
+      "Depois de cair, sei me levantar e voltar para Jesus, que vai à minha frente?"
+    ],
+    "oratio_guia": "Senhor Jesus, Pastor ferido por nós, tu conheces a minha fraqueza melhor que eu. Livra-me da presunção e ensina-me a confiar só em ti. Se eu cair, levanta-me e reúne-me de novo ao teu rebanho. Amém.",
+    "contemplatio_foco": { "texto": "Depois que eu ressuscitar, preceder-vos-ei na Galileia.", "ref": "Mc 14,28" }
+  },
+  "ancoras": {
+    "14:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:26–31#2", "sintese": "Mostra que se alegrava de morrer por nós: estando para ser entregue, dignou-se louvar a Deus; ensina-nos a dar graças também nas tribulações." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:26–31#6", "sintese": "É preso no monte das Oliveiras, de onde subiu ao céu, para que saibamos que subimos ao céu a partir do lugar onde vigiamos e oramos." }
+      ],
+      "nota": { "texto": "O “hino” é o Hallel (Sl 113-118), cantado no fim da ceia pascal.", "origem": "ia" }
+    },
+    "14:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:26–31#8", "sintese": "Todos caem, mas nem todos permanecem caídos: cair é próprio do homem." },
+        { "autor": "Teofilato", "obra": null, "catena": "14:26–31#9", "sintese": "Permitiu que caíssem para que não confiassem em si mesmos." }
+      ],
+      "nota": { "texto": "A citação é de Zc 13,7. A referência “Zc 3,7” impressa no texto parece ser erro tipográfico.", "origem": "ia" }
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:26–31#13", "sintese": "Promete a verdadeira ressurreição, para que a esperança deles não se extinga." }
+      ],
+      "nota": null
+    },
+    "14:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. III, 2", "catena": "14:26–31#15", "sintese": "Todos os evangelistas referem a predição antes do canto do galo, mas só Marcos o fez com mais pormenores, ao falar do galo cantar duas vezes." },
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "14:26–31#17", "sintese": "O galo, arauto do dia, é o Espírito Santo, por cuja voz somos despertados da nossa tríplice negação." }
+      ],
+      "nota": null
+    },
+    "14:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "14:26–31#18", "sintese": "Manifestam-se a fé de Pedro e o seu amor ardente pelo Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

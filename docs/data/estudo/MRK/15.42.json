@@ -1,0 +1,65 @@
+{
+  "id": "MRK.15.42",
+  "livro": "MRK",
+  "titulo": "A sepultura de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mc 15,42-47",
+  "ini": { "c": 15, "v": 42 },
+  "fim": { "c": 15, "v": 47 },
+  "liturgia": { "tema_central": "O corpo do Senhor repousa no sepulcro, à espera da Ressurreição", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao cair da tarde da sexta-feira, véspera do sábado (a “Preparação”), José de Arimateia, membro respeitado do Sinédrio que esperava o Reino de Deus, tem a coragem de pedir a Pilatos o corpo de Jesus. A lei mandava não deixar o corpo do condenado pendurado durante a noite (Dt 21,23). Pilatos se admira de que já esteja morto e o confirma com o centurião: a morte de Jesus é real e verificada. José compra um lençol, desce o corpo, envolve-o e o deposita num túmulo escavado na rocha, fechado com uma pedra rolada. Maria Madalena e Maria, mãe de José, observam onde o colocam, o que prepara o relato do sepulcro vazio.",
+    "alegorico": "A sepultura confirma a verdade da morte e prepara a verdade da Ressurreição. Cristo desce ao repouso do sábado, como Deus repousou no sétimo dia depois da criação: termina a obra da redenção e prepara a nova criação. O lençol limpo e o sepulcro novo na rocha foram lidos pelos Padres como figuras da alma pura e do coração firme na fé, em que o Corpo de Cristo deve ser recebido.",
+    "moral": "José de Arimateia mostra a coragem de se declarar discípulo na hora mais perigosa, sem medo de perder posição ou bens. A honra prestada ao corpo do Senhor ensina o respeito aos corpos dos defuntos e, sobretudo, à Eucaristia. Recebamos o Corpo de Cristo na comunhão e o depositemos num coração limpo e firme como a rocha. As mulheres, fiéis até o sepulcro, ensinam o amor que não abandona.",
+    "anagogico": "Pela sepultura de Cristo ressuscitamos; pela sua descida à morada dos mortos subimos ao céu. O sepulcro selado não é o fim: é a semente que, no terceiro dia, florescerá em vida. Também os nossos túmulos serão abertos pela sua Ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao cair da tarde, véspera do sábado, José de Arimateia, membro ilustre do Sinédrio que esperava o Reino de Deus, vai corajosamente a Pilatos e pede o corpo de Jesus. Pilatos se admira de que já esteja morto e, informado pelo centurião, entrega o corpo a José. Ele compra um lençol, desce o corpo da cruz, envolve-o e o deposita num sepulcro escavado na rocha, rolando uma pedra para a entrada. Maria Madalena e Maria, mãe de José, observam onde Ele é colocado.",
+    "meditatio_perguntas": [
+      "Tenho a coragem de José para me declarar discípulo quando isso custa?",
+      "Com que reverência recebo o Corpo de Cristo na Eucaristia?",
+      "Sei permanecer junto de Jesus no silêncio do “sábado santo” da minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que repousaste no sepulcro, recebe o meu coração como um túmulo novo, limpo e firme na fé. Dá-me a coragem de José de Arimateia e a fidelidade das santas mulheres. No silêncio da espera, faz-me esperar a tua Ressurreição. Amém.",
+    "contemplatio_foco": { "texto": "Depositou-o num sepulcro, que estava aberto na rocha.", "ref": "Mc 15,46" }
+  },
+  "ancoras": {
+    "15:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:42–47#1", "sintese": "Parasceve, em grego, é preparação: o sexto dia, em que se preparava o necessário para o descanso do sábado." }
+      ],
+      "nota": null
+    },
+    "15:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:42–47#2", "sintese": "Arimateia interpreta-se “que depõe”; e dela era José, que veio depor da cruz o corpo de Cristo." },
+        { "autor": "Teofilato", "obra": null, "catena": "15:42–47#3", "sintese": "Teve uma ousadia louvável: não pensou em perder as riquezas nem em ser expulso, se pedisse o corpo de Jesus." }
+      ],
+      "nota": null
+    },
+    "15:44": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "A crucifixão costumava provocar agonia longa, às vezes de dias. A verificação pelo centurião confirma juridicamente a morte de Jesus.", "origem": "ia" }
+    },
+    "15:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:42–47#5", "sintese": "Sepultou com honra o precioso corpo, pois, sendo discípulo, sabia quanto devia ser honrado." },
+        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "15:42–47#6", "sintese": "Em sentido espiritual, o corpo do Senhor não se envolve em ouro, pedras ou seda, mas em linho limpo; daí o costume de celebrar o sacrifício do altar sobre linho." },
+        { "autor": "Teofilato", "obra": null, "catena": "15:42–47#8", "sintese": "Imitemos José, recebendo o corpo de Cristo na comunhão e depositando-o num sepulcro escavado na rocha, isto é, numa alma firme." }
+      ],
+      "nota": null
+    },
+    "15:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "15:42–47#7", "sintese": "Pela sepultura de Cristo ressuscitamos; pela sua descida aos infernos subimos ao céu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

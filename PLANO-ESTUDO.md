@@ -1,0 +1,202 @@
+# Plano: Estudo por Perícopes (Bíblia Matos Soares)
+
+> Documento de continuidade. Se a conversa com o Claude for limpa (`/clear`), comece por:
+> **"Leia PLANO-ESTUDO.md e continue da próxima fase pendente."**
+
+Última atualização: 2026-11-20
+
+---
+
+## 1. Objetivo
+
+Acrescentar ao PWA (`docs/`) uma camada de **estudo por perícope**:
+
+- divisão do texto em perícopes, com título;
+- usos litúrgicos (Lecionário Romano);
+- os **quatro sentidos** da Escritura (CIC 115–118);
+- roteiro de **Lectio Divina**;
+- âncoras por versículo: parágrafos do **CIC**, síntese dos **Padres** (Catena Aurea) e nota exegética.
+
+Amostra visual aprovada como modelo: https://claude.ai/artifact/1VKTJ8dVdazJJ1ygJY1T5q
+(Mt 5,1-12 · Mc 10,46-52 · Lc 15,11-32)
+
+Uso pessoal, não comercial.
+
+---
+
+## 2. Decisões já tomadas (não rediscutir)
+
+| Decisão | Motivo |
+|---|---|
+| **O texto bíblico nunca passa pela IA.** O JSON de estudo guarda só referências; o app junta com `docs/data/books/*.json`. | Fidelidade de 100% ao Matos Soares |
+| **Fatos vêm de scripts; a IA só redige ou resume.** CIC = índice de citações; Padres = texto da Catena; liturgia = tabela do Lecionário. | Nunca inventar parágrafo do CIC nem frase de Padre |
+| Perícope usa `ini: {c, v}` e `fim: {c, v}` (pode cruzar capítulos). Âncoras indexadas por `"c:v"`. | Ex.: Mc 8,39 = Mc 9,1 moderno |
+| Cada bloco tem **origem**: `fonte` · `tabela` · `indice` · `ia+fonte` · `ia`. Notas geradas pela IA levam `origem: "ia"`. | Separar fato de reflexão |
+| Cada perícope tem `revisado: false` até a revisão teológica humana. | Controle de qualidade |
+| Um arquivo por perícope ou por livro, carregado sob demanda. | PWA leve |
+| Vizinhança (perícope anterior/próxima) é calculada pelo app, não gravada. | Evita inconsistência |
+| **Geração no Claude Pro** (dentro do Claude Code), um livro por vez. API Batch só se o usuário decidir depois (~US$ 100–120 para a Bíblia inteira com Opus 5.5). | O usuário tem Claude Pro, sem créditos de API |
+| NotebookLM: não serve para gerar o conteúdo; pode ajudar a conferir fontes. | Sem API para gerar em massa, sem JSON garantido |
+| Catena local usada **sem licença**, por decisão do usuário (uso pessoal). | Ver §6 |
+| **CIC e usos litúrgicos ficam para o FINAL** (decisão de 2026-11-20). Até lá: `cic: []` e `liturgia.usos: []`. O validador recusa `cic` preenchido. | Priorizar os 4 sentidos, a Lectio e os Padres |
+| Cada síntese patrística aponta o trecho exato da Catena (`"catena": "1:4–8#15"`). O validador confere se o autor confere com o trecho. | Atribuição verificável |
+
+---
+
+## 3. Fases
+
+Legenda: ✅ feito · 🔄 em andamento · ⏳ pendente
+
+### Fase 0: Análise e amostra ✅
+- Viabilidade, schema, estimativa de tokens e protótipo visual (link acima).
+
+### Fase 1: Fontes determinísticas (scripts, sem IA)
+
+| # | Tarefa | Status | Saída |
+|---|---|---|---|
+| 1.1 | **Catena Aurea** → JSON na numeração do Matos Soares | ✅ | `scripts/build-catena.mjs` → `docs/data/catena/{MAT,MRK,LUK,JHN}.json` |
+| 1.2 | **Índice de citações bíblicas do CIC** → `{ "MRK 10:47": [2616, ...] }` | ⏸ adiado para o fim | `scripts/build-cic.mjs` → `docs/data/cic-index.json` |
+| 1.3 | **Lecionário Romano** (domingos A/B/C, solenidades, dias de semana) → tabela | ⏸ adiado para o fim | `docs/data/lecionario.json` |
+| 1.4 | **Mapa de versificação** Vulgata ↔ moderna (para cruzar CIC e Lecionário) | 🔄 | Evangelhos prontos dentro de `build-catena.mjs`; falta extrair para um módulo comum e cobrir Salmos e o AT |
+| 1.5 | **Validador**: schema, cobertura contínua, atribuição à Catena, ausência de texto bíblico (falta: CIC no índice) | ✅ | `node scripts/estudo.mjs check` |
+
+### Fase 2: Piloto de Marcos (IA no Claude Pro) 🔄
+
+| # | Tarefa | Status |
+|---|---|---|
+| 2.1 | Divisão de Marcos: **75 perícopes em 8 seções** | ✅ `scripts/pericopes/MRK.txt` → `docs/data/estudo/MRK/index.json` |
+| 2.2 | Gerar por perícope: quatro sentidos, Lectio, tema central, sínteses dos Padres e notas | ✅ **75/75** — Marcos completo, todas validadas (`check`). Sínteses dos Padres conferidas com o texto integral da Catena |
+| 2.3 | Rodar o validador | ✅ a cada lote |
+| 2.4 | Revisão teológica pelo usuário (`revisado: true`) | ⏳ |
+| 2.5 | Medir o consumo do limite do Pro por perícope e decidir o ritmo | ⏳ |
+
+Estimativa: 2–4 dias de calendário na geração; 5–8 h de revisão.
+
+#### Fluxo para gerar cada perícope (seguir à risca)
+1. `node scripts/estudo.mjs status MRK` → mostra a próxima perícope pendente.
+2. `node scripts/estudo.mjs contexto MRK <c>.<v>` → imprime o texto Matos Soares e todos os trechos da Catena com o identificador `[faixa#n]`.
+3. Escrever `docs/data/estudo/MRK/<c>.<v>.json` no schema da §4, usando **só** trechos impressos no passo 2 para os Padres (com `"catena": "faixa#n"`). Sentidos: ~100–160 palavras cada. Meditatio: 3 perguntas. Notas: `{texto, origem: "ia"}` ou `null`.
+4. `node scripts/estudo.mjs check MRK` precisa terminar em "tudo certo".
+5. Atualizar o contador da tarefa 2.2 neste arquivo.
+
+Se mudar a divisão em `scripts/pericopes/MRK.txt`, rode `node scripts/estudo.mjs index MRK`.
+
+### Fase 3: Integração no PWA ✅ (feita em 2026-11-20, testada no navegador)
+- `docs/js/study.js` (dados), `studyView` e `periHeadHtml` em `docs/js/app.js`, estilos "Estudo por perícopes" no fim de `docs/css/app.css`.
+- `docs/sw.js`: VERSION 1.3.0, cache `estudo-1` (stale-while-revalidate para `data/estudo/`).
+- `docs/data/estudo/livros.json` lista os livros com estudo (gerado por `estudo.mjs index`).
+- Perícope ainda sem arquivo mostra "em preparação".
+- Pendente para depois: Evangelho do domingo na tela inicial (depende do Lecionário, fase 1.3).
+
+Itens originais desta fase:
+- Rota `#/estudo/{LIVRO}.{c}.{v}` com abas: Texto · 4 Sentidos · Lectio Divina · Padres & CIC.
+- Título da perícope e botão "Estudar" dentro do leitor.
+- Tela inicial: Evangelho do domingo → perícope com a Lectio.
+- Service worker: guardar em cache os arquivos de estudo só quando forem abertos.
+- Corrigir o bug do protótipo: âncoras em perícopes que cruzam capítulos.
+
+### Fase 4: Expansão ⏳
+Ordem sugerida: Mateus, Lucas, João, Salmos, Atos, Cartas, demais livros do AT.
+Fora dos Evangelhos não há Catena. Opções: Haydock (1859, domínio público) ou deixar `[]`.
+
+---
+
+## 4. Schema do arquivo de estudo (por perícope)
+
+```json
+{
+  "id": "MRK.10.46",
+  "livro": "MRK",
+  "referencia": "Mc 10,46-52",
+  "titulo": "A cura do cego Bartimeu",
+  "secao": "A caminho de Jerusalém",
+  "ini": { "c": 10, "v": 46 },
+  "fim": { "c": 10, "v": 52 },
+  "liturgia": {
+    "tema_central": "string",
+    "usos": [{ "celebracao": "30º Domingo do Tempo Comum – Ano B", "leitura": "Mc 10,46-52", "cor": "verde" }]
+  },
+  "quatro_sentidos": { "literal": "", "alegorico": "", "moral": "", "anagogico": "" },
+  "lectio_divina": {
+    "lectio_resumo": "",
+    "meditatio_perguntas": ["", "", ""],
+    "oratio_guia": "",
+    "contemplatio_foco": { "texto": "", "ref": "Mc 10,47" }
+  },
+  "ancoras": {
+    "10:46": {
+      "cic": [],
+      "padres": [{ "autor": "São Jerônimo", "obra": "string|null", "catena": "10:46–52#0", "sintese": "" }],
+      "nota": { "texto": "", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
+```
+
+Regras:
+- `cic` fica `[]` até a fase 1.2. Depois, só números presentes no índice para aquele versículo.
+- `padres` só a partir de trechos reais de `docs/data/catena/`, com `catena` apontando o trecho; o `autor` tem de ser o mesmo do trecho.
+- O texto dos versículos **não** entra no arquivo.
+- O arquivo se chama `docs/data/estudo/<LIVRO>/<c>.<v>.json`; o `index.json` do livro lista a divisão.
+
+Exemplo completo: `docs/data/estudo/MRK/1.1.json`.
+
+---
+
+## 5. Dados gerados até agora
+
+### `docs/data/catena/{ID}.json` (fase 1.1)
+```json
+{
+  "obra": "Catena Aurea — Santo Tomás de Aquino",
+  "versificacao": "Matos Soares (Vulgata)",
+  "blocos": [
+    { "ini": {"c":10,"v":46}, "fim": {"c":10,"v":52}, "catena": "10:46–52",
+      "trechos": [{ "autor": "São Jerônimo", "obra": null, "texto": "..." }] }
+  ]
+}
+```
+- 820 blocos e 12.736 trechos (Mt 281 · Mc 105 · Lc 246 · Jo 188).
+- Fonte: `C:\Users\ederd\estudo\catena-aurea\data\*.json` (repositório de G. Evangelista).
+- Regerar: `node scripts/build-catena.mjs` (o caminho da Catena pode ser passado como argumento).
+- O texto evangélico desse repositório é de **outra tradução** (estilo Bíblia Pastoral) e é **descartado**.
+- O campo `catena` guarda a faixa original, na numeração moderna.
+
+### Versificação: Catena (moderna) → Matos Soares (Vulgata)
+| Catena | Matos Soares |
+|---|---|
+| Mt 17,14-15 | Mt 17,14 · depois, v−1 |
+| Mc 4,40-41 | Mc 4,40 |
+| Mc 9,1 | **Mc 8,39** |
+| Mc 9,2-50 | Mc 9,1-49 (v−1) |
+| Jo 6,51 | Jo 6,51-52 · depois, v+1 |
+
+Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já existe na própria Catena e é inofensiva.
+
+---
+
+## 6. Pontos de atenção
+
+- **O repositório `bibliacatolica` publica `docs/` no GitHub Pages (público).** Os arquivos `docs/data/catena/` ficam acessíveis a qualquer pessoa quando forem enviados (push). Se quiser manter só local, mova para fora de `docs/` ou ponha em `.gitignore`.
+- A tradução portuguesa da Catena não tem licença declarada. O usuário decidiu usar mesmo assim (uso pessoal).
+- Os parágrafos do CIC e as atribuições aos Padres da **amostra** vieram da memória da IA. Ali, "Jericó = lua" foi atribuído a Beda, mas na Catena é de São Jerônimo. Por isso o piloto precisa das fases 1.1 e 1.2 prontas.
+- Notas do próprio Pe. Matos Soares: não temos a fonte digital. Talvez já estejam em domínio público (ele morreu em 1955; 70 anos após a morte), mas seria preciso fazer OCR de uma edição impressa.
+
+---
+
+## 7. Instruções do usuário para o trabalho autônomo (2026-11-20)
+
+- Formato aprovado. **Gerar todas as perícopes de Marcos** sem parar para revisão.
+- **Atualizar este .md a cada lote**, para retomar se a sessão travar.
+- Se travar por limite de uso: ao liberar, recomeçar de onde parou (`node scripts/estudo.mjs status`).
+- **Economizar tokens sem perder qualidade.** `contexto` corta cada trecho da Catena em 700 caracteres (`MAX=...` muda isso).
+- Ao terminar Marcos: atualizar o .md, **fazer commit e push**, e só então começar o próximo Evangelho (Mateus): criar `scripts/pericopes/MAT.txt`, rodar `index MAT` e seguir o mesmo fluxo.
+
+## 8. Próximo passo
+
+1. **Mateus**: criar `scripts/pericopes/MAT.txt` (formato igual ao de MRK.txt), rodar `node scripts/estudo.mjs index MAT` e gerar com o mesmo fluxo (`contexto MAT c.v` → JSON → `check MAT`). Marcos (75/75) já está no ar.
+2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
+3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).
+
+Fase 1.2, quando chegar a hora: encontrar uma fonte confiável do "Index of Citations" do Catecismo (vatican.va ou equivalente), extrair por script, aplicar o mapa de versificação e validar com casos conhecidos: Lc 15,11-32 → 1439; Mt 5,8 → 2518–2519; Mt 5,9 → 2305.
