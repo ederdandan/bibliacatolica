@@ -95,8 +95,9 @@ Itens originais desta fase:
 - Service worker: guardar em cache os arquivos de estudo só quando forem abertos.
 - Corrigir o bug do protótipo: âncoras em perícopes que cruzam capítulos.
 
-### Fase 4: Expansão ⏳
+### Fase 4: Expansão 🔄
 Ordem sugerida: Mateus, Lucas, João, Salmos, Atos, Cartas, demais livros do AT.
+Progresso: Mateus ✅ 107 · Lucas ✅ 78 · João ⏳ (falta `scripts/pericopes/JHN.txt`). Com Marcos (75), são 260 perícopes.
 Fora dos Evangelhos não há Catena. Opções: Haydock (1859, domínio público) ou deixar `[]`.
 
 ---
