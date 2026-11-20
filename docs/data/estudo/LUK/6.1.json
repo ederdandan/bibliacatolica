@@ -1,0 +1,88 @@
+{
+  "id": "LUK.6.1",
+  "livro": "LUK",
+  "titulo": "O Senhor do sábado",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 6,1-11",
+  "ini": { "c": 6, "v": 1 },
+  "fim": { "c": 6, "v": 11 },
+  "liturgia": { "tema_central": "“O Filho do homem é Senhor também do sábado”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Dois episódios de sábado. No primeiro, os discípulos colhem espigas, esfregam-nas nas mãos e comem; os fariseus acusam-nos de fazer o que não é lícito (colher e debulhar eram considerados trabalho). Jesus lembra David, que, com fome, comeu os pães da proposição reservados aos sacerdotes, e declara: “O Filho do homem é Senhor também do sábado”. No segundo, na sinagoga, está um homem com a mão direita seca, e escribas e fariseus observam Jesus para o acusar. Ele, conhecendo os seus pensamentos, chama o homem para o meio e pergunta se é lícito ao sábado fazer o bem ou o mal, salvar a vida ou tirá-la. Olhando a todos, manda: “Estende a tua mão”, e ela fica sã. Eles enchem-se de furor e discutem o que fazer contra Jesus.",
+    "alegorico": "O campo é o mundo; as espigas, os frutos da Igreja, que os apóstolos debulham pelas suas obras, tirando das cascas do corpo o fruto da alma. O homem da mão seca é o gênero humano, ressequido desde que Adão estendeu a mão ao fruto proibido, e curado pela mão inocente de Cristo estendida na cruz. O Senhor do sábado é aquele que o instituiu e o leva ao seu pleno repouso.",
+    "moral": "O sábado foi instituído por misericórdia, para dar descanso até ao servo e ao gado: como poderia proibir socorrer um homem? O preceito serve o bem do homem. A inveja alimenta a sua dor com o bem que os outros fazem e chega a tramar a morte. “Estende a tua mão”: ao próximo, à viúva, ao pobre, e a Deus pedindo perdão; é estendendo-se que a mão se cura.",
+    "anagogico": "O repouso do sábado figura o repouso eterno que Cristo, Senhor do sábado, nos prepara, quando todo membro ressequido for restituído à vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Num sábado, passando Jesus pelas searas, os seus discípulos colhiam espigas e as comiam. Alguns dos fariseus disseram-lhes: “Porque fazeis o que não é permitido nos sábados?” Jesus respondeu: “O Filho do homem é Senhor também do sábado”. Em outro sábado, estava na sinagoga um homem que tinha a mão direita seca. Os escribas e os fariseus o estavam observando, a fim de terem de que o acusar. Jesus disse: “Pergunto-vos se é lícito aos sábados fazer bem ou mal, salvar a vida ou tirá-la”. Depois, correndo a todos com o olhar, disse ao homem: “Estende a tua mão”. Ele estendeu-a, e a sua mão tornou-se sã.",
+    "meditatio_perguntas": [
+      "Uso as regras para servir o bem do próximo ou para o acusar?",
+      "A minha mão está “seca” pela avareza ou pela indiferença?",
+      "Como vivo o domingo: como repouso em Deus e tempo de fazer o bem?"
+    ],
+    "oratio_guia": "Senhor do sábado, livra-me de um coração que vigia para acusar. Cura a minha mão ressequida e ensina-me a estendê-la ao pobre, ao que sofre injustiça e a ti, pedindo perdão. Que o dia do Senhor seja para mim repouso em ti e ocasião de fazer o bem. Amém.",
+    "contemplatio_foco": { "texto": "Estende a tua mão.", "ref": "Lc 6,10" }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:1–5#1", "sintese": "Sem tempo para comer por causa das multidões, saciam a fome com espigas: sinal de vida austera, que busca alimento simples." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:1–5#13", "sintese": "O campo é o mundo; as espigas, os frutos da Igreja, que os apóstolos debulham com as suas obras, tirando da casca do corpo o fruto da alma." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:1–5#14", "sintese": "Esfregar as espigas é mortificar nos outros o homem velho, para os trazer ao corpo de Cristo." }
+      ],
+      "nota": { "texto": "A Vulgata diz “sábado segundo-primeiro”, expressão obscura que os Padres explicaram de vários modos (por exemplo, o primeiro sábado depois da Páscoa). Matos Soares simplifica para “num sábado”.", "origem": "ia" }
+    },
+    "6:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:1–5#8", "sintese": "Com o exemplo de David, prova que os defensores da Lei ignoram o que é da Lei." }
+      ],
+      "nota": null
+    },
+    "6:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:1–5#11", "sintese": "Como quem instituiu o sábado e é Legislador, tem poder sobre ele; Filho de Deus, fez-se Filho do homem por causa do homem." }
+      ],
+      "nota": null
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:6–11#0", "sintese": "Quem decidira salvar o homem inteiro curava-lhe cada um dos membros." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:6–11#13", "sintese": "A mão seca é o gênero humano, ressequido pela mão de Adão estendida ao fruto, curado pela mão inocente estendida na cruz; estava na sinagoga, onde o conhecimento torna maior a culpa." }
+      ],
+      "nota": null
+    },
+    "6:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:6–11#4", "sintese": "O invejoso alimenta a sua dor com o louvor dos outros; Jesus põe o homem no meio talvez para mover os fariseus à compaixão." }
+      ],
+      "nota": null
+    },
+    "6:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:6–11#6", "sintese": "O sábado foi instituído por misericórdia, para dar descanso ao servo e ao gado; quem tem compaixão do boi, quanto mais a terá do homem que sofre." }
+      ],
+      "nota": null
+    },
+    "6:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:6–11#14", "sintese": "Estende a mão muitas vezes: ao próximo, à viúva, ao injustiçado, ao pobre e ao Senhor, pedindo perdão; é estendendo-se que a mão se cura." }
+      ],
+      "nota": null
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:6–11#12", "sintese": "Vês um operador divino que livra os enfermos, e, por inveja, respiras morte." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

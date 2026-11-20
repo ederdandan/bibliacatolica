@@ -1,0 +1,82 @@
+{
+  "id": "LUK.6.39",
+  "livro": "LUK",
+  "titulo": "A árvore e os frutos; a casa sobre a rocha",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 6,39-49",
+  "ini": { "c": 6, "v": 39 },
+  "fim": { "c": 6, "v": 49 },
+  "liturgia": { "tema_central": "Ouvir e pôr em prática: a casa edificada sobre a rocha", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus conclui o discurso da planície com comparações. Um cego não pode guiar outro cego; o discípulo não está acima do mestre, mas, formado, será como ele. Como tirar a aresta do olho do irmão sem ver a trave no próprio? Hipócrita, tira primeiro a trave. Não há árvore boa que dê frutos maus, nem má que dê bons: cada árvore conhece-se pelo fruto, e a boca fala da abundância do coração. Por que chamar-lhe “Senhor, Senhor” sem fazer o que diz? Quem ouve e pratica é como quem cavou fundo e assentou a casa na rocha: a torrente não a abala. Quem ouve e não pratica constrói sem alicerces, e a ruína é grande.",
+    "alegorico": "A rocha é Cristo, fundamento sobre o qual se edifica a vida e a Igreja. O Mestre perfeito é Ele: o discípulo será perfeito conformando-se a Ele. O tesouro do coração é a raiz da árvore: do amor de Cristo nascem os bons frutos.",
+    "moral": "O conhecimento de si é o mais importante: vemos depressa o pecado alheio e devagar o próprio. Quem corrige os outros deve começar por se converter. A árvore não escolhe, mas o homem tem livre-arbítrio: a árvore má pode converter-se e dar fruto. As palavras revelam o coração. A fé sem obras não aproveita: não bastam as folhas da confissão, é preciso o fruto das boas obras. Cavar fundo é arrancar pela humildade o apego às coisas terrenas.",
+    "anagogico": "A torrente figura as provações e, por fim, o juízo: só permanece de pé a casa fundada em Cristo. O discípulo plenamente semelhante ao Mestre é a meta da vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pode porventura um cego guiar outro cego? O discípulo não é mais que o mestre. Porque vês tu a aresta no olho do teu irmão, e não notas a trave que tens no teu? Tira primeiro a trave do teu olho. Cada árvore se conhece pelo seu fruto. O homem bom, do bom tesouro do seu coração tira o bem; porque a boca fala da abundância do coração. Porque me chamais vós Senhor, Senhor, e não fazeis o que eu vos digo? Todo o que vem a mim, que ouve as minhas palavras, e as põe em prática, é semelhante a um homem que, edificando uma casa, cavou profundamente, e pôs os alicerces sobre a rocha. Vindo uma inundação, não pôde movê-la. Mas o que ouve, e não pratica, edificou a sua casa sobre a terra sem fundamentos; e foi grande a ruína daquela casa.",
+    "meditatio_perguntas": [
+      "Que “trave” no meu olho me impede de ver com misericórdia o meu irmão?",
+      "Que frutos a minha vida está dando, e que revelam do meu coração?",
+      "Que palavra de Jesus ouço há muito tempo e ainda não pus em prática?"
+    ],
+    "oratio_guia": "Senhor Jesus, rocha firme, tira a trave dos meus olhos e enche o meu coração do bom tesouro do teu amor. Que eu não te chame “Senhor” só com os lábios, mas ponha em prática as tuas palavras, e que a minha vida, edificada sobre ti, resista às torrentes. Amém.",
+    "contemplatio_foco": { "texto": "a boca fala da abundância do coração", "ref": "Lc 6,45" }
+  },
+  "ancoras": {
+    "6:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:39–42#1", "sintese": "Se julgas o outro e pecas do mesmo modo, és cego guiando cego; o discípulo será como o mestre que o conduz." }
+      ],
+      "nota": null
+    },
+    "6:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:39–42#6", "sintese": "A trave são os pecados graves; a aresta, as faltas leves: como pode o culpado do grave condenar quem pecou pouco, ou nem pecou?" },
+        { "autor": "São Basílio", "obra": "Hom. 9 in Hexaem.", "catena": "6:39–42#9", "sintese": "O conhecimento de si é o mais importante: o entendimento, rápido em ver o pecado alheio, é lento em perceber os próprios defeitos." }
+      ],
+      "nota": null
+    },
+    "6:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "6:43–45#1", "sintese": "Não é desculpa para a ociosidade: a árvore segue a natureza, mas tu tens livre-arbítrio e foste criado para a virtude." },
+        { "autor": "Santo Isidoro de Pelúsio", "obra": "lib. iv. ep. 81.", "catena": "6:43–45#2", "sintese": "Não se exclui a conversão, mas a permanência no mal: a árvore convertida à virtude dará frutos abundantes." }
+      ],
+      "nota": null
+    },
+    "6:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:43–45#8", "sintese": "O tesouro do coração é a raiz da árvore: quem guarda nele a paciência e o amor perfeito dá os melhores frutos, até amar o inimigo." },
+        { "autor": "São Basílio", "obra": null, "catena": "6:43–45#9", "sintese": "A qualidade das palavras revela o coração de onde procedem." }
+      ],
+      "nota": null
+    },
+    "6:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:46–49#0", "sintese": "Do cristão não se exigem só palavras: por que mostrar as folhas da confissão e não os frutos das boas obras?" }
+      ],
+      "nota": null
+    },
+    "6:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:46–49#4", "sintese": "A rocha é Cristo; cavar fundo é arrancar do coração, pela humildade, as coisas terrenas, para não servir a Deus por bens temporais." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:46–49#8", "sintese": "A torrente vem dos espíritos imundos, dos homens maus ou da inquietação interior; cai quem confia nas próprias forças, não quem se agarra à rocha." }
+      ],
+      "nota": null
+    },
+    "6:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 24 in Matth.", "catena": "6:46–49#9", "sintese": "A fé de nada aproveita se a vida é corrompida." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

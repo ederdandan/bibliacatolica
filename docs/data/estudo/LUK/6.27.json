@@ -1,0 +1,96 @@
+{
+  "id": "LUK.6.27",
+  "livro": "LUK",
+  "titulo": "O amor aos inimigos",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 6,27-38",
+  "ini": { "c": 6, "v": 27 },
+  "fim": { "c": 6, "v": 38 },
+  "liturgia": { "tema_central": "“Sede misericordiosos, como também vosso Pai é misericordioso”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus dirige-se “a vós, que me ouvis”: amar os inimigos, fazer o bem a quem odeia, abençoar quem amaldiçoa, orar por quem calunia. A quem bate numa face, oferecer a outra; a quem tira o manto, não negar a túnica; dar a quem pede. Resume tudo na regra de ouro: fazer aos outros o que queremos que nos façam. Amar quem nos ama, fazer bem a quem nos faz bem, emprestar esperando receber, também os pecadores o fazem. O discípulo ama, faz o bem e empresta sem esperar nada: assim será filho do Altíssimo, que é bom para ingratos e maus. Daí o mandamento: “Sede misericordiosos, como também vosso Pai é misericordioso”. Não julgar, não condenar, perdoar, dar: a medida que usarmos será usada para nós, e Deus dará uma medida cheia e transbordante.",
+    "alegorico": "Este discurso é o retrato de Cristo, que amou os inimigos até a cruz, orou pelos que o crucificavam, ofereceu a face e deixou que lhe tirassem as vestes. Nele o Pai mostrou a sua misericórdia para com os ingratos e maus, e nele somos feitos filhos do Altíssimo por adoção.",
+    "moral": "Não basta não odiar: é preciso amar e fazer o bem. O perseguidor é um doente da alma, digno de compaixão, como o louco que agride o médico. A boca não foi dada para morder, mas para curar: orar contra os inimigos é ferir-se a si mesmo. “Dar a todo aquele que pede” significa dar o que se pode com justiça, sem fazer mal a ninguém. O que temos foi-nos confiado por Deus para os irmãos. A ira não se apaga com ira, mas com mansidão.",
+    "anagogico": "A recompensa é grande: a filiação divina, que será plenamente manifestada no céu. A medida “recalcada e acogulada” lançada no regaço é a superabundância da vida eterna, que excede tudo o que demos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Digo-vos a vós, que me ouvis: Amai os vossos inimigos, fazei bem aos que vos odeiam, abençoai os que vos amaldiçoam, orai pelos que vos caluniam. O que quereis que vos façam os homens, fazei-o vós também a eles. Amai os vossos inimigos; fazei bem e emprestai, sem daí esperardes nada; e será grande a vossa recompensa, e sereis filhos do Altíssimo, que é bom para os ingratos e para os maus. Sede misericordiosos, como também vosso Pai é misericordioso. Não julgueis, e não sereis julgados; perdoai, e sereis perdoados; dai, e dar-se-vos-á. Com a mesma medida com que medirdes para os outros, será medido para vós.",
+    "meditatio_perguntas": [
+      "Por qual “inimigo” concreto posso rezar hoje?",
+      "Que medida uso para julgar os outros, e que medida gostaria que Deus usasse comigo?",
+      "Dou esperando algo em troca, ou como o Pai, que é bom para os ingratos?"
+    ],
+    "oratio_guia": "Pai de misericórdia, que és bom para os ingratos e para os maus, dá-me um coração semelhante ao teu. Ensina-me a abençoar quem me fere, a rezar por quem me calunia, a não julgar e a perdoar. Que eu dê com a mesma generosidade com que de ti recebo. Amém.",
+    "contemplatio_foco": { "texto": "Sede misericordiosos, como também vosso Pai é misericordioso.", "ref": "Lc 6,36" }
+  },
+  "ancoras": {
+    "6:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 18 in Matth.", "catena": "6:27–31#4", "sintese": "Não disse só “não odieis”, mas “amai”; e não só amar, mas fazer o bem." }
+      ],
+      "nota": null
+    },
+    "6:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:27–31#6", "sintese": "A boca não foi dada para morder, mas para curar; orar contra os inimigos é ferir-se a si mesmo, pois Deus mandou orar por eles." }
+      ],
+      "nota": null
+    },
+    "6:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 18 in Matth.", "catena": "6:27–31#9", "sintese": "Como o médico agredido por um louco tem dele mais compaixão, tem-na tu pelos perseguidores, que são os mais enfermos." }
+      ],
+      "nota": null
+    },
+    "6:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Serm. Dom. lib. 1. c. 20.", "catena": "6:27–31#13", "sintese": "Não manda dar tudo, mas o que se pode dar com justiça, sem dano para ninguém; e, ao negar, mostrar a razão, ou corrigir quem pede mal." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 10 in 1Cor.", "catena": "6:27–31#15", "sintese": "“Meu” e “teu” são palavras: tudo recebemos de Deus, que nos confiou os bens para os irmãos; serão nossos se os repartirmos." }
+      ],
+      "nota": null
+    },
+    "6:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 13. ad Pop. Ant.", "catena": "6:27–31#17", "sintese": "A regra de ouro exprime a lei natural gravada na consciência: Cristo não manda nada acima da nossa natureza." }
+      ],
+      "nota": null
+    },
+    "6:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 58 in Gen.", "catena": "6:32–36#3", "sintese": "Amando o inimigo, fazes mais bem a ti que a ele, pois tornas-te semelhante a Deus; a ira não se apaga com ira, mas com mansidão." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:32–36#7", "sintese": "A recompensa da misericórdia é a adoção divina; Deus faz chover sobre os ingratos e a terra não nega frutos aos maus." }
+      ],
+      "nota": null
+    },
+    "6:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:32–36#9", "sintese": "A misericórdia torna-nos semelhantes a Deus e imprime na alma os sinais da natureza celeste." }
+      ],
+      "nota": { "texto": "Onde Mateus diz “sede perfeitos” (Mt 5,48), Lucas diz “sede misericordiosos”: a perfeição do Pai manifesta-se na misericórdia.", "origem": "ia" }
+    },
+    "6:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:37–38#0", "sintese": "Não julgar precipitadamente, para que, consciente da própria culpa, não pronuncies sentença contra outro." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:37–38#5", "sintese": "“Perdoai, e sereis perdoados” resume todo o comportamento para com os inimigos: perdoar as injúrias e fazer o bem." }
+      ],
+      "nota": null
+    },
+    "6:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:37–38#7", "sintese": "Como quem mede farinha sem poupar, calcando e deixando transbordar, assim o Senhor dará no regaço uma medida transbordante." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "6:37–38#11", "sintese": "Quem semeia pouco colhe pouco; mas quem nada tem para dar não é culpado: cada um é aceito segundo o que tem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

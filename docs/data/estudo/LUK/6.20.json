@@ -1,0 +1,76 @@
+{
+  "id": "LUK.6.20",
+  "livro": "LUK",
+  "titulo": "As bem-aventuranças e as maldições",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 6,20-26",
+  "ini": { "c": 6, "v": 20 },
+  "fim": { "c": 6, "v": 26 },
+  "liturgia": { "tema_central": "“Bem-aventurados vós os pobres, porque vosso é o reino de Deus”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na planície, olhando para os discípulos, Jesus proclama quatro bem-aventuranças e quatro “ais”. Felizes os pobres, porque deles é o Reino; os que agora têm fome, porque serão saciados; os que agora choram, porque rirão; os odiados e rejeitados por causa do Filho do homem, porque é grande a sua recompensa no céu, como foi a dos profetas. Em paralelo: ai dos ricos, que já têm a sua consolação; dos saciados, que terão fome; dos que agora riem, que chorarão; e de quando todos falam bem de vós, como faziam com os falsos profetas. Lucas fala na segunda pessoa (“vós”) e sublinha o contraste entre o “agora” e o futuro.",
+    "alegorico": "As quatro bem-aventuranças de Lucas contêm as oito de Mateus, e correspondem às quatro virtudes cardeais. O próprio Cristo, que se fez pobre, teve fome, chorou e foi rejeitado, é o primeiro bem-aventurado; nele se cumpre a inversão que anuncia, já cantada no Magnificat: Deus derruba os poderosos e exalta os humildes.",
+    "moral": "Não é bem-aventurada a pobreza imposta e cobiçosa, mas a do discípulo que prefere Cristo às riquezas. A riqueza não é condenada em si, mas o seu mau uso: o rico deve dar graças e partilhar o que recebeu para o bem comum. A fome de justiça nunca se dá por satisfeita neste mundo. A lisonja alimenta o pecado como óleo na chama: busquemos a glória que vem de Deus.",
+    "anagogico": "Todas as promessas se cumprem no céu: o Reino possuído, a saciedade plena quando se manifestar a glória de Deus, o riso de uma alegria sem mistura de tristeza. O “agora” é breve; a recompensa é grande e eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levantando os olhos para os seus discípulos, dizia: “Bem-aventurados vós os pobres, porque vosso é o reino de Deus. Bem-aventurados os que agora tendes fome, porque sereis saciados. Bem-aventurados os que agora chorais, porque rireis. Bem-aventurados sereis quando os homens vos odiarem por causa do Filho do homem. Alegrai-vos nesse dia, e exultai, porque será grande a vossa recompensa no céu. Mas, ai de vós, ó ricos! porque tendes a vossa consolação. Ai de vós os que estais saciados! porque vireis a ter fome. Ai de vós, quando todos os homens vos louvarem!”",
+    "meditatio_perguntas": [
+      "Onde procuro a minha “consolação”: em Deus ou nos bens e no aplauso?",
+      "Que uso faço do que tenho: guardo-o ou partilho-o?",
+      "Tenho fome de justiça, ou estou “saciado” e satisfeito comigo mesmo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste pobre por nós, dá-me um coração pobre, faminto de ti e capaz de chorar com os que choram. Livra-me de buscar a consolação nas riquezas e no louvor dos homens, e firma a minha esperança na recompensa do céu. Amém.",
+    "contemplatio_foco": { "texto": "Bem-aventurados vós os pobres, porque vosso é o reino de Deus.", "ref": "Lc 6,20" }
+  },
+  "ancoras": {
+    "6:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:20–23#2", "sintese": "Fala a todos, mas levanta os olhos sobretudo para os discípulos, para revelar o sentido profundo aos que ouvem com o coração." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:20–23#3", "sintese": "As quatro de Lucas contêm as oito de Mateus, e estas aquelas; ambos põem primeiro a pobreza, mãe das virtudes, pois quem despreza o mundo colhe a recompensa eterna." },
+        { "autor": "São Basílio", "obra": "in Ps. 33.", "catena": "6:20–23#5", "sintese": "Não é feliz todo pobre, mas quem preferiu o mandamento de Cristo às riquezas; muitos são pobres de bens e cobiçosos de ânimo." }
+      ],
+      "nota": null
+    },
+    "6:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:20–23#10", "sintese": "Nunca nos julguemos justos o bastante: a saciedade plena da justiça só vem na vida futura, quando se manifestar a glória de Deus." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 18. ad pop. Ant.", "catena": "6:20–23#13", "sintese": "A tristeza segundo Deus produz penitência e é fonte de alegria; quem chora os pecados alheios não descuida os próprios." },
+        { "autor": "São Basílio", "obra": "Hom. de Grat. act.", "catena": "6:20–23#14", "sintese": "O riso prometido não é o som da boca, mas uma alegria pura, sem mistura de tristeza." }
+      ],
+      "nota": null
+    },
+    "6:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:20–23#21", "sintese": "Quem diz a verdade costuma ser perseguido; mas os profetas não deixaram de pregá-la por medo." }
+      ],
+      "nota": null
+    },
+    "6:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:24–26#2", "sintese": "Não são condenados os que possuem riquezas, mas os que não sabem usá-las: o rico deve dar graças e não esconder o que recebeu para o bem comum." }
+      ],
+      "nota": null
+    },
+    "6:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:24–26#3", "sintese": "O rico vestido de púrpura estava farto; depois, faminto, implorou uma gota de água a Lázaro, que desprezara." }
+      ],
+      "nota": null
+    },
+    "6:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:24–26#8", "sintese": "A lisonja é nutriz do pecado e, como óleo na chama, alimenta os que ardem nele." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:24–26#9", "sintese": "Façamos o bem para a glória de Deus, não para a nossa; quem deseja a glória de Deus foge do louvor dos homens, que passa depressa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

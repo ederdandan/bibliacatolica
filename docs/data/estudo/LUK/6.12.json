@@ -1,0 +1,73 @@
+{
+  "id": "LUK.6.12",
+  "livro": "LUK",
+  "titulo": "A escolha dos Doze",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 6,12-19",
+  "ini": { "c": 6, "v": 12 },
+  "fim": { "c": 6, "v": 19 },
+  "liturgia": { "tema_central": "Depois de uma noite de oração, Jesus escolhe os Apóstolos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus retira-se ao monte e passa a noite inteira em oração a Deus. De manhã, chama os discípulos e escolhe doze, a quem chama Apóstolos (enviados): Simão, a quem chama Pedro, André, Tiago, João, Filipe, Bartolomeu, Mateus, Tomé, Tiago de Alfeu, Simão o Zelador, Judas de Tiago e Judas Iscariotes, o traidor. Desce com eles e para numa planície, onde se reúnem muitos discípulos e uma multidão vinda da Judeia, de Jerusalém e do litoral pagão de Tiro e Sidônia, para o ouvir e ser curada. Todos procuram tocá-lo, porque dele sai uma força que cura a todos.",
+    "alegorico": "Os Doze correspondem às doze tribos: Jesus funda o novo Israel, a Igreja. O monte onde os escolhe é a altura da justiça, como o Sinai onde a Lei foi dada. Subir com os apóstolos e descer à multidão mostra o Verbo que desce ao nível dos homens para os curar; tocá-lo é crer nele, e ser tocado por ele é receber a salvação.",
+    "moral": "Cristo ora antes de escolher: que fazemos nós ao começar uma obra de piedade? A oração noturna purifica a alma e consome a ferrugem do pecado. Deus escolhe pescadores e publicanos, não sábios nem poderosos, para que prevaleça a força da verdade. Judas é escolhido conscientemente: quando um amigo nos trair, suportemos com serenidade, como o Senhor.",
+    "anagogico": "Os Doze, fundamento da Igreja, julgarão as tribos de Israel e figuram as doze portas da Jerusalém celeste. A força que sai de Cristo e cura a todos anuncia a cura plena da humanidade no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Naqueles dias Jesus retirou-se para o monte a orar, e passou toda a noite em oração a Deus. Quando se fez dia, chamou os seus discípulos, e escolheu doze dentre eles, aos quais deu o nome de Apóstolos: Simão, a quem deu o sobrenome de Pedro, André, Tiago, João, Filipe, Bartolomeu, Mateus, Tomé, Tiago, Simão, Judas, e Judas Escariotes, que foi o traidor. Descendo com eles, parou numa planície, onde estava uma grande multidão, que tinham vindo para o ouvir, e para ser curados. Todo o povo procurava tocá-lo, porque saía dele uma virtude que os curava a todos.",
+    "meditatio_perguntas": [
+      "Rezo antes das decisões importantes da minha vida?",
+      "Acredito que Deus pode chamar-me apesar da minha fragilidade, como chamou pescadores e publicanos?",
+      "Procuro “tocar” Jesus pela fé e pelos sacramentos?"
+    ],
+    "oratio_guia": "Senhor Jesus, que passaste a noite em oração antes de escolher os Apóstolos, ensina-me a buscar o Pai antes de cada decisão. Obrigado pelos pastores que deste à tua Igreja; sustenta-os na fidelidade. Deixa-me tocar-te pela fé, para que a tua força me cure. Amém.",
+    "contemplatio_foco": { "texto": "passou toda a noite em oração a Deus", "ref": "Lc 6,12" }
+  },
+  "ancoras": {
+    "6:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:12–16#1", "sintese": "O Filho de Deus não ora por fraqueza, mas, mestre da obediência, conduz-nos pelo seu exemplo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:12–16#4", "sintese": "Levanta-te também tu de noite: a alma está mais pura, e a oração noturna consome a ferrugem do pecado melhor que o fogo a do ferro." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:12–16#13", "sintese": "O monte da escolha é a altura da justiça que deviam aprender e pregar; também a Lei foi dada num monte." }
+      ],
+      "nota": null
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:12–16#5", "sintese": "Se Cristo orou antes de enviar os discípulos, que deves fazer tu ao começar uma obra? Escolheu pescadores e publicanos, para que prevalecesse a verdade, não a eloquência nem o poder." }
+      ],
+      "nota": { "texto": "“Apóstolo” vem do grego apostolos, “enviado”. O número doze evoca as doze tribos: Jesus reconstitui o povo de Deus.", "origem": "ia" }
+    },
+    "6:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:12–16#9", "sintese": "Na sua própria lista, Mateus põe-se por humildade depois de Tomé; os outros evangelistas põem-no antes." }
+      ],
+      "nota": null
+    },
+    "6:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:12–16#12", "sintese": "Judas é escolhido conscientemente: Cristo quis ser traído por um apóstolo, para que, traído por um amigo, suportes com serenidade." }
+      ],
+      "nota": null
+    },
+    "6:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "6:17–19#4", "sintese": "Sobe com os apóstolos e desce para a multidão: a multidão não o segue às alturas, e só embaixo encontra os enfermos." }
+      ],
+      "nota": null
+    },
+    "6:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:17–19#5", "sintese": "Tocar o Salvador é crer nele; ser tocado por Ele é ser curado pelos seus dons." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
