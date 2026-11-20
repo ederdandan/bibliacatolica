@@ -1,0 +1,234 @@
+{
+ "livro": "2CO",
+ "secoes": [
+  "O ministério apostólico",
+  "A colecta para Jerusalém",
+  "Paulo defende o seu apostolado"
+ ],
+ "pericopes": [
+  {
+   "id": "2CO.1.1",
+   "titulo": "O Deus de toda a consolação",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "2CO.1.12",
+   "titulo": "Em Cristo não há sim e não",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 1,12–2,4",
+   "ini": {
+    "c": 1,
+    "v": 12
+   },
+   "fim": {
+    "c": 2,
+    "v": 4
+   }
+  },
+  {
+   "id": "2CO.2.5",
+   "titulo": "O perdão ao ofensor; o bom odor de Cristo",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 2,5-17",
+   "ini": {
+    "c": 2,
+    "v": 5
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "2CO.3.1",
+   "titulo": "Ministros da nova aliança: o Espírito vivifica",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 3,1-18",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 18
+   }
+  },
+  {
+   "id": "2CO.4.1",
+   "titulo": "Um tesouro em vasos de barro",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 4,1-18",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 18
+   }
+  },
+  {
+   "id": "2CO.5.1",
+   "titulo": "A morada eterna nos céus",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 5,1-10",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 10
+   }
+  },
+  {
+   "id": "2CO.5.11",
+   "titulo": "Reconciliai-vos com Deus",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 5,11-21",
+   "ini": {
+    "c": 5,
+    "v": 11
+   },
+   "fim": {
+    "c": 5,
+    "v": 21
+   }
+  },
+  {
+   "id": "2CO.6.1",
+   "titulo": "Agora é o tempo aceitável",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 6,1–7,1",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 1
+   }
+  },
+  {
+   "id": "2CO.7.2",
+   "titulo": "A tristeza segundo Deus",
+   "secao": "O ministério apostólico",
+   "referencia": "2Cor 7,2-16",
+   "ini": {
+    "c": 7,
+    "v": 2
+   },
+   "fim": {
+    "c": 7,
+    "v": 16
+   }
+  },
+  {
+   "id": "2CO.8.1",
+   "titulo": "Sendo rico, fez-se pobre por vós",
+   "secao": "A colecta para Jerusalém",
+   "referencia": "2Cor 8,1-24",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 24
+   }
+  },
+  {
+   "id": "2CO.9.1",
+   "titulo": "Deus ama o que dá com alegria",
+   "secao": "A colecta para Jerusalém",
+   "referencia": "2Cor 9,1-15",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 15
+   }
+  },
+  {
+   "id": "2CO.10.1",
+   "titulo": "Quem se gloria, glorie-se no Senhor",
+   "secao": "Paulo defende o seu apostolado",
+   "referencia": "2Cor 10,1-18",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 18
+   }
+  },
+  {
+   "id": "2CO.11.1",
+   "titulo": "Desposei-vos com um único esposo, Cristo",
+   "secao": "Paulo defende o seu apostolado",
+   "referencia": "2Cor 11,1-15",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 15
+   }
+  },
+  {
+   "id": "2CO.11.16",
+   "titulo": "Os trabalhos e perigos do apóstolo",
+   "secao": "Paulo defende o seu apostolado",
+   "referencia": "2Cor 11,16-33",
+   "ini": {
+    "c": 11,
+    "v": 16
+   },
+   "fim": {
+    "c": 11,
+    "v": 33
+   }
+  },
+  {
+   "id": "2CO.12.1",
+   "titulo": "Basta-te a minha graça",
+   "secao": "Paulo defende o seu apostolado",
+   "referencia": "2Cor 12,1-10",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 10
+   }
+  },
+  {
+   "id": "2CO.12.11",
+   "titulo": "Examinai-vos a vós mesmos",
+   "secao": "Paulo defende o seu apostolado",
+   "referencia": "2Cor 12,11–13,13",
+   "ini": {
+    "c": 12,
+    "v": 11
+   },
+   "fim": {
+    "c": 13,
+    "v": 13
+   }
+  }
+ ]
+}

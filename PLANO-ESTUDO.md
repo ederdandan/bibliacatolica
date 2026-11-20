@@ -107,7 +107,7 @@ Progresso: Marcos ✅ 75 · Mateus ✅ 107 · Lucas ✅ 78 · João ✅ 48. **Os
 Lote 1: Filipenses ✅ 10 · Efésios ✅ 12 · Colossenses ✅ 8 · 1 Tessalonicenses ✅ 8 · Tiago ✅ 9 · 1 Pedro ✅ 9 · 1 João ✅ 10. **Lote 1 concluído: 66 perícopes.**
 Lote 2: Filémon ✅ 2 · 2 João ✅ 1 · 3 João ✅ 1 · Judas ✅ 2 · 2 Tessalonicenses ✅ 4 · Tito ✅ 3 · 2 Pedro ✅ 5. **Lote 2 concluído: 18 perícopes.**
 Lote 3: Gálatas ✅ 11 · 1 Timóteo ✅ 10 · 2 Timóteo ✅ 6. **Lote 3 concluído: 27 perícopes.**
-Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17. Próximo: 2 Coríntios (2CO).
+Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios ✅ 16. Próximo: Apocalipse (REV).
 Fluxo fora dos Evangelhos: criar `scripts/pericopes/{ID}.txt` → `index {ID}` → escrever o conteúdo num módulo `{ID}.mjs` (array de `{k, tema, literal, alegorico, moral, anagogico, lectio, perguntas, oratio, foco:[texto, ref], notas:{"c:v": texto}}`) → `node scripts/gen-estudo.mjs {ID} <caminho>/{ID}.mjs` (o módulo fica no scratchpad; o gerador preenche id/título/seção/ref/ini/fim do índice, `padres: []`, `cic: []`, `origem: "ia"`) → `check {ID}`. Nas notas, não citar números do CIC (fica para a fase 1.2). `estudo.mjs` agora tira as abreviaturas de `docs/data/index.json`.
 Fora dos Evangelhos não há Catena. **Decisão:** nesses livros, `padres` fica `[]`; as âncoras levam só `nota` (IA) quando houver algo útil.
 

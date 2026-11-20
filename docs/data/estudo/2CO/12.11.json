@@ -1,0 +1,65 @@
+{
+  "id": "2CO.12.11",
+  "livro": "2CO",
+  "titulo": "Examinai-vos a vós mesmos",
+  "secao": "Paulo defende o seu apostolado",
+  "referencia": "2Cor 12,11–13,13",
+  "ini": {
+    "c": 12,
+    "v": 11
+  },
+  "fim": {
+    "c": 13,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A graça, a caridade e a comunhão do Espírito Santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo foi obrigado a falar como insensato; os coríntios deviam tê-lo recomendado, pois em nada foi inferior aos super-apóstolos, e os sinais do apostolado realizaram-se entre eles com paciência, sinais, prodígios e milagres. Em que foram inferiores às outras Igrejas, a não ser em que ele não lhes foi pesado? Perdoem-lhe esta injustiça! Vai pela terceira vez e não lhes será pesado, porque não busca os seus bens, mas a eles: são os pais que entesouram para os filhos. Gastará de boa vontade o que tem e gastar-se-á a si mesmo pelas suas almas, ainda que, amando-os mais, seja menos amado. Teme encontrar contendas, invejas, iras, divisões, calúnias e impurezas não arrependidas. Avisa que não poupará ninguém: Cristo, crucificado em fraqueza, vive pelo poder de Deus. Examinai-vos a vós mesmos, se estais na fé; provai-vos; não reconheceis que Jesus Cristo está em vós? Escreve ausente para não ter de usar de severidade presente. Por fim: alegrai-vos, sede perfeitos, animai-vos, tende o mesmo sentir, vivei em paz, e o Deus do amor e da paz estará convosco. A graça do Senhor Jesus Cristo, a caridade de Deus e a comunhão do Espírito Santo estejam com todos vós.",
+    "alegorico": "A bênção final é a mais explícita fórmula trinitária das cartas paulinas: graça do Filho, amor do Pai, comunhão do Espírito. A Igreja a usa como saudação no início da Missa: cada assembleia é reunida pela Trindade.",
+    "moral": "“Não busco as vossas coisas, mas a vós”: o verdadeiro pastor ama as pessoas, não os bens. E gasta-se, mesmo quando é menos amado. O autoexame (“examinai-vos a vós mesmos”) é exigência permanente. As últimas recomendações são um programa de vida comunitária: alegria, perfeição, consolo mútuo, unidade, paz.",
+    "anagogico": "O Deus do amor e da paz, presente na comunidade, prepara a comunhão eterna da Trindade com os seus. A bênção trinitária é já antecipação da vida do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não busco as vossas coisas, mas a vós. Eu de mui boa vontade darei o que é meu e me darei a mim pelas vossas almas, ainda que, amando-vos eu mais, seja por vós menos amado. Examinai-vos a vós mesmos, se estais firmes na fé. Acaso não conheceis que Jesus Cristo está em vós? Alegrai-vos, procurai ser perfeitos, tende o mesmo sentir, vivei em paz, e o Deus da caridade e da paz será convosco. A graça do Senhor Jesus Cristo, a caridade de Deus e a comunicação do Espírito Santo sejam com todos vós.",
+    "meditatio_perguntas": [
+      "Amo as pessoas pelo que são ou pelo que me dão?",
+      "Faço um exame sincero: estou firme na fé?",
+      "Que significa para mim a saudação trinitária no início da Missa?"
+    ],
+    "oratio_guia": "Que a graça do Senhor Jesus Cristo, a caridade do Pai e a comunhão do Espírito Santo estejam comigo e com todos. Dá-me, Senhor, gastar-me pelos irmãos, examinar-me com sinceridade e viver na tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "A graça do Senhor Jesus Cristo, a caridade de Deus e a comunicação do Espírito Santo sejam com todos vós",
+      "ref": "2Cor 13,13"
+    }
+  },
+  "ancoras": {
+    "13:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cor 13,11-13 é a segunda leitura da Santíssima Trindade, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "13:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula retomada pelo Missal Romano como primeira saudação do celebrante.",
+        "origem": "ia"
+      }
+    },
+    "12:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Terceira vez”: Paulo visitou Corinto na fundação (At 18), numa “visita dolorosa” (2,1) e prepara a terceira (At 20,2-3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

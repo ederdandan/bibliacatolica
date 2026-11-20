@@ -1,0 +1,57 @@
+{
+  "id": "2CO.5.1",
+  "livro": "2CO",
+  "titulo": "A morada eterna nos céus",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 5,1-10",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Caminhamos pela fé e não pela visão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sabemos que, se a tenda terrestre em que habitamos for destruída, temos de Deus um edifício, uma casa eterna nos céus, não feita por mãos humanas. Por isso gememos, desejando revestir-nos da nossa habitação celeste por cima da outra; não queremos ser despojados, mas revestidos, para que o mortal seja absorvido pela vida. Foi Deus quem nos preparou para isso e nos deu o penhor do Espírito. Por isso estamos sempre cheios de confiança: sabemos que, enquanto habitamos no corpo, estamos longe do Senhor, porque caminhamos pela fé e não pela visão. Preferiríamos deixar o corpo e habitar junto do Senhor. Por isso, quer no corpo, quer fora dele, procuramos agradar-lhe, porque todos devemos comparecer diante do tribunal de Cristo, para que cada um receba segundo o que fez enquanto estava no corpo, o bem ou o mal.",
+    "alegorico": "A “tenda” terrestre evoca o tabernáculo do deserto e a peregrinação de Israel; a casa “não feita por mãos humanas” é o corpo glorioso e a morada celeste. Cristo, cuja carne foi o templo destruído e reerguido, é o modelo dessa passagem.",
+    "moral": "A fé é o modo de caminhar nesta vida: sem ver, mas com confiança. A consciência do juízo não gera medo, mas o desejo de “agradar ao Senhor” em tudo. O corpo é tenda, provisória mas valiosa: o que nele fazemos tem peso eterno.",
+    "anagogico": "O texto ilumina a esperança cristã diante da morte: estar “longe do Senhor” no corpo e “presente ao Senhor” depois. A Igreja reza no prefácio dos defuntos: “desfeita a morada deste exílio terrestre, adquirimos no céu uma habitação eterna”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se a casa terrestre desta nossa morada for desfeita, temos de Deus um edifício, uma casa não feita por mãos humanas, que será eterna nos céus. Deus nos deu o penhor do Espírito. Por isso permanecemos sempre cheios de confiança, porque caminhamos pela fé, e não pela visão. Quer no corpo, quer longe dele, esforçamo-nos por lhe agradar, pois é necessário que todos compareçamos diante do tribunal de Cristo.",
+    "meditatio_perguntas": [
+      "Como olho a minha morte: com medo ou com confiança?",
+      "Caminho pela fé, mesmo quando não vejo?",
+      "Procuro agradar ao Senhor em tudo o que faço no corpo?"
+    ],
+    "oratio_guia": "Senhor, que nos preparaste uma casa eterna nos céus, dá-me caminhar pela fé, cheio de confiança. Que eu procure agradar-te em tudo, até ao dia em que, deixada esta tenda, habitarei junto de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "caminhamos pela fé, e não pela visão",
+      "ref": "2Cor 5,7"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto inspirador do prefácio I dos defuntos: “a vida não é tirada, mas transformada”. 2Cor 5,6-10 é a segunda leitura do 11º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "5:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Base bíblica do juízo particular e final segundo as obras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

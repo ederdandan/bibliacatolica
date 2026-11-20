@@ -1,0 +1,57 @@
+{
+  "id": "2CO.9.1",
+  "livro": "2CO",
+  "titulo": "Deus ama o que dá com alegria",
+  "secao": "A colecta para Jerusalém",
+  "referencia": "2Cor 9,1-15",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Deus ama o que dá com alegria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo sabe que é supérfluo escrever sobre a coleta: conhece a prontidão dos coríntios, de que se gloriou diante dos macedónios, dizendo que a Acaia estava pronta desde o ano anterior, e esse zelo estimulou a muitos. Envia os irmãos para que a oferta esteja preparada, como generosidade e não como avareza, e para que ninguém se envergonhe. Quem semeia pouco colherá pouco; quem semeia com generosidade colherá com generosidade. Cada um dê conforme decidiu no coração, sem tristeza nem constrangimento, porque Deus ama o que dá com alegria. Deus é poderoso para cumular de toda graça, de modo que, tendo sempre o suficiente, abundem em toda boa obra, como está escrito: distribuiu, deu aos pobres, a sua justiça permanece para sempre. Aquele que dá a semente ao semeador e pão para comer multiplicará a sementeira e fará crescer os frutos da justiça. O serviço desta oferta não só supre as necessidades dos santos, mas transborda em ações de graças a Deus; eles glorificam a Deus pela obediência ao Evangelho e pela generosidade, e rezam pelos coríntios. Graças a Deus pelo seu dom inefável!",
+    "alegorico": "O “dom inefável” de Deus é o próprio Cristo, e nele o Espírito. Toda a dádiva humana é resposta ao primeiro Dom. A semente e o pão evocam a Eucaristia, fruto da terra e do trabalho que Deus multiplica.",
+    "moral": "A generosidade é questão de coração: decidida livremente, sem tristeza nem pressão. Deus ama a alegria de quem dá. E a esmola cria uma rede de graça: supre necessidades, gera ação de graças, oração e comunhão entre as Igrejas. Ninguém empobrece por dar com Deus.",
+    "anagogico": "“A sua justiça dura para sempre”: o que se dá aos pobres não se perde, entra na eternidade. A colheita prometida a quem semeia generosamente é, em última instância, a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cada um dê como propôs no seu coração, não com tristeza, nem constrangido, porque Deus ama o que dá com alegria. Deus é poderoso para fazer abundar em vós todos os bens. Aquele que subministra semente ao semeador, dará também pão para comer e aumentará sempre mais os frutos da vossa justiça. Graças a Deus pelo seu dom inefável.",
+    "meditatio_perguntas": [
+      "Dou com alegria ou por obrigação?",
+      "Confio que Deus não me deixará faltar o necessário se eu for generoso?",
+      "Agradeço a Deus pelo seu dom inefável, Jesus Cristo?"
+    ],
+    "oratio_guia": "Graças a ti, Pai, pelo teu dom inefável! Dá-me um coração alegre no dar, livre de tristeza e de avareza. Multiplica a minha semente, para que eu abunde em toda boa obra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus ama o que dá com alegria",
+      "ref": "2Cor 9,7"
+    }
+  },
+  "ancoras": {
+    "9:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 111 (112), 9, que descreve o justo generoso.",
+        "origem": "ia"
+      }
+    },
+    "9:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Dom inefável”: os Padres entenderam-no como o próprio Cristo, ou a graça da caridade que une as Igrejas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

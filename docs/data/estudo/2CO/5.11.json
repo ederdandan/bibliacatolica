@@ -1,0 +1,57 @@
+{
+  "id": "2CO.5.11",
+  "livro": "2CO",
+  "titulo": "Reconciliai-vos com Deus",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 5,11-21",
+  "ini": {
+    "c": 5,
+    "v": 11
+  },
+  "fim": {
+    "c": 5,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Em Cristo, uma nova criatura",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Conhecendo o temor do Senhor, Paulo procura persuadir os homens; diante de Deus está manifesto. Não se recomenda, mas dá aos coríntios motivo de se gloriarem dele diante dos que se gloriam das aparências. Se está fora de si, é para Deus; se é sensato, é para eles. O amor de Cristo nos constrange, ao pensarmos que, se um morreu por todos, todos morreram; e Ele morreu por todos, para que os que vivem já não vivam para si, mas para Aquele que por eles morreu e ressuscitou. Por isso já não conhecemos ninguém segundo a carne. Se alguém está em Cristo, é nova criatura: o velho passou, eis que tudo se fez novo. Tudo vem de Deus, que nos reconciliou consigo por Cristo e nos confiou o ministério da reconciliação: em Cristo, Deus reconciliava o mundo consigo, não imputando aos homens os seus pecados, e pôs em nós a palavra da reconciliação. Somos, pois, embaixadores de Cristo; é como se Deus exortasse por nós. Suplicamo-vos em nome de Cristo: reconciliai-vos com Deus. Aquele que não conheceu o pecado, Deus o fez pecado por nós, para que nele nos tornássemos justiça de Deus.",
+    "alegorico": "“Fez-se pecado por nós”: Cristo carrega o pecado como o bode expiatório e como as vítimas “pelo pecado”, para que nós recebamos a sua justiça. É o “admirável intercâmbio” celebrado pela liturgia. A nova criatura é o homem renascido no batismo.",
+    "moral": "O motor da vida apostólica é o amor de Cristo que “constrange”, que impele. Viver “para aquele que morreu e ressuscitou” é o oposto de viver para si. E a Igreja recebeu o ministério da reconciliação, exercido de modo especial no sacramento da Penitência: “reconciliai-vos com Deus”.",
+    "anagogico": "“Eis que tudo se fez novo” antecipa o “eis que faço novas todas as coisas” do Apocalipse. A nova criação começada no batizado culminará nos novos céus e nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O amor de Cristo nos constrange. Cristo morreu por todos, a fim de que aqueles que vivem não vivam mais para si, mas para aquele que morreu e ressuscitou por eles. Se algum está em Cristo, é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo. Deus nos reconciliou consigo por Cristo e nos deu o ministério da reconciliação. Por Cristo vos rogamos, reconciliai-vos com Deus.",
+    "meditatio_perguntas": [
+      "O amor de Cristo me impele, ou vivo ainda para mim?",
+      "Em que preciso de deixar que “as coisas velhas” passem?",
+      "Há algo de que preciso de me reconciliar com Deus, talvez no sacramento da Penitência?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste pecado por nós para nos dar a tua justiça, faz de mim nova criatura. Que o teu amor me impila a viver não para mim, mas para ti, e que eu me deixe reconciliar com o Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por Cristo vos rogamos, reconciliai-vos com Deus",
+      "ref": "2Cor 5,20"
+    }
+  },
+  "ancoras": {
+    "5:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cor 5,20–6,2 é a segunda leitura da Quarta-feira de Cinzas; 2Cor 5,17-21, do 4º Domingo da Quaresma, Ano C; 2Cor 5,14-17, do 12º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "5:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O fez pecado”: Agostinho lê “sacrifício pelo pecado”, como no hebraico hattat, que significa tanto “pecado” como “vítima pelo pecado”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

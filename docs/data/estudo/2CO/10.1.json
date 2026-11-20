@@ -1,0 +1,57 @@
+{
+  "id": "2CO.10.1",
+  "livro": "2CO",
+  "titulo": "Quem se gloria, glorie-se no Senhor",
+  "secao": "Paulo defende o seu apostolado",
+  "referencia": "2Cor 10,1-18",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Levando cativo todo o pensamento à obediência de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa uma secção de tom polémico. Paulo roga pela mansidão e bondade de Cristo, ele que, dizem, é humilde presente e ousado ausente. Pede que não o obriguem a usar de firmeza contra os que o acusam de agir segundo a carne. Embora vivamos na carne, não combatemos segundo a carne: as armas do nosso combate não são carnais, mas poderosas em Deus para derrubar fortalezas; destruímos raciocínios e toda altivez que se levanta contra o conhecimento de Deus, e levamos cativo todo pensamento à obediência de Cristo. Paulo afirma a sua autoridade, recebida para edificar e não para destruir; as suas cartas são duras, mas também a sua presença o será. Não se compara com os que se recomendam a si mesmos e se medem por si; gloria-se dentro dos limites que Deus lhe deu, que incluem Corinto, e espera levar o Evangelho mais além, sem se gloriar do trabalho alheio. Quem se gloria, glorie-se no Senhor: não é aprovado quem se recomenda a si mesmo, mas aquele a quem o Senhor recomenda.",
+    "alegorico": "O combate espiritual do apóstolo, que derruba as fortalezas do orgulho, evoca a conquista de Jericó: não pela força humana, mas pelo poder de Deus. Cristo manso e humilde é a arma que vence o mundo.",
+    "moral": "A luta cristã é interior e espiritual: contra as fortalezas do orgulho e os raciocínios que se erguem contra Deus. A meta é ousada: “todo pensamento cativo à obediência de Cristo”. E a autoridade na Igreja é para edificar. Comparar-se aos outros e medir-se por si mesmo é falta de sabedoria.",
+    "anagogico": "A aprovação definitiva vem do Senhor, não dos homens. No juízo, só a recomendação de Deus contará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Rogo-vos pela doçura e mansidão de Cristo. Embora vivendo na carne, não militamos segundo a carne. As armas da nossa milícia não são carnais, mas poderosas em Deus para destruir as fortificações; reduzimos à sujeição todo o pensamento para o tornar obediente a Cristo. Aquele que se gloria, glorie-se no Senhor, porque não é o que a si mesmo se recomenda que é aprovado, mas sim aquele a quem Deus recomenda.",
+    "meditatio_perguntas": [
+      "Que “fortalezas” de orgulho em mim precisam ser derrubadas?",
+      "Os meus pensamentos são obedientes a Cristo?",
+      "Procuro a aprovação de Deus ou a dos homens?"
+    ],
+    "oratio_guia": "Senhor Jesus, manso e humilde, combate em mim com as armas de Deus. Derruba as fortalezas do meu orgulho e leva cativo todo o meu pensamento à tua obediência. Que eu só me glorie em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele, pois, que se gloria, glorie-se no Senhor",
+      "ref": "2Cor 10,17"
+    }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 10–13 têm tom diferente; muitos estudiosos pensam que formavam outra carta (talvez a “carta das lágrimas”).",
+        "origem": "ia"
+      }
+    },
+    "10:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Jr 9,23, já usada em 1Cor 1,31.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

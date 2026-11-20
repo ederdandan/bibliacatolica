@@ -1,0 +1,49 @@
+{
+  "id": "2CO.7.2",
+  "livro": "2CO",
+  "titulo": "A tristeza segundo Deus",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 7,2-16",
+  "ini": {
+    "c": 7,
+    "v": 2
+  },
+  "fim": {
+    "c": 7,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A tristeza segundo Deus produz penitência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que lhe abram o coração: não ofendeu, não arruinou, não explorou ninguém; não fala para condenar, pois os coríntios estão no seu coração para a vida e para a morte. Está cheio de consolação e de alegria no meio das tribulações. Na Macedónia, não teve repouso: lutas por fora, temores por dentro; mas Deus, que consola os humildes, consolou-o com a chegada de Tito e com as notícias do arrependimento e do afeto dos coríntios. Se os entristeceu com a sua carta, não se arrepende: alegra-se não por os ter entristecido, mas porque a tristeza os levou à penitência. A tristeza segundo Deus produz arrependimento salutar, de que não há que lamentar; a tristeza do mundo produz a morte. E Paulo enumera os frutos dessa tristeza: solicitude, desculpa, indignação, temor, desejo, zelo, reparação. Alegra-se com a alegria de Tito e com a confiança que pode ter neles.",
+    "alegorico": "A tristeza segundo Deus é a de Pedro, que chorou amargamente e foi restaurado; a tristeza do mundo é a de Judas, que terminou em desespero. A Igreja como mãe sabe entristecer os filhos para os curar.",
+    "moral": "Há duas tristezas: uma que se fecha em si (remorso, autocomiseração, desespero) e outra que se abre a Deus (contrição, que gera vida nova). A correção fraterna, mesmo dolorosa, pode ser grande dom. E a reconciliação devolve a alegria a todos.",
+    "anagogico": "A penitência “para a salvação” prepara a alegria definitiva. Deus, “que consola os humildes”, transforma no fim todas as lágrimas de arrependimento em gozo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estou cheio de consolação, inundado de alegria no meio de todas as nossas tribulações. Deus, que consola os humildes, consolou-nos com a chegada de Tito. Agora folgo, não de vos ter entristecido, mas de que a vossa tristeza vos levou à penitência, porque a tristeza, que é segundo Deus, produz uma penitência estável para a salvação; pelo contrário, a tristeza do século produz a morte.",
+    "meditatio_perguntas": [
+      "A minha tristeza pelos pecados abre-me a Deus ou fecha-me em mim?",
+      "Sei acolher uma correção como dom?",
+      "Que frutos de conversão nasceram em mim das quedas passadas?"
+    ],
+    "oratio_guia": "Deus, que consolas os humildes, dá-me a tristeza segundo ti, que leva à penitência e à vida. Livra-me da tristeza do mundo, que fecha e mata, e enche-me da tua consolação no meio das tribulações. Amém.",
+    "contemplatio_foco": {
+      "texto": "a tristeza, que é segundo Deus, produz uma penitência estável para a salvação",
+      "ref": "2Cor 7,10"
+    }
+  },
+  "ancoras": {
+    "7:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Distinção clássica na teologia espiritual entre contrição e remorso; Santo Inácio retoma-a nas regras de discernimento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

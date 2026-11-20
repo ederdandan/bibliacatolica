@@ -1,0 +1,65 @@
+{
+  "id": "2CO.1.12",
+  "livro": "2CO",
+  "titulo": "Em Cristo não há sim e não",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 1,12–2,4",
+  "ini": {
+    "c": 1,
+    "v": 12
+  },
+  "fim": {
+    "c": 2,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Todas as promessas de Deus encontraram o seu sim em Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo gloria-se do testemunho da consciência: comportou-se no mundo, e sobretudo com os coríntios, com santidade e sinceridade vindas de Deus, não com sabedoria carnal. Mudou os planos de viagem, e alguns acusaram-no de leviandade, de dizer sim e não ao mesmo tempo. Ele responde: Deus é fiel, e a nossa palavra não é sim e não. O Filho de Deus, Jesus Cristo, pregado por Paulo, Silvano e Timóteo, não foi sim e não, mas nele houve só o sim. Todas as promessas de Deus encontram nele o seu sim, e por Ele dizemos o nosso Amém para glória de Deus. É Deus quem nos confirma em Cristo, nos ungiu, nos marcou com o seu selo e pôs nos corações o penhor do Espírito. Se não foi a Corinto, foi para os poupar; não quer dominar sobre a fé deles, mas colaborar na sua alegria. Escreveu com muitas lágrimas, não para os entristecer, mas para que conhecessem o grande amor que lhes tem.",
+    "alegorico": "Cristo é o “Sim” de Deus a todas as promessas, e a Igreja responde com o seu “Amém” litúrgico. A unção, o selo e o penhor do Espírito evocam o batismo e a confirmação, que marcam o cristão como pertença de Deus.",
+    "moral": "A coerência da palavra é exigência cristã: o sim seja sim. O pastor não domina a fé dos outros, mas colabora na sua alegria. E a correção, quando necessária, nasce de um amor que chora: Paulo escreve com lágrimas, não com desprezo.",
+    "anagogico": "O Espírito é o “penhor”, o primeiro pagamento da herança futura. O Amém que dizemos agora a Cristo antecipa o Amém eterno da liturgia celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Filho de Deus, Jesus Cristo, não foi sim e não, mas foi sempre sim. Todas as promessas de Deus encontraram o seu sim nele e, por isso, é também por ele que dizemos o nosso Amen para glória de Deus. Deus nos ungiu, nos imprimiu o seu selo e pôs em nossos corações o penhor do Espírito. Não pretendemos dominar sobre a vossa fé, mas somos cooperadores do vosso gozo.",
+    "meditatio_perguntas": [
+      "A minha palavra é fiável, ou digo sim e não ao mesmo tempo?",
+      "Vivo como alguém marcado com o selo do Espírito?",
+      "Sou colaborador da alegria dos outros, ou procuro dominar?"
+    ],
+    "oratio_guia": "Senhor Jesus, Sim de Deus a todas as promessas, por ti digo o meu Amém ao Pai. Confirma em mim a unção e o selo do Espírito, e faz de mim colaborador da alegria dos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "todas as promessas de Deus encontraram o seu sim nele",
+      "ref": "2Cor 1,20"
+    }
+  },
+  "ancoras": {
+    "1:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cor 1,18-22 é a segunda leitura do 7º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "1:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Penhor” (arrabón): sinal ou adiantamento que garante o pagamento total; também em 5,5 e Ef 1,14.",
+        "origem": "ia"
+      }
+    },
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão à chamada “carta das lágrimas”, escrita entre 1 e 2 Coríntios e hoje perdida (ou, para alguns, conservada em 2Cor 10–13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

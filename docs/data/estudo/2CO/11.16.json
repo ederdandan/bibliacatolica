@@ -1,0 +1,57 @@
+{
+  "id": "2CO.11.16",
+  "livro": "2CO",
+  "titulo": "Os trabalhos e perigos do apóstolo",
+  "secao": "Paulo defende o seu apostolado",
+  "referencia": "2Cor 11,16-33",
+  "ini": {
+    "c": 11,
+    "v": 16
+  },
+  "fim": {
+    "c": 11,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "O cuidado de todas as igrejas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo aceita parecer louco e gloriar-se um pouco, já que outros se gloriam segundo a carne e os coríntios os suportam, mesmo quando os escravizam, devoram, exploram e esbofeteiam. São hebreus? Também ele. Israelitas? Também ele. Descendentes de Abraão? Também ele. Ministros de Cristo? Falando como insensato, ele mais: em trabalhos, em prisões, em açoites sem medida, muitas vezes em perigo de morte. Dos judeus recebeu cinco vezes quarenta açoites menos um; três vezes foi flagelado com varas, uma vez apedrejado, três vezes naufragou, passou um dia e uma noite no abismo do mar. Em viagens sem conta: perigos de rios, de ladrões, dos da sua raça, dos gentios, na cidade, no deserto, no mar, entre falsos irmãos; trabalho e fadiga, vigílias, fome e sede, jejuns, frio e nudez. E, além disso, a preocupação diária, o cuidado de todas as Igrejas. Quem é fraco, que ele não seja fraco? Quem cai, que ele não se abrase? Se é preciso gloriar-se, gloriar-se-á da sua fraqueza. E conta como fugiu de Damasco, descido num cesto pela muralha.",
+    "alegorico": "O catálogo de sofrimentos é a Paixão de Cristo prolongada no apóstolo: açoites, apedrejamento, abandono. A fuga de Damasco num cesto, cena humilhante, mostra o apóstolo configurado com o Senhor que se fez pequeno.",
+    "moral": "A verdadeira credencial do apóstolo não são títulos, mas os sofrimentos por amor de Cristo e o cuidado pelos outros. “Quem é fraco, que eu não seja fraco?”: compaixão que sente a dor dos outros como própria. A glória cristã é paradoxal: gloriar-se da fraqueza.",
+    "anagogico": "Os trabalhos e perigos sofridos pelo Evangelho são a semente da glória futura. O Deus “bendito por todos os séculos” conhece cada sofrimento e o recompensará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "São ministros de Cristo? Mais do que eles o sou eu: mais nos trabalhos, mais nos cárceres, em açoutes sem medida, frequentemente em perigos de morte. Três vezes naufraguei. Além destas coisas, tenho a minha preocupação quotidiana, o cuidado de todas as igrejas. Quem está enfermo, que eu não esteja enfermo? Quem é escandalizado, que eu me não abrase? Se importa que alguém se glorie, eu me gloriarei da minha fraqueza.",
+    "meditatio_perguntas": [
+      "Que sofrimentos aceito por amor de Cristo e dos irmãos?",
+      "Sinto como minhas as fraquezas e quedas dos outros?",
+      "Sou capaz de me gloriar da minha fraqueza?"
+    ],
+    "oratio_guia": "Senhor Jesus, que sustentaste Paulo em todos os perigos, dá-me um coração que carrega o cuidado dos irmãos. Que eu sofra com os que sofrem e só me glorie na minha fraqueza, onde tu és forte. Amém.",
+    "contemplatio_foco": {
+      "texto": "a minha preocupação quotidiana, o cuidado de todas as igrejas",
+      "ref": "2Cor 11,28"
+    }
+  },
+  "ancoras": {
+    "11:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Quarenta açoites menos um”: a lei limitava a quarenta (Dt 25,3); dava-se trinta e nove para não exceder por erro.",
+        "origem": "ia"
+      }
+    },
+    "11:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aretas IV, rei dos nabateus (9 a.C.–40 d.C.); cf. At 9,23-25.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

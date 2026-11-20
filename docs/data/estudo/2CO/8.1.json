@@ -1,0 +1,57 @@
+{
+  "id": "2CO.8.1",
+  "livro": "2CO",
+  "titulo": "Sendo rico, fez-se pobre por vós",
+  "secao": "A colecta para Jerusalém",
+  "referencia": "2Cor 8,1-24",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Sendo rico, fez-se pobre por vós",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo apresenta o exemplo das Igrejas da Macedónia: no meio de grande tribulação, a sua alegria transbordou e a sua extrema pobreza transformou-se em riqueza de generosidade. Deram, por iniciativa própria, segundo as posses e acima delas, pedindo como graça participar no socorro aos santos; e deram-se primeiro a si mesmos ao Senhor. Por isso Paulo pediu a Tito que concluísse em Corinto esta obra de generosidade. Como os coríntios abundam em tudo, na fé, na palavra, na ciência e no amor, abundem também nesta graça. Paulo não manda, mas prova a sinceridade da sua caridade. Conheceis a generosidade de Nosso Senhor Jesus Cristo: sendo rico, fez-se pobre por vós, para vos enriquecer com a sua pobreza. Concluam o que começaram; o que conta é a boa vontade, segundo o que se tem. Não se trata de aliviar os outros e sobrecarregar-vos, mas de igualdade: a vossa abundância supra a indigência deles, para que a deles supra a vossa, como no maná: quem colheu muito não teve demais, quem colheu pouco não teve de menos. Paulo envia Tito e dois irmãos escolhidos pelas Igrejas, para que ninguém o possa censurar na administração do dinheiro.",
+    "alegorico": "A pobreza de Cristo que nos enriquece é o mistério da Encarnação: o Verbo eterno assume a nossa pobreza para nos dar a sua riqueza divina. O maná partilhado no deserto prefigura a comunhão de bens na Igreja e a Eucaristia.",
+    "moral": "A generosidade cristã não nasce da abundância, mas do amor: os macedónios, pobres, deram acima das posses. Antes de darem bens, deram-se a si mesmos ao Senhor. O critério é a igualdade, a partilha que equilibra. E quem administra bens da comunidade deve fazê-lo com transparência, “diante de Deus e diante dos homens”.",
+    "anagogico": "A riqueza que Cristo nos dá pela sua pobreza é a vida divina, herança eterna. A igualdade do maná anuncia o banquete do Reino, onde ninguém terá de mais nem de menos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A sua extrema pobreza difundiu-se em riquezas da sua liberalidade. Deram-se a si mesmos, primeiro ao Senhor. Conheceis a liberalidade de Nosso Senhor Jesus Cristo, que, sendo rico, se fez pobre por vós, a fim de que fósseis ricos pela sua pobreza. A vossa abundância supra a sua indigência, de maneira que haja igualdade. O que havia colhido muito, não teve de mais, e o que havia colhido pouco, não teve de menos.",
+    "meditatio_perguntas": [
+      "Dou a partir do que me sobra ou a partir do amor?",
+      "Antes dos meus bens, entrego-me a mim mesmo ao Senhor?",
+      "Como vivo concretamente a igualdade e a partilha?"
+    ],
+    "oratio_guia": "Senhor Jesus, que sendo rico te fizeste pobre por nós, enriquece-me com a tua pobreza. Dá-me um coração generoso, que se entrega primeiro a ti e depois partilha com alegria, para que haja igualdade entre os teus filhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "sendo rico, se fez pobre por vós, a fim de que fósseis ricos pela sua pobreza",
+      "ref": "2Cor 8,9"
+    }
+  },
+  "ancoras": {
+    "8:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cor 8,7.9.13-15 é a segunda leitura do 13º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "8:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Ex 16,18, sobre o maná recolhido no deserto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

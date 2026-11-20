@@ -1,0 +1,57 @@
+{
+  "id": "2CO.6.1",
+  "livro": "2CO",
+  "titulo": "Agora é o tempo aceitável",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 6,1–7,1",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Eis agora o tempo favorável, eis agora o dia da salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como cooperadores de Deus, exortamo-vos a não receber em vão a graça de Deus. Ele diz: no tempo favorável te ouvi, no dia da salvação te socorri. Eis agora o tempo favorável, eis agora o dia da salvação. Para não desacreditar o ministério, Paulo não dá escândalo a ninguém e mostra-se ministro de Deus em tudo: com muita paciência nas tribulações, necessidades e angústias, nos açoites, prisões, tumultos, trabalhos, vigílias e jejuns; com pureza, ciência, longanimidade, bondade, Espírito Santo, amor sincero, palavra da verdade, poder de Deus, armas da justiça à direita e à esquerda; na glória e na desonra, na má e na boa fama; tidos por impostores, mas verdadeiros; desconhecidos, mas conhecidos; moribundos, e eis que vivemos; tristes, mas sempre alegres; pobres, mas enriquecendo a muitos; nada tendo, mas possuindo tudo. O seu coração dilatou-se para os coríntios; peça-lhes que também dilatem o seu. Não vos prendais a um jugo desigual com os infiéis: que há de comum entre a luz e as trevas, entre Cristo e Belial, entre o templo de Deus e os ídolos? Nós somos o templo do Deus vivo. Purifiquemo-nos de toda mancha da carne e do espírito, completando a santificação no temor de Deus.",
+    "alegorico": "Os paradoxos do apóstolo (“como moribundos, mas vivos”, “nada tendo, mas possuindo tudo”) são o retrato de Cristo pobre e glorioso, e de todo discípulo configurado com Ele. A Igreja, templo do Deus vivo, cumpre a promessa “habitarei no meio deles”.",
+    "moral": "O “agora” é decisivo: a graça não pode ser recebida em vão. A Quaresma lembra todos os anos este “tempo favorável”. O ministério autêntico atravessa extremos com a mesma fidelidade. E a separação do mal é exigência de quem é templo de Deus.",
+    "anagogico": "“Possuindo tudo”: quem tem a Deus tem tudo, mesmo sem nada ter. O Deus que diz “serei vosso pai e vós sereis meus filhos” prepara a herança dos filhos na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Exortamos-vos a que não recebais em vão a graça de Deus. Eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação. Em todas as coisas nos mostramos como ministros de Deus: como tristes, mas sempre alegres; como pobres, mas enriquecendo a muitos; como não tendo nada, mas possuindo tudo. Somos o templo de Deus vivo. Serei vosso pai, e vós sereis meus filhos e minhas filhas, diz o Senhor.",
+    "meditatio_perguntas": [
+      "Estou a receber em vão a graça de Deus neste “tempo favorável”?",
+      "Sinto-me “pobre, mas enriquecendo a muitos”?",
+      "Que jugo desigual me afasta de Deus?"
+    ],
+    "oratio_guia": "Senhor, hoje é o dia da salvação: não permitas que eu receba em vão a tua graça. Faz-me triste, mas sempre alegre; pobre, mas enriquecendo a muitos; nada tendo, mas possuindo tudo em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação",
+      "ref": "2Cor 6,2"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Is 49,8. Lido na Quarta-feira de Cinzas como abertura da Quaresma.",
+        "origem": "ia"
+      }
+    },
+    "6:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Belial”: nome hebraico que significa “sem valor”, usado nos escritos judaicos como nome de Satanás.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

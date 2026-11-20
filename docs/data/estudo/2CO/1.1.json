@@ -1,0 +1,57 @@
+{
+  "id": "2CO.1.1",
+  "livro": "2CO",
+  "titulo": "O Deus de toda a consolação",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Consolados por Deus para consolar os outros",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo e Timóteo saúdam a Igreja de Corinto e todos os santos da Acaia. Paulo bendiz o Deus e Pai de Nosso Senhor Jesus Cristo, Pai das misericórdias e Deus de toda a consolação, que o consola em todas as tribulações, para que também ele possa consolar os que estão em qualquer angústia, com a consolação recebida de Deus. Como abundam nele os sofrimentos de Cristo, abunda também por Cristo a consolação. As suas aflições e consolações são para a consolação e salvação dos coríntios, companheiros nos sofrimentos e na consolação. Paulo conta a tribulação sofrida na Ásia: foi oprimido acima das forças, a ponto de desesperar da vida; trazia em si a sentença de morte, para não confiar em si, mas em Deus que ressuscita os mortos. Deus o livrou e o livrará; e pede que os coríntios o ajudem com a oração, para que muitos deem graças pelo benefício recebido.",
+    "alegorico": "Os “sofrimentos de Cristo” que abundam no apóstolo mostram a Igreja como corpo que prolonga a Paixão do Senhor; e a consolação que circula entre os membros é já fruto da Ressurreição. O Deus “que ressuscita os mortos” age na vida dos seus como agiu na Páscoa.",
+    "moral": "A consolação recebida não é para guardar: é para consolar os outros. Quem passou pela dor e foi consolado torna-se instrumento de consolo. E a experiência do limite (“acima das nossas forças”) ensina a confiar em Deus e não em si mesmo. A oração mútua une as comunidades.",
+    "anagogico": "O Deus que ressuscita os mortos é a garantia final: nos livrou, nos livra e nos livrará. A consolação de agora é antecipação da consolação plena, quando Deus enxugar todas as lágrimas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendito seja Deus, Pai de Nosso Senhor Jesus Cristo, Pai de misericórdias e Deus de toda a consolação, o qual nos consola em todas as nossas tribulações, para que também possamos consolar os que estão em qualquer angústia, pela consolação que recebemos de Deus. Trazíamos em nós a sentença de morte, para não pormos a nossa confiança em nós, mas em Deus, que ressuscita os mortos.",
+    "meditatio_perguntas": [
+      "De que consolação de Deus posso ser instrumento para alguém que sofre?",
+      "Em que situação Deus me ensinou a não confiar em mim mesmo?",
+      "Rezo pelos que trabalham pelo Evangelho e pelos que sofrem?"
+    ],
+    "oratio_guia": "Pai das misericórdias e Deus de toda a consolação, consola-me nas minhas tribulações, para que eu possa consolar os outros. Ensina-me a não confiar em mim, mas em ti, que ressuscitas os mortos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pai de misericórdias e Deus de toda a consolação",
+      "ref": "2Cor 1,3"
+    }
+  },
+  "ancoras": {
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não se sabe ao certo qual foi a tribulação na Ásia; talvez o tumulto de Éfeso (At 19,23-40) ou uma prisão.",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A bênção “Bendito seja Deus” segue o modelo das berakot judaicas; cf. Ef 1,3 e 1Pd 1,3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

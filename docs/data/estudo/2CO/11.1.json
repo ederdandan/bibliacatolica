@@ -1,0 +1,57 @@
+{
+  "id": "2CO.11.1",
+  "livro": "2CO",
+  "titulo": "Desposei-vos com um único esposo, Cristo",
+  "secao": "Paulo defende o seu apostolado",
+  "referencia": "2Cor 11,1-15",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Desposei-vos com um único esposo, Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que tolerem um pouco da sua “loucura”. Tem por eles um zelo de Deus: desposou-os com um único esposo, para os apresentar a Cristo como virgem pura. Teme que, como a serpente seduziu Eva com a sua astúcia, os seus pensamentos se corrompam e se afastem da simplicidade para com Cristo. Os coríntios suportam bem quem lhes anuncia outro Jesus, outro espírito, outro evangelho. Paulo não se julga inferior a esses “super-apóstolos”; pode ser rude na palavra, não no conhecimento. Será culpa ter anunciado o Evangelho gratuitamente, humilhando-se para os elevar? Recebeu ajuda de outras Igrejas e dos irmãos da Macedónia, para não pesar a ninguém, e continuará assim. Por falta de amor? Deus sabe que não. É para tirar pretexto aos falsos apóstolos, operários fraudulentos, que se disfarçam de apóstolos de Cristo; não é de admirar, pois o próprio Satanás se disfarça em anjo de luz. O seu fim será segundo as suas obras.",
+    "alegorico": "A Igreja é a virgem prometida a Cristo, o único Esposo, e o apóstolo é o amigo do Esposo que a prepara para as núpcias. A serpente que seduziu Eva continua a tentar a Igreja com falsos evangelhos.",
+    "moral": "O zelo pastoral é um amor ciumento, à maneira de Deus. A “simplicidade para com Cristo” é a fidelidade de um coração não dividido. É preciso discernimento: o mal aparece muitas vezes como bem, e Satanás disfarça-se de anjo de luz. A gratuidade do serviço é sinal de autenticidade.",
+    "anagogico": "A virgem pura será apresentada ao Esposo no último dia: as bodas do Cordeiro com a Igreja. Os falsos apóstolos terão o fim “segundo as suas obras”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tenho por vós um zelo de Deus. Desposei-vos para vos apresentar, como virgem pura, a um único esposo, a Cristo. Mas temo que, assim como a serpente seduziu Eva, assim sejam corrompidos os vossos pensamentos e se apartem da simplicidade a respeito do Cristo. O próprio Satanás se transforma em anjo de luz.",
+    "meditatio_perguntas": [
+      "Guardo um coração simples e indiviso para com Cristo?",
+      "Sei discernir quando o mal se apresenta como bem?",
+      "Sigo o Evangelho recebido ou procuro “outro Jesus” à minha medida?"
+    ],
+    "oratio_guia": "Senhor Jesus, único Esposo da Igreja e da minha alma, guarda-me na simplicidade para contigo. Dá-me discernimento para reconhecer o inimigo disfarçado de luz, e conserva-me fiel ao teu Evangelho. Amém.",
+    "contemplatio_foco": {
+      "texto": "desposei-vos para vos apresentar, como virgem pura, a um único esposo, a Cristo",
+      "ref": "2Cor 11,2"
+    }
+  },
+  "ancoras": {
+    "11:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Super-apóstolos”: ironia de Paulo para designar pregadores itinerantes que se impunham em Corinto, provavelmente judeo-cristãos.",
+        "origem": "ia"
+      }
+    },
+    "11:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Frase fundamental para a doutrina do discernimento dos espíritos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

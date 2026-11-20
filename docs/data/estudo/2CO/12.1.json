@@ -1,0 +1,57 @@
+{
+  "id": "2CO.12.1",
+  "livro": "2CO",
+  "titulo": "Basta-te a minha graça",
+  "secao": "Paulo defende o seu apostolado",
+  "referencia": "2Cor 12,1-10",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Basta-te a minha graça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se é preciso gloriar-se, Paulo fala de visões e revelações. Conhece um homem em Cristo que, há catorze anos, foi arrebatado ao terceiro céu, se no corpo ou fora do corpo não sabe, Deus o sabe; foi arrebatado ao paraíso e ouviu palavras inefáveis, que não é lícito ao homem pronunciar. Desse homem se gloriará; de si mesmo, só das fraquezas. Para que a grandeza das revelações não o envaidecesse, foi-lhe dado um espinho na carne, um anjo de Satanás para o esbofetear. Três vezes pediu ao Senhor que o afastasse; mas o Senhor disse-lhe: basta-te a minha graça, porque a força manifesta-se plenamente na fraqueza. Por isso, de boa vontade se gloriará nas fraquezas, para que habite nele a força de Cristo; compraz-se nas fraquezas, afrontas, necessidades, perseguições e angústias por Cristo, porque, quando é fraco, então é forte.",
+    "alegorico": "As três súplicas de Paulo ecoam as três orações de Jesus no Getsêmani; como o Filho, o apóstolo recebe não a remoção do cálice, mas a força para o beber. A força de Cristo “habita” (literalmente, arma a sua tenda) na fraqueza do discípulo.",
+    "moral": "Nem todas as orações são atendidas como pedimos, mas todas recebem resposta: “basta-te a minha graça”. O espinho que permanece pode ser defesa contra o orgulho. A fraqueza aceite torna-se espaço da força de Cristo. É uma das páginas mais consoladoras para quem vive limitações persistentes.",
+    "anagogico": "O arrebatamento ao paraíso é um vislumbre do que espera os santos. Até lá, a graça basta; na glória, a força de Deus brilhará sem véu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi-me dado o estímulo da minha carne, um anjo de Satanás, que me esbofeteie, a fim de não me orgulhar. Roguei ao Senhor três vezes que ele se apartasse de mim, mas disse-me: Basta-te a minha graça, porque é na fraqueza que o meu poder se manifesta por completo. De boa vontade me gloriarei nas minhas fraquezas, para que habite em mim o poder de Cristo. Quando estou fraco, então sou forte.",
+    "meditatio_perguntas": [
+      "Qual é o “espinho na carne” que carrego?",
+      "Consigo ouvir a resposta “basta-te a minha graça” quando a oração não é atendida como quero?",
+      "Deixo que a força de Cristo habite a minha fraqueza?"
+    ],
+    "oratio_guia": "Senhor, tantas vezes te pedi que tirasses de mim este espinho. Se não o tiras, basta-me a tua graça. Que o teu poder se manifeste na minha fraqueza, para que, quando estou fraco, seja forte em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Basta-te a minha graça",
+      "ref": "2Cor 12,9"
+    }
+  },
+  "ancoras": {
+    "12:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “espinho na carne” foi interpretado como doença física, tentação ou perseguição; o texto não o identifica. 2Cor 12,7-10 é a segunda leitura do 14º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "12:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Terceiro céu”: na cosmologia judaica, o céu mais alto, morada de Deus, identificado com o paraíso (v. 4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

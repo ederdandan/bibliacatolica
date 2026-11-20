@@ -1,0 +1,65 @@
+{
+  "id": "2CO.3.1",
+  "livro": "2CO",
+  "titulo": "Ministros da nova aliança: o Espírito vivifica",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 3,1-18",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "A letra mata, mas o Espírito vivifica",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo não precisa de cartas de recomendação: a sua carta são os próprios coríntios, escrita nos corações, conhecida e lida por todos; carta de Cristo, escrita não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas em tábuas de carne, os corações. A sua capacidade não vem dele, mas de Deus, que o fez ministro de uma nova aliança, não da letra, mas do Espírito: a letra mata, o Espírito vivifica. Se o ministério da morte, gravado em pedra, foi tão glorioso que os israelitas não podiam fitar o rosto de Moisés, quanto mais glorioso será o ministério do Espírito! O que era passageiro teve glória; muito mais o que permanece. Moisés punha um véu sobre o rosto; até hoje, quando se lê o Antigo Testamento, permanece um véu sobre os corações, que só em Cristo é retirado. Quando alguém se converte ao Senhor, o véu cai. O Senhor é o Espírito, e onde está o Espírito do Senhor, aí está a liberdade. E todos nós, de rosto descoberto, refletindo como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pelo Senhor que é Espírito.",
+    "alegorico": "O véu de Moisés é imagem da leitura do Antigo Testamento sem Cristo; em Cristo, o véu cai e a Escritura revela o seu sentido pleno. É o princípio de toda a leitura espiritual da Bíblia: o AT ilumina-se a partir de Cristo.",
+    "moral": "A comunidade é a carta de recomendação do pastor: o melhor testemunho são vidas transformadas. A vida cristã não é observância fria da letra, mas docilidade ao Espírito, que dá liberdade. E a contemplação da glória do Senhor transforma-nos progressivamente: tornamo-nos aquilo que contemplamos.",
+    "anagogico": "“De glória em glória”: a transformação começada agora continua até à plena semelhança com Cristo na visão. O rosto descoberto prepara o encontro face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós sois a carta de Cristo, escrita não com tinta, mas com o espírito de Deus vivo, não em tábuas de pedra, mas em tábuas de carne, sobre os vossos corações. Deus nos fez idôneos ministros da nova Aliança, não pela letra, mas pelo Espírito, porque a letra mata, mas o Espírito vivifica. Onde está o Espírito do Senhor, aí está a liberdade. Todos nós, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória.",
+    "meditatio_perguntas": [
+      "Que “carta de Cristo” os outros leem na minha vida?",
+      "Vivo a fé segundo a letra ou segundo o Espírito?",
+      "Dedico tempo a contemplar a glória do Senhor, para ser transformado?"
+    ],
+    "oratio_guia": "Espírito do Deus vivo, escreve em meu coração a carta de Cristo. Tira o véu dos meus olhos quando leio a Escritura, dá-me a tua liberdade e transforma-me, de glória em glória, na imagem do Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "onde está o Espírito do Senhor, aí está a liberdade",
+      "ref": "2Cor 3,17"
+    }
+  },
+  "ancoras": {
+    "3:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cor 3,1b-6 é a segunda leitura do 8º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Ex 34,29-35: o rosto de Moisés resplandecia depois de falar com Deus.",
+        "origem": "ia"
+      }
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo fala em “Antigo Testamento” (palaiá diathéke), a mais antiga ocorrência da expressão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

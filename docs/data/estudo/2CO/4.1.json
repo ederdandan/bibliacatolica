@@ -1,0 +1,65 @@
+{
+  "id": "2CO.4.1",
+  "livro": "2CO",
+  "titulo": "Um tesouro em vasos de barro",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 4,1-18",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Um tesouro em vasos de barro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tendo recebido este ministério por misericórdia, Paulo não desanima; rejeita a dissimulação e não adultera a palavra de Deus, mas manifesta a verdade diante de toda consciência. Se o Evangelho está velado, é para os que se perdem, cuja inteligência o deus deste mundo cegou, para que não vejam a luz do Evangelho da glória de Cristo, imagem de Deus. Não nos pregamos a nós mesmos, mas a Cristo Jesus Senhor, e somos vossos servos por amor de Jesus. Deus, que disse “das trevas brilhe a luz”, brilhou nos nossos corações para irradiar o conhecimento da glória de Deus na face de Cristo. Temos este tesouro em vasos de barro, para que se veja que o poder extraordinário vem de Deus. Em tudo atribulados, mas não esmagados; perplexos, mas não desesperados; perseguidos, mas não abandonados; abatidos, mas não destruídos; levando sempre no corpo a morte de Jesus, para que também a vida de Jesus se manifeste. Cremos, por isso falamos, sabendo que Aquele que ressuscitou Jesus nos ressuscitará. Por isso não desanimamos: ainda que o homem exterior se desfaça, o interior renova-se dia após dia. A leve tribulação momentânea prepara um peso eterno de glória, porque olhamos não para o que se vê, mas para o que não se vê; o visível é passageiro, o invisível é eterno.",
+    "alegorico": "A luz que Deus fez brilhar nas trevas na primeira criação brilha agora na face de Cristo: é a nova criação. O vaso de barro que contém o tesouro lembra a humanidade de Cristo que continha a divindade, e a Igreja frágil que guarda os mistérios de Deus.",
+    "moral": "A fragilidade do mensageiro não é obstáculo, é sinal de que o poder vem de Deus. As quatro antíteses (atribulados, mas não esmagados…) descrevem a resistência cristã: não ausência de golpes, mas não ser vencido por eles. E o critério para avaliar a vida é olhar o invisível, que permanece.",
+    "anagogico": "A “tribulação momentânea e ligeira” comparada com o “peso eterno de glória” dá a medida da esperança cristã. O homem interior renova-se a cada dia, à espera da ressurreição com Jesus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus, que disse que das trevas resplandecesse a luz, ele mesmo iluminou nossos corações, para que neles brilhe o conhecimento da glória de Deus, que resplandece na face do Cristo. Temos, porém, este tesouro em vasos de barro, para que se veja bem que esse extraordinário poder vem de Deus e não de nós. Embora se destrua em nós o homem exterior, o homem interior vai-se renovando de dia para dia. As coisas que se vêem são passageiras; as que não se vêem, são eternas.",
+    "meditatio_perguntas": [
+      "Aceito a minha fragilidade como lugar onde o poder de Deus se mostra?",
+      "Nas tribulações, estou abatido mas não destruído?",
+      "Olho mais para o que se vê ou para o que não se vê?"
+    ],
+    "oratio_guia": "Deus, que fizeste brilhar a luz nas trevas, ilumina o meu coração com a glória que resplandece na face de Cristo. Guarda o teu tesouro neste vaso de barro, renova cada dia o meu homem interior e fixa o meu olhar no que é eterno. Amém.",
+    "contemplatio_foco": {
+      "texto": "Temos, porém, este tesouro em vasos de barro",
+      "ref": "2Cor 4,7"
+    }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Gn 1,3: a iluminação do crente é uma nova criação.",
+        "origem": "ia"
+      }
+    },
+    "4:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 115,10 (Vulgata 115,1): “Cri, por isso falei.” 2Cor 4,13–5,1 é a segunda leitura do 10º Domingo do Tempo Comum, Ano B; 2Cor 4,6-11, do 9º.",
+        "origem": "ia"
+      }
+    },
+    "4:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Liturgia das Horas, 2Cor 4,16–5,1 é muito usado nos Ofícios de defuntos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

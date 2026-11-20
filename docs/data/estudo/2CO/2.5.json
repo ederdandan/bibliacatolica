@@ -1,0 +1,57 @@
+{
+  "id": "2CO.2.5",
+  "livro": "2CO",
+  "titulo": "O perdão ao ofensor; o bom odor de Cristo",
+  "secao": "O ministério apostólico",
+  "referencia": "2Cor 2,5-17",
+  "ini": {
+    "c": 2,
+    "v": 5
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Somos diante de Deus o bom odor de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quem causou tristeza não a causou só a Paulo, mas, em certa medida, a toda a comunidade. Para esse basta o castigo imposto pela maioria; agora é melhor perdoar-lhe e consolá-lo, para que não seja consumido por tristeza excessiva; Paulo pede que lhe confirmem a caridade. A quem os coríntios perdoam, também Paulo perdoa, diante de Cristo, para não serem enganados por Satanás, cujos desígnios não ignoram. Conta que, em Tróade, embora tivesse uma porta aberta para o Evangelho, não teve paz por não encontrar Tito, e partiu para a Macedónia. Mas graças a Deus, que nos faz sempre triunfar em Cristo e por nós espalha em toda parte o perfume do seu conhecimento. Somos o bom odor de Cristo para Deus, entre os que se salvam e os que se perdem: para uns, odor de morte para morte; para outros, odor de vida para vida. E quem está à altura disto? Não somos traficantes da palavra de Deus, mas falamos com sinceridade, da parte de Deus, diante de Deus, em Cristo.",
+    "alegorico": "A imagem do cortejo triunfal romano, em que se queimavam perfumes, mostra Cristo vencedor levando os apóstolos no seu séquito. O “bom odor” lembra o perfume dos sacrifícios agradáveis a Deus e o óleo do crisma que marca o cristão.",
+    "moral": "A disciplina na Igreja deve terminar em perdão e consolação, para não esmagar o pecador. Recusar o perdão é cair numa armadilha de Satanás. E o cristão espalha um perfume: a sua vida atrai ou provoca rejeição. A sinceridade na pregação, sem comércio da palavra, é condição de autenticidade.",
+    "anagogico": "O perfume de Cristo é “odor de vida para a vida”: anuncia a vida eterna. O triunfo de Deus em Cristo, que já nos conduz, terá a sua manifestação plena no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "É melhor usardes com ele de indulgência e consolá-lo, para que não seja possuído de tristeza excessiva. Rogo-vos que redobreis de caridade para com ele. Graças a Deus, que nos faz sempre triunfar em Jesus Cristo e que por nosso meio difunde o odor do seu conhecimento em todo o lugar, porque somos diante de Deus o bom odor de Cristo.",
+    "meditatio_perguntas": [
+      "Há alguém a quem preciso perdoar e consolar, em vez de prolongar o castigo?",
+      "A minha vida espalha o perfume de Cristo?",
+      "Anuncio a Palavra com sinceridade, sem interesse próprio?"
+    ],
+    "oratio_guia": "Senhor Jesus, que nos fazes triunfar contigo, faz de mim o teu bom odor no mundo. Dá-me um coração que perdoa e consola, e livra-me das ciladas de Satanás. Amém.",
+    "contemplatio_foco": {
+      "texto": "somos diante de Deus o bom odor de Cristo",
+      "ref": "2Cor 2,15"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Talvez o mesmo incestuoso de 1Cor 5, ou outro membro que ofendeu Paulo; em todo o caso, a disciplina eclesial visa a conversão e a reintegração.",
+        "origem": "ia"
+      }
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Falsificadores”: o verbo kapeleúo designa os comerciantes que adulteravam o vinho para lucrar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
