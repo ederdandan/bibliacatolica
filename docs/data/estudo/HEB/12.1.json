@@ -1,0 +1,57 @@
+{
+  "id": "HEB.12.1",
+  "livro": "HEB",
+  "titulo": "Os olhos fixos em Jesus; a correção do Pai",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 12,1-13",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Os olhos fixos em Jesus, autor e consumador da fé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cercados por tão grande nuvem de testemunhas, deixemos todo peso e o pecado que nos envolve e corramos com perseverança a corrida que nos é proposta, com os olhos fixos em Jesus, autor e consumador da fé, que, em vez da alegria que lhe era proposta, suportou a cruz, desprezando a ignomínia, e está sentado à direita do trono de Deus. Considerai Aquele que suportou tal contradição dos pecadores, e não desanimareis. Ainda não resististes até ao sangue na luta contra o pecado, e esquecestes a exortação que vos fala como a filhos: meu filho, não desprezes a correção do Senhor, porque o Senhor corrige a quem ama. É para a vossa educação que sofreis; Deus trata-vos como filhos; que filho não é corrigido pelo pai? Se os pais da carne nos corrigiam e os respeitávamos, quanto mais nos submeteremos ao Pai dos espíritos para viver! Eles corrigiam por pouco tempo; Ele, para nosso bem, para participarmos da sua santidade. Toda correção, no momento, parece motivo de tristeza; depois produz fruto de paz e justiça. Levantai as mãos cansadas e os joelhos vacilantes, e fazei caminhos retos.",
+    "alegorico": "A “nuvem de testemunhas” são os santos da antiga aliança e todos os que nos precederam na fé, como espectadores num estádio. Jesus é o corredor que já chegou à meta e nos espera: “autor e consumador”, princípio e fim da corrida.",
+    "moral": "Correr exige largar pesos: há apegos e pecados que impedem o passo. O olhar fixo em Jesus é o segredo da perseverança. As provações podem ser lidas como pedagogia paterna: Deus educa os filhos que ama. A dor não é sinal de abandono.",
+    "anagogico": "Jesus suportou a cruz “em vista da alegria”: a meta da corrida é a alegria junto do trono de Deus. A correção do Pai prepara-nos para “participar da sua santidade”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando cercados por uma tão grande nuvem de testemunhas, deixando todo o peso que nos detém e o pecado que nos envolve, corramos com paciência na carreira que nos é proposta, pondo os olhos no autor e consumador da fé, Jesus, o qual sofreu a cruz, não fazendo caso da ignomínia, e está sentado à direita do trono de Deus. O Senhor corrige aquele que ama. Levantai as vossas mãos remissas e os vossos joelhos vacilantes.",
+    "meditatio_perguntas": [
+      "Que peso preciso largar para correr melhor?",
+      "Os meus olhos estão fixos em Jesus ou nos obstáculos?",
+      "Consigo ler alguma provação atual como correção amorosa do Pai?"
+    ],
+    "oratio_guia": "Senhor Jesus, autor e consumador da fé, fixo em ti os meus olhos. Ajuda-me a largar o peso do pecado e a correr com perseverança. Pai, corrige-me com amor e faz-me participar da tua santidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "pondo os olhos no autor e consumador da fé, Jesus",
+      "ref": "Hb 12,2"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 12,1-4 é a segunda leitura do 20º Domingo do Tempo Comum, Ano C; Hb 12,5-7.11-13, do 21º.",
+        "origem": "ia"
+      }
+    },
+    "12:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Pr 3,11-12, sobre a disciplina paterna de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

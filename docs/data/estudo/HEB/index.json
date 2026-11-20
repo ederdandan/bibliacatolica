@@ -1,0 +1,249 @@
+{
+ "livro": "HEB",
+ "secoes": [
+  "O Filho, superior aos anjos",
+  "Jesus, pontífice fiel e misericordioso",
+  "O sacerdócio de Cristo e a nova aliança",
+  "A perseverança na fé"
+ ],
+ "pericopes": [
+  {
+   "id": "HEB.1.1",
+   "titulo": "Deus falou-nos por meio de seu Filho",
+   "secao": "O Filho, superior aos anjos",
+   "referencia": "Hb 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  },
+  {
+   "id": "HEB.2.1",
+   "titulo": "Semelhante em tudo aos seus irmãos",
+   "secao": "O Filho, superior aos anjos",
+   "referencia": "Hb 2,1-18",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "HEB.3.1",
+   "titulo": "Se ouvirdes hoje a sua voz",
+   "secao": "Jesus, pontífice fiel e misericordioso",
+   "referencia": "Hb 3,1-19",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 19
+   }
+  },
+  {
+   "id": "HEB.4.1",
+   "titulo": "O descanso de Deus e a palavra viva",
+   "secao": "Jesus, pontífice fiel e misericordioso",
+   "referencia": "Hb 4,1-13",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 13
+   }
+  },
+  {
+   "id": "HEB.4.14",
+   "titulo": "Um pontífice que se compadece das nossas fraquezas",
+   "secao": "Jesus, pontífice fiel e misericordioso",
+   "referencia": "Hb 4,14–5,10",
+   "ini": {
+    "c": 4,
+    "v": 14
+   },
+   "fim": {
+    "c": 5,
+    "v": 10
+   }
+  },
+  {
+   "id": "HEB.5.11",
+   "titulo": "A esperança, âncora segura da alma",
+   "secao": "Jesus, pontífice fiel e misericordioso",
+   "referencia": "Hb 5,11–6,20",
+   "ini": {
+    "c": 5,
+    "v": 11
+   },
+   "fim": {
+    "c": 6,
+    "v": 20
+   }
+  },
+  {
+   "id": "HEB.7.1",
+   "titulo": "Sacerdote segundo a ordem de Melquisedeque",
+   "secao": "O sacerdócio de Cristo e a nova aliança",
+   "referencia": "Hb 7,1-28",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 28
+   }
+  },
+  {
+   "id": "HEB.8.1",
+   "titulo": "Mediador de uma aliança melhor",
+   "secao": "O sacerdócio de Cristo e a nova aliança",
+   "referencia": "Hb 8,1-13",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 13
+   }
+  },
+  {
+   "id": "HEB.9.1",
+   "titulo": "Com o seu próprio sangue entrou no santuário",
+   "secao": "O sacerdócio de Cristo e a nova aliança",
+   "referencia": "Hb 9,1-14",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 14
+   }
+  },
+  {
+   "id": "HEB.9.15",
+   "titulo": "Oferecido uma só vez",
+   "secao": "O sacerdócio de Cristo e a nova aliança",
+   "referencia": "Hb 9,15-28",
+   "ini": {
+    "c": 9,
+    "v": 15
+   },
+   "fim": {
+    "c": 9,
+    "v": 28
+   }
+  },
+  {
+   "id": "HEB.10.1",
+   "titulo": "Eis-me que venho para fazer a tua vontade",
+   "secao": "O sacerdócio de Cristo e a nova aliança",
+   "referencia": "Hb 10,1-18",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 18
+   }
+  },
+  {
+   "id": "HEB.10.19",
+   "titulo": "Aproximemo-nos com plenitude de fé",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 10,19-39",
+   "ini": {
+    "c": 10,
+    "v": 19
+   },
+   "fim": {
+    "c": 10,
+    "v": 39
+   }
+  },
+  {
+   "id": "HEB.11.1",
+   "titulo": "A fé dos patriarcas",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 11,1-16",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 16
+   }
+  },
+  {
+   "id": "HEB.11.17",
+   "titulo": "A nuvem de testemunhas",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 11,17-40",
+   "ini": {
+    "c": 11,
+    "v": 17
+   },
+   "fim": {
+    "c": 11,
+    "v": 40
+   }
+  },
+  {
+   "id": "HEB.12.1",
+   "titulo": "Os olhos fixos em Jesus; a correção do Pai",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 12,1-13",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 13
+   }
+  },
+  {
+   "id": "HEB.12.14",
+   "titulo": "Aproximastes-vos do monte Sião",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 12,14-29",
+   "ini": {
+    "c": 12,
+    "v": 14
+   },
+   "fim": {
+    "c": 12,
+    "v": 29
+   }
+  },
+  {
+   "id": "HEB.13.1",
+   "titulo": "Jesus Cristo, ontem e hoje e por todos os séculos",
+   "secao": "A perseverança na fé",
+   "referencia": "Hb 13,1-25",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 25
+   }
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "HEB.10.19",
+  "livro": "HEB",
+  "titulo": "Aproximemo-nos com plenitude de fé",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 10,19-39",
+  "ini": {
+    "c": 10,
+    "v": 19
+  },
+  "fim": {
+    "c": 10,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "O meu justo viverá da fé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tendo, irmãos, plena confiança de entrar no santuário pelo sangue de Jesus, pelo caminho novo e vivo que Ele nos abriu através do véu, isto é, da sua carne, e tendo um grande sacerdote à frente da casa de Deus, aproximemo-nos com coração sincero, na plenitude da fé, os corações purificados da má consciência e o corpo lavado com água pura. Conservemos firme a profissão da esperança, porque é fiel quem prometeu. Velemos uns pelos outros, para nos estimularmos à caridade e às boas obras, não abandonando a nossa assembleia, como alguns costumam, mas exortando-nos, tanto mais quanto vedes aproximar-se o Dia. Se pecarmos voluntariamente depois de conhecer a verdade, não resta sacrifício pelos pecados, mas a espera terrível do juízo; terrível coisa é cair nas mãos do Deus vivo. Lembrai-vos dos primeiros dias, depois de iluminados, quando suportastes combates, opróbrios, a perda dos bens com alegria, sabendo que tendes um bem melhor e duradouro. Não percais a vossa confiança: precisais de perseverança. O justo viverá da fé; nós não somos dos que recuam para a perdição, mas dos que creem para salvar a alma.",
+    "alegorico": "O véu do Templo, rasgado na morte de Jesus, é a sua carne: pela humanidade ferida de Cristo abre-se o acesso a Deus. O corpo “lavado com água pura” é o batismo; a assembleia que não se deve abandonar é a Igreja reunida no domingo.",
+    "moral": "A fé tem dimensão comunitária: “não abandonando a nossa assembleia”. Faltar habitualmente à reunião dos irmãos enfraquece a perseverança. Velar uns pelos outros e estimular-se ao bem é tarefa de todos. E a memória do primeiro fervor ajuda a atravessar o cansaço.",
+    "anagogico": "“Ainda um pouco de tempo, e o que há de vir virá”: a vinda do Senhor está próxima. Temos “um património mais excelente e durável” que nenhum esbulho nos tira."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo nós confiança de entrar no santuário pelo sangue de Cristo, pelo caminho novo e vivo que nos abriu através do véu, isto é, através da sua carne, aproximemo-nos com um coração sincero, com plenitude de fé. Conservemos firme a profissão da nossa esperança, porque é fiel o que fez a promessa, e sejamos solícitos uns para com os outros, para nos estimularmos à caridade e às boas obras, não abandonando a nossa assembleia. Não percais a vossa confiança.",
+    "meditatio_perguntas": [
+      "Sou fiel à assembleia dominical?",
+      "Estimulo os irmãos à caridade e às boas obras?",
+      "Que memória do primeiro fervor posso reavivar hoje?"
+    ],
+    "oratio_guia": "Senhor Jesus, que abriste para nós um caminho novo e vivo através da tua carne, dá-me aproximar-me de Deus com plenitude de fé. Que eu persevere com os irmãos, sem abandonar a assembleia, e viva da fé até ao fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "é fiel o que fez a promessa",
+      "ref": "Hb 10,23"
+    }
+  },
+  "ancoras": {
+    "10:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Através do véu, isto é, da sua carne”: alusão ao véu do Templo rasgado na morte de Jesus (Mt 27,51).",
+        "origem": "ia"
+      }
+    },
+    "10:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Refere-se à apostasia deliberada: quem rejeita Cristo recusa o único sacrifício que salva.",
+        "origem": "ia"
+      }
+    },
+    "10:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Hc 2,3-4 (LXX), a mesma que Paulo usa em Rm 1,17 e Gl 3,11.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

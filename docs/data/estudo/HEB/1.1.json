@@ -1,0 +1,65 @@
+{
+  "id": "HEB.1.1",
+  "livro": "HEB",
+  "titulo": "Deus falou-nos por meio de seu Filho",
+  "secao": "O Filho, superior aos anjos",
+  "referencia": "Hb 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O Filho, resplendor da glória do Pai",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus, que outrora falou muitas vezes e de muitos modos aos pais pelos profetas, nestes últimos dias falou-nos pelo Filho, a quem constituiu herdeiro de tudo e por quem fez o mundo. O Filho é o resplendor da sua glória e a figura da sua substância; sustenta tudo com a sua palavra poderosa e, depois de realizar a purificação dos pecados, sentou-se à direita da Majestade nas alturas, tanto superior aos anjos quanto o seu nome é mais excelente. Seguem sete citações do Antigo Testamento: a nenhum anjo Deus disse “tu és meu filho”; os anjos são mandados adorá-lo; deles se diz que são ventos e chamas, mas ao Filho “o teu trono, ó Deus, subsiste pelos séculos”; Ele fundou a terra e permanece quando tudo envelhece; a Ele foi dito “senta-te à minha direita”. Os anjos são espíritos servidores, enviados em favor dos que hão de herdar a salvação.",
+    "alegorico": "O prólogo contém toda a cristologia: preexistência (por quem fez o mundo), divindade (resplendor e figura da substância do Pai), encarnação e redenção (purificação dos pecados) e exaltação (à direita da Majestade). A Revelação culmina no Filho: Ele é a Palavra definitiva do Pai.",
+    "moral": "Se Deus falou pelo Filho, toda a vida cristã é escuta desse Filho. Não se espera outra revelação pública; aprofunda-se a que já foi dada. E os anjos, servidores dos que herdam a salvação, recordam que não caminhamos sós: Deus envia auxílio aos seus.",
+    "anagogico": "O Filho, sentado à direita do Pai, é o herdeiro de tudo; nele os fiéis são co-herdeiros. Os céus envelhecerão como uma veste, mas Ele permanece: a nossa esperança está ancorada no que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus, tendo falado outrora muitas vezes e de muitos modos a nossos pais pelos profetas, nestes dias, que são os últimos, falou-nos por meio de seu Filho, a quem constituiu herdeiro de tudo, por quem criou o mundo, o qual, sendo o resplendor da sua glória e a figura da sua substância, depois de ter feito a purificação dos pecados, está sentado à direita da majestade nas alturas. Todos os anjos de Deus o adorem.",
+    "meditatio_perguntas": [
+      "Escuto o Filho como a Palavra definitiva de Deus para mim?",
+      "Em Jesus, reconheço o resplendor da glória do Pai?",
+      "Confio no auxílio dos anjos que Deus envia aos que herdam a salvação?"
+    ],
+    "oratio_guia": "Pai, que nestes últimos dias nos falaste pelo teu Filho, abre o meu coração à sua palavra. Que eu adore, com os anjos, Aquele que é o resplendor da tua glória e que purificou os nossos pecados. Amém.",
+    "contemplatio_foco": {
+      "texto": "falou-nos por meio de seu Filho",
+      "ref": "Hb 1,2"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 1,1-6 é a segunda leitura da Missa do dia de Natal.",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Resplendor” (apaúgasma) e “figura da sua substância” (charaktér tês hypostáseos): termos que os Padres usaram contra o arianismo, para afirmar a consubstancialidade do Filho.",
+        "origem": "ia"
+      }
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto clássico sobre os anjos da guarda.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

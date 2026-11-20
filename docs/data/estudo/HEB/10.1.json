@@ -1,0 +1,57 @@
+{
+  "id": "HEB.10.1",
+  "livro": "HEB",
+  "titulo": "Eis-me que venho para fazer a tua vontade",
+  "secao": "O sacerdócio de Cristo e a nova aliança",
+  "referencia": "Hb 10,1-18",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Eis-me que venho, ó Deus, para fazer a tua vontade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A lei, tendo apenas a sombra dos bens futuros, não pode com os sacrifícios repetidos cada ano tornar perfeitos os que se aproximam; se pudesse, ter-se-ia deixado de oferecer. Esses sacrifícios recordam os pecados, porque é impossível que o sangue de touros e bodes tire os pecados. Por isso, ao entrar no mundo, Cristo diz: não quiseste sacrifício nem oblação, mas formaste-me um corpo; holocaustos não te agradaram; então eu disse: eis-me que venho para fazer, ó Deus, a tua vontade. Suprime o primeiro culto para estabelecer o segundo. E é por essa vontade que somos santificados pela oblação do corpo de Jesus Cristo, feita uma vez por todas. Os sacerdotes oferecem cada dia os mesmos sacrifícios, que nunca podem tirar os pecados; Cristo, tendo oferecido um único sacrifício, sentou-se para sempre à direita de Deus, esperando que os inimigos lhe sejam postos por escabelo. Com uma só oblação tornou perfeitos para sempre os santificados. O Espírito Santo o atesta pela profecia da nova aliança: não me lembrarei mais dos seus pecados. Onde há remissão, não há mais oblação pelo pecado.",
+    "alegorico": "As palavras do Salmo 39, “formaste-me um corpo… eis-me que venho”, são postas na boca do Verbo no momento da Encarnação. O “sim” do Filho ecoa o “faça-se” de Maria: no seio da Virgem, o corpo preparado para a oblação.",
+    "moral": "O que Deus quer não são coisas, mas a vontade entregue. O culto verdadeiro é a obediência amorosa: “eis-me aqui para fazer a tua vontade”. Toda a vida cristã pode ser oferta, unida à oblação do corpo de Cristo.",
+    "anagogico": "Cristo está sentado para sempre à direita de Deus, esperando a vitória final. A santificação que já recebemos pela sua oblação única é perfeita e destinada à plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Entrando no mundo, Cristo diz: Não quiseste sacrifício nem oblação, mas formaste-me um corpo. Então eu disse: Eis-me que venho, segundo está escrito de mim no rolo do livro, para fazer, ó Deus, a tua vontade. Por esta vontade somos santificados mediante a oblação do corpo de Jesus Cristo feita uma vez. Com uma só oblação, tornou perfeitos para sempre os que foram santificados.",
+    "meditatio_perguntas": [
+      "Ofereço a Deus coisas ou ofereço a minha vontade?",
+      "Consigo rezar com sinceridade: “eis-me aqui para fazer a tua vontade”?",
+      "Confio que a oblação de Cristo me santificou de uma vez para sempre?"
+    ],
+    "oratio_guia": "Senhor Jesus, que disseste ao Pai “eis-me aqui para fazer a tua vontade”, une a minha vida à tua oblação. Que eu não ofereça só coisas, mas a mim mesmo, e viva da santificação que me deste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis-me que venho para fazer a tua vontade",
+      "ref": "Hb 10,9"
+    }
+  },
+  "ancoras": {
+    "10:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 39 (40), 7-9 segundo a LXX (“formaste-me um corpo”; o hebraico tem “abriste-me os ouvidos”). Hb 10,4-10 é a segunda leitura da Anunciação do Senhor (25 de março) e do 4º Domingo do Advento, Ano C (Hb 10,5-10).",
+        "origem": "ia"
+      }
+    },
+    "10:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 10,11-14.18 é a segunda leitura do 33º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

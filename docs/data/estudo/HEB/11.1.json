@@ -1,0 +1,57 @@
+{
+  "id": "HEB.11.1",
+  "livro": "HEB",
+  "titulo": "A fé dos patriarcas",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 11,1-16",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A fé, fundamento das coisas que se esperam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A fé é o fundamento das coisas que se esperam e a prova das que não se veem; por ela os antigos receberam bom testemunho. Pela fé sabemos que o mundo foi formado pela palavra de Deus, de modo que o visível vem do invisível. Pela fé Abel ofereceu sacrifício melhor que Caim e ainda fala depois de morto. Pela fé Henoc foi arrebatado sem ver a morte, porque agradou a Deus; e sem fé é impossível agradar-lhe, pois quem se aproxima de Deus deve crer que Ele existe e recompensa os que o buscam. Pela fé Noé construiu a arca. Pela fé Abraão obedeceu e partiu sem saber para onde ia; habitou como estrangeiro na terra prometida, em tendas, com Isaac e Jacob, porque esperava a cidade de fundamentos sólidos, cujo arquiteto e construtor é Deus. Pela fé Sara, estéril e idosa, concebeu. Todos morreram na fé, sem receber as promessas, mas vendo-as e saudando-as de longe, confessando-se estrangeiros e peregrinos na terra. Desejavam uma pátria melhor, a celeste; por isso Deus não se envergonha de ser chamado o seu Deus, porque lhes preparou uma cidade.",
+    "alegorico": "A tenda dos patriarcas é imagem da Igreja peregrina; a cidade de sólidos fundamentos é a Jerusalém celeste. Abel, justo assassinado cujo sangue ainda fala, é figura de Cristo.",
+    "moral": "A fé de Abraão é partida: “partiu, sem saber para onde ia”. Crer é confiar em Deus sem ter o mapa completo. E o cristão vive como estrangeiro e peregrino: usa a terra, mas não se instala nela, porque sabe que a sua pátria é outra.",
+    "anagogico": "Os patriarcas saudaram de longe as promessas. A pátria celeste e a cidade preparada por Deus são o termo da peregrinação de todos os crentes."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A fé é o fundamento das coisas que se esperam, e o argumento das que não se vêem. Sem fé é impossível agradar a Deus. Pela fé, Abraão obedeceu, partindo para o lugar que havia de receber por herança; e partiu, sem saber para onde ia, porque esperava aquela cidade de sólidos fundamentos, cujo arquiteto e construtor é Deus. Na fé morreram todos, vendo e saudando de longe as coisas prometidas, e confessando serem estrangeiros e peregrinos sobre a terra.",
+    "meditatio_perguntas": [
+      "Para onde Deus me pede que “parta sem saber para onde vou”?",
+      "Vivo como peregrino ou instalado na terra?",
+      "Creio que Deus recompensa os que o buscam?"
+    ],
+    "oratio_guia": "Deus de Abraão, dá-me a fé que parte sem conhecer o caminho. Que eu viva como peregrino, saudando de longe as tuas promessas, à espera da cidade que tu mesmo construíste. Amém.",
+    "contemplatio_foco": {
+      "texto": "a fé é o fundamento das coisas que se esperam, e o argumento das que não se vêem",
+      "ref": "Hb 11,1"
+    }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Fundamento” (hypóstasis): a fé dá já consistência real ao que se espera; “argumento” (élenchos), prova das realidades invisíveis. Hb 11,1-2.8-19 é a segunda leitura do 19º Domingo do Tempo Comum, Ano C, e da Sagrada Família, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "11:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula clássica do mínimo da fé: crer que Deus existe e que é remunerador.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

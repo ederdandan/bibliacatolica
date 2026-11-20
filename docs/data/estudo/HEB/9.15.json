@@ -1,0 +1,65 @@
+{
+  "id": "HEB.9.15",
+  "livro": "HEB",
+  "titulo": "Oferecido uma só vez",
+  "secao": "O sacerdócio de Cristo e a nova aliança",
+  "referencia": "Hb 9,15-28",
+  "ini": {
+    "c": 9,
+    "v": 15
+  },
+  "fim": {
+    "c": 9,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Cristo oferecido uma só vez aparecerá para a salvação dos que o esperam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Por isso Cristo é mediador de uma nova aliança: tendo intervindo a sua morte para a remissão das transgressões da primeira, os chamados recebem a herança eterna prometida. Jogando com o duplo sentido de “testamento”, o autor lembra que um testamento só vale com a morte do testador. Também a primeira aliança foi inaugurada com sangue: Moisés aspergiu o livro e o povo dizendo “este é o sangue da aliança”, e aspergiu o tabernáculo e os vasos. Segundo a lei, quase tudo se purifica com sangue, e sem efusão de sangue não há remissão. As figuras das realidades celestes purificavam-se assim; as próprias realidades celestes, com sacrifícios superiores. Cristo não entrou num santuário feito por mãos humanas, mas no próprio céu, para comparecer agora diante de Deus por nós; e não para se oferecer muitas vezes, mas apareceu uma só vez, na consumação dos séculos, para abolir o pecado pelo seu sacrifício. Como aos homens está decretado morrer uma só vez e depois o juízo, assim Cristo, oferecido uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem relação com o pecado, para a salvação dos que o esperam.",
+    "alegorico": "As palavras de Moisés, “este é o sangue da aliança”, ecoam nas palavras de Jesus sobre o cálice na Última Ceia. A Eucaristia torna presente o único sacrifício, sem o repetir: “uma só vez” e para sempre.",
+    "moral": "“Morrer uma só vez e depois o juízo”: a vida tem peso definitivo; não há reencarnação nem segundas existências. Isso dá seriedade a cada dia. Mas o horizonte não é medo: Cristo virá “para a salvação daqueles que o esperam”.",
+    "anagogico": "A segunda vinda de Cristo não terá relação com o pecado, já vencido, mas será para a salvação. Hoje Ele comparece diante de Deus por nós; amanhã aparecerá para nos levar consigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cristo é mediador do novo testamento, a fim de que os chamados recebam a herança eterna que lhes foi prometida. Jesus entrou no mesmo céu, para se apresentar agora diante de Deus por nós. Apareceu uma só vez, no fim dos séculos, para destruir o pecado com o sacrifício de si mesmo. Assim como está decretado que os homens morram uma só vez, e que depois disso se siga o juízo, assim também Cristo se ofereceu uma só vez; a segunda vez aparecerá para salvação daqueles que o esperam.",
+    "meditatio_perguntas": [
+      "Vivo com a consciência de que morrerei uma só vez?",
+      "Espero a vinda de Cristo como salvação?",
+      "Na Missa, reconheço o único sacrifício de Cristo tornado presente?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te ofereceste uma só vez para tirar os pecados de muitos e agora compareces diante do Pai por nós, dá-me esperar-te com amor. Quando vieres segunda vez, encontra-me entre os que te esperam. Amém.",
+    "contemplatio_foco": {
+      "texto": "a segunda vez aparecerá, não por causa do pecado, mas para salvação daqueles que o esperam",
+      "ref": "Hb 9,28"
+    }
+  },
+  "ancoras": {
+    "9:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A palavra diathéke significa “aliança” e “testamento”; daí “Novo Testamento”.",
+        "origem": "ia"
+      }
+    },
+    "9:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 9,24-28; 10,19-23 é a segunda leitura da Ascensão do Senhor, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "9:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto citado pela Igreja contra a ideia de reencarnação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

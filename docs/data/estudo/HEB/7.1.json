@@ -1,0 +1,65 @@
+{
+  "id": "HEB.7.1",
+  "livro": "HEB",
+  "titulo": "Sacerdote segundo a ordem de Melquisedeque",
+  "secao": "O sacerdócio de Cristo e a nova aliança",
+  "referencia": "Hb 7,1-28",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Sacerdote para sempre segundo a ordem de Melquisedeque",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, saiu ao encontro de Abraão e abençoou-o, e Abraão deu-lhe o dízimo de tudo. O seu nome significa rei de justiça, e Salém, paz. Sem pai, sem mãe, sem genealogia, sem princípio de dias nem fim de vida, assemelhado ao Filho de Deus, permanece sacerdote para sempre. É maior do que Abraão, pois o inferior é abençoado pelo superior; e Levi, ainda no seu antepassado, pagou-lhe o dízimo. Se a perfeição viesse pelo sacerdócio levítico, por que surgiria outro sacerdote segundo a ordem de Melquisedeque? Mudado o sacerdócio, muda-se a lei. Cristo é da tribo de Judá, e é sacerdote não por descendência carnal, mas pelo poder de uma vida indestrutível, e com juramento: “O Senhor jurou e não se arrependerá: tu és sacerdote para sempre”. Por isso Jesus é fiador de uma aliança melhor. Os sacerdotes eram muitos, porque a morte os impedia de permanecer; Ele permanece para sempre, e pode salvar perfeitamente os que por Ele se aproximam de Deus, vivendo sempre para interceder. Tal pontífice nos convinha: santo, inocente, imaculado, que ofereceu uma vez por todas o sacrifício de si mesmo.",
+    "alegorico": "Melquisedeque, rei de justiça e de paz, que oferece pão e vinho (Gn 14,18), é figura de Cristo sacerdote e da Eucaristia. A Igreja recorda-o no Cânon Romano: “o sacrifício de Melquisedeque, teu sumo sacerdote”.",
+    "moral": "Temos um intercessor que vive sempre para interceder por nós: a nossa oração nunca é solitária. A santidade de Cristo pontífice (“santo, inocente, imaculado”) é também modelo para os que participam do seu sacerdócio, ministerial ou batismal.",
+    "anagogico": "O sacerdócio de Cristo, fundado “no poder de uma vida indestrutível”, não passa. Ele conduz para sempre os que se aproximam de Deus por Ele, até à salvação perfeita."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Melquisedeque, rei de Salém, sacerdote de Deus Altíssimo, saiu ao encontro de Abraão e o abençoou. Tornado assim semelhante ao Filho de Deus, permanece sacerdote para sempre. Cristo foi feito sacerdote segundo o poder de uma vida imperecível. Este, porque permanece para sempre, tem um sacerdócio que não passa. Pode salvar perpetuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor.",
+    "meditatio_perguntas": [
+      "Sei que Cristo intercede agora mesmo por mim?",
+      "Aproximo-me de Deus por meio de Cristo, ou por caminhos próprios?",
+      "Como vivo o sacerdócio comum dos batizados?"
+    ],
+    "oratio_guia": "Senhor Jesus, sacerdote eterno segundo a ordem de Melquisedeque, que vives sempre para interceder por nós, apresenta ao Pai a minha oração. Por ti me aproximo de Deus: salva-me perfeitamente. Amém.",
+    "contemplatio_foco": {
+      "texto": "vivendo sempre para interceder em seu favor",
+      "ref": "Hb 7,25"
+    }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gn 14,18-20: Melquisedeque oferece pão e vinho. Os Padres (Cipriano, Ambrósio) viram nele a figura da Eucaristia.",
+        "origem": "ia"
+      }
+    },
+    "7:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sem pai nem mãe”: a Escritura não regista a sua genealogia; o autor usa esse silêncio como figura da eternidade do Filho.",
+        "origem": "ia"
+      }
+    },
+    "7:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 109 (110), 4, salmo messiânico rezado nas Vésperas de domingo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "HEB.9.1",
+  "livro": "HEB",
+  "titulo": "Com o seu próprio sangue entrou no santuário",
+  "secao": "O sacerdócio de Cristo e a nova aliança",
+  "referencia": "Hb 9,1-14",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O sangue de Cristo purifica a nossa consciência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A primeira aliança tinha ritos de culto e um santuário terrestre: uma primeira tenda, o Santo, com o candelabro, a mesa e os pães da proposição; e, atrás do segundo véu, o Santo dos Santos, com o altar de ouro dos perfumes e a arca da aliança, que continha a urna do maná, a vara de Aarão que florescera e as tábuas da aliança, e sobre ela os querubins da glória cobrindo o propiciatório. No Santo entravam os sacerdotes continuamente; no Santo dos Santos só o pontífice, uma vez por ano, com sangue pelas suas faltas e pelas do povo. O Espírito Santo significava assim que o caminho do santuário ainda não estava aberto. Eram ritos carnais, válidos até ao tempo da reforma. Mas Cristo, pontífice dos bens futuros, atravessando uma tenda maior e mais perfeita, não feita por mãos humanas, entrou uma vez por todas no santuário, não com sangue de bodes e bezerros, mas com o próprio sangue, obtendo uma redenção eterna. Se o sangue de animais purificava a carne, quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a Deus sem mancha, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo!",
+    "alegorico": "A liturgia do Dia da Expiação (Yom Kippur) é figura da Paixão e da Ascensão: Cristo, sumo sacerdote, entra no santuário celeste com o próprio sangue. O conteúdo da arca (maná, vara florida, tábuas da lei) foi lido pelos Padres como figura de Maria, nova arca que trouxe o Pão da vida.",
+    "moral": "A purificação que Cristo dá não é exterior: atinge a consciência. Quem foi purificado pelo seu sangue é libertado das “obras mortas” para servir ao Deus vivo. A confissão sacramental aplica-nos esta purificação.",
+    "anagogico": "Cristo entrou no santuário para nos obter uma “redenção eterna”. O caminho que estava fechado foi aberto, e também nós entraremos onde Ele entrou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cristo, vindo como pontífice dos bens futuros, não com o sangue dos bodes ou dos bezerros, mas com o seu próprio sangue, entrou uma só vez no santuário, conseguindo-nos uma redenção eterna. Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo sem mácula a Deus, purificará a nossa consciência das obras de morte para servir a Deus vivo!",
+    "meditatio_perguntas": [
+      "Deixo que o sangue de Cristo purifique a minha consciência?",
+      "Que “obras mortas” ainda ocupam a minha vida?",
+      "O meu culto é serviço ao Deus vivo, ou só rito exterior?"
+    ],
+    "oratio_guia": "Senhor Jesus, sumo sacerdote dos bens futuros, que pelo Espírito eterno te ofereceste sem mancha, purifica a minha consciência das obras mortas, para que eu sirva ao Deus vivo. Amém.",
+    "contemplatio_foco": {
+      "texto": "o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo sem mácula a Deus, purificará a nossa consciência",
+      "ref": "Hb 9,14"
+    }
+  },
+  "ancoras": {
+    "9:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão ao Yom Kippur (Lv 16), único dia em que o sumo sacerdote entrava no Santo dos Santos.",
+        "origem": "ia"
+      }
+    },
+    "9:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 9,11-15 é a segunda leitura do Corpo e Sangue de Cristo, Ano B.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "HEB.8.1",
+  "livro": "HEB",
+  "titulo": "Mediador de uma aliança melhor",
+  "secao": "O sacerdócio de Cristo e a nova aliança",
+  "referencia": "Hb 8,1-13",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Porei as minhas leis no seu coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O ponto capital é este: temos um pontífice sentado à direita do trono da Majestade nos céus, ministro do santuário e do verdadeiro tabernáculo, erguido pelo Senhor e não por homem. Todo pontífice oferece dons e sacrifícios; também Ele tem algo a oferecer. Na terra nem seria sacerdote, pois há os que oferecem segundo a lei um culto que é cópia e sombra das realidades celestes, segundo o modelo mostrado a Moisés no monte. Mas Cristo recebeu um ministério tanto mais elevado quanto melhor é a aliança de que é mediador, fundada em melhores promessas. Se a primeira fosse sem defeito, não se procuraria uma segunda. Deus anunciou por Jeremias uma nova aliança, diferente da do Êxodo: porei as minhas leis no seu espírito e escrevê-las-ei no seu coração; serei o seu Deus e eles serão o meu povo; todos me conhecerão, do menor ao maior, porque perdoarei as suas iniquidades. Ao dizer “nova”, declarou antiquada a primeira, e o que envelhece está perto de desaparecer.",
+    "alegorico": "O tabernáculo terrestre era “sombra” do celeste; a liturgia da Igreja, unida à de Cristo no céu, participa já da realidade. A nova aliança escrita nos corações é a obra do Espírito Santo derramado em Pentecostes.",
+    "moral": "A nova aliança não é apenas um código melhor, mas uma lei interior: Deus muda o coração. Por isso a vida cristã não se reduz a cumprir normas; nasce de uma relação pessoal de conhecimento de Deus, oferecida a todos, “do mais pequeno ao maior”.",
+    "anagogico": "O verdadeiro santuário está no céu, onde Cristo exerce o seu ministério. A promessa “todos me conhecerão” terá cumprimento pleno na visão de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Temos um pontífice tal, que está sentado nos céus à direita do trono da Majestade, ministro do santuário e do verdadeiro tabernáculo erigido pelo Senhor. Esta é a aliança que estabelecerei com a casa de Israel, diz o Senhor: porei as minhas leis no seu espírito, gravá-las-ei no seu coração, e serei o seu Deus, e eles serão o meu povo; todos eles me conhecerão, desde o mais pequeno até ao maior.",
+    "meditatio_perguntas": [
+      "A lei de Deus está escrita no meu coração ou só na memória?",
+      "Conheço a Deus pessoalmente, ou só ouço falar dele?",
+      "Participo da liturgia como antecipação do culto celeste?"
+    ],
+    "oratio_guia": "Senhor, que prometeste uma aliança nova, escreve as tuas leis no meu coração. Sê o meu Deus, e faz de mim membro do teu povo, para que te conheça e viva perdoado no teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "porei as minhas leis no seu espírito, gravá-las-ei no seu coração, e serei o seu Deus, e eles serão o meu povo",
+      "ref": "Hb 8,10"
+    }
+  },
+  "ancoras": {
+    "8:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Jr 31,31-34, a passagem mais longa do AT citada no NT.",
+        "origem": "ia"
+      }
+    },
+    "8:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Ex 25,40: o santuário terrestre feito segundo um “modelo” celeste.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

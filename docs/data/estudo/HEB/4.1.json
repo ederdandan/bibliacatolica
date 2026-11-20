@@ -1,0 +1,57 @@
+{
+  "id": "HEB.4.1",
+  "livro": "HEB",
+  "titulo": "O descanso de Deus e a palavra viva",
+  "secao": "Jesus, pontífice fiel e misericordioso",
+  "referencia": "Hb 4,1-13",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A palavra de Deus é viva e eficaz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Temamos que, permanecendo a promessa de entrar no descanso de Deus, algum de vós pareça ter ficado para trás. Também nós recebemos a boa nova, como eles; mas a palavra não lhes aproveitou, por não se unir à fé. Nós, que cremos, entramos no descanso. O texto do Génesis diz que Deus descansou no sétimo dia de todas as suas obras; e, como os primeiros não entraram por causa da incredulidade, Deus fixa de novo um dia, “hoje”, pela boca de David, muito depois de Josué. Se Josué lhes tivesse dado o descanso, Deus não falaria de outro dia. Resta, pois, um repouso sabático para o povo de Deus. Apressemo-nos a entrar nesse descanso. Pois a palavra de Deus é viva, eficaz e mais penetrante que espada de dois gumes: penetra até à divisão da alma e do espírito, das articulações e medulas, e discerne os pensamentos e intenções do coração. Nenhuma criatura lhe é oculta; tudo está nu e descoberto aos seus olhos.",
+    "alegorico": "O sábado de Deus após a criação, a terra prometida de Josué e o “hoje” do salmo apontam para o verdadeiro descanso: a comunhão eterna com Deus. Josué (em grego, Jesus) não deu o descanso definitivo; dá-lo-á o novo Josué, Jesus Cristo.",
+    "moral": "A Palavra não aproveita a quem não a acolhe com fé. Ela é viva e corta: revela as intenções do coração, desmonta as justificações. Deixar-se ler pela Palavra é exigente, mas libertador. E entrar no descanso de Deus exige esforço: “apressemo-nos”.",
+    "anagogico": "“Resta um repouso sabático para o povo de Deus”: o domingo cristão é sinal do sábado eterno, onde o homem repousará das suas obras como Deus das suas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nós, que cremos, entraremos no descanso. Resta portanto um repouso sabático para o povo de Deus. Apressemo-nos, pois, a entrar naquele descanso. Porque a palavra de Deus é viva, eficaz e mais penetrante do que toda a espada de dois gumes; chega até à separação da alma e do espírito, e discerne os pensamentos e intenções do coração. Todas as coisas estão a nu e a descoberto aos olhos daquele de quem falamos.",
+    "meditatio_perguntas": [
+      "Deixo a Palavra de Deus discernir as intenções do meu coração?",
+      "Como vivo o domingo como antecipação do descanso de Deus?",
+      "Uno a fé à Palavra que escuto?"
+    ],
+    "oratio_guia": "Senhor, cuja palavra é viva e eficaz, penetra o meu coração e discerne os meus pensamentos. Que eu a acolha com fé e me apresse a entrar no teu descanso, onde repousarei em ti para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "a palavra de Deus é viva, eficaz e mais penetrante do que toda a espada de dois gumes",
+      "ref": "Hb 4,12"
+    }
+  },
+  "ancoras": {
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 4,12-13 é a segunda leitura do 28º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Josué” e “Jesus” são o mesmo nome em grego (Iesoûs); os Padres viram em Josué, que introduziu o povo na Terra Prometida, figura de Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

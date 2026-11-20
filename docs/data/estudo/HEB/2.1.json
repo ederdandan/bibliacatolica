@@ -1,0 +1,65 @@
+{
+  "id": "HEB.2.1",
+  "livro": "HEB",
+  "titulo": "Semelhante em tudo aos seus irmãos",
+  "secao": "O Filho, superior aos anjos",
+  "referencia": "Hb 2,1-18",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Pontífice misericordioso e fiel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Por isso devemos aderir com mais cuidado ao que ouvimos, para não nos desviarmos. Se a lei anunciada por anjos teve força, como escaparemos se desprezarmos tão grande salvação, anunciada pelo Senhor, confirmada pelos que o ouviram e atestada por Deus com sinais, prodígios e dons do Espírito? Deus não submeteu o mundo futuro aos anjos. O Salmo 8 pergunta: que é o homem para que te lembres dele? Fizeste-o um pouco inferior aos anjos e coroaste-o de glória. Ainda não vemos tudo submetido ao homem, mas vemos Jesus, feito um pouco inferior aos anjos, coroado de glória pela morte que sofreu por todos. Convinha que Deus, querendo conduzir muitos filhos à glória, aperfeiçoasse pelos sofrimentos o autor da salvação. Ele não se envergonha de chamar irmãos aos santificados; participou da carne e do sangue para destruir pela morte o que tinha o império da morte, o diabo, e libertar os que viviam escravos do medo da morte. Devia tornar-se em tudo semelhante aos irmãos, para ser pontífice misericordioso e fiel; e, porque foi provado no sofrimento, pode socorrer os que são provados.",
+    "alegorico": "Jesus é o homem do Salmo 8 em plenitude: o “filho do homem” humilhado e coroado. Assumindo a nossa carne, faz-se nosso irmão e penetra até ao reino da morte para o destruir por dentro, como o herói que vence o forte na sua própria casa.",
+    "moral": "O perigo maior não é a rebeldia aberta, mas o lento “andar sem rumo”, a negligência que despreza tão grande salvação. E o medo da morte, que escraviza tantas escolhas humanas, perde o seu poder diante de Cristo. Quem sofre e é tentado tem nele um irmão que compreende e socorre.",
+    "anagogico": "Deus quer “levar muitos filhos à glória”: este é o fim de toda a história da salvação. O que ainda não vemos submetido ao homem, já o vemos realizado em Jesus coroado de glória, primícias da nossa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como escaparemos nós, se desprezarmos tão grande salvação? Aquele Jesus, que por um pouco de tempo foi feito inferior aos anjos, nós o vemos, pela paixão da morte, coroado de glória e de honra, para que sofresse a morte por todos. Não se envergonha de lhes chamar irmãos. Ele deveu em tudo ser semelhante a seus irmãos, a fim de ser um pontífice misericordioso e fiel. Porque ele mesmo sofreu e foi tentado, pode socorrer aqueles que são tentados.",
+    "meditatio_perguntas": [
+      "Estou a “andar sem rumo” na fé por negligência?",
+      "Que medos, sobretudo o da morte, ainda me escravizam?",
+      "Recorro a Jesus como irmão que conhece a minha tentação?"
+    ],
+    "oratio_guia": "Senhor Jesus, que não te envergonhas de me chamar irmão, socorre-me na tentação. Liberta-me do medo da morte e conduz-me, com os muitos filhos que o Pai quer salvar, à glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque ele mesmo sofreu e foi tentado, é que pode socorrer aqueles que são tentados",
+      "ref": "Hb 2,18"
+    }
+  },
+  "ancoras": {
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 2,9-11 é a segunda leitura do 27º Domingo do Tempo Comum, Ano B. “Pela graça de Deus” (chariti theoû); alguns manuscritos antigos leem “sem Deus” (chorìs theoû).",
+        "origem": "ia"
+      }
+    },
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 8,5-7 (LXX), aplicada a Cristo como homem perfeito.",
+        "origem": "ia"
+      }
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira vez que a carta chama Jesus “pontífice” (archieréus), tema central de toda a obra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

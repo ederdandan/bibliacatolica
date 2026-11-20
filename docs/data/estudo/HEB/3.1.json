@@ -1,0 +1,57 @@
+{
+  "id": "HEB.3.1",
+  "livro": "HEB",
+  "titulo": "Se ouvirdes hoje a sua voz",
+  "secao": "Jesus, pontífice fiel e misericordioso",
+  "referencia": "Hb 3,1-19",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Hoje, não endureçais os vossos corações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Irmãos santos, participantes da vocação celeste, considerai Jesus, o apóstolo e pontífice da fé que professamos. Foi fiel a Deus, como Moisés na casa de Deus; mas Moisés foi fiel como servo, e Cristo como filho à frente da casa. E essa casa somos nós, se conservarmos firmes até ao fim a confiança e a alegria da esperança. Por isso, como diz o Espírito Santo no Salmo 94: hoje, se ouvirdes a sua voz, não endureçais os corações, como no deserto, onde os pais tentaram a Deus durante quarenta anos e Ele jurou que não entrariam no seu descanso. Cuidai que nenhum de vós tenha um coração mau e incrédulo que se afaste do Deus vivo; exortai-vos uns aos outros todos os dias, enquanto se diz “hoje”, para que ninguém se endureça pela sedução do pecado. Somos participantes de Cristo se mantivermos firme até ao fim a confiança inicial. Os que saíram do Egito não entraram, por causa da incredulidade.",
+    "alegorico": "A geração do deserto é figura da Igreja peregrina: saiu do Egito pelo batismo e caminha para o repouso de Deus. A casa de que Moisés era servo e Cristo é Filho é a Igreja, casa de Deus edificada com pedras vivas.",
+    "moral": "O “hoje” é o tempo da decisão: cada dia a voz de Deus pode ser acolhida ou recusada. O endurecimento do coração é progressivo e começa pela sedução do pecado. Daí a importância da exortação fraterna diária: precisamos uns dos outros para perseverar.",
+    "anagogico": "O descanso de Deus não alcançado pelos israelitas no deserto aponta para o repouso eterno. A perseverança “até ao fim” é a condição para nele entrar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Irmãos santos, participantes da vocação celestial, considerai o Apóstolo e o Pontífice da fé que professamos, Jesus. Cristo foi fiel como um filho posto à frente da sua casa, a qual casa somos nós, se conservarmos firmes até ao fim a confiança e a alegre altivez da esperança. Se ouvirdes hoje a sua voz, não endureçais os vossos corações. Exortai-vos uns aos outros, todos os dias, durante o tempo que se chama Hoje.",
+    "meditatio_perguntas": [
+      "Que voz de Deus estou a ouvir “hoje”?",
+      "Há em mim sinais de endurecimento do coração?",
+      "Exorto e deixo-me exortar pelos irmãos?"
+    ],
+    "oratio_guia": "Senhor Jesus, apóstolo e pontífice da nossa fé, hoje quero ouvir a tua voz. Não permitas que eu endureça o coração; guarda-me firme até ao fim na confiança e na alegria da esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se hoje ouvirdes a sua voz, não endureçais os vossos corações",
+      "ref": "Hb 3,15"
+    }
+  },
+  "ancoras": {
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 94 (95), 7-11, que a Igreja reza cada manhã como Invitatório da Liturgia das Horas.",
+        "origem": "ia"
+      }
+    },
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Apóstolo”: único lugar do NT em que Jesus recebe este título, como enviado do Pai.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

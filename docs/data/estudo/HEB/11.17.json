@@ -1,0 +1,57 @@
+{
+  "id": "HEB.11.17",
+  "livro": "HEB",
+  "titulo": "A nuvem de testemunhas",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 11,17-40",
+  "ini": {
+    "c": 11,
+    "v": 17
+  },
+  "fim": {
+    "c": 11,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Homens de quem o mundo não era digno",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pela fé Abraão, posto à prova, ofereceu Isaac, o filho único, aquele que recebera as promessas, pensando que Deus é poderoso até para ressuscitar os mortos; e por isso o recuperou, como símbolo. Pela fé Isaac abençoou Jacob e Esaú; Jacob, ao morrer, abençoou os filhos de José; José anunciou o êxodo. Pela fé Moisés foi escondido pelos pais; adulto, recusou ser filho da filha do Faraó, preferindo ser maltratado com o povo de Deus a gozar o prazer passageiro do pecado, julgando o opróbrio de Cristo maior riqueza que os tesouros do Egito; deixou o Egito, firme como quem vê o Invisível; celebrou a Páscoa. Pela fé atravessaram o mar Vermelho, caíram os muros de Jericó, Raab foi poupada. Que mais direi? Gedeão, Barac, Sansão, Jefté, David, Samuel e os profetas, que pela fé conquistaram reinos, fecharam a boca dos leões, apagaram a violência do fogo. Outros foram torturados, açoitados, encarcerados, apedrejados, serrados, mortos à espada, andaram errantes, cobertos de peles, privados de tudo: homens de quem o mundo não era digno. Todos receberam bom testemunho pela fé, mas não obtiveram a promessa: Deus previra algo melhor para nós, para que não chegassem sem nós à perfeição.",
+    "alegorico": "Isaac recuperado “como símbolo” é figura da ressurreição de Cristo, o Filho único oferecido. O “opróbrio de Cristo” escolhido por Moisés mostra que toda a história de Israel já era orientada para o Messias.",
+    "moral": "A galeria da fé inclui vitórias e derrotas: alguns fecharam a boca dos leões, outros foram serrados ao meio. A fé não garante êxito visível, mas fidelidade. Moisés escolheu o sofrimento com o povo de Deus em vez do prazer passageiro do pecado: é a escolha diária do cristão.",
+    "anagogico": "Os santos da antiga aliança esperam “connosco” a perfeição: toda a Igreja, de todos os tempos, chegará unida à plenitude. A ressurreição que Abraão intuiu é a esperança comum."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pela fé, Abraão, posto à prova, ofereceu em sacrifício Isaac, seu filho unigênito, considerando que Deus é poderoso até para ressuscitar os mortos. Pela fé, Moisés escolheu antes ser afligido com o povo de Deus, que gozar a delícia transitória do pecado, considerando maior riqueza o opróbrio do Cristo; permaneceu firme, como se visse aquele que é invisível. Eles, de quem o mundo não era digno, tiveram de andar errando pelos desertos.",
+    "meditatio_perguntas": [
+      "O que Deus me pede para Lhe oferecer, como Abraão ofereceu Isaac?",
+      "Que “delícia transitória do pecado” preciso recusar?",
+      "Mantenho-me firme “como quem vê o Invisível”?"
+    ],
+    "oratio_guia": "Deus fiel, que sustentaste a fé de Abraão, de Moisés e dos mártires, dá-me permanecer firme como quem vê o Invisível. Que eu prefira o opróbrio de Cristo aos tesouros deste mundo, e chegue com todos os santos à perfeição. Amém.",
+    "contemplatio_foco": {
+      "texto": "permaneceu firme, como se visse aquele que é invisível",
+      "ref": "Hb 11,27"
+    }
+  },
+  "ancoras": {
+    "11:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Como símbolo” (en parabolê): Isaac “devolvido” da morte é figura da ressurreição de Cristo.",
+        "origem": "ia"
+      }
+    },
+    "11:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Serrados”: segundo uma tradição judaica, o profeta Isaías foi martirizado assim sob Manassés.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

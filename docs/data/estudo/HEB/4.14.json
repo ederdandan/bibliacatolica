@@ -1,0 +1,57 @@
+{
+  "id": "HEB.4.14",
+  "livro": "HEB",
+  "titulo": "Um pontífice que se compadece das nossas fraquezas",
+  "secao": "Jesus, pontífice fiel e misericordioso",
+  "referencia": "Hb 4,14–5,10",
+  "ini": {
+    "c": 4,
+    "v": 14
+  },
+  "fim": {
+    "c": 5,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Aproximemo-nos confiadamente do trono da graça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tendo um grande pontífice que atravessou os céus, Jesus, o Filho de Deus, mantenhamos firme a profissão de fé. Não temos um pontífice incapaz de se compadecer das nossas fraquezas: ele foi provado em tudo como nós, exceto no pecado. Aproximemo-nos, pois, com confiança do trono da graça, para alcançar misericórdia e encontrar graça no tempo oportuno. Todo pontífice, tirado dentre os homens, é constituído em favor dos homens nas coisas de Deus, para oferecer dons e sacrifícios pelos pecados; pode compadecer-se dos ignorantes e dos que erram, porque também ele está cercado de fraqueza, e oferece sacrifícios também pelos seus pecados. Ninguém se arroga esta honra, mas é chamado por Deus, como Aarão. Assim Cristo não se glorificou a si mesmo, mas recebeu-a do Pai: “tu és sacerdote para sempre segundo a ordem de Melquisedeque”. Nos dias da sua carne, ofereceu orações e súplicas com forte clamor e lágrimas Àquele que o podia salvar da morte, e foi atendido pela sua piedade; embora Filho, aprendeu a obediência pelo que sofreu e, consumado, tornou-se causa de salvação eterna para todos os que lhe obedecem.",
+    "alegorico": "O grande clamor e as lágrimas evocam o Getsêmani e a Cruz. O trono da graça é o novo propiciatório, aberto a todos por Cristo, que atravessou os céus como o sumo sacerdote atravessava o véu do santuário.",
+    "moral": "Jesus conhece por dentro a nossa fraqueza: por isso podemos aproximar-nos com confiança, não com medo. O sacerdócio é vocação recebida, não honra que se toma. E a obediência, que Cristo “aprendeu” sofrendo, é também o nosso caminho: o sofrimento acolhido torna-se escola de filiação.",
+    "anagogico": "Cristo “atravessou os céus” e tornou-se causa de salvação eterna. A misericórdia que alcançamos agora no trono da graça é penhor do encontro definitivo com Ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo nós um grande pontífice, que penetrou os céus, Jesus, Filho de Deus, sejamos firmes na profissão da nossa fé. Não temos um pontífice que não possa compadecer-se das nossas enfermidades, mas que foi tentado em tudo à nossa semelhança, excepto no pecado. Aproximemo-nos, pois, confiadamente do trono da graça, a fim de alcançar misericórdia. Embora fosse Filho de Deus, aprendeu a obediência pelas coisas que sofreu.",
+    "meditatio_perguntas": [
+      "Aproximo-me de Deus com confiança ou com medo?",
+      "Que fraqueza minha posso entregar a Jesus, que a compreende?",
+      "O que estou a aprender, como Jesus, “pelas coisas que sofro”?"
+    ],
+    "oratio_guia": "Jesus, grande pontífice, que te compadeces das minhas fraquezas, aproximo-me com confiança do trono da graça. Dá-me misericórdia e graça no tempo oportuno, e ensina-me a obediência filial nos sofrimentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aproximemo-nos, pois, confiadamente do trono da graça",
+      "ref": "Hb 4,16"
+    }
+  },
+  "ancoras": {
+    "4:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 4,14-16; 5,7-9 é a segunda leitura da Sexta-feira Santa; Hb 5,7-9, do 5º Domingo da Quaresma, Ano B; Hb 5,1-6, do 30º Domingo do Tempo Comum, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Excepto no pecado”: Cristo assumiu verdadeira natureza humana com as suas fraquezas, mas sem pecado (Concílio de Calcedónia, 451).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "HEB.13.1",
+  "livro": "HEB",
+  "titulo": "Jesus Cristo, ontem e hoje e por todos os séculos",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 13,1-25",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Jesus Cristo é sempre o mesmo, ontem e hoje e por todos os séculos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Permaneça o amor fraterno. Não vos esqueçais da hospitalidade, pela qual alguns, sem saber, hospedaram anjos. Lembrai-vos dos presos e dos que sofrem, como se estivésseis com eles. Seja honrado por todos o matrimónio e o leito conjugal sem mancha. Vivei sem avareza, contentes com o que tendes, pois Ele disse: não te deixarei nem te abandonarei; podemos dizer com confiança: o Senhor é o meu auxílio, não temerei. Lembrai-vos dos vossos guias, que vos anunciaram a palavra, e imitai a sua fé. Jesus Cristo é o mesmo ontem e hoje e por todos os séculos. Não vos deixeis levar por doutrinas estranhas; é bom fortificar o coração pela graça. Temos um altar do qual não podem comer os que servem ao tabernáculo. Como os corpos das vítimas eram queimados fora do acampamento, Jesus sofreu fora da porta; saiamos ao seu encontro, levando o seu opróbrio, pois não temos aqui cidade permanente, mas buscamos a futura. Ofereçamos sempre a Deus um sacrifício de louvor, e não esqueçamos a beneficência. Obedecei aos vossos guias, que velam pelas vossas almas; orai por nós. O Deus da paz, que ressuscitou dos mortos o grande Pastor das ovelhas pelo sangue da aliança eterna, vos torne aptos para todo o bem. A graça esteja com todos vós.",
+    "alegorico": "“Temos um altar”: o altar cristão, onde se come a vítima do novo sacrifício, a Eucaristia. Jesus, imolado “fora da porta” como as vítimas do Dia da Expiação, é também o grande Pastor ressuscitado pelo sangue da aliança eterna.",
+    "moral": "A exortação final abraça toda a vida: amor fraterno, hospitalidade, cuidado dos presos, fidelidade conjugal, desapego do dinheiro, obediência aos pastores, louvor e partilha. Tudo isto é o “sacrifício” que agrada a Deus. E Cristo, sempre o mesmo, é a estabilidade no meio das doutrinas que mudam.",
+    "anagogico": "“Não temos aqui cidade permanente, mas vamos buscando a futura”: o cristão vive em êxodo permanente. Cristo, o mesmo ontem, hoje e sempre, é a eternidade que atravessa o tempo e nos espera."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Permaneça entre vós a caridade fraterna. Não vos esqueçais da hospitalidade, porque por esta alguns hospedaram anjos. Lembrai-vos dos que estão presos. Contentai-vos com o que tendes, porque ele mesmo disse: Não te deixarei, nem te abandonarei. Jesus Cristo é sempre o mesmo, ontem e hoje; ele o será também por todos os séculos. Não temos aqui cidade permanente, mas vamos buscando a futura. Ofereçamos sempre a Deus um sacrifício de louvor.",
+    "meditatio_perguntas": [
+      "Pratico a hospitalidade e lembro-me dos presos e dos que sofrem?",
+      "Vivo contente com o que tenho, confiando que Deus não me abandona?",
+      "Cristo é o centro estável da minha vida no meio das mudanças?"
+    ],
+    "oratio_guia": "Jesus Cristo, o mesmo ontem, hoje e sempre, tu és o meu auxílio, não temerei. Dá-me a caridade fraterna, a hospitalidade e o desapego, e faz que, sem cidade permanente aqui, eu caminhe para a futura, oferecendo-te o louvor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jesus Cristo é sempre o mesmo, ontem e hoje; ele o será também por todos os séculos",
+      "ref": "Hb 13,8"
+    }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Abraão (Gn 18) e Lot (Gn 19), que acolheram anjos sem os reconhecer.",
+        "origem": "ia"
+      }
+    },
+    "13:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres e a tradição viram aqui a referência ao altar eucarístico.",
+        "origem": "ia"
+      }
+    },
+    "13:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 13,20-21 é usado como bênção solene; título de Cristo “grande Pastor das ovelhas” (cf. Jo 10,11; 1Pd 5,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

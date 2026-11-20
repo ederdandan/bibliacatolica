@@ -1,0 +1,23 @@
+# Divisão de Hebreus em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O Filho, superior aos anjos
+1:1-1:14 | Deus falou-nos por meio de seu Filho
+2:1-2:18 | Semelhante em tudo aos seus irmãos
+## Jesus, pontífice fiel e misericordioso
+3:1-3:19 | Se ouvirdes hoje a sua voz
+4:1-4:13 | O descanso de Deus e a palavra viva
+4:14-5:10 | Um pontífice que se compadece das nossas fraquezas
+5:11-6:20 | A esperança, âncora segura da alma
+## O sacerdócio de Cristo e a nova aliança
+7:1-7:28 | Sacerdote segundo a ordem de Melquisedeque
+8:1-8:13 | Mediador de uma aliança melhor
+9:1-9:14 | Com o seu próprio sangue entrou no santuário
+9:15-9:28 | Oferecido uma só vez
+10:1-10:18 | Eis-me que venho para fazer a tua vontade
+## A perseverança na fé
+10:19-10:39 | Aproximemo-nos com plenitude de fé
+11:1-11:16 | A fé dos patriarcas
+11:17-11:40 | A nuvem de testemunhas
+12:1-12:13 | Os olhos fixos em Jesus; a correção do Pai
+12:14-12:29 | Aproximastes-vos do monte Sião
+13:1-13:25 | Jesus Cristo, ontem e hoje e por todos os séculos

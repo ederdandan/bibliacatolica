@@ -1,0 +1,65 @@
+{
+  "id": "HEB.12.14",
+  "livro": "HEB",
+  "titulo": "Aproximastes-vos do monte Sião",
+  "secao": "A perseverança na fé",
+  "referencia": "Hb 12,14-29",
+  "ini": {
+    "c": 12,
+    "v": 14
+  },
+  "fim": {
+    "c": 12,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Aproximastes-vos da Jerusalém celeste",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Procurai a paz com todos e a santificação, sem a qual ninguém verá o Senhor. Vigiai para que ninguém se prive da graça de Deus, nem brote raiz amarga que contamine a muitos; que ninguém seja impuro ou profano como Esaú, que vendeu a primogenitura por um prato de comida e depois, querendo herdar a bênção, foi rejeitado, embora a pedisse com lágrimas. Não vos aproximastes de um monte palpável, de fogo ardente, nuvem, trevas e tempestade, do som da trombeta e de uma voz tão terrível que os ouvintes pediram para não lhes ser mais dirigida, como no Sinai, onde até Moisés disse “estou aterrado e a tremer”. Mas aproximastes-vos do monte Sião, da cidade do Deus vivo, da Jerusalém celeste, de miríades de anjos, da assembleia dos primogénitos inscritos nos céus, de Deus juiz de todos, dos espíritos dos justos aperfeiçoados, de Jesus, mediador da nova aliança, e do sangue da aspersão, que fala melhor que o de Abel. Não recuseis Aquele que fala. A sua voz abalou outrora a terra; agora promete abalar também o céu, para que permaneça o que é inabalável. Recebendo um reino inabalável, sirvamos a Deus com reverência e temor, pois o nosso Deus é fogo devorador.",
+    "alegorico": "O contraste Sinai–Sião resume a passagem da antiga à nova aliança: do temor à comunhão. Na liturgia, a Igreja já se aproxima da Jerusalém celeste, unida aos anjos e aos santos. O sangue de Cristo “fala melhor que o de Abel”: este clamava vingança, aquele implora perdão.",
+    "moral": "“A santidade, sem a qual ninguém verá o Senhor”: não é opcional. Esaú é o retrato de quem troca o eterno pelo imediato. Cuidar para que nenhuma “raiz amarga” (ressentimento, divisão) cresça na comunidade é responsabilidade de todos.",
+    "anagogico": "Recebemos “um reino inabalável”: quando tudo o que é criado for abalado, permanecerá o que é de Deus. A assembleia dos primogénitos inscritos nos céus é a nossa verdadeira cidadania."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Buscai a paz com todos e a santidade, sem a qual ninguém verá o Senhor. Vós aproximastes-vos da montanha de Sião e da cidade do Deus vivo, da Jerusalém celeste e da multidão de muitos milhares de anjos, da assembleia dos primogênitos, que estão inscritos nos céus, e de Jesus, mediador da nova aliança, e do sangue purificador, que fala melhor que o de Abel. Recebendo nós um reino inabalável, prestemos a Deus um culto que lhe seja agradável, com reverência e temor.",
+    "meditatio_perguntas": [
+      "Que “prato de comida” me tenta a trocar a bênção de Deus?",
+      "Há alguma raiz amarga a crescer no meu coração?",
+      "Participo da liturgia consciente de estar diante da Jerusalém celeste?"
+    ],
+    "oratio_guia": "Senhor Jesus, mediador da nova aliança, cujo sangue fala melhor que o de Abel, faz-me buscar a paz e a santidade. Que eu sirva a Deus com reverência, na comunhão dos anjos e dos santos, à espera do reino inabalável. Amém.",
+    "contemplatio_foco": {
+      "texto": "Buscai a paz com todos e a santidade, sem a qual ninguém verá o Senhor",
+      "ref": "Hb 12,14"
+    }
+  },
+  "ancoras": {
+    "12:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 12,18-19.22-24a é a segunda leitura do 22º Domingo do Tempo Comum, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "12:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sangue de Abel clamava da terra (Gn 4,10); o de Cristo intercede pela reconciliação.",
+        "origem": "ia"
+      }
+    },
+    "12:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Dt 4,24: Deus, fogo que purifica e consome.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

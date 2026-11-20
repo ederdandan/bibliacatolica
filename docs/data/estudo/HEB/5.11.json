@@ -1,0 +1,57 @@
+{
+  "id": "HEB.5.11",
+  "livro": "HEB",
+  "titulo": "A esperança, âncora segura da alma",
+  "secao": "Jesus, pontífice fiel e misericordioso",
+  "referencia": "Hb 5,11–6,20",
+  "ini": {
+    "c": 5,
+    "v": 11
+  },
+  "fim": {
+    "c": 6,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Esperança, âncora segura e firme da alma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor tem muito a dizer sobre o sacerdócio de Cristo, mas os destinatários tornaram-se lentos para ouvir: deviam ser mestres e ainda precisam de leite, não de alimento sólido, próprio dos adultos, que pelo exercício têm os sentidos treinados para discernir o bem e o mal. Deixando os rudimentos (arrependimento, fé, batismos, imposição das mãos, ressurreição, juízo), avancemos para a perfeição. É impossível que os que foram iluminados, saborearam o dom celeste, participaram do Espírito Santo e depois caíram sejam outra vez renovados para a penitência, pois crucificam de novo o Filho de Deus. A terra que bebe a chuva e produz fruto é abençoada; a que produz espinhos está perto da maldição. Mas o autor espera melhores coisas: Deus não esquece o amor que mostraram servindo os santos. Desejam que cada um mostre o mesmo zelo até ao fim, imitando os que, pela fé e paciência, herdam as promessas. Deus jurou a Abraão por si mesmo, para mostrar a imutabilidade do seu desígnio; temos assim forte consolação na esperança, âncora segura e firme da alma, que penetra além do véu, onde Jesus entrou como precursor.",
+    "alegorico": "A âncora, lançada não no fundo do mar mas “além do véu”, no santuário celeste, é símbolo da esperança cristã: fixa-nos em Cristo, que lá entrou como precursor. Nas catacumbas, a âncora foi um dos primeiros símbolos cristãos, por vezes em forma de cruz.",
+    "moral": "A fé pede crescimento: ficar sempre no “leite” é sinal de tibieza. O discernimento do bem e do mal exercita-se com a prática. A advertência sobre a apostasia é grave: quem rejeita conscientemente a graça recebida fecha-se à renovação. Mas o autor não deixa de encorajar: Deus não esquece o amor praticado.",
+    "anagogico": "A esperança já penetra “além do véu”: é a âncora que nos prende ao céu enquanto ainda navegamos. Jesus, o precursor, abriu o caminho que havemos de percorrer."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O alimento sólido é para os perfeitos, para aqueles que pelo hábito têm os sentidos exercitados para discernir o bem e o mal. Deus não é injusto, para que se esqueça da vossa obra e da caridade que mostrastes em seu nome. Não vos torneis tíbios, mas imitai aqueles que, mediante a fé e a perseverança, são herdeiros das promessas. Temos a esperança como uma âncora segura e firme da alma, e que penetra até além do véu, em que Jesus, nosso precursor, entrou por nós.",
+    "meditatio_perguntas": [
+      "Estou a crescer na fé ou permaneço no “leite”?",
+      "Em que sinto a tentação da tibieza?",
+      "A esperança é, de facto, a âncora da minha alma?"
+    ],
+    "oratio_guia": "Senhor, que juraste por ti mesmo e não podes mentir, firma a minha esperança em ti como âncora segura. Livra-me da tibieza e faz-me crescer, para que, com fé e paciência, herde as tuas promessas. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma âncora segura e firme da alma",
+      "ref": "Hb 6,19"
+    }
+  },
+  "ancoras": {
+    "6:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto usado pelos novacianos para negar o perdão aos que caíram; a Igreja entendeu-o da impossibilidade de um novo batismo e da dureza de quem rejeita deliberadamente Cristo, não da recusa da Penitência.",
+        "origem": "ia"
+      }
+    },
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Doutrina sobre os batismos e a imposição das mãos”: catequese inicial, talvez distinguindo o batismo cristão das abluções judaicas e incluindo o rito da Confirmação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
