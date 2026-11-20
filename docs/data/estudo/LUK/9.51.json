@@ -1,0 +1,81 @@
+{
+  "id": "LUK.9.51",
+  "livro": "LUK",
+  "titulo": "A recusa dos samaritanos; as exigências do seguimento",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 9,51-62",
+  "ini": { "c": 9, "v": 51 },
+  "fim": { "c": 9, "v": 62 },
+  "liturgia": { "tema_central": "Seguir Jesus decididamente, sem olhar para trás", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Começa a grande viagem a Jerusalém, que ocupa Lc 9,51–19,27. Aproximando-se o tempo de ser “elevado”, Jesus dirige-se resolutamente para Jerusalém. Uma aldeia de samaritanos recusa recebê-lo, por ele ir a Jerusalém (os samaritanos adoravam no monte Garizim). Tiago e João propõem fazer descer fogo do céu, como Elias; Jesus repreende-os: “Não sabeis de que espírito sois”, e vão a outra aldeia. Pelo caminho, três candidatos: a quem promete segui-lo a toda parte, Jesus lembra que o Filho do homem não tem onde reclinar a cabeça; a quem pede para sepultar primeiro o pai, diz: “Deixa que os mortos sepultem os seus mortos; tu vai anunciar o reino de Deus”; a quem quer despedir-se dos seus, responde que quem põe a mão no arado e olha para trás não é apto para o Reino.",
+    "alegorico": "O Cordeiro verdadeiro sobe a Jerusalém para ser imolado onde se imolava o cordeiro figurativo; a sua “elevação” é a cruz, a ressurreição e a ascensão. A misericórdia para com os samaritanos anuncia a evangelização da Samaria (At 8), que crê mais depressa por ter sido poupada.",
+    "moral": "A virtude perfeita não conhece a vingança; a fraqueza deve ser socorrida, não repelida. Nem sempre se deve punir: a misericórdia leva o pecador à penitência. Quem segue Jesus por vantagens encontra um Mestre sem casa. O dever para com os pais não é abolido, mas o Reino tem precedência. Olhar para trás reconduz, pela força do hábito, à vida antiga.",
+    "anagogico": "A decisão de Jesus de subir a Jerusalém é a de cumprir a sua Páscoa e subir ao Pai; quem o segue sem olhar para trás caminha com Ele para a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aproximando-se o tempo da sua partida deste mundo, dirigiu-se resolutamente para Jerusalém. Numa aldeia de Samaritanos não o receberam. Tiago e João disseram: “Senhor, queres tu que digamos que desça fogo do céu?” Ele repreendeu-os: “Vós não sabeis de que espírito sois”. Um homem disse-lhe: “Seguir-te-ei para onde quer que fores”. Jesus respondeu-lhe: “O Filho do homem não tem onde reclinar a cabeça”. A um outro disse: “Segue-me”. “Tu vai anunciar o reino de Deus”. Jesus disse: “Ninguém que, depois de ter metido a sua mão ao arado, olha para trás, é apto para o reino de Deus”.",
+    "meditatio_perguntas": [
+      "Que “fogo do céu” desejo às vezes sobre os que me rejeitam?",
+      "Que “primeiro deixa-me…” uso para adiar a resposta a Jesus?",
+      "Para onde olho quando já pus a mão no arado?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te dirigiste decididamente para Jerusalém, dá-me um coração firme para te seguir. Livra-me do espírito de vingança e da tentação de olhar para trás. Que nada se anteponha ao teu Reino e que eu te siga mesmo sem ter onde reclinar a cabeça. Amém.",
+    "contemplatio_foco": { "texto": "Ninguém que, depois de ter metido a sua mão ao arado, olha para trás, é apto para o reino de Deus.", "ref": "Lc 9,62" }
+  },
+  "ancoras": {
+    "9:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:51–56#0", "sintese": "Chegado o tempo de cumprir a paixão vivificante e subir ao céu, decide subir a Jerusalém." },
+        { "autor": "Tito de Bostra", "obra": null, "catena": "9:51–56#1", "sintese": "O Cordeiro verdadeiro devia ser oferecido onde se imolava o figurativo; “firmou o rosto”: seguiu caminho direto." }
+      ],
+      "nota": { "texto": "“Resolutamente” traduz a expressão semítica “endureceu o rosto” (cf. Is 50,7): Jesus enfrenta com firmeza o caminho da Paixão.", "origem": "ia" }
+    },
+    "9:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:51–56#10", "sintese": "Vinga-se quem teme; quem não teme não busca vingança. Os “filhos do trovão” reivindicam o poder de Elias." }
+      ],
+      "nota": null
+    },
+    "9:55": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:51–56#12", "sintese": "A virtude perfeita não conhece vingança, nem há ira onde há plenitude de amor: a fraqueza deve ser socorrida." }
+      ],
+      "nota": null
+    },
+    "9:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:51–56#14", "sintese": "A misericórdia leva o pecador à penitência: estes samaritanos, poupados do fogo, creram mais depressa." }
+      ],
+      "nota": null
+    },
+    "9:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:57–62#4", "sintese": "Por que seguir-me em busca de riquezas, se sou tão pobre que nem tenho onde repousar?" },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:57–62#5", "sintese": "O Senhor mostra pelas obras a pobreza que ensinou: nem mesa, nem lâmpada, nem casa." }
+      ],
+      "nota": null
+    },
+    "9:60": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:57–62#12", "sintese": "Não proíbe sepultar o pai, mas antepõe a religião aos laços de parentesco; os “mortos” são os mortos pelo pecado." }
+      ],
+      "nota": null
+    },
+    "9:62": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:57–62#17", "sintese": "Querer consultar os de casa mostra um coração ainda dividido: olha para trás quem busca pretexto para adiar." },
+        { "autor": "Expositor Grego", "obra": "Nilo, monge.", "catena": "9:57–62#20", "sintese": "Olhar para o que deixamos reconduz-nos, pela força do hábito, à vida antiga." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

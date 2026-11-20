@@ -1,0 +1,88 @@
+{
+  "id": "LUK.9.37",
+  "livro": "LUK",
+  "titulo": "O menino possesso; quem é o maior",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 9,37-50",
+  "ini": { "c": 9, "v": 37 },
+  "fim": { "c": 9, "v": 50 },
+  "liturgia": { "tema_central": "A grandeza de Deus e a pequenez do discípulo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao descerem do monte, um homem grita da multidão: “Põe os olhos em meu filho, porque é o único que tenho”; um espírito o agita, faz espumar e dilacera; os discípulos não puderam expulsá-lo. Jesus lamenta: “Ó geração incrédula e perversa! Até quando estarei convosco?”, manda trazer o menino, repreende o espírito, cura-o e devolve-o ao pai. Todos se maravilham da grandeza de Deus. Jesus anuncia de novo que o Filho do homem será entregue, mas os discípulos não entendem e têm medo de perguntar. Discutem quem é o maior; Jesus põe junto de si uma criança: quem a recebe em seu nome recebe-o a ele e ao Pai; o menor é o maior. A João, que proibiu um exorcista que não era do grupo, responde: “Quem não é contra vós, é por vós”.",
+    "alegorico": "Do monte da glória Jesus desce ao vale do sofrimento humano: no alto revela a voz do Pai, embaixo expulsa os demônios. Assim o Senhor sobe com os perfeitos e desce para socorrer os fracos. A criança que recebe em seu nome é Ele mesmo, que se fez criança por nós.",
+    "moral": "Basta pedir a Jesus que “olhe”: o seu olhar salva. Ele não se irrita com o homem, mas com o pecado. Não são os milagres que salvam, mas a cruz: por isso, no meio da admiração, anuncia a Paixão. O diabo, quando não vence pelo prazer, tenta pela vanglória, até entre os apóstolos. A verdadeira grandeza é a modéstia de quem não pensa grandes coisas de si. A graça de Cristo age também fora do nosso grupo: não devemos impedir o bem que outros fazem em seu nome.",
+    "anagogico": "A grandeza de Deus, que hoje se manifesta em sinais, será plenamente vista no Reino, onde os pequenos serão os maiores."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um homem do meio da multidão clamou: “Mestre, rogo-te que ponhas os olhos em meu filho, porque é o único que tenho. Pedi a teus discípulos que o expelissem, mas eles não puderam”. Jesus ameaçou o espírito imundo, sarou o menino, e restituiu-o a seu pai. E todos pasmavam da grandeza de Deus. Jesus disse aos seus discípulos: “O Filho do homem está para ser entregue nas mãos dos homens”. Começaram a discutir sobre qual deles era o maior. Jesus tomou pela mão um menino, pô-lo junto a si, e disse-lhes: “Todo o que receber este menino em meu nome, a mim recebe. Porque aquele que entre vós todos é o menor, esse é o maior”.",
+    "meditatio_perguntas": [
+      "Peço a Jesus que “ponha os olhos” sobre quem sofre na minha família?",
+      "Em que procuro ser “o maior” em vez de me fazer pequeno?",
+      "Alegro-me com o bem que outros fazem, mesmo fora do meu grupo?"
+    ],
+    "oratio_guia": "Senhor Jesus, põe os teus olhos sobre os que amo e liberta-os do mal. Cura a minha incredulidade e a minha vontade de ser grande. Ensina-me a acolher os pequenos em teu nome e a alegrar-me com todo bem feito por ti, venha de onde vier. Amém.",
+    "contemplatio_foco": { "texto": "aquele que entre vós todos é o menor, esse é o maior", "ref": "Lc 9,48" }
+  },
+  "ancoras": {
+    "9:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:37–43#0", "sintese": "No monte revela a voz do Pai; ao descer, encontra a multidão e expulsa os espíritos malignos." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:37–43#12", "sintese": "O Senhor sobe com os perfeitos para os instruir nas coisas eternas e desce aos fracos para os fortalecer." }
+      ],
+      "nota": null
+    },
+    "9:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "9:37–43#1", "sintese": "Não diz “faz isto”, mas “olha para o meu filho”, porque o olhar do Senhor basta para a salvação." }
+      ],
+      "nota": null
+    },
+    "9:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:37–43#8", "sintese": "Fala como o médico cujo doente desobedece; irritado com o pecado, não com o homem, logo diz: “Traz cá o teu filho”." }
+      ],
+      "nota": null
+    },
+    "9:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "9:43–45#1", "sintese": "Entre a admiração dos milagres prediz a paixão, porque não são os milagres que salvam, mas a cruz." }
+      ],
+      "nota": null
+    },
+    "9:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:43–45#4", "sintese": "A ignorância vinha mais do afeto que do entendimento: não podiam crer que morreria aquele que tinham por Deus." }
+      ],
+      "nota": null
+    },
+    "9:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:46–50#0", "sintese": "Quem escapa às ciladas da carne, o diabo tenta pela vanglória; esta paixão apoderou-se de alguns apóstolos." }
+      ],
+      "nota": null
+    },
+    "9:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:46–50#4", "sintese": "Ensina a acolher os pobres de Cristo e a ser crianças na malícia; na criança é recebido Ele, que nasceu criança por nós." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:46–50#6", "sintese": "O menor é o homem modesto, que nada pensa de elevado a seu respeito." }
+      ],
+      "nota": null
+    },
+    "9:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:46–50#10", "sintese": "João não é censurado, pois agiu por amor, mas aprende que o Senhor, recompensando os fortes, não exclui os fracos." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:46–50#13", "sintese": "A graça de Cristo opera também por meio dos indignos e dos que não são seus discípulos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

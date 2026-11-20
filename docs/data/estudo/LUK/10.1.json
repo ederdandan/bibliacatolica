@@ -1,0 +1,136 @@
+{
+  "id": "LUK.10.1",
+  "livro": "LUK",
+  "titulo": "A missão dos setenta e dois discípulos",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 10,1-24",
+  "ini": { "c": 10, "v": 1 },
+  "fim": { "c": 10, "v": 24 },
+  "liturgia": { "tema_central": "A messe é grande: a paz anunciada e os nomes escritos no céu", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus designa outros setenta e dois e envia-os dois a dois à sua frente. A messe é grande e os operários poucos: rezai ao dono da messe. Vão como cordeiros entre lobos, sem bolsa, alforje nem sandálias, sem se deter em saudações pelo caminho. Em cada casa dizem: “A paz seja nesta casa”; ficam ali, comem o que lhes oferecem, pois o operário merece o seu salário; curam os doentes e anunciam que o Reino está próximo. Onde não forem recebidos, sacudam o pó, e será pior para essa cidade que para Sodoma. Jesus lamenta Corazim, Betsaida e Cafarnaum. Quem vos ouve, a mim ouve. Os setenta e dois voltam alegres: até os demônios se submetem. Jesus viu Satanás cair do céu como um raio; mas alegrai-vos porque os vossos nomes estão escritos nos céus. Jesus exulta no Espírito e louva o Pai, que revelou estas coisas aos pequeninos; ninguém conhece o Filho senão o Pai, nem o Pai senão o Filho. Felizes os olhos que veem o que vedes.",
+    "alegorico": "Os setenta e dois evocam as nações da terra (Gn 10) e os setenta anciãos de Moisés: o Evangelho é para todos os povos. Os enviados dois a dois figuram a caridade, que exige pelo menos dois. A queda de Satanás anuncia a vitória de Cristo; a exultação de Jesus no Espírito, que louva o Pai, é uma janela aberta sobre a vida da Trindade.",
+    "moral": "Quem não tem caridade com o próximo não deve assumir o ofício de pregar. O povo deve rezar pelos seus pastores. O pregador confia em Deus para o necessário, para não se preocupar mais com o temporal que com as almas; deseja a salvação dos ouvintes com intenção firme, não de passagem. A paz é a mãe de todos os bens. Não nos alegremos com os poderes recebidos, mas com a nossa salvação: a soberba fez cair Satanás. Deus revela-se aos humildes, não necessariamente aos ignorantes.",
+    "anagogico": "Os nomes escritos no céu são a verdadeira alegria: a memória e a graça de Deus que nos guardam para a vida eterna. Os profetas viram de longe, como em espelho; os discípulos veem de perto; e nós veremos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor escolheu outros setenta e dois e mandou-os dois a dois adiante de si. Disse-lhes: “Grande é na verdade a messe, mas os operários poucos. Rogai, pois, ao dono da messe que mande operários para a sua messe. Ide; eis que eu vos envio como cordeiros entre lobos. Na casa em que entrardes, dizei primeiro: A paz seja nesta casa. Curai os enfermos e dizei-lhes: Está próximo de vós o reino de Deus”. Os setenta e dois voltaram alegres. Ele disse-lhes: “Alegrai-vos porque os vossos nomes estão escritos nos céus”. Naquela mesma hora Jesus exultou no Espírito Santo, e disse: “Graças te dou, ó Pai, porque escondeste estas coisas aos sábios e as revelaste aos pequeninos”.",
+    "meditatio_perguntas": [
+      "Rezo ao dono da messe pelas vocações e pelos pastores?",
+      "Levo a paz às casas onde entro?",
+      "Onde ponho a minha alegria: nos resultados ou no fato de o meu nome estar escrito no céu?"
+    ],
+    "oratio_guia": "Senhor da messe, envia operários à tua messe e faz de mim um deles. Que eu leve a paz a cada casa e confie na tua providência. Dá-me a alegria de saber o meu nome escrito no céu e um coração de pequenino, a quem o Pai revela os seus segredos. Amém.",
+    "contemplatio_foco": { "texto": "alegrai-vos porque os vossos nomes estão escritos nos céus", "ref": "Lc 10,20" }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 17 in Ev.", "catena": "10:1–2#4", "sintese": "Envia-os dois a dois porque a caridade, com os seus dois preceitos, exige pelo menos dois; quem não ama o próximo não deve pregar." }
+      ],
+      "nota": { "texto": "Alguns manuscritos trazem “setenta”, outros “setenta e dois”; o número evoca as nações da terra em Gn 10 e os setenta anciãos de Nm 11.", "origem": "ia" }
+    },
+    "10:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:1–2#14", "sintese": "O povo deve rezar pelos pastores, para que a sua língua não fique presa na exortação, por culpa própria ou do povo." }
+      ],
+      "nota": null
+    },
+    "10:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "10:3–4#3", "sintese": "O bom Pastor não teme os lobos: envia os cordeiros para comunicar a graça, para que o lobo e o cordeiro pastem juntos." }
+      ],
+      "nota": null
+    },
+    "10:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 17 in Ev.", "catena": "10:3–4#9", "sintese": "O pregador confia que não lhe faltará o necessário, para não se ocupar mais do temporal que do espiritual dos outros." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:3–4#15", "sintese": "Saudar pelo caminho é desejar a salvação de passagem: assim faz quem prega buscando recompensa, e não por amor da pátria celeste." }
+      ],
+      "nota": null
+    },
+    "10:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 35 in Matth.", "catena": "10:5–12#0", "sintese": "A paz é a mãe de todos os bens; por isso se pronuncia primeiro ao entrar numa casa." }
+      ],
+      "nota": null
+    },
+    "10:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 17 in Ev.", "catena": "10:5–12#4", "sintese": "Se ninguém acolher a paz, o pregador não fica sem fruto: ela volta para ele como recompensa do seu trabalho." }
+      ],
+      "nota": null
+    },
+    "10:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "10:5–12#8", "sintese": "O alimento é parte do salário: começa aqui com o trabalho da pregação e completa-se na pátria com a visão da verdade." }
+      ],
+      "nota": null
+    },
+    "10:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 38 in Matth.", "catena": "10:13–16#2", "sintese": "Lamenta estas cidades para nosso exemplo: chorar pelos insensíveis é remédio para eles e consolo para quem chora." }
+      ],
+      "nota": null
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 102.", "catena": "10:13–16#6", "sintese": "Se a palavra de Deus nos põe no lugar dos apóstolos, não nos desprezeis: o que fizerdes conosco chega até Ele." }
+      ],
+      "nota": null
+    },
+    "10:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 23, c. 4.", "catena": "10:17–20#1", "sintese": "Para reprimir a altivez dos discípulos, lembra a queda do mestre da soberba." }
+      ],
+      "nota": null
+    },
+    "10:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Hom. in Cant.", "catena": "10:17–20#11", "sintese": "O prazer é a serpente: se introduz a cabeça numa fenda, arrasta todo o corpo, da necessidade à cobiça e à luxúria." }
+      ],
+      "nota": null
+    },
+    "10:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:17–20#17", "sintese": "Os nomes dos santos estão escritos não com tinta, mas na memória e na graça de Deus; o diabo caiu do alto, e os homens de baixo são inscritos no céu." }
+      ],
+      "nota": null
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:21–22#0", "sintese": "Como o pai se alegra com os filhos que procedem bem, Cristo exulta porque os apóstolos foram julgados dignos de tão grandes bens." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:21–22#12", "sintese": "Aos sábios opõe não os néscios, mas os pequeninos, isto é, os humildes: condena a soberba, não a inteligência." }
+      ],
+      "nota": null
+    },
+    "10:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "10:21–22#20", "sintese": "Mostra que não é inferior ao Pai: a substância divina ultrapassa toda mente criada, e só ela se conhece." }
+      ],
+      "nota": null
+    },
+    "10:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:23–24#5", "sintese": "Os antigos viam de longe, como em espelho e enigma; os apóstolos tinham o Senhor presente." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
