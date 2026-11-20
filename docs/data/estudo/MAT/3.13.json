@@ -1,0 +1,61 @@
+{
+  "id": "MAT.3.13",
+  "livro": "MAT",
+  "titulo": "O batismo de Jesus",
+  "secao": "A preparação do ministério",
+  "referencia": "Mt 3,13-17",
+  "ini": { "c": 3, "v": 13 },
+  "fim": { "c": 3, "v": 17 },
+  "liturgia": { "tema_central": "“Este é o meu Filho amado”: o Batismo do Senhor revela a Trindade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vem da Galileia ao Jordão para ser batizado por João. Só Mateus conserva o diálogo: João resiste (“Eu é que devo ser batizado por ti”), e Jesus responde que convém “cumprir toda a justiça”, isto é, realizar plenamente o desígnio do Pai, solidarizando-se com os pecadores. Saindo da água, os céus se abrem, o Espírito desce como pomba, e a voz do Pai declara: “Este é o meu Filho amado, no qual pus as minhas complacências”, palavras que unem o Sl 2,7 (o Filho-Rei) e Is 42,1 (o Servo eleito). É a investidura messiânica de Jesus no início da sua missão.",
+    "alegorico": "No Jordão manifesta-se a Trindade: o Pai na voz, o Filho na água, o Espírito na pomba. A pomba lembra a do dilúvio, que trazia o ramo de oliveira; agora anuncia o nosso Libertador e traz a adoção ao gênero humano. Cristo não precisava ser purificado: desceu às águas para santificá-las e instituir o nosso Batismo. Os céus abertos significam que o paraíso, fechado pelo pecado de Adão, é reaberto ao homem.",
+    "moral": "Se o Senhor não recusou ser batizado pelo seu servo, com que prontidão devemos correr ao seu Batismo e viver segundo ele. A humildade de Cristo, que se coloca na fila dos pecadores, e a de João, que se julga indigno, ensinam a não buscar o primeiro lugar. “Cumprir toda a justiça” é fazer a vontade de Deus, mesmo quando ela parece contrariar a nossa lógica.",
+    "anagogico": "Pelo Batismo, também nós somos feitos filhos no Filho, e um dia ouviremos do Pai a palavra de complacência. Os céus abertos sobre Jesus anunciam os céus abertos para os batizados que perseverarem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus foi da Galileia ao Jordão para ser batizado por João. João opunha-se: “Eu é que devo ser batizado por ti, e tu vens a mim?” Jesus respondeu: “Deixa por agora, pois convém que cumpramos toda a justiça”. Batizado, Jesus saiu da água, e os céus se abriram, e viu o Espírito de Deus descer como pomba e vir sobre Ele. E uma voz do céu dizia: “Este é o meu Filho amado, no qual pus as minhas complacências”.",
+    "meditatio_perguntas": [
+      "Vivo com consciência de que, pelo Batismo, sou filho amado do Pai?",
+      "Sei acolher a vontade de Deus quando ela contraria a minha lógica, como João?",
+      "Em que preciso “cumprir toda a justiça” na minha vida hoje?"
+    ],
+    "oratio_guia": "Pai, que no Jordão proclamaste Jesus teu Filho amado, renova em mim a graça do Batismo. Dá-me o teu Espírito, para que eu viva como teu filho e cumpra toda a justiça. Que um dia eu ouça de ti a palavra da tua complacência. Amém.",
+    "contemplatio_foco": { "texto": "Este é o meu Filho amado, no qual pus as minhas complacências.", "ref": "Mt 3,17" }
+  },
+  "ancoras": {
+    "3:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Trat. sobre João 5, 3", "catena": "3:13–15#11", "sintese": "Dignou-se ser batizado por João para que os servos vissem com que prontidão deviam correr ao Batismo do Senhor." },
+        { "autor": "Santo Agostinho", "obra": "não localizado; cf. Ambrosiaster, Serm. 12, 4", "catena": "3:13–15#8", "sintese": "Quis ser batizado não para ser purificado, mas para purificar a água para nós." }
+      ],
+      "nota": null
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 12", "catena": "3:13–15#13", "sintese": "O batismo de João supunha o pecado; para que ninguém pensasse que Cristo vinha por esse motivo, João protesta." }
+      ],
+      "nota": null
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:16#13", "sintese": "A pomba alude ao dilúvio: trazia o ramo de oliveira; agora mostra o nosso Libertador e traz a adoção ao gênero humano." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 2, 5", "catena": "3:16#14", "sintese": "O Espírito se mostrou visivelmente por uma aparência temporária de pomba; essa manifestação chama-se missão do Espírito Santo." }
+      ],
+      "nota": null
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "não localizado", "catena": "3:17#0", "sintese": "Não mais por figuras, como por Moisés e os profetas: o Pai mostra abertamente que o Filho já veio." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 4, 21", "catena": "3:17#5", "sintese": "São obras de toda a Trindade: o Pai, o Filho e o Espírito Santo são um, embora se manifestem distintamente." },
+        { "autor": "Santo Agostinho", "obra": "Trat. sobre João 14, 11", "catena": "3:17#7", "sintese": "O Pai ama o Filho como pai, não como senhor ama o servo; como Filho próprio, não adotivo." }
+      ],
+      "nota": { "texto": "A voz une o Sl 2,7 (“Tu és meu filho”) e Is 42,1 (“o meu eleito, em quem pus as minhas complacências”): Jesus é o Filho-Rei e o Servo sofredor.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

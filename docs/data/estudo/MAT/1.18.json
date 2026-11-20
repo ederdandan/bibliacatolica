@@ -1,0 +1,77 @@
+{
+  "id": "MAT.1.18",
+  "livro": "MAT",
+  "titulo": "O nascimento de Jesus e o anúncio a José",
+  "secao": "A infância de Jesus",
+  "referencia": "Mt 1,18-25",
+  "ini": { "c": 1, "v": 18 },
+  "fim": { "c": 1, "v": 25 },
+  "liturgia": { "tema_central": "Emanuel, Deus conosco: o Filho concebido do Espírito Santo é acolhido por José", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Maria estava desposada com José: pelo direito judaico, os noivos já eram marido e mulher, mas ainda não coabitavam. Antes que vivessem juntos, ela concebeu do Espírito Santo. José, “homem justo”, não quer expô-la à infâmia e decide despedi-la em segredo. Em sonho, o anjo lhe revela a origem divina da criança e lhe confia duas missões: receber Maria em sua casa e dar ao menino o nome de Jesus (“o Senhor salva”), pois Ele salvará o seu povo dos pecados. Mateus vê aqui o cumprimento de Is 7,14: “a Virgem conceberá… Emanuel”. José obedece. A frase “sem que a tivesse conhecido, deu à luz” afirma a concepção virginal, sem dizer nada sobre o que veio depois.",
+    "alegorico": "A concepção pelo Espírito Santo revela que Jesus é o Filho de Deus feito homem: Emanuel, Deus conosco. José, filho de David, insere o menino na linhagem messiânica pela paternidade legal. O nome “Jesus” resume toda a sua missão: salvar do pecado. Os Padres viram no esposo carpinteiro uma figura de Cristo, Esposo da Igreja, que salvaria os homens pelo madeiro da Cruz.",
+    "moral": "José é modelo de justiça unida à misericórdia: não denuncia, não expõe, protege. Poupar o próximo da vergonha, quando não se compreende tudo, é sinal de verdadeira justiça. A sua obediência é imediata e silenciosa: ao despertar, faz o que o anjo mandou. Ensina a confiar em Deus quando os seus planos parecem desfazer os nossos, e a acolher com fé o mistério que nos ultrapassa.",
+    "anagogico": "Emanuel, Deus conosco, é a promessa que atravessa a história até a sua plenitude: na Jerusalém celeste, Deus habitará com os homens para sempre (Ap 21,3). Já agora Ele está conosco todos os dias, até o fim do mundo (Mt 28,20), e o Evangelho de Mateus começa e termina com essa presença."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Maria, desposada com José, antes de coabitarem, achou-se grávida do Espírito Santo. José, seu esposo, sendo justo e não querendo difamá-la, resolveu despedi-la em segredo. Enquanto pensava nisso, um anjo do Senhor lhe apareceu em sonho: “José, filho de David, não temas receber Maria, tua esposa, pois o que nela foi gerado vem do Espírito Santo. Ela dará à luz um filho, e tu lhe porás o nome de Jesus, porque ele salvará o seu povo dos seus pecados”. Tudo isso aconteceu para cumprir a profecia: “A Virgem conceberá e dará à luz um filho, e o chamarão Emanuel, Deus conosco”. Ao despertar, José fez como o anjo mandara e recebeu sua esposa.",
+    "meditatio_perguntas": [
+      "Quando não compreendo o que acontece, reajo como José, com justiça e misericórdia?",
+      "Obedeço com prontidão quando Deus me mostra a sua vontade?",
+      "Vivo na consciência de que Deus está comigo, “Emanuel”, em cada dia?"
+    ],
+    "oratio_guia": "Senhor Jesus, Emanuel, Deus conosco, eu te agradeço por teres vindo morar entre nós. Dá-me a justiça misericordiosa e a obediência pronta de São José. Salva-me dos meus pecados e faz-me acolher-te como ele acolheu Maria e o Menino. Amém.",
+    "contemplatio_foco": { "texto": "Emanuel, que significa: Deus conosco.", "ref": "Mt 1,23" }
+  },
+  "ancoras": {
+    "1:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:18#1", "sintese": "Anuncia que vai relatar o modo da geração, para que não suponhas, ao ouvir falar do esposo de Maria, que Cristo nasceu segundo a lei da natureza." },
+        { "autor": "Pseudo-Crisóstomo", "obra": null, "catena": "1:18#13", "sintese": "Maria foi desposada com um carpinteiro porque Cristo, Esposo da Igreja, havia de salvar os homens pelo madeiro da Cruz." }
+      ],
+      "nota": null
+    },
+    "1:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "1:19#5", "sintese": "Se queres acusar diante dos homens um pecado que só tu conheces, não corriges, mas trais; José, sendo justo, com grande misericórdia poupou a esposa." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "1:19#6", "sintese": "José, seguro da castidade de Maria e admirado com o que acontecera, cobriu com o silêncio um mistério que não sabia explicar." }
+      ],
+      "nota": null
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:20#2", "sintese": "Observa a misericórdia de José, que não revelou as suas suspeitas a ninguém, nem mesmo a ela." },
+        { "autor": "Pseudo-Crisóstomo", "obra": null, "catena": "1:20#8", "sintese": "Ao chamá-lo filho de David, lembra-lhe a promessa de que da descendência de David nasceria o Cristo." }
+      ],
+      "nota": null
+    },
+    "1:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "1:21#6", "sintese": "Jesus é palavra hebraica que significa Salvador; o anjo indica a etimologia: “Ele salvará o seu povo dos seus pecados”." },
+        { "autor": "São Remígio", "obra": null, "catena": "1:21#7", "sintese": "Salva o seu povo, os que creem nele, e não tanto de inimigos visíveis, mas dos pecados." }
+      ],
+      "nota": { "texto": "Yeshua (Jesus) significa “o Senhor salva”. Ao dar o nome, José assume a paternidade legal do menino.", "origem": "ia" }
+    },
+    "1:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Comentário sobre Is 7,14", "catena": "1:22–23#4", "sintese": "O profeta anuncia um sinal novo e maravilhoso; se quem dá à luz fosse só uma jovem, e não uma virgem, que sinal seria?" },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:22–23#9", "sintese": "“Chamarão o seu nome Emanuel” não significa outra coisa senão: verão Deus entre os homens." }
+      ],
+      "nota": null
+    },
+    "1:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Cont. Helvid. 8", "catena": "1:24–25#6", "sintese": "Se José se absteve até o parto por causa das palavras do anjo, como ousaria tocá-la depois de ouvir os pastores, ver os magos e conhecer tantos milagres?" },
+        { "autor": "São Jerônimo", "obra": null, "catena": "1:24–25#9", "sintese": "É costume das Escrituras chamar primogênito não só aquele a quem se seguem irmãos, mas o primeiro filho que nasce da mãe." }
+      ],
+      "nota": { "texto": "Na Bíblia, “até que” afirma o que se deu antes de um momento, sem implicar mudança depois (cf. 2Sm 6,23). A Igreja professa a virgindade perpétua de Maria.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

@@ -195,7 +195,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 
 ## 8. Próximo passo
 
-1. **Mateus**: criar `scripts/pericopes/MAT.txt` (formato igual ao de MRK.txt), rodar `node scripts/estudo.mjs index MAT` e gerar com o mesmo fluxo (`contexto MAT c.v` → JSON → `check MAT`). Marcos (75/75) já está no ar.
+1. **Mateus** (em andamento): `scripts/pericopes/MAT.txt` com 107 perícopes, índice gerado. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` (PER limita os excertos por bloco, priorizando os grandes Padres, porque a Catena de Mateus é muito densa) → JSON → `check MAT`. Feitas: até 4.1 (7 perícopes); próxima 4.12. Marcos (75/75) já está no ar.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).
 

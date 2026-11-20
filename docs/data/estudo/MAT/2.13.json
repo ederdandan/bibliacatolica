@@ -1,0 +1,81 @@
+{
+  "id": "MAT.2.13",
+  "livro": "MAT",
+  "titulo": "A fuga para o Egito e a matança dos inocentes",
+  "secao": "A infância de Jesus",
+  "referencia": "Mt 2,13-23",
+  "ini": { "c": 2, "v": 13 },
+  "fim": { "c": 2, "v": 23 },
+  "liturgia": { "tema_central": "O Filho chamado do Egito: Deus guarda o Menino por meio de José", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Avisado em sonho, José foge de noite para o Egito com o menino e sua mãe, onde havia numerosas colônias judaicas. Herodes, enganado pelos magos, manda matar os meninos de Belém e arredores com menos de dois anos; Belém era uma aldeia pequena, e as vítimas teriam sido poucas, o que se ajusta ao caráter de Herodes, que matou a própria esposa e filhos. Mateus vê nisso o pranto de Raquel (Jr 31,15), mãe das tribos, chorando os filhos levados ao exílio. Morto Herodes (4 a.C.), José volta, mas, temendo Arquelau, filho e sucessor cruel na Judeia, estabelece-se em Nazaré, na Galileia. Mateus liga “Nazareno” às profecias (provavelmente o nezer, “rebento”, de Is 11,1).",
+    "alegorico": "Jesus revive a história de Israel: como o povo, desce ao Egito e é chamado de lá (Os 11,1). É o novo Moisés, salvo de um rei que mata crianças, que libertará o povo de uma escravidão mais profunda. Os Santos Inocentes são as primícias dos mártires: morrem não falando, mas morrendo, por Cristo, e formam um exército vestido de branco da mesma idade do Senhor.",
+    "moral": "José é modelo de obediência pronta: levanta-se de noite e parte, sem discutir, pela segurança do Menino e de Maria. A fé não livra das provações: logo após o nascimento, o tirano se enfurece e a mãe com o Filho é exilada; assim aprendemos a não nos perturbar quando, depois de grandes graças, vêm as dificuldades. A crueldade de Herodes mostra até onde leva o apego ao poder.",
+    "anagogico": "Os Inocentes, coroados sem terem lutado, mostram que a glória do céu é dom de Cristo. A volta do exílio para a terra de Israel antecipa o retorno definitivo dos redimidos à pátria. O choro de Raquel será consolado quando Deus enxugar toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Partidos os magos, um anjo apareceu em sonho a José: “Levanta-te, toma o menino e sua mãe, foge para o Egito, porque Herodes vai procurar o menino para matá-lo”. José levantou-se de noite e partiu para o Egito, onde ficou até a morte de Herodes, para cumprir-se: “Do Egito chamei o meu filho”. Herodes, vendo-se enganado, mandou matar todos os meninos de Belém de dois anos para baixo. Cumpriu-se o que disse Jeremias: “Raquel chora os seus filhos e não quer ser consolada”. Morto Herodes, o anjo mandou José voltar. Ele foi morar em Nazaré, para cumprir-se: “Será chamado Nazareno”.",
+    "meditatio_perguntas": [
+      "Obedeço a Deus com a prontidão de José, mesmo quando isso me tira do meu lugar?",
+      "Como reajo quando, depois de grandes graças, chegam as provações?",
+      "Que “inocentes” sofrem hoje à minha volta, e como posso protegê-los?"
+    ],
+    "oratio_guia": "Senhor Jesus, que quiseste ser perseguido e exilado desde o nascimento, protege os inocentes, os refugiados e os perseguidos. Dá-me a obediência e a coragem de São José para guardar o que me confias. Santos Inocentes, rogai por nós. Amém.",
+    "contemplatio_foco": { "texto": "Do Egipto chamei o meu filho.", "ref": "Mt 2,15" }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:13–15#10", "sintese": "Logo após o seu nascimento, o tirano se enfurece, e a mãe com o Filho é levada para terras estrangeiras; se no início da vida espiritual encontrares tribulações, não desanimes, tendo este exemplo." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:13–15#5", "sintese": "O tirano supôs que seria expulso do trono; mas Cristo não veio ferir a dignidade dos outros, e sim conceder-lhes a sua." }
+      ],
+      "nota": null
+    },
+    "2:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "2:13–15#7", "sintese": "Quando leva o Menino para o Egito, é de noite e nas trevas; quando volta para a Judeia, o Evangelho não fala de noite nem de trevas." }
+      ],
+      "nota": null
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:13–15#15", "sintese": "É lei da profecia que muitas coisas se digam de uns e se cumpram em outros." }
+      ],
+      "nota": { "texto": "Os 11,1 fala do Êxodo de Israel, “meu filho”. Mateus vê em Jesus o Filho em quem a história do povo se cumpre plenamente.", "origem": "ia" }
+    },
+    "2:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "não localizado", "catena": "2:16#1", "sintese": "Enquanto persegue o Cristo, proporcionou-lhe um exército de mártires vestidos de branco, da mesma idade que o Senhor." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 220 no Apêndice", "catena": "2:16#2", "sintese": "O inimigo injusto jamais poderia ter beneficiado tanto essas crianças com o seu amor quanto o fez com o seu ódio." }
+      ],
+      "nota": null
+    },
+    "2:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 9", "catena": "2:17–18#0", "sintese": "Depois de encher o leitor de horror, o evangelista acalma-o mostrando que não aconteceram porque Deus não as pudesse impedir ou as ignorasse, mas como o profeta predissera." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "2:17–18#4", "sintese": "O filho de Raquel era Benjamim, e Belém não estava nessa tribo; mas Raquel, sepultada junto de Belém, chora como mãe os filhos daquela terra." }
+      ],
+      "nota": null
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "2:19–20#4", "sintese": "Diz “os que procuravam”: não só Herodes, mas também os sacerdotes e escribas buscavam a morte do Senhor." }
+      ],
+      "nota": null
+    },
+    "2:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "2:21–23#8", "sintese": "Diz “os profetas”, no plural: mostra que não toma as palavras de um texto, mas o sentido do conjunto; e Nazareno significa “santo”." }
+      ],
+      "nota": { "texto": "Nenhum profeta diz literalmente “Nazareno”. Associa-se ao nezer (“rebento”) de Is 11,1, ao nazireu consagrado e à humilde Nazaré.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

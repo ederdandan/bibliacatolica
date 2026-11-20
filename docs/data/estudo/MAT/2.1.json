@@ -1,0 +1,90 @@
+{
+  "id": "MAT.2.1",
+  "livro": "MAT",
+  "titulo": "A adoração dos Magos",
+  "secao": "A infância de Jesus",
+  "referencia": "Mt 2,1-12",
+  "ini": { "c": 2, "v": 1 },
+  "fim": { "c": 2, "v": 12 },
+  "liturgia": { "tema_central": "Os povos, guiados pela estrela, vêm adorar o Rei recém-nascido", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus nasce em Belém de Judá, nos dias de Herodes, o Grande, rei idumeu, desconfiado e cruel (morto em 4 a.C.). Magos, provavelmente sábios estudiosos dos astros, vindos do Oriente (Pérsia ou Babilônia), chegam a Jerusalém perguntando pelo “rei dos judeus” cuja estrela viram. Herodes se perturba, e Jerusalém com ele. Os sacerdotes e escribas, consultando Mq 5,1, indicam Belém, mas não vão até lá. Herodes, fingindo querer adorar, envia os magos. A estrela os guia até a casa; com grande alegria veem o menino com Maria, sua mãe, prostram-se, adoram-no e oferecem ouro, incenso e mirra. Avisados em sonho, voltam por outro caminho.",
+    "alegorico": "Os magos são as primícias dos gentios: os pastores eram israelitas e vieram de perto, os magos vieram de longe, e todos acorreram à única Pedra angular. Cumpre-se Is 60 e Sl 72: os reis das nações trazem dons ao Senhor. Os presentes confessam quem é o Menino: ouro ao Rei, incenso a Deus, mirra a quem há de morrer. A estrela é Cristo, “estrela radiante da manhã”, e é também a graça que conduz a Ele.",
+    "moral": "Os magos ensinam a buscar a Deus com perseverança, deixando seguranças e enfrentando o caminho; os escribas conhecem a Escritura, mas não se movem. Herodes mostra o coração que vê em Cristo um rival e esconde a malícia sob aparência de devoção. Quem encontrou Cristo não volta pelo mesmo caminho: depois de conhecê-lo, é preciso mudar de vida. Ofereçamos também nós o ouro da sabedoria, o incenso da oração e a mirra da mortificação.",
+    "anagogico": "A viagem dos magos é imagem da peregrinação da humanidade rumo à pátria. A nossa pátria é o Paraíso, e só voltamos a ela por outro caminho, o da obediência e da penitência. No fim, todas as nações virão adorar o Rei na Jerusalém celeste, iluminada pela glória de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo Jesus nascido em Belém de Judá, no tempo do rei Herodes, magos vieram do Oriente a Jerusalém, perguntando: “Onde está o rei dos judeus que acaba de nascer? Vimos a sua estrela e viemos adorá-lo”. Herodes se perturbou, e toda Jerusalém com ele. Os sacerdotes e escribas responderam: “Em Belém de Judá”. Herodes chamou os magos em segredo e os enviou a Belém. A estrela ia adiante deles e parou sobre o lugar onde estava o menino. Com grande alegria, entraram, viram o menino com Maria, sua mãe, prostraram-se e o adoraram, oferecendo ouro, incenso e mirra. Avisados em sonho, voltaram por outro caminho.",
+    "meditatio_perguntas": [
+      "Que “estrela” Deus colocou no meu caminho para me conduzir a Jesus?",
+      "Conheço as Escrituras como os escribas, mas sem me mover? Ou busco como os magos?",
+      "Que presente posso oferecer hoje ao Senhor, e por que “outro caminho” devo voltar?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei e Deus que te deixaste encontrar pelos magos, guia-me com a tua luz. Recebe o ouro do meu amor, o incenso da minha oração e a mirra das minhas renúncias. Depois de te encontrar, que eu siga por outro caminho, o teu. Amém.",
+    "contemplatio_foco": { "texto": "Viram o menino com Maria, sua mãe, e, prostrando-se, o adoraram.", "ref": "Mt 2,11" }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 202", "catena": "2:1–2#11", "sintese": "Os magos são as primícias dos gentios: os pastores, israelitas, vieram de perto; os magos, de longe; e todos acorreram à única Pedra angular." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:1–2#8", "sintese": "Diz “o rei Herodes” porque houve outro Herodes, o que matou João." }
+      ],
+      "nota": { "texto": "Herodes, o Grande, morreu em 4 a.C. O nascimento de Jesus é, por isso, situado alguns anos antes da era cristã calculada por Dionísio, o Exíguo.", "origem": "ia" }
+    },
+    "2:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:1–2#36", "sintese": "Não era uma estrela comum do céu: nenhuma estrela se move desse modo, do oriente para o sul." }
+      ],
+      "nota": null
+    },
+    "2:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "não localizado", "catena": "2:3–6#0", "sintese": "Enquanto os magos buscam um Redentor, Herodes teme um sucessor." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 200, 2", "catena": "2:3–6#3", "sintese": "Se o seu nascimento como criança faz tremer reis soberbos, que fará o seu tribunal de Juiz?" }
+      ],
+      "nota": null
+    },
+    "2:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:3–6#22", "sintese": "A profecia não diz que Ele permanecerá em Belém, mas que sairá de Belém: ali havia apenas de nascer." }
+      ],
+      "nota": { "texto": "Cita Mq 5,1, unido a 2Sm 5,2 (“apascentarás o meu povo Israel”). Belém era a cidade de David.", "origem": "ia" }
+    },
+    "2:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:7–9#5", "sintese": "Diz “acerca do menino”, e não “acerca do Rei”: nega-lhe o título real." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 10 sobre os Evangelhos, 3", "catena": "2:7–9#7", "sintese": "Finge desejar adorá-lo apenas para descobri-lo e matá-lo." }
+      ],
+      "nota": null
+    },
+    "2:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": "Sobre Lucas, liv. 2, 45", "catena": "2:9#4", "sintese": "A estrela é o caminho, e o caminho é Cristo: segundo o mistério da Encarnação, Cristo é a estrela radiante da manhã." }
+      ],
+      "nota": null
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 10 sobre os Evangelhos, 6", "catena": "2:10–11#10", "sintese": "O ouro, como a rei; o incenso, como sacrifício a Deus; a mirra, como a que se usa para embalsamar os mortos." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:10–11#14", "sintese": "Envergonhem-se os hereges que não querem ver o que viram os magos, progenitores da Igreja, que adoravam a Deus na carne." }
+      ],
+      "nota": null
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 10 sobre os Evangelhos, 7", "catena": "2:12#5", "sintese": "A nossa pátria é o Paraíso; depois de conhecer Cristo, não podemos voltar a ela pelo caminho por onde viemos." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 8", "catena": "2:12#3", "sintese": "Vê a fé dos magos: não se escandalizaram com a ordem de fugir às escondidas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

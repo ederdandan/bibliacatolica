@@ -1,0 +1,1520 @@
+{
+ "livro": "MAT",
+ "secoes": [
+  "A infância de Jesus",
+  "A preparação do ministério",
+  "O início do ministério na Galileia",
+  "O Sermão da Montanha",
+  "Os milagres do Reino",
+  "O discurso missionário",
+  "O mistério do Reino e a oposição",
+  "As parábolas do Reino",
+  "A formação dos discípulos",
+  "O discurso sobre a Igreja",
+  "A caminho de Jerusalém",
+  "O ministério em Jerusalém",
+  "O discurso escatológico",
+  "A Paixão e a Morte do Senhor",
+  "A Ressurreição"
+ ],
+ "pericopes": [
+  {
+   "id": "MAT.1.1",
+   "titulo": "A genealogia de Jesus Cristo",
+   "secao": "A infância de Jesus",
+   "referencia": "Mt 1,1-17",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAT.1.18",
+   "titulo": "O nascimento de Jesus e o anúncio a José",
+   "secao": "A infância de Jesus",
+   "referencia": "Mt 1,18-25",
+   "ini": {
+    "c": 1,
+    "v": 18
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  },
+  {
+   "id": "MAT.2.1",
+   "titulo": "A adoração dos Magos",
+   "secao": "A infância de Jesus",
+   "referencia": "Mt 2,1-12",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.2.13",
+   "titulo": "A fuga para o Egito e a matança dos inocentes",
+   "secao": "A infância de Jesus",
+   "referencia": "Mt 2,13-23",
+   "ini": {
+    "c": 2,
+    "v": 13
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "MAT.3.1",
+   "titulo": "A pregação de João Batista",
+   "secao": "A preparação do ministério",
+   "referencia": "Mt 3,1-12",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.3.13",
+   "titulo": "O batismo de Jesus",
+   "secao": "A preparação do ministério",
+   "referencia": "Mt 3,13-17",
+   "ini": {
+    "c": 3,
+    "v": 13
+   },
+   "fim": {
+    "c": 3,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAT.4.1",
+   "titulo": "As tentações no deserto",
+   "secao": "A preparação do ministério",
+   "referencia": "Mt 4,1-11",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 11
+   }
+  },
+  {
+   "id": "MAT.4.12",
+   "titulo": "Jesus começa a pregar na Galileia",
+   "secao": "O início do ministério na Galileia",
+   "referencia": "Mt 4,12-17",
+   "ini": {
+    "c": 4,
+    "v": 12
+   },
+   "fim": {
+    "c": 4,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAT.4.18",
+   "titulo": "O chamado dos primeiros discípulos",
+   "secao": "O início do ministério na Galileia",
+   "referencia": "Mt 4,18-22",
+   "ini": {
+    "c": 4,
+    "v": 18
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "MAT.4.23",
+   "titulo": "Jesus ensina, prega e cura",
+   "secao": "O início do ministério na Galileia",
+   "referencia": "Mt 4,23-25",
+   "ini": {
+    "c": 4,
+    "v": 23
+   },
+   "fim": {
+    "c": 4,
+    "v": 25
+   }
+  },
+  {
+   "id": "MAT.5.1",
+   "titulo": "As bem-aventuranças",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,1-12",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.5.13",
+   "titulo": "Sal da terra e luz do mundo",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,13-16",
+   "ini": {
+    "c": 5,
+    "v": 13
+   },
+   "fim": {
+    "c": 5,
+    "v": 16
+   }
+  },
+  {
+   "id": "MAT.5.17",
+   "titulo": "Jesus e o cumprimento da Lei",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,17-20",
+   "ini": {
+    "c": 5,
+    "v": 17
+   },
+   "fim": {
+    "c": 5,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.5.21",
+   "titulo": "O homicídio e a reconciliação",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,21-26",
+   "ini": {
+    "c": 5,
+    "v": 21
+   },
+   "fim": {
+    "c": 5,
+    "v": 26
+   }
+  },
+  {
+   "id": "MAT.5.27",
+   "titulo": "O adultério e o divórcio",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,27-32",
+   "ini": {
+    "c": 5,
+    "v": 27
+   },
+   "fim": {
+    "c": 5,
+    "v": 32
+   }
+  },
+  {
+   "id": "MAT.5.33",
+   "titulo": "Os juramentos",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,33-37",
+   "ini": {
+    "c": 5,
+    "v": 33
+   },
+   "fim": {
+    "c": 5,
+    "v": 37
+   }
+  },
+  {
+   "id": "MAT.5.38",
+   "titulo": "A lei de talião e o amor aos inimigos",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 5,38-48",
+   "ini": {
+    "c": 5,
+    "v": 38
+   },
+   "fim": {
+    "c": 5,
+    "v": 48
+   }
+  },
+  {
+   "id": "MAT.6.1",
+   "titulo": "A esmola em segredo",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 6,1-4",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 4
+   }
+  },
+  {
+   "id": "MAT.6.5",
+   "titulo": "A oração e o Pai-nosso",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 6,5-15",
+   "ini": {
+    "c": 6,
+    "v": 5
+   },
+   "fim": {
+    "c": 6,
+    "v": 15
+   }
+  },
+  {
+   "id": "MAT.6.16",
+   "titulo": "O jejum",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 6,16-18",
+   "ini": {
+    "c": 6,
+    "v": 16
+   },
+   "fim": {
+    "c": 6,
+    "v": 18
+   }
+  },
+  {
+   "id": "MAT.6.19",
+   "titulo": "O verdadeiro tesouro",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 6,19-24",
+   "ini": {
+    "c": 6,
+    "v": 19
+   },
+   "fim": {
+    "c": 6,
+    "v": 24
+   }
+  },
+  {
+   "id": "MAT.6.25",
+   "titulo": "A confiança na Providência",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 6,25-34",
+   "ini": {
+    "c": 6,
+    "v": 25
+   },
+   "fim": {
+    "c": 6,
+    "v": 34
+   }
+  },
+  {
+   "id": "MAT.7.1",
+   "titulo": "Não julgueis",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 7,1-6",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 6
+   }
+  },
+  {
+   "id": "MAT.7.7",
+   "titulo": "Pedi e recebereis; a regra de ouro",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 7,7-12",
+   "ini": {
+    "c": 7,
+    "v": 7
+   },
+   "fim": {
+    "c": 7,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.7.13",
+   "titulo": "A porta estreita e os falsos profetas",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 7,13-20",
+   "ini": {
+    "c": 7,
+    "v": 13
+   },
+   "fim": {
+    "c": 7,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.7.21",
+   "titulo": "Os verdadeiros discípulos; a casa sobre a rocha",
+   "secao": "O Sermão da Montanha",
+   "referencia": "Mt 7,21-29",
+   "ini": {
+    "c": 7,
+    "v": 21
+   },
+   "fim": {
+    "c": 7,
+    "v": 29
+   }
+  },
+  {
+   "id": "MAT.8.1",
+   "titulo": "A cura de um leproso",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,1-4",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 4
+   }
+  },
+  {
+   "id": "MAT.8.5",
+   "titulo": "O servo do centurião",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,5-13",
+   "ini": {
+    "c": 8,
+    "v": 5
+   },
+   "fim": {
+    "c": 8,
+    "v": 13
+   }
+  },
+  {
+   "id": "MAT.8.14",
+   "titulo": "A sogra de Pedro e muitos doentes",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,14-17",
+   "ini": {
+    "c": 8,
+    "v": 14
+   },
+   "fim": {
+    "c": 8,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAT.8.18",
+   "titulo": "As exigências do seguimento",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,18-22",
+   "ini": {
+    "c": 8,
+    "v": 18
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "MAT.8.23",
+   "titulo": "Jesus acalma a tempestade",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,23-27",
+   "ini": {
+    "c": 8,
+    "v": 23
+   },
+   "fim": {
+    "c": 8,
+    "v": 27
+   }
+  },
+  {
+   "id": "MAT.8.28",
+   "titulo": "Os endemoninhados de Gadara",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 8,28-34",
+   "ini": {
+    "c": 8,
+    "v": 28
+   },
+   "fim": {
+    "c": 8,
+    "v": 34
+   }
+  },
+  {
+   "id": "MAT.9.1",
+   "titulo": "A cura do paralítico",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,1-8",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 8
+   }
+  },
+  {
+   "id": "MAT.9.9",
+   "titulo": "O chamado de Mateus",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,9-13",
+   "ini": {
+    "c": 9,
+    "v": 9
+   },
+   "fim": {
+    "c": 9,
+    "v": 13
+   }
+  },
+  {
+   "id": "MAT.9.14",
+   "titulo": "A questão do jejum",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,14-17",
+   "ini": {
+    "c": 9,
+    "v": 14
+   },
+   "fim": {
+    "c": 9,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAT.9.18",
+   "titulo": "A filha do chefe e a mulher com fluxo de sangue",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,18-26",
+   "ini": {
+    "c": 9,
+    "v": 18
+   },
+   "fim": {
+    "c": 9,
+    "v": 26
+   }
+  },
+  {
+   "id": "MAT.9.27",
+   "titulo": "Dois cegos e um mudo endemoninhado",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,27-34",
+   "ini": {
+    "c": 9,
+    "v": 27
+   },
+   "fim": {
+    "c": 9,
+    "v": 34
+   }
+  },
+  {
+   "id": "MAT.9.35",
+   "titulo": "A messe é grande",
+   "secao": "Os milagres do Reino",
+   "referencia": "Mt 9,35-38",
+   "ini": {
+    "c": 9,
+    "v": 35
+   },
+   "fim": {
+    "c": 9,
+    "v": 38
+   }
+  },
+  {
+   "id": "MAT.10.1",
+   "titulo": "A missão dos Doze",
+   "secao": "O discurso missionário",
+   "referencia": "Mt 10,1-15",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 15
+   }
+  },
+  {
+   "id": "MAT.10.16",
+   "titulo": "As perseguições anunciadas",
+   "secao": "O discurso missionário",
+   "referencia": "Mt 10,16-25",
+   "ini": {
+    "c": 10,
+    "v": 16
+   },
+   "fim": {
+    "c": 10,
+    "v": 25
+   }
+  },
+  {
+   "id": "MAT.10.26",
+   "titulo": "Não temais",
+   "secao": "O discurso missionário",
+   "referencia": "Mt 10,26-33",
+   "ini": {
+    "c": 10,
+    "v": 26
+   },
+   "fim": {
+    "c": 10,
+    "v": 33
+   }
+  },
+  {
+   "id": "MAT.10.34",
+   "titulo": "Não a paz, mas a espada; a recompensa",
+   "secao": "O discurso missionário",
+   "referencia": "Mt 10,34-42",
+   "ini": {
+    "c": 10,
+    "v": 34
+   },
+   "fim": {
+    "c": 10,
+    "v": 42
+   }
+  },
+  {
+   "id": "MAT.11.1",
+   "titulo": "A pergunta de João Batista e o testemunho de Jesus",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 11,1-15",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 15
+   }
+  },
+  {
+   "id": "MAT.11.16",
+   "titulo": "Esta geração e as cidades impenitentes",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 11,16-24",
+   "ini": {
+    "c": 11,
+    "v": 16
+   },
+   "fim": {
+    "c": 11,
+    "v": 24
+   }
+  },
+  {
+   "id": "MAT.11.25",
+   "titulo": "O Pai revela aos pequeninos; vinde a mim",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 11,25-30",
+   "ini": {
+    "c": 11,
+    "v": 25
+   },
+   "fim": {
+    "c": 11,
+    "v": 30
+   }
+  },
+  {
+   "id": "MAT.12.1",
+   "titulo": "As espigas colhidas em dia de sábado",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 12,1-8",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 8
+   }
+  },
+  {
+   "id": "MAT.12.9",
+   "titulo": "A mão seca; o Servo escolhido",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 12,9-21",
+   "ini": {
+    "c": 12,
+    "v": 9
+   },
+   "fim": {
+    "c": 12,
+    "v": 21
+   }
+  },
+  {
+   "id": "MAT.12.22",
+   "titulo": "Jesus e Belzebu; a blasfêmia contra o Espírito",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 12,22-37",
+   "ini": {
+    "c": 12,
+    "v": 22
+   },
+   "fim": {
+    "c": 12,
+    "v": 37
+   }
+  },
+  {
+   "id": "MAT.12.38",
+   "titulo": "O sinal de Jonas",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 12,38-45",
+   "ini": {
+    "c": 12,
+    "v": 38
+   },
+   "fim": {
+    "c": 12,
+    "v": 45
+   }
+  },
+  {
+   "id": "MAT.12.46",
+   "titulo": "A verdadeira família de Jesus",
+   "secao": "O mistério do Reino e a oposição",
+   "referencia": "Mt 12,46-50",
+   "ini": {
+    "c": 12,
+    "v": 46
+   },
+   "fim": {
+    "c": 12,
+    "v": 50
+   }
+  },
+  {
+   "id": "MAT.13.1",
+   "titulo": "A parábola do semeador",
+   "secao": "As parábolas do Reino",
+   "referencia": "Mt 13,1-23",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 23
+   }
+  },
+  {
+   "id": "MAT.13.24",
+   "titulo": "O joio, o grão de mostarda e o fermento",
+   "secao": "As parábolas do Reino",
+   "referencia": "Mt 13,24-43",
+   "ini": {
+    "c": 13,
+    "v": 24
+   },
+   "fim": {
+    "c": 13,
+    "v": 43
+   }
+  },
+  {
+   "id": "MAT.13.44",
+   "titulo": "O tesouro, a pérola e a rede",
+   "secao": "As parábolas do Reino",
+   "referencia": "Mt 13,44-52",
+   "ini": {
+    "c": 13,
+    "v": 44
+   },
+   "fim": {
+    "c": 13,
+    "v": 52
+   }
+  },
+  {
+   "id": "MAT.13.53",
+   "titulo": "Jesus rejeitado em Nazaré",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 13,53-58",
+   "ini": {
+    "c": 13,
+    "v": 53
+   },
+   "fim": {
+    "c": 13,
+    "v": 58
+   }
+  },
+  {
+   "id": "MAT.14.1",
+   "titulo": "A morte de João Batista",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 14,1-12",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.14.13",
+   "titulo": "A primeira multiplicação dos pães",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 14,13-21",
+   "ini": {
+    "c": 14,
+    "v": 13
+   },
+   "fim": {
+    "c": 14,
+    "v": 21
+   }
+  },
+  {
+   "id": "MAT.14.22",
+   "titulo": "Jesus caminha sobre as águas",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 14,22-36",
+   "ini": {
+    "c": 14,
+    "v": 22
+   },
+   "fim": {
+    "c": 14,
+    "v": 36
+   }
+  },
+  {
+   "id": "MAT.15.1",
+   "titulo": "A tradição dos antigos e a verdadeira pureza",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 15,1-20",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.15.21",
+   "titulo": "A fé da mulher cananeia",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 15,21-28",
+   "ini": {
+    "c": 15,
+    "v": 21
+   },
+   "fim": {
+    "c": 15,
+    "v": 28
+   }
+  },
+  {
+   "id": "MAT.15.29",
+   "titulo": "Curas e a segunda multiplicação dos pães",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 15,29-39",
+   "ini": {
+    "c": 15,
+    "v": 29
+   },
+   "fim": {
+    "c": 15,
+    "v": 39
+   }
+  },
+  {
+   "id": "MAT.16.1",
+   "titulo": "O sinal do céu e o fermento dos fariseus",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 16,1-12",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.16.13",
+   "titulo": "A confissão de Pedro e o primado",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 16,13-20",
+   "ini": {
+    "c": 16,
+    "v": 13
+   },
+   "fim": {
+    "c": 16,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.16.21",
+   "titulo": "Primeiro anúncio da Paixão; tomar a cruz",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 16,21-28",
+   "ini": {
+    "c": 16,
+    "v": 21
+   },
+   "fim": {
+    "c": 16,
+    "v": 28
+   }
+  },
+  {
+   "id": "MAT.17.1",
+   "titulo": "A Transfiguração",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 17,1-13",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 13
+   }
+  },
+  {
+   "id": "MAT.17.14",
+   "titulo": "A cura do jovem lunático",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 17,14-20",
+   "ini": {
+    "c": 17,
+    "v": 14
+   },
+   "fim": {
+    "c": 17,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.17.21",
+   "titulo": "Segundo anúncio da Paixão",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 17,21-22",
+   "ini": {
+    "c": 17,
+    "v": 21
+   },
+   "fim": {
+    "c": 17,
+    "v": 22
+   }
+  },
+  {
+   "id": "MAT.17.23",
+   "titulo": "O tributo do Templo",
+   "secao": "A formação dos discípulos",
+   "referencia": "Mt 17,23-26",
+   "ini": {
+    "c": 17,
+    "v": 23
+   },
+   "fim": {
+    "c": 17,
+    "v": 26
+   }
+  },
+  {
+   "id": "MAT.18.1",
+   "titulo": "Quem é o maior; os pequeninos e a ovelha perdida",
+   "secao": "O discurso sobre a Igreja",
+   "referencia": "Mt 18,1-14",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 14
+   }
+  },
+  {
+   "id": "MAT.18.15",
+   "titulo": "A correção fraterna e a oração em comum",
+   "secao": "O discurso sobre a Igreja",
+   "referencia": "Mt 18,15-20",
+   "ini": {
+    "c": 18,
+    "v": 15
+   },
+   "fim": {
+    "c": 18,
+    "v": 20
+   }
+  },
+  {
+   "id": "MAT.18.21",
+   "titulo": "O perdão e o servo sem compaixão",
+   "secao": "O discurso sobre a Igreja",
+   "referencia": "Mt 18,21-35",
+   "ini": {
+    "c": 18,
+    "v": 21
+   },
+   "fim": {
+    "c": 18,
+    "v": 35
+   }
+  },
+  {
+   "id": "MAT.19.1",
+   "titulo": "O matrimônio e o divórcio",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 19,1-12",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.19.13",
+   "titulo": "Jesus abençoa as crianças",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 19,13-15",
+   "ini": {
+    "c": 19,
+    "v": 13
+   },
+   "fim": {
+    "c": 19,
+    "v": 15
+   }
+  },
+  {
+   "id": "MAT.19.16",
+   "titulo": "O jovem rico",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 19,16-30",
+   "ini": {
+    "c": 19,
+    "v": 16
+   },
+   "fim": {
+    "c": 19,
+    "v": 30
+   }
+  },
+  {
+   "id": "MAT.20.1",
+   "titulo": "Os trabalhadores da vinha",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 20,1-16",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 16
+   }
+  },
+  {
+   "id": "MAT.20.17",
+   "titulo": "Terceiro anúncio da Paixão; o pedido da mãe dos filhos de Zebedeu",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 20,17-28",
+   "ini": {
+    "c": 20,
+    "v": 17
+   },
+   "fim": {
+    "c": 20,
+    "v": 28
+   }
+  },
+  {
+   "id": "MAT.20.29",
+   "titulo": "Os dois cegos de Jericó",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Mt 20,29-34",
+   "ini": {
+    "c": 20,
+    "v": 29
+   },
+   "fim": {
+    "c": 20,
+    "v": 34
+   }
+  },
+  {
+   "id": "MAT.21.1",
+   "titulo": "A entrada messiânica em Jerusalém",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 21,1-11",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 11
+   }
+  },
+  {
+   "id": "MAT.21.12",
+   "titulo": "A purificação do Templo e a figueira estéril",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 21,12-22",
+   "ini": {
+    "c": 21,
+    "v": 12
+   },
+   "fim": {
+    "c": 21,
+    "v": 22
+   }
+  },
+  {
+   "id": "MAT.21.23",
+   "titulo": "A autoridade de Jesus e a parábola dos dois filhos",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 21,23-32",
+   "ini": {
+    "c": 21,
+    "v": 23
+   },
+   "fim": {
+    "c": 21,
+    "v": 32
+   }
+  },
+  {
+   "id": "MAT.21.33",
+   "titulo": "A parábola dos vinhateiros homicidas",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 21,33-46",
+   "ini": {
+    "c": 21,
+    "v": 33
+   },
+   "fim": {
+    "c": 21,
+    "v": 46
+   }
+  },
+  {
+   "id": "MAT.22.1",
+   "titulo": "A parábola do banquete nupcial",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 22,1-14",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 14
+   }
+  },
+  {
+   "id": "MAT.22.15",
+   "titulo": "O tributo a César",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 22,15-22",
+   "ini": {
+    "c": 22,
+    "v": 15
+   },
+   "fim": {
+    "c": 22,
+    "v": 22
+   }
+  },
+  {
+   "id": "MAT.22.23",
+   "titulo": "Os saduceus e a ressurreição dos mortos",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 22,23-33",
+   "ini": {
+    "c": 22,
+    "v": 23
+   },
+   "fim": {
+    "c": 22,
+    "v": 33
+   }
+  },
+  {
+   "id": "MAT.22.34",
+   "titulo": "O maior mandamento; o Filho de David",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 22,34-46",
+   "ini": {
+    "c": 22,
+    "v": 34
+   },
+   "fim": {
+    "c": 22,
+    "v": 46
+   }
+  },
+  {
+   "id": "MAT.23.1",
+   "titulo": "A cátedra de Moisés e a humildade",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 23,1-12",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 12
+   }
+  },
+  {
+   "id": "MAT.23.13",
+   "titulo": "Os “ais” contra os escribas e fariseus; lamento sobre Jerusalém",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Mt 23,13-39",
+   "ini": {
+    "c": 23,
+    "v": 13
+   },
+   "fim": {
+    "c": 23,
+    "v": 39
+   }
+  },
+  {
+   "id": "MAT.24.1",
+   "titulo": "A destruição do Templo e o princípio das dores",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 24,1-14",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 14
+   }
+  },
+  {
+   "id": "MAT.24.15",
+   "titulo": "A grande tribulação",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 24,15-28",
+   "ini": {
+    "c": 24,
+    "v": 15
+   },
+   "fim": {
+    "c": 24,
+    "v": 28
+   }
+  },
+  {
+   "id": "MAT.24.29",
+   "titulo": "A vinda do Filho do Homem; a lição da figueira",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 24,29-35",
+   "ini": {
+    "c": 24,
+    "v": 29
+   },
+   "fim": {
+    "c": 24,
+    "v": 35
+   }
+  },
+  {
+   "id": "MAT.24.36",
+   "titulo": "Vigiai: o servo fiel e prudente",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 24,36-51",
+   "ini": {
+    "c": 24,
+    "v": 36
+   },
+   "fim": {
+    "c": 24,
+    "v": 51
+   }
+  },
+  {
+   "id": "MAT.25.1",
+   "titulo": "A parábola das dez virgens",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 25,1-13",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 13
+   }
+  },
+  {
+   "id": "MAT.25.14",
+   "titulo": "A parábola dos talentos",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 25,14-30",
+   "ini": {
+    "c": 25,
+    "v": 14
+   },
+   "fim": {
+    "c": 25,
+    "v": 30
+   }
+  },
+  {
+   "id": "MAT.25.31",
+   "titulo": "O Juízo final",
+   "secao": "O discurso escatológico",
+   "referencia": "Mt 25,31-46",
+   "ini": {
+    "c": 25,
+    "v": 31
+   },
+   "fim": {
+    "c": 25,
+    "v": 46
+   }
+  },
+  {
+   "id": "MAT.26.1",
+   "titulo": "A conspiração, a unção em Betânia e a traição de Judas",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,1-16",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 16
+   }
+  },
+  {
+   "id": "MAT.26.17",
+   "titulo": "A Ceia pascal e a instituição da Eucaristia",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,17-29",
+   "ini": {
+    "c": 26,
+    "v": 17
+   },
+   "fim": {
+    "c": 26,
+    "v": 29
+   }
+  },
+  {
+   "id": "MAT.26.30",
+   "titulo": "O anúncio da negação de Pedro",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,30-35",
+   "ini": {
+    "c": 26,
+    "v": 30
+   },
+   "fim": {
+    "c": 26,
+    "v": 35
+   }
+  },
+  {
+   "id": "MAT.26.36",
+   "titulo": "A agonia no Getsêmani",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,36-46",
+   "ini": {
+    "c": 26,
+    "v": 36
+   },
+   "fim": {
+    "c": 26,
+    "v": 46
+   }
+  },
+  {
+   "id": "MAT.26.47",
+   "titulo": "A prisão de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,47-56",
+   "ini": {
+    "c": 26,
+    "v": 47
+   },
+   "fim": {
+    "c": 26,
+    "v": 56
+   }
+  },
+  {
+   "id": "MAT.26.57",
+   "titulo": "Jesus diante do Sinédrio",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,57-68",
+   "ini": {
+    "c": 26,
+    "v": 57
+   },
+   "fim": {
+    "c": 26,
+    "v": 68
+   }
+  },
+  {
+   "id": "MAT.26.69",
+   "titulo": "As negações de Pedro",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 26,69-75",
+   "ini": {
+    "c": 26,
+    "v": 69
+   },
+   "fim": {
+    "c": 26,
+    "v": 75
+   }
+  },
+  {
+   "id": "MAT.27.1",
+   "titulo": "Jesus entregue a Pilatos; o fim de Judas",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 27,1-10",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 10
+   }
+  },
+  {
+   "id": "MAT.27.11",
+   "titulo": "Jesus diante de Pilatos",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 27,11-26",
+   "ini": {
+    "c": 27,
+    "v": 11
+   },
+   "fim": {
+    "c": 27,
+    "v": 26
+   }
+  },
+  {
+   "id": "MAT.27.27",
+   "titulo": "A coroação de espinhos e a crucifixão",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 27,27-44",
+   "ini": {
+    "c": 27,
+    "v": 27
+   },
+   "fim": {
+    "c": 27,
+    "v": 44
+   }
+  },
+  {
+   "id": "MAT.27.45",
+   "titulo": "A morte de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 27,45-56",
+   "ini": {
+    "c": 27,
+    "v": 45
+   },
+   "fim": {
+    "c": 27,
+    "v": 56
+   }
+  },
+  {
+   "id": "MAT.27.57",
+   "titulo": "A sepultura e a guarda do sepulcro",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Mt 27,57-66",
+   "ini": {
+    "c": 27,
+    "v": 57
+   },
+   "fim": {
+    "c": 27,
+    "v": 66
+   }
+  },
+  {
+   "id": "MAT.28.1",
+   "titulo": "O anúncio da Ressurreição e o suborno dos guardas",
+   "secao": "A Ressurreição",
+   "referencia": "Mt 28,1-15",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 15
+   }
+  },
+  {
+   "id": "MAT.28.16",
+   "titulo": "O envio missionário",
+   "secao": "A Ressurreição",
+   "referencia": "Mt 28,16-20",
+   "ini": {
+    "c": 28,
+    "v": 16
+   },
+   "fim": {
+    "c": 28,
+    "v": 20
+   }
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "MAT.4.1",
+  "livro": "MAT",
+  "titulo": "As tentações no deserto",
+  "secao": "A preparação do ministério",
+  "referencia": "Mt 4,1-11",
+  "ini": { "c": 4, "v": 1 },
+  "fim": { "c": 4, "v": 11 },
+  "liturgia": { "tema_central": "Jesus vence o tentador com a Palavra de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Conduzido pelo Espírito ao deserto, Jesus jejua quarenta dias e quarenta noites, como Moisés no Sinai (Ex 34,28) e Elias a caminho do Horeb (1Rs 19,8). O tentador o desafia três vezes, partindo do título que o Pai acabara de lhe dar: “Se és Filho de Deus”. Pede pães das pedras, um salto do pináculo do Templo e, por fim, a adoração em troca dos reinos do mundo. Jesus responde sempre com o Deuteronômio (Dt 8,3; 6,16; 6,13), os textos das provações de Israel no deserto. Onde o povo falhou (fome, tentar a Deus, idolatria), o Filho permanece fiel. Vencido, o diabo se afasta, e os anjos o servem.",
+    "alegorico": "Cristo é o novo Israel, que passa vitorioso pelos quarenta dias do deserto, e o novo Adão, que vence onde o primeiro caiu. O antigo inimigo tentou Adão pela gula, pela vanglória e pela avareza; com as mesmas tentações foi vencido pelo segundo Adão. Os anjos que o servem mostram que, pela vitória de Cristo, o paraíso volta a ser habitável para o homem.",
+    "moral": "Depois do Batismo vem a luta: recebemos as armas para combater, não para ficar ociosos. O diabo ataca mais quando estamos sós, por isso a vigilância e a comunhão são necessárias. O jejum é escudo poderoso contra o inimigo. Jesus responde só com a Escritura, não com o seu poder: ensina-nos a vencer pela humildade e pela Palavra. Não se tenta a Deus pedindo prodígios quando há meios ordinários.",
+    "anagogico": "A vitória de Cristo no deserto antecipa a vitória definitiva sobre Satanás. Quem combate unido a Ele será servido pelos anjos e entrará no Reino, onde só Deus é adorado e servido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus foi conduzido pelo Espírito ao deserto para ser tentado pelo demônio. Jejuou quarenta dias e quarenta noites e teve fome. O tentador disse: “Se és Filho de Deus, manda que estas pedras se tornem pães”. Jesus respondeu: “Não só de pão vive o homem, mas de toda palavra que sai da boca de Deus”. Levou-o ao pináculo do Templo: “Lança-te daqui abaixo”. Jesus disse: “Não tentarás o Senhor teu Deus”. Mostrou-lhe todos os reinos do mundo: “Tudo isto te darei, se me adorares”. Jesus respondeu: “Vai-te, Satanás! Ao Senhor teu Deus adorarás, e só a Ele servirás”. O demônio o deixou, e os anjos o serviram.",
+    "meditatio_perguntas": [
+      "Qual das três tentações (prazer, prestígio, poder) mais me atinge?",
+      "Conheço a Palavra de Deus o bastante para responder às tentações com ela?",
+      "A quem eu realmente “adoro e sirvo” nas minhas escolhas?"
+    ],
+    "oratio_guia": "Senhor Jesus, que venceste o tentador no deserto, fortalece-me nas minhas lutas. Que a tua Palavra seja o meu alimento e a minha defesa. Livra-me da gula, da vanglória e da ambição, para que eu adore e sirva só a Deus. Amém.",
+    "contemplatio_foco": { "texto": "Não só de pão vive o homem, mas de toda a palavra que sai da boca de Deus.", "ref": "Mt 4,4" }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 13", "catena": "4:1–2#1", "sintese": "Se depois do batismo sofres grandes provações, não te perturbes: recebeste as armas para lutar, e não para ficar ocioso." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:1–2#9", "sintese": "O diabo insiste mais na tentação quando nos vê sozinhos, como tentou a mulher sem o marido." }
+      ],
+      "nota": null
+    },
+    "4:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:1–2#12", "sintese": "Cristo jejuou, não por precisar, mas para nos ensinar que o jejum é escudo poderoso contra o diabo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:1–2#14", "sintese": "Não excedeu a medida de Moisés e de Elias, para não tornar duvidosa a realidade da carne que assumira." }
+      ],
+      "nota": { "texto": "Os quarenta dias evocam os quarenta anos de Israel no deserto e são a origem bíblica da Quaresma.", "origem": "ia" }
+    },
+    "4:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "4:3–4#1", "sintese": "O antigo inimigo tentou o primeiro homem pela gula, pela vanglória e pela avareza; com as mesmas tentações foi vencido pelo segundo Adão." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "4:3–4#4", "sintese": "Estás num dilema, inimigo: se Ele pode fazer pães das pedras, a tentação é vã; se não pode, vã é a tua suspeita de que seja o Filho de Deus." }
+      ],
+      "nota": null
+    },
+    "4:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "4:3–4#8", "sintese": "Responde só com a Escritura, sem manifestar o seu poder, dando-nos o exemplo de, diante dos maus, preferir ensinar a vingar-nos." }
+      ],
+      "nota": null
+    },
+    "4:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "4:5–7#10", "sintese": "A voz do diabo, que sempre convida a descer, pode persuadir, mas não pode obrigar a cair." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:5–7#15", "sintese": "O Senhor cita as Escrituras no sentido adequado; o diabo, de modo irreverente." }
+      ],
+      "nota": null
+    },
+    "4:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. 22, 36", "catena": "4:5–7#22", "sintese": "É sã doutrina que, quando o homem dispõe de outros meios, não deve tentar o Senhor seu Deus." }
+      ],
+      "nota": null
+    },
+    "4:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 10, 1", "catena": "4:8–11#16", "sintese": "O serviço devido só a Deus chama-se em grego latria; o devido aos homens, dulia." }
+      ],
+      "nota": null
+    },
+    "4:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 9, 21", "catena": "4:8–11#18", "sintese": "Depois da tentação, os anjos serviram ao Senhor, tornando ainda mais manifesto aos demônios quão grande era o seu poder." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

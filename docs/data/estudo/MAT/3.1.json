@@ -1,0 +1,82 @@
+{
+  "id": "MAT.3.1",
+  "livro": "MAT",
+  "titulo": "A pregação de João Batista",
+  "secao": "A preparação do ministério",
+  "referencia": "Mt 3,1-12",
+  "ini": { "c": 3, "v": 1 },
+  "fim": { "c": 3, "v": 12 },
+  "liturgia": { "tema_central": "“Convertei-vos, porque está próximo o Reino dos Céus”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "João Batista aparece no deserto da Judeia anunciando: “Arrependei-vos, porque está próximo o Reino dos Céus” (Mateus, por respeito judaico ao nome divino, diz “Reino dos Céus”). É a voz de Is 40,3, que prepara o caminho do Senhor. Veste-se como Elias (2Rs 1,8) e vive com austeridade. Multidões vêm ser batizadas no Jordão, confessando os pecados. Aos fariseus e saduceus, João adverte duramente: não basta ter Abraão por pai; é preciso dar frutos de conversão, porque o machado já está à raiz das árvores. Ele batiza com água; o que vem depois dele, mais forte, batizará no Espírito Santo e no fogo, e separará o trigo da palha.",
+    "alegorico": "João é o último dos profetas e o precursor: a sua voz prepara a vinda da Palavra. O seu batismo de penitência é figura do Batismo cristão, como uma catequese que dispõe para o sacramento de Cristo. O batismo “no Espírito Santo e no fogo” anuncia Pentecostes e a graça que purifica e inflama. A pá e a eira figuram o Juízo de Cristo, que separa os justos dos ímpios.",
+    "moral": "Quem não se arrepende da vida antiga não pode começar a vida nova. A conversão se prova nos frutos, não nos privilégios de origem: ser “filho de Abraão”, batizado ou católico de nome, não basta sem as obras. A austeridade de João ensina a sobriedade e o desapego. A sua humildade (“não sou digno de levar-lhe as sandálias”) é a do verdadeiro servo que aponta para Cristo e não para si.",
+    "anagogico": "O Reino dos Céus anunciado por João é o destino último do homem. O machado à raiz e o fogo que não se apaga lembram a seriedade do Juízo: a vida presente é tempo de dar fruto. O trigo recolhido no celeiro são os justos reunidos na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Naqueles dias, João Batista apareceu pregando no deserto da Judeia: “Arrependei-vos, porque está próximo o Reino dos Céus”. Ele é a voz que clama no deserto: “Preparai o caminho do Senhor”. Vestia pelos de camelo e comia gafanhotos e mel silvestre. Iam a ele Jerusalém e toda a Judeia, e eram batizados no Jordão, confessando os seus pecados. Aos fariseus e saduceus disse: “Raça de víboras, produzi frutos de penitência; não digais: Temos Abraão por pai. O machado já está posto à raiz das árvores. Eu vos batizo com água; aquele que vem depois de mim vos batizará no Espírito Santo e no fogo”.",
+    "meditatio_perguntas": [
+      "De que preciso me arrepender para começar uma vida nova?",
+      "Confio em “títulos” religiosos sem dar frutos de conversão?",
+      "Que caminho devo endireitar para que o Senhor entre na minha vida?"
+    ],
+    "oratio_guia": "Senhor, que enviaste João para preparar o teu caminho, dá-me um coração arrependido e humilde. Que eu não confie em títulos, mas dê frutos de conversão. Batiza-me no teu Espírito e no fogo do teu amor. Amém.",
+    "contemplatio_foco": { "texto": "Preparai o caminho do Senhor, endireitai as suas veredas.", "ref": "Mt 3,3" }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "não localizado", "catena": "3:1–3#4", "sintese": "João precede Cristo para que aprendamos a sua dignidade: também Ele, como o Pai, tem profetas." }
+      ],
+      "nota": null
+    },
+    "3:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm.", "catena": "3:1–3#12", "sintese": "Quem não se arrepende da vida antiga não pode começar a vida nova." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:1–3#16", "sintese": "Prega o que os judeus nunca tinham ouvido: o céu e o Reino que nele existe; dos reinos da terra nada diz." }
+      ],
+      "nota": { "texto": "Mateus usa “Reino dos Céus” (32 vezes) no lugar de “Reino de Deus”, por reverência judaica ao nome divino.", "origem": "ia" }
+    },
+    "3:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "3:4#1", "sintese": "Para a pregação de João não havia lugar mais adequado, veste mais conveniente nem alimento mais apropriado." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "3:4#8", "sintese": "O cinto de couro, que também Elias usava, é sinal da mortificação." }
+      ],
+      "nota": null
+    },
+    "3:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "3:5–6#3", "sintese": "O batismo de João era figura do catecumenato: preparava os batizados para se tornarem, por uma vida santa, dignos do batismo de Cristo." }
+      ],
+      "nota": null
+    },
+    "3:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 11", "catena": "3:7–10#12", "sintese": "Não os proíbe de dizer que são filhos de Abraão, mas de confiar nisso, descuidando as virtudes da alma." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "3:7–10#16", "sintese": "Indica o grande poder de Deus, que, como fez tudo do nada, pode fazer homens até da pedra mais dura." }
+      ],
+      "nota": null
+    },
+    "3:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:7–10#26", "sintese": "Ao dizer “toda”, exclui todo privilégio de nobreza: ainda que filhos de Abraão, se permanecerdes sem fruto, sereis castigados." }
+      ],
+      "nota": null
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 10, 1", "catena": "3:11–12#2", "sintese": "Antes do sacrifício de Cristo não havia remissão; João veio levar os judeus a tomar consciência do pecado, chamando-os à penitência." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:11–12#16", "sintese": "Não diz “vos dará o Espírito”, mas “vos batizará no Espírito”, mostrando por metáfora a abundância da graça; o fogo significa a sua força invencível." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

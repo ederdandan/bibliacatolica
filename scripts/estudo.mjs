@@ -77,6 +77,8 @@ async function cmdIndex(id) {
   console.log(`${id}: ${list.length} perícopes em ${secoes.length} seções → docs/data/estudo/${id}/index.json`);
 }
 
+const PRIOR = ['Crisóstomo', 'Agostinho', 'Jerônimo', 'Gregório', 'Ambrósio', 'Hilário', 'Leão', 'Beda', 'Orígenes', 'Cirilo', 'Remígio', 'Rábano'];
+
 async function cmdContexto(id, key) {
   const [c, v] = key.split(/[.:,]/).map(Number);
   const idx = await json(join(EST, id, 'index.json'));
@@ -98,7 +100,13 @@ async function cmdContexto(id, key) {
     // Trechos longos são cortados (MAX caracteres) para economizar tokens; a ideia central vem no início.
     const MAX = +(process.env.MAX || 700);
     const cut = (s) => (s.length > MAX ? s.slice(0, MAX) + '…' : s);
-    b.trechos.forEach((t, k) => console.log(`[${b.catena}#${k}] ${t.autor}${t.obra ? ` (${t.obra})` : ''}: ${cut(t.texto)}`));
+    // PER (opcional): no máximo PER trechos por bloco, priorizando os grandes Padres; os índices #k ficam os originais.
+    const PER = +(process.env.PER || 0);
+    const rank = (a) => { const r = PRIOR.findIndex((p) => a.includes(p)); return (r < 0 ? PRIOR.length : r) + (a.startsWith('Pseudo') ? 6 : 0); };
+    let keep = b.trechos.map((t, k) => k);
+    if (PER && keep.length > PER) keep = keep.sort((x, y) => rank(b.trechos[x].autor) - rank(b.trechos[y].autor) || x - y).slice(0, PER).sort((x, y) => x - y);
+    for (const k of keep) { const t = b.trechos[k]; console.log(`[${b.catena}#${k}] ${t.autor}${t.obra ? ` (${t.obra})` : ''}: ${cut(t.texto)}`); }
+    if (keep.length < b.trechos.length) console.log(`(+${b.trechos.length - keep.length} trechos omitidos)`);
   }
 }
 

@@ -1,0 +1,77 @@
+{
+  "id": "MAT.1.1",
+  "livro": "MAT",
+  "titulo": "A genealogia de Jesus Cristo",
+  "secao": "A infância de Jesus",
+  "referencia": "Mt 1,1-17",
+  "ini": { "c": 1, "v": 1 },
+  "fim": { "c": 1, "v": 17 },
+  "liturgia": { "tema_central": "Jesus Cristo, filho de David, filho de Abraão: Deus entra na história dos homens", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Mateus abre o seu Evangelho, escrito para cristãos vindos do judaísmo, com o “livro da geração” de Jesus Cristo, como o Gênesis falava do “livro da geração de Adão” (Gn 5,1). Jesus é apresentado como “filho de David”, herdeiro da promessa messiânica (2Sm 7), e “filho de Abraão”, em quem serão abençoadas todas as nações (Gn 12,3). A lista desce de Abraão a José em três séries de catorze gerações: de Abraão a David, de David ao exílio, do exílio a Cristo. Surpreendem quatro mulheres, Tamar, Raab, Rute e “a mulher de Urias”, todas ligadas a situações irregulares ou estrangeiras. No fim, a fórmula muda: José é “o esposo de Maria, da qual nasceu Jesus”, preparando o relato da concepção virginal.",
+    "alegorico": "Cristo é o novo Adão, que inicia uma nova criação: livro contra livro, o novo Adão diante do antigo. Nele se cumprem as promessas feitas a Abraão (a bênção das nações) e a David (o reino eterno). As três etapas mostram uma história guiada por Deus para a plenitude dos tempos. Os Padres leram os nomes dos antepassados como figuras de Cristo e da Igreja: Raab, a estrangeira acolhida, é imagem da Igreja dos gentios.",
+    "moral": "Deus não se envergonha da nossa história: entre os antepassados de Jesus há pecadores, estrangeiros e mulheres de vida difícil. Aquele que veio por causa dos pecadores quis nascer de pecadores, para apagar os pecados de todos. Isso abate o orgulho de linhagem e dá esperança a cada um: a graça escreve direito por linhas tortas. A nossa vida, com as suas luzes e sombras, também pode tornar-se lugar de salvação.",
+    "anagogico": "A genealogia caminha para Cristo, e Cristo caminha para a plenitude do Reino. Assim como as gerações de Israel desembocaram no Messias, toda a história humana se encaminha para a sua vinda gloriosa, quando Ele reunirá os filhos de Abraão de todas as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Livro da geração de Jesus Cristo, filho de David, filho de Abraão. Abraão gerou Isaac, Isaac gerou Jacó, Jacó gerou Judá e seus irmãos… Judá gerou de Tamar Farés e Zara… Salmon gerou Booz de Raab, Booz gerou Obed de Rute, Obed gerou Jessé, Jessé gerou o rei David. David gerou Salomão da mulher de Urias… E Jacó gerou José, o esposo de Maria, da qual nasceu Jesus, chamado Cristo. De Abraão a David, catorze gerações; de David ao exílio, catorze; do exílio a Cristo, catorze.",
+    "meditatio_perguntas": [
+      "Reconheço que Deus agiu através de toda a história, inclusive das suas páginas obscuras?",
+      "Que “nomes” da minha história familiar posso entregar ao Senhor para que Ele os redima?",
+      "Vejo em Jesus o cumprimento das promessas de Deus, também das que me fez?"
+    ],
+    "oratio_guia": "Senhor Jesus, filho de David e filho de Abraão, que quiseste entrar na nossa história com as suas misérias, eu te agradeço por não te envergonhares de nós. Toma a minha história e a da minha família e faz dela caminho de salvação. Amém.",
+    "contemplatio_foco": { "texto": "Maria, da qual nasceu Jesus, chamado Cristo.", "ref": "Mt 1,16" }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Prólogo ao Comentário sobre Mateus", "catena": "1:1#0", "sintese": "O rosto de homem, na visão de Ezequiel, significa Mateus, que abre o Evangelho com a genealogia humana de Cristo." },
+        { "autor": "Rábano Mauro", "obra": null, "catena": "1:1#6", "sintese": "“Livro da geração” contrapõe livro a livro: o novo Adão ao velho Adão." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 2 sobre Mateus", "catena": "1:1#5", "sintese": "Chama-o “livro da geração” porque esta é a suma de toda a economia da salvação: que Deus se fez homem." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:1#12", "sintese": "Nomeia David e Abraão porque a ambos foi feita a promessa de que o Cristo nasceria da sua descendência." }
+      ],
+      "nota": null
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": "Sobre Lucas, liv. 3, n. 7-8", "catena": "1:2#1", "sintese": "Abraão foi o primeiro a merecer o testemunho da fé; convinha que fosse posto como o primeiro da linhagem." }
+      ],
+      "nota": null
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "1:3–6#2", "sintese": "Nenhuma mulher santa é incluída, mas as que a Escritura repreende, para que Aquele que veio por causa dos pecadores, nascendo de pecadoras, apagasse os pecados de todos." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:3–6#4", "sintese": "Mostra que todos estão igualmente sujeitos ao pecado: Tamar acusa Judá, e David gerou Salomão da mulher com quem pecara." }
+      ],
+      "nota": { "texto": "Tamar (Gn 38), Raab (Js 2), Rute (Rt 1-4) e Betsabeia (2Sm 11). Mais que figuras de pecado, eram estrangeiras ou estiveram em situações irregulares, e Deus as inseriu na linhagem do Messias.", "origem": "ia" }
+    },
+    "1:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 4", "catena": "1:6–8#0", "sintese": "Mateus, mostrando que Cristo assumiu os nossos pecados, desce de David por Salomão, em cuja mãe David pecou; Lucas sobe a David por Natã." },
+        { "autor": "Santo Ambrósio", "obra": "ubi sup.", "catena": "1:6–8#4", "sintese": "David se mostra mais excelente porque se reconheceu homem e lavou com lágrimas de penitência o pecado cometido." }
+      ],
+      "nota": null
+    },
+    "1:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 4", "catena": "1:16#6", "sintese": "Termina em José e acrescenta “esposo de Maria”, mostrando que foi por causa dela que ele entrou na genealogia." },
+        { "autor": "Santo Agostinho", "obra": "De Nupt. et Concup. 1, 11", "catena": "1:16#13", "sintese": "Nos pais de Cristo realizaram-se todos os bens do matrimônio: a fidelidade, a prole e o sacramento." }
+      ],
+      "nota": { "texto": "A fórmula muda: não “José gerou Jesus”, mas “Maria, da qual nasceu Jesus”. Prepara a concepção virginal (1,18-25).", "origem": "ia" }
+    },
+    "1:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 4", "catena": "1:17#6", "sintese": "Jeconias é contado duas vezes porque nele houve uma passagem para as nações estrangeiras, com o exílio na Babilônia." }
+      ],
+      "nota": { "texto": "Catorze é o valor numérico das letras do nome “David” em hebraico (D=4, W=6, D=4). A estrutura sublinha que Jesus é o Messias davídico.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
