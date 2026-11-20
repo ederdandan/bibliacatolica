@@ -1,0 +1,101 @@
+{
+  "id": "LUK.19.11",
+  "livro": "LUK",
+  "titulo": "A parábola das minas",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 19,11-27",
+  "ini": { "c": 19, "v": 11 },
+  "fim": { "c": 19, "v": 27 },
+  "liturgia": { "tema_central": "Fazer frutificar os dons até que o Senhor volte", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Como estavam perto de Jerusalém e pensavam que o Reino ia manifestar-se logo, Jesus conta uma parábola. Um homem nobre parte para um país distante para receber a realeza e depois voltar. Dá a dez servos uma mina a cada um: “Negociai até eu voltar”. Os seus concidadãos odeiam-no e mandam dizer: “Não queremos que este reine sobre nós”. Ao voltar rei, chama os servos: o primeiro rendeu dez minas e recebe dez cidades; o segundo, cinco, e recebe cinco cidades. Outro devolve a mina guardada num lenço, por medo do senhor “severo, que tira onde não pôs”. “Servo mau, pela tua boca te julgo: por que não puseste o dinheiro no banco?” A mina é-lhe tirada e dada ao que tem dez: “A quem tem, dar-se-á; a quem não tem, até o que tem lhe será tirado”. E os inimigos que não o quiseram por rei são castigados diante dele.",
+    "alegorico": "O homem nobre é o Verbo, nobre pelo nascimento eterno do Pai, que se fez servo e subiu ao céu para receber o Reino, distribuindo antes aos fiéis as suas graças. Os concidadãos que o rejeitam são os que, mesmo depois da ressurreição, perseguiram os apóstolos. A sua volta é a segunda vinda, em glória, daquele que disse: “O meu reino não é deste mundo”. As cidades confiadas são as almas, governadas pelos que nelas semearam a palavra.",
+    "moral": "Cada palavra da Escritura e cada dom recebido devem ser negociados e restituídos com juros pelas obras. Nas riquezas terrenas a partilha empobrece; nas espirituais, enriquece quem dá e quem recebe. Guardar a mina no lenço é esconder os dons sob a preguiça; e a desculpa torna-se acusação, pois o servo foi preguiçoso no trabalho e soberbo ao julgar o seu senhor. Perde o dom quem não o usa; aumenta-o quem o usa retamente.",
+    "anagogico": "O Reino não se manifesta de imediato: há um tempo entre a partida e a volta do Senhor, tempo de negociar. No seu regresso, a fidelidade no pouco será recompensada com o governo de muito."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Um homem nobre foi para um país distante tomar posse de um reino, para depois voltar. Chamando dez dos seus servos, deu-lhes dez marcos de prata, e disse-lhes: Negociai com eles até eu vir. Quando ele voltou, mandou chamar aqueles servos. Veio o primeiro e disse: Senhor, o teu marco rendeu dez marcos. Ele disse-lhe: Está bem, servo bom; porque foste fiel no pouco, serás governador de dez cidades. Veio depois o outro e disse: Senhor, eis o teu marco que guardei embrulhado num lenço; porque tive medo de ti. Pois eu vos digo que a todo aquele que tiver, se lhe dará.”",
+    "meditatio_perguntas": [
+      "Que dons recebi de Deus e como os estou a fazer render?",
+      "Há algum dom que guardo “embrulhado num lenço” por medo ou preguiça?",
+      "Que imagem tenho de Deus: Senhor generoso ou patrão severo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que subiste ao Pai e voltarás em glória, obrigado pelos dons que me confiaste. Livra-me do medo e da preguiça que enterram a tua graça. Que eu seja fiel no pouco e faça render a tua palavra em obras, até ao dia em que me chamarás a prestar contas. Amém.",
+    "contemplatio_foco": { "texto": "Está bem, servo bom; porque foste fiel no pouco", "ref": "Lc 19,17" }
+  },
+  "ancoras": {
+    "19:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "19:11–27#0", "sintese": "Pensavam que o reino começaria logo; ensina que só o receberá do Pai depois de deixar os homens e ir a Ele." }
+      ],
+      "nota": null
+    },
+    "19:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "19:11–27#2", "sintese": "A parábola mostra os mistérios de Cristo: Deus feito homem, servo, mas nobre pelo nascimento inefável do Pai." }
+      ],
+      "nota": { "texto": "A imagem lembrava aos ouvintes os príncipes herodianos, que iam a Roma receber o título real; Arquelau foi rejeitado por uma embaixada de judeus.", "origem": "ia" }
+    },
+    "19:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "19:11–27#6", "sintese": "Subindo ao céu, distribuiu aos fiéis diversas graças, para que, negociando, lhe trouxessem fruto." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:11–27#9", "sintese": "A mina pesa cem dracmas: cada palavra da Escritura brilha com a plenitude da perfeição celeste." }
+      ],
+      "nota": null
+    },
+    "19:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. ut sup.", "catena": "19:11–27#13", "sintese": "Enviaram embaixada atrás dele porque, depois da ressurreição, perseguiram os apóstolos e rejeitaram o Evangelho." }
+      ],
+      "nota": null
+    },
+    "19:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. ut sup.", "catena": "19:11–27#16", "sintese": "Volta em toda a glória aquele que apareceu humilde e disse: “O meu reino não é deste mundo”." }
+      ],
+      "nota": null
+    },
+    "19:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:11–27#20", "sintese": "As dez cidades são as almas, confiadas a quem nelas depositou a palavra, provada como a prata no fogo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:11–27#23", "sintese": "Nas riquezas terrenas a partilha empobrece; nas espirituais, ninguém se enriquece sem enriquecer outro." }
+      ],
+      "nota": null
+    },
+    "19:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:11–27#26", "sintese": "Esconder a mina num lenço é ocultar os dons na preguiça; a desculpa torna-se culpa: preguiçoso no trabalho, soberbo no juízo." }
+      ],
+      "nota": null
+    },
+    "19:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:11–27#29", "sintese": "Quem recebe as riquezas da palavra deve restituí-las com juros pelas obras." }
+      ],
+      "nota": null
+    },
+    "19:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 46.", "catena": "19:11–27#31", "sintese": "Perde o dom quem, tendo-o, não o usa; aumenta-o quem o usa retamente." }
+      ],
+      "nota": null
+    },
+    "19:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:11–27#38", "sintese": "Contra os marcionitas: o Pai e o Filho agem do mesmo modo; não há um Deus mau do Antigo e um bom do Novo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

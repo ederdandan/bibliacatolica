@@ -1,0 +1,91 @@
+{
+  "id": "LUK.19.28",
+  "livro": "LUK",
+  "titulo": "A entrada em Jerusalém e a purificação do Templo",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Lc 19,28-48",
+  "ini": { "c": 19, "v": 28 },
+  "fim": { "c": 19, "v": 48 },
+  "liturgia": { "tema_central": "“Bendito o rei que vem em nome do Senhor”: o Rei manso que chora e purifica", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus sobe para Jerusalém. Perto de Betfagé e Betânia, no monte das Oliveiras, envia dois discípulos a buscar um jumentinho em que ninguém montou: “O Senhor precisa dele”. Tudo acontece como disse. Põem os mantos sobre o jumentinho, Jesus monta, e estendem os mantos no caminho. Na descida do monte, toda a multidão dos discípulos louva a Deus em alta voz pelos milagres: “Bendito o rei que vem em nome do Senhor! Paz no céu e glória nas alturas!”. Os fariseus pedem que os repreenda; Jesus responde: “Se eles se calarem, clamarão as pedras”. Ao ver a cidade, chora sobre ela: “Se ao menos neste dia conhecesses o que te traz a paz!”, e anuncia o cerco e a destruição, sem ficar pedra sobre pedra, porque não conheceu o tempo da sua visita. No Templo, expulsa os vendedores: “A minha casa é casa de oração, e vós fizestes dela um covil de ladrões”. Ensina ali todos os dias; os chefes procuram matá-lo, mas o povo está suspenso das suas palavras.",
+    "alegorico": "O jumentinho que nunca fora montado figura os gentios, antes sujeitos a muitos senhores, os vícios, e agora libertados para levar Cristo. Os mantos dos apóstolos são as suas boas obras, sobre as quais caminha o Senhor. O Rei sentado no jumentinho figura Cristo, que se senta no íntimo das almas e as guia com a rédea e o aguilhão da sua palavra. O Templo purificado é o próprio Cristo e o seu Corpo, a Igreja.",
+    "moral": "Nada do que se faz com Deus diante dos olhos é pequeno: até o humilde serviço de trazer um jumentinho é digno do Reino. Quando o nosso louvor se cala e a caridade esfria, Deus faz clamar as pedras. Cristo chora cada vez que alguém deixa o bom caminho, enquanto a alma corrompida se alegra no “seu dia” sem prever o fim. O templo de Deus não é casa de comércio, mas morada de santidade e de oração; e o Senhor não retira a palavra nem aos ingratos.",
+    "anagogico": "“Paz no céu e glória nas alturas”: a entrada do Rei anuncia a reconciliação consumada na cruz. Não conhecer o tempo da visita é perder a paz; reconhecê-lo é entrar com o Rei na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levaram o jumentinho a Jesus e fizeram-no montar em cima. Toda a multidão dos seus discípulos começou alegremente a louvar a Deus em altas vozes, dizendo: “Bendito o rei que vem em nome do Senhor! Paz no céu e glória nas alturas!” Os fariseus disseram-lhe: “Mestre, repreende os teus discípulos”. Mas ele respondeu-lhes: “Se eles se calarem, clamarão as mesmas pedras”. Quando chegou perto, ao ver a cidade, chorou sobre ela, dizendo: “Se ao menos neste dia tu também conhecesses o que te pode trazer a paz!” Tendo entrado no templo, disse: “A minha casa é casa de oração”.",
+    "meditatio_perguntas": [
+      "Que “jumentinho” em mim o Senhor precisa de soltar e usar?",
+      "Reconheço o tempo em que Deus me visita, ou passo por ele distraído?",
+      "Que comércio e ruído precisam de ser expulsos do templo do meu coração?"
+    ],
+    "oratio_guia": "Bendito és tu, Rei que vens em nome do Senhor! Entra na cidade do meu coração, mesmo que tenhas de chorar sobre ela. Liberta-me do que me prende, purifica o meu templo e faz dele casa de oração. Que eu reconheça o dia da tua visita e acolha a paz que me trazes. Amém.",
+    "contemplatio_foco": { "texto": "Bendito o rei que vem em nome do Senhor!", "ref": "Lc 19,38" }
+  },
+  "ancoras": {
+    "19:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 66 in Matth.", "catena": "19:28–36#2", "sintese": "Antes reservado, age agora com suprema autoridade, e prediz até o silêncio dos donos do jumentinho." },
+        { "autor": "Orígenes", "obra": null, "catena": "19:28–36#13", "sintese": "O jumentinho tinha muitos donos, os vícios; quando Cristo se torna seu Senhor, não há outro." }
+      ],
+      "nota": { "texto": "Cumpre-se Zc 9,9: o rei messiânico vem “humilde, montado num jumento”, e não num cavalo de guerra.", "origem": "ia" }
+    },
+    "19:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": null, "catena": "19:28–36#4", "sintese": "Nada do que se faz com Deus diante dos olhos é pequeno: até as obras mais humildes são dignas do Reino." }
+      ],
+      "nota": null
+    },
+    "19:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "in Luc. Hom. 37.", "catena": "19:28–36#18", "sintese": "Os mantos dos apóstolos são as boas obras; sobre elas o Senhor faz repousar a palavra nas almas." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:28–36#19", "sintese": "Senta-se no íntimo das almas e guia-as: a sua palavra é rédea, a sua palavra é aguilhão." }
+      ],
+      "nota": null
+    },
+    "19:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:37–40#3", "sintese": "A multidão reconhece a Deus, proclama-o Rei e declara que veio o esperado Filho de David." },
+        { "autor": "Teofilato", "obra": null, "catena": "19:37–40#5", "sintese": "Paz no céu: cessou a guerra em que éramos inimigos de Deus; os anjos glorificam-no por esta reconciliação." }
+      ],
+      "nota": null
+    },
+    "19:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "19:37–40#9", "sintese": "Na cruz, quando os seus se calaram de medo, as pedras clamaram: a terra tremeu e as rochas fenderam-se." },
+        { "autor": "Orígenes", "obra": null, "catena": "19:37–40#11", "sintese": "Quando nos calamos e a caridade esfria, clamam as pedras: Deus pode delas suscitar filhos a Abraão." }
+      ],
+      "nota": null
+    },
+    "19:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 39 in Ev.", "catena": "19:41–44#2", "sintese": "Chorou a ruína que a própria cidade ignorava: se a conhecesses, chorarias tu, que agora te alegras." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "19:41–44#10", "sintese": "O Redentor chora sempre que alguém deixa a vida boa; a alma corrompida tem aqui o seu dia e julga paz o que passa." }
+      ],
+      "nota": null
+    },
+    "19:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:45–48#1", "sintese": "Deus não quer o seu templo casa de comércio, mas morada de santidade e de obediência livre." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 48.", "catena": "19:45–48#5", "sintese": "O templo é o próprio Cristo, na sua humanidade, e o seu Corpo unido a Ele, a Igreja." }
+      ],
+      "nota": null
+    },
+    "19:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 39 ut sup.", "catena": "19:45–48#6", "sintese": "Depois do rigor da disciplina, derrama os dons da graça: não retira a pregação nem aos indignos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
