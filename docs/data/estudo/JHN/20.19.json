@@ -1,0 +1,92 @@
+{
+  "id": "JHN.20.19",
+  "livro": "JHN",
+  "titulo": "As aparições aos discípulos; Tomé",
+  "secao": "A Ressurreição",
+  "referencia": "Jo 20,19-31",
+  "ini": { "c": 20, "v": 19 },
+  "fim": { "c": 20, "v": 31 },
+  "liturgia": { "tema_central": "“Meu Senhor e meu Deus!”: a paz, o Espírito e o perdão dados pelo Ressuscitado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na tarde do primeiro dia da semana, estando fechadas as portas por medo dos judeus, Jesus vem, põe-se no meio dos discípulos e diz: “A paz seja convosco”. Mostra-lhes as mãos e o lado, e os discípulos alegram-se ao ver o Senhor. Repete: “A paz seja convosco. Assim como o Pai me enviou, também eu vos envio”. Sopra sobre eles: “Recebei o Espírito Santo. Àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; àqueles a quem os retiverdes, ser-lhes-ão retidos”. Tomé, um dos Doze, não estava. Aos que lhe dizem “vimos o Senhor”, responde que, se não vir e tocar as chagas, não crerá. Oito dias depois, com Tomé presente e as portas fechadas, Jesus vem de novo: “A paz seja convosco”, e diz a Tomé que meta o dedo e a mão nas chagas e não seja incrédulo, mas fiel. Tomé responde: “Meu Senhor e meu Deus!”. Jesus: “Creste porque me viste; bem-aventurados os que crerem sem ter visto”. Muitos outros sinais fez Jesus; estes foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e, crendo, tenhais vida em seu nome.",
+    "alegorico": "As portas fechadas não impedem o corpo em que habita a divindade: entra sem as abrir quem nasceu sem violar a virgindade da Mãe. O corpo ressuscitado é incorruptível e, no entanto, palpável. As chagas conservam-se para curar os corações que duvidam. O sopro sobre os discípulos significa que o Espírito procede também do Filho. Tomé vê e toca o homem, e confessa o Deus que não vê nem toca.",
+    "moral": "“Como o Pai me enviou, eu vos envio”: amo-vos, ao enviar-vos às perseguições, com o mesmo amor com que o Pai me amou ao enviar-me aos sofrimentos. O poder de perdoar pecados é dado aos Apóstolos e aos seus sucessores; respeitemos os sacerdotes, cuja responsabilidade é grande. Não foi por acaso que Tomé faltou: a sua incredulidade, curada ao tocar as chagas, aproveita mais à nossa fé do que a fé dos que creram logo.",
+    "anagogico": "“Bem-aventurados os que crerem sem ter visto”: somos nós, que não vimos e cremos. A fé de agora, que não vê, prepara a visão de amanhã; e o corpo glorioso de Cristo, incorruptível e real, anuncia o nosso corpo na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi Jesus, pôs-se no meio deles e disse-lhes: “A paz seja convosco!” Mostrou-lhes as mãos e o lado. Assim como o Pai me enviou, também vos envio a vós. Recebei o Espírito Santo. Aqueles a quem perdoardes os pecados, ser-lhes-ão perdoados. Tomé respondeu-lhe: “Meu Senhor e meu Deus!” Bem-aventurados os que crerem sem ter visto.",
+    "meditatio_perguntas": [
+      "Que portas fechadas, por medo, Jesus quer atravessar na minha vida para me dar a paz?",
+      "Recorro ao perdão que Ele confiou à Igreja no sacramento da Reconciliação?",
+      "Sou capaz de dizer, com Tomé, “Meu Senhor e meu Deus!”, sem exigir ver?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que entraste pelas portas fechadas, dá-me a tua paz e o teu Espírito. Perdoa os meus pecados pelo ministério da tua Igreja. Cura a minha incredulidade pelas tuas chagas, e faz que eu creia sem ver e confesse: Meu Senhor e meu Deus! Amém.",
+    "contemplatio_foco": { "texto": "Meu Senhor e meu Deus!", "ref": "Jo 20,28" }
+  },
+  "ancoras": {
+    "20:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:19–25#4", "sintese": "Entrou sem abrir as portas quem nasceu sem violar a virgindade da Mãe." }
+      ],
+      "nota": null
+    },
+    "20:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:19–25#7", "sintese": "Conservaram-se as marcas das feridas para curar os corações que duvidavam." }
+      ],
+      "nota": null
+    },
+    "20:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:19–25#13", "sintese": "Envio-vos às perseguições com o mesmo amor com que o Pai me enviou aos sofrimentos." }
+      ],
+      "nota": null
+    },
+    "20:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:19–25#16", "sintese": "O sopro não era a substância do Espírito, mas sinal de que procede também do Filho." }
+      ],
+      "nota": { "texto": "“Soprou” (enephysēsen) é o verbo de Gn 2,7, quando Deus insufla no homem o sopro de vida: começa a nova criação.", "origem": "ia" }
+    },
+    "20:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:19–25#21", "sintese": "Grande é a responsabilidade do sacerdote; tributai-lhe respeito, ainda que não seja de virtude eminente." }
+      ],
+      "nota": { "texto": "O Concílio de Trento (sessão XIV, cân. 3) ensina que estas palavras instituem o poder de perdoar e reter os pecados no sacramento da Penitência.", "origem": "ia" }
+    },
+    "20:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:19–25#23", "sintese": "Não foi por acaso: a incredulidade de Tomé aproveita mais à nossa fé do que a fé dos que creram." }
+      ],
+      "nota": null
+    },
+    "20:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:26–31#5", "sintese": "Ofereceu ao toque a carne que entrara pelas portas fechadas: incorruptível e, no entanto, palpável." }
+      ],
+      "nota": null
+    },
+    "20:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:26–31#7", "sintese": "Viu e tocou o homem e confessou o Deus que não via nem tocava." }
+      ],
+      "nota": null
+    },
+    "20:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:26–31#12", "sintese": "Quem lamenta não ter visto os milagres de Cristo, reflita: “bem-aventurados os que não viram e creram”." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "JHN.19.17",
+  "livro": "JHN",
+  "titulo": "A crucifixão e morte de Jesus",
+  "secao": "A Paixão",
+  "referencia": "Jo 19,17-30",
+  "ini": { "c": 19, "v": 17 },
+  "fim": { "c": 19, "v": 30 },
+  "liturgia": { "tema_central": "“Tudo está consumado”: o Rei na cruz entrega a Mãe e o espírito", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus, levando a sua cruz, sai para o lugar chamado do Crânio, em hebraico Gólgota, onde o crucificam com outros dois, um de cada lado, e Ele no meio. Pilatos manda pôr na cruz o título: “Jesus Nazareno, Rei dos Judeus”, escrito em hebraico, latim e grego; muitos o leem, porque o lugar fica perto da cidade. Os pontífices pedem que escreva “Este disse: Eu sou rei”; Pilatos responde: “O que escrevi, escrevi”. Os soldados repartem as vestes em quatro partes; a túnica, sem costura, tecida de alto a baixo, não a rasgam, mas tiram-na à sorte, cumprindo-se a Escritura. Junto à cruz estão a Mãe de Jesus, a irmã da Mãe, Maria de Cléofas, e Maria Madalena. Jesus, vendo a Mãe e junto dela o discípulo que amava, diz à Mãe: “Mulher, eis o teu filho”; e ao discípulo: “Eis a tua Mãe”. Desde aquela hora o discípulo recebe-a em sua casa. Depois, sabendo que tudo estava consumado, para se cumprir a Escritura, diz: “Tenho sede”. Chegam-lhe à boca uma esponja com vinagre num hissopo. Tomando o vinagre, diz: “Tudo está consumado”. E, inclinando a cabeça, entrega o espírito.",
+    "alegorico": "Como Isaac levou a lenha do seu sacrifício, Cristo leva a cruz; mas ali foi imolado o carneiro, e aqui a humanidade de Cristo, enquanto a divindade permanece impassível. Leva aos ombros a insígnia da vitória, e alguns dizem que no lugar onde Adão foi sepultado ergueu o seu troféu. As três línguas do título proclamam-no Rei de toda a sabedoria humana. A túnica inconsútil, tecida do alto, é o corpo de Cristo, concebido pelo Espírito, indivisível ainda que dado a todos. Na hora de Caná anunciada, reconhece a Mãe e confia-a ao discípulo.",
+    "moral": "As mulheres mostram-se fortes, de pé junto à cruz, quando os discípulos fogem. Maria está de pé, e João é o único que o narra. Jesus, na agonia, pensa na Mãe e dá-lhe outro filho em seu lugar; João recebe-a não nos seus bens, que não tinha, mas nos seus cuidados. Até o que os ímpios fazem, como a cruz e a partilha das vestes, serve o desígnio de Deus. Ninguém morre quando quer; Cristo, só quando tudo estava cumprido.",
+    "anagogico": "Quem teve tal poder de morrer quando quis, que poder mostrará quando vier julgar? “Tudo está consumado”: a obra que o Pai lhe deu chega ao fim, e o espírito entregue ao Pai abre aos homens o caminho da vida. A Mãe dada ao discípulo amado torna-se Mãe de todos os que Jesus ama."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tomaram pois, Jesus, o qual, levando a sua cruz, saiu para o lugar chamado do Crânio. Junto à cruz de Jesus estavam sua Mãe. Jesus disse a sua Mãe: “Mulher, eis o teu filho”. Depois disse ao discípulo: “Eis a tua Mãe”. E, desta hora por diante, a levou o discípulo para sua casa. Jesus, tendo tomado o vinagre, disse: “Tudo está consumado”. Depois, inclinando a cabeça, rendeu o espírito.",
+    "meditatio_perguntas": [
+      "Fico de pé junto à cruz de Jesus, ou fujo com os discípulos?",
+      "Recebi Maria “em minha casa”, como o discípulo amado?",
+      "Que “sede” de Jesus sou chamado a saciar hoje?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei crucificado, que levaste a cruz como troféu da vitória, dá-me ficar de pé junto a ti com tua Mãe. Recebo-a como minha Mãe, como o discípulo amado. Que eu sacie a tua sede e, na hora da morte, entregue o espírito nas mãos do Pai. Amém.",
+    "contemplatio_foco": { "texto": "Tudo está consumado.", "ref": "Jo 19,30" }
+  },
+  "ancoras": {
+    "19:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "19:16–18#3", "sintese": "Como em Isaac foi imolado o carneiro, aqui padece a humanidade, e a divindade permanece impassível." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:16–18#6", "sintese": "Leva aos ombros a insígnia da vitória; onde reinava a morte, no lugar de Adão, ergue o seu troféu." }
+      ],
+      "nota": null
+    },
+    "19:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "19:19–22#5", "sintese": "As três línguas proclamam-no Rei de toda a filosofia: prática, natural e teológica." }
+      ],
+      "nota": null
+    },
+    "19:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:19–22#7", "sintese": "Ó inefável poder divino: uma voz oculta dizia a Pilatos que não alterasse o título." }
+      ],
+      "nota": null
+    },
+    "19:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "19:23–24#6", "sintese": "A túnica tecida do alto é o corpo de Cristo, concebido pelo Espírito, indivisível ainda que dado a todos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:23–24#7", "sintese": "Que o façam ímpios não lhe tira o sentido: também a cruz foi feita por ímpios." }
+      ],
+      "nota": null
+    },
+    "19:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "19:24–27#1", "sintese": "Maria estava de pé diante da cruz do Filho: só João no-lo ensinou." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:24–27#3", "sintese": "O sexo mais fraco mostra-se o mais forte: de pé junto à cruz quando os discípulos fogem." }
+      ],
+      "nota": null
+    },
+    "19:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:24–27#8", "sintese": "É a hora anunciada em Caná: padecendo como homem, reconhece a Mãe da sua humanidade." }
+      ],
+      "nota": { "texto": "“Mulher” liga esta cena a Caná (Jo 2,4) e a Gn 3,15. A tradição viu aqui Maria dada como Mãe a todos os discípulos.", "origem": "ia" }
+    },
+    "19:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:24–27#10", "sintese": "Dá à Mãe outro filho; João recebe-a não nos seus bens, que não tinha, mas nos seus cuidados." }
+      ],
+      "nota": null
+    },
+    "19:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:28–30#6", "sintese": "Morre só quando nada mais lhe restava fazer, como quem tem poder de dar a vida e retomá-la." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:28–30#9", "sintese": "Quem morreu quando quis, que poder terá quando vier julgar?" }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

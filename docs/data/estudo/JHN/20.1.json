@@ -1,0 +1,79 @@
+{
+  "id": "JHN.20.1",
+  "livro": "JHN",
+  "titulo": "O sepulcro vazio; Maria Madalena",
+  "secao": "A Ressurreição",
+  "referencia": "Jo 20,1-18",
+  "ini": { "c": 20, "v": 1 },
+  "fim": { "c": 20, "v": 18 },
+  "liturgia": { "tema_central": "“Maria!” — “Rabbuni!”: o Ressuscitado chama pelo nome quem o procura", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No primeiro dia da semana, ainda escuro, Maria Madalena vai ao sepulcro e vê a pedra tirada. Corre a Simão Pedro e ao outro discípulo, o que Jesus amava: “Levaram o Senhor do sepulcro, e não sabemos onde o puseram”. Os dois correm; o outro discípulo chega primeiro, inclina-se, vê os lençóis no chão, mas não entra. Pedro chega, entra e vê os lençóis e o sudário dobrado à parte. Entra também o outro discípulo: viu e creu. Ainda não entendiam a Escritura de que Ele devia ressuscitar. Voltam para casa. Maria fica fora, chorando; inclina-se e vê dois anjos vestidos de branco, um à cabeceira e outro aos pés do lugar do corpo. “Mulher, por que choras?” “Levaram o meu Senhor, e não sei onde o puseram.” Volta-se e vê Jesus de pé, sem saber que é Ele. “A quem procuras?” Julgando-o o hortelão, pede-lhe que diga onde o pôs. Jesus diz: “Maria!”. Ela, voltando-se, responde: “Rabbuni!”, que quer dizer Mestre. “Não me retenhas, porque ainda não subi para meu Pai; vai a meus irmãos e diz-lhes que subo para meu Pai e vosso Pai, meu Deus e vosso Deus.” Maria vai anunciar aos discípulos: “Vi o Senhor”.",
+    "alegorico": "Ainda estava escuro, não só lá fora, mas na alma de Maria, que procurava morto o Criador de todas as coisas. Pedro é o homem de ação, João o contemplativo: o contemplativo chega primeiro ao conhecimento, mas o homem de ação entra primeiro. Maria não errou tanto ao julgá-lo hortelão: Ele é o jardineiro espiritual que semeou no seu peito as sementes da virtude. A culpa do género humano é cortada onde nasceu: no paraíso a mulher deu ao homem a morte; do sepulcro, uma mulher anuncia aos homens a vida.",
+    "moral": "Para quem ama, olhar uma vez não basta: o amor faz olhar de novo. Maria procurou e não encontrou; perseverou, e encontrou: os santos desejos crescem com a demora, e se não crescem não são desejos. Jesus chama-a pelo nome, e o reconhecimento nasce da voz, não da vista. “Não me retenhas”: não quer que a alma se detenha no que nele parece, mas suba com Ele ao Pai.",
+    "anagogico": "“Meu Pai e vosso Pai”: meu por natureza, vosso pela graça; “meu Deus”, enquanto homem, “e vosso Deus”, entre o qual e vós sou Mediador. A subida do Ressuscitado ao Pai abre aos seus irmãos a casa do Pai, onde o conhecerão não pelo toque, mas pela visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No primeiro dia da semana, foi Maria Madalena ao sepulcro, de manhã, sendo ainda escuro. Então entrou também o outro discípulo. Viu e creu. Maria conservava-se da parte de fora do sepulcro, chorando. Jesus disse-lhe: “Mulher, por que choras? A quem procuras?” Jesus disse-lhe: “Maria!” Ela, voltando-se, disse-lhe em hebreu: Rabbouni! Foi Maria Madalena dar a nova aos discípulos: “Vi o Senhor”.",
+    "meditatio_perguntas": [
+      "Procuro Jesus com a perseverança de Maria, mesmo quando não o encontro?",
+      "Ouço-o chamar-me pelo nome no meio das minhas lágrimas?",
+      "A quem sou enviado a dizer: “Vi o Senhor”?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que chamaste Maria pelo nome, chama-me também a mim. Faz crescer em mim o desejo de te procurar, ilumina a escuridão da minha alma e envia-me a anunciar aos meus irmãos que estás vivo. Amém.",
+    "contemplatio_foco": { "texto": "Jesus disse-lhe: \"Maria!\" Ela, voltando-se, disse-lhe em hebreu: Rabbouni!", "ref": "Jo 20,16" }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:1–9#6", "sintese": "Ainda estava escuro em sua alma: procurava morto o Criador de todas as coisas." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:1–9#8", "sintese": "Ressuscitou com a pedra e o selo no lugar; o sepulcro abre-se depois, para que outros se certifiquem." }
+      ],
+      "nota": null
+    },
+    "20:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "20:1–9#20", "sintese": "João, contemplativo, chega primeiro ao conhecimento; Pedro, homem de ação, entra primeiro." }
+      ],
+      "nota": null
+    },
+    "20:8": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "Os lençóis no chão e o sudário dobrado à parte excluem a hipótese de roubo: ladrões não desenrolariam o corpo. Daí o “viu e creu”.", "origem": "ia" }
+    },
+    "20:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:10–18#7", "sintese": "Para quem ama, olhar uma vez não basta: o amor faz olhar de novo e de novo." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:10–18#9", "sintese": "Perseverou e encontrou: os santos desejos crescem com a demora; se não crescem, não são desejos." }
+      ],
+      "nota": null
+    },
+    "20:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:10–18#25", "sintese": "Não errava tanto: era o jardineiro espiritual que semeara no seu peito as sementes da virtude." }
+      ],
+      "nota": null
+    },
+    "20:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:10–18#30", "sintese": "O toque é termo do conhecimento: não queria que a alma se detivesse no que nele parecia." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "20:10–18#33", "sintese": "“Meu Pai” por natureza, “vosso” pela graça; “meu Deus” enquanto homem, “vosso”, de quem sou Mediador." }
+      ],
+      "nota": null
+    },
+    "20:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "20:10–18#35", "sintese": "No paraíso a mulher deu a morte; do sepulcro, uma mulher anuncia aos homens a vida." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

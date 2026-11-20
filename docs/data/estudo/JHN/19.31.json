@@ -1,0 +1,59 @@
+{
+  "id": "JHN.19.31",
+  "livro": "JHN",
+  "titulo": "O lado traspassado e a sepultura",
+  "secao": "A Paixão",
+  "referencia": "Jo 19,31-42",
+  "ini": { "c": 19, "v": 31 },
+  "fim": { "c": 19, "v": 42 },
+  "liturgia": { "tema_central": "“Saiu sangue e água”: do lado aberto nascem os sacramentos da Igreja", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Era o dia da Preparação, e para que os corpos não ficassem na cruz no grande sábado, os judeus pedem a Pilatos que lhes quebrem as pernas e os tirem. Os soldados quebram as pernas aos dois crucificados com Jesus; chegando a Ele, veem que já está morto e não lhas quebram, mas um soldado traspassa-lhe o lado com uma lança, e logo sai sangue e água. Quem o viu dá testemunho, e o seu testemunho é verdadeiro, para que também vós creiais. Assim se cumpre a Escritura: “Não lhe quebrareis osso algum”, e “Olharão para aquele que traspassaram”. Depois, José de Arimateia, discípulo oculto por medo dos judeus, pede a Pilatos o corpo de Jesus e leva-o. Vem também Nicodemos, o que fora de noite ter com Jesus, trazendo cerca de cem libras de mirra e aloés. Envolvem o corpo em lençóis com os aromas, segundo o costume judaico. No lugar da crucifixão há um horto e nele um sepulcro novo, onde ninguém fora posto; por ser a Preparação e o sepulcro estar perto, ali depositam Jesus.",
+    "alegorico": "O evangelista diz “abriu” o lado: abre-se a porta da vida, de onde brotam os sacramentos da Igreja, sem os quais não se entra na vida verdadeira. O sangue e a água são a Eucaristia e o Batismo; do lado do novo Adão adormecido nasce a Igreja, como Eva do lado de Adão. Não lhe quebram osso algum: é o verdadeiro Cordeiro pascal. O sepulcro novo, onde ninguém fora posto, corresponde ao seio virginal de Maria, onde ninguém foi concebido antes nem depois dele.",
+    "moral": "Ao aproximar-te do cálice, aproxima-te como se bebesses do próprio lado de Cristo. José, que em vida de Jesus evitava a sua companhia por medo, mostra agora ousadia: a cruz faz corajosos os tímidos. Nicodemos, que viera de noite, vem agora à luz. Cristo, pobre em vida, é posto no sepulcro de outro e a sua nudez é coberta por um discípulo: o serviço ao corpo de Cristo continua nos pobres.",
+    "anagogico": "“Olharão para aquele que traspassaram”: o Traspassado será contemplado por todos quando vier na glória. O sepulcro novo ensina que pela morte de Cristo somos todos renovados e que a morte e a corrupção são destruídas; o horto onde jaz anuncia o jardim da ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mas, quando chegaram a Jesus, vendo que já estava morto, não lhe quebraram as pernas, mas um dos soldados traspassou-lhe o lado com uma lança, e imediatamente saiu sangue e água. Lançarão o olhar para aquele a quem traspassaram. Tomaram o corpo de Jesus e envolveram-no em lençóis com aromas. Havia um horto, e no horto um sepulcro novo, em que ninguém ainda tinha sido sepultado.",
+    "meditatio_perguntas": [
+      "Olho para o Traspassado e reconheço que é por mim?",
+      "Aproximo-me da Eucaristia como de uma fonte que brota do lado de Cristo?",
+      "Sou discípulo “oculto por medo”, ou tenho a coragem de José e Nicodemos?"
+    ],
+    "oratio_guia": "Senhor Jesus, de cujo lado aberto brotaram sangue e água, lava-me e alimenta-me com os teus sacramentos. Que eu olhe para ti, traspassado, e deixe de te seguir às escondidas. Recebe-me no teu sepulcro novo, para ressuscitar contigo. Amém.",
+    "contemplatio_foco": { "texto": "um dos soldados traspassou-lhe o lado com uma lança, e imediatamente saiu sangue e água.", "ref": "Jo 19,34" }
+  },
+  "ancoras": {
+    "19:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:31–37#6", "sintese": "Diz “abriu” o lado: porta da vida, de onde brotaram os sacramentos da Igreja." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:31–37#7", "sintese": "Aproxima-te do cálice como se bebesses do próprio lado de Cristo." }
+      ],
+      "nota": null
+    },
+    "19:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:31–37#10", "sintese": "Para cada facto, um testemunho da Escritura: “não lhe quebrareis osso algum”, preceito do cordeiro pascal." }
+      ],
+      "nota": { "texto": "Ex 12,46 manda não quebrar nenhum osso do cordeiro pascal: João apresenta Jesus como o verdadeiro Cordeiro, morto à hora da imolação.", "origem": "ia" }
+    },
+    "19:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:38–42#3", "sintese": "Quem evitava a companhia do Senhor por medo mostra agora ousado desprezo pelos judeus." }
+      ],
+      "nota": null
+    },
+    "19:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "19:38–42#12", "sintese": "Como no seio de Maria ninguém foi concebido antes nem depois dele, assim neste sepulcro." },
+        { "autor": "Teofilato", "obra": null, "catena": "19:38–42#13", "sintese": "O sepulcro novo ensina que somos renovados pela morte de Cristo; pobre, é posto no sepulcro de outro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
