@@ -1,0 +1,49 @@
+{
+  "id": "COL.1.1",
+  "livro": "COL",
+  "titulo": "Ação de graças e oração pelos colossenses",
+  "secao": "A primazia de Cristo",
+  "referencia": "Cl 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Transferidos para o reino do Filho do seu amor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo e Timóteo saúdam os santos e fiéis irmãos de Colossos, comunidade que Paulo não fundou pessoalmente, mas que recebeu o Evangelho por Epafras. Dão graças a Deus pela fé deles em Cristo e pela caridade para com todos os santos, nascidas da esperança reservada nos céus, que conheceram pela palavra da verdade do Evangelho; esse Evangelho frutifica e cresce no mundo inteiro, como entre eles. Desde que souberam disso, não cessam de pedir que sejam cheios do conhecimento da vontade de Deus, em toda sabedoria e inteligência espiritual, para viverem de modo digno do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, fortalecidos pelo seu poder para suportar tudo com paciência e alegria, dando graças ao Pai que os fez dignos da herança dos santos na luz, os livrou do poder das trevas e os transferiu para o reino do Filho do seu amor, em quem temos a redenção, a remissão dos pecados.",
+    "alegorico": "A passagem do “poder das trevas” ao “reino do Filho do seu amor” é um novo Êxodo: como Israel foi tirado do Egito para a terra prometida, os batizados são transferidos para o Reino e recebem a “herança dos santos na luz”. A Igreja é o povo resgatado, já participante da luz que será plena no céu.",
+    "moral": "A oração de Paulo mostra a ordem da vida cristã: conhecer a vontade de Deus, viver de modo digno dele, frutificar em boas obras, suportar com paciência e alegria, e dar graças. A fé, a esperança e a caridade andam juntas. A paciência cristã não é resignação triste, mas força que vem de Deus, unida à alegria.",
+    "anagogico": "A esperança está “reservada nos céus”: é ela que move a fé e a caridade. A herança dos santos na luz é a glória futura, de que a vida no Reino do Filho já é antecipação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não cessamos de orar por vós e de pedir que sejais cheios de conhecimento da sua vontade, a fim de que andeis de um modo digno do Senhor, frutificando em toda a boa obra. Dando graças a Deus Pai, o qual nos livrou do poder das trevas e nos transferiu para o reino do Filho do seu amor.",
+    "meditatio_perguntas": [
+      "Peço a Deus o conhecimento da sua vontade, ou só a realização da minha?",
+      "Suporto as dificuldades com paciência e também com alegria?",
+      "Agradeço ao Pai por me ter tirado das trevas e trazido ao Reino de seu Filho?"
+    ],
+    "oratio_guia": "Pai, que me livraste do poder das trevas e me transferiste para o reino do Filho do teu amor, enche-me do conhecimento da tua vontade. Dá-me viver de modo digno de ti, frutificar em boas obras e suportar tudo com paciência e alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nos livrou do poder das trevas e nos transferiu para o reino do Filho do seu amor.",
+      "ref": "Cl 1,13"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Colossos, cidade da Frígia, no vale do Lico, perto de Laodiceia e Hierápolis (4,13). Foi evangelizada por Epafras, discípulo de Paulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

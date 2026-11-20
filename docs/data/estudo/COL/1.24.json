@@ -1,0 +1,49 @@
+{
+  "id": "COL.1.24",
+  "livro": "COL",
+  "titulo": "Completo na minha carne o que falta aos sofrimentos de Cristo",
+  "secao": "A primazia de Cristo",
+  "referencia": "Cl 1,24–2,5",
+  "ini": {
+    "c": 1,
+    "v": 24
+  },
+  "fim": {
+    "c": 2,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Cristo em vós, esperança da glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo alegra-se nos sofrimentos que suporta por eles e completa na sua carne o que falta às tribulações de Cristo, em favor do seu corpo, a Igreja, da qual foi feito ministro para anunciar plenamente a palavra de Deus: o mistério escondido aos séculos e às gerações e agora manifestado aos santos. Deus quis dar a conhecer a riqueza da glória deste mistério entre os gentios: Cristo em vós, esperança da glória. É a Ele que anuncia, admoestando e instruindo cada homem em toda sabedoria, para apresentar cada homem perfeito em Cristo; para isso trabalha e combate, com a força que Cristo opera nele. Quer que saibam do combate que trava por eles, pelos de Laodiceia e por todos os que não o conhecem pessoalmente, para que os seus corações sejam consolados, unidos na caridade e ricos de inteligência, para conhecerem o mistério de Deus, Cristo, em quem estão todos os tesouros da sabedoria e da ciência. Diz isso para que ninguém os engane com discursos sutis.",
+    "alegorico": "O sofrimento de Cristo não é incompleto quanto à redenção, mas continua no seu corpo místico: Cristo sofre na Igreja e nos seus membros até o fim do mundo. O Apóstolo que padece é membro do Cristo total, e a sua dor serve à edificação do corpo. O mistério escondido e agora revelado é a presença de Cristo nos gentios.",
+    "moral": "O sofrimento pode ser oferecido: unido ao de Cristo, torna-se fecundo para a Igreja. Daqui nasce a prática católica de “oferecer” as dores. A missão visa “todo homem”: ninguém está excluído da perfeição em Cristo. E o trabalho apostólico é combate sustentado pela força de Deus, não pelo ativismo humano.",
+    "anagogico": "“Cristo em vós, esperança da glória”: a presença de Cristo no fiel já é o germe da glória futura. A meta é apresentar cada homem “perfeito em Cristo” no dia final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu, agora, me alegro nos sofrimentos por vós e completo na minha carne o que falta aos sofrimentos de Cristo, pelo seu corpo, que é a Igreja. Cristo, em vós, esperança da vossa glória. É ele que nós anunciamos. Cristo, no qual estão encerrados todos os tesouros da sabedoria e da ciência.",
+    "meditatio_perguntas": [
+      "Sei oferecer os meus sofrimentos unidos aos de Cristo, pelo bem da Igreja?",
+      "Tenho consciência de que Cristo está em mim, como esperança da glória?",
+      "Busco em Cristo os tesouros da sabedoria, ou em outros “discursos sutis”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vives em mim como esperança da glória, une os meus sofrimentos aos teus, para o bem do teu corpo, a Igreja. Em ti estão todos os tesouros da sabedoria: não me deixes procurá-los em outro lugar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cristo, em vós, esperança da vossa glória.",
+      "ref": "Cl 1,27"
+    }
+  },
+  "ancoras": {
+    "1:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não falta nada ao valor redentor da cruz. O que “falta” são as tribulações que Cristo, cabeça, quis que o seu corpo partilhasse; a tradição fundamenta aqui o valor do sofrimento oferecido (cf. São João Paulo II, Salvifici doloris, 24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

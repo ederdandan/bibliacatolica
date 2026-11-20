@@ -1,0 +1,57 @@
+{
+  "id": "COL.1.15",
+  "livro": "COL",
+  "titulo": "Cristo, imagem do Deus invisível",
+  "secao": "A primazia de Cristo",
+  "referencia": "Cl 1,15-23",
+  "ini": {
+    "c": 1,
+    "v": 15
+  },
+  "fim": {
+    "c": 1,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Tudo foi criado por Ele e para Ele",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo apresenta um hino a Cristo. Ele é a imagem do Deus invisível, o primogênito de toda a criação, porque nele foram criadas todas as coisas, no céu e na terra, visíveis e invisíveis, tronos, dominações, principados e potestades: tudo foi criado por Ele e para Ele. Ele existe antes de tudo, e tudo nele subsiste. É também a cabeça do corpo, a Igreja; é o princípio, o primogênito dentre os mortos, para ter em tudo a primazia. Pois aprouve a Deus fazer habitar nele toda a plenitude e, por Ele, reconciliar consigo todas as coisas, pacificando pelo sangue da sua cruz as da terra e as do céu. Os colossenses, outrora estranhos e inimigos pelas más obras, foram agora reconciliados pela morte do seu corpo de carne, para serem apresentados santos e irrepreensíveis, contanto que permaneçam firmes na fé e na esperança do Evangelho.",
+    "alegorico": "O hino tem duas estrofes: Cristo, primogênito da criação, e Cristo, primogênito dos mortos. Ele é o mediador da primeira criação e da nova criação; a cruz pacifica o universo inteiro. A Igreja, seu corpo, é o lugar onde a reconciliação cósmica já começou. Como imagem do Deus invisível, Cristo é o rosto humano do Pai.",
+    "moral": "Se tudo foi criado “para Ele”, nada na minha vida é neutro: trabalho, estudo, afetos, tudo deve ser orientado a Cristo. Nenhuma potência criada, nem anjos nem forças cósmicas, merece o nosso temor ou culto como Ele. A reconciliação recebida pede perseverança: permanecer “fundados e firmes na fé”.",
+    "anagogico": "Cristo é “o primogênito dentre os mortos”: a sua ressurreição é primícia da nossa. O plano de Deus caminha para a reconciliação de todas as coisas, quando Cristo terá em tudo a primazia e apresentará os seus santos e irrepreensíveis diante do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ele é a imagem do Deus invisível, o primogênito de toda a criatura, porque nele foram criadas todas as coisas: tudo foi criado por ele e para ele, e todas as coisas subsistem por ele. Ele é a cabeça do corpo da Igreja, o primogênito dentre os mortos. Pacificando pelo sangue da sua cruz.",
+    "meditatio_perguntas": [
+      "Cristo tem realmente a primazia em todas as coisas da minha vida?",
+      "Procuro ver no rosto de Cristo a imagem do Pai invisível?",
+      "Permaneço firme na fé e na esperança, ou me deixo abalar facilmente?"
+    ],
+    "oratio_guia": "Senhor Jesus, imagem do Deus invisível, por quem e para quem tudo foi criado, tem em mim a primazia. Primogênito dos mortos, reconciliaste todas as coisas pelo sangue da tua cruz: pacifica o meu coração e conserva-me firme na fé. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo foi criado por ele e para ele.",
+      "ref": "Cl 1,16"
+    }
+  },
+  "ancoras": {
+    "1:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Primogênito” (prōtótokos) indica prioridade e soberania, não que Cristo seja a primeira criatura: o versículo seguinte diz que tudo foi criado nele. Contra Ário, os Padres insistiram neste ponto.",
+        "origem": "ia"
+      }
+    },
+    "1:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Plenitude” (plḗrōma): toda a riqueza da divindade (cf. 2,9). Talvez Paulo responda a mestres que repartiam a plenitude divina entre anjos e potências intermediárias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

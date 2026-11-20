@@ -1,0 +1,57 @@
+{
+  "id": "COL.3.1",
+  "livro": "COL",
+  "titulo": "Buscai as coisas lá de cima",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Cl 3,1-11",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A vossa vida está escondida com Cristo em Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se ressuscitaram com Cristo, busquem as coisas do alto, onde Cristo está sentado à direita de Deus; pensem nas coisas do alto, não nas da terra. Pois morreram, e a sua vida está escondida com Cristo em Deus; quando Cristo, que é a vida deles, aparecer, também eles aparecerão com Ele na glória. Por isso, façam morrer o que pertence à terra: fornicação, impureza, paixões, maus desejos e a avareza, que é idolatria, coisas que atraem a ira de Deus e nas quais outrora viveram. Abandonem também a ira, a indignação, a malícia, a maledicência e as palavras torpes. Não mintam uns aos outros, pois se despojaram do homem velho e se revestiram do novo, que se renova para o conhecimento segundo a imagem do Criador. Nele não há grego nem judeu, circuncisão nem incircuncisão, bárbaro, cita, escravo ou livre, mas Cristo é tudo em todos.",
+    "alegorico": "A vida “escondida com Cristo em Deus” é a vida batismal: o cristão vive na terra, mas a sua raiz está no céu, onde Cristo subiu. O homem novo, renovado “segundo a imagem daquele que o criou”, é a restauração da imagem de Deus perdida em Adão. Na Igreja, todas as divisões humanas cedem diante de Cristo, que é tudo em todos.",
+    "moral": "A moral cristã nasce da Páscoa: porque ressuscitamos com Cristo, buscamos as coisas do alto. “Mortificar” os membros terrenos é cortar pela raiz os vícios da carne e da língua. A avareza é idolatria, porque põe o dinheiro no lugar de Deus. A mentira é incompatível com quem se revestiu do homem novo. E não há espaço, na comunidade, para discriminações de raça, cultura ou condição.",
+    "anagogico": "“Quando aparecer Cristo, que é a vossa vida, então também vós aparecereis com ele na glória”: a santidade presente é oculta; só na vinda de Cristo se manifestará o que já somos. A vida cristã é espera desta revelação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se ressuscitastes com Cristo, buscai as coisas que são lá de cima, onde Cristo está sentado à dextra de Deus. A nossa vida está escondida com Cristo em Deus. Quando aparecer Cristo, que é a vossa vida, então também vós aparecereis com ele na glória. Não há senão Cristo que é tudo em todos.",
+    "meditatio_perguntas": [
+      "Em que estão fixos os meus pensamentos: nas coisas do alto ou só nas da terra?",
+      "Que “membro terreno” preciso mortificar hoje?",
+      "Cristo é realmente “tudo em todos” na minha comunidade, sem discriminações?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, sentado à direita do Pai, atrai o meu coração às coisas do alto. Esconde a minha vida contigo em Deus, faz morrer em mim o homem velho e renova-me à tua imagem, até o dia em que aparecerei contigo na glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "A nossa vida está escondida com Cristo em Deus.",
+      "ref": "Cl 3,3"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura da Vigília Pascal e do Domingo de Páscoa (segunda leitura). Os batizados na Páscoa ouviam aqui o programa da sua vida nova.",
+        "origem": "ia"
+      }
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os citas eram considerados pelos gregos os mais bárbaros dos bárbaros. A lista mostra que nenhuma barreira étnica ou social resiste em Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

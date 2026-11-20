@@ -1,0 +1,49 @@
+{
+  "id": "COL.3.18",
+  "livro": "COL",
+  "titulo": "A família cristã no Senhor",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Cl 3,18–4,1",
+  "ini": {
+    "c": 3,
+    "v": 18
+  },
+  "fim": {
+    "c": 4,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Servi a Cristo Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dá conselhos à família cristã. As mulheres sejam sujeitas aos maridos, como convém no Senhor; os maridos amem as mulheres e não sejam ásperos com elas. Os filhos obedeçam em tudo aos pais, pois isso agrada ao Senhor; os pais não irritem os filhos, para que não desanimem. Os servos obedeçam em tudo aos senhores terrenos, não só quando vigiados, para agradar aos homens, mas com simplicidade de coração, no temor de Deus. Tudo o que fizerem, façam de coração, como para o Senhor e não para os homens, sabendo que receberão do Senhor a herança como recompensa: sirvam a Cristo Senhor. Quem comete injustiça receberá conforme o que fez, pois não há acepção de pessoas. E os senhores deem aos servos o que é justo e equitativo, sabendo que também eles têm um Senhor no céu.",
+    "alegorico": "Cada relação doméstica é vivida “no Senhor”: Cristo é o centro da casa. A família cristã é pequena Igreja, onde se aprende a obediência, o amor e o serviço que o Filho viveu na casa de Nazaré e que a Igreja vive diante do seu Senhor.",
+    "moral": "Cada um tem um dever próprio e recíproco. Os maridos não sejam ásperos; os pais não desanimem os filhos com dureza excessiva: a autoridade deve encorajar, não esmagar. O trabalho deve ser feito “de boa vontade, como pelo Senhor”, e quem manda deve lembrar-se de que também tem um Senhor no céu. A justiça e a equidade são devidas a todos.",
+    "anagogico": "“Recebereis do Senhor a herança como recompensa”: o serviço humilde e escondido terá a sua recompensa eterna. Diante do Juiz celeste não há acepção de pessoas, e as posições terrenas se apagam."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Maridos, amai vossas mulheres e não sejais ásperos para com elas. Pais, não provoqueis à indignação os vossos filhos, para que se não tornem pusilânimes. Tudo o que fizerdes, fazei-o de boa vontade, como pelo Senhor e não pelos homens. Servi a Cristo Senhor. Também tendes um Senhor no céu.",
+    "meditatio_perguntas": [
+      "Há aspereza no modo como trato as pessoas da minha casa?",
+      "Minha autoridade (como pai, mãe, chefe) encoraja ou desanima os outros?",
+      "Faço o meu trabalho como serviço prestado a Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que viveste em Nazaré no seio de uma família, santifica a minha casa. Livra-me da aspereza, ensina-me a encorajar e a servir de bom coração, como a ti. Tu és o meu Senhor no céu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo o que fizerdes, fazei-o de boa vontade, como pelo Senhor e não pelos homens.",
+      "ref": "Cl 3,23"
+    }
+  },
+  "ancoras": {
+    "3:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pusilânimes” (athymōsin): sem ânimo, desencorajados. Paulo é dos poucos autores antigos que advertem os pais contra o excesso de severidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

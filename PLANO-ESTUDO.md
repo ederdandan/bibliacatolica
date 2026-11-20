@@ -104,7 +104,7 @@ Lotes do NT (contagens estimadas; o número real sai ao criar cada `scripts/peri
 - **Lote 4** (grandes, ~150): Romanos ROM · 1 Coríntios 1CO · Hebreus HEB · 2 Coríntios 2CO · Apocalipse REV · Atos ACT
 Regra: commit + push ao fechar cada livro do lote.
 Progresso: Marcos ✅ 75 · Mateus ✅ 107 · Lucas ✅ 78 · João ✅ 48. **Os quatro Evangelhos estão completos: 308 perícopes.**
-Lote 1: Filipenses ✅ 10 · Efésios ✅ 12. Próximo: Colossenses (COL).
+Lote 1: Filipenses ✅ 10 · Efésios ✅ 12 · Colossenses ✅ 8. Próximo: 1 Tessalonicenses (1TH).
 Fluxo fora dos Evangelhos: criar `scripts/pericopes/{ID}.txt` → `index {ID}` → escrever o conteúdo num módulo `{ID}.mjs` (array de `{k, tema, literal, alegorico, moral, anagogico, lectio, perguntas, oratio, foco:[texto, ref], notas:{"c:v": texto}}`) → `node scripts/gen-estudo.mjs {ID} <caminho>/{ID}.mjs` (o módulo fica no scratchpad; o gerador preenche id/título/seção/ref/ini/fim do índice, `padres: []`, `cic: []`, `origem: "ia"`) → `check {ID}`. Nas notas, não citar números do CIC (fica para a fase 1.2). `estudo.mjs` agora tira as abreviaturas de `docs/data/index.json`.
 Fora dos Evangelhos não há Catena. **Decisão:** nesses livros, `padres` fica `[]`; as âncoras levam só `nota` (IA) quando houver algo útil.
 

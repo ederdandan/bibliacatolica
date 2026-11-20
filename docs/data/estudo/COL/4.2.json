@@ -1,0 +1,65 @@
+{
+  "id": "COL.4.2",
+  "livro": "COL",
+  "titulo": "Perseverai na oração; saudações finais",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Cl 4,2-18",
+  "ini": {
+    "c": 4,
+    "v": 2
+  },
+  "fim": {
+    "c": 4,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Perseverai na oração, velando nela com ação de graças",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que perseverem na oração, vigilantes e agradecidos, e que rezem também por ele, para que Deus abra uma porta à palavra e ele anuncie o mistério de Cristo, pelo qual está preso. Recomenda sabedoria com os de fora, aproveitando as ocasiões, e uma conversa sempre amável, temperada com sal, para saber responder a cada um. Tíquico e Onésimo darão notícias. Saúdam-nos Aristarco, companheiro de prisão; Marcos, primo de Barnabé; Jesus chamado Justo, únicos cooperadores vindos do judaísmo; Epafras, que combate por eles em oração para que sejam perfeitos e firmes na vontade de Deus; Lucas, o médico amado, e Demas. Saúda os de Laodiceia, Ninfas e a igreja da sua casa. A carta deve ser lida também em Laodiceia, e a de Laodiceia em Colossos. A Arquipo: cumpra bem o ministério recebido. E a saudação final, do próprio punho: “Lembrai-vos das minhas cadeias. A graça seja convosco.”",
+    "alegorico": "A “porta aberta à palavra” mostra que a missão é obra de Deus, obtida pela oração da Igreja. A rede de nomes, Tíquico, Onésimo, Marcos, Lucas, Epafras, Ninfas e a igreja na sua casa, é retrato da Igreja como comunhão de pessoas, onde cada um tem o seu ministério, e da qual o Apóstolo, mesmo acorrentado, é centro de unidade.",
+    "moral": "A oração deve ser perseverante, vigilante e agradecida. Epafras mostra que rezar pelos outros é verdadeiro “combate”. Com os de fora, o cristão deve ser sábio e amável, com palavras “temperadas com sal”: nem insossas, nem amargas. E a palavra a Arquipo vale para todos: o ministério recebido deve ser cumprido com fidelidade.",
+    "anagogico": "As cadeias de Paulo e as saudações fraternas lembram que a Igreja peregrina vive entre a prisão e a graça. A comunhão que une comunidades distantes por cartas e orações antecipa a comunhão dos santos, onde todos se conhecerão em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Perseverai na oração, velando nela com ação de graças. Orai também por nós, para que Deus nos abra a porta à palavra. A vossa conversação seja sempre amável, condimentada com sal. Epafras combate por vós nas suas orações, para que permaneçais firmes. Considera o ministério que recebeste do Senhor, para bem o cumprires.",
+    "meditatio_perguntas": [
+      "Minha oração é perseverante e agradecida, ou só ocasional?",
+      "Minhas palavras com os que não creem são amáveis e “temperadas com sal”?",
+      "Que ministério recebi do Senhor e como o estou cumprindo?"
+    ],
+    "oratio_guia": "Senhor, dá-me perseverar na oração, vigilante e agradecido. Abre portas à tua palavra e dá aos teus apóstolos coragem para anunciá-la. Tempera com sal as minhas palavras e faz-me cumprir com fidelidade o ministério que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Perseverai na oração, velando nela com ação de graças.",
+      "ref": "Cl 4,2"
+    }
+  },
+  "ancoras": {
+    "4:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Onésimo é o escravo fugitivo por quem Paulo escreve a Carta a Filémon; volta agora a Colossos como “irmão caríssimo e fiel”.",
+        "origem": "ia"
+      }
+    },
+    "4:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Única menção explícita de que Lucas era médico; a tradição o identifica com o autor do terceiro Evangelho e dos Atos.",
+        "origem": "ia"
+      }
+    },
+    "4:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “carta de Laodiceia” perdeu-se; alguns a identificam com a Carta aos Efésios, que talvez fosse circular.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

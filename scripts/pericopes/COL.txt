@@ -1,0 +1,12 @@
+# Divisão de Colossenses em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A primazia de Cristo
+1:1-1:14 | Ação de graças e oração pelos colossenses
+1:15-1:23 | Cristo, imagem do Deus invisível
+1:24-2:5 | Completo na minha carne o que falta aos sofrimentos de Cristo
+2:6-2:23 | Nele habita a plenitude da divindade
+## A vida nova em Cristo
+3:1-3:11 | Buscai as coisas lá de cima
+3:12-3:17 | A caridade, vínculo da perfeição
+3:18-4:1 | A família cristã no Senhor
+4:2-4:18 | Perseverai na oração; saudações finais

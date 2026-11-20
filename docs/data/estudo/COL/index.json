@@ -1,0 +1,121 @@
+{
+ "livro": "COL",
+ "secoes": [
+  "A primazia de Cristo",
+  "A vida nova em Cristo"
+ ],
+ "pericopes": [
+  {
+   "id": "COL.1.1",
+   "titulo": "Ação de graças e oração pelos colossenses",
+   "secao": "A primazia de Cristo",
+   "referencia": "Cl 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  },
+  {
+   "id": "COL.1.15",
+   "titulo": "Cristo, imagem do Deus invisível",
+   "secao": "A primazia de Cristo",
+   "referencia": "Cl 1,15-23",
+   "ini": {
+    "c": 1,
+    "v": 15
+   },
+   "fim": {
+    "c": 1,
+    "v": 23
+   }
+  },
+  {
+   "id": "COL.1.24",
+   "titulo": "Completo na minha carne o que falta aos sofrimentos de Cristo",
+   "secao": "A primazia de Cristo",
+   "referencia": "Cl 1,24–2,5",
+   "ini": {
+    "c": 1,
+    "v": 24
+   },
+   "fim": {
+    "c": 2,
+    "v": 5
+   }
+  },
+  {
+   "id": "COL.2.6",
+   "titulo": "Nele habita a plenitude da divindade",
+   "secao": "A primazia de Cristo",
+   "referencia": "Cl 2,6-23",
+   "ini": {
+    "c": 2,
+    "v": 6
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "COL.3.1",
+   "titulo": "Buscai as coisas lá de cima",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Cl 3,1-11",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 11
+   }
+  },
+  {
+   "id": "COL.3.12",
+   "titulo": "A caridade, vínculo da perfeição",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Cl 3,12-17",
+   "ini": {
+    "c": 3,
+    "v": 12
+   },
+   "fim": {
+    "c": 3,
+    "v": 17
+   }
+  },
+  {
+   "id": "COL.3.18",
+   "titulo": "A família cristã no Senhor",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Cl 3,18–4,1",
+   "ini": {
+    "c": 3,
+    "v": 18
+   },
+   "fim": {
+    "c": 4,
+    "v": 1
+   }
+  },
+  {
+   "id": "COL.4.2",
+   "titulo": "Perseverai na oração; saudações finais",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Cl 4,2-18",
+   "ini": {
+    "c": 4,
+    "v": 2
+   },
+   "fim": {
+    "c": 4,
+    "v": 18
+   }
+  }
+ ]
+}

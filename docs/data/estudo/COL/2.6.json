@@ -1,0 +1,65 @@
+{
+  "id": "COL.2.6",
+  "livro": "COL",
+  "titulo": "Nele habita a plenitude da divindade",
+  "secao": "A primazia de Cristo",
+  "referencia": "Cl 2,6-23",
+  "ini": {
+    "c": 2,
+    "v": 6
+  },
+  "fim": {
+    "c": 2,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Sepultados com Cristo no Batismo, com Ele ressuscitados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta a viver em Cristo Jesus, o Senhor, como foi ensinado, enraizados e edificados nele, firmes na fé, transbordando de ação de graças. Que ninguém os engane com filosofia vã e enganadora, segundo a tradição dos homens e os elementos do mundo, e não segundo Cristo, porque nele habita corporalmente toda a plenitude da divindade, e neles foi dada a plenitude, pois Ele é a cabeça de todo principado e potestade. Nele foram circuncidados com uma circuncisão não feita por mãos, a circuncisão de Cristo: sepultados com Ele no Batismo, com Ele ressuscitaram pela fé no poder de Deus. Mortos pelos pecados, receberam vida com Ele; Deus perdoou todas as faltas, cancelou o documento de dívida que nos era contrário, cravando-o na cruz, e despojou os principados e potestades, triunfando deles. Ninguém os julgue por comidas, festas, luas novas ou sábados: são sombra das coisas futuras; a realidade é Cristo. Nem se deixem seduzir por falsa humildade, culto dos anjos e preceitos humanos de mortificação aparente, que não estão unidos à cabeça.",
+    "alegorico": "O Batismo é morte, sepultura e ressurreição com Cristo, verdadeira circuncisão do coração. A cruz é apresentada como lugar de dupla vitória: nela a dívida dos pecados é cravada e os poderes do mal são exibidos como vencidos, como prisioneiros no cortejo triunfal de um general. As observâncias da Lei eram “sombra”; o corpo, a realidade, é Cristo.",
+    "moral": "O cristão deve estar enraizado em Cristo para não ser arrastado por filosofias e espiritualidades que não são “segundo Cristo”. Nenhum rigorismo ou devoção paralela pode substituir a união com a cabeça. A ascese verdadeira nasce do Batismo e da graça, não de preceitos humanos que apenas aparentam sabedoria. A gratidão é sinal de uma fé enraizada.",
+    "anagogico": "As festas e os sábados eram “sombra das coisas vindouras”: tudo aponta para Cristo e para o repouso eterno em Deus. A ressurreição com Cristo pelo Batismo é penhor da ressurreição do corpo, e o triunfo da cruz sobre as potestades será plenamente manifesto no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vivei em Cristo Jesus, o Senhor, arraigados e edificados nele, crescendo nele em ação de graças. Porque nele habita, corporalmente, toda a plenitude da divindade. Sepultados com ele no batismo, com ele também ressuscitastes. Destruiu a acta redigida contra nós, encravando-a na cruz.",
+    "meditatio_perguntas": [
+      "Onde estão as minhas raízes: em Cristo, ou em ideias e modas do mundo?",
+      "Vivo consciente de que morri e ressuscitei com Cristo no Batismo?",
+      "Confio que a dívida dos meus pecados foi realmente cravada na cruz?"
+    ],
+    "oratio_guia": "Senhor Jesus, em quem habita toda a plenitude da divindade, enraíza-me em ti. Obrigado porque, no Batismo, me sepultaste contigo e me ressuscitaste, e cravaste na cruz a minha dívida. Guarda-me de todo engano que não seja segundo ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nele habita, corporalmente, toda a plenitude da divindade.",
+      "ref": "Cl 2,9"
+    }
+  },
+  "ancoras": {
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Corporalmente” (sōmatikōs): na humanidade de Cristo habita realmente a divindade inteira, não uma parte dela. Texto central para a doutrina da Encarnação.",
+        "origem": "ia"
+      }
+    },
+    "2:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “acta” (cheirógraphon) era um documento de dívida assinado pelo devedor. Cravá-lo na cruz evoca o costume de afixar a causa da condenação (cf. o título sobre a cruz de Jesus).",
+        "origem": "ia"
+      }
+    },
+    "2:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os erros combatidos em Colossos parecem misturar práticas judaicas (sábados, luas novas), ascetismo e especulações sobre anjos; é difícil reconstruí-los com precisão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "COL.3.12",
+  "livro": "COL",
+  "titulo": "A caridade, vínculo da perfeição",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Cl 3,12-17",
+  "ini": {
+    "c": 3,
+    "v": 12
+  },
+  "fim": {
+    "c": 3,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Acima de tudo, a caridade, vínculo da perfeição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como escolhidos de Deus, santos e amados, revistam-se de sentimentos de misericórdia, bondade, humildade, mansidão e paciência, suportando-se uns aos outros e perdoando-se mutuamente, se alguém tiver queixa contra outro: como o Senhor os perdoou, assim também perdoem. Acima de tudo, tenham a caridade, que é o vínculo da perfeição. Que a paz de Cristo reine nos seus corações, pois a ela foram chamados para formar um só corpo; e sejam agradecidos. A palavra de Cristo habite neles com toda a sua riqueza: ensinem-se e admoestem-se mutuamente com sabedoria, cantem a Deus de coração salmos, hinos e cânticos espirituais, com gratidão. E tudo o que fizerem, em palavras ou obras, façam-no em nome do Senhor Jesus, dando graças por Ele a Deus Pai.",
+    "alegorico": "As virtudes são “vestes” do homem novo: o batizado é revestido de Cristo, e Cristo é misericordioso, manso e humilde. A caridade, como cinto que une as vestes, é o “vínculo da perfeição”. A comunidade que canta salmos e hinos, cheia da palavra de Cristo e dando graças, é imagem da Igreja reunida em liturgia, cujo centro é a Eucaristia (“ação de graças”).",
+    "moral": "Esta é uma das mais belas descrições da vida comunitária cristã. O perdão é exigido porque fomos perdoados primeiro. Sem caridade, as outras virtudes se desfazem. A paz de Cristo deve ser o árbitro (o verbo grego sugere um juiz) dos nossos corações. E todo ato, mesmo o mais simples, pode ser feito “em nome do Senhor Jesus” e com ação de graças.",
+    "anagogico": "A caridade é a única virtude que permanece no céu, e por isso é o vínculo da perfeição. O canto e a ação de graças da comunidade são já ensaio do louvor eterno da Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, de benignidade, de humildade, de mansidão, de paciência. Assim como o Senhor vos perdoou a vós, também vós perdoai. Sobretudo, porém tende caridade, que é o vínculo da perfeição. Triunfe em vossos corações a paz de Cristo.",
+    "meditatio_perguntas": [
+      "Há alguém de quem eu tenha “queixa” e a quem precise perdoar?",
+      "A paz de Cristo é o árbitro das minhas decisões e reações?",
+      "Faço as coisas do dia em nome do Senhor Jesus, com ação de graças?"
+    ],
+    "oratio_guia": "Senhor, que me escolheste e me amas, reveste-me de misericórdia, bondade, humildade, mansidão e paciência. Como me perdoaste, ensina-me a perdoar. Que a tua paz reine no meu coração e a caridade una todas as coisas em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sobretudo, porém tende caridade, que é o vínculo da perfeição.",
+      "ref": "Cl 3,14"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Triunfe” traduz brabeuétō, “seja árbitro”: a paz de Cristo decide, como o juiz de uma competição, entre os impulsos do coração.",
+        "origem": "ia"
+      }
+    },
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura habitual da Festa da Sagrada Família, junto com 3,18-21.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
