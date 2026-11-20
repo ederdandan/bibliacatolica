@@ -1,0 +1,51 @@
+{
+  "id": "MAT.6.16",
+  "livro": "MAT",
+  "titulo": "O jejum",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 6,16-18",
+  "ini": { "c": 6, "v": 16 },
+  "fim": { "c": 6, "v": 18 },
+  "liturgia": { "tema_central": "O jejum feito em segredo, com alegria, diante do Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Terceira obra de piedade: o jejum. Os fariseus jejuavam duas vezes por semana (Lc 18,12), e alguns deixavam o rosto descuidado e abatido para que todos o notassem. Jesus pede o contrário: ungir a cabeça e lavar o rosto, gestos de cuidado e de festa, para que o jejum seja visto só pelo Pai. Jesus não abole o jejum; supõe que os discípulos jejuarão (“quando jejuais”), como anunciou para depois da sua partida (9,15).",
+    "alegorico": "Cristo jejuou quarenta dias no deserto em segredo, vencendo o tentador. A unção da cabeça lembra o óleo da alegria do Espírito, e Cristo é o Ungido. O jejum da Igreja, sobretudo na Quaresma, é participação no jejum de Cristo e espera do Esposo.",
+    "moral": "Pode haver ostentação não só no luxo, mas também no luto e no desleixo, e esta é mais perigosa, porque engana sob a aparência de serviço a Deus. O jejum verdadeiro é humilde e alegre. A razão, cabeça da alma, deve alegrar-se interiormente com o jejum, que nos desapega do mundo para nos unir a Deus.",
+    "anagogico": "O jejum terreno prepara o banquete eterno: renunciamos agora a algo para desejar mais a Deus, que será o nosso alimento e a nossa alegria plena. O Pai que vê no segredo dará a recompensa no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando jejuardes, não tomeis um ar triste como os hipócritas, que desfiguram o rosto para mostrar aos homens que jejuam. Em verdade vos digo: já receberam a sua recompensa. Tu, porém, quando jejuares, unge a tua cabeça e lava o teu rosto, para que não pareça aos homens que jejuas, mas a teu Pai, que está no segredo; e o teu Pai, que vê no segredo, te recompensará”.",
+    "meditatio_perguntas": [
+      "Pratico alguma forma de jejum ou renúncia por amor a Deus?",
+      "As minhas penitências me tornam amargo ou mais alegre e disponível?",
+      "Busco ser notado até nas minhas mortificações?"
+    ],
+    "oratio_guia": "Senhor Jesus, que jejuaste no deserto, ensina-me a renúncia humilde e alegre. Que o meu jejum me liberte do apego às coisas e me abra a ti e aos irmãos. Que só o Pai, que vê no segredo, seja a minha recompensa. Amém.",
+    "contemplatio_foco": { "texto": "Teu Pai, que vê no secreto, te dará a recompensa.", "ref": "Mt 6,18" }
+  },
+  "ancoras": {
+    "6:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 8, 44", "catena": "6:16#2", "sintese": "Com o semblante pálido, os membros trêmulos e os suspiros ruidosos, e tanto esforço, não se busca senão a estima dos homens." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 12", "catena": "6:16#5", "sintese": "Pode haver ostentação também no luto e na sordidez, tanto mais perigosa quanto engana sob a aparência do serviço de Deus." }
+      ],
+      "nota": null
+    },
+    "6:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "6:17–18#12", "sintese": "Pela cabeça entende-se a razão, que governa os demais membros; ungi-la significa alegrar-se interiormente com o próprio jejum." }
+      ],
+      "nota": null
+    },
+    "6:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 20", "catena": "6:17–18#5", "sintese": "Sobre a esmola acrescentou “para serdes vistos”, mas não sobre o jejum e a oração, porque a esmola não pode ser feita totalmente às ocultas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

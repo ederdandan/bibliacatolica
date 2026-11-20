@@ -1,0 +1,60 @@
+{
+  "id": "MAT.6.19",
+  "livro": "MAT",
+  "titulo": "O verdadeiro tesouro",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 6,19-24",
+  "ini": { "c": 6, "v": 19 },
+  "fim": { "c": 6, "v": 24 },
+  "liturgia": { "tema_central": "Onde está o teu tesouro, aí está o teu coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Três pequenas parábolas sobre os bens. Os tesouros da terra (roupas finas que a traça rói, metais que a ferrugem corrói, riquezas guardadas em casas de taipa, cujas paredes os ladrões “perfuravam”) são inseguros; os do céu não se perdem. O coração segue o tesouro. O olho é a lâmpada do corpo: o olho “são” (simples, generoso) ilumina tudo; o olho “defeituoso” (na linguagem judaica, o olho mau é o avarento e invejoso) mergulha o homem nas trevas. Enfim, ninguém pode servir a dois senhores: o escravo pertencia inteiramente ao seu dono. “Riqueza” traduz o aramaico mamon, aquilo em que se confia.",
+    "alegorico": "O verdadeiro tesouro é o próprio Cristo, “em quem estão escondidos todos os tesouros da sabedoria” (Cl 2,3). O olho simples é a intenção pura voltada para Deus, que ilumina todas as obras. Mamon, personificado, aparece como um ídolo rival de Deus, sob o domínio do “príncipe deste mundo”.",
+    "moral": "Não há causa maior do desejo de dinheiro do que o amor do louvor. O problema não é possuir riquezas, mas ser escravo delas: quem é servo do dinheiro guarda-o como escravo. A intenção reta torna boas as obras. É preciso escolher: um coração dividido entre Deus e o dinheiro acaba por desprezar um dos dois.",
+    "anagogico": "Os tesouros acumulados no céu (as obras de caridade, a esmola, a fidelidade) esperam-nos na vida eterna, onde nada se perde. O coração que já está em Deus vive desde agora orientado para a pátria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não ajunteis tesouros na terra, onde a ferrugem e a traça os consomem e os ladrões arrombam e roubam. Ajuntai tesouros no céu, onde nem a ferrugem nem a traça os consomem, e os ladrões não arrombam nem roubam. Pois onde está o teu tesouro, aí está também o teu coração. A lâmpada do corpo é o olho; se o teu olho for são, todo o teu corpo terá luz. Ninguém pode servir a dois senhores. Não podeis servir a Deus e à riqueza”.",
+    "meditatio_perguntas": [
+      "Onde está, de fato, o meu tesouro? Em que penso quando estou livre?",
+      "O meu olhar sobre os bens é generoso ou avarento?",
+      "Há algum “senhor” que disputa com Deus o meu coração?"
+    ],
+    "oratio_guia": "Senhor Jesus, meu verdadeiro tesouro, liberta o meu coração do apego aos bens que passam. Dá-me um olhar simples e generoso. Que eu sirva só a ti e acumule tesouros no céu pela caridade. Amém.",
+    "contemplatio_foco": { "texto": "Onde está o teu tesouro, aí está também o teu coração.", "ref": "Mt 6,21" }
+  },
+  "ancoras": {
+    "6:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:19–21#0", "sintese": "Depois da vanglória, fala do desprezo das riquezas, pois não há causa maior do desejo de dinheiro do que o amor do louvor." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:19–21#3", "sintese": "A ferrugem e a traça mostram a insegurança do tesouro daqui e a vantagem do que está no céu." }
+      ],
+      "nota": null
+    },
+    "6:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:19–21#10", "sintese": "Nem todo tesouro terreno se perde, por isso dá outro motivo: ainda que nada se perca, o coração fica preso ao que está embaixo." }
+      ],
+      "nota": null
+    },
+    "6:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:22–23#4", "sintese": "O olho é o interior: o entendimento pelo qual a alma vê a Deus; quem tem o coração voltado para Deus tem o olho cheio de luz." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "6:22–23#6", "sintese": "O olho é a nossa intenção: se for pura e reta, todas as obras feitas segundo ela serão boas." }
+      ],
+      "nota": null
+    },
+    "6:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "6:24#4", "sintese": "Mamon é a riqueza em siríaco. Não disse “quem tem riquezas”, mas “quem é servo das riquezas”." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 14", "catena": "6:24#6", "sintese": "Quem serve a Mamon serve, na verdade, àquele que é chamado príncipe deste mundo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "MAT.5.38",
+  "livro": "MAT",
+  "titulo": "A lei de talião e o amor aos inimigos",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,38-48",
+  "ini": { "c": 5, "v": 38 },
+  "fim": { "c": 5, "v": 48 },
+  "liturgia": { "tema_central": "Amai os vossos inimigos: sede perfeitos como o vosso Pai celeste", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Últimas antíteses. A lei de talião (“olho por olho”, Ex 21,24) limitava a vingança a uma retribuição igual. Jesus vai além: não responder ao mal com o mal. A bofetada na face direita (dada com as costas da mão, um insulto), a túnica pedida em juízo, os mil passos que o soldado romano podia exigir de um civil: em vez de revide, a generosidade que desarma. Depois, o amor aos inimigos. A Lei mandava amar o próximo (Lv 19,18); “odiarás o teu inimigo” não está escrito, mas refletia uma mentalidade corrente. Jesus manda amar e rezar pelos perseguidores, imitando o Pai, que faz nascer o sol sobre maus e bons. O cume: “Sede perfeitos como o vosso Pai celeste é perfeito”.",
+    "alegorico": "Cristo é quem cumpre perfeitamente este ensinamento: oferece a face aos que o esbofeteiam, deixa que lhe tirem as vestes, carrega a cruz pelo caminho e reza na Cruz pelos que o crucificam. Nele se vê a perfeição do Pai, que ama os inimigos a ponto de entregar o Filho por eles (Rm 5,10).",
+    "moral": "A paz perfeita consiste em não querer retribuição alguma. A lei do talião era um freio ao ódio; a lei de Cristo é a superação do ódio pelo amor. Não é passividade diante da injustiça, mas força interior que vence o mal com o bem. O próximo é todo aquele que precisa de nós. A perfeição cristã é a caridade que imita a gratuidade de Deus.",
+    "anagogico": "Amar os inimigos é o sinal dos “filhos do Pai que está nos céus”: antecipa a semelhança plena com Deus na glória. A perfeição pedida aqui é o caminho para a recompensa que o mundo não conhece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvistes que foi dito: Olho por olho, dente por dente. Eu, porém, vos digo: não resistais ao mau; se alguém te bater na face direita, oferece-lhe também a outra. A quem quer tirar-te a túnica, deixa-lhe também o manto. Se alguém te obrigar a andar mil passos, vai com ele dois mil. Ouvistes que foi dito: Amarás o teu próximo e odiarás o teu inimigo. Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem, para serdes filhos do vosso Pai que está nos céus, que faz nascer o sol sobre maus e bons. Sede perfeitos como o vosso Pai celeste é perfeito”.",
+    "meditatio_perguntas": [
+      "Quem é hoje o meu “inimigo”, e sou capaz de rezar por ele pelo nome?",
+      "Respondo às ofensas com revide ou com generosidade que desarma?",
+      "O meu amor vai além de quem me ama, ou é igual ao dos “publicanos”?"
+    ],
+    "oratio_guia": "Pai, que fazes nascer o sol sobre maus e bons, dá-me um coração semelhante ao teu. Ensina-me a amar os meus inimigos, a rezar pelos que me fazem mal e a vencer o mal com o bem. Faz-me teu filho na perfeição do amor. Amém.",
+    "contemplatio_foco": { "texto": "Amai os vossos inimigos, fazei bem aos que vos odeiam.", "ref": "Mt 5,44" }
+  },
+  "ancoras": {
+    "5:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. 19, 25", "catena": "5:38–42#1", "sintese": "A lei do talião foi dada para reprimir as chamas do ódio e refrear os ânimos indisciplinados: quem, ao vingar-se, se contentava em retribuir só o mal recebido?" }
+      ],
+      "nota": null
+    },
+    "5:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 19", "catena": "5:38–42#5", "sintese": "A justiça dos fariseus é não ultrapassar a retribuição igual, princípio da paz; mas a paz perfeita é não querer retribuição alguma." },
+        { "autor": "Santo Agostinho", "obra": "De Mendacio 15", "catena": "5:38–42#6", "sintese": "Os exemplos dos santos ajudam a entender os preceitos: o Senhor, esbofeteado, não ofereceu a outra face, mas perguntou “por que me bates?”: o oferecer a outra face deve estar no coração." }
+      ],
+      "nota": null
+    },
+    "5:41": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "Os soldados romanos podiam requisitar um civil para carregar a bagagem por uma milha (mil passos). Foi o que aconteceu a Simão de Cirene.", "origem": "ia" }
+    },
+    "5:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Doctr. Christ. 1, 30", "catena": "5:43–48#1", "sintese": "Por próximo entende-se todo o gênero humano: todo aquele que, em qualquer momento, possa precisar dos nossos serviços." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 21", "catena": "5:43–48#2", "sintese": "Havia graus: muitos odiavam até os que os amavam; quem ama o próximo, embora ainda odeie o inimigo, já subiu um degrau." }
+      ],
+      "nota": null
+    },
+    "5:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:43–48#12", "sintese": "Nove degraus levam ao cume: não fazer mal, contentar-se com o igual, não retribuir, não resistir, sofrer mais, não odiar, amar, fazer o bem e orar pelo inimigo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,60 @@
+{
+  "id": "MAT.6.1",
+  "livro": "MAT",
+  "titulo": "A esmola em segredo",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 6,1-4",
+  "ini": { "c": 6, "v": 1 },
+  "fim": { "c": 6, "v": 4 },
+  "liturgia": { "tema_central": "O Pai, que vê no segredo, recompensa a esmola feita sem ostentação", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois das antíteses, Jesus trata das três grandes obras de piedade judaica: esmola, oração e jejum (6,1-18). O princípio geral: não praticar a justiça “para ser visto”, senão perde-se a recompensa do Pai. Sobre a esmola, não “tocar a trombeta”, imagem irônica da ostentação (talvez alusão aos cofres em forma de trombeta do Templo, ou aos anúncios públicos de grandes doadores). Os “hipócritas” (atores de teatro, em grego) representam a piedade diante do público, e o aplauso já é toda a sua recompensa. A mão esquerda que não sabe o que faz a direita é hipérbole: a discrição total.",
+    "alegorico": "O Pai “que vê no segredo” é o Deus que perscruta os corações. Cristo, que esvaziou a si mesmo e escondeu a sua glória na humildade da carne, é o modelo da caridade sem ostentação. A recompensa do Pai é Ele mesmo.",
+    "moral": "O desejo de fama é vizinho da virtude e a contamina às ocultas, como um animal que entra sem ser percebido e leva tudo. É difícil não se comprazer no louvor quando é oferecido. O mal não é ser visto, mas fazer disso o fim. Se queres espectadores das tuas boas obras, tens os anjos e o próprio Deus. A caridade verdadeira busca o bem do pobre e o olhar de Deus.",
+    "anagogico": "O que é feito em segredo por amor de Deus será recompensado à luz do dia eterno. A esmola escondida acumula um tesouro no céu, que será revelado no Juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Guardai-vos de praticar as vossas boas obras diante dos homens para serdes vistos por eles; do contrário, não tereis recompensa do vosso Pai que está nos céus. Quando deres esmola, não toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem louvados pelos homens. Em verdade vos digo: já receberam a sua recompensa. Tu, porém, quando deres esmola, não saiba a tua mão esquerda o que faz a direita, para que a tua esmola fique em segredo; e o teu Pai, que vê no segredo, te recompensará”.",
+    "meditatio_perguntas": [
+      "Busco reconhecimento quando faço o bem?",
+      "Pratico a esmola e a caridade com regularidade e discrição?",
+      "Contento-me com o olhar do Pai, que vê no segredo?"
+    ],
+    "oratio_guia": "Pai, que vês no segredo, purifica as minhas intenções. Livra-me da vaidade que busca o louvor dos homens. Ensina-me a dar com generosidade e discrição, contente só com o teu olhar. Amém.",
+    "contemplatio_foco": { "texto": "Teu Pai, que vê (o que fazes) em segredo, te pagará.", "ref": "Mt 6,4" }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 19", "catena": "6:1#1", "sintese": "O desejo de fama é quase vizinho da virtude." },
+        { "autor": "Santo Agostinho", "obra": "Próspero, Sent. 318", "catena": "6:1#3", "sintese": "É fácil não desejar o louvor quando é negado; difícil é não se comprazer nele quando é oferecido." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:1#4", "sintese": "A vanglória é como um animal difícil de discernir: entra às ocultas e leva, sem que se perceba, tudo o que está dentro." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 1", "catena": "6:1#7", "sintese": "Não proíbe ser visto, mas fazer de ser visto pelos homens o fim das nossas ações." }
+      ],
+      "nota": null
+    },
+    "6:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 2", "catena": "6:2–4#0", "sintese": "Acima falara da justiça em geral; agora trata dela em suas diversas partes." }
+      ],
+      "nota": { "texto": "“Hipócrita” significava em grego o ator de teatro, que representa um papel diante do público.", "origem": "ia" }
+    },
+    "6:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:2–4#13", "sintese": "É hipérbole: se fosse possível, nem tu mesmo o saibas, e fique escondido até das tuas mãos." }
+      ],
+      "nota": null
+    },
+    "6:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:2–4#18", "sintese": "Se desejas espectadores das tuas boas obras, tens não só anjos e arcanjos, mas o Deus do universo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

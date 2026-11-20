@@ -1,0 +1,104 @@
+{
+  "id": "MAT.6.5",
+  "livro": "MAT",
+  "titulo": "A oração e o Pai-nosso",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 6,5-15",
+  "ini": { "c": 6, "v": 5 },
+  "fim": { "c": 6, "v": 15 },
+  "liturgia": { "tema_central": "“Pai nosso, que estás nos céus”: a oração que o Senhor nos ensinou", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus corrige dois desvios da oração: a ostentação dos hipócritas, que rezam para serem vistos, e a verbosidade dos pagãos, que pensam convencer os deuses pela multidão de palavras. A oração autêntica é filial e confiante: no “quarto” (o depósito interno da casa, o único cômodo com porta), diante do Pai que já sabe do que precisamos. No centro do Sermão, Jesus ensina o Pai-nosso: três petições pela glória de Deus (o nome, o Reino, a vontade) e quatro pelas nossas necessidades (o pão, o perdão, a tentação, o mal). O comentário final sublinha a petição do perdão: o perdão de Deus está ligado ao nosso perdão aos irmãos.",
+    "alegorico": "O Pai-nosso é o resumo de todo o Evangelho (Tertuliano). Só o Filho pode ensinar a chamar Deus de “Pai”: rezando-o, participamos da sua filiação. O “pão de cada dia” foi entendido pelos Padres também como o Pão eucarístico e a Palavra de Deus. O quarto fechado é o coração recolhido, onde o Pai habita.",
+    "moral": "Rezar não é informar a Deus, mas mover-nos para Ele: tornar-nos seus amigos pela insistência, humilhar-nos, lembrar os nossos pecados. Não é a duração que se condena, mas o palavreado: uma coisa é falar muito, outra um fervor prolongado. O Pai-nosso ensina a ordem dos desejos: primeiro Deus, depois nós. E nos ensina a rezar no plural, por todos. A petição do perdão é a mais recomendada: quem não perdoa não pode ser perdoado.",
+    "anagogico": "“Venha o teu Reino”: o Reino virá, queiramos ou não; ao pedi-lo, acendemos o desejo de reinar com Ele. As três primeiras petições começam aqui e serão possuídas perfeitamente na vida eterna, quando o nome de Deus for santificado por todos e a sua vontade feita na terra como no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando orardes, não sejais como os hipócritas, que gostam de orar nas sinagogas e nas praças para serem vistos. Tu, quando orares, entra no teu quarto, fecha a porta e ora a teu Pai em segredo; e o teu Pai, que vê no segredo, te recompensará. Nas orações, não useis muitas palavras como os gentios; o vosso Pai sabe do que precisais antes de lho pedirdes. Orai assim: Pai nosso, que estás nos céus, santificado seja o teu nome; venha o teu Reino; seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa-nos as nossas ofensas, assim como nós perdoamos aos que nos ofenderam; e não nos deixes cair em tentação, mas livra-nos do mal”.",
+    "meditatio_perguntas": [
+      "Tenho um “quarto” interior onde rezo ao Pai em segredo cada dia?",
+      "Rezo o Pai-nosso com atenção às palavras ou mecanicamente?",
+      "Há alguém a quem preciso perdoar para poder rezar “assim como nós perdoamos”?"
+    ],
+    "oratio_guia": "Pai nosso, que estás nos céus, ensina-me a rezar como teu filho. Que o teu nome seja santificado na minha vida, que venha o teu Reino e se faça a tua vontade. Dá-me o pão de cada dia, perdoa-me como eu perdoo, e livra-me do mal. Amém.",
+    "contemplatio_foco": { "texto": "Pai nosso, que estás nos céus, santificado seja o teu nome.", "ref": "Mt 6,9" }
+  },
+  "ancoras": {
+    "6:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:5–6#3", "sintese": "Chama-os hipócritas porque, fingindo orar a Deus, olham para os homens." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:5–6#8", "sintese": "É bom afastar sempre a vanglória, mas sobretudo na oração: se rezamos com essa doença, como entenderemos o que dizemos?" }
+      ],
+      "nota": null
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:5–6#21", "sintese": "Não disse “te dará de graça”, mas “te recompensará”: assim se constitui teu devedor." }
+      ],
+      "nota": null
+    },
+    "6:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 130, 10", "catena": "6:7–8#2", "sintese": "Demorar-se longamente na oração não é multiplicar palavras: uma coisa é falar muito, outra um fervor duradouro; o Senhor passou noites em oração." }
+      ],
+      "nota": null
+    },
+    "6:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:7–8#9", "sintese": "Não oras para ensinar a Deus os teus desejos, mas para movê-lo, tornar-te seu amigo pela insistência, humilhar-te e lembrar os teus pecados." }
+      ],
+      "nota": null
+    },
+    "6:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:9#4", "sintese": "Quem chama a Deus Pai confessa nesse título o perdão dos pecados, a adoção, a herança e a fraternidade com o Unigênito." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:9#10", "sintese": "“Nos céus” não limita a presença de Deus, mas tira da terra os pensamentos de quem ora e os fixa no alto." }
+      ],
+      "nota": null
+    },
+    "6:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 130, 11", "catena": "6:10#4", "sintese": "O Reino virá, queiramos ou não; ao pedi-lo acendemos o desejo de que venha a nós e nele reinemos." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:10#10", "sintese": "Antes de chegarmos ao céu, manda-nos fazer desta terra um céu: “seja feita a tua vontade, assim na terra como no céu”." }
+      ],
+      "nota": null
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Enchir. 115", "catena": "6:11#0", "sintese": "As três primeiras petições começam na terra e serão possuídas perfeitamente na outra vida; as quatro restantes pedem bens temporais necessários a esta vida." }
+      ],
+      "nota": { "texto": "“De cada dia” traduz o grego epiousios, palavra rara, que pode significar “necessário”, “do dia que vem” ou “supersubstancial” (Vulgata em Mt). Por isso os Padres a leram também em sentido eucarístico.", "origem": "ia" }
+    },
+    "6:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:12#2", "sintese": "Mandando aos fiéis pedir perdão, mostra que também depois do batismo os pecados podem ser perdoados." }
+      ],
+      "nota": null
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 130, 11", "catena": "6:13#4", "sintese": "Pedimos que, privados do seu auxílio, não consintamos em tentação alguma, nem enganados pelas suas ciladas, nem vencidos pela sua força." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "6:13#3", "sintese": "Uma coisa é ser tentado, outra ser induzido em tentação: sem tentação ninguém é provado." }
+      ],
+      "nota": null
+    },
+    "6:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 11", "catena": "6:14–15#1", "sintese": "De todas as petições, o Senhor quis recomendar mais a do perdão, pela qual nos quer misericordiosos, único meio de escapar às misérias." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:14–15#6", "sintese": "Nada nos torna tão semelhantes a Deus como perdoar a quem nos ofendeu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

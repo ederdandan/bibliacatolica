@@ -1,0 +1,79 @@
+{
+  "id": "MAT.6.25",
+  "livro": "MAT",
+  "titulo": "A confiança na Providência",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 6,25-34",
+  "ini": { "c": 6, "v": 25 },
+  "fim": { "c": 6, "v": 34 },
+  "liturgia": { "tema_central": "Buscai primeiro o Reino de Deus, e tudo o mais vos será dado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Consequência de servir a um só Senhor: libertar-se da ansiedade. Jesus não proíbe o trabalho nem a previdência, mas a preocupação angustiada (o parêntese “demasiadamente” de Matos Soares sublinha isto). Dois exemplos tirados da natureza galileia: as aves, alimentadas pelo Pai, e os lírios (as flores silvestres que cobrem os campos na primavera), mais belos que Salomão. A erva seca era usada como combustível nos fornos. Os gentios vivem dominados por estas preocupações; os filhos têm um Pai que sabe do que precisam. A ordem justa: primeiro o Reino e a sua justiça; o resto vem por acréscimo. Cada dia basta o seu cuidado.",
+    "alegorico": "O Pai que alimenta as aves e veste os lírios é o mesmo que deu à Igreja o Pão do céu e a veste da graça. Cristo, que não tinha onde reclinar a cabeça, viveu inteiramente abandonado ao Pai: é o modelo da confiança filial.",
+    "moral": "Não se proíbe o trabalho, mas a inquietação; as aves não semeiam, mas também não acumulam em celeiros, contra os que querem mãos ociosas e celeiros cheios. O homem vale mais que as aves pela dignidade da razão. A ansiedade é falta de fé (“homens de pouca fé”). Buscar primeiro o Reino ordena todos os outros cuidados. Viver um dia de cada vez liberta do peso do futuro.",
+    "anagogico": "As coisas presentes são nada em comparação com as futuras: por isso diz “serão acrescentadas”. O Reino buscado agora será possuído plenamente, quando Deus mesmo for o nosso alimento e a nossa veste de glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não vos preocupeis com a vossa vida, com o que haveis de comer, nem com o vosso corpo, com o que haveis de vestir. Olhai as aves do céu: não semeiam nem ceifam, e o vosso Pai celeste as alimenta. Não valeis vós muito mais do que elas? Considerai os lírios do campo: não trabalham nem fiam, e nem Salomão em toda a sua glória se vestiu como um deles. Se Deus veste assim a erva do campo, quanto mais a vós, homens de pouca fé! O vosso Pai sabe que precisais de tudo isso. Buscai primeiro o Reino de Deus e a sua justiça, e todas estas coisas vos serão dadas por acréscimo. A cada dia basta o seu cuidado”.",
+    "meditatio_perguntas": [
+      "Que preocupação me tira hoje a paz e a confiança no Pai?",
+      "O Reino de Deus vem de fato em primeiro lugar nas minhas escolhas?",
+      "Consigo viver o “hoje” sem ser esmagado pelo amanhã?"
+    ],
+    "oratio_guia": "Pai do céu, que alimentas as aves e vestes os lírios, entrego-te as minhas preocupações. Aumenta a minha fé, pequena e inquieta. Que eu busque primeiro o teu Reino e confie em ti para o resto, vivendo cada dia nas tuas mãos. Amém.",
+    "contemplatio_foco": { "texto": "Buscai, pois, em primeiro lugar, o reino de Deus e a sua justiça.", "ref": "Mt 6,33" }
+  },
+  "ancoras": {
+    "6:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:25#6", "sintese": "Para que ninguém dissesse “como viveremos, se renunciarmos a tudo?”, acrescenta: não vos preocupeis com a vossa vida." }
+      ],
+      "nota": null
+    },
+    "6:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Op. Monach. 23", "catena": "6:26–27#1", "sintese": "Alguns não querem trabalhar porque as aves não semeiam; mas as aves também não ajuntam em celeiros: por que querer mãos ociosas e celeiros cheios?" },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 15", "catena": "6:26–27#2", "sintese": "Valeis mais, porque o animal racional está num grau mais elevado da natureza do que as aves." }
+      ],
+      "nota": null
+    },
+    "6:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:28–30#3", "sintese": "Não proíbe o trabalho, mas a inquietação." }
+      ],
+      "nota": null
+    },
+    "6:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:28–30#6", "sintese": "Se Salomão, o mais eminente dos reis, foi superado pelas flores, como superarás tu com as tuas vestes a beleza das flores?" }
+      ],
+      "nota": null
+    },
+    "6:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:31–33#5", "sintese": "Não disse “Deus sabe”, mas “vosso Pai sabe”: se é Pai, não esquecerá os filhos, o que nem os pais humanos fazem." }
+      ],
+      "nota": null
+    },
+    "6:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:31–33#13", "sintese": "Não disse “serão dadas”, mas “acrescentadas”, para que aprendas que as coisas presentes são nada diante das futuras." }
+      ],
+      "nota": null
+    },
+    "6:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:34#2", "sintese": "Nada causa tanta dor à alma como a inquietação e a angústia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

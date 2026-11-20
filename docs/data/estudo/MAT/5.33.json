@@ -1,0 +1,51 @@
+{
+  "id": "MAT.5.33",
+  "livro": "MAT",
+  "titulo": "Os juramentos",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,33-37",
+  "ini": { "c": 5, "v": 33 },
+  "fim": { "c": 5, "v": 37 },
+  "liturgia": { "tema_central": "Seja o vosso falar: sim, sim; não, não", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Quarta antítese. A Lei proibia o perjúrio e mandava cumprir os votos feitos ao Senhor (Lv 19,12; Nm 30,3). Na prática, multiplicavam-se juramentos por coisas criadas (céu, terra, Jerusalém, a própria cabeça) para evitar pronunciar o nome divino e, às vezes, para escapar ao compromisso. Jesus mostra que todas essas coisas se referem a Deus (o céu é o seu trono, a terra o seu escabelo, Jerusalém a cidade do grande Rei) e pede uma palavra tão verdadeira que dispense juramentos: “sim, sim; não, não”. O acréscimo “sem motivo justo”, entre parênteses em Matos Soares, reflete a interpretação da Igreja: o juramento não é mau em si quando feito com verdade, juízo e justiça.",
+    "alegorico": "Cristo é o “Amém”, a testemunha fiel e verdadeira (Ap 3,14), em quem todas as promessas de Deus são “sim” (2Cor 1,19-20). A palavra do discípulo deve participar dessa fidelidade. O mundo, com o céu e a terra, é visto não como ídolo, mas em relação a Deus, seu Criador e Rei.",
+    "moral": "A veracidade habitual torna o juramento desnecessário. Quem não costuma jurar está mais longe do perjúrio do que quem jura a todo momento. A necessidade de juramentos nasce da fraqueza e da desconfiança humanas, do “mal”. O cristão deve ser conhecido por cumprir a palavra dada. Juramentos solenes só se justificam por causa grave.",
+    "anagogico": "No Reino, onde não haverá mentira, toda palavra será verdadeira e todo “sim” será fiel. A veracidade de agora prepara a comunhão com Deus, que é a própria Verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvistes que foi dito aos antigos: Não perjurarás, mas cumprirás para com o Senhor os teus juramentos. Eu, porém, vos digo: não jureis de modo algum: nem pelo céu, porque é o trono de Deus; nem pela terra, porque é o escabelo dos seus pés; nem por Jerusalém, porque é a cidade do grande Rei. Nem jures pela tua cabeça, porque não podes tornar um só cabelo branco ou preto. Seja o vosso falar: sim, sim; não, não. O que passa disso vem do Maligno”.",
+    "meditatio_perguntas": [
+      "A minha palavra é confiável, ou preciso de reforços para ser acreditado?",
+      "Cumpro as promessas e os compromissos que assumo?",
+      "Uso o nome de Deus ou coisas sagradas com leviandade?"
+    ],
+    "oratio_guia": "Senhor Jesus, testemunha fiel e verdadeira, dá-me uma palavra simples e veraz. Que o meu “sim” seja sim, e o meu “não” seja não. Livra-me da mentira e da leviandade com as coisas santas. Amém.",
+    "contemplatio_foco": { "texto": "Seja o vosso falar: Sim, sim; não, não.", "ref": "Mt 5,37" }
+  },
+  "ancoras": {
+    "5:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. 19, 23", "catena": "5:33–37#3", "sintese": "Está mais longe do perjúrio quem não costuma jurar; o Senhor preferiu que, sem jurar, ficássemos perto da verdade." }
+      ],
+      "nota": null
+    },
+    "5:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 17", "catena": "5:33–37#4", "sintese": "Quem não jura não pode perjurar; mas não se pense que o Apóstolo viola o mandamento quando invoca Deus por testemunha." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:33–37#9", "sintese": "Exalta os elementos do mundo não pela sua natureza, mas pela relação com Deus, para não dar ocasião à idolatria." }
+      ],
+      "nota": null
+    },
+    "5:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:33–37#14", "sintese": "“Do mal”: da fraqueza daqueles a quem a Lei permitia o juramento; não que a Lei antiga viesse do diabo, mas Ele nos leva da imperfeição antiga à nova plenitude." }
+      ],
+      "nota": { "texto": "A Igreja admite o juramento feito com verdade, juízo e justiça, por causa grave (como nos tribunais), mas condena o juramento falso ou fútil.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
