@@ -6,7 +6,7 @@ import * as L from './liturgy.js';
 import * as ST from './study.js';
 import { trackView, trackEvent } from './analytics.js';
 
-const APP_VERSION = '1.3.0';
+const APP_VERSION = '1.6.0';
 
 // ---------- Utilidades ----------
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -28,16 +28,15 @@ const HL = [
 ];
 const STYLES = [
   { id: 'auto', name: 'Automático', bg: 'linear-gradient(135deg,#f4f2fb 50%,#0b1020 50%)', bars: ['#6a3fd1', '#f5b544', '#0b7a5c'] },
-  { id: 'vitral', name: 'Vitral', bg: '#f4f2fb', bars: ['#2b57d9', '#c8323c', '#0b7a5c'] },
-  { id: 'noturno', name: 'Noturno', bg: '#0b1020', bars: ['#1e2640', '#f5b544', '#1e2640'] },
+  { id: 'vitral', name: 'Claro', bg: '#f4f2fb', bars: ['#2b57d9', '#c8323c', '#0b7a5c'] },
+  { id: 'noturno', name: 'Escuro', bg: '#0b1020', bars: ['#1e2640', '#f5b544', '#1e2640'] },
 ];
-// Cores de destaque: litúrgicas + automáticas. "hex" só ilustra a amostra.
+// Cores fixas (litúrgicas). "hex" só ilustra a amostra. A opção padrão é
+// "Tempo litúrgico", que troca a cor sozinha ao longo do ano.
 const COLORS = [
-  { id: 'liturgical', name: 'Tempo litúrgico' },
-  { id: 'style', name: 'Padrão do estilo' },
   { id: 'verde', name: 'Verde', hex: '#0b7a5c' },
   { id: 'roxo', name: 'Roxo', hex: '#6a3fd1' },
-  { id: 'dourado', name: 'Branco/Dourado', hex: '#f5e6b8' },
+  { id: 'dourado', name: 'Dourado', hex: '#d9a520' },
   { id: 'vermelho', name: 'Vermelho', hex: '#c8323c' },
   { id: 'rosa', name: 'Rosa', hex: '#e58fb6' },
 ];
@@ -218,6 +217,62 @@ function quote(b, c, vs, texts) {
   return `“${txt}”\n— ${B.fmtRef(b, c, sorted, { long: true })} (Bíblia Matos Soares)`;
 }
 
+// ---------- Posição de rolagem por entrada do histórico ----------
+// Cada entrada do histórico recebe um id (history.state.k). Ao voltar/avançar
+// para uma entrada já visitada, a tela volta exatamente para onde estava.
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+const SCROLL_KEY = 'biblia:scroll';
+let scrollMap = {};
+try {
+  scrollMap = JSON.parse(sessionStorage.getItem(SCROLL_KEY)) || {};
+} catch {
+  /* sem armazenamento */
+}
+let entryId = null;
+let trackScroll = false;
+let navY = null; // posição a restaurar na navegação atual (null = navegação nova)
+let scrollSaveTimer;
+
+window.addEventListener(
+  'scroll',
+  () => {
+    if (!trackScroll || !entryId) return;
+    delete scrollMap[entryId]; // reinsere no fim: as mais antigas saem primeiro
+    scrollMap[entryId] = Math.round(scrollY);
+    clearTimeout(scrollSaveTimer);
+    scrollSaveTimer = setTimeout(() => {
+      const keys = Object.keys(scrollMap);
+      for (const k of keys.slice(0, Math.max(0, keys.length - 150))) delete scrollMap[k];
+      try {
+        sessionStorage.setItem(SCROLL_KEY, JSON.stringify(scrollMap));
+      } catch {
+        /* sem armazenamento */
+      }
+    }, 300);
+  },
+  { passive: true },
+);
+
+function enterEntry() {
+  let id = history.state?.k;
+  const y = id != null && id in scrollMap ? scrollMap[id] : null;
+  if (id == null) {
+    id = `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`;
+    history.replaceState({ ...(history.state || {}), k: id }, '');
+  }
+  entryId = id;
+  return y;
+}
+
+// Links com data-replace (abas, filtros) trocam a tela sem criar entrada no
+// histórico: o "voltar" sai da página em vez de percorrer as abas.
+document.addEventListener('click', (e) => {
+  const a = e.target.closest('a[data-replace]');
+  if (!a || e.defaultPrevented || e.button || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+  e.preventDefault();
+  location.replace(a.getAttribute('href'));
+});
+
 // ---------- Roteador ----------
 let routeAbort = null;
 let ttsAutoNext = false;
@@ -248,10 +303,12 @@ async function route() {
   body.classList.remove('immersive');
   if (!ttsAutoNext) stopTTS();
   setWake(false);
+  trackScroll = false;
+  navY = enterEntry();
   const { parts, q } = parseHash();
   const [name, a, b, c] = parts;
   const keepScroll = name === 'ler' || name === 'buscar';
-  if (!keepScroll) window.scrollTo(0, 0);
+  if (!keepScroll && navY == null) window.scrollTo(0, 0);
   try {
     switch (name) {
       case undefined:
@@ -286,12 +343,18 @@ async function route() {
       default:
         notFound();
     }
+    if (signal.aborted) return;
+    if (navY != null) {
+      holdImmersive = Date.now() + 800;
+      window.scrollTo(0, navY);
+    }
   } catch (e) {
     if (signal.aborted) return;
     console.error(e);
     view.innerHTML = `<div class="page"><div class="empty"><p>Não foi possível carregar este conteúdo.</p>
       <p class="small">${esc(e.message)}</p><p><button class="btn" type="button" onclick="location.reload()">Tentar novamente</button></p></div></div>`;
   }
+  trackScroll = true;
 }
 
 function notFound() {
@@ -383,10 +446,6 @@ async function homeView(signal) {
       ${days ? `<span class="streak" title="Dias seguidos de leitura">${icon('flame', 'ic sm')}${plural(days, 'dia', 'dias')}</span>` : ''}
     </div>
     <p class="season"><i style="background:${SEASON_HEX[season.color]}"></i>${esc(season.name)} · cor ${esc(L.COLOR_NAMES[season.color].toLowerCase())}</p>
-    <form class="searchbox" id="home-search" role="search">
-      ${icon('search')}
-      <input type="search" name="q" placeholder="Palavra ou referência (ex.: Jo 3,16)" aria-label="Buscar ou ir para referência" autocomplete="off" enterkeyhint="search">
-    </form>
 
     <a class="continue" href="${last ? readHash(last.b, last.c) : readHash('GEN', 1)}">
       <svg class="ring" width="56" height="56" viewBox="0 0 56 56" aria-hidden="true">
@@ -396,6 +455,8 @@ async function homeView(signal) {
       <span><small>${last ? `Continuar · ${esc(lastBook.group)}` : 'Começar a ler'}</small><b>${last ? `${esc(lastBook.name)} ${last.c}` : 'Gênesis 1'}</b></span>
       <span class="go">${icon('right')}</span>
     </a>
+
+    ${studyCardHtml(st)}
 
     <section class="card votd">
       <p class="eyebrow">Versículo do dia</p>
@@ -434,12 +495,10 @@ async function homeView(signal) {
             .join('')}</div>`
         : ''
     }
+
+    <a class="card home-foot" href="#/ajustes">${icon('settings')}<span><b>Ajustes</b><small>Tema, cor, letra, voz, uso offline e backup</small></span>${icon('right')}</a>
   </div>`;
 
-  $('#home-search').addEventListener('submit', (e) => {
-    e.preventDefault();
-    submitQuery(e.target.q.value);
-  });
   view.addEventListener(
     'click',
     (e) => {
@@ -462,12 +521,16 @@ async function homeView(signal) {
   );
 }
 
-function submitQuery(text) {
-  const q = text.trim();
-  if (!q) return;
-  const ref = B.parseRef(q);
-  if (ref && ref.explicitChapter) go(readHash(ref.b, ref.c, ref.v));
-  else go(`#/buscar?q=${encodeURIComponent(q)}`);
+// Estudo por perícopes: retoma a última perícope ou sugere um ponto de partida.
+function studyCardHtml(st) {
+  const ls = st.lastStudy && B.book(st.lastStudy.b) ? st.lastStudy : null;
+  const href = ls ? `#/estudo/${ls.b}/${ls.c}/${ls.v}` : '#/estudo/MAT/5/1';
+  return `<a class="card study-card" href="${href}">
+    <span class="study-ic">${icon('book')}</span>
+    <span><small>${ls ? 'Continuar estudo' : 'Estudo por perícopes'}</small>
+      <b>${ls ? esc(ls.t) : 'Comece pelas Bem-aventuranças'}</b>
+      <small>${ls ? esc(ls.r || `${B.book(ls.b).name} ${ls.c},${ls.v}`) : 'Quatro sentidos, Lectio Divina e os Padres · Mt 5,1-12'}</small></span>
+    ${icon('right')}</a>`;
 }
 
 // ---------- Livros ----------
@@ -634,6 +697,7 @@ async function studyView(id, c, v, q, signal) {
   if (!loc) return notFound();
   const per = loc.cur;
   if (per.ini.c !== c || per.ini.v !== v) return location.replace(studyHash(id, per.ini));
+  S.update((s) => (s.lastStudy = { b: id, c: per.ini.c, v: per.ini.v, t: per.titulo, r: per.referencia }), { silent: true });
 
   const chs = [];
   for (let k = per.ini.c; k <= per.fim.c; k++) chs.push(k);
@@ -679,7 +743,7 @@ async function studyView(id, c, v, q, signal) {
     const Lc = d.lectio_divina || {};
     content = `<ol class="lectio">
       <li><h3>Lectio <small>o que o texto diz · leia devagar, duas vezes</small></h3><p>${esc(Lc.lectio_resumo)}</p>
-        <a class="small" href="#/estudo/${id}/${c}/${v}">Ler o texto da perícope</a></li>
+        <a class="small" href="#/estudo/${id}/${c}/${v}" data-replace>Ler o texto da perícope</a></li>
       <li><h3>Meditatio <small>o que o texto me diz</small></h3><ul>${(Lc.meditatio_perguntas || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul></li>
       <li><h3>Oratio <small>o que eu digo a Deus</small></h3><p>${esc(Lc.oratio_guia)}</p></li>
       <li><h3>Contemplatio <small>repouse em silêncio, repetindo</small></h3>
@@ -705,7 +769,7 @@ async function studyView(id, c, v, q, signal) {
     ${d?.liturgia?.tema_central ? `<p class="study-tema">${esc(d.liturgia.tema_central)}</p>` : ''}
     ${usos.length ? `<div class="chips">${usos.map((u) => `<span class="chip"><span class="dot" style="background:${LIT_HEX[u.cor] || 'var(--muted)'}"></span>${esc(u.celebracao)}</span>`).join('')}</div>` : ''}
     <nav class="tabs study-tabs" aria-label="Partes do estudo">${STUDY_TABS.map(
-      ([k, l]) => `<a href="${studyHash(id, per.ini, k)}"${k === tab ? ' aria-current="page"' : ''}>${l}</a>`,
+      ([k, l]) => `<a href="${studyHash(id, per.ini, k)}" data-replace${k === tab ? ' aria-current="page"' : ''}>${l}</a>`,
     ).join('')}</nav>
     <div class="study-body">${content}</div>
     ${d && !d.revisado ? '<p class="small muted study-flag">Conteúdo preparado com auxílio de IA a partir da Tradição; ainda sem revisão.</p>' : ''}
@@ -795,7 +859,9 @@ async function readerView(id, c, v, signal) {
   S.addHistory(id, c);
 
   holdImmersive = Date.now() + 800; // rolagem automática não deve esconder as barras
-  if (v) {
+  if (navY != null) {
+    // Voltando a esta tela: route() restaura a posição exata.
+  } else if (v) {
     const el = $(`#v${v}`);
     if (el) {
       el.scrollIntoView({ block: 'center' });
@@ -1210,25 +1276,27 @@ function segHtml(key, options, value) {
     .join('')}</div>`;
 }
 
-function displayControlsHtml() {
+// full = Ajustes (estilo em cartões + cor); senão, painel rápido do leitor.
+function displayControlsHtml(full) {
   const s = S.settings();
   const season = L.season();
-  return `
-    <p class="eyebrow">Estilo</p>
-    <div class="styles" role="group" aria-label="Estilo">${STYLES.map(
+  const styleHtml = full
+    ? `<p class="eyebrow">Tema</p>
+    <div class="styles" role="group" aria-label="Tema">${STYLES.map(
       (t) => `<button class="style-opt" type="button" data-style-opt="${t.id}" aria-pressed="${s.theme === t.id}">
         <span class="sample" style="background:${t.bg}" aria-hidden="true">${t.bars.map((c) => `<i style="background:${c}"></i>`).join('')}</span>${t.name}</button>`,
     ).join('')}</div>
-    <p class="small muted" style="margin:8px 0 0">Automático usa o Vitral de dia e o Noturno quando o aparelho está no modo escuro.</p>
+    <p class="small muted" style="margin:8px 0 0">Automático segue o modo claro/escuro do aparelho.</p>
     <p class="eyebrow" style="margin-top:20px">Cor</p>
-    <div class="colors" role="group" aria-label="Cor de destaque">${COLORS.map((c) => {
-      const hex = c.id === 'liturgical' ? SEASON_HEX[season.color] : c.hex;
-      const dot = hex
-        ? `<span class="dot" style="background:${hex}"></span>`
-        : '<span class="dot" style="background:conic-gradient(#6a3fd1 0 50%,#f5b544 0)"></span>';
-      return `<button class="color-opt" type="button" data-color-opt="${c.id}" aria-pressed="${s.color === c.id}">${dot}${c.name}</button>`;
-    }).join('')}</div>
-    <p class="small muted" style="margin:8px 0 4px">Hoje: ${esc(season.name)} (${esc(L.COLOR_NAMES[season.color].toLowerCase())}). Com “Tempo litúrgico”, a cor muda sozinha ao longo do ano.</p>
+    <button class="color-opt lit" type="button" data-color-opt="liturgical" aria-pressed="${s.color === 'liturgical'}">
+      <span class="dot" style="background:${SEASON_HEX[season.color]}"></span>
+      <span><b>Tempo litúrgico</b><small>Muda sozinha ao longo do ano · hoje: ${esc(season.name)} (${esc(L.COLOR_NAMES[season.color].toLowerCase())})</small></span></button>
+    <p class="small muted" style="margin:12px 0 0">Ou escolha uma cor fixa:</p>
+    <div class="colors" role="group" aria-label="Cor fixa">${COLORS.map(
+      (c) => `<button class="color-opt" type="button" data-color-opt="${c.id}" aria-pressed="${s.color === c.id}"><span class="dot" style="background:${c.hex}"></span>${c.name}</button>`,
+    ).join('')}</div>`
+    : `<div class="setting"><div class="label">Tema</div>${segHtml('theme', STYLES.map((t) => [t.id, t.name]), s.theme)}</div>`;
+  return `${styleHtml}
     <div class="setting"><div class="label">Tamanho da letra</div>
       <div class="stepper">
         <button class="btn" type="button" data-step="-1" aria-label="Diminuir letra">A−</button>
@@ -1240,15 +1308,16 @@ function displayControlsHtml() {
         .map(([k, f]) => `<option value="${k}"${s.fontFamily === k ? ' selected' : ''}>${f.name}</option>`)
         .join('')}</select></div>
     <div class="setting"><div class="label">Entrelinhas</div>${segHtml('lineHeight', [[1.45, 'Compacto'], [1.7, 'Normal'], [2, 'Amplo']], s.lineHeight)}</div>
-    <div class="setting"><div class="label">Largura</div>${segHtml('width', [['narrow', 'Estreita'], ['medium', 'Média'], ['wide', 'Larga']], s.width)}</div>
+    <div class="setting wide-only"><div class="label">Largura</div>${segHtml('width', [['narrow', 'Estreita'], ['medium', 'Média'], ['wide', 'Larga']], s.width)}</div>
     <div class="setting"><div class="label">Disposição<small>Um versículo por linha ou texto corrido</small></div>${segHtml('layout', [['verses', 'Versículos'], ['paragraph', 'Corrido']], s.layout)}</div>
     <label class="setting"><span class="label">Números dos versículos</span><input type="checkbox" data-set="verseNumbers"${s.verseNumbers ? ' checked' : ''}></label>
     <label class="setting"><span class="label">Texto justificado</span><input type="checkbox" data-set="justify"${s.justify ? ' checked' : ''}></label>
-    <div class="preview"><sup class="vn">1</sup>No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus.</div>`;
+    <div class="preview"><sup class="vn">1</sup>No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus.</div>
+    ${full ? '' : '<p class="small" style="margin:4px 0 0"><a href="#/ajustes">Cor, voz e outros ajustes</a></p>'}`;
 }
 
-function bindDisplayControls(el) {
-  const rerender = () => (el.innerHTML = displayControlsHtml());
+function bindDisplayControls(el, full = false) {
+  const rerender = () => (el.innerHTML = displayControlsHtml(full));
   rerender();
   el.addEventListener('click', (e) => {
     const th = e.target.closest('[data-style-opt]');
@@ -1261,11 +1330,11 @@ function bindDisplayControls(el) {
     } else if (co) {
       S.update((s) => (s.settings.color = co.dataset.colorOpt));
       trackEvent(`aparencia/cor-${co.dataset.colorOpt}`);
-    }
-    else if (st) S.update((s) => (s.settings.fontSize = Math.min(34, Math.max(13, s.settings.fontSize + +st.dataset.step))));
+    } else if (st) S.update((s) => (s.settings.fontSize = Math.min(34, Math.max(13, s.settings.fontSize + +st.dataset.step))));
     else if (sg) {
       const raw = sg.dataset.val;
       S.update((s) => (s.settings[sg.dataset.seg] = isNaN(+raw) ? raw : +raw));
+      if (sg.dataset.seg === 'theme') trackEvent(`aparencia/estilo-${raw}`);
     } else return;
     rerender();
   });
@@ -1311,6 +1380,8 @@ async function searchView(q, signal) {
     <h1>Buscar</h1>
     <form id="search-form" role="search">
       <div class="searchbox">${icon('search')}<input type="search" name="q" value="${esc(query)}" placeholder="Palavras, frase ou referência (ex.: Mt 5,3)" aria-label="Buscar" autocomplete="off" enterkeyhint="search"></div>
+      <details class="search-more"${mode !== 'all' || scope !== 'all' || whole ? ' open' : ''}>
+      <summary>Opções de busca${mode !== 'all' || scope !== 'all' || whole ? ' (ativas)' : ''}</summary>
       <div class="search-opts">
         <select name="m" aria-label="Modo de busca">
           <option value="all"${mode === 'all' ? ' selected' : ''}>Todas as palavras</option>
@@ -1326,12 +1397,13 @@ async function searchView(q, signal) {
         </select>
         <label class="check"><input type="checkbox" name="w" value="1"${whole ? ' checked' : ''}> Somente palavras inteiras</label>
       </div>
+      </details>
     </form>
     <div id="search-out"></div>
   </div>`;
 
   const form = $('#search-form');
-  const submit = () => {
+  const submit = (replace = false) => {
     const fd = new FormData(form);
     const p = new URLSearchParams();
     const qq = String(fd.get('q') || '').trim();
@@ -1341,7 +1413,9 @@ async function searchView(q, signal) {
     if (fd.get('s') !== 'all') p.set('s', fd.get('s'));
     if (fd.get('w')) p.set('w', '1');
     document.activeElement?.blur();
-    go(`#/buscar?${p}`);
+    // Nova busca cria entrada no histórico; mudar só as opções substitui a atual.
+    if (replace && qq === query) location.replace(`#/buscar?${p}`);
+    else go(`#/buscar?${p}`);
   };
   form.addEventListener('submit', (e) => {
     e.preventDefault();
@@ -1349,12 +1423,12 @@ async function searchView(q, signal) {
     submit();
   });
   form.addEventListener('change', (e) => {
-    if (e.target.name !== 'q' && form.q.value.trim()) submit();
+    if (e.target.name !== 'q' && form.q.value.trim()) submit(true);
   });
 
   const out = $('#search-out');
   if (!query) {
-    form.q.focus();
+    if (navY == null) form.q.focus();
     const recent = S.get().searches;
     out.innerHTML = `${
       recent.length
@@ -1422,9 +1496,9 @@ async function searchView(q, signal) {
     ${
       counts.size > 1
         ? `<div class="chips facets">
-            <a class="chip${!only ? ' active' : ''}" href="${facetHref('')}">Todos <span class="count">${results.length}</span></a>
+            <a class="chip${!only ? ' active' : ''}" href="${facetHref('')}" data-replace>Todos <span class="count">${results.length}</span></a>
             ${[...counts]
-              .map(([b, n]) => `<a class="chip${only === b ? ' active' : ''}" href="${facetHref(b)}">${esc(B.book(b).abbrev)} <span class="count">${n}</span></a>`)
+              .map(([b, n]) => `<a class="chip${only === b ? ' active' : ''}" href="${facetHref(b)}" data-replace>${esc(B.book(b).abbrev)} <span class="count">${n}</span></a>`)
               .join('')}</div>`
         : ''
     }
@@ -1450,7 +1524,10 @@ async function searchView(q, signal) {
   };
   renderPage();
   more.addEventListener('click', renderPage);
-  if (!only) window.scrollTo(0, 0);
+  if (navY != null) {
+    // Voltando de um resultado: mostra páginas suficientes para restaurar a posição.
+    while (!more.hidden && document.documentElement.scrollHeight < navY + innerHeight) renderPage();
+  } else if (!only) window.scrollTo(0, 0);
 }
 
 // ---------- Salvos ----------
@@ -1474,7 +1551,7 @@ async function savedView(q, signal) {
   };
 
   const tabsHtml = `<nav class="tabs">${SAVED_TABS.map(
-    ([k, n]) => `<a href="#/salvos?tab=${k}"${k === tab ? ' aria-current="page"' : ''}>${n}</a>`,
+    ([k, n]) => `<a href="#/salvos?tab=${k}" data-replace${k === tab ? ' aria-current="page"' : ''}>${n}</a>`,
   ).join('')}</nav>`;
 
   if (tab === 'historico') {
@@ -1537,8 +1614,8 @@ async function savedView(q, signal) {
     </div>
     ${
       tab === 'destaques'
-        ? `<div class="chips" style="margin:10px 0"><a class="chip${!color ? ' active' : ''}" href="${link({ c: '' })}">Todas</a>${HL.map(
-            (h) => `<a class="chip${color === h.id ? ' active' : ''}" href="${link({ c: h.id })}"><span class="dot" style="display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--hl-${h.id});border:1px solid var(--border)"></span>${h.name}</a>`,
+        ? `<div class="chips" style="margin:10px 0"><a class="chip${!color ? ' active' : ''}" href="${link({ c: '' })}" data-replace>Todas</a>${HL.map(
+            (h) => `<a class="chip${color === h.id ? ' active' : ''}" href="${link({ c: h.id })}" data-replace><span class="dot" style="display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--hl-${h.id});border:1px solid var(--border)"></span>${h.name}</a>`,
           ).join('')}</div>`
         : ''
     }
@@ -1806,7 +1883,7 @@ async function settingsView(signal) {
     </div>
   </div>`;
 
-  bindDisplayControls($('#display-controls'));
+  bindDisplayControls($('#display-controls'), true);
 
   // Ajustes de leitura e voz.
   const fillVoices = () => {

@@ -5,7 +5,7 @@ const KEY = 'biblia:v1';
 
 export const DEFAULT_SETTINGS = {
   theme: 'auto', // auto | vitral | noturno
-  color: 'liturgical', // liturgical | style | verde | roxo | dourado | vermelho | rosa
+  color: 'liturgical', // liturgical | verde | roxo | dourado | vermelho | rosa
   fontSize: 19,
   fontFamily: 'style', // style | serif | classic | sans | readable
   lineHeight: 1.7,
@@ -31,6 +31,7 @@ const empty = () => ({
   plans: {}, // id: { start: 'YYYY-MM-DD', done: { [dia]: timestamp } }
   activePlan: null,
   searches: [], // buscas recentes
+  lastStudy: null, // { b, c, v, t, r } última perícope estudada (r = referência)
 });
 
 function load() {
@@ -50,6 +51,8 @@ function normalize(data) {
   // Temas antigos (claro/sépia/escuro/preto) viram os estilos atuais.
   const legacy = { light: 'vitral', sepia: 'vitral', dark: 'noturno', black: 'noturno' };
   if (legacy[out.settings.theme]) out.settings.theme = legacy[out.settings.theme];
+  // "Padrão do estilo" saiu das opções: passa a seguir o tempo litúrgico.
+  if (out.settings.color === 'style') out.settings.color = 'liturgical';
   for (const k of ['highlights', 'bookmarks', 'notes', 'read', 'plans']) {
     if (!out[k] || typeof out[k] !== 'object' || Array.isArray(out[k])) out[k] = {};
   }
