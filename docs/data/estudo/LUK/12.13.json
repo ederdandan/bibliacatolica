@@ -1,0 +1,135 @@
+{
+  "id": "LUK.12.13",
+  "livro": "LUK",
+  "titulo": "O rico insensato e a confiança na Providência",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 12,13-34",
+  "ini": { "c": 12, "v": 13 },
+  "fim": { "c": 12, "v": 34 },
+  "liturgia": { "tema_central": "Ser rico para Deus: buscar primeiro o Reino", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Alguém pede a Jesus que mande o irmão repartir a herança. Jesus recusa ser juiz ou árbitro e adverte: guardai-vos de toda avareza, pois a vida não depende dos bens. Conta a parábola do rico cujas terras produziram muito: ele resolve derrubar os celeiros e construir maiores, e diz à sua alma: “Descansa, come, bebe, regala-te”. Mas Deus diz-lhe: “Néscio, esta noite te pedirão a tua alma; e o que juntaste, para quem será?”. Assim é quem entesoura para si e não é rico para Deus. Aos discípulos, Jesus diz: não vos inquieteis pela vida nem pelo vestuário. Olhai os corvos, que Deus alimenta, e os lírios, mais bem vestidos que Salomão. O vosso Pai sabe do que precisais: buscai o seu Reino, e o resto vos será dado. “Não temas, pequenino rebanho”: vendei e dai esmola, ajuntai um tesouro no céu, pois onde está o vosso tesouro, aí estará o vosso coração.",
+    "alegorico": "Aquele que desceu por causa das coisas divinas não se faz árbitro de partilhas terrenas, Ele que julgará vivos e mortos. Os lírios mais gloriosos que Salomão figuram os anjos, flores do outro mundo, livres de preocupações e cheios do perfume da santidade. O pequeno rebanho é a Igreja, a quem o Pai se compraz em dar o Reino.",
+    "moral": "A abundância gera angústia: “Que farei?”. O rico só pensa em acumular, quando bastava abrir os celeiros aos necessitados. Atribui à alma os alimentos do corpo, quando os bens da alma são as virtudes. Não são nossas as coisas que não podemos levar: só a misericórdia nos acompanha. “Não vos inquieteis” não quer dizer “não trabalheis”, mas não ter a mente presa ao terreno. A eternidade deve estar na intenção; a vida presente, no uso. O tesouro é aquilo a que o coração se prende: dinheiro, banquetes, prazeres.",
+    "anagogico": "“Esta noite te pedirão a tua alma”: a morte revela o que valíamos diante de Deus. O tesouro inesgotável no céu, onde não chega ladrão nem traça, é o Reino que o Pai quer dar ao pequeno rebanho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Guardai-vos cuidadosamente de toda a avareza, porque a vida de cada um, ainda que esteja na abundância, não depende dos bens que possui.” “Os campos de um homem rico tinham dado abundantes frutos. E disse: Demolirei os meus celeiros, fá-los-ei maiores; e direi à minha alma: Descansa, come, bebe, regala-te. Mas Deus disse-lhe: Néscio, esta noite te virão demandar a tua alma; e as coisas que juntaste, para quem serão?” “Considerai como crescem os lírios. Buscai, pois, em primeiro lugar, o reino de Deus. Não temas, ó pequenino rebanho, porque foi do agrado do vosso Pai dar-vos o reino. Porque onde está o vosso tesouro, aí estará também o vosso coração.”",
+    "meditatio_perguntas": [
+      "Que “celeiros maiores” estou a construir para me sentir seguro?",
+      "Em que me inquieto como se não tivesse um Pai que sabe do que preciso?",
+      "Onde está, de fato, o meu tesouro, e portanto o meu coração?"
+    ],
+    "oratio_guia": "Pai, que alimentas os corvos e vestes os lírios, livra-me da avareza e da inquietação. Ensina-me a ser rico para ti, a partilhar com os necessitados e a buscar primeiro o teu Reino. Que o meu coração esteja onde está o meu verdadeiro tesouro: em ti. Amém.",
+    "contemplatio_foco": { "texto": "Não temas, ó pequenino rebanho, porque foi do agrado do vosso Pai dar-vos o reino.", "ref": "Lc 12,32" }
+  },
+  "ancoras": {
+    "12:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:13–15#2", "sintese": "Quem impõe a partilha das terras ao Mestre da paz celeste é chamado “homem”, pois onde há inveja e contendas vive-se segundo o homem." }
+      ],
+      "nota": null
+    },
+    "12:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:13–15#4", "sintese": "Quem desceu pelas coisas divinas e julgará vivos e mortos não se faz árbitro de partilhas: considera a quem pedes." }
+      ],
+      "nota": null
+    },
+    "12:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 15, c. 13.", "catena": "12:16–21#2", "sintese": "Ó angústia nascida da abundância! Oprimido pelos desejos realizados, afadiga-se como quem carrega um fardo." }
+      ],
+      "nota": null
+    },
+    "12:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Hom. de Avar.", "catena": "12:16–21#3", "sintese": "Bastava abrir os celeiros e chamar os necessitados; mas só pensa em acumular: derruba celeiros que a ninguém aliviam." }
+      ],
+      "nota": null
+    },
+    "12:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Hom. de Avar.", "catena": "12:16–21#9", "sintese": "Atribui à alma os alimentos do corpo; os bens da alma são a virtude, as boas obras e a união com Deus." }
+      ],
+      "nota": null
+    },
+    "12:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 22, c. 2.", "catena": "12:16–21#14", "sintese": "Foi arrebatada de noite a alma que vivera nas trevas do coração, sem a luz da consideração." }
+      ],
+      "nota": null
+    },
+    "12:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:16–21#17", "sintese": "Não são nossas as coisas que não podemos levar; só a virtude e a misericórdia acompanham os mortos." }
+      ],
+      "nota": null
+    },
+    "12:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 21 in Matth.", "catena": "12:22–23#1", "sintese": "“Não vos inquieteis” não significa “não trabalheis”, mas não ter a mente presa às coisas terrenas." }
+      ],
+      "nota": null
+    },
+    "12:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:24–26#2", "sintese": "As aves não reivindicam como próprio o alimento comum; a causa da nossa pobreza é a cobiça." }
+      ],
+      "nota": null
+    },
+    "12:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:24–26#8", "sintese": "Deixa o cuidado do corpo àquele por cujo auxílio tens um corpo de tal estatura." }
+      ],
+      "nota": null
+    },
+    "12:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:27–31#4", "sintese": "A flor preferida a Salomão figura a glória dos anjos, flores do outro mundo, livres de preocupações." }
+      ],
+      "nota": null
+    },
+    "12:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 22 in Matth.", "catena": "12:27–31#13", "sintese": "Diz “vosso Pai”, e não “Deus”, para maior confiança: quem criou a nossa natureza conhece as suas necessidades." }
+      ],
+      "nota": null
+    },
+    "12:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:27–31#16", "sintese": "Uma coisa é dada principalmente e outra por acréscimo: a eternidade na intenção, a vida presente no uso." }
+      ],
+      "nota": null
+    },
+    "12:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:32–34#3", "sintese": "Não temais faltar o necessário aos que combatem pelo Reino: vendei e dai esmola, trabalhando com as próprias mãos." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 25 in Act.", "catena": "12:32–34#6", "sintese": "Como a fonte que retém as águas se torna lamacenta, assim os ricos que guardam tudo para si." }
+      ],
+      "nota": null
+    },
+    "12:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:32–34#16", "sintese": "Não só o dinheiro: para o glutão o tesouro são os banquetes, para o frívolo os divertimentos, para o lascivo os seus amores." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

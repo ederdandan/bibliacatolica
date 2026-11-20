@@ -1,0 +1,95 @@
+{
+  "id": "LUK.12.35",
+  "livro": "LUK",
+  "titulo": "A vigilância e o servo fiel",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 12,35-48",
+  "ini": { "c": 12, "v": 35 },
+  "fim": { "c": 12, "v": 48 },
+  "liturgia": { "tema_central": "Estai preparados: o Senhor que vem e serve os servos vigilantes", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus exorta: estejam cingidos os rins e acesas as lâmpadas, como servos que esperam o senhor voltar das bodas para lhe abrir logo a porta. Felizes os servos que o senhor encontrar vigilantes: ele mesmo se cingirá, os fará sentar à mesa e os servirá. Ainda que venha na segunda ou na terceira vigília. Se o dono da casa soubesse a hora do ladrão, não deixaria arrombar a casa: estai preparados, porque o Filho do homem vem na hora em que não pensais. Pedro pergunta se a parábola é para eles ou para todos. Jesus responde com a figura do administrador fiel e prudente, posto sobre a casa para dar a ração a seu tempo: feliz se o senhor o encontrar assim. Mas, se disser “o meu senhor tarda” e maltratar os servos e embriagar-se, o senhor virá de improviso e o porá com os infiéis. Quem conhecia a vontade do senhor e não a fez receberá mais açoites; a quem muito foi dado, muito será pedido.",
+    "alegorico": "O Senhor volta das núpcias, a festa eterna com a Igreja e as almas dos santos. O Senhor que se cinge e serve os servos à mesa é Cristo, que já serviu no lava-pés e servirá na glória, como retribuição na mesma medida. As três vigílias figuram as idades da vida: infância, juventude e velhice. O administrador é o pastor da Igreja, que distribui a palavra a cada um segundo a sua capacidade.",
+    "moral": "Cingimos os rins pela continência e acendemos as lâmpadas pelas boas obras feitas com reta intenção. Quem não se converteu na juventude não perca o remédio da velhice. Não é virtude calcular que o Senhor venha cedo, mas servir fielmente; o vício é dizer “ele tarda”. O benefício dado fora de tempo perde o nome de benefício. Mais conhecimento traz maior responsabilidade: o pecado do sacerdote pesa mais que o do povo.",
+    "anagogico": "O Senhor bate à porta quando a doença anuncia a morte; abre-lhe com alegria quem está seguro pela esperança e pelas obras. Os vigilantes serão sentados à mesa do banquete eterno, servidos pelo próprio Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estejam cingidos os vossos rins, e acesas as vossas lâmpadas. Fazei como os homens que esperam o seu senhor quando volta das bodas, para que, quando vier e bater à porta, logo lha abram. Bem-aventurados aqueles servos, a quem o Senhor achar vigiando, quando vier. Na verdade vos digo que se cingirá, os fará pôr à mesa, e, passando por entre eles, os servirá. Vós, pois, estai preparados, porque, na hora que não cuidais, virá o Filho do homem.” “Quem é o despenseiro fiel e prudente? Bem-aventurado aquele servo a quem, quando o Senhor vier, achar procedendo assim. A todo aquele a quem muito foi dado, muito lhe será exigido.”",
+    "meditatio_perguntas": [
+      "A minha lâmpada está acesa, ou deixei apagar o amor e as boas obras?",
+      "Em que ponto digo, no coração, “o meu Senhor tarda”?",
+      "O que me foi confiado, e como o estou a administrar para os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vens a qualquer hora, mantém a minha lâmpada acesa e o meu coração vigilante. Faz-me administrador fiel do que me confiaste, para dar aos outros o alimento a seu tempo. Quando bateres, que eu te abra com alegria, para me sentar à tua mesa. Amém.",
+    "contemplatio_foco": { "texto": "Bem-aventurados aqueles servos, a quem o Senhor achar vigiando, quando vier.", "ref": "Lc 12,37" }
+  },
+  "ancoras": {
+    "12:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 13 in Evang.", "catena": "12:35–40#3", "sintese": "Cingimos os rins pela continência; mas é pouco não fazer o mal: as lâmpadas acesas são as boas obras." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. ii. q. 25.", "catena": "12:35–40#4", "sintese": "Rins cingidos: longe do amor do mundo; lâmpadas acesas: fazê-lo com fim verdadeiro e reta intenção." }
+      ],
+      "nota": { "texto": "Cingir os rins era prender a túnica longa à cintura para trabalhar ou caminhar; lembra a ceia pascal, comida “com os rins cingidos” (Ex 12,11).", "origem": "ia" }
+    },
+    "12:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "12:35–40#9", "sintese": "Bate quando a doença anuncia a morte; abre logo quem está seguro pela esperança e pelas obras." }
+      ],
+      "nota": null
+    },
+    "12:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "12:35–40#17", "sintese": "Retribui na mesma medida: assim como o serviram, Ele os servirá." }
+      ],
+      "nota": null
+    },
+    "12:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "12:35–40#20", "sintese": "As vigílias são a infância, a juventude e a velhice: quem não vigiou numa não perca o remédio da seguinte." }
+      ],
+      "nota": null
+    },
+    "12:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 13 in Ev.", "catena": "12:35–40#26", "sintese": "Enquanto o espírito dorme, a morte arromba a casa da carne; quem vigia vai ao encontro do Juiz pela penitência." }
+      ],
+      "nota": null
+    },
+    "12:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 26.", "catena": "12:41–46#7", "sintese": "Diz “ração” porque se adapta à capacidade dos diversos ouvintes." },
+        { "autor": "Santo Isidoro de Pelúsio", "obra": "l. 3. Ep. 170.", "catena": "12:41–46#8", "sintese": "“A seu tempo”: o benefício dado fora de tempo torna-se vão; o mesmo pão não é igualmente desejado pelo faminto e pelo saciado." }
+      ],
+      "nota": null
+    },
+    "12:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:41–46#14", "sintese": "É vício julgar que o Senhor tarda; mas a virtude não é esperar que venha cedo, e sim servir fielmente." },
+        { "autor": "Teofilato", "obra": null, "catena": "12:41–46#15", "sintese": "Muitos males nascem de não considerar a hora da partida; se pensássemos na sua vinda, pecaríamos menos." }
+      ],
+      "nota": null
+    },
+    "12:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 26 in Matth.", "catena": "12:47–48#1", "sintese": "O conhecimento maior é ocasião de castigo maior: o sacerdote, pelo mesmo pecado, sofrerá pena mais pesada." }
+      ],
+      "nota": null
+    },
+    "12:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:47–48#6", "sintese": "Muito é dado a quem conhece a vontade de Deus e recebe o cuidado do rebanho; sobre os mais agraciados recai pena mais pesada." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

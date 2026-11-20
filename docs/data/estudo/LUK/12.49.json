@@ -1,0 +1,79 @@
+{
+  "id": "LUK.12.49",
+  "livro": "LUK",
+  "titulo": "Jesus, sinal de divisão; os sinais dos tempos",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 12,49-59",
+  "ini": { "c": 12, "v": 49 },
+  "fim": { "c": 12, "v": 59 },
+  "liturgia": { "tema_central": "O fogo que Cristo veio trazer e o discernimento do tempo presente", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus declara: “Eu vim trazer fogo à terra; e que quero eu, senão que ele se acenda?”. Tem de receber um batismo, e está angustiado até que se cumpra. Não veio trazer paz, mas divisão: numa casa de cinco, três contra dois e dois contra três, pai contra filho, mãe contra filha, sogra contra nora (cf. Mq 7,6). Às multidões diz: sabeis prever a chuva pela nuvem do poente e o calor pelo vento do sul; hipócritas, como não sabeis discernir este tempo? Por que não julgais por vós mesmos o que é justo? A caminho do magistrado com o teu adversário, procura reconciliar-te com ele, para que não te entregue ao juiz, e o juiz ao guarda, e não saias da prisão sem pagar o último centavo.",
+    "alegorico": "O fogo é a palavra divina e o Espírito Santo, que purifica como o ourives purifica o ouro e reanima os que estavam frios pelo pecado. O batismo é a paixão: primeiro Cristo há de ser banhado no próprio sangue, depois inflamará os corações com o fogo do Espírito, no Pentecostes. A divisão anunciada cumpriu-se nas famílias onde uns creram e outros não.",
+    "moral": "O fogo cai sobre a terra quando a consciência se acusa e o coração é consumido pela dor da penitência. Nem toda paz é boa: há uma paz que nos une aos que se afastam de Deus e nos separa do seu amor. Em nós está inscrita a capacidade de julgar o que é justo; não há desculpa para ignorar o tempo da salvação. O adversário no caminho é a palavra de Deus, que contraria os desejos carnais: reconcilia-te com ela enquanto é tempo.",
+    "anagogico": "“Até ao último ceitil”: o caminho desta vida é o tempo da reconciliação; depois vem o juízo. Discernir o tempo presente é reconhecer em Cristo a hora da salvação antes que chegue a hora do Juiz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu vim trazer fogo à terra; e que quero eu, senão que ele se acenda? Eu tenho de receber um baptismo; e quão grande é a minha ansiedade, até que ele se conclua! Julgais que vim trazer paz à terra? Não, vos digo eu, mas separação.” Dizia também às multidões: “Hipócritas, sabeis distinguir os aspectos da terra e do céu; como, pois, não sabeis reconhecer o tempo presente? E porque não discernis também por vós mesmos o que é justo? Quando fores com o teu adversário ao magistrado, faz o possível por te livrares dele no caminho”.",
+    "meditatio_perguntas": [
+      "O fogo de Cristo está aceso em mim, ou apenas morno?",
+      "Que “paz” cômoda tenho preferido à fidelidade a Deus?",
+      "Com quem preciso de me reconciliar enquanto ainda estou “no caminho”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que desejaste ardentemente acender o teu fogo na terra, acende-o no meu coração. Purifica-me como o ouro no crisol e dá-me coragem para te ser fiel mesmo quando isso divide. Ensina-me a reconhecer o tempo da tua visita e a reconciliar-me enquanto é tempo. Amém.",
+    "contemplatio_foco": { "texto": "Eu vim trazer fogo à terra; e que quero eu, senão que ele se acenda?", "ref": "Lc 12,49" }
+  },
+  "ancoras": {
+    "12:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "12:49–53#1", "sintese": "O fogo é a palavra divina: como o ourives purifica o ouro, o Salvador purifica pelo Evangelho, no poder do Espírito, e reanima os frios pelo pecado." },
+        { "autor": "São Gregório Magno", "obra": "in Ezech. lib. i, Hom. 2.", "catena": "12:49–53#5", "sintese": "A terra arde quando, pelo sopro do Espírito, a consciência se acusa e o coração se consome na dor da penitência." }
+      ],
+      "nota": null
+    },
+    "12:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:49–53#6", "sintese": "Primeiro há de ser banhado nas gotas do próprio sangue, e depois inflamar com o fogo do Espírito os corações dos que creem." }
+      ],
+      "nota": null
+    },
+    "12:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "12:49–53#10", "sintese": "Cristo é a nossa paz; mas há uma paz nociva, que nos une aos que se afastam de Deus e nos separa do seu amor." }
+      ],
+      "nota": null
+    },
+    "12:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:49–53#12", "sintese": "Anúncio cumprido: em muitas casas os filhos deixaram os pais que os queriam levar à incredulidade, tal a força da doutrina de Cristo." }
+      ],
+      "nota": { "texto": "Jesus retoma Mq 7,6, onde a divisão das famílias é sinal da crise dos últimos tempos.", "origem": "ia" }
+    },
+    "12:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "12:54–57#2", "sintese": "Os profetas predisseram o mistério de Cristo: sábios estenderiam o olhar ao futuro e reconheceriam o tempo da salvação." }
+      ],
+      "nota": null
+    },
+    "12:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "12:54–57#5", "sintese": "Se não estivesse implantado na nossa natureza julgar o que é justo, o Senhor nunca teria dito isto." }
+      ],
+      "nota": null
+    },
+    "12:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:58–59#5", "sintese": "O adversário no caminho é a palavra de Deus, que contraria os desejos carnais; livra-se dele quem se submete aos seus preceitos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
