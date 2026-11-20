@@ -1,0 +1,115 @@
+{
+  "id": "LUK.14.1",
+  "livro": "LUK",
+  "titulo": "Jesus à mesa de um fariseu; a parábola do grande banquete",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 14,1-24",
+  "ini": { "c": 14, "v": 1 },
+  "fim": { "c": 14, "v": 24 },
+  "liturgia": { "tema_central": "O último lugar, a mesa dos pobres e o convite ao banquete do Reino", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Num sábado, Jesus come em casa de um chefe dos fariseus, que o observam. Diante dele está um hidrópico; Jesus pergunta se é lícito curar ao sábado, e, perante o silêncio, cura-o: quem não tira do poço, mesmo ao sábado, o filho ou o boi? Vendo os convidados escolherem os primeiros lugares, ensina: escolhe o último lugar, para que te digam “Amigo, sobe mais”; quem se exalta será humilhado e quem se humilha será exaltado. Ao anfitrião diz: não convides só amigos, parentes e vizinhos ricos, que te retribuirão; convida pobres, aleijados, coxos e cegos, e serás retribuído na ressurreição dos justos. Um conviva exclama: “Bem-aventurado o que comer o pão no Reino de Deus”. Jesus conta: um homem deu uma grande ceia, mas os convidados escusaram-se (um campo, cinco juntas de bois, um casamento). Irado, o senhor manda trazer pobres, aleijados, cegos e coxos, e depois os dos caminhos e cercados: “força-os a vir, para que se encha a minha casa”.",
+    "alegorico": "O dono da ceia é Deus Pai, e o servo é Cristo, que se fez servo, e depois os pregadores. Os primeiros convidados, que recusam, são os chefes de Israel; os pobres das praças e os dos caminhos são os pecadores e os gentios, chamados em seu lugar. O pão do Reino, que o conviva desejava de longe, já estava diante dele: Cristo, pão vivo descido do céu.",
+    "moral": "O hidrópico figura o avarento: quanto mais tem, mais sede. Quem busca as honras sofre afronta; o último lugar convém a todos, sem disputa nem tumulto. Não se proíbe receber amigos, mas isso não merece a vida eterna; fazer o bem esperando retribuição é motivo frio. Quanto mais humilde o irmão, mais Cristo vem a nós por ele. As escusas são as ocupações exteriores, os cinco sentidos e o prazer da carne que nos retêm longe do banquete.",
+    "anagogico": "A grande ceia é o pleno gozo da doçura eterna, e a recompensa é dada “na ressurreição dos justos”. A sentença final adverte: quem se escusa quando é chamado pode não entrar quando quiser."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Disse uma parábola, observando como os convidados escolhiam os primeiros lugares: “Quando fores convidado, vai tomar o último lugar, para que, quando vier o que te convidou, te diga: Amigo, vem mais para cima. Porque todo o que se exalta, será humilhado, e o que se humilha, será exaltado. Quando deres algum banquete, convida pobres, aleijados, coxos, cegos; e serás bem-aventurado”. “Um homem fez uma grande ceia, para a qual convidou muitos, e mandou um seu servo dizer aos convidados: Vinde, porque tudo está preparado. Mas todos à uma começaram a escusar-se. Disse o senhor ao servo: Vai pelos caminhos e ao longo dos cercados; e força-os a vir, para que se encha a minha casa.”",
+    "meditatio_perguntas": [
+      "Em que situações procuro o primeiro lugar e o reconhecimento?",
+      "Quem são os pobres que posso convidar à minha mesa, sem esperar retribuição?",
+      "Que “campo”, “bois” ou afetos uso como escusa diante do convite de Deus?"
+    ],
+    "oratio_guia": "Senhor, que nos convidas ao banquete do teu Reino, perdoa as minhas escusas. Dá-me a humildade de escolher o último lugar e um coração aberto aos pobres que não me podem retribuir. Que eu não recuse o teu convite, mas venha com alegria à tua mesa. Amém.",
+    "contemplatio_foco": { "texto": "Vinde, porque tudo está preparado.", "ref": "Lc 14,17" }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "14:1–6#0", "sintese": "Conhecendo a malícia dos fariseus, fez-se seu convidado para beneficiar os presentes com palavras e milagres." }
+      ],
+      "nota": null
+    },
+    "14:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. lib. 2, c. 29.", "catena": "14:1–6#10", "sintese": "O hidrópico figura o avarento: quanto mais cresce o humor, mais sede tem; quanto mais riquezas, mais as deseja." }
+      ],
+      "nota": { "texto": "A hidropisia é a retenção de líquidos que incha o corpo; os antigos notavam a sede insaciável que a acompanha.", "origem": "ia" }
+    },
+    "14:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:7–11#2", "sintese": "O ambicioso, procurando honras, é tratado com desonra; nada vale tanto como a modéstia." },
+        { "autor": "São Basílio", "obra": "Reg. fus. int. 12.", "catena": "14:7–11#4", "sintese": "O último lugar convém a todos, mas disputá-lo com contenda é tão condenável como disputar o primeiro." }
+      ],
+      "nota": null
+    },
+    "14:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "14:12–14#2", "sintese": "Não é crime receber amigos e ricos, mas isso, como as demais relações humanas, não merece a vida eterna." }
+      ],
+      "nota": null
+    },
+    "14:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:12–14#3", "sintese": "Fazer o bem esperando retribuição é motivo frio; convidando os pobres, Deus, que nunca esquece, fica nosso devedor." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 45 in Act.", "catena": "14:12–14#4", "sintese": "Quanto mais humilde o irmão, tanto mais Cristo vem a nós por ele." }
+      ],
+      "nota": null
+    },
+    "14:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 112.", "catena": "14:15–24#2", "sintese": "Suspirava por algo distante, quando o pão estava diante dele: Cristo, pão vivo. Não prepares a boca, mas o coração." }
+      ],
+      "nota": null
+    },
+    "14:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 36 in Ev.", "catena": "14:15–24#5", "sintese": "A grande ceia é o gozo da doçura eterna; os prazeres da carne saciam e enfastiam, os da alma aumentam o desejo." }
+      ],
+      "nota": null
+    },
+    "14:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:15–24#10", "sintese": "O campo são os bens do mundo: sai a vê-lo quem só pensa nas coisas exteriores." }
+      ],
+      "nota": null
+    },
+    "14:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 112.", "catena": "14:15–24#12", "sintese": "As cinco juntas de bois são os cinco sentidos da carne, que nos retêm nas coisas exteriores." }
+      ],
+      "nota": null
+    },
+    "14:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 36 in Ev.", "catena": "14:15–24#16", "sintese": "O matrimônio é bom, mas alguns nele buscam só o prazer; por uma coisa lícita figura-se uma ilícita." }
+      ],
+      "nota": null
+    },
+    "14:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "14:15–24#26", "sintese": "A fraqueza do corpo não exclui ninguém do Reino, e as enfermidades do pecado são perdoadas pela misericórdia." }
+      ],
+      "nota": null
+    },
+    "14:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 36 in Ev.", "catena": "14:15–24#29", "sintese": "São “forçados” a entrar os que, abatidos pelas adversidades, voltam ao amor de Deus; ninguém despreze o chamado." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

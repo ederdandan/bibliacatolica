@@ -1,0 +1,82 @@
+{
+  "id": "LUK.15.1",
+  "livro": "LUK",
+  "titulo": "A ovelha e a dracma perdidas",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 15,1-10",
+  "ini": { "c": 15, "v": 1 },
+  "fim": { "c": 15, "v": 10 },
+  "liturgia": { "tema_central": "A alegria de Deus por um pecador que se converte", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Publicanos e pecadores aproximam-se de Jesus para o ouvir, e os fariseus e escribas murmuram: “Este recebe os pecadores e come com eles”. Jesus responde com duas parábolas. Quem tem cem ovelhas e perde uma deixa as noventa e nove no deserto e vai atrás da perdida até a encontrar; põe-na alegre aos ombros e convida amigos e vizinhos: “Alegrai-vos comigo”. Assim haverá mais alegria no céu por um pecador que se converte do que por noventa e nove justos que não precisam de conversão. A mulher que perde uma das dez dracmas acende a lâmpada, varre a casa e procura até a encontrar; depois chama as amigas para se alegrarem com ela. Assim há alegria entre os anjos de Deus por um só pecador que se converte.",
+    "alegorico": "O pastor e a mulher são Deus e a Sabedoria de Deus. A ovelha perdida é a humanidade que deixou as pastagens da vida; as noventa e nove são os coros dos anjos, deixados no céu quando o Verbo desceu. Põe a ovelha aos ombros ao assumir a natureza humana e carregar os nossos pecados. A dracma traz gravada a imagem de Deus; a lâmpada acesa é a divindade na carne, luz num vaso de barro.",
+    "moral": "A verdadeira justiça tem compaixão; a falsa tem desdém. Os justos repreendem por disciplina, mas guardam a doçura da caridade. Deus não castiga a ovelha encontrada nem a toca à sua frente, mas carrega-a com brandura. Nada valem as virtudes exteriores se falta à alma a imagem de Deus. Fazer penitência é chorar os pecados passados e não voltar a cometer o que se deve chorar.",
+    "anagogico": "“Alegrai-vos comigo”: a nossa salvação é a alegria de Deus, e completamos a sua festa quando somos levados à casa do céu, onde os anjos se alegram com cada pecador convertido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aproximavam-se dele os publicanos e os pecadores para o ouvir. Os fariseus e os escribas murmuravam, dizendo: “Este recebe os pecadores, e come com eles”. Então propôs-lhes esta parábola: “Qual de vós, tendo cem ovelhas, se perde uma delas, não deixa as noventa e nove no deserto, para ir procurar a que se tinha perdido, até que a encontre? E, tendo-a encontrado, a põe sobre os ombros todo contente. Digo-vos que haverá maior júbilo no céu por um pecador que fizer penitência, que por noventa e nove justos que não têm necessidade de penitência”.",
+    "meditatio_perguntas": [
+      "Reconheço-me na ovelha perdida que Jesus procura e carrega?",
+      "Murmuro, como os fariseus, quando Deus acolhe quem eu julgo indigno?",
+      "Deixo-me encontrar, ou fujo de quem me procura?"
+    ],
+    "oratio_guia": "Bom Pastor, que vieste procurar-me quando eu estava perdido, obrigado por me carregares aos teus ombros com alegria. Dá-me um coração que se alegre com a conversão dos outros, e não um coração que murmura. Que eu nunca me afaste do teu rebanho. Amém.",
+    "contemplatio_foco": { "texto": "Congratulai-vos comigo, porque encontrei a minha ovelha, que se tinha perdido.", "ref": "Lc 15,6" }
+  },
+  "ancoras": {
+    "15:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "15:1–7#2", "sintese": "Para isso tomou a carne: receber os pecadores como o médico recebe os enfermos." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 34 in Evang.", "catena": "15:1–7#3", "sintese": "A verdadeira justiça tem compaixão, a falsa tem desdém; os justos repreendem por disciplina, mas guardam a doçura da caridade." }
+      ],
+      "nota": null
+    },
+    "15:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:1–7#6", "sintese": "A ovelha perdida é o homem que, pelo pecado, deixou as pastagens da vida; as noventa e nove são os coros dos anjos deixados no céu." }
+      ],
+      "nota": null
+    },
+    "15:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Hom. de Mul. Pecc.", "catena": "15:1–7#9", "sintese": "Não a castigou nem a tocou à frente: carregou-a com brandura aos ombros." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 34.", "catena": "15:1–7#10", "sintese": "Pô-la aos ombros porque, assumindo a natureza humana, carregou os nossos pecados." }
+      ],
+      "nota": null
+    },
+    "15:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 34.", "catena": "15:1–7#12", "sintese": "Não diz “alegrai-vos com a ovelha”, mas “comigo”: a nossa vida é a sua alegria." }
+      ],
+      "nota": null
+    },
+    "15:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:1–7#14", "sintese": "Os justos seguros muitas vezes não suspiram pela pátria e são lentos no bem; os convertidos, feridos pela lembrança da culpa, ardem mais." }
+      ],
+      "nota": null
+    },
+    "15:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 34 in Ev.", "catena": "15:8–10#1", "sintese": "A mulher é a Sabedoria de Deus; as dez dracmas, as nove ordens de anjos e o homem, criado para completar o número dos eleitos." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:8–10#3", "sintese": "A dracma traz a imagem do Criador; a lâmpada acesa é a divindade na carne, luz num vaso de barro." },
+        { "autor": "São Gregório de Nissa", "obra": "lib. de Virgin. c. 12.", "catena": "15:8–10#7", "sintese": "De nada valem as virtudes exteriores enquanto falta à alma o brilho da imagem divina; é preciso acender a lâmpada da palavra." }
+      ],
+      "nota": { "texto": "A dracma era uma moeda de prata equivalente a um dia de trabalho; dez dracmas podiam ser as economias, ou o dote, de uma mulher pobre.", "origem": "ia" }
+    },
+    "15:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 34 ut sup.", "catena": "15:8–10#8", "sintese": "Fazer penitência é chorar os pecados passados e não voltar a cometer o que se deva chorar." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

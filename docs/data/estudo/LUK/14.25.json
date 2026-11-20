@@ -1,0 +1,80 @@
+{
+  "id": "LUK.14.25",
+  "livro": "LUK",
+  "titulo": "As condições para ser discípulo",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 14,25-35",
+  "ini": { "c": 14, "v": 25 },
+  "fim": { "c": 14, "v": 35 },
+  "liturgia": { "tema_central": "Levar a cruz e renunciar a tudo para seguir Jesus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Uma grande multidão acompanha Jesus. Ele volta-se e diz: quem vem a mim e não “aborrece” pai, mãe, mulher, filhos, irmãos e até a própria vida, não pode ser meu discípulo; quem não leva a sua cruz e não me segue, não pode ser meu discípulo. Duas comparações: quem quer construir uma torre senta-se primeiro a calcular a despesa, para não ser motivo de troça ao deixá-la inacabada; o rei que vai à guerra com dez mil contra vinte mil pondera antes, e, se não puder, pede a paz. Assim, quem não renuncia a tudo o que possui não pode ser discípulo. O sal é bom; mas, se perder o sabor, não serve nem para a terra nem para o estrume. Quem tem ouvidos para ouvir, ouça.",
+    "alegorico": "A torre é o edifício da perfeição cristã, erguido mandamento sobre mandamento a partir do alicerce que é Cristo. O rei mais forte é Deus, que virá ao juízo com vinte mil contra os nossos dez mil: é preciso pedir a paz enquanto ainda está longe. O sal figura os discípulos, que dão sabor de sabedoria ao mundo.",
+    "moral": "“Aborrecer” os parentes não é falta de amor: é não os reconhecer quando se tornam obstáculo no caminho de Deus; e do mesmo modo odiamos a própria alma quando lhe negamos os desejos carnais. Levamos a cruz quando afligimos o corpo pela abstinência e quando fazemos nossas as necessidades do próximo, por Deus e não por vanglória. É preciso perseverar até concluir a obra. Deixar tudo é próprio de poucos; renunciar a tudo, possuindo sem ficar preso, é de todos.",
+    "anagogico": "Ter sempre a morte diante dos olhos, como Paulo, que morria cada dia: o discípulo vive de olhos postos no fim e no juízo, onde só a torre acabada permanecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ia com ele grande multidão de povo. Jesus, voltando-se, disse-lhes: “Se algum vem a mim, e não aborrece seu pai, sua mãe, e até a sua vida, não pode ser meu discípulo. O que não leva a sua cruz e não me segue, não pode ser meu discípulo. Porque qual de vós, querendo edificar uma torre, não se assenta primeiro para calcular a despesa e ver se tem com que acabar? Assim, pois, qualquer de vós que não renuncia tudo o que possui, não pode ser meu discípulo. O sal é bom; porém, se o sal perder a força, com que se há-de temperar?”",
+    "meditatio_perguntas": [
+      "Sigo Jesus como parte da multidão ou como discípulo que leva a cruz?",
+      "Há algum afeto ou bem que se tornou obstáculo no meu caminho para Deus?",
+      "Que obra comecei no seguimento de Cristo e deixei inacabada?"
+    ],
+    "oratio_guia": "Senhor Jesus, quero ser teu discípulo e não apenas parte da multidão. Dá-me coragem para levar a minha cruz, liberdade para renunciar ao que me prende e perseverança para concluir a obra começada. Que eu seja sal que não perde o sabor. Amém.",
+    "contemplatio_foco": { "texto": "O que não leva a sua cruz e não me segue, não pode ser meu discípulo.", "ref": "Lc 14,27" }
+  },
+  "ancoras": {
+    "14:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 37 in Ev.", "catena": "14:25–27#2", "sintese": "Amamos os parentes, mas não os reconhecemos quando se tornam adversários no caminho de Deus." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:25–27#4", "sintese": "Este ódio nasce do amor: odiamos a nossa alma quando lhe negamos os desejos carnais, e assim a levamos ao melhor." }
+      ],
+      "nota": { "texto": "“Aborrecer” traduz um semitismo que significa “amar menos”, “pôr em segundo lugar”; Mt 10,37 diz: “quem ama o pai ou a mãe mais do que a mim”.", "origem": "ia" }
+    },
+    "14:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "14:25–27#7", "sintese": "Não é pôr uma trave aos ombros, mas ter sempre a morte diante dos olhos, como Paulo, que morria cada dia." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 37 in Ev.", "catena": "14:25–27#9", "sintese": "Levamos a cruz pela abstinência e pela compaixão que faz nossas as necessidades do próximo, desde que seja por Deus." }
+      ],
+      "nota": null
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "lib. de Virg. 17.", "catena": "14:28–33#2", "sintese": "Uma pedra não faz a torre, nem um mandamento a perfeição: é preciso avançar sempre, construindo sobre o alicerce." }
+      ],
+      "nota": null
+    },
+    "14:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "14:28–33#4", "sintese": "Quem faz o bem sem vigiar contra os espíritos malignos encontrará zombadores nos mesmos que o persuadem ao mal." }
+      ],
+      "nota": null
+    },
+    "14:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "14:28–33#12", "sintese": "Deixar tudo é de poucos perfeitos; renunciar a tudo, possuindo sem ficar preso ao mundo, cabe a todos os fiéis." }
+      ],
+      "nota": null
+    },
+    "14:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "14:34–35#1", "sintese": "Não só os mestres, mas todos os fiéis devem ser sal, úteis aos que os rodeiam." }
+      ],
+      "nota": null
+    },
+    "14:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "14:34–35#4", "sintese": "Ouça, não desprezando, mas pondo em prática o que aprendeu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
