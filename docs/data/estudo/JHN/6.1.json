@@ -1,0 +1,81 @@
+{
+  "id": "JHN.6.1",
+  "livro": "JHN",
+  "titulo": "A multiplicação dos pães",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 6,1-15",
+  "ini": { "c": 6, "v": 1 },
+  "fim": { "c": 6, "v": 15 },
+  "liturgia": { "tema_central": "Cinco pães e dois peixes nas mãos de Cristo: “Recolhei os pedaços, para que nada se perca”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus passa à outra margem do mar da Galileia, e uma grande multidão segue-o por causa dos milagres. Sobe a um monte e senta-se com os discípulos; está próxima a Páscoa. Vendo a multidão, pergunta a Filipe onde comprar pão para tanta gente; dizia-o para o pôr à prova, pois sabia o que ia fazer. Filipe calcula que duzentos denários de pão não bastam para um pequeno bocado a cada um. André indica um rapaz com cinco pães de cevada e dois peixes: “Mas que é isto para tanta gente?”. Jesus manda sentar o povo na erva, uns cinco mil homens. Toma os pães, dá graças e distribui-os, e também os peixes, quanto queriam. Saciados todos, manda recolher os pedaços que sobraram, para que nada se perca, e enchem doze cestos. Vendo o sinal, dizem: “Este é verdadeiramente o profeta que deve vir ao mundo”. Sabendo que o queriam arrebatar para o fazer rei, Jesus retira-se de novo, sozinho, para o monte.",
+    "alegorico": "Os cinco pães de cevada são a Lei, dada em cinco livros a homens ainda carnais, que escondia o alimento da alma sob a casca. O rapaz que os leva é o povo judeu, que carregava a Lei como servo, sem a comer. Nas mãos de Cristo, a Lei partida, isto é, exposta, multiplica-se em muitos livros e alimenta as multidões. Os pedaços que sobram são as verdades mais profundas, confiadas aos doze Apóstolos para as ensinarem. A Páscoa próxima e a ação de graças anunciam a Eucaristia.",
+    "moral": "Deus não tenta para fazer cair, mas prova a fé, como provou Filipe. Diante de grandes necessidades não desanimemos da pobreza dos meios: o pouco posto nas mãos de Cristo multiplica-se, como poucos grãos dão a colheita. A ordem de recolher os pedaços ensina a não desperdiçar os dons. E Jesus foge da realeza que a multidão quer dar-lhe por causa do pão: Ele não quer ser seguido pelo ventre, mas pela fé.",
+    "anagogico": "Cristo é rei não feito pelos homens, mas que faz dos homens reis: o seu Reino será manifestado na glória. A multidão saciada na erva verde é figura do banquete eterno, onde Ele mesmo, depois de subir ao monte do céu, servirá aos seus o pão que não acaba."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus, tendo levantado os olhos e visto que vinha ter com ele uma grande multidão, disse a Filipe: “Onde compraremos nós pão, para dar de comer a esta gente?” André disse-lhe: “Está aqui um jovem, que tem cinco pães de cevada e dois peixes, mas que é isto para tanta gente?” Tomou, então, Jesus os pães, e, tendo dado graças, distribuiu-os entre os que estavam recostados. Estando saciados, disse a seus discípulos: “Recolhei os pedaços que sobejaram, para que nada se perca”.",
+    "meditatio_perguntas": [
+      "Que “cinco pães e dois peixes” tenho para pôr nas mãos de Jesus?",
+      "Diante das necessidades à minha volta, calculo como Filipe ou confio como quem dá graças?",
+      "Sigo Jesus pelo pão que me dá ou por quem Ele é?"
+    ],
+    "oratio_guia": "Senhor Jesus, conheces a fome desta multidão e a pobreza das minhas mãos. Recebe o pouco que tenho, dá graças por ele e multiplica-o. Ensina-me a não desperdiçar os teus dons e a seguir-te não pelo pão, mas por ti, Pão da vida. Amém.",
+    "contemplatio_foco": { "texto": "Recolhei os pedaços que sobejaram, para que nada se perca.", "ref": "Jo 6,12" }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:1–14#34", "sintese": "O Senhor subiu ao monte como subiu ao céu, que o monte representa." }
+      ],
+      "nota": null
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de verbo. Dom. Serm. 17", "catena": "6:1–14#8", "sintese": "Há uma tentação que leva ao pecado, com a qual Deus não tenta ninguém, e outra que prova a fé: assim provou Filipe." }
+      ],
+      "nota": null
+    },
+    "6:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "lib. lxxxiii. Quæst. q. 61", "catena": "6:1–14#36", "sintese": "Os cinco pães de cevada são a Lei, dada em cinco livros a homens carnais, que escondia o alimento sob a casca." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xxiv. 5", "catena": "6:1–14#40", "sintese": "O rapaz talvez seja o povo judeu, que carregava os pães como servo, mas não os comia." }
+      ],
+      "nota": { "texto": "O pão de cevada era o pão dos pobres. A cena recorda Eliseu, que alimentou cem homens com vinte pães de cevada e ainda sobrou (2Rs 4,42-44).", "origem": "ia" }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxiv. s. 1.", "catena": "6:1–14#25", "sintese": "Multiplicou os pães nas mãos como faz brotar a colheita de poucos grãos: eram sementes multiplicadas pelo que fez a terra." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xxiv. s. 5", "catena": "6:1–14#42", "sintese": "Ao partir, multiplicou: os cinco livros de Moisés, expostos, deram origem a muitos livros." }
+      ],
+      "nota": { "texto": "“Tendo dado graças” traduz o grego eucharistēsas: os gestos de tomar, dar graças e distribuir antecipam a Eucaristia, que o discurso seguinte explicita.", "origem": "ia" }
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxiv. s. 6", "catena": "6:1–14#45", "sintese": "Os pedaços são as verdades profundas que a multidão não alcança, confiadas aos Apóstolos para as ensinarem: daí os doze cestos." }
+      ],
+      "nota": null
+    },
+    "6:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxiv. s. 7", "catena": "6:1–14#30", "sintese": "Cristo é profeta e Senhor dos profetas, como é mensageiro e Senhor dos anjos." }
+      ],
+      "nota": null
+    },
+    "6:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 2", "catena": "6:15–21#2", "sintese": "Temia ser feito rei quem já era rei: não feito pelos homens, mas que faz dos homens reis." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xlii. 3", "catena": "6:15–21#3", "sintese": "Vê o que pode o ventre! De ventre cheio, querem entronizá-lo; Cristo foge para nos ensinar a desprezar as dignidades do mundo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

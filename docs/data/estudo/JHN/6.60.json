@@ -1,0 +1,87 @@
+{
+  "id": "JHN.6.60",
+  "livro": "JHN",
+  "titulo": "Palavras de vida eterna",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 6,60-72",
+  "ini": { "c": 6, "v": 60 },
+  "fim": { "c": 6, "v": 72 },
+  "liturgia": { "tema_central": "“Senhor, para quem havemos nós de ir? Tu tens palavras de vida eterna”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus ensinava estas coisas na sinagoga de Cafarnaum. Muitos discípulos, ao ouvi-lo, dizem: “Dura é esta linguagem; quem a pode ouvir?”. Jesus, sabendo que murmuram, pergunta se isto os escandaliza: que será quando virem o Filho do homem subir para onde estava antes? É o espírito que vivifica; a carne de nada serve; as palavras que lhes disse são espírito e vida. Mas há alguns que não creem; Jesus sabia desde o princípio quem não cria e quem o havia de entregar. Por isso disse que ninguém pode vir a Ele se não lhe for concedido pelo Pai. Desde então muitos discípulos voltam atrás e já não andam com Ele. Jesus pergunta aos Doze: “Quereis vós também retirar-vos?”. Simão Pedro responde: “Senhor, para quem havemos nós de ir? Tu tens palavras de vida eterna. E nós acreditamos e conhecemos que tu és o Santo de Deus”. Jesus replica que escolheu os Doze, e no entanto um deles é um demónio. Falava de Judas Iscariotes, que o havia de entregar.",
+    "alegorico": "Os que se escandalizam imaginavam a carne de Cristo como um cadáver a retalhar ou como carne vendida no açougue. Jesus aponta a Ascensão: o Filho do homem subirá inteiro ao céu, e não será consumido aos pedaços. A carne não purifica por si, mas pelo Verbo que a assumiu: “o espírito vivifica”. As suas palavras são espírito e vida para quem as entende espiritualmente; para quem as entende carnalmente, continuam a ser espírito e vida, mas não para ele.",
+    "moral": "A fé é dom, e não pequeno: alegra-te se crês, mas não te ensoberbeças, pois que tens que não tenhas recebido? Os que voltam atrás deixam de ser bons ouvintes e, separados do corpo, perdem a vida. Pedro mostra o caminho: quando não entendemos, não abandonamos. Cremos para conhecer; se quiséssemos conhecer primeiro, nunca chegaríamos a crer. A presença de Judas entre os Doze ensina que estar perto de Cristo não dispensa a conversão do coração.",
+    "anagogico": "“Que será quando virdes subir o Filho do homem para onde estava antes?”: o pão que agora recebemos vem daquele que subiu ao céu e para lá nos atrai. Quem persevera com Pedro, ficando quando outros se vão, chegará à vida eterna que as palavras de Cristo já contêm."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muitos de seus discípulos, ouvindo isto, disseram: “Dura é esta linguagem; quem a pode ouvir?” As palavras que eu vos disse, são espírito e vida. Desde então muitos de seus discípulos tornaram atrás, e já não andavam com ele. Por isso Jesus disse aos doze: “Quereis vós também retirar-vos?” Simão Pedro respondeu-lhe: “Senhor, para quem havemos nós de ir? Tu tens palavras de vida eterna. E nós acreditamos e conhecemos que tu és o Santo de Deus”.",
+    "meditatio_perguntas": [
+      "Que palavra de Jesus me parece “dura” e tenho vontade de evitar?",
+      "Quando não entendo, fico com Ele como Pedro, ou volto atrás?",
+      "Que palavras de vida eterna Jesus já me deu e que me seguram?"
+    ],
+    "oratio_guia": "Senhor Jesus, quando a tua palavra me parece dura e outros se afastam, não me deixes voltar atrás. Para quem havemos de ir? Só tu tens palavras de vida eterna. Creio que és o Santo de Deus: guarda-me fiel até ao fim. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, para quem havemos nós de ir? Tu tens palavras de vida eterna.", "ref": "Jo 6,69" }
+  },
+  "ancoras": {
+    "6:61": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:60–71#1", "sintese": "“Dura”, isto é, difícil de aceitar e excessiva para a sua fraqueza." }
+      ],
+      "nota": null
+    },
+    "6:63": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#7", "sintese": "Responde ao erro dos que pensavam que distribuiria o corpo em pedaços: subirá inteiro ao céu." }
+      ],
+      "nota": null
+    },
+    "6:64": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#11", "sintese": "A carne não purifica por si, mas pelo Verbo que a assumiu; “de nada serve” a carne tal como eles a entendiam." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#13", "sintese": "Entendidas espiritualmente, são para ti espírito e vida; entendidas carnalmente, continuam a sê-lo, mas não para ti." }
+      ],
+      "nota": { "texto": "“A carne para nada aproveita” não nega a Eucaristia: opõe o entendimento carnal, que imagina canibalismo, ao entendimento da fé, dado pelo Espírito.", "origem": "ia" }
+    },
+    "6:66": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#20", "sintese": "A fé é dom, e não pequeno: alegra-te se crês, mas não te ensoberbeças, pois que tens que não tenhas recebido?" }
+      ],
+      "nota": null
+    },
+    "6:67": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#22", "sintese": "Separados do corpo, perderam a vida e passaram a contar-se entre os incrédulos." }
+      ],
+      "nota": null
+    },
+    "6:69": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#27", "sintese": "Como se dissesse: afastas-nos de ti? Dá-nos outro igual a ti." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:60–71#28", "sintese": "Palavras do maior amor: Cristo era-lhes mais precioso do que pai e mãe; Pedro recordava as promessas de vida eterna." }
+      ],
+      "nota": null
+    },
+    "6:70": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:60–71#29", "sintese": "Cremos para conhecer: se quiséssemos primeiro conhecer e depois crer, nunca chegaríamos a crer." }
+      ],
+      "nota": null
+    },
+    "6:71": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "6:60–71#33", "sintese": "“Um de vós é um demónio”: o corpo recebe o nome da sua cabeça." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

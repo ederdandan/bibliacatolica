@@ -1,0 +1,87 @@
+{
+  "id": "JHN.5.1",
+  "livro": "JHN",
+  "titulo": "A cura do paralítico de Betesda",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 5,1-18",
+  "ini": { "c": 5, "v": 1 },
+  "fim": { "c": 5, "v": 18 },
+  "liturgia": { "tema_central": "“Queres ficar são?” — “Levanta-te, toma o teu leito e anda”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Numa festa dos judeus, Jesus sobe a Jerusalém. Junto à porta das Ovelhas há uma piscina, Bezatha, com cinco pórticos, onde jaz uma multidão de enfermos à espera do movimento da água: um anjo descia de tempos a tempos a agitá-la, e o primeiro a entrar ficava curado. Ali está um homem doente há trinta e oito anos. Jesus pergunta-lhe: “Queres ficar são?”. Ele responde que não tem ninguém que o lance na água; quando chega, outro desceu antes. Jesus diz: “Levanta-te, toma o teu leito e anda”. No mesmo instante fica são e anda. Era sábado, e os judeus dizem-lhe que não é lícito levar o leito. Ele responde que quem o curou lho mandou, mas não sabe quem foi, pois Jesus se afastara no meio da multidão. Depois Jesus encontra-o no templo: “Eis que estás são; não peques mais, para que te não suceda coisa pior”. O homem vai dizer aos judeus que foi Jesus, e estes perseguem-no por agir ao sábado. Jesus responde: “Meu Pai não cessa de operar, e eu opero também”. Por isso procuram ainda mais matá-lo, porque chamava a Deus seu Pai, fazendo-se igual a Deus.",
+    "alegorico": "A piscina é figura do Batismo: a água que antes purificava impurezas legais e curava um só por vez, em Cristo curará todos e lavará o pecado. Os cinco pórticos são os cinco livros de Moisés: a Lei mostrava os doentes, mas não os curava; convencia o pecador, mas não o absolvia. O sábado era figura de Cristo, por quem tudo foi feito: Ele, que descansou no sepulcro ao sábado, é o verdadeiro repouso de Deus.",
+    "moral": "“Queres ficar são?”: Cristo não força a cura, desperta o desejo. Levanta-te do torpor, carrega o leito, isto é, o próximo com quem caminhas, para chegares Àquele com quem queres ficar. Deus vê-se numa solidão interior: a multidão é barulhenta, e a visão pede silêncio; o curado reconhece Jesus não na multidão, mas no Templo. Cuidamos tanto do corpo e tão pouco da alma: “não peques mais” lembra que o pecado é a doença pior.",
+    "anagogico": "Haverá um sábado do mundo, quando tiverem passado as idades da história: então os santos repousarão em Deus. O Pai e o Filho operam sem cessar até que esse repouso chegue, e o paralítico que se levanta é figura dos mortos que, à voz do Filho, se levantarão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estava ali um homem que, há trinta e oito anos, se encontrava enfermo. Jesus, vendo-o deitado e sabendo que estava assim há muito, disse-lhe: “Queres ficar são?” O enfermo: “Senhor, não tenho uma pessoa que me lance na piscina”. Jesus disse-lhe: “Levanta-te, toma o teu leito e anda”. Depois disto, Jesus encontrou-o no templo e disse-lhe: “Eis que estás são; não peques mais”. Meu Pai não cessa de operar, e eu opero também.",
+    "meditatio_perguntas": [
+      "Quero realmente ficar são, ou acomodei-me à minha paralisia?",
+      "Sou para alguém a pessoa que o leva à água, ou deixo os outros sozinhos à beira da piscina?",
+      "Onde encontro Jesus em silêncio, longe do barulho da multidão?"
+    ],
+    "oratio_guia": "Senhor Jesus, há muito tempo estou deitado à beira da piscina, à espera. Tu vês-me e perguntas se quero ficar são: sim, Senhor, quero. Diz-me a tua palavra: levanta-te e anda. Dá-me não voltar a pecar e reconhecer-te no teu templo. Amém.",
+    "contemplatio_foco": { "texto": "Queres ficar são?", "ref": "Jo 5,6" }
+  },
+  "ancoras": {
+    "5:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xvii. c. 2", "catena": "5:1–13#14", "sintese": "Os cinco pórticos são os cinco livros de Moisés: mostravam os doentes, mas não os curavam; a Lei convencia o pecador, mas não o absolvia." }
+      ],
+      "nota": { "texto": "Escavações junto à atual igreja de Santa Ana, em Jerusalém, revelaram duas piscinas separadas por um muro central, com pórticos nos quatro lados e no meio: cinco ao todo.", "origem": "ia" }
+    },
+    "5:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxvi. 1", "catena": "5:1–13#3", "sintese": "A piscina era uma das figuras do Batismo: a água purificava impurezas legais e depois curava enfermidades." }
+      ],
+      "nota": { "texto": "O versículo 4 falta em vários manuscritos antigos gregos, mas está na Vulgata e na tradução de Matos Soares.", "origem": "ia" }
+    },
+    "5:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxiii. 1, 2", "catena": "5:1–13#5", "sintese": "Não o cura logo: conversa primeiro com ele para o levar a uma disposição de fé." }
+      ],
+      "nota": null
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "c. v. n. 30", "catena": "5:1–13#17", "sintese": "“Levanta-te e anda”: levanta-te do torpor e da preguiça em que estavas." }
+      ],
+      "nota": null
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xvii. c. 9", "catena": "5:1–13#18", "sintese": "Carrega o próximo com quem caminhas para chegares Àquele com quem queres ficar. Deus vê-se em solidão interior: a multidão é barulhenta." }
+      ],
+      "nota": null
+    },
+    "5:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xvii. c. 11", "catena": "5:14–18#1", "sintese": "Não reconhece Jesus no meio da multidão, mas reconhece-o no Templo, lugar sagrado." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxviii. 1", "catena": "5:14–18#3", "sintese": "A doença vinha dos pecados: suportamos com indiferença as doenças da alma e corremos aos remédios ao menor mal do corpo." }
+      ],
+      "nota": null
+    },
+    "5:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xvii. s. 15", "catena": "5:14–18#10", "sintese": "O sábado foi instituído como figura de mim; o Pai fez tudo por meio do Verbo, e eu sou o seu Verbo." },
+        { "autor": "Santo Agostinho", "obra": "iv. Super Gen. ad lit.", "catena": "5:14–18#7", "sintese": "O sábado foi dado aos judeus como sombra do que havia de vir." }
+      ],
+      "nota": null
+    },
+    "5:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xvii. s. 16", "catena": "5:14–18#15", "sintese": "Os judeus entendem o que os arianos não entendem: que se fazia igual ao Pai." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

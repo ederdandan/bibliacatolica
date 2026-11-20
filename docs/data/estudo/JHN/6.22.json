@@ -1,0 +1,80 @@
+{
+  "id": "JHN.6.22",
+  "livro": "JHN",
+  "titulo": "O pão da vida",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 6,22-40",
+  "ini": { "c": 6, "v": 22 },
+  "fim": { "c": 6, "v": 40 },
+  "liturgia": { "tema_central": "“Eu sou o pão da vida”: crer nele é já comer o alimento que não perece", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No dia seguinte, a multidão percebe que Jesus não partira na barca com os discípulos; entra noutras barcas e vai a Cafarnaum procurá-lo. Encontrando-o, pergunta quando chegou. Jesus responde que o procuram não por terem visto sinais, mas por terem comido e ficado saciados. Manda-os trabalhar não pela comida que perece, mas pela que dura até à vida eterna, que o Filho do homem dará, pois nele o Pai imprimiu o seu selo. Perguntam o que fazer para realizar as obras de Deus: “A obra de Deus é esta: que acrediteis naquele que ele enviou”. Pedem um sinal, lembrando que os pais comeram o maná no deserto. Jesus responde que não foi Moisés quem deu o pão do céu: é o Pai que dá o verdadeiro pão do céu, aquele que desce do céu e dá vida ao mundo. “Senhor, dá-nos sempre desse pão.” “Eu sou o pão da vida; quem vem a mim não terá fome, quem crê em mim não terá sede.” Viram-no e não creem; mas tudo o que o Pai lhe dá virá a Ele, e Ele não lançará fora quem vem. Desceu do céu para fazer a vontade do Pai: não perder nada do que lhe foi dado, mas ressuscitá-lo no último dia.",
+    "alegorico": "O maná era figura deste alimento: o pão que Deus dá, e que o maná significava, é o próprio Cristo, o Filho unigénito feito homem, que desce do céu e dá vida não só aos judeus, mas ao mundo. O Pai marcou-o com o seu selo: o selo transmite a forma inteira, e o Filho é a imagem perfeita do Pai. Comer este pão é, antes de mais, crer nele; e a fé prepara o discurso seguinte, onde o pão será a sua carne.",
+    "moral": "Quantos procuram Jesus só por algum benefício temporal! Raramente se procura Jesus por causa de Jesus. Ele pede: procurai-me por mim mesmo. Crer nele não é só dar-lhe crédito, como os demónios faziam: é crer amando, honrando, indo a Ele e sendo incorporado no seu corpo, com a fé que age pela caridade. Por que preparas os dentes e o ventre? Crê, e já comeste. E não temas ser rejeitado: quem vem a Ele não é lançado fora.",
+    "anagogico": "Há uma dupla ressurreição: quem vem a Cristo ressuscita já, tornando-se humilde e membro dele; e Ele o ressuscitará no último dia. O lugar interior de onde ninguém é lançado fora é o santuário da alegria do Senhor, onde não há fadiga nem dor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós buscais-me, não porque vistes os milagres, mas porque comestes dos pães e ficastes saciados. Trabalhai não pela comida que perece, mas pela que dura até à vida eterna. A obra de Deus é esta: Que acrediteis naquele que enviou. Então disseram-lhe: “Senhor, dá-nos sempre desse pão”. Jesus respondeu-lhes: “Eu sou o pão da vida; o que vem a mim, não terá jamais fome, e o que crê em mim, não terá jamais sede”. E aquele que vem a mim, não o lançarei fora.",
+    "meditatio_perguntas": [
+      "Procuro Jesus por causa dele, ou pelo que espero obter?",
+      "Por que comida trabalho mais: a que perece ou a que dura até à vida eterna?",
+      "Acredito que Jesus não me lançará fora se eu for ter com Ele?"
+    ],
+    "oratio_guia": "Senhor, dá-me sempre desse pão. Tu és o pão da vida: sacia a minha fome e a minha sede. Purifica as minhas intenções, para que te procure por ti mesmo. Aumenta a minha fé, e ressuscita-me no último dia. Amém.",
+    "contemplatio_foco": { "texto": "Eu sou o pão da vida", "ref": "Jo 6,35" }
+  },
+  "ancoras": {
+    "6:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 10", "catena": "6:22–27#16", "sintese": "Quantos procuram Jesus só por algum benefício temporal: raramente se procura Jesus por causa de Jesus." }
+      ],
+      "nota": null
+    },
+    "6:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 10", "catena": "6:22–27#9", "sintese": "Sob a figura do alimento alude a si mesmo: procurais-me por outra coisa; procurai-me por mim." },
+        { "autor": "Santo Hilário", "obra": "viii. de Trin. c. 44", "catena": "6:22–27#13", "sintese": "O selo transmite a forma inteira: imagem, ainda que imperfeita, de como o Filho exprime o Pai." }
+      ],
+      "nota": null
+    },
+    "6:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. in Joan.", "catena": "6:28–34#4", "sintese": "Crer nele não é só dar-lhe crédito: é crer amando, indo a Ele e sendo incorporado no seu corpo, com a fé que age pela caridade." },
+        { "autor": "Santo Agostinho", "obra": "xxv. 12", "catena": "6:28–34#5", "sintese": "Comer o alimento que permanece é crer nele. Por que preparas os dentes e o ventre? Crê, e já comeste." }
+      ],
+      "nota": null
+    },
+    "6:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 13.", "catena": "6:28–34#11", "sintese": "O maná era figura deste alimento: gostais dos milagres, mas desprezais o que significam; o pão é o próprio Cristo." }
+      ],
+      "nota": null
+    },
+    "6:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "6:35–40#1", "sintese": "Não diz pão do sustento, mas da vida: a vida que a morte não interrompe." }
+      ],
+      "nota": { "texto": "Primeiro dos sete “Eu sou” com predicado em João: pão da vida, luz do mundo, porta, bom pastor, ressurreição e vida, caminho-verdade-vida, videira.", "origem": "ia" }
+    },
+    "6:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 14", "catena": "6:35–40#10", "sintese": "O lugar interior de onde ninguém é lançado fora é um santuário sem fadiga nem dor: “Entra na alegria do teu Senhor”." }
+      ],
+      "nota": null
+    },
+    "6:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. 19", "catena": "6:35–40#17", "sintese": "Dupla ressurreição: quem vem a Ele ressuscita já, tornando-se seu membro; e será ressuscitado no último dia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "JHN.4.43",
+  "livro": "JHN",
+  "titulo": "A cura do filho do oficial do rei",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 4,43-54",
+  "ini": { "c": 4, "v": 43 },
+  "fim": { "c": 4, "v": 54 },
+  "liturgia": { "tema_central": "“Vai, o teu filho vive”: a fé que cresce ao confiar na palavra", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Passados dois dias, Jesus parte para a Galileia, pois Ele mesmo afirmara que um profeta não é honrado na sua pátria. Os galileus recebem-no bem, porque tinham visto o que fizera em Jerusalém pela festa. Volta a Caná, onde transformara a água em vinho. Em Cafarnaum, um funcionário real tem o filho doente; ao saber que Jesus chegou, vai ter com Ele e pede-lhe que desça a curar o filho, que está a morrer. Jesus diz: “Vós, se não virdes milagres e prodígios, não credes”. O homem insiste: “Senhor, vem antes que meu filho morra”. Jesus responde: “Vai, o teu filho vive”. O homem acredita na palavra e parte. No caminho, os criados vêm dizer-lhe que o filho vive. Pergunta a hora em que melhorou: “Ontem, à hora sétima, deixou-o a febre”. O pai reconhece que foi a hora em que Jesus lhe dissera “Teu filho vive”, e crê ele com toda a sua casa. Foi este o segundo sinal de Jesus, vindo da Judeia para a Galileia.",
+    "alegorico": "Cristo salva com uma palavra, como com a sua vontade criou todas as coisas: não precisa de descer à casa para estar presente onde é invocado. O funcionário, o “pequeno rei”, representa o homem, que recebe a alma do Rei do universo e é chamado a reinar sobre si. A hora sétima evoca o Espírito septiforme, por quem se dá toda a remissão dos pecados. Caná, lugar do primeiro sinal, torna-se outra vez lugar de vida.",
+    "moral": "O funcionário duvidava: pedia que Jesus descesse, como se não pudesse salvar sem estar presente. Mas a fé forma-se pouco a pouco: começa quando pede, cresce quando crê na palavra “o teu filho vive”, amadurece quando vê o fruto. O Senhor deseja que a mente do fiel se eleve tanto que nem busque milagres. Jesus abate também a soberba que honra a riqueza: não corre à casa do grande, mas responde com a mesma palavra que daria ao pobre.",
+    "anagogico": "“O teu filho vive”: a palavra de Cristo atravessa a distância e a morte. Assim, na ressurreição, a mesma palavra devolverá a vida aos que dormem, e toda a casa dos crentes verá cumprido o que acreditou sem ver."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Havia em Cafarnaum um funcionário real, cujo filho estava doente. Foi ter com ele e rogou-lhe que fosse a sua casa curar seu filho, que estava a morrer. Jesus disse-lhe: “Vós, se não virdes milagres e prodígios, não credes”. O funcionário real disse-lhe: “Senhor, vem antes que meu filho morra”. Jesus disse-lhe: “Vai, o teu filho vive”. Deu o homem crédito ao que Jesus lhe disse, e partiu. Acreditou ele, assim como toda a sua família.",
+    "meditatio_perguntas": [
+      "A minha fé precisa de sinais e prodígios, ou apoia-se na palavra de Jesus?",
+      "Sou capaz de “partir” confiando, antes de ver o resultado?",
+      "Por quem da minha casa intercedo junto de Jesus?"
+    ],
+    "oratio_guia": "Senhor Jesus, apresento-te os que amo e estão doentes no corpo ou na alma. Não preciso de te ver chegar: basta a tua palavra. Aumenta a minha fé, para que eu parta confiando no que dizes, e que toda a minha casa creia em ti. Amém.",
+    "contemplatio_foco": { "texto": "Vai, o teu filho vive.", "ref": "Jo 4,50" }
+  },
+  "ancoras": {
+    "4:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "tom. xvii. c. 54", "catena": "4:43–45#4", "sintese": "A pátria dos profetas era a Judeia, e todos sabem quão pouca honra receberam dos judeus." }
+      ],
+      "nota": null
+    },
+    "4:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "4:46–54#7", "sintese": "O Senhor quer que a mente do fiel se eleve acima das coisas mutáveis a ponto de nem buscar milagres." }
+      ],
+      "nota": null
+    },
+    "4:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. xxviii. 1", "catena": "4:46–54#8", "sintese": "Pedia que descesse: a sua fé era deficiente, pois julgava que o Senhor só podia salvar estando presente." }
+      ],
+      "nota": null
+    },
+    "4:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. in Evang. xxviii. 1, 2", "catena": "4:46–54#10", "sintese": "Está onde é invocado, mesmo ausente no corpo; salva com uma ordem, como criou tudo com a vontade, e abate a soberba que honra a riqueza." }
+      ],
+      "nota": null
+    },
+    "4:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "4:46–54#19", "sintese": "Na hora sétima, porque toda a remissão dos pecados se dá pelo Espírito septiforme." }
+      ],
+      "nota": { "texto": "A hora sétima corresponde a cerca da uma da tarde. A distância entre Caná e Cafarnaum é de uns 25 a 30 km, o que explica que o pai só chegasse no dia seguinte.", "origem": "ia" }
+    },
+    "4:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:46–54#15", "sintese": "A fé forma-se pouco a pouco: começa no pedido, cresce ao crer na palavra, amadurece com a notícia da cura." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xvi. c. 3", "catena": "4:46–54#16", "sintese": "Os samaritanos creram só pela palavra; esta casa creu pela força do milagre." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

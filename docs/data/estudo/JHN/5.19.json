@@ -1,0 +1,107 @@
+{
+  "id": "JHN.5.19",
+  "livro": "JHN",
+  "titulo": "O Filho dá a vida e julga",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 5,19-47",
+  "ini": { "c": 5, "v": 19 },
+  "fim": { "c": 5, "v": 47 },
+  "liturgia": { "tema_central": "Quem ouve a palavra do Filho passou da morte para a vida", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus responde aos que o acusam de se fazer igual a Deus. O Filho nada faz por si mesmo, mas o que vê fazer ao Pai; tudo o que o Pai faz, o Filho faz igualmente. O Pai ama o Filho e mostrar-lhe-á obras maiores: como o Pai ressuscita os mortos, o Filho dá vida a quem quer. O Pai entregou todo o juízo ao Filho, para que todos honrem o Filho como honram o Pai. Quem ouve a sua palavra e crê naquele que o enviou tem a vida eterna e passou da morte para a vida. Vem a hora, e já chegou, em que os mortos ouvirão a voz do Filho de Deus e viverão; virá também o tempo em que os que estão nos sepulcros sairão, uns para a ressurreição da vida, outros para a condenação. Depois Jesus invoca testemunhas: João, lâmpada ardente e luminosa; as obras que o Pai lhe deu a cumprir; o próprio Pai; e as Escrituras, que dão testemunho dele. Mas não querem vir a Ele para ter vida: recebem glória uns dos outros e não buscam a que vem de Deus. Moisés, em quem confiam, os acusará, porque escreveu a respeito dele.",
+    "alegorico": "O Filho “não pode” fazer nada por si, não por deficiência, mas porque permanece no seu nascimento do Pai: para Ele, ver é ser Filho. Há duas ressurreições: a da alma, que é agora, quando os incrédulos ouvem o Evangelho e são justificados; e a dos corpos, no fim, quando os sepulcros ouvirão a sua voz. O juiz que se sentará é o que esteve de pé diante do juiz: julgará na forma de servo, que bons e maus verão, mas a forma de Deus só os bons a contemplarão. Tudo o que Moisés escreveu refere-se a Cristo.",
+    "moral": "O degrau da piedade é a fé, e o seu fruto o entendimento: comecemos por ouvir e crer. O Filho único diz “não busco a minha vontade”, e os homens querem fazer a sua; façamos a vontade do Pai. Vir a Cristo é crer nele. A ânsia de louvor humano impede a fé: guardemo-nos dela lembrando que somos pó, atribuindo todo o bem a Deus e procurando ser o que desejamos parecer. Não basta examinar as Escrituras: é preciso deixar que elas nos levem a Cristo.",
+    "anagogico": "“Os que tiverem feito obras boas sairão para a ressurreição da vida”: a palavra que agora nos faz passar da morte para a vida será, no último dia, a voz que abre os sepulcros. Então o Filho será honrado como o Pai, e os justos verão aquilo que agora creem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em verdade, em verdade vos digo que quem ouve a minha palavra e crê naquele que me enviou, tem a vida eterna e não incorre na sentença da condenação, mas passou da morte para vida. Vem a hora, e já chegou, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem, viverão. João era uma lâmpada ardente e luminosa. Examinais as Escrituras: elas são as que dão testemunho de mim. E não quereis vir a mim, para terdes vida.",
+    "meditatio_perguntas": [
+      "Leio as Escrituras para encontrar Cristo, ou apenas para saber coisas?",
+      "Busco a glória dos homens mais do que a glória que vem de Deus?",
+      "Em que parte de mim ainda preciso de passar da morte para a vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho que vês e fazes as obras do Pai, faz-me ouvir a tua voz e passar da morte para a vida. Livra-me da sede de louvor humano e dá-me buscar só a glória que vem de Deus. Que as Escrituras me conduzam a ti. Amém.",
+    "contemplatio_foco": { "texto": "quem ouve a minha palavra e crê naquele que me enviou, tem a vida eterna", "ref": "Jo 5,24" }
+  },
+  "ancoras": {
+    "5:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "contra Serm. Arianorum, c. 9", "catena": "5:19–20#9", "sintese": "Não é deficiência, mas permanência no nascimento do Pai: não poder mudar é tão excelso como não poder morrer." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xxi", "catena": "5:19–20#13", "sintese": "O ver do Filho é o seu ser Filho: vê a partir da mesma fonte de que é, nasce e permanece." }
+      ],
+      "nota": null
+    },
+    "5:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "xxi. s. 13", "catena": "5:21–23#8", "sintese": "O Filho apareceu como servo, mas será visto igual ao Pai: quem não honra o Filho não honra o Pai." }
+      ],
+      "nota": null
+    },
+    "5:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxii. s. 2", "catena": "5:24#1", "sintese": "Se ouvir e crer é a vida eterna, quanto mais entender! O degrau da piedade é a fé; o seu fruto, o entendimento." }
+      ],
+      "nota": null
+    },
+    "5:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "5:25–26#4", "sintese": "Os mortos são os incrédulos; a voz, o Evangelho; os que a ouvem e obedecem são justificados e vivem." }
+      ],
+      "nota": null
+    },
+    "5:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Verb. Dom. Serm. 64", "catena": "5:27–29#3", "sintese": "Julgará a forma que foi julgada: o que esteve de pé diante do juiz sentar-se-á como juiz." }
+      ],
+      "nota": null
+    },
+    "5:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Verb. Dom. Serm. 64", "catena": "5:27–29#5", "sintese": "Aqui não acrescenta “e já chegou”: esta hora será no fim do mundo, a ressurreição dos corpos." }
+      ],
+      "nota": null
+    },
+    "5:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxi", "catena": "5:30#6", "sintese": "O Filho único diz “não busco a minha vontade”, e os homens querem fazer a sua: façamos a vontade de Deus." }
+      ],
+      "nota": null
+    },
+    "5:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "5:31–40#7", "sintese": "João era lâmpada acesa por Cristo, a Luz: ardia pela fé e pelo amor, iluminava pelas palavras e pelas obras." }
+      ],
+      "nota": null
+    },
+    "5:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in v. Joan.", "catena": "5:31–40#18", "sintese": "“Vir” significa crer; e promete a vida da alma a quem estava morto na mente." }
+      ],
+      "nota": null
+    },
+    "5:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:41–47#7", "sintese": "Contra a vanglória: lembrar que somos pó, atribuir todo o bem a Deus e ser tais como desejamos parecer." }
+      ],
+      "nota": null
+    },
+    "5:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "cont. Faust. l. xvi. c. 9", "catena": "5:41–47#10", "sintese": "Tudo o que Moisés escreveu refere-se principalmente a Cristo, por figuras ou expondo a sua graça." }
+      ],
+      "nota": { "texto": "Uma passagem clássica é a promessa de um profeta como Moisés (Dt 18,15.18).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

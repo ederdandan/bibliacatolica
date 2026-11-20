@@ -1,0 +1,60 @@
+{
+  "id": "JHN.6.16",
+  "livro": "JHN",
+  "titulo": "Jesus caminha sobre as águas",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 6,16-21",
+  "ini": { "c": 6, "v": 16 },
+  "fim": { "c": 6, "v": 21 },
+  "liturgia": { "tema_central": "“Sou eu, não temais”: Cristo vem até à Igreja no meio da tempestade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao cair da tarde, os discípulos descem ao mar, sobem para uma barca e atravessam em direção a Cafarnaum. Já é escuro, e Jesus ainda não está com eles. O mar começa a encapelar-se com um vento forte. Depois de remarem uns vinte e cinco ou trinta estádios, veem Jesus a caminhar sobre o mar, aproximando-se da barca, e ficam cheios de medo. Ele diz-lhes: “Sou eu, não temais”. Querem então recebê-lo na barca, e logo a barca chega à terra para onde iam.",
+    "alegorico": "Enquanto Cristo está no monte, isto é, no céu, a barca da Igreja atravessa o mar deste mundo na escuridão e com vento contrário. Ele vem caminhando sobre as águas, mostrando o seu domínio sobre tudo o que nos ameaça. Não diz “sou Jesus”, mas “Sou eu”, o mesmo nome com que se revelou a Moisés: “Eu sou aquele que sou”. Recebido na barca, logo chega ao porto: com Cristo a bordo, a Igreja alcança a terra prometida.",
+    "moral": "Quando homens ou demónios nos quiserem aterrorizar, ouçamos Cristo: “Sou eu, não temais”. Ele permite que fiquemos algum tempo no meio dos perigos para provar a nossa paciência, e muitas vezes vem quando a tribulação está a terminar. Na barca não há tripulação ociosa: todos remam. Não são os preguiçosos, mas os perseverantes nas boas obras que chegam ao porto da salvação.",
+    "anagogico": "A travessia noturna é a vida presente; a terra onde a barca chega é a pátria eterna. Quando acolhermos plenamente Cristo, a viagem termina “logo”: o porto da salvação está mais perto do que o medo nos faz crer."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Era já escuro, e Jesus ainda não tinha ido ter com eles. Entretanto o mar começava a empolar-se, por causa do vento forte que soprava. Viram Jesus caminhando sobre o mar, em direção à barca, e ficaram atemorizados. Mas ele disse-lhes: “Sou eu, não temais”. Quiseram então recebê-lo na barca; e logo a barca chegou à terra, para onde iam.",
+    "meditatio_perguntas": [
+      "Que escuridão ou vento contrário estou a atravessar agora?",
+      "Reconheço Jesus quando vem ao meu encontro de forma inesperada, ou tenho medo dele?",
+      "Estou a remar com os outros na barca da Igreja, ou deixo-me levar?"
+    ],
+    "oratio_guia": "Senhor Jesus, quando a noite cai e o vento sopra contra mim, vem ao meu encontro sobre as águas. Diz-me ao coração: Sou eu, não temais. Quero receber-te na minha barca, para chegar contigo ao porto. Amém.",
+    "contemplatio_foco": { "texto": "Sou eu, não temais.", "ref": "Jo 6,20" }
+  },
+  "ancoras": {
+    "6:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xxv. s. 3. e segs.", "catena": "6:15–21#14", "sintese": "Há sentido místico em alimentar a multidão e voltar ao monte: “volta às alturas”, para que a assembleia dos povos te rodeie." }
+      ],
+      "nota": null
+    },
+    "6:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "no v. cap. Joan.", "catena": "6:15–21#6", "sintese": "“Vinte e cinco ou trinta” é o modo de falar de quem não sabe ao certo." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xliii. 1", "catena": "6:15–21#11", "sintese": "Não se mostra à multidão a andar sobre o mar, pois esse milagre excedia a sua capacidade." }
+      ],
+      "nota": { "texto": "Vinte e cinco a trinta estádios são cerca de 5 a 6 km: estavam a meio do lago.", "origem": "ia" }
+    },
+    "6:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "in Matth. c. xiv.", "catena": "6:15–21#8", "sintese": "Não diz “Sou Jesus”, mas “Sou eu”: o mesmo que disse a Moisés “Eu sou aquele que sou”." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:15–21#15", "sintese": "Quando nos quiserem aterrorizar, ouçamos “Sou eu, não temais”; e Ele vem muitas vezes quando o perigo está a terminar." }
+      ],
+      "nota": null
+    },
+    "6:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:15–21#16", "sintese": "Na barca não há tripulação ociosa: só os perseverantes nas boas obras chegam ao porto da salvação." },
+        { "autor": "Teofilato", "obra": null, "catena": "6:15–21#10", "sintese": "Três milagres: anda sobre o mar, acalma as ondas e leva logo a barca à terra." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

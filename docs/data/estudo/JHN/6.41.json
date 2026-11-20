@@ -1,0 +1,83 @@
+{
+  "id": "JHN.6.41",
+  "livro": "JHN",
+  "titulo": "A minha carne é verdadeiramente comida",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 6,41-59",
+  "ini": { "c": 6, "v": 41 },
+  "fim": { "c": 6, "v": 59 },
+  "liturgia": { "tema_central": "“Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os judeus murmuram porque Jesus disse ser o pão descido do céu: não é Ele o filho de José, cujos pais conhecem? Jesus responde: “Não murmureis”. Ninguém pode vir a Ele se o Pai não o atrair, e Ele o ressuscitará no último dia; está escrito nos profetas que todos serão ensinados por Deus, e quem ouve e aprende do Pai vem a Ele. Só quem vem de Deus viu o Pai. Quem crê tem a vida eterna. “Eu sou o pão da vida.” Os pais comeram o maná no deserto e morreram; este é o pão que desce do céu para que quem dele comer não morra. “O pão que eu darei é a minha carne para a salvação do mundo.” Os judeus discutem: como pode dar-nos a comer a sua carne? Jesus não recua, antes insiste: se não comerem a carne do Filho do homem e não beberem o seu sangue, não terão a vida em si; quem os come tem a vida eterna e será ressuscitado no último dia. A sua carne é verdadeiramente comida e o seu sangue verdadeiramente bebida; quem os come permanece nele, e Ele nele. Como Ele vive pelo Pai, quem o come viverá por Ele. Ensinava isto na sinagoga de Cafarnaum.",
+    "alegorico": "O maná e o altar antigo eram sinais diferentes da mesma realidade: Cristo, pão vivo. O maná era sombra; este é a verdade. Cristo é pão não só pela divindade que alimenta todas as coisas, mas pela humanidade assumida: deu este pão ao entregar aos discípulos o mistério do seu Corpo e Sangue e ao oferecer-se ao Pai no altar da cruz. Não é enigma nem parábola: a carne é verdadeiramente carne, e o sangue verdadeiramente sangue. Esta comunhão é também a do corpo com os seus membros, a Igreja.",
+    "moral": "O Pai atrai não por coação, mas ensinando a verdade e despertando o amor: ninguém crê contra a vontade. Comer a carne de Cristo não basta de modo exterior: há quem a receba com hipocrisia; o fiel deve recebê-la não só sacramentalmente, mas em verdade, permanecendo nele pela caridade. Quem comunga é chamado a viver por Cristo, como Ele vive pelo Pai.",
+    "anagogico": "“Eu o ressuscitarei no último dia”: a Eucaristia é penhor da glória. Também quem come Cristo passa pela morte do corpo, mas é livre da morte eterna; a carne de Cristo, recebida agora, é semente da ressurreição e da vida em que o Filho permanece em nós para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ninguém pode vir a mim, se o Pai que me enviou, o não atrair. Eu sou o pão da vida. Eu sou o pão vivo, descido do céu. Quem comer deste pão, viverá eternamente; e o pão que eu darei, é a minha carne para a salvação do mundo. Porque a minha carne é verdadeiramente comida, e o meu sangue verdadeiramente bebida. O que come a minha carne e bebe o meu sangue, permanece em mim e eu nele.",
+    "meditatio_perguntas": [
+      "Como me aproximo da comunhão: por hábito, ou com fé de que recebo verdadeiramente o Senhor?",
+      "Deixo-me atrair pelo Pai, ou murmuro como os que não entendiam?",
+      "Que significa para mim, hoje, “permanecer” em Cristo e Ele em mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, pão vivo descido do céu, creio que a tua carne é verdadeiramente comida e o teu sangue verdadeiramente bebida. Atrai-me, Pai, para o teu Filho. Que eu receba a Eucaristia com fé e amor, para permanecer em ti e tu em mim, e viver por ti. Amém.",
+    "contemplatio_foco": { "texto": "O que come a minha carne e bebe o meu sangue, permanece em mim e eu nele.", "ref": "Jo 6,57" }
+  },
+  "ancoras": {
+    "6:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:41–46#3", "sintese": "Assumiu a carne, mas não à maneira dos homens: tendo o Pai no céu, escolheu na terra uma mãe e dela nasceu sem pai." }
+      ],
+      "nota": null
+    },
+    "6:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:41–46#5", "sintese": "Pode-se entrar na igreja contra a vontade, mas não crer: quem é atraído vem querendo." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:41–46#14", "sintese": "O Pai atrai não impondo necessidade, mas ensinando a verdade." }
+      ],
+      "nota": null
+    },
+    "6:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:47–51#5", "sintese": "O maná e o altar de Deus significavam este pão: sinais diferentes, a mesma realidade." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:47–51#7", "sintese": "Morremos no corpo como eles, mas somos livres da morte espiritual; Moisés, que entendeu o maná espiritualmente, não morreu assim." }
+      ],
+      "nota": null
+    },
+    "6:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:51#0", "sintese": "É pão não só pela divindade, que tudo alimenta, mas pela humanidade assumida: “o pão que eu darei é a minha carne”." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "6:51#1", "sintese": "Deu este pão ao entregar o mistério do seu Corpo e Sangue e ao oferecer-se ao Pai no altar da cruz." }
+      ],
+      "nota": { "texto": "Na numeração de Matos Soares (Vulgata), Jo 6,52 corresponde à segunda metade de 6,51 nas edições modernas; daí até 6,72 a numeração está um versículo adiante.", "origem": "ia" }
+    },
+    "6:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:52–54#8", "sintese": "Este alimento significa a comunhão do corpo com os seus membros, a Igreja; o sacramento é dado da mesa do Senhor." }
+      ],
+      "nota": null
+    },
+    "6:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "6:55–59#1", "sintese": "Não é enigma nem parábola: deve-se comer realmente o corpo de Cristo." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "6:55–59#8", "sintese": "Não resta lugar para dúvida: a carne é verdadeiramente carne e o sangue verdadeiramente sangue; por ela Cristo permanece em nós." }
+      ],
+      "nota": { "texto": "O verbo usado a partir de 6,55 (6,54 nas edições modernas) no grego (trōgō) significa “mastigar”, reforçando o realismo das palavras de Jesus.", "origem": "ia" }
+    },
+    "6:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:55–59#5", "sintese": "Come o corpo e bebe o sangue de Cristo não só sacramentalmente, mas em verdade." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "6:55–59#4", "sintese": "Há quem coma aquela carne com hipocrisia: esses não permanecem nele." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
