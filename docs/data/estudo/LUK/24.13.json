@@ -1,0 +1,101 @@
+{
+  "id": "LUK.24.13",
+  "livro": "LUK",
+  "titulo": "Os discípulos de Emaús",
+  "secao": "A Ressurreição",
+  "referencia": "Lc 24,13-35",
+  "ini": { "c": 24, "v": 13 },
+  "fim": { "c": 24, "v": 35 },
+  "liturgia": { "tema_central": "Reconhecido nas Escrituras e na fração do pão: “Fica connosco, Senhor”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No mesmo dia, dois discípulos vão para uma aldeia chamada Emaús, a cerca de sessenta estádios de Jerusalém, conversando sobre tudo o que acontecera. Jesus aproxima-se e caminha com eles, mas os seus olhos estão impedidos de o reconhecer. Pergunta de que falam; param, tristes, e Cléofas responde: “És tu o único forasteiro em Jerusalém que não sabe o que lá aconteceu?”. Falam de Jesus de Nazaré, profeta poderoso em obras e palavras, entregue e crucificado: “Nós esperávamos que fosse Ele quem havia de libertar Israel”; e já é o terceiro dia. Contam que algumas mulheres encontraram o sepulcro vazio e viram anjos que dizem que Ele vive, mas a Ele não o viram. Jesus diz-lhes: “Ó insensatos e lentos de coração para crer em tudo o que os profetas disseram! Não era necessário que o Cristo sofresse estas coisas para entrar na sua glória?”. E, começando por Moisés e por todos os profetas, explica-lhes o que nas Escrituras se referia a Ele. Perto da aldeia, faz menção de seguir adiante, mas eles insistem: “Fica connosco, porque é tarde e o dia já declina”. Entra para ficar com eles. À mesa, toma o pão, abençoa-o, parte-o e dá-lho. Abrem-se-lhes os olhos e reconhecem-no, mas Ele desaparece. Dizem um ao outro: “Não ardia o nosso coração quando nos falava pelo caminho e nos explicava as Escrituras?”. Voltam logo a Jerusalém e encontram os Onze, que dizem: “O Senhor ressuscitou verdadeiramente e apareceu a Simão”. E contam como o reconheceram ao partir o pão.",
+    "alegorico": "Cristo junta-se aos dois que falam dele, cumprindo a promessa de estar no meio dos que se reúnem em seu nome. A forma que esconde aos olhos é figura do que se passava nas mentes: amavam e duvidavam. Toda a Escritura, de Moisés aos Profetas, fala de Cristo e da sua entrada na glória pela paixão. Reconhecido na fração do pão, Cristo mostra que os olhos dos que recebem o pão sagrado se abrem para o reconhecer: a liturgia da Palavra e a da Eucaristia formam um só caminho.",
+    "moral": "Como se gaba de ser cristão quem não procura saber como as Escrituras falam de Cristo, nem deseja chegar pela cruz à glória? A palavra ouvida acende o espírito, afasta o torpor e desperta o desejo celeste: cada mandamento é lenha posta no fogo. Os discípulos, que não reconheceram o Senhor quando falava, reconhecem-no na hospitalidade e à mesa: quem quer compreender o que ouviu, apresse-se a praticar o que já compreende. Cristo, recebido nos seus membros, procura por si mesmo os que o acolhem.",
+    "anagogico": "“Fica connosco, porque o dia declina”: na tarde da vida e da história, o Ressuscitado permanece com a Igreja na Palavra e no Pão, até ao dia em que o veremos face a face. Do encontro nasce a missão: os discípulos voltam a anunciar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aproximou-se deles o próprio Jesus, e caminhou com eles. Os seus olhos, porém, estavam como que fechados, de modo que não o reconheceram. Jesus disse-lhes: “Porventura não era necessário que o Cristo sofresse tais coisas, para entrar na sua glória?” Mas eles o constrangeram, dizendo: “Fica connosco, porque faz-se tarde, e o dia declina”. Estando com eles à mesa, tomou o pão, o benzeu, partiu, e lho deu. Abriram-se os seus olhos, e reconheceram-no. Disseram então um para o outro: “Não é verdade que nós sentíamos abrasar-se-nos o coração, quando ele nos falava pelo caminho, e nos explicava as Escrituras?”",
+    "meditatio_perguntas": [
+      "Em que caminhos de desilusão Jesus caminha comigo sem que eu o reconheça?",
+      "As Escrituras fazem arder o meu coração? Como as leio?",
+      "Reconheço o Senhor na fração do pão, e isso me leva a voltar e anunciar?"
+    ],
+    "oratio_guia": "Fica connosco, Senhor, porque é tarde e o dia já declina. Caminha comigo nas minhas tristezas, abre-me as Escrituras e faz arder o meu coração. Abre os meus olhos para te reconhecer ao partir o pão, e envia-me a anunciar que verdadeiramente ressuscitaste. Amém.",
+    "contemplatio_foco": { "texto": "Fica connosco, porque faz-se tarde, e o dia declina.", "ref": "Lc 24,29" }
+  },
+  "ancoras": {
+    "24:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:13–24#6", "sintese": "Enquanto falam dele, aproxima-se para inflamar a sua fé, cumprindo a promessa de estar onde dois se reúnem em seu nome." }
+      ],
+      "nota": null
+    },
+    "24:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 23 in Ev.", "catena": "24:13–24#8", "sintese": "Mostra fora o que se passava dentro: amavam e duvidavam; por isso está presente, mas oculta o rosto." }
+      ],
+      "nota": null
+    },
+    "24:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:13–24#12", "sintese": "Poderoso em obras e palavras: primeiro a obra, depois a palavra; a ação limpa o espelho do entendimento." }
+      ],
+      "nota": null
+    },
+    "24:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:13–24#15", "sintese": "Entristeciam-se por terem esperado a redenção daquele que viam morto, e por ter morrido sem causa o inocente." }
+      ],
+      "nota": null
+    },
+    "24:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:25–35#0", "sintese": "Repreende-os porque, cheios de dúvidas, falavam quase como os que zombavam junto à cruz." }
+      ],
+      "nota": null
+    },
+    "24:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:25–35#3", "sintese": "Como se diz cristão quem não procura como as Escrituras falam de Cristo nem deseja chegar à glória pela cruz?" }
+      ],
+      "nota": null
+    },
+    "24:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "24:25–35#8", "sintese": "Recebido nos seus membros, Cristo procura os que o acolhem: não reconhecido nas Escrituras, é reconhecido no pão." }
+      ],
+      "nota": null
+    },
+    "24:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:25–35#11", "sintese": "Abrem-se os olhos dos que recebem o pão sagrado para reconhecerem Cristo: a carne do Senhor tem poder inefável." },
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "24:25–35#13", "sintese": "Quem quer compreender o que ouviu apresse-se a praticar o que já compreende: foi reconhecido à mesa." }
+      ],
+      "nota": null
+    },
+    "24:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "24:25–35#15", "sintese": "As palavras do Salvador inflamavam os corações dos ouvintes no amor de Deus." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 10 in Ev.", "catena": "24:25–35#16", "sintese": "A palavra ouvida acende o espírito e afasta o torpor: cada mandamento é lenha posta no fogo." }
+      ],
+      "nota": null
+    },
+    "24:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:25–35#20", "sintese": "Não se mostrou a todos ao mesmo tempo, para semear a fé: apareceu primeiro ao mais fiel, Pedro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

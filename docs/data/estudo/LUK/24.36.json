@@ -1,0 +1,105 @@
+{
+  "id": "LUK.24.36",
+  "livro": "LUK",
+  "titulo": "A aparição aos apóstolos e a Ascensão",
+  "secao": "A Ressurreição",
+  "referencia": "Lc 24,36-53",
+  "ini": { "c": 24, "v": 36 },
+  "fim": { "c": 24, "v": 53 },
+  "liturgia": { "tema_central": "“Vós sois as testemunhas”: o Ressuscitado abençoa e sobe ao céu", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Enquanto os discípulos falam destas coisas, Jesus apresenta-se no meio deles: “A paz esteja convosco”. Perturbados e cheios de medo, julgam ver um espírito. Ele diz: “Por que estais perturbados? Vede as minhas mãos e os meus pés: sou eu mesmo. Apalpai-me e vede: um espírito não tem carne nem ossos, como vedes que eu tenho”. Como ainda não creem, por causa da alegria e do espanto, pede algo de comer; dão-lhe um pedaço de peixe assado, e Ele come diante deles. Recorda que devia cumprir-se tudo o que estava escrito sobre Ele na Lei de Moisés, nos Profetas e nos Salmos, e abre-lhes o entendimento para compreenderem as Escrituras: estava escrito que o Cristo sofreria e ressuscitaria ao terceiro dia, e que em seu nome se pregaria a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém. “Vós sois as testemunhas destas coisas.” Promete enviar o que o Pai prometeu: devem permanecer na cidade até serem revestidos da força do alto. Depois leva-os até perto de Betânia e, levantando as mãos, abençoa-os. Enquanto os abençoa, separa-se deles e é elevado ao céu. Eles prostram-se, voltam a Jerusalém com grande alegria e estão continuamente no Templo, bendizendo a Deus.",
+    "alegorico": "O peixe assado que Cristo come significa os seus sofrimentos. As mãos levantadas para abençoar mostram que só abençoa quem está adornado de obras em favor dos outros. Subindo ao céu como Cabeça, Cristo leva consigo o corpo: como é a cabeça, assim será o corpo. O Evangelho de Lucas, representado pelo novilho do sacrifício sacerdotal, que começou no Templo com Zacarias, termina no Templo com os discípulos a bendizer a Deus: Cristo é o Sumo Sacerdote que, abençoando, entra no santuário celeste.",
+    "moral": "A paz é o primeiro dom do Ressuscitado: um bem louvado por todos, mas guardado por poucos. Os sinais das mãos e dos pés afastam os pensamentos falsos e mostram que é o mesmo crucificado. A missão não se faz com força humana: como o general arma os soldados antes do combate, o Senhor manda esperar a força do alto, a armadura do Espírito. A conversão e o perdão anunciados em seu nome passam pelo batismo. Como os discípulos, vivamos em louvor contínuo e alegria.",
+    "anagogico": "A ressurreição de Cristo é imagem da nossa: ressuscitaremos nos nossos corpos, tornados gloriosos e incorruptíveis. A Ascensão mostra as recompensas prometidas: também nós seremos elevados, pois o nosso corpo é da mesma natureza que o da Cabeça que já está no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apresentou-se Jesus no meio deles, e disse-lhes: “A paz seja convosco. Olhai para as minhas mãos e pés, porque sou eu mesmo; apalpai, e vede”. Então abriu-lhes o entendimento, para compreenderem as Escrituras; e disse-lhes: “Assim era necessário que o Cristo padecesse e ressuscitasse dos mortos ao terceiro dia, e que em seu nome se pregasse a penitência e a remissão dos pecados a todas as nações. Vós sois as testemunhas destas coisas”. Depois, levantando as suas mãos, os abençoou. Enquanto os abençoava, separou-se deles, e elevava-se ao céu. Eles voltaram para Jerusalém com grande júbilo, e estavam continuamente no templo, louvando a Deus.",
+    "meditatio_perguntas": [
+      "Que perturbações e dúvidas preciso de entregar à paz do Ressuscitado?",
+      "Como sou testemunha da conversão e do perdão no meu ambiente?",
+      "Vivo à espera e na força do Espírito, em louvor e alegria como os discípulos?"
+    ],
+    "oratio_guia": "Senhor Jesus, ressuscitado e elevado ao céu, dá-me a tua paz e abre o meu entendimento para compreender as Escrituras. Reveste-me da força do alto para ser tua testemunha. Abençoa-me com as tuas mãos levantadas, e faz que a minha vida seja um louvor contínuo a Deus, até ao dia em que me levarás contigo. Amém.",
+    "contemplatio_foco": { "texto": "Enquanto os abençoava, separou-se deles, e elevava-se ao céu.", "ref": "Lc 24,51" }
+  },
+  "ancoras": {
+    "24:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:36–40#7", "sintese": "Acalma a inquietação com a saudação da paz, mostrando que é o mesmo Mestre que os enviara a pregar." },
+        { "autor": "São Gregório de Nazianzo", "obra": "Orat. 22.", "catena": "24:36–40#8", "sintese": "Veneremos o dom da paz que Cristo nos deixou: Ele é a nossa paz; bem louvado por todos, guardado por poucos." }
+      ],
+      "nota": null
+    },
+    "24:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "24:36–40#13", "sintese": "Sinal evidente de que é o mesmo que viram morto na cruz e posto no sepulcro." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "24:36–40#17", "sintese": "Imagem da nossa ressurreição: ressuscitaremos nos nossos corpos, tornados gloriosos." }
+      ],
+      "nota": null
+    },
+    "24:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:41–44#2", "sintese": "Deixa-se tocar e come com eles para que não suspeitassem que a aparição era imaginária." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:41–44#4", "sintese": "Comeu não por necessidade, mas para confirmar o corpo ressuscitado; o peixe assado figura os seus sofrimentos." }
+      ],
+      "nota": null
+    },
+    "24:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "24:45–49#1", "sintese": "Ensina às mentes perturbadas o mistério de Cristo: era necessário que padecesse no madeiro da cruz." }
+      ],
+      "nota": null
+    },
+    "24:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "24:45–49#3", "sintese": "As nações dadas em herança deviam ser purificadas pela conversão e pelo perdão anunciados em seu nome." },
+        { "autor": "Teofilato", "obra": null, "catena": "24:45–49#4", "sintese": "A penitência e a remissão dos pecados aludem ao batismo, no qual se segue o perdão da iniquidade." }
+      ],
+      "nota": null
+    },
+    "24:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 1 in Act.", "catena": "24:45–49#9", "sintese": "Como o general arma os soldados antes do combate, não os envia antes da descida do Espírito." },
+        { "autor": "Teofilato", "obra": null, "catena": "24:45–49#10", "sintese": "Diz “revestidos”: força celeste e proteção completa da armadura espiritual." }
+      ],
+      "nota": null
+    },
+    "24:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "24:50–53#2", "sintese": "Abençoar com mãos levantadas: quem abençoa deve estar adornado de obras em favor dos outros." }
+      ],
+      "nota": null
+    },
+    "24:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:50–53#3", "sintese": "Põe diante dos olhos as recompensas prometidas: ressuscitou e subiu, como nós seremos elevados." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:50–53#5", "sintese": "O teu corpo é da mesma natureza que o dele: como é a cabeça, assim será o corpo." }
+      ],
+      "nota": null
+    },
+    "24:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:50–53#6", "sintese": "Adoram-no e voltam com grande alegria, porque o seu Deus e Senhor, vencida a morte, subiu ao céu." }
+      ],
+      "nota": null
+    },
+    "24:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "24:50–53#9", "sintese": "Lucas, figurado pelo novilho do sacrifício, explica o sacerdócio de Cristo: começa e termina no Templo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
