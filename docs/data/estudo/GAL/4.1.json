@@ -1,0 +1,65 @@
+{
+  "id": "GAL.4.1",
+  "livro": "GAL",
+  "titulo": "Já não és servo, mas filho",
+  "secao": "A justificação pela fé",
+  "referencia": "Gl 4,1-20",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Já não és servo, mas filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Enquanto é menor, o herdeiro não difere de um escravo: está sob tutores até ao tempo fixado pelo pai. Assim também nós, sob os elementos do mundo. Mas, quando chegou a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei, para resgatar os que estavam sob a lei e para recebermos a adoção de filhos. E porque somos filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abbá, Pai! Já não és escravo, mas filho e herdeiro. Como podem os gálatas, depois de conhecerem a Deus, voltar a servir rudimentos fracos, observando dias e estações? Paulo recorda com ternura como o acolheram, doente, como a um anjo, como a Cristo; teriam arrancado os olhos por ele. Agora sofre por eles dores de parto, até que Cristo se forme neles.",
+    "alegorico": "Neste texto está todo o mistério da Trindade: o Pai envia o Filho e o Espírito do Filho. “Nascido de mulher” é a mais antiga menção paulina da Mãe de Jesus: pela Virgem Maria, o Filho eterno entra na história. Paulo, que sofre dores de parto, é imagem da Igreja-mãe que gera Cristo nos fiéis.",
+    "moral": "O cristão não reza como escravo, mas como filho, com a confiança de quem diz “Abbá”. Voltar ao legalismo ou à superstição é regredir à escravidão. Paulo mostra também o rosto afetivo do apostolado: o pastor sofre até que Cristo se forme nos seus.",
+    "anagogico": "“Se és filho, também és herdeiro de Deus”: a filiação adotiva tende para a herança, que é o próprio Deus possuído na glória. A formação de Cristo em nós só se completa na eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando chegou a plenitude do tempo, Deus enviou seu Filho, feito da mulher, feito sob a lei, para que recebêssemos a adoção de filhos. E, porque vós sois filhos, Deus mandou aos vossos corações o Espírito de seu Filho, que clama: Abba, Pai! Portanto já não és servo, mas filho; e, se és filho, também és herdeiro de Deus. Filhinhos meus, por quem eu sinto de novo as dores do parto, até que Jesus Cristo se forme em vós.",
+    "meditatio_perguntas": [
+      "Rezo ao Pai com a confiança de filho, dizendo “Abbá”?",
+      "Em que ainda vivo como servo e não como filho?",
+      "Estou disposto a “sofrer dores de parto” para que Cristo se forme nos outros?"
+    ],
+    "oratio_guia": "Abbá, Pai, que na plenitude do tempo enviaste o teu Filho, nascido da Virgem Maria, e derramaste em mim o seu Espírito, faz-me viver como teu filho e herdeiro. Forma Cristo em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Portanto já não és servo, mas filho",
+      "ref": "Gl 4,7"
+    }
+  },
+  "ancoras": {
+    "4:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gl 4,4-7 é a segunda leitura da solenidade de Santa Maria, Mãe de Deus (1º de janeiro).",
+        "origem": "ia"
+      }
+    },
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Abbá” é a palavra aramaica com que a criança chama o pai; Jesus usou-a no Getsémani (Mc 14,36).",
+        "origem": "ia"
+      }
+    },
+    "4:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não se sabe que doença era; muitos a relacionam com o “espinho na carne” de 2Cor 12,7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

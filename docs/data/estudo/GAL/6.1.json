@@ -1,0 +1,57 @@
+{
+  "id": "GAL.6.1",
+  "livro": "GAL",
+  "titulo": "Levai os fardos uns dos outros; a glória da cruz",
+  "secao": "A liberdade cristã",
+  "referencia": "Gl 6,1-18",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Gloriar-se só na cruz de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se alguém cair em falta, os espirituais corrijam-no com mansidão, olhando cada um para si, pois também pode ser tentado. Levai os fardos uns dos outros e assim cumprireis a lei de Cristo. Quem se julga alguma coisa, não sendo nada, engana-se; cada um examine a própria obra. O catequizado partilhe os bens com quem o catequiza. De Deus não se zomba: o que o homem semear, isso colherá; quem semeia na carne colhe corrupção, quem semeia no Espírito colhe vida eterna. Não nos cansemos de fazer o bem; enquanto temos tempo, façamos o bem a todos, sobretudo aos irmãos na fé. Paulo escreve de próprio punho, com letras grandes: os que impõem a circuncisão querem evitar a perseguição pela cruz. Quanto a ele, só se gloria na cruz de Cristo; o que vale é ser nova criatura. Traz no corpo as marcas de Jesus.",
+    "alegorico": "A cruz, escândalo para os judaizantes, é a glória do apóstolo e da Igreja. Pela cruz, o mundo e o cristão morrem um para o outro, e nasce a “nova criatura”. O “Israel de Deus” é a Igreja, povo da nova aliança. As marcas no corpo de Paulo são sinal da sua configuração a Cristo crucificado.",
+    "moral": "Levar os fardos uns dos outros é a lei de Cristo: corrigir com mansidão, sem orgulho, sabendo-se também frágil. A lei da semeadura lembra que cada ato tem consequência. O cansaço no bem é tentação constante; a resposta é perseverar enquanto há tempo. E a única glória legítima é a cruz, não os próprios méritos.",
+    "anagogico": "“Quem semeia no Espírito colherá do Espírito a vida eterna”: a colheita vem “a seu tempo”. A nova criatura, já começada, será revelada na ressurreição, quando também as marcas de Jesus brilharão como glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levai os fardos uns dos outros: desta maneira cumprireis a lei de Cristo. Aquilo que o homem semear, isso colherá. Não nos cansemos de fazer o bem, porque a seu tempo colheremos. Enquanto temos tempo, façamos bem a todos. Longe de mim o gloriar-me senão da cruz de Nosso Senhor Jesus Cristo, por quem o mundo está crucificado para mim, e eu para o mundo. O que vale é ser uma nova criatura.",
+    "meditatio_perguntas": [
+      "Que fardo de um irmão posso ajudar a levar esta semana?",
+      "O que estou a semear: na carne ou no Espírito?",
+      "Em que me glorio, de facto: nos meus êxitos ou na cruz de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus crucificado, que a minha única glória seja a tua cruz. Ensina-me a levar os fardos dos irmãos e a não me cansar de fazer o bem. Faz de mim uma nova criatura. Amém.",
+    "contemplatio_foco": {
+      "texto": "Longe de mim o gloriar-me senão da cruz de Nosso Senhor Jesus Cristo",
+      "ref": "Gl 6,14"
+    }
+  },
+  "ancoras": {
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As “grandes letras” indicam que Paulo pega na pena após ditar a carta, para sublinhar o essencial; alguns veem nisso um sinal da sua doença dos olhos (cf. 4,15).",
+        "origem": "ia"
+      }
+    },
+    "6:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Marcas” (stígmata): as cicatrizes das perseguições, como as marcas que identificavam o servo do seu senhor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

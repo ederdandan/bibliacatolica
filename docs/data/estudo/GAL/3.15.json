@@ -1,0 +1,57 @@
+{
+  "id": "GAL.3.15",
+  "livro": "GAL",
+  "titulo": "A lei, pedagogo que conduz a Cristo",
+  "secao": "A justificação pela fé",
+  "referencia": "Gl 3,15-29",
+  "ini": {
+    "c": 3,
+    "v": 15
+  },
+  "fim": {
+    "c": 3,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Todos vós sois um só em Cristo Jesus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo usa o exemplo de um testamento: confirmado, ninguém o anula. As promessas foram feitas a Abraão e à sua descendência, no singular: Cristo. A lei, vinda quatrocentos e trinta anos depois, não pode anular a promessa; se a herança viesse da lei, já não viria da promessa. Para que serve então a lei? Foi acrescentada por causa das transgressões, até que viesse a descendência, promulgada por anjos através de um mediador. Não se opõe às promessas, mas não podia dar a vida. A lei foi como um pedagogo que nos guardava e conduzia até Cristo; vinda a fé, já não estamos sob o pedagogo. Todos são filhos de Deus pela fé; os batizados em Cristo revestiram-se de Cristo; já não há judeu nem grego, escravo nem livre, homem nem mulher: todos são um em Cristo e herdeiros da promessa.",
+    "alegorico": "A “descendência” única de Abraão é Cristo, e nele, pelo batismo, a Igreja inteira, que forma com Ele um só. O batismo é revestir-se de Cristo, como a veste branca que o neófito recebe.",
+    "moral": "A lei tem valor pedagógico: educa, mostra o pecado e conduz a Cristo. Mas o cristão não vive como menor vigiado, e sim como filho. Em Cristo caem as barreiras que dividem os homens: origem, condição social ou sexo não fazem ninguém mais ou menos filho de Deus.",
+    "anagogico": "Ser “herdeiro segundo a promessa” aponta para a herança definitiva. A unidade de todos em Cristo, já real no batismo, será plena na assembleia dos santos de todas as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A lei foi o nosso pedagogo, para nos conduzir a Cristo, a fim de sermos justificados pela fé. Todos vós sois filhos de Deus pela fé em Jesus Cristo, pois todos os que fostes batizados em Cristo, revestistes-vos de Cristo. Não há judeu, nem grego; não há servo, nem livre; não há homem, nem mulher: todos vós sois um só em Jesus Cristo.",
+    "meditatio_perguntas": [
+      "Vivo o meu batismo como “revestir-me de Cristo” cada dia?",
+      "Que barreiras ainda levanto entre mim e outros irmãos em Cristo?",
+      "Vejo os mandamentos como pedagogos que me levam a Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, de quem me revesti no batismo, faz-me viver como filho de Deus e não como servo. Derruba em mim as barreiras que me separam dos irmãos, para que sejamos um só em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "todos vós sois um só em Jesus Cristo",
+      "ref": "Gl 3,28"
+    }
+  },
+  "ancoras": {
+    "3:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “pedagogo” era o escravo que acompanhava a criança à escola e a vigiava; não era o mestre.",
+        "origem": "ia"
+      }
+    },
+    "3:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição judaica tardia atribuía aos anjos um papel na entrega da lei no Sinai (cf. At 7,53; Hb 2,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

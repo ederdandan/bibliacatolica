@@ -1,0 +1,164 @@
+{
+ "livro": "GAL",
+ "secoes": [
+  "O Evangelho de Paulo",
+  "A justificação pela fé",
+  "A liberdade cristã"
+ ],
+ "pericopes": [
+  {
+   "id": "GAL.1.1",
+   "titulo": "Não há outro Evangelho",
+   "secao": "O Evangelho de Paulo",
+   "referencia": "Gl 1,1-10",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 10
+   }
+  },
+  {
+   "id": "GAL.1.11",
+   "titulo": "O Evangelho recebido por revelação",
+   "secao": "O Evangelho de Paulo",
+   "referencia": "Gl 1,11-24",
+   "ini": {
+    "c": 1,
+    "v": 11
+   },
+   "fim": {
+    "c": 1,
+    "v": 24
+   }
+  },
+  {
+   "id": "GAL.2.1",
+   "titulo": "As colunas dão a mão a Paulo",
+   "secao": "O Evangelho de Paulo",
+   "referencia": "Gl 2,1-10",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 10
+   }
+  },
+  {
+   "id": "GAL.2.11",
+   "titulo": "Já não sou eu que vivo, é Cristo que vive em mim",
+   "secao": "O Evangelho de Paulo",
+   "referencia": "Gl 2,11-21",
+   "ini": {
+    "c": 2,
+    "v": 11
+   },
+   "fim": {
+    "c": 2,
+    "v": 21
+   }
+  },
+  {
+   "id": "GAL.3.1",
+   "titulo": "Os filhos de Abraão pela fé",
+   "secao": "A justificação pela fé",
+   "referencia": "Gl 3,1-14",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 14
+   }
+  },
+  {
+   "id": "GAL.3.15",
+   "titulo": "A lei, pedagogo que conduz a Cristo",
+   "secao": "A justificação pela fé",
+   "referencia": "Gl 3,15-29",
+   "ini": {
+    "c": 3,
+    "v": 15
+   },
+   "fim": {
+    "c": 3,
+    "v": 29
+   }
+  },
+  {
+   "id": "GAL.4.1",
+   "titulo": "Já não és servo, mas filho",
+   "secao": "A justificação pela fé",
+   "referencia": "Gl 4,1-20",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 20
+   }
+  },
+  {
+   "id": "GAL.4.21",
+   "titulo": "Agar e Sara: as duas alianças",
+   "secao": "A justificação pela fé",
+   "referencia": "Gl 4,21-31",
+   "ini": {
+    "c": 4,
+    "v": 21
+   },
+   "fim": {
+    "c": 4,
+    "v": 31
+   }
+  },
+  {
+   "id": "GAL.5.1",
+   "titulo": "Chamados à liberdade",
+   "secao": "A liberdade cristã",
+   "referencia": "Gl 5,1-15",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 15
+   }
+  },
+  {
+   "id": "GAL.5.16",
+   "titulo": "As obras da carne e o fruto do Espírito",
+   "secao": "A liberdade cristã",
+   "referencia": "Gl 5,16-26",
+   "ini": {
+    "c": 5,
+    "v": 16
+   },
+   "fim": {
+    "c": 5,
+    "v": 26
+   }
+  },
+  {
+   "id": "GAL.6.1",
+   "titulo": "Levai os fardos uns dos outros; a glória da cruz",
+   "secao": "A liberdade cristã",
+   "referencia": "Gl 6,1-18",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 18
+   }
+  }
+ ]
+}

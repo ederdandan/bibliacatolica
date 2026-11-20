@@ -1,0 +1,57 @@
+{
+  "id": "GAL.1.1",
+  "livro": "GAL",
+  "titulo": "Não há outro Evangelho",
+  "secao": "O Evangelho de Paulo",
+  "referencia": "Gl 1,1-10",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Não há outro Evangelho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo apresenta-se como apóstolo não por escolha humana, mas por Jesus Cristo e por Deus Pai, que o ressuscitou. Saúda as Igrejas da Galácia lembrando que Cristo se entregou pelos nossos pecados para nos arrancar deste mundo mau. Sem a habitual ação de graças, entra logo no assunto: admira-se de que tão depressa abandonem aquele que os chamou pela graça de Cristo para seguir “outro Evangelho”. Na verdade não há outro: há apenas quem os perturba e quer deturpar o Evangelho de Cristo. Ainda que o próprio Paulo ou um anjo do céu anunciasse um Evangelho diferente, seja anátema; e repete a sentença. Não procura agradar aos homens: se o fizesse, não seria servo de Cristo.",
+    "alegorico": "O Evangelho não é uma opinião entre outras, mas a revelação de Cristo entregue “por nossos pecados”. A Igreja recebe-o e guarda-o; nem os apóstolos nem os anjos têm autoridade para mudá-lo. Aqui se funda a fidelidade da Igreja ao depósito da fé.",
+    "moral": "A firmeza de Paulo ensina que o amor às almas não se mede por agradar-lhes, mas por dizer-lhes a verdade. Quem procura o aplauso dos homens acaba por adaptar o Evangelho ao gosto do momento. O cristão deve examinar se é servo de Cristo ou da opinião alheia.",
+    "anagogico": "Cristo entregou-se “para nos livrar da perversidade do mundo presente”: a salvação é já libertação, que se completará na glória “por todos os séculos dos séculos”, para a qual o verdadeiro Evangelho conduz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus Cristo deu-se a si mesmo por nossos pecados, para nos livrar da perversidade do mundo presente. Admiro-me de que tão depressa passeis daquele que vos chamou à graça de Cristo para outro Evangelho. Não há outro. Ainda que um anjo do céu vos anuncie um Evangelho diferente, seja anátema. Se agradasse ainda aos homens, não seria servo de Cristo.",
+    "meditatio_perguntas": [
+      "Há algum “outro evangelho”, mais cómodo, que me seduz?",
+      "Procuro agradar a Deus ou aos homens?",
+      "Tenho coragem de dizer a verdade do Evangelho com amor?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te deste a ti mesmo pelos meus pecados, guarda-me fiel ao teu Evangelho. Livra-me do desejo de agradar aos homens à custa da verdade. Que eu seja teu servo. A ti a glória pelos séculos dos séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se agradasse ainda aos homens, não seria servo de Cristo.",
+      "ref": "Gl 1,10"
+    }
+  },
+  "ancoras": {
+    "1:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A carta enfrenta pregadores judaizantes que exigiam a circuncisão e a lei de Moisés aos cristãos vindos do paganismo.",
+        "origem": "ia"
+      }
+    },
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Anátema”: maldição, separação da comunidade. A fórmula será usada depois pelos concílios para declarar heresias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

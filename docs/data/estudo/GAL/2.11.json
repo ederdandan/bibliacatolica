@@ -1,0 +1,57 @@
+{
+  "id": "GAL.2.11",
+  "livro": "GAL",
+  "titulo": "Já não sou eu que vivo, é Cristo que vive em mim",
+  "secao": "O Evangelho de Paulo",
+  "referencia": "Gl 2,11-21",
+  "ini": {
+    "c": 2,
+    "v": 11
+  },
+  "fim": {
+    "c": 2,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Cristo vive em mim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Antioquia, Cefas comia com os cristãos vindos do paganismo; mas quando chegaram alguns da parte de Tiago, retirou-se por medo dos circuncidados, e outros judeus, até Barnabé, o imitaram. Paulo resistiu-lhe abertamente, diante de todos: se tu, sendo judeu, vives como gentio, como obrigas os gentios a judaizar? E expõe o centro do Evangelho: sabemos que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo; por isso também nós cremos nele. Reconstruir a lei abolida seria tornar-se transgressor. Pela lei morreu para a lei, para viver para Deus: está crucificado com Cristo. Já não é ele quem vive, é Cristo que vive nele; a sua vida presente é vivida na fé no Filho de Deus, que o amou e se entregou por ele. Se a justiça viesse da lei, Cristo teria morrido em vão.",
+    "alegorico": "O episódio de Antioquia mostra que a mesa comum entre judeus e pagãos é sinal da Igreja una, onde todos são justificados pela mesma fé. A união com Cristo crucificado e vivo é o mistério da vida batismal: morrer com Ele e viver dele.",
+    "moral": "A correção fraterna de Paulo a Pedro ensina que a verdade do Evangelho está acima do medo e do respeito humano, e que até os maiores podem falhar na coerência. A justificação é dom recebido pela fé, não salário de obras; e essa fé torna-se vida, pois Cristo vive no fiel.",
+    "anagogico": "“Cristo vive em mim” é a semente da vida eterna já presente. A vida “na carne” é vivida na fé; a vida futura será a mesma vida de Cristo, então plenamente manifestada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O homem não se justifica pelas obras da lei, senão pela fé em Jesus Cristo. Estou pregado com Cristo na cruz; vivo, mas já não sou eu que vivo, é Cristo que vive em mim. A vida com que vivo agora na carne, vivo-a da fé no Filho de Deus, que me amou e se entregou por mim. Se a justiça se obtém pela lei, segue-se que Cristo morreu em vão.",
+    "meditatio_perguntas": [
+      "Creio que o Filho de Deus “me amou e se entregou por mim”, pessoalmente?",
+      "Deixo-me guiar pelo medo do que os outros pensam, como Pedro em Antioquia?",
+      "O que em mim ainda precisa de ser crucificado para que Cristo viva?"
+    ],
+    "oratio_guia": "Filho de Deus, que me amaste e te entregaste por mim, crucifica comigo o meu velho homem e vive em mim. Que eu viva da fé em ti, sem medo do julgamento humano, e não torne vã a tua morte. Amém.",
+    "contemplatio_foco": {
+      "texto": "vivo, mas já não sou eu que vivo, é Cristo que vive em mim",
+      "ref": "Gl 2,20"
+    }
+  },
+  "ancoras": {
+    "2:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres discutiram o episódio: Jerónimo via nele uma encenação combinada, Agostinho uma repreensão real; prevaleceu a leitura de Agostinho, que louva a humildade de Pedro.",
+        "origem": "ia"
+      }
+    },
+    "2:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Obras da lei”: em Gálatas, sobretudo as práticas mosaicas (circuncisão, preceitos alimentares, calendário), não as boas obras feitas na caridade (cf. 5,6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "GAL.1.11",
+  "livro": "GAL",
+  "titulo": "O Evangelho recebido por revelação",
+  "secao": "O Evangelho de Paulo",
+  "referencia": "Gl 1,11-24",
+  "ini": {
+    "c": 1,
+    "v": 11
+  },
+  "fim": {
+    "c": 1,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Chamado pela graça para revelar o Filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo afirma que o seu Evangelho não vem do homem: recebeu-o por revelação de Jesus Cristo. Recorda o passado: zeloso das tradições paternas, perseguia e devastava a Igreja de Deus. Mas Aquele que o escolheu desde o seio materno e o chamou pela graça quis revelar nele o seu Filho, para que o anunciasse aos pagãos. Não consultou ninguém nem foi logo a Jerusalém: partiu para a Arábia e voltou a Damasco. Só três anos depois subiu a Jerusalém para conhecer Cefas e ficou com ele quinze dias; dos outros apóstolos viu apenas Tiago, irmão do Senhor. Depois foi para a Síria e a Cilícia. As Igrejas da Judeia só ouviam dizer: “Aquele que nos perseguia agora anuncia a fé”, e glorificavam a Deus por causa dele.",
+    "alegorico": "A vocação de Paulo, “segregado desde o ventre de minha mãe”, ecoa a de Jeremias e do Servo de Isaías. A visita a Cefas mostra que, embora chamado diretamente por Cristo, Paulo procura a comunhão com Pedro: a revelação pessoal não dispensa a unidade da Igreja.",
+    "moral": "Ninguém está longe demais da graça: o perseguidor torna-se apóstolo. O passado não é obstáculo para Deus, que pode fazer da própria história de pecado ocasião de glória para si. A conversão verdadeira faz os outros “darem glória a Deus”.",
+    "anagogico": "Deus “revelou o Filho em mim”: a vida cristã é progressiva revelação de Cristo no fiel, que culminará quando Ele for plenamente formado em nós e o virmos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Evangelho que tem sido pregado por mim não o recebi de homem algum, mas por uma revelação de Jesus Cristo. Perseguia a Igreja de Deus e a devastava. Mas, quando aprouve àquele que me segregou desde o ventre de minha mãe e me chamou pela sua graça revelar seu Filho em mim, para que o pregasse entre as gentes. Fui a Jerusalém para conhecer Cefas. E por minha causa davam glória a Deus.",
+    "meditatio_perguntas": [
+      "Reconheço que Deus me chamou pela graça, antes de qualquer mérito meu?",
+      "Há algo do meu passado que ainda julgo “imperdoável”?",
+      "A minha vida leva os outros a dar glória a Deus?"
+    ],
+    "oratio_guia": "Pai, que me escolheste desde o seio de minha mãe e me chamaste pela tua graça, revela em mim o teu Filho. Transforma o meu passado em louvor da tua misericórdia e faz que, por minha causa, os outros te glorifiquem. Amém.",
+    "contemplatio_foco": {
+      "texto": "e por minha causa davam glória a Deus",
+      "ref": "Gl 1,24"
+    }
+  },
+  "ancoras": {
+    "1:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cefas é o nome aramaico de Pedro (“rocha”). Paulo foi “conhecê-lo” (historêsai, visitar para conhecer pessoalmente).",
+        "origem": "ia"
+      }
+    },
+    "1:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Irmão do Senhor”: na linguagem semítica, parente próximo. A tradição católica identifica-o com Tiago, chefe da Igreja de Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

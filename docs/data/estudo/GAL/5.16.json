@@ -1,0 +1,49 @@
+{
+  "id": "GAL.5.16",
+  "livro": "GAL",
+  "titulo": "As obras da carne e o fruto do Espírito",
+  "secao": "A liberdade cristã",
+  "referencia": "Gl 5,16-26",
+  "ini": {
+    "c": 5,
+    "v": 16
+  },
+  "fim": {
+    "c": 5,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "O fruto do Espírito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta: andai segundo o Espírito e não satisfareis os desejos da carne. Carne e Espírito opõem-se, e por isso não fazemos tudo o que queremos; mas quem é guiado pelo Espírito não está sob a lei. As obras da carne são evidentes: fornicação, impureza, luxúria, idolatria, feitiçaria, inimizades, contendas, invejas, iras, rixas, discórdias, divisões, ciúmes, embriaguez, orgias e coisas semelhantes; os que as praticam não herdarão o reino de Deus. O fruto do Espírito, pelo contrário, é caridade, alegria, paz, paciência, afabilidade, bondade, fidelidade, mansidão, temperança: contra estas coisas não há lei. Os que são de Cristo crucificaram a carne com as suas paixões. Se vivemos pelo Espírito, caminhemos também segundo o Espírito, sem vanglória, provocação nem inveja.",
+    "alegorico": "O Espírito Santo, dado em Pentecostes, produz na Igreja um fruto único com muitas faces, que é o retrato do próprio Cristo. O combate entre a carne e o Espírito reproduz em cada fiel a luta pascal entre a morte e a vida.",
+    "moral": "“Carne”, em Paulo, não é o corpo, mas o homem fechado em si, longe de Deus; por isso entre as obras da carne estão tanto os pecados sensuais como a inveja e as divisões. O cristão não vence pela força de vontade isolada, mas deixando-se guiar pelo Espírito. As obras são “da carne”, mas o fruto é “do Espírito”: a santidade cresce como fruto, não se fabrica.",
+    "anagogico": "Quem pratica as obras da carne “não possuirá o reino de Deus”; o fruto do Espírito, pelo contrário, é já o sabor do reino. A caridade, primeira desse fruto, é a única que permanecerá para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Andai segundo o Espírito e não satisfareis os desejos da carne. O fruto do Espírito é caridade, gozo, paz, longanimidade, afabilidade, bondade, fidelidade, mansidão, temperança. Contra estas coisas não há lei. Os que são de Cristo crucificaram a sua carne com suas paixões e concupiscências. Se vivemos pelo Espírito, conduzamo-nos também pelo Espírito.",
+    "meditatio_perguntas": [
+      "Que obra da carne é, hoje, a minha luta principal?",
+      "Que fruto do Espírito está mais ausente da minha vida?",
+      "Deixo-me guiar pelo Espírito ou apenas confio nas minhas forças?"
+    ],
+    "oratio_guia": "Espírito Santo, que habitas em mim, guia os meus passos e faz crescer em mim o teu fruto: caridade, alegria, paz, paciência, bondade, fidelidade, mansidão. Ajuda-me a crucificar a carne com as suas paixões. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se vivemos pelo Espírito, conduzamo-nos também pelo Espírito.",
+      "ref": "Gl 5,25"
+    }
+  },
+  "ancoras": {
+    "5:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata enumera doze frutos (acrescenta paciência, modéstia e castidade); o grego tem nove. A tradição catequética conservou os doze frutos do Espírito Santo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

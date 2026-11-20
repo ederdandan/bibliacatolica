@@ -1,0 +1,49 @@
+{
+  "id": "GAL.3.1",
+  "livro": "GAL",
+  "titulo": "Os filhos de Abraão pela fé",
+  "secao": "A justificação pela fé",
+  "referencia": "Gl 3,1-14",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Os que são da fé são filhos de Abraão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo interpela os “gálatas insensatos”: diante dos seus olhos foi apresentado Cristo crucificado; como se deixaram fascinar? Receberam o Espírito pelas obras da lei ou pela fé na pregação? Começaram pelo Espírito e querem acabar pela carne? O exemplo é Abraão: creu em Deus, e isso lhe foi contado como justiça. Logo, os que são da fé são filhos de Abraão, e a Escritura já anunciava que Deus justificaria os pagãos pela fé: “em ti serão benditas todas as nações”. Quem confia nas obras da lei está sob maldição, pois ninguém a cumpre inteira; e “o justo vive da fé”. Cristo resgatou-nos da maldição da lei, fazendo-se maldição por nós, pois está escrito: maldito o que é suspenso no madeiro; assim a bênção de Abraão chega aos pagãos e recebemos pela fé o Espírito prometido.",
+    "alegorico": "Abraão, pai dos crentes, é figura de todos os que acolhem a promessa pela fé, judeus e pagãos. Cristo pendurado no madeiro toma sobre si a maldição para que nós recebamos a bênção: a cruz é o lugar da grande troca.",
+    "moral": "O perigo dos gálatas é o de todos: começar pela graça e depois querer garantir-se pelas próprias forças. A vida cristã começa e cresce “pelo Espírito”. Contemplar Cristo crucificado é o antídoto contra todo fascínio enganador.",
+    "anagogico": "A bênção prometida a Abraão para todas as nações se cumpre plenamente quando todos os povos forem reunidos em Cristo. O Espírito recebido pela fé é a primeira parcela dessa herança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Gálatas insensatos, quem vos fascinou, vós ante cujos olhos foi já representado Jesus Cristo crucificado? Recebestes o Espírito pelas obras da lei ou pela submissão à fé? Abraão creu em Deus, e isto lhe foi tido em conta para a justiça. Os que são da fé são os verdadeiros filhos de Abraão. Cristo remiu-nos da lei, feito ele mesmo maldição por nós, a fim de que recebêssemos por meio da fé o Espírito prometido.",
+    "meditatio_perguntas": [
+      "Comecei pelo Espírito e estou a tentar acabar pela carne?",
+      "Que “fascínios” me afastam de Cristo crucificado?",
+      "Vivo da fé, como Abraão, confiando na promessa?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste maldição por mim no madeiro, mantém diante dos meus olhos a tua cruz. Que eu viva da fé, como Abraão, e não da confiança em mim mesmo. Dá-me o Espírito prometido. Amém.",
+    "contemplatio_foco": {
+      "texto": "o justo vive da fé",
+      "ref": "Gl 3,11"
+    }
+  },
+  "ancoras": {
+    "3:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dt 21,23 referia-se ao cadáver do condenado exposto num poste; Paulo aplica-o à crucifixão de Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

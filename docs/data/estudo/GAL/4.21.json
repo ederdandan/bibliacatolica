@@ -1,0 +1,49 @@
+{
+  "id": "GAL.4.21",
+  "livro": "GAL",
+  "titulo": "Agar e Sara: as duas alianças",
+  "secao": "A justificação pela fé",
+  "referencia": "Gl 4,21-31",
+  "ini": {
+    "c": 4,
+    "v": 21
+  },
+  "fim": {
+    "c": 4,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Filhos da livre, a Jerusalém do alto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aos que querem estar sob a lei, Paulo lembra a própria lei: Abraão teve dois filhos, um da escrava Agar, nascido segundo a carne, e outro da livre Sara, nascido em virtude da promessa. Estas coisas são alegoria: as duas mulheres são as duas alianças. Agar é a do Sinai, que gera para a escravidão e corresponde à Jerusalém atual, escrava com seus filhos. A Jerusalém do alto é livre e é nossa mãe; dela diz Isaías: “Alegra-te, estéril, porque os filhos da abandonada são mais numerosos.” Os cristãos são filhos da promessa, como Isaac. Como então o filho segundo a carne perseguia o nascido segundo o espírito, assim agora. Mas a Escritura diz: “Lança fora a escrava e o seu filho.” Não somos filhos da escrava, mas da livre.",
+    "alegorico": "O próprio Paulo usa aqui a palavra “alegoria”: é o fundamento do sentido espiritual da Escritura. Sara, a estéril que se torna mãe de muitos, é figura da Igreja, a Jerusalém do alto, “nossa mãe”, fecunda pela graça e não pela carne.",
+    "moral": "O cristão é chamado a viver como filho da livre: não por medo e cálculo, mas pela graça da promessa. Pertencer à Igreja, mãe livre, é aprender a liberdade dos filhos. A perseguição que vem do espírito de escravidão não deve assustar quem sabe de quem é filho.",
+    "anagogico": "A Jerusalém “que é de cima” é a pátria definitiva dos filhos da promessa. A Igreja peregrina já é essa cidade em germe, e a sua fecundidade inesperada anuncia a multidão incontável dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Abraão teve dois filhos: um da escrava e outro da livre. Estas duas mulheres são as duas alianças. Aquela Jerusalém, que é de cima, é livre e é nossa mãe. Alegra-te, ó estéril, que não dás à luz. E vós, irmãos, sois filhos da promessa como Isaac. Por isso, irmãos, não somos filhos da escrava, mas da livre.",
+    "meditatio_perguntas": [
+      "Vivo a fé como filho da livre ou como filho da escrava?",
+      "Vejo a Igreja como mãe que me gera para a liberdade?",
+      "Onde a esterilidade da minha vida pode tornar-se fecundidade pela promessa?"
+    ],
+    "oratio_guia": "Deus fiel às promessas, que me fizeste filho da Jerusalém do alto, nossa mãe, dá-me viver na liberdade dos teus filhos. Torna fecunda a minha esterilidade, como a de Sara. Amém.",
+    "contemplatio_foco": {
+      "texto": "não somos filhos da escrava, mas da livre",
+      "ref": "Gl 4,31"
+    }
+  },
+  "ancoras": {
+    "4:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Alegoria” (allēgoroúmena): Paulo lê a história de Agar e Sara como figura. Os Padres apoiaram-se nesta passagem para expor o sentido alegórico da Escritura.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

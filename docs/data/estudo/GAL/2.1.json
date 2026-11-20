@@ -1,0 +1,57 @@
+{
+  "id": "GAL.2.1",
+  "livro": "GAL",
+  "titulo": "As colunas dão a mão a Paulo",
+  "secao": "O Evangelho de Paulo",
+  "referencia": "Gl 2,1-10",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "A comunhão com as colunas da Igreja",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Catorze anos depois, Paulo sobe de novo a Jerusalém, com Barnabé e Tito, por revelação, e expõe o Evangelho que prega aos pagãos aos que tinham autoridade, para não correr em vão. Tito, que era grego, não foi obrigado a circuncidar-se, apesar dos falsos irmãos infiltrados para espiar a liberdade que temos em Cristo; Paulo não lhes cedeu um instante, para que a verdade do Evangelho permanecesse. Os que tinham autoridade nada lhe acrescentaram; reconheceram que lhe fora confiado o Evangelho dos incircuncisos, como a Pedro o dos circuncisos. Tiago, Cefas e João, tidos como colunas, deram-lhe e a Barnabé a mão direita em sinal de comunhão, pedindo apenas que se lembrassem dos pobres, o que ele fez com solicitude.",
+    "alegorico": "O aperto de mãos entre Paulo e as “colunas” é sinal da unidade da Igreja na diversidade das missões. Um só Evangelho, um só Senhor, operando em Pedro e em Paulo. A recordação dos pobres torna-se marca da comunhão eclesial.",
+    "moral": "Paulo, seguro da sua vocação, não deixa de submeter o seu Evangelho à Igreja “para não correr em vão”. Firmeza na verdade e humildade na comunhão andam juntas. E a comunhão eclesial traduz-se em algo bem concreto: lembrar-se dos pobres.",
+    "anagogico": "A Igreja, construída sobre colunas e fundada nos apóstolos, já aponta para a Jerusalém celeste, cujos alicerces trazem os nomes dos doze apóstolos do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Subi a Jerusalém em consequência de uma revelação; conferi com eles o Evangelho que prego entre os gentios, a fim de não correr inutilmente. Não cedemos, para que permaneça entre vós a verdade do Evangelho. Tiago, Cefas e João, que eram considerados as colunas, deram as mãos a mim e a Barnabé, em sinal de comunhão, recomendando somente que nos lembrássemos dos pobres.",
+    "meditatio_perguntas": [
+      "Submeto as minhas convicções à comunhão da Igreja?",
+      "Defendo a liberdade que temos em Cristo contra o legalismo?",
+      "Como me lembro, concretamente, dos pobres?"
+    ],
+    "oratio_guia": "Senhor, que fundaste a tua Igreja sobre os apóstolos, guarda-me na comunhão com os seus pastores. Dá-me firmeza na verdade do Evangelho e um coração atento aos pobres. Amém.",
+    "contemplatio_foco": {
+      "texto": "somente que nos lembrássemos dos pobres",
+      "ref": "Gl 2,10"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esta subida a Jerusalém corresponde provavelmente ao chamado Concílio de Jerusalém (At 15), por volta do ano 49.",
+        "origem": "ia"
+      }
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo cumpriu a recomendação organizando a coleta para os pobres de Jerusalém (cf. 1Cor 16,1-4; 2Cor 8–9; Rm 15,25-27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

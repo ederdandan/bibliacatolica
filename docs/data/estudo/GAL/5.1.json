@@ -1,0 +1,57 @@
+{
+  "id": "GAL.5.1",
+  "livro": "GAL",
+  "titulo": "Chamados à liberdade",
+  "secao": "A liberdade cristã",
+  "referencia": "Gl 5,1-15",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Chamados à liberdade para servir no amor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cristo libertou-nos para a liberdade: permanecei firmes e não vos submetais de novo ao jugo da escravidão. Se os gálatas se fizerem circuncidar, Cristo de nada lhes servirá: quem se circuncida fica obrigado a toda a lei; quem procura justificar-se pela lei separou-se de Cristo e decaiu da graça. Nós, pelo Espírito, aguardamos pela fé a esperança da justiça. Em Cristo não vale circuncisão nem incircuncisão, mas a fé que atua pela caridade. Corriam bem; quem os impediu? Um pouco de fermento leveda toda a massa. Paulo confia neles e condena quem os perturba. Depois a advertência: chamados à liberdade, não façam dela pretexto para a carne, mas sirvam-se uns aos outros pelo amor, pois toda a lei se resume em amar o próximo como a si mesmo; se se morderem e devorarem, acabarão destruídos.",
+    "alegorico": "A liberdade conquistada por Cristo é a passagem da escravidão para a filiação, novo Êxodo realizado na cruz. A “fé que obra pela caridade” é a forma da vida nova: a fé viva, animada pelo amor que o Espírito derrama.",
+    "moral": "A liberdade cristã não é licença, mas capacidade de amar: livres para servir. A fé verdadeira não é estéril, mas atua pela caridade. O texto adverte contra dois desvios opostos: o legalismo, que volta ao jugo, e a libertinagem, que faz da liberdade pretexto para a carne. E alerta para as divisões, que devoram a comunidade.",
+    "anagogico": "“Aguardamos a esperança da justiça”: a justificação recebida pela fé abre para a justiça plena da glória. A liberdade de agora é antecipação da liberdade gloriosa dos filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi para gozarmos desta liberdade que Cristo nos libertou. Permanecei firmes e não vos deixeis prender de novo ao jugo da escravidão. Em Jesus Cristo nem a circuncisão vale coisa alguma nem a incircuncisão, mas sim a fé que obra pela caridade. Vós, irmãos, fostes chamados à liberdade; não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade.",
+    "meditatio_perguntas": [
+      "Uso a minha liberdade para servir ou para me servir?",
+      "A minha fé “obra pela caridade”, ou fica em palavras?",
+      "Que “fermento” pequeno está a alterar a massa da minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que me libertaste para a liberdade, guarda-me tanto do jugo do legalismo como da escravidão da carne. Dá-me uma fé que obre pela caridade e um coração livre para servir os irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "a fé que obra (animada) pela caridade",
+      "ref": "Gl 5,6"
+    }
+  },
+  "ancoras": {
+    "5:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Fé que obra pela caridade” (fides quae per caritatem operatur): texto central para a doutrina católica da justificação, retomado pelo Concílio de Trento.",
+        "origem": "ia"
+      }
+    },
+    "5:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Expressão irónica e dura: se dão tanto valor ao corte da circuncisão, que se mutilem de vez.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
