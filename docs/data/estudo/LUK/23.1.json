@@ -1,0 +1,114 @@
+{
+  "id": "LUK.23.1",
+  "livro": "LUK",
+  "titulo": "Jesus diante de Pilatos e de Herodes",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 23,1-25",
+  "ini": { "c": 23, "v": 1 },
+  "fim": { "c": 23, "v": 25 },
+  "liturgia": { "tema_central": "O Inocente condenado: o silêncio do Cordeiro diante dos poderes", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Toda a assembleia leva Jesus a Pilatos e acusa-o de agitar o povo, proibir o tributo a César e dizer-se Cristo Rei. Pilatos pergunta: “Tu és o rei dos judeus?” — “Tu o dizes.” Pilatos declara não encontrar crime nele, mas eles insistem que subleva o povo desde a Galileia. Ao saber que é galileu, Pilatos envia-o a Herodes, que está em Jerusalém. Herodes alegra-se, pois há muito desejava vê-lo e esperava algum milagre; faz-lhe muitas perguntas, mas Jesus nada responde. Os sumos sacerdotes e escribas acusam-no com veemência; Herodes e os seus soldados desprezam-no e escarnecem dele, vestem-no com uma veste branca e devolvem-no a Pilatos. Nesse dia, Herodes e Pilatos, antes inimigos, tornam-se amigos. Pilatos convoca os chefes e o povo: nem ele nem Herodes encontraram culpa digna de morte; castigá-lo-á e soltá-lo-á. Mas todos gritam: “Fora com este! Solta-nos Barrabás”, preso por sedição e homicídio. Pilatos, querendo soltar Jesus, fala-lhes de novo; eles gritam: “Crucifica-o, crucifica-o!”. Pela terceira vez Pilatos pergunta que mal fez; mas os gritos prevalecem. Pilatos solta o homicida que pediam e entrega Jesus à vontade deles.",
+    "alegorico": "Entregue aos gentios, cumpre-se a palavra com que Jesus profetizou a sua morte. A veste branca com que Herodes o cobre por escárnio é sinal da sua paixão imaculada: o Cordeiro sem mancha toma sobre si os pecados do mundo. A amizade entre Herodes e Pilatos figura a aliança de povos diferentes na perseguição dos cristãos. A troca de Jesus por Barrabás mostra a lei da iniquidade: o que a inocência odeia, a culpa ama.",
+    "moral": "O Senhor acusado cala-se, porque não precisa de defesa: a Salvação de todos não procura a sua própria salvação. Diante da curiosidade vã de Herodes, que buscava espetáculo, Jesus guarda silêncio e recusa milagres, preferindo ser desprezado pelos soberbos a ser louvado pelos incrédulos. Pilatos, brando mas sem firmeza pela verdade, por medo torna-se ministro da crucifixão do inocente que ele mesmo absolveu: aviso contra a covardia que cede à pressão da multidão.",
+    "anagogico": "O Rei que se cala diante dos reis da terra é o Juiz de todos. A inocência declarada três vezes por Pilatos anuncia a justificação dos pecadores pelo Justo condenado em lugar deles."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pilatos interrogou-o: “Tu és o rei dos Judeus?” Ele, respondendo, disse: “Tu o dizes”. Então Pilatos disse: “Não encontro neste homem crime algum”. Herodes, tendo visto Jesus, teve grande alegria, e esperava ver-lhe fazer algum milagre. Fez-lhe muitas perguntas. Mas ele nada lhe respondeu. Herodes desprezou-o, mandando-o vestir com uma vestidura branca. Mas todo o povo exclamou: “Faz morrer este, e solta-nos Barrabás”. Eles tornaram a gritar: “Crucifica-o, crucifica-o!” Pilatos soltou-lhes aquele que tinha sido preso por causa de sedição e de homicídio, e abandonou Jesus ao arbítrio deles.",
+    "meditatio_perguntas": [
+      "Busco Jesus por curiosidade e espetáculo, como Herodes, ou para me converter?",
+      "Em que situações cedo, como Pilatos, à pressão dos outros contra a verdade?",
+      "Que significa para mim que o Inocente foi condenado e o culpado libertado?"
+    ],
+    "oratio_guia": "Senhor Jesus, Cordeiro imaculado, que te calaste diante dos teus acusadores e foste trocado por Barrabás, obrigado por tomares o meu lugar. Dá-me firmeza para defender a verdade sem medo, e um coração que te procure não por curiosidade, mas por amor. Amém.",
+    "contemplatio_foco": { "texto": "Fez-lhe muitas perguntas. Mas ele nada lhe respondeu.", "ref": "Lc 23,9" }
+  },
+  "ancoras": {
+    "23:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:1–5#1", "sintese": "É entregue aos gentios, isto é, aos romanos, para que se cumprisse a palavra com que profetizou a sua morte." }
+      ],
+      "nota": null
+    },
+    "23:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:1–5#3", "sintese": "Acusação falsa: mandara pagar o tributo e fugira quando o quiseram fazer rei." }
+      ],
+      "nota": null
+    },
+    "23:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:1–5#9", "sintese": "Acusado, cala-se porque não precisa de defesa: a Salvação de todos perde a sua para alcançar a de todos." }
+      ],
+      "nota": null
+    },
+    "23:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:1–5#8", "sintese": "Acusam-se a si mesmos: ensinar o povo e despertá-lo da ociosidade era prova de virtude, não de pecado." }
+      ],
+      "nota": null
+    },
+    "23:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:6–12#3", "sintese": "Herodes não buscava proveito, mas satisfazer a curiosidade de ver um homem extraordinário, zombando dele." }
+      ],
+      "nota": null
+    },
+    "23:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:6–12#4", "sintese": "Calou-se porque a incredulidade de Herodes não merecia vê-lo, e porque evitava a ostentação." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 10, c. 31.", "catena": "23:6–12#6", "sintese": "Preferiu ser desprezado pelos soberbos a ser louvado pelas vozes vãs dos incrédulos." }
+      ],
+      "nota": null
+    },
+    "23:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:6–12#7", "sintese": "A veste branca é sinal da sua paixão imaculada: o Cordeiro sem mancha toma os pecados do mundo." }
+      ],
+      "nota": null
+    },
+    "23:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:6–12#10", "sintese": "A amizade de Herodes e Pilatos figura povos diferentes que se põem de acordo na perseguição dos cristãos." }
+      ],
+      "nota": null
+    },
+    "23:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:13–25#1", "sintese": "Pilatos, que como juiz absolve Cristo, torna-se por medo ministro da sua crucifixão." }
+      ],
+      "nota": null
+    },
+    "23:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:13–25#4", "sintese": "Pilatos é brando e condescendente, mas sem firmeza pela verdade, porque teme ser acusado." }
+      ],
+      "nota": null
+    },
+    "23:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:13–25#7", "sintese": "Pedem o perdão do homicida e a morte do inocente: o que a inocência odeia, a culpa ama." }
+      ],
+      "nota": null
+    },
+    "23:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:13–25#9", "sintese": "A nação outrora santa enfurece-se para matar, e o gentio Pilatos procura impedir a morte." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

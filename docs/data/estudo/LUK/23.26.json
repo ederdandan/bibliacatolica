@@ -1,0 +1,100 @@
+{
+  "id": "LUK.23.26",
+  "livro": "LUK",
+  "titulo": "O caminho da cruz e a crucifixão",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 23,26-43",
+  "ini": { "c": 23, "v": 26 },
+  "fim": { "c": 23, "v": 43 },
+  "liturgia": { "tema_central": "“Pai, perdoa-lhes”; “Hoje estarás comigo no paraíso”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao levarem Jesus, obrigam Simão de Cirene, que vem do campo, a carregar a cruz atrás dele. Segue-o uma grande multidão e mulheres que batem no peito e o lamentam. Jesus volta-se: “Filhas de Jerusalém, não choreis por mim; chorai por vós e por vossos filhos”, pois virão dias em que se dirá felizes as estéreis, e se pedirá aos montes que caiam sobre eles: “Se isto se faz ao lenho verde, que se fará ao seco?”. Com Ele são levados dois malfeitores. No lugar chamado Calvário crucificam-no, e os malfeitores um à direita e outro à esquerda. Jesus diz: “Pai, perdoa-lhes, porque não sabem o que fazem”. Repartem as suas vestes tirando à sorte. O povo observa; os chefes zombam: “Salvou os outros; salve-se a si mesmo, se é o Cristo”. Os soldados oferecem-lhe vinagre e escarnecem: “Se és o rei dos judeus, salva-te a ti mesmo”. Por cima dele há uma inscrição: “Este é o rei dos judeus”. Um dos malfeitores insulta-o; o outro repreende-o: “Nem tu temes a Deus? Nós sofremos com justiça, mas este nada fez de mal”. E diz: “Jesus, lembra-te de mim quando entrares no teu reino”. Jesus responde: “Em verdade te digo: hoje estarás comigo no paraíso”.",
+    "alegorico": "Simão, “obediente”, de Cirene, “herdeiro”, vindo do campo, figura os gentios que, deixando os ritos pagãos, se tornam herdeiros pela obediência e seguem os passos da paixão. Cristo leva a cruz como vencedor leva os seus troféus. Como pela árvore entrou a morte, pela árvore devia ser abolida. A cruz, com a sua largura, comprimento, altura e profundidade, ensina as dimensões da caridade. O título sobre a cabeça proclama um reino que não é deste mundo, mas do poder de Deus. O bom ladrão é o primeiro despojo que o Rei vitorioso arranca ao diabo e leva consigo ao paraíso.",
+    "moral": "Quem quer seguir Cristo deve deixar o “campo” das preocupações do mundo e tomar a cruz, crucificando a própria carne. Cristo, árvore verde e cheia de vida, não deixou o mundo sem sofrer; que espera os que são árvore seca e sem fruto? Na cruz, cumpre o que ensinou: ora pelos perseguidores, não só com palavras, mas com obras. Sobe nu à cruz: quem quer vencer o mundo não busca os seus ornamentos. Ao bom ladrão só ficaram livres o coração e a língua, e com eles creu e confessou; e a graça é mais abundante que o pedido.",
+    "anagogico": "“Hoje estarás comigo no paraíso”: a cruz reabre o paraíso fechado desde Adão. O Salvador, que não se salva a si mesmo para salvar as criaturas, introduz consigo na vida os que se voltam para Ele, mesmo na última hora."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Agarraram um certo Simão Cireneu, que voltava do campo; e puseram a cruz sobre ele, para que a levasse após de Jesus. Quando chegaram ao lugar que se chama Calvário, ali o crucificaram a ele e aos ladrões, um à direita e outro à esquerda. Jesus dizia: “Pai, perdoa-lhes, porque não sabem o que fazem”. O outro ladrão dizia a Jesus: “Senhor, lembra-te de mim, quando entrares no teu reino”. Jesus disse-lhe: “Em verdade te digo: Hoje estarás comigo no paraíso”.",
+    "meditatio_perguntas": [
+      "Que cruz me é posta aos ombros, e consigo levá-la atrás de Jesus como Simão?",
+      "Há alguém a quem eu precise de dizer, com Jesus, “Pai, perdoa-lhes”?",
+      "Ouso pedir, como o bom ladrão, “lembra-te de mim”, confiando na misericórdia?"
+    ],
+    "oratio_guia": "Jesus, lembra-te de mim quando entrares no teu reino. Tu que levaste a cruz como troféu de vitória e perdoaste aos que te crucificavam, ensina-me a carregar a minha cruz contigo e a perdoar de coração. Abre-me, pela tua morte, as portas do paraíso. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, lembra-te de mim, quando entrares no teu reino.", "ref": "Lc 23,42" }
+  },
+  "ancoras": {
+    "23:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:26–32#3", "sintese": "Levando a cruz, Cristo levava já como vencedor os seus troféus: Ele a leva no homem e o homem nele." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:26–32#4", "sintese": "Simão, “obediente”, de Cirene, “herdeiro”: os gentios que pela obediência se tornam herdeiros e seguem a paixão." },
+        { "autor": "Teofilato", "obra": null, "catena": "23:26–32#5", "sintese": "Toma a cruz quem deixa o campo deste mundo e caminha para a liberdade celeste, crucificando a própria carne." }
+      ],
+      "nota": null
+    },
+    "23:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 12, c. 4.", "catena": "23:26–32#12", "sintese": "Chamou-se árvore verde porque tem a vida da natureza divina; nós, simples homens, somos a árvore seca." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:26–32#14", "sintese": "Se eu, árvore da vida e sem pecado, sofro o fogo da paixão, que espera os estéreis de todo fruto?" }
+      ],
+      "nota": null
+    },
+    "23:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "23:33#5", "sintese": "Pela árvore entrou a morte; pela árvore devia ser abolida, vencendo pelas dores os prazeres da primeira árvore." },
+        { "autor": "Santo Agostinho", "obra": "de Gr. Nov. Test. Ep. 140.", "catena": "23:33#7", "sintese": "Escolheu a cruz para ser mestre da largura, do comprimento, da altura e da profundidade." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 87 in Matth.", "catena": "23:33#8", "sintese": "Crucificaram-no entre ladrões para o envergonhar; mas a sua cruz é honrada em toda parte, até nos diademas dos reis." }
+      ],
+      "nota": null
+    },
+    "23:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:34–37#0", "sintese": "Faz o que ensinou: ora pelos perseguidores, para nos ensinar a fazê-lo com palavras e com obras." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "23:34–37#1", "sintese": "Não orou em vão: alcançou o fruto da oração nos que creram depois da sua paixão." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:34–37#3", "sintese": "Sobe nu à cruz: Adão foi vencido buscando com que se cobrir; venceu quem depôs as vestes." }
+      ],
+      "nota": null
+    },
+    "23:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": "Hom. in Pass. Dom.", "catena": "23:34–37#11", "sintese": "Quis ser reconhecido Salvador não salvando-se a si, mas às criaturas, como o médico pela cura dos doentes." }
+      ],
+      "nota": null
+    },
+    "23:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:38–43#1", "sintese": "O título está acima da cruz porque o reino de Cristo não é do corpo humano, mas do poder de Deus." }
+      ],
+      "nota": null
+    },
+    "23:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:38–43#3", "sintese": "O condenado faz-se juiz e julga segundo a verdade, confessando a sua culpa e a inocência de Cristo." }
+      ],
+      "nota": null
+    },
+    "23:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 18, c. 40.", "catena": "23:38–43#4", "sintese": "Só o coração e a língua ficaram livres: com o coração creu para a justiça e com a boca confessou para a salvação." }
+      ],
+      "nota": null
+    },
+    "23:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "23:38–43#5", "sintese": "Perdoa depressa porque o ladrão se converte depressa; e a graça é mais abundante do que o pedido." },
+        { "autor": "Teofilato", "obra": null, "catena": "23:38–43#6", "sintese": "Como rei vitorioso leva os melhores despojos, arrebata ao diabo o ladrão e leva-o consigo ao paraíso." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
