@@ -1,0 +1,61 @@
+{
+  "id": "LUK.9.10",
+  "livro": "LUK",
+  "titulo": "A multiplicação dos pães",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 9,10-17",
+  "ini": { "c": 9, "v": 10 },
+  "fim": { "c": 9, "v": 17 },
+  "liturgia": { "tema_central": "“Dai-lhes vós de comer”: o pão abençoado e partido", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os apóstolos regressam e contam o que fizeram; Jesus retira-se com eles para perto de Betsaida, mas as multidões seguem-no. Ele as acolhe, fala-lhes do Reino e cura os doentes. Ao cair da tarde, os Doze pedem que despeça o povo, pois estão num lugar deserto. Jesus responde: “Dai-lhes vós de comer”. Têm só cinco pães e dois peixes para cerca de cinco mil homens. Jesus manda sentá-los em grupos de cinquenta, toma os pães e os peixes, levanta os olhos ao céu, abençoa, parte e dá aos discípulos para distribuírem. Todos comem e ficam saciados, e recolhem doze cestos de pedaços.",
+    "alegorico": "Os gestos de Jesus (tomar, abençoar, partir, dar) anunciam a Última Ceia e a Eucaristia, pão do céu que sacia no deserto deste mundo, como o maná. Os cinco pães figuram a Lei e os dois peixes os dois Testamentos: Cristo não cria do nada, mas enche de graça o que foi profetizado. Os doze cestos são os apóstolos e os seus sucessores, que guardam o pão para os povos.",
+    "moral": "“Dai-lhes vós de comer”: Jesus envolve os discípulos na resposta à fome, sem os dispensar com o pouco que têm. Antes de comer, damos graças e pedimos a bênção. A palavra de Deus, quando é repartida, multiplica-se. Quando socorremos os necessitados, a nossa provisão aumenta. Jesus acolhe os cansados, ensina os ignorantes, cura os doentes e sacia os famintos.",
+    "anagogico": "O banquete no deserto é figura do banquete eterno, onde todos serão saciados. A refeição ao entardecer recorda que, no fim dos tempos, o Senhor alimenta o seu povo para a última travessia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "As multidões foram-no seguindo. E as recebeu, falou-lhes do reino de Deus e sarou os que necessitavam de cura. Os doze disseram-lhe: “Despede as multidões, porque aqui estamos num lugar deserto”. Ele respondeu-lhes: “Dai-lhes vós de comer”. Eles disseram: “Não temos mais do que cinco pães e dois peixes”. Tendo tomado os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou-os, partiu-os e distribuiu-os aos seus discípulos, para que os servissem à multidão. Comeram todos, e ficaram saciados. E levantaram do que lhes sobejou doze cestos de fragmentos.",
+    "meditatio_perguntas": [
+      "Diante das necessidades à minha volta, prefiro “despedir a multidão” ou ouvir “dai-lhes vós de comer”?",
+      "Que “cinco pães e dois peixes” posso pôr nas mãos de Jesus?",
+      "Como vivo a Eucaristia: como pão recebido e partilhado?"
+    ],
+    "oratio_guia": "Senhor Jesus, que no deserto abençoaste e partiste o pão para a multidão, toma o pouco que tenho e multiplica-o. Sacia-me com o teu Corpo e a tua palavra, e faz de mim alguém que reparte com os famintos o que de ti recebeu. Amém.",
+    "contemplatio_foco": { "texto": "Dai-lhes vós de comer.", "ref": "Lc 9,13" }
+  },
+  "ancoras": {
+    "9:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:10–17#8", "sintese": "Salvador poderoso e misericordioso: acolhe os cansados, ensina os ignorantes, cura os enfermos e sacia os famintos." }
+      ],
+      "nota": null
+    },
+    "9:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "9:10–17#11", "sintese": "Pergunta para que, confessando quantos pães tinham, se manifestasse a grandeza do milagre." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:10–17#30", "sintese": "Os cinco pães são a Lei de Moisés e os dois peixes, os dois Testamentos." }
+      ],
+      "nota": null
+    },
+    "9:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:10–17#18", "sintese": "Ensina-nos a dar graças a Deus e a pedir a sua bênção quando partimos o pão no início da refeição." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 49 in Matth.", "catena": "9:10–17#19", "sintese": "Distribui pelas mãos dos discípulos para os honrar; não cria do nada, mostrando-se o Criador que dá o alimento da terra e do mar." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:10–17#32", "sintese": "Não cria novo alimento, mas abençoa o dos discípulos: não prega nada além do predito, mas mostra as profecias cheias de graça; olha para o céu para nos ensinar a buscar lá a luz." }
+      ],
+      "nota": { "texto": "Os verbos “tomou, abençoou, partiu, deu” reaparecem na Última Ceia (Lc 22,19) e em Emaús (24,30): Lucas lê o milagre à luz da Eucaristia.", "origem": "ia" }
+    },
+    "9:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:10–17#31", "sintese": "O pão partido é a palavra de Deus sobre Cristo, que aumenta quando é repartida." },
+        { "autor": "Teofilato", "obra": null, "catena": "9:10–17#23", "sintese": "Aprendemos o valor da hospitalidade e quanto aumenta a nossa provisão quando socorremos os necessitados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "LUK.9.18",
+  "livro": "LUK",
+  "titulo": "A confissão de Pedro e o anúncio da Paixão",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 9,18-27",
+  "ini": { "c": 9, "v": 18 },
+  "fim": { "c": 9, "v": 27 },
+  "liturgia": { "tema_central": "“E vós quem dizeis que sou eu?” – tomar a cruz cada dia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus está orando a sós, com os discípulos perto, e pergunta-lhes quem as multidões dizem que ele é: João Batista, Elias, um profeta antigo. “E vós quem dizeis que sou eu?” Pedro responde: “O Cristo de Deus”. Jesus ordena-lhes severamente que não o digam a ninguém e anuncia, pela primeira vez, que o Filho do homem deve sofrer muito, ser rejeitado pelos anciãos, sumos sacerdotes e escribas, ser morto e ressuscitar ao terceiro dia. Depois diz a todos: quem quiser segui-lo negue-se a si mesmo, tome a sua cruz cada dia e siga-o. Quem quiser salvar a vida a perderá; quem a perder por causa dele a salvará. De que serve ganhar o mundo e perder-se? Quem se envergonhar dele, dele se envergonhará o Filho do homem na sua glória. Alguns presentes verão o Reino de Deus antes de morrer.",
+    "alegorico": "O título “Cristo de Deus” resume a divindade, a encarnação e a paixão: o Ungido é o Filho e o Servo que sofre. A necessidade (“é necessário”) do sofrimento revela o desígnio do Pai. A promessa de ver o Reino cumpre-se logo na Transfiguração, figura da glória futura.",
+    "moral": "Cristo não obriga ninguém: “se alguém quer”. Negar-se a si mesmo é abandonar a própria vontade e os afetos desordenados; a cruz toma-se pela mortificação do corpo e pela compaixão da alma, e “todos os dias” (só Lucas o diz), na fidelidade quotidiana. Quem prende a alma às coisas sensíveis a perde. Envergonha-se de Cristo quem despreza o Crucificado ou a simplicidade do Evangelho.",
+    "anagogico": "A ressurreição ao terceiro dia e a vinda do Filho do homem na glória são o horizonte da cruz quotidiana. Quem permanece com Cristo não provará a morte da alma."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando só orando, se encontravam com ele os seus discípulos. Jesus interrogou-os: “Quem dizem as multidões que sou eu?” Ele disse-lhes: “E vós quem dizeis que sou eu?” Pedro, respondendo, disse: “O Cristo de Deus”. Acrescentou: “É necessário que o Filho do homem padeça muitas coisas, que seja morto, e ressuscite ao terceiro dia”. Depois, dirigindo-se a todos: “Se alguém quer vir após de mim, negue-se a si mesmo, tome a sua cruz todos os dias, e siga-me. Porque quem perder a sua vida por causa de mim, salvá-la-á. Que aproveita o homem ganhar todo o mundo, se se perde a si mesmo?”",
+    "meditatio_perguntas": [
+      "Se Jesus me perguntasse hoje “quem sou eu para ti?”, que responderia com a minha vida?",
+      "Qual é a cruz de cada dia que me custa aceitar?",
+      "Em que situações me envergonho de Cristo ou das suas palavras?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu és o Cristo de Deus. Dá-me a graça de te confessar não só com os lábios, mas com a vida. Ensina-me a negar-me a mim mesmo, a tomar cada dia a minha cruz e a seguir-te, sem me envergonhar de ti, na esperança da tua glória. Amém.",
+    "contemplatio_foco": { "texto": "E vós quem dizeis que sou eu?", "ref": "Lc 9,20" }
+  },
+  "ancoras": {
+    "9:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:18–22#1", "sintese": "Os discípulos estavam com Ele, mas só Ele orava: os santos unem-se ao Senhor pela fé e pelo amor, mas só o Filho penetra os segredos do Pai." }
+      ],
+      "nota": { "texto": "Lucas situa a confissão de Pedro num momento de oração de Jesus, como os outros momentos decisivos do seu Evangelho.", "origem": "ia" }
+    },
+    "9:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:18–22#6", "sintese": "Parte das opiniões dos de fora para depois perguntar “e vós”: separa-os dos outros, como apóstolos e testemunhas." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:18–22#7", "sintese": "No nome “Cristo” exprimem-se a divindade, a encarnação e a fé na paixão: Pedro compreendeu tudo." }
+      ],
+      "nota": null
+    },
+    "9:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:18–22#12", "sintese": "Sabendo que dificilmente creriam na paixão e ressurreição, quis ser Ele mesmo a anunciá-las." }
+      ],
+      "nota": null
+    },
+    "9:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 55 in Matth.", "catena": "9:23–27#2", "sintese": "“Se alguém quer”: não obriga nem impõe jugo, mas atrai pela persuasão os que vêm de boa vontade." },
+        { "autor": "São Basílio", "obra": "Reg. fus. int. 6.", "catena": "9:23–27#5", "sintese": "Negar-se é esquecer as coisas passadas e abandonar a própria vontade e o próprio afeto." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 32 in Ev.", "catena": "9:23–27#9", "sintese": "Toma-se a cruz de dois modos: afligindo o corpo pela abstinência e tocando a alma pela compaixão." }
+      ],
+      "nota": null
+    },
+    "9:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "in Matth. tom. 12.", "catena": "9:23–27#13", "sintese": "Perde a vida quem a prende às coisas sensíveis; salva-a quem as abandona pela verdade e se expõe por Cristo." }
+      ],
+      "nota": null
+    },
+    "9:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "9:23–27#16", "sintese": "Envergonha-se de Cristo quem diz “hei de crer num crucificado?” e quem despreza a simplicidade do Evangelho." }
+      ],
+      "nota": null
+    },
+    "9:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "9:23–27#19", "sintese": "Refere-se à Transfiguração, que Pedro, Tiago e João veriam como figura da glória futura." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:23–27#21", "sintese": "Permaneçamos onde Cristo está: os que se unem a Ele não provam a morte da alma." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

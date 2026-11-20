@@ -1,0 +1,71 @@
+{
+  "id": "LUK.9.1",
+  "livro": "LUK",
+  "titulo": "A missão dos Doze; a perplexidade de Herodes",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 9,1-9",
+  "ini": { "c": 9, "v": 1 },
+  "fim": { "c": 9, "v": 9 },
+  "liturgia": { "tema_central": "Enviados sem nada, para anunciar o Reino e curar", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus reúne os Doze, dá-lhes poder e autoridade sobre os demônios e para curar, e envia-os a anunciar o Reino de Deus. Não devem levar bastão, alforje, pão, dinheiro nem duas túnicas; devem ficar na casa que os acolher; onde não forem recebidos, sacudam o pó dos pés em testemunho. Eles partem e percorrem as aldeias, evangelizando e curando. Herodes Antipas, que mandara decapitar João, fica perplexo com o que ouve: uns dizem que é João ressuscitado, outros Elias, outros um profeta antigo. Ele pergunta: “Quem é este?” e procura vê-lo; só o verá na Paixão (Lc 23,8).",
+    "alegorico": "Os Doze, revestidos do poder de Cristo, prolongam a sua missão: o Filho dá aos homens um poder que só Deus pode dar. A pergunta de Herodes, “Quem é este?”, é a grande pergunta deste capítulo, que terá resposta na confissão de Pedro e na Transfiguração.",
+    "moral": "O pregador do Reino não confia em recursos humanos, mas na fé: quanto menos procura, mais lhe é dado. A pobreza do apóstolo torna-o livre e crível. Não deve andar de casa em casa, mas respeitar a hospitalidade recebida. O pecado torna o homem medroso: Herodes teme até as sombras, mesmo sem ninguém o acusar. A curiosidade de ver Jesus não basta, se não se converte em fé.",
+    "anagogico": "O pó sacudido é testemunho para o juízo: a palavra rejeitada será lembrada no último dia. A missão dos Doze é o início do anúncio que chegará aos confins da terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Convocados os doze, deu-lhes poder e autoridade sobre todos os demónios e para curar as doenças. Enviou-os a pregar o reino de Deus, e a curar os doentes. Disse-lhes: “Não leveis nada para o caminho, nem bastão, nem alforge, nem pão, nem dinheiro”. Tendo eles partido, andavam de aldeia em aldeia pregando o Evangelho, e fazendo curas por toda a parte. Herodes tetrarca ouviu falar de tudo o que se passava, e não sabia que pensar. Herodes disse: “Eu mandei degolar João. Quem é, pois, este de quem ouço tais coisas?” E buscava ocasião de o ver.",
+    "meditatio_perguntas": [
+      "Que “bagagem” me impede de anunciar o Evangelho com liberdade?",
+      "Confio que Deus provê quando me ponho ao seu serviço?",
+      "Busco ver Jesus por curiosidade, como Herodes, ou para o seguir?"
+    ],
+    "oratio_guia": "Senhor Jesus, que enviaste os Doze pobres e livres, desprende-me do que me pesa e envia-me também a anunciar o teu Reino. Que eu confie na tua providência e leve aos outros a cura e a paz. E que a pergunta “quem és tu?” me leve a conhecer-te e a amar-te. Amém.",
+    "contemplatio_foco": { "texto": "Enviou-os a pregar o reino de Deus, e a curar os doentes.", "ref": "Lc 9,2" }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:1–6#0", "sintese": "Os ministros do ensino sagrado deviam operar milagres para serem reconhecidos como ministros de Deus; assim é abatida a soberba do diabo." }
+      ],
+      "nota": null
+    },
+    "9:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:1–6#7", "sintese": "O pregador do Reino não deve depender de auxílios humanos: apoiado na fé, quanto menos procura, mais lhe é dado." }
+      ],
+      "nota": null
+    },
+    "9:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:1–6#13", "sintese": "Não é próprio do pregador andar de casa em casa: os direitos da hospitalidade devem ser invioláveis." }
+      ],
+      "nota": null
+    },
+    "9:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:1–6#14", "sintese": "O pó sacudido testemunha que a pregação chegou àquela cidade e que nada se recebeu dos que desprezaram o Evangelho." }
+      ],
+      "nota": null
+    },
+    "9:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:7–9#2", "sintese": "O pecador teme até as sombras: o pecado, mesmo sem acusador, condena o culpado e o torna medroso." }
+      ],
+      "nota": null
+    },
+    "9:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "9:7–9#5", "sintese": "Herodes procurava vê-lo para verificar se era João ressuscitado." }
+      ],
+      "nota": { "texto": "Herodes só verá Jesus na Paixão, e então Jesus não lhe responderá (Lc 23,8-9): a curiosidade sem conversão não chega ao encontro.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,95 @@
+{
+  "id": "LUK.9.28",
+  "livro": "LUK",
+  "titulo": "A Transfiguração",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 9,28-36",
+  "ini": { "c": 9, "v": 28 },
+  "fim": { "c": 9, "v": 36 },
+  "liturgia": { "tema_central": "“Este é o meu filho dilecto, ouvi-o”: a glória que passa pela cruz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Uns oito dias depois, Jesus sobe ao monte para orar com Pedro, Tiago e João. Enquanto ora, o seu rosto muda e as suas vestes ficam de um branco resplandecente. Moisés e Elias, em glória, falam com ele da sua “partida” (em grego, êxodo) que se iria cumprir em Jerusalém. Os discípulos, pesados de sono, despertam e veem a glória. Quando os dois se afastam, Pedro propõe fazer três tendas, sem saber o que diz. Uma nuvem os envolve, eles têm medo, e uma voz diz: “Este é o meu filho dilecto, ouvi-o”. Jesus fica só, e os discípulos guardam silêncio sobre o que viram.",
+    "alegorico": "Moisés e Elias, a Lei e os Profetas, dão testemunho de Cristo e falam da sua Paixão: todo o Antigo Testamento conduz à cruz e à glória. No fim, Jesus fica só: a Lei e os Profetas procedem do Verbo e nele se consumam. Como no Jordão, manifesta-se a Trindade: o Pai na voz, o Filho na glória, o Espírito na nuvem luminosa, sombra que não obscurece mas revela.",
+    "moral": "Jesus transfigura-se enquanto ora: a oração é o lugar da transformação. Ninguém vê a glória de Cristo senão quem vigia. Pedro quer prender a visão; mas ainda não é tempo de repouso, e Cristo desce para padecer pelo mundo. A ordem do Pai, “ouvi-o”, resume a vida do discípulo: escutar o Filho, sobretudo quando fala da cruz.",
+    "anagogico": "A Transfiguração mostra a glória da vinda de Cristo e da nossa ressurreição: as vestes resplandecentes são os santos, que agora parecem desprezíveis e então brilharão, pois seremos semelhantes a Ele. A glória que confessamos no batismo, vê-la-emos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tomou consigo Pedro, Tiago e João, e subiu a um monte para orar. Enquanto orava, tornou-se todo outro o seu rosto; o seu vestido tornou-se branco resplandecente. E eis que dois homens falavam com ele: Moisés e Elias, os quais falavam da morte que ele devia sofrer em Jerusalém. Pedro disse a Jesus: “Mestre, é bom para nós estar aqui; façamos três tendas”. Formou-se uma nuvem, que os envolveu. Então saiu uma voz da nuvem, dizendo: “Este é o meu filho dilecto, ouvi-o”. Ao soar aquela voz, Jesus ficou só.",
+    "meditatio_perguntas": [
+      "Deixo-me transformar na oração, ou rezo sem deixar Deus mudar-me?",
+      "Quero ficar só nos momentos de consolação, como Pedro, e fugir da descida para a cruz?",
+      "O que significa para mim, concretamente, “ouvi-o”?"
+    ],
+    "oratio_guia": "Pai santo, que no monte revelaste a glória do teu Filho dilecto, ensina-me a escutá-lo. Que a oração me transfigure, que eu não durma enquanto Ele se revela, e que, descendo do monte, o siga até Jerusalém, na esperança de ver um dia a sua glória face a face. Amém.",
+    "contemplatio_foco": { "texto": "Este é o meu filho dilecto, ouvi-o.", "ref": "Lc 9,35" }
+  },
+  "ancoras": {
+    "9:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Damasceno", "obra": "Orat. de Transfig. §. 8.", "catena": "9:28–31#4", "sintese": "A mente de Cristo, unida ao Verbo, orava para nos guiar pela mão na subida a Deus e para mostrar que venera o Pai como princípio." }
+      ],
+      "nota": null
+    },
+    "9:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:28–31#5", "sintese": "O corpo não perdeu a forma humana, mas foi envolvido por uma glória resplandecente." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:28–31#14", "sintese": "A Transfiguração mostra a glória da vinda de Cristo e da nossa ressurreição; as vestes são os santos, que então resplandecerão." }
+      ],
+      "nota": null
+    },
+    "9:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 56 in Matth.", "catena": "9:28–31#7", "sintese": "Moisés, o legislador, e Elias, zeloso de Deus, assistem-no para mostrar que não é transgressor da Lei e a diferença entre o Senhor e os servos." }
+      ],
+      "nota": null
+    },
+    "9:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:28–31#8", "sintese": "Falavam do mistério da encarnação e da paixão vivificante consumada na cruz." }
+      ],
+      "nota": { "texto": "O texto grego diz que falavam do seu “êxodo”: a morte e ressurreição de Jesus são a nova Páscoa, a passagem que liberta o povo.", "origem": "ia" }
+    },
+    "9:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:32–36#2", "sintese": "O esplendor divino oprime os sentidos; ao despertarem, viram a glória, pois ninguém vê a glória de Cristo senão quem vigia." }
+      ],
+      "nota": null
+    },
+    "9:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "9:32–36#7", "sintese": "Não sabia o que dizia: ainda não era o tempo do repouso prometido, e Cristo queria padecer pelo mundo." },
+        { "autor": "São João Damasceno", "obra": null, "catena": "9:32–36#6", "sintese": "O Senhor fez de Pedro construtor não de tendas, mas da Igreja universal." }
+      ],
+      "nota": null
+    },
+    "9:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:32–36#15", "sintese": "A nuvem é a sombra do Espírito divino, que não obscurece, mas revela ao coração as coisas ocultas." }
+      ],
+      "nota": null
+    },
+    "9:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "9:32–36#22", "sintese": "Como no batismo, manifesta-se a Trindade: a glória que confessamos no batismo, vê-la-emos na ressurreição." }
+      ],
+      "nota": null
+    },
+    "9:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "9:32–36#20", "sintese": "Três no princípio, um no fim: aperfeiçoada a fé, são um só, pois a Lei e os Profetas procedem do Verbo." },
+        { "autor": "Orígenes", "obra": null, "catena": "9:32–36#23", "sintese": "Não quer que se fale da sua glória antes da Paixão, para que não se escandalizem ao ver crucificado o glorificado." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
