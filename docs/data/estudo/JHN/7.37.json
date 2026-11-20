@@ -1,0 +1,81 @@
+{
+  "id": "JHN.7.37",
+  "livro": "JHN",
+  "titulo": "Rios de água viva",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 7,37-53",
+  "ini": { "c": 7, "v": 37 },
+  "fim": { "c": 7, "v": 53 },
+  "liturgia": { "tema_central": "“Se alguém tem sede, venha a mim e beba”: a promessa do Espírito", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No último e maior dia da festa, Jesus, de pé, clama em alta voz: “Se alguém tem sede, venha a mim e beba”. De quem crê nele, como diz a Escritura, correrão rios de água viva. Falava do Espírito que haviam de receber os que cressem, pois o Espírito ainda não fora dado, porque Jesus ainda não fora glorificado. Na multidão, uns dizem que é verdadeiramente o profeta; outros, que é o Cristo; outros objetam que o Cristo não vem da Galileia, mas da descendência de David e de Belém. Há divisão por causa dele. Alguns querem prendê-lo, mas ninguém lhe põe as mãos. Os guardas voltam aos chefes sem Ele: “Nunca homem algum falou como este homem”. Os fariseus perguntam se também eles foram seduzidos: algum chefe ou fariseu creu nele? Essa plebe que não conhece a Lei é maldita. Nicodemos, um deles, objeta que a Lei não condena ninguém sem o ouvir. Respondem-lhe com desprezo: “És tu também galileu? Da Galileia não sai profeta”. E cada um vai para sua casa.",
+    "alegorico": "Na festa dos Tabernáculos derramava-se água junto ao altar; Cristo apresenta-se como a fonte verdadeira. Os rios de água viva são o Espírito Santo, que não podia ser dado antes da glorificação de Cristo, isto é, da cruz: éramos inimigos, e era preciso que a vítima fosse oferecida e a inimizade destruída na carne, para recebermos o dom como amigos. Da Galileia não surge profeta, mas dela surgiu o Senhor dos profetas.",
+    "moral": "Cristo não força: “se alguém tem sede”. Vamos a Ele não com os pés, mas com os afetos; não mudando de lugar, mas amando. Quem bebe torna-se fonte: o rio que corre do coração é o amor ao próximo, a pregação, a reta intenção, a misericórdia. Os guardas simples, sem milagres, deixaram-se vencer pela palavra; os doutores da Lei, não. Nicodemos, ainda medroso, já ousa defender a justiça: a fé cresce passo a passo.",
+    "anagogico": "A água viva prometida no último dia da festa antecipa o rio de água da vida que brota do trono de Deus e do Cordeiro (Ap 22,1). O Espírito que agora bebemos é penhor da sede plenamente saciada na Jerusalém do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No último dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: “Se alguém tem sede, venha a mim e beba. O que crê em mim, do seu seio correrão rios de água viva”. Ora ele dizia isto falando do Espírito que haviam de receber os que cressem nele. Os guardas responderam: “Nunca homem algum falou como este homem”.",
+    "meditatio_perguntas": [
+      "De que tenho sede, verdadeiramente, no fundo de mim?",
+      "Deixo correr de mim rios de água viva para os outros, ou guardo para mim o que recebo?",
+      "Tenho a coragem de Nicodemos para defender a verdade quando os outros desprezam?"
+    ],
+    "oratio_guia": "Senhor Jesus, tenho sede. Vou a ti não com os pés, mas com o coração. Dá-me beber do teu Espírito, para que de mim corram rios de água viva de amor e de misericórdia. Que eu diga com os guardas: nunca ninguém falou como tu. Amém.",
+    "contemplatio_foco": { "texto": "Se alguém tem sede, venha a mim e beba.", "ref": "Jo 7,37" }
+  },
+  "ancoras": {
+    "7:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:37–39#4", "sintese": "“Se alguém tem sede”: não uso de coação; venha quem tiver desejo forte." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:37–39#5", "sintese": "Há uma sede interior: vamos a Ele não com os pés, mas com os afetos; não mudando de lugar, mas amando." }
+      ],
+      "nota": { "texto": "Em cada dia da festa, um sacerdote trazia água da piscina de Siloé e derramava-a junto ao altar, pedindo as chuvas e evocando Ez 47 e Zc 14,8.", "origem": "ia" }
+    },
+    "7:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:37–39#8", "sintese": "Quem bebe torna-se fonte: o rio que corre do homem interior é o amor ao próximo." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "7:37–39#9", "sintese": "Quando a santa pregação brota da alma dos fiéis, correm rios de água viva: reta intenção, desejo santo, humildade, misericórdia." }
+      ],
+      "nota": null
+    },
+    "7:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:37–39#18", "sintese": "A glória de Cristo é a cruz: os dons dão-se a amigos, e era preciso destruir primeiro a inimizade na sua carne." }
+      ],
+      "nota": null
+    },
+    "7:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:40–53#8", "sintese": "Os enviados para o prender voltaram sem culpa e cheios de admiração." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:40–53#10", "sintese": "Fariseus e escribas nada aproveitaram dos milagres e das Escrituras; os guardas foram vencidos por um só discurso." }
+      ],
+      "nota": null
+    },
+    "7:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:40–53#16", "sintese": "Os que não conheciam a Lei creram em quem a dera; os que a ensinavam condenaram-no." }
+      ],
+      "nota": null
+    },
+    "7:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:40–53#20", "sintese": "Nicodemos não era incrédulo, mas medroso; julgava que, se o ouvissem, seriam vencidos como os guardas." }
+      ],
+      "nota": null
+    },
+    "7:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:40–53#26", "sintese": "Da Galileia não surge profeta; mas dela surgiu o Senhor dos profetas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

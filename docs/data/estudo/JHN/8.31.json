@@ -1,0 +1,102 @@
+{
+  "id": "JHN.8.31",
+  "livro": "JHN",
+  "titulo": "A verdade vos fará livres; antes que Abraão existisse, Eu sou",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 8,31-59",
+  "ini": { "c": 8, "v": 31 },
+  "fim": { "c": 8, "v": 59 },
+  "liturgia": { "tema_central": "“A verdade vos tornará livres”: a liberdade dos filhos e o “Eu sou” eterno", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus diz aos judeus que nele creram: se permanecerem na sua palavra, serão verdadeiramente discípulos, conhecerão a verdade, e a verdade os tornará livres. Respondem que são descendentes de Abraão e nunca foram escravos. Jesus explica que quem comete o pecado é escravo do pecado; o escravo não fica para sempre na casa, o filho sim; se o Filho os libertar, serão verdadeiramente livres. Sabe que são descendência de Abraão, mas procuram matá-lo porque a sua palavra não penetra neles. Se fossem filhos de Abraão, fariam as obras de Abraão. Dizem ter a Deus por Pai; mas, se Deus fosse seu Pai, amá-lo-iam. O pai deles é o diabo, homicida desde o princípio e pai da mentira. “Qual de vós me arguirá de pecado?” Quem é de Deus ouve as palavras de Deus. Chamam-lhe samaritano e possesso; Ele responde que honra o Pai e não busca a própria glória. Quem guardar a sua palavra não verá a morte. Escandalizam-se: Abraão morreu; és maior do que ele? Jesus diz que Abraão exultou por ver o seu dia. “Ainda não tens cinquenta anos, e viste Abraão!” “Em verdade vos digo: antes que Abraão fosse feito, eu sou.” Pegam em pedras, mas Ele esconde-se e sai do Templo.",
+    "alegorico": "O Filho que fica para sempre na casa é Cristo; o escravo é o pecador. A verdade que liberta é o próprio Cristo, que é a Verdade. Abraão viu o dia de Cristo pela fé e exultou; já o tinha visto quando recebeu os três hóspedes, figura da Trindade. “Antes que Abraão fosse feito, eu sou”: Abraão foi feito, como criatura; o Verbo não foi feito, é. O Senhor que se esconde das pedras figura a verdade que se esconde dos que desprezam a sua palavra.",
+    "moral": "A fé dá o conhecimento, e não o contrário: permanecendo na fé, chegaremos a ver. O escravo de um senhor humano pode fugir; o escravo do pecado leva-o consigo aonde vai: o prazer passa, o aguilhão fica. O primeiro grau da liberdade é abster-se do pecado; não abuses da liberdade para pecar, usa-a para não pecar. Diante das injúrias, Cristo não responde com injúrias: nega só o que devia negar e honra o Pai. Imitemos primeiro a sua paciência, se queremos o seu poder.",
+    "anagogico": "A liberdade plena só existirá quando acabar o combate e for vencida a morte, o último inimigo. Então quem guardou a palavra de Cristo não verá a morte, e verá aquele dia que Abraão saudou de longe: o dia sem ocaso do “Eu sou” eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se vós permanecerdes na minha palavra, sereis verdadeiramente meus discípulos, conhecereis a verdade, e a verdade vos tornará livres. Todo o que comete o pecado, é escravo do pecado. Se o filho vos livrar, sereis verdadeiramente livres. Quem guardar a minha palavra não verá a morte eternamente. Abraão, vosso pai, regozijou-se com a esperança de ver o meu dia. Em verdade, em verdade vos digo: Antes que Abraão fosse feito, eu sou.",
+    "meditatio_perguntas": [
+      "De que pecado ainda sou escravo, mesmo julgando-me livre?",
+      "Permaneço na palavra de Jesus, ou só a escuto de passagem?",
+      "Como reajo às injúrias: com injúria, ou com a paciência de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho que ficas para sempre na casa do Pai, liberta-me do pecado que me escraviza. Que eu permaneça na tua palavra, conheça a verdade e seja livre. Tu és antes de Abraão: ensina-me a exultar, como ele, por ver o teu dia. Amém.",
+    "contemplatio_foco": { "texto": "conhecereis a verdade, e a verdade vos tornará livres.", "ref": "Jo 8,32" }
+  },
+  "ancoras": {
+    "8:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:31–36#2", "sintese": "Não foi o conhecimento que os fez crer, mas a fé que lhes deu o conhecimento: permanecendo na fé, chega-se a ver." }
+      ],
+      "nota": null
+    },
+    "8:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:31–36#13", "sintese": "O escravo do pecado leva-o consigo aonde foge: o prazer passa, o aguilhão fica." }
+      ],
+      "nota": null
+    },
+    "8:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:31–36#15", "sintese": "O primeiro grau da liberdade é abster-se do pecado; a plena só virá quando for vencida a morte." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:31–36#17", "sintese": "Não uses a liberdade para pecar, mas para não pecar: serás livre se te tornares servo da justiça." }
+      ],
+      "nota": null
+    },
+    "8:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:37–41#3", "sintese": "Não diz “não acolheis”, mas “não penetra em vós”, mostrando a profundidade da sua doutrina." }
+      ],
+      "nota": null
+    },
+    "8:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:44–47#3", "sintese": "Filhos do diabo por imitação, não por nascimento: como ele invejou e matou o homem, eles querem matá-lo." }
+      ],
+      "nota": null
+    },
+    "8:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:44–47#20", "sintese": "Pergunte-se quem quer saber se é de Deus se ouve as palavras de Deus com os ouvidos do coração." }
+      ],
+      "nota": null
+    },
+    "8:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:48–51#5", "sintese": "Deus injuriado não responde com injúria: não devolvamos acusações, para que a repreensão não se torne arma da ira." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:48–51#7", "sintese": "Imitemos primeiro a sua paciência, se queremos alcançar o seu poder: negou só o que devia negar." }
+      ],
+      "nota": null
+    },
+    "8:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:52–56#21", "sintese": "Abraão não temeu, mas exultou por ver: exultou na esperança, crendo, e assim viu pela fé." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:52–56#22", "sintese": "Abraão viu o dia do Senhor quando recebeu os três hóspedes, figura da Trindade." }
+      ],
+      "nota": { "texto": "As palavras “com a esperança” e “por meio da revelação” são acréscimos explicativos do tradutor.", "origem": "ia" }
+    },
+    "8:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:57–59#3", "sintese": "Abraão, criatura, “foi feito”; o Verbo não diz “fui feito”, mas “Eu sou”, porque no princípio era o Verbo." }
+      ],
+      "nota": { "texto": "O contraste entre “ser feito” (genesthai) e “eu sou” (egō eimi) exprime a eternidade do Filho e evoca o nome divino de Ex 3,14; por isso pegam em pedras, a pena da blasfémia.", "origem": "ia" }
+    },
+    "8:59": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:57–59#11", "sintese": "A verdade esconde-se dos que desprezam as suas palavras; e ensina-nos a retirar-nos humildemente da ira dos soberbos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "JHN.7.1",
+  "livro": "JHN",
+  "titulo": "Jesus e seus irmãos; a festa dos Tabernáculos",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 7,1-13",
+  "ini": { "c": 7, "v": 1 },
+  "fim": { "c": 7, "v": 13 },
+  "liturgia": { "tema_central": "“O meu tempo ainda não chegou”: o caminho da humildade antes da glória", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus anda pela Galileia e evita a Judeia, porque os judeus o querem matar. Aproxima-se a festa dos Tabernáculos. Os seus irmãos, que não criam nele, insistem para que vá à Judeia e se mostre ao mundo, pois quem quer ser conhecido não age em segredo. Jesus responde que o seu tempo ainda não chegou; o deles está sempre pronto. O mundo não os pode odiar, mas odeia-o a Ele, porque mostra que as suas obras são más. Manda-os subir à festa; Ele não sobe publicamente, porque o seu tempo ainda não se completou. Fica na Galileia; depois, quando os irmãos já partiram, sobe também, não às claras, mas às escondidas. Na festa, os judeus procuram-no: “Onde está ele?”. Há grande murmuração no povo: uns dizem que é bom, outros que engana o povo. Mas ninguém fala dele abertamente, com medo dos judeus.",
+    "alegorico": "A festa dos Tabernáculos recordava as tendas do deserto; mas a verdadeira festa de Cristo é outra: o dia da sua glória, que não passa como as festas daqui, mas permanece para sempre. Ele sobe às escondidas, figura de que todo o culto antigo velava o que havia de vir. A Galileia, que significa “passagem”, figura os membros de Cristo que passam do vício à virtude e não buscam a glória temporal, mas a eterna.",
+    "moral": "Os irmãos aconselhavam-no a buscar a glória do mundo; o Senhor traça outro caminho para a mesma exaltação: a humildade. A Cabeça fez primeiro o que havia de aprovar nos membros: esconder-se da perseguição não é culpa. O mundo não odeia quem lhe é semelhante, mas quem lhe denuncia as obras más. E repare-se: a corrupção está nos chefes; o povo simples julga com retidão, mas não tem liberdade de falar.",
+    "anagogico": "“O meu tempo ainda não chegou”: o tempo de Cristo é a glória, quando vier julgar do alto. Então haverá festa sem fim, alegria sem mancha, sol sem nuvem. Os que agora caminham escondidos com Ele, longe dos aplausos do mundo, entrarão nessa festa que não acaba."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Disseram-lhe, pois, seus irmãos: “Sai daqui e vai para a Judeia; manifesta-te ao mundo”. Nem mesmo os seus irmãos criam nele. O mundo não pode odiar-vos, mas odeia-me a mim, porque faço ver que as suas obras são más. Mas, quando seus irmãos já tinham partido, então foi ele também à festa, não descobertamente, mas incógnito. E havia um grande rumor entre o povo acerca dele.",
+    "meditatio_perguntas": [
+      "Procuro ser visto e reconhecido, como os irmãos queriam, ou aceito o caminho escondido de Jesus?",
+      "Tenho medo de falar de Jesus abertamente, como a multidão da festa?",
+      "Sei esperar o “tempo” de Deus, sem forçar os acontecimentos?"
+    ],
+    "oratio_guia": "Senhor Jesus, que preferiste o caminho escondido à glória que o mundo te oferecia, livra-me da sede de aparecer. Dá-me esperar o teu tempo e a coragem de falar de ti abertamente. Leva-me contigo à festa que não passa. Amém.",
+    "contemplatio_foco": { "texto": "não está ainda completo o meu tempo", "ref": "Jo 7,8" }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:1–8#0", "sintese": "Os fiéis haviam de esconder-se da perseguição: a Cabeça fez primeiro o que havia de aprovar nos membros." }
+      ],
+      "nota": null
+    },
+    "7:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:1–8#5", "sintese": "Na festa dos Tabernáculos faziam tendas, em memória da peregrinação no deserto (Lv 23,42-43)." }
+      ],
+      "nota": { "texto": "A festa durava oito dias, no outono, e incluía ritos de água e de luz no Templo, que iluminam as palavras de Jesus em 7,37-39 e 8,12.", "origem": "ia" }
+    },
+    "7:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:1–8#10", "sintese": "Os irmãos do Senhor são parentes de Maria, não filhos dela: o seio que o concebeu não concebeu outro." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:1–8#11", "sintese": "Admirável sinceridade dos evangelistas: não se envergonham de contar a incredulidade dos parentes do Senhor." }
+      ],
+      "nota": null
+    },
+    "7:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:1–8#13", "sintese": "Aconselhavam-no a buscar a glória por motivos mundanos; Ele traça outro caminho para a exaltação: a humildade." }
+      ],
+      "nota": { "texto": "As palavras “de entrar triunfalmente em Jerusalém” e, em 7,8, “publicamente” são acréscimos explicativos do tradutor, ausentes do texto latino.", "origem": "ia" }
+    },
+    "7:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:1–8#19", "sintese": "O seu tempo é o da glória: festa que não passa, alegria sem fim, sol sem nuvem." }
+      ],
+      "nota": null
+    },
+    "7:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "7:9–13#4", "sintese": "Fica na Galileia, “passagem”: os seus membros passam do vício à virtude e não buscam a glória temporal." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:9–13#2", "sintese": "Sobe não para padecer, mas para ensinar; e às ocultas, embora pudesse ir abertamente." }
+      ],
+      "nota": null
+    },
+    "7:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:9–13#10", "sintese": "A corrupção está nos chefes; o povo simples julga com retidão, mas não tem liberdade de falar." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

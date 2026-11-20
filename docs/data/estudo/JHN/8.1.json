@@ -1,0 +1,66 @@
+{
+  "id": "JHN.8.1",
+  "livro": "JHN",
+  "titulo": "A mulher adúltera",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 8,1-11",
+  "ini": { "c": 8, "v": 1 },
+  "fim": { "c": 8, "v": 11 },
+  "liturgia": { "tema_central": "A miserável e a Misericórdia: “Nem eu te condeno; vai, e não peques mais”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vai ao monte das Oliveiras e, ao romper da manhã, volta ao Templo; todo o povo vem ter com Ele, e Ele, sentado, ensina. Os escribas e fariseus trazem-lhe uma mulher apanhada em adultério, põem-na no meio e dizem: “Moisés mandou apedrejar tais mulheres; que dizes tu?”. Fazem-no para o apanhar em falta. Jesus inclina-se e escreve com o dedo na terra. Como insistem, levanta-se e diz: “O que de vós está sem pecado, seja o primeiro que lhe atire a pedra”. E inclina-se de novo a escrever. Ao ouvirem isto, vão-se retirando um a um, a começar pelos mais velhos, e Jesus fica só com a mulher. Levanta-se e pergunta-lhe: “Mulher, onde estão os que te acusavam? Ninguém te condenou?”. “Ninguém, Senhor.” “Nem eu te condeno; vai, e não peques mais.”",
+    "alegorico": "Cristo ensina do monte das Oliveiras, o monte do óleo, da unção: o seu nome vem de crisma, e Ele unge-nos para a luta. Escreve com o dedo na terra, Ele que com o dedo de Deus escrevera a Lei na pedra; agora escreve-a na terra que dá fruto. Inclinar-se é a humildade da Encarnação. Ficam só duas: a miserável e a Misericórdia. A armadilha queria opor nele a verdade à mansidão; mas Ele é ao mesmo tempo mestre da verdade, libertador manso e juiz justo.",
+    "moral": "Cristo não diz “não a apedrejeis”, para não falar contra a Lei, nem “apedrejai-a”, pois veio procurar o que estava perdido. Diz a voz da justiça: seja castigada a pecadora, mas não por pecadores. Quem não se julga primeiro a si mesmo não sabe julgar o outro. A misericórdia não aprova o pecado: “não peques mais”. Recebemos o perdão para mudar de vida, e não para continuar no mesmo caminho.",
+    "anagogico": "Aquele que agora não condena é o juiz que há de vir. Hoje é o tempo da misericórdia, em que a pecadora fica de pé diante dele e é perdoada; quem acolhe esta misericórdia e não volta a pecar não temerá o juízo, porque o Juiz é o mesmo que disse: “Nem eu te condeno”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Então os escribas e os fariseus trouxeram-lhe uma mulher apanhada em adultério; puseram-na no meio. Porém Jesus, inclinando-se, pôs-se a escrever com o dedo na terra. Levantou-se, e disse-lhes: “O que de vós está sem pecado, seja o primeiro que lhe atire a pedra”. Foram-se retirando, um após outro, começando pelos mais velhos; e ficou só Jesus com a mulher diante dele. Então Jesus disse: “Nem eu te condeno; vai, e não peques mais”.",
+    "meditatio_perguntas": [
+      "Que pedras levo na mão para atirar aos outros?",
+      "Deixo-me ficar a sós com Jesus, diante dele, com o meu pecado?",
+      "O que significa para mim, hoje, “vai, e não peques mais”?"
+    ],
+    "oratio_guia": "Senhor Jesus, Misericórdia diante da minha miséria, não me condenes. Tira-me das mãos as pedras com que julgo os outros e ensina-me a julgar-me primeiro a mim. Que eu ouça a tua palavra de perdão e tenha a força de não voltar a pecar. Amém.",
+    "contemplatio_foco": { "texto": "Nem eu te condeno; vai, e não peques mais.", "ref": "Jo 8,11" }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:1–11#1", "sintese": "Convinha que Cristo ensinasse no monte das Oliveiras, o monte do crisma: o seu nome vem da unção com que nos ungiu para lutar." }
+      ],
+      "nota": { "texto": "Este episódio falta em muitos manuscritos gregos antigos, mas a Igreja recebeu-o como Escritura canónica; está na Vulgata e é lido na liturgia.", "origem": "ia" }
+    },
+    "8:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:1–11#5", "sintese": "Tinham-no por demasiado indulgente: queriam opor nele a mansidão à justiça, mas Ele é verdade, mansidão e justiça." }
+      ],
+      "nota": { "texto": "A Lei previa a morte para ambos os adúlteros (Lv 20,10; Dt 22,22); o homem, porém, não é trazido.", "origem": "ia" }
+    },
+    "8:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:1–11#6", "sintese": "Inclinar-se é humildade; escrever na terra mostra que a sua lei seria escrita na terra que dá fruto, e não na pedra." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:1–11#8", "sintese": "Escrevendo com o dedo na terra, talvez mostrasse que fora Ele quem escrevera a Lei na pedra." }
+      ],
+      "nota": null
+    },
+    "8:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:1–11#9", "sintese": "Nem “não a apedrejeis” nem “apedrejai-a”: seja castigada a pecadora, mas não por pecadores." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:1–11#10", "sintese": "Quem não se julga primeiro a si mesmo não sabe julgar retamente o caso do outro." }
+      ],
+      "nota": null
+    },
+    "8:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:1–11#15", "sintese": "Ficaram só duas: a miserável e a Misericórdia." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

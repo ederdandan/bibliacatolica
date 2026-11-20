@@ -1,0 +1,72 @@
+{
+  "id": "JHN.8.12",
+  "livro": "JHN",
+  "titulo": "Eu sou a luz do mundo",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 8,12-30",
+  "ini": { "c": 8, "v": 12 },
+  "fim": { "c": 8, "v": 30 },
+  "liturgia": { "tema_central": "“Quem me segue não anda nas trevas, mas terá a luz da vida”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus fala outra vez: “Eu sou a luz do mundo; quem me segue não anda nas trevas, mas terá a luz da vida”. Os fariseus objetam que dá testemunho de si mesmo. Jesus responde que o seu testemunho é verdadeiro, porque sabe de onde vem e para onde vai; eles julgam segundo a carne. Ele não está só: o Pai que o enviou dá também testemunho, e a Lei aceita o testemunho de dois. Perguntam: “Onde está teu Pai?”. Se o conhecessem a Ele, conheceriam o Pai. Diz isto junto ao gazofilácio, no Templo, e ninguém o prende, porque não chegara a sua hora. Anuncia que vai partir: procurá-lo-ão e morrerão no seu pecado. Eles pensam que se vai matar. Jesus diz: “Vós sois cá de baixo, eu sou lá de cima”; se não crerem que “Eu sou”, morrerão nos seus pecados. Perguntam-lhe: “Quem és tu?”. Ele responde que o Pai é verdadeiro e que diz ao mundo o que dele ouviu. Quando levantarem o Filho do homem, conhecerão que “Eu sou” e que nada faz por si; o Pai está com Ele e não o deixa só, porque faz sempre o que lhe agrada. Muitos creem nele.",
+    "alegorico": "Cristo não é o sol visível, como pensavam os maniqueus: o sol foi feito por Ele, e a luz que fez o sol veio por nós estar debaixo do sol. Ele leva-nos dos olhos da carne aos do coração: “luz da vida”, como no Salmo, “na tua luz veremos a luz”. O “Eu sou” sem complemento é o nome de Deus revelado a Moisés: o ser que não muda. Levantado na cruz, o Filho do homem será reconhecido como esse “Eu sou”.",
+    "moral": "Seguir Cristo é sair das trevas; não basta admirá-lo. Os judeus procurá-lo-ão, não por arrependimento, mas por ódio: o mesmo Jesus é procurado por quem o ama e por quem o odeia. Quem julga segundo a carne fica cá em baixo. Quem morre no seu pecado é quem recusa crer naquele que veio tirá-lo: só a fé abre a porta do perdão. Como Cristo, devemos fazer sempre o que agrada ao Pai.",
+    "anagogico": "A luz da vida, que agora seguimos na fé, será a luz em que veremos a luz, quando Deus for tudo em todos. “Para onde eu vou”: o Filho volta ao Pai, e os que o seguem nas trevas deste mundo hão de chegar onde Ele está, na cidade que não precisa de sol, porque o Cordeiro é a sua lâmpada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Outra vez lhes falou Jesus, dizendo: “Eu sou a luz do mundo; o que me segue não anda nas trevas, mas terá a luz da vida”. Vós sois cá de baixo, eu sou lá de cima. Se não crerdes em quem eu sou, morrereis no vosso pecado. Quando tiverdes levantado o Filho do homem, então conhecereis quem eu sou. O que me enviou está comigo, não me deixou só, porque eu faço sempre aquilo que é do seu agrado.",
+    "meditatio_perguntas": [
+      "Que zonas da minha vida ainda caminham nas trevas, longe da luz de Cristo?",
+      "Olho para o Crucificado como quem reconhece nele o “Eu sou” de Deus?",
+      "Procuro, como Jesus, fazer sempre o que agrada ao Pai?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz do mundo, quero seguir-te para não andar nas trevas. Leva-me dos olhos da carne aos do coração. Levantado na cruz, mostra-me quem és, e ensina-me a fazer sempre o que agrada ao Pai. Amém.",
+    "contemplatio_foco": { "texto": "Eu sou a luz do mundo; o que me segue não anda nas trevas, mas terá a luz da vida.", "ref": "Jo 8,12" }
+  },
+  "ancoras": {
+    "8:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:12#3", "sintese": "Cristo não é o sol, como diziam os maniqueus: o sol foi feito por Ele, e a luz que o fez veio estar debaixo do sol por nós." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:12#5", "sintese": "Leva-nos dos olhos da carne aos do coração: não só luz, mas “luz da vida”, como no Salmo: na tua luz veremos a luz." }
+      ],
+      "nota": { "texto": "Na festa dos Tabernáculos acendiam-se grandes candelabros no átrio das mulheres, que iluminavam Jerusalém. Jesus fala precisamente “no lugar do gazofilácio” (8,20), nesse átrio.", "origem": "ia" }
+    },
+    "8:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:13–18#3", "sintese": "O testemunho da luz é verdadeiro, quer mostre a si mesma, quer outras coisas: Jesus é testemunha idónea de si." }
+      ],
+      "nota": null
+    },
+    "8:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:19–20#5", "sintese": "“Se me conhecêsseis, conheceríeis o Pai” equivale a “Eu e o Pai somos um”." }
+      ],
+      "nota": null
+    },
+    "8:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:21–24#3", "sintese": "Procurá-lo-ão não por arrependimento, mas por ódio: depois de partir, foi procurado tanto pelos que o odiavam como pelos que o amavam." }
+      ],
+      "nota": null
+    },
+    "8:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:21–24#19", "sintese": "“Se não crerdes que Eu sou”, sem complemento, recorda “Eu sou aquele que sou”: só Deus é verdadeiramente, sem mudança." }
+      ],
+      "nota": null
+    },
+    "8:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:28–30#2", "sintese": "No “Eu sou” está implicada a Trindade; e “nada faço por mim” afasta o erro sabeliano: o Filho é Deus procedente do Pai." }
+      ],
+      "nota": { "texto": "“Levantado” une, como em 3,14 e 12,32, a elevação na cruz e a exaltação na glória.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

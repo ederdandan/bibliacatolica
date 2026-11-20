@@ -1,0 +1,92 @@
+{
+  "id": "JHN.7.14",
+  "livro": "JHN",
+  "titulo": "Jesus ensina no Templo",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 7,14-36",
+  "ini": { "c": 7, "v": 14 },
+  "fim": { "c": 7, "v": 36 },
+  "liturgia": { "tema_central": "“A minha doutrina não é minha, mas daquele que me enviou”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A meio da festa, Jesus sobe ao Templo e ensina. Os judeus admiram-se de que conheça as Escrituras sem ter estudado. Ele responde: a sua doutrina não é sua, mas de quem o enviou; quem quiser fazer a vontade de Deus reconhecerá se ela vem de Deus. Quem fala por si busca a própria glória; quem busca a glória de quem o enviou é verdadeiro. Moisés deu-lhes a Lei, e ninguém a cumpre: por que procuram matá-lo? Se circuncidam ao sábado para não violar a Lei, por que se indignam por ter curado um homem inteiro ao sábado? “Não julgueis segundo a aparência, mas segundo a justiça.” Alguns de Jerusalém estranham que fale livremente sem ser preso: terão os chefes reconhecido que é o Cristo? Mas sabem de onde Ele é, e do Cristo ninguém saberá a origem. Jesus clama que não veio por si, mas enviado pelo Verdadeiro, que eles não conhecem; Ele conhece-o porque vem dele. Querem prendê-lo, mas ninguém lhe põe as mãos, porque não chegara a sua hora. Muitos creem. Os chefes enviam guardas. Jesus diz que estará pouco tempo com eles e depois irá para quem o enviou: procurá-lo-ão e não o encontrarão. Eles não compreendem.",
+    "alegorico": "A doutrina do Pai é o Verbo do Pai, e o próprio Cristo é esse Verbo: por isso a doutrina é ao mesmo tempo sua e não sua. A circuncisão era figura do despojamento das concupiscências e apontava para Cristo, que cura o homem inteiro. “Onde eu estou”: Ele não diz “onde estarei”, porque nunca deixou o lugar para onde volta; estava na terra segundo a carne e no céu segundo a majestade.",
+    "moral": "Quem não entende, faça primeiro a vontade de Deus, que é crer, e entenderá. Quem busca a própria glória segue o caminho do anticristo; Cristo deu exemplo de humildade buscando a glória do Pai. Tu, quando fazes o bem, glorias-te; quando fazes o mal, culpas a Deus. É muito difícil não julgar segundo as aparências e as pessoas, mas a advertência é também para nós. Jesus não está sujeito ao destino: a sua hora está na sua vontade.",
+    "anagogico": "“Ainda por um pouco estou convosco”: o tempo da graça é breve. Os que agora o buscam com fé encontrá-lo-ão onde Ele está, junto do Pai; os que só o procurarem quando for tarde não o encontrarão. A hora que não chegara chegará na cruz, e da cruz à glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando já em meio os dias da festa, foi Jesus ao templo, e ensinava. Jesus respondeu-lhes: “A minha doutrina não é minha, mas daquele que me enviou. Se alguém quiser fazer a vontade dele, reconhecerá se a minha doutrina vem de Deus”. Não julgueis segundo a aparência, mas julgai segundo a justiça. Ninguém lhe lançou as mãos, porque não tinha ainda chegado a sua hora. Ainda por um pouco estou convosco, depois vou para aquele que me enviou.",
+    "meditatio_perguntas": [
+      "Quero fazer a vontade de Deus, ou só discutir sobre ela?",
+      "Em que situações julgo os outros pelas aparências?",
+      "Busco a minha glória ou a glória de Deus naquilo que faço?"
+    ],
+    "oratio_guia": "Senhor Jesus, Verbo do Pai, ensina-me a tua doutrina. Dá-me querer fazer a vontade do Pai, para reconhecer que vens de Deus. Livra-me de julgar pelas aparências e de buscar a minha própria glória. Enquanto estás comigo, que eu te procure e te encontre. Amém.",
+    "contemplatio_foco": { "texto": "A minha doutrina não é minha, mas daquele que me enviou.", "ref": "Jo 7,16" }
+  },
+  "ancoras": {
+    "7:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:14–18#6", "sintese": "Todos se admiravam, mas nem todos se convertiam." }
+      ],
+      "nota": { "texto": "“Sem ter estudado” significa sem ter sido discípulo de um rabino reconhecido, o caminho normal para ensinar a Lei.", "origem": "ia" }
+    },
+    "7:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:14–18#8", "sintese": "A doutrina do Pai é o Verbo do Pai, e Cristo é esse Verbo: por isso é ao mesmo tempo sua e do Pai." }
+      ],
+      "nota": null
+    },
+    "7:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:14–18#11", "sintese": "Quem não entende, faça a sua vontade, isto é, creia nele, e saberá se a doutrina vem de Deus." }
+      ],
+      "nota": null
+    },
+    "7:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:14–18#14", "sintese": "Buscou a glória do Pai, não a sua; tu, quando fazes o bem, glorias-te, e quando fazes o mal, culpas a Deus." }
+      ],
+      "nota": null
+    },
+    "7:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:19–24#8", "sintese": "A circuncisão, despojamento da carne, figurava o despojamento das concupiscências e apontava para Cristo." }
+      ],
+      "nota": null
+    },
+    "7:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:19–24#10", "sintese": "Julgar segundo as pessoas é muito difícil de evitar; a advertência aos judeus é também para nós." }
+      ],
+      "nota": null
+    },
+    "7:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:25–30#13", "sintese": "O Senhor não nasceu sujeito ao destino: se a tua hora está na sua vontade, quanto mais a dele." }
+      ],
+      "nota": null
+    },
+    "7:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:31–36#0", "sintese": "Os pobres e humildes, que reconheciam as suas enfermidades, aceitaram logo o remédio." }
+      ],
+      "nota": null
+    },
+    "7:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "7:31–36#13", "sintese": "Diz “onde estou”, não “onde estarei”: veio de tal modo que nunca deixou o céu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
