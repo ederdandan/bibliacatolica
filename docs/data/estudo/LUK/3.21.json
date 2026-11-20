@@ -1,0 +1,85 @@
+{
+  "id": "LUK.3.21",
+  "livro": "LUK",
+  "titulo": "O batismo de Jesus e a sua genealogia",
+  "secao": "A preparação do ministério",
+  "referencia": "Lc 3,21-38",
+  "ini": { "c": 3, "v": 21 },
+  "fim": { "c": 3, "v": 38 },
+  "liturgia": { "tema_central": "“Tu és o meu Filho dilecto”: o Filho de Deus que se faz filho de Adão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lucas narra o batismo de Jesus de modo breve: depois de todo o povo, também Jesus é batizado e, enquanto está em oração, o céu abre-se, o Espírito Santo desce sobre ele em forma corpórea de pomba e a voz do Pai declara: “Tu és o meu Filho dilecto”. Só Lucas sublinha a oração. Em seguida vem a genealogia: Jesus, com cerca de trinta anos, é “filho, como se julgava, de José”. A lista sobe de José, pela linha de Natan, filho de David, até Abraão, Adão e, por fim, Deus. Diferentemente de Mateus, que desce de Abraão por Salomão, Lucas sobe até a origem de toda a humanidade.",
+    "alegorico": "No batismo manifesta-se a Trindade: o Filho nas águas, o Espírito em forma de pomba, o Pai na voz. Cristo desce às águas para sepultar nelas o velho Adão, e o céu abre-se para que o homem se torne concidadão dos anjos. A genealogia, colocada depois do batismo, declara-o Filho de Deus por natureza e anuncia que, pela regeneração, também nós somos feitos filhos de Deus por adoção.",
+    "moral": "Jesus ora no momento em que o céu se abre: a oração é o lugar onde o Pai nos fala. A pomba ensina a simplicidade, a mansidão e a concórdia que o Espírito forma em nós. A genealogia, cheia de nomes desconhecidos e de pecadores, lembra que Deus se serve de toda a história humana e não se envergonha dos nossos antepassados.",
+    "anagogico": "A lista termina em “filho de Deus”: Cristo, novo Adão, reconduz a Deus toda a descendência de Adão. O céu aberto no Jordão é penhor da pátria celeste, para onde o batismo nos encaminha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Recebendo o baptismo todo o povo, baptizado também Jesus, e estando em oração, abriu-se o céu, e desceu sobre ele o Espírito Santo em forma corpórea como uma pomba. E ouviu-se do céu esta voz: “Tu és o meu Filho dílecto; em ti pus as minhas complacências”. Jesus, quando começou o seu ministério, tinha cerca de trinta anos, filho, como se julgava, de José, filho de Heli… filho de Natan, filho de David… filho de Abraão… filho de Noé… filho de Set, filho de Adão, filho de Deus.",
+    "meditatio_perguntas": [
+      "Que lugar ocupa a oração nos momentos decisivos da minha vida?",
+      "Acredito que o Pai me diz, em Cristo, “tu és meu filho”?",
+      "Que histórias, mesmo feridas, da minha família posso entregar a Deus, que as assume?"
+    ],
+    "oratio_guia": "Pai do céu, que no Jordão chamaste a Jesus teu Filho dilecto, renova em mim a graça do batismo. Que o teu Espírito, manso como a pomba, me dê simplicidade e paz, e que, unido a Cristo em oração, eu viva como teu filho e conduza a ti os que me deste. Amém.",
+    "contemplatio_foco": { "texto": "Tu és o meu Filho dílecto; em ti pus as minhas complacências.", "ref": "Lc 3,22" }
+  },
+  "ancoras": {
+    "3:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nazianzo", "obra": "Orat. 39.", "catena": "3:21–22#1", "sintese": "Cristo vem ao batismo talvez para o santificar, mas sem dúvida para sepultar nas águas o velho Adão." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:21–22#5", "sintese": "O céu abre-se como se estivesse fechado: com um só Pastor, o redil de cima e o de baixo unem-se, e o homem torna-se concidadão dos anjos." }
+      ],
+      "nota": { "texto": "Só Lucas menciona que Jesus estava em oração no momento do batismo; a oração de Jesus acompanha os momentos decisivos deste Evangelho (cf. Lc 6,12; 9,18.28; 22,41).", "origem": "ia" }
+    },
+    "3:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:21–22#7", "sintese": "Recebeu o Espírito não para si, mas para nós, como fundador da nossa raça: como Deus enviou-o do alto, como homem recebeu-o." },
+        { "autor": "São Cipriano", "obra": "De unit. Eccles.", "catena": "3:21–22#12", "sintese": "A pomba, simples e sem fel, que vive em comum e voa lado a lado, ensina a concórdia e a unanimidade." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "3:21–22#17", "sintese": "“Em ti pus as minhas complacências”: por ti realizo o que me parece bom." }
+      ],
+      "nota": null
+    },
+    "3:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "3:23–38#4", "sintese": "Os trinta anos (três vezes dez) indicam o mistério do batismo: a fé na Trindade e a observância do Decálogo." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "3:23–38#7", "sintese": "“Como se julgava”: não o era na realidade; descreve-se a linhagem de José porque a Escritura segue a do marido, e nela se encontra também a de Maria." },
+        { "autor": "Santo Agostinho", "obra": "de Cons. Evang. lib. ii. c. 3.", "catena": "3:23–38#14", "sintese": "Lucas apresenta provavelmente a filiação por adoção, convenientemente, pois pela adoção somos feitos filhos de Deus." }
+      ],
+      "nota": { "texto": "As diferenças entre as genealogias de Mateus e Lucas foram explicadas pelos antigos pela lei do levirato e pela adoção; outros autores veem em Lucas a linhagem de Maria.", "origem": "ia" }
+    },
+    "3:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "3:23–38#18", "sintese": "Em Natan exprime-se a dignidade profética: cada antepassado prefigura uma virtude que só Cristo cumpre por inteiro." }
+      ],
+      "nota": null
+    },
+    "3:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 1 in Matth.", "catena": "3:23–38#23", "sintese": "Mateus, escrevendo aos judeus, parou em Abraão e David; Lucas, falando a todos os homens, levou a genealogia até Adão." }
+      ],
+      "nota": null
+    },
+    "3:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "3:23–38#27", "sintese": "Noé, que fundou a Igreja em figura da arca, não podia faltar entre os antepassados do construtor da Igreja." }
+      ],
+      "nota": null
+    },
+    "3:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "3:23–38#33", "sintese": "A genealogia vai do Filho de Deus ao filho de Deus: Adão, feito à imagem, precede em figura aquele que é a Imagem; Lucas põe-na depois do batismo para declará-lo Filho por natureza e pela graça." },
+        { "autor": "Teofilato", "obra": null, "catena": "3:23–38#35", "sintese": "Termina em Deus para ensinar que Cristo elevará a Deus os seus antepassados; e quem duvida do nascimento sem sêmen olhe para o primeiro Adão." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Ev. lib. ii. qu. 6.", "catena": "3:23–38#38", "sintese": "As setenta e sete gerações, ligadas ao batismo, significam a remissão de todos os pecados e a subida a Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

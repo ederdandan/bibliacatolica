@@ -1,0 +1,95 @@
+{
+  "id": "LUK.4.1",
+  "livro": "LUK",
+  "titulo": "As tentações no deserto",
+  "secao": "A preparação do ministério",
+  "referencia": "Lc 4,1-13",
+  "ini": { "c": 4, "v": 1 },
+  "fim": { "c": 4, "v": 13 },
+  "liturgia": { "tema_central": "Cristo vence o tentador com a palavra de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Cheio do Espírito Santo, Jesus é conduzido pelo Espírito ao deserto, onde jejua quarenta dias e é tentado pelo demônio. Ao fim, tem fome. Três tentações: transformar uma pedra em pão; receber o poder e a glória de todos os reinos em troca de adoração; lançar-se do pináculo do Templo, confiando na promessa dos anjos (Sl 90). A cada uma Jesus responde com o Deuteronômio: o homem não vive só de pão; adorarás só a Deus; não tentarás o Senhor teu Deus. Em Lucas a última tentação acontece em Jerusalém, onde culminará o Evangelho. O demônio afasta-se “até outra ocasião”, que será a Paixão.",
+    "alegorico": "Onde Adão caiu pela gula, o novo Adão vence; onde Israel murmurou quarenta anos no deserto, o Filho permanece fiel quarenta dias. Cristo entra na luta como lutador e, ao mesmo tempo, como Deus que distribui as coroas: vence em nossa carne para que nós vençamos nele. O afastamento do diabo “até outra ocasião” aponta para a Cruz, onde o tentará pela dor.",
+    "moral": "Depois do batismo vêm as tentações: a vida cristã é combate. As três tentações resumem todos os pecados: o prazer da carne, a vanglória e a avidez do poder. As armas de Cristo são o jejum, o deserto e a Palavra. O poder não é mau em si; mau é o desejo de usurpá-lo, que faz o homem curvar-se para subir. O próprio diabo cita a Escritura: não basta citá-la, é preciso lê-la na obediência a Deus.",
+    "anagogico": "O homem não vive só de pão: a alma é alimentada pela palavra divina, antecipação do banquete eterno. Os reinos mostrados “num momento” passam depressa; só o Reino de Deus permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus, cheio do Espírito Santo, foi conduzido pelo Espírito ao deserto, onde esteve quarenta dias, e foi tentado pelo demônio. O demônio disse-lhe: “Se és filho de Deus, diz a esta pedra que se converta em pão”. Jesus respondeu: “Está escrito: O homem não vive só de pão”. Mostrou-lhe todos os reinos da terra: “Se tu me adorares, todos eles serão teus”. Jesus respondeu: “Adorarás o Senhor teu Deus, e a ele só servirás”. Pô-lo sobre o pináculo do templo: “Se és filho de Deus, lança-te daqui abaixo”. Jesus respondeu: “Não tentarás o Senhor teu Deus”. Terminada toda a tentação, retirou-se dele o demônio até outra ocasião.",
+    "meditatio_perguntas": [
+      "Qual das três tentações (prazer, glória, poder) me ataca com mais frequência?",
+      "Que palavra da Escritura tenho guardada para responder ao tentador?",
+      "Exijo sinais de Deus em vez de confiar nele?"
+    ],
+    "oratio_guia": "Senhor Jesus, que no deserto venceste o tentador pela palavra do Pai, fortalece-me nas minhas lutas. Livra-me da gula, da vanglória e da ambição; que eu viva de toda a palavra de Deus, adore só a ele e confie sem o pôr à prova. Amém.",
+    "contemplatio_foco": { "texto": "Adorarás o Senhor teu Deus, e a ele só servirás", "ref": "Lc 4,8" }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "4:1–4#0", "sintese": "Cristo é tentado depois do batismo, mostrando que, depois de batizados, nos esperam as tentações." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:1–4#11", "sintese": "Três coisas unidas conduzem à salvação: o sacramento, o deserto e o jejum; ninguém entra na luta da virtude sem antes ser lavado pela graça." }
+      ],
+      "nota": null
+    },
+    "4:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:1–4#18", "sintese": "As três armas do diabo são a gula, a vanglória e a ambição; começa pela gula, com que vencera Adão. “Se és Filho de Deus”: procura descobri-lo para depois tentá-lo." }
+      ],
+      "nota": null
+    },
+    "4:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:1–4#24", "sintese": "O corpo nutre-se de alimento terreno, mas a alma racional fortalece-se com a palavra divina." }
+      ],
+      "nota": null
+    },
+    "4:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:5–8#4", "sintese": "Os reinos são mostrados num instante para significar a fragilidade do poder mortal: a glória do mundo passa, muitas vezes antes de chegar." }
+      ],
+      "nota": null
+    },
+    "4:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "4:5–8#5", "sintese": "Mentiu duas vezes: não tinha o que dar nem é senhor de nada; é um inimigo reduzido a lutar." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:5–8#6", "sintese": "De Deus vem a ordenação do poder; do maligno, a ambição. Quem cobiça mandar curva-se com fingida humildade, e por isso o diabo pede adoração." }
+      ],
+      "nota": null
+    },
+    "4:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:9–13#2", "sintese": "É próprio da soberba que o homem, julgando subir, seja rebaixado: por isso o diabo diz “lança-te daqui abaixo”." }
+      ],
+      "nota": { "texto": "Lucas põe a tentação do Templo em último lugar (Mateus põe-na em segundo): o Evangelho de Lucas caminha para Jerusalém, onde se dará a vitória definitiva.", "origem": "ia" }
+    },
+    "4:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:9–13#6", "sintese": "Também o diabo usa o testemunho das Escrituras, não para ensinar, mas para enganar." }
+      ],
+      "nota": null
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:9–13#10", "sintese": "Deus não socorre os que o tentam, mas os que creem nele; por isso Cristo não mostrava milagres aos que o tentavam." }
+      ],
+      "nota": null
+    },
+    "4:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:9–13#13", "sintese": "“Toda a tentação”: nas três estão as causas de todos os pecados, o deleite da carne, a pompa da vanglória e a avidez do poder." },
+        { "autor": "Teofilato", "obra": null, "catena": "4:9–13#16", "sintese": "Tentou-o pelo prazer no deserto e afastou-se até a crucifixão, quando o tentaria pela dor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

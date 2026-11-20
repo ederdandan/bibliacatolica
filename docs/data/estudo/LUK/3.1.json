@@ -1,0 +1,107 @@
+{
+  "id": "LUK.3.1",
+  "livro": "LUK",
+  "titulo": "A pregação de João Batista",
+  "secao": "A preparação do ministério",
+  "referencia": "Lc 3,1-20",
+  "ini": { "c": 3, "v": 1 },
+  "fim": { "c": 3, "v": 20 },
+  "liturgia": { "tema_central": "“Preparai o caminho do Senhor”: a conversão que dá frutos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lucas data com precisão de historiador o início da missão de João: o décimo quinto ano de Tibério (por volta de 28-29 d.C.), com Pilatos, os tetrarcas e os sumos sacerdotes Anás e Caifás. A palavra de Deus vem a João no deserto, e ele percorre a região do Jordão pregando um batismo de penitência, cumprindo Is 40. Às multidões chama “raça de víboras” e exige frutos de conversão, sem confiança vã na descendência de Abraão. Aos que perguntam “que devemos fazer?”, responde com exigências concretas: partilhar a túnica e o alimento; os publicanos, não cobrar além do fixado; os soldados, não extorquir nem caluniar. Ao povo que pensa que ele seja o Cristo, anuncia um mais forte, que batizará no Espírito Santo e no fogo. Por repreender Herodes, é preso.",
+    "alegorico": "Os nomes do imperador e dos príncipes judeus assinalam que o pregado por João redimiria judeus e gentios, reunidos numa só Igreja, como num só império. A palavra vem a João para que a Igreja comece não do homem, mas da Palavra. O batismo “no Espírito Santo e no fogo” anuncia o batismo cristão, que purifica e inflama, e a pá na eira figura o juízo de Cristo, que separa o trigo da palha.",
+    "moral": "Conversão não é só deixar o pecado: é dar frutos, como quem, depois de tirar a flecha, aplica o remédio. Os montes a arrasar são o orgulho; os vales a encher, o desânimo. João não pede a cada um que abandone o seu estado, mas que o viva com justiça: partilhar até o necessário, ser honesto no ofício, não abusar do poder. A pergunta “que devemos fazer?” é a de todo coração tocado pela palavra.",
+    "anagogico": "“Todo o homem verá a salvação de Deus”: a promessa abarca toda a humanidade e consuma-se no fim. O machado à raiz e o fogo inextinguível lembram que o tempo de dar fruto é agora; o celeiro onde se recolhe o trigo é o Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No ano décimo quinto do império de Tibério César, o Senhor falou a João, filho de Zacarias, no deserto. E ele foi por toda a terra do Jordão, pregando o baptismo de penitência para remissão dos pecados: “Preparai o caminho do Senhor, endireitai as suas veredas; e todo o homem verá a salvação de Deus”. Dizia às multidões: “Fazei frutos dignos de penitência”. Perguntavam-lhe: “Que devemos pois nós fazer?” Respondia: “O que tem duas túnicas, dê uma ao que não tem”. Aos publicanos: “Não exijais nada além do que vos está fixado”; aos soldados: “Não façais violência a ninguém”. E dizia a todos: “Eu baptizo-vos em água, mas virá um mais forte do que eu; ele vos baptizará no Espírito Santo e no fogo”. Herodes, repreendido por ele, mandou metê-lo num cárcere.",
+    "meditatio_perguntas": [
+      "Que “monte” de orgulho ou “vale” de desânimo há em mim a aplainar para o Senhor chegar?",
+      "Qual seria, no meu estado de vida, a resposta concreta de João à pergunta “que devo fazer?”",
+      "Reparto com o próximo só o supérfluo ou também o necessário?"
+    ],
+    "oratio_guia": "Senhor, que enviaste João a preparar os teus caminhos, abaixa o meu orgulho, levanta o meu desânimo e endireita as minhas veredas. Dá-me frutos verdadeiros de conversão, justiça no meu trabalho e generosidade com quem precisa, e batiza-me no fogo do teu Espírito. Amém.",
+    "contemplatio_foco": { "texto": "e todo o homem verá a salvação de Deus", "ref": "Lc 3,6" }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 20 in Ev.", "catena": "3:1–2#0", "sintese": "Datar a pregação pelo imperador e pelos príncipes judeus indica que o pregado por João redimiria judeus e gentios; um só soberano figura as nações reunidas numa só." }
+      ],
+      "nota": { "texto": "O décimo quinto ano de Tibério corresponde aproximadamente a 28-29 d.C. Lucas situa a salvação na história universal, como já fizera com o recenseamento de Augusto (Lc 2,1).", "origem": "ia" }
+    },
+    "3:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "3:1–2#7", "sintese": "A palavra do Senhor vem a João para que a Igreja não comece do homem, mas da Palavra; dizendo só isto, Lucas declara-o profeta." }
+      ],
+      "nota": null
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:3–6#15", "sintese": "Os montes são os altivos e arrogantes, que Cristo abate; as colinas, os que desesperam, estéreis como a colina que não dá fruto." }
+      ],
+      "nota": null
+    },
+    "3:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 11 in Matth.", "catena": "3:7–9#3", "sintese": "Chama-os raça de víboras porque se gloriavam demais dos antepassados e, como a prole da víbora, mataram os seus pais espirituais; João via os segredos dos corações." }
+      ],
+      "nota": null
+    },
+    "3:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:7–9#7", "sintese": "Não basta deixar o pecado: é preciso dar frutos de penitência, como não basta arrancar a flecha sem pôr remédio na ferida; diz “frutos”, indicando abundância." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:7–9#11", "sintese": "De nada lhes vale ter Abraão por pai se não guardam com ele o parentesco da virtude." }
+      ],
+      "nota": null
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "3:10–14#3", "sintese": "A túnica é mais necessária que o manto: é fruto de penitência repartir com o próximo não só o supérfluo, mas também o necessário." }
+      ],
+      "nota": null
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "cont. Faust. lib. xxii c. 74.", "catena": "3:10–14#14", "sintese": "João não manda os soldados abandonar a milícia: usando as armas como ministros da lei, não são homicidas; condenam-se a crueldade, a sede de vingança e de domínio." }
+      ],
+      "nota": null
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "3:15–17#9", "sintese": "Não diz “dará o Espírito”, mas “batizará”, indicando a abundância da graça; o fogo exprime o seu ardor e força, e a destruição dos pecados." }
+      ],
+      "nota": null
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Mor. 15. sup. Jó 20.", "catena": "3:15–17#21", "sintese": "O fogo terreno precisa de lenha para subsistir; o do inferno, uma vez aceso, permanece inextinguível." }
+      ],
+      "nota": null
+    },
+    "3:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:18–20#1", "sintese": "A sua exortação anunciava coisas boas; por isso se chama com propriedade evangelho." }
+      ],
+      "nota": null
+    },
+    "3:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Glosa", "obra": "ord.", "catena": "3:18–20#5", "sintese": "Lucas narra a prisão de João antes de qualquer ato de Jesus, para mostrar que descreveria sobretudo o que o Senhor fez a partir dali." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
