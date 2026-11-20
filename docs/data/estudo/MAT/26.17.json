@@ -1,0 +1,101 @@
+{
+  "id": "MAT.26.17",
+  "livro": "MAT",
+  "titulo": "A Ceia pascal e a instituição da Eucaristia",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 26,17-29",
+  "ini": { "c": 26, "v": 17 },
+  "fim": { "c": 26, "v": 29 },
+  "liturgia": { "tema_central": "“Isto é o meu corpo… isto é o meu sangue da nova aliança”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No primeiro dia dos Ázimos (quando se imolava o cordeiro pascal, a 14 de Nisã), Jesus manda preparar a Páscoa em casa de “um certo homem”. À tarde, à mesa com os Doze, anuncia: “Um de vós me há de entregar”. Todos se entristecem: “Porventura sou eu, Senhor?” Judas pergunta “sou eu, Mestre?” e ouve: “Tu o disseste”. Durante a ceia, Jesus toma o pão, abençoa, parte-o e dá-o: “Tomai e comei: isto é o meu corpo”. Toma o cálice, dá graças e diz: “Bebei dele todos, porque isto é o meu sangue da nova aliança, que será derramado por muitos para remissão dos pecados”. Não beberá mais do fruto da videira até bebê-lo novo no Reino do Pai.",
+    "alegorico": "Terminada a Páscoa figurativa do cordeiro, Cristo institui a verdadeira Páscoa: como Melquisedec ofereceu pão e vinho, Ele torna presente a verdade do seu Corpo e do seu Sangue. O sangue “da aliança” evoca Ex 24,8, quando Moisés aspergiu o povo; “nova aliança” cumpre Jr 31,31. O pão de muitos grãos e o vinho de muitas uvas significam a unidade da Igreja, Corpo de Cristo.",
+    "moral": "Jesus dá a Judas ocasião de penitência até o fim, sem o expor publicamente: paciência e delicadeza diante do pecador. Pedro e Judas receberam o mesmo pão, um para a vida, outro para a morte: não basta comungar no sacramento, é preciso comungar no Espírito, permanecendo membro vivo do Corpo de Cristo. Dar graças antes da Paixão ensina-nos a dar graças também nas provações.",
+    "anagogico": "“Até o dia em que o beber novo convosco no Reino de meu Pai”: a Eucaristia é penhor e antegosto do banquete eterno. O Senhor que se dá como alimento permanece inteiro e vivo: comido, não se consome."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao cair da tarde, Jesus pôs-se à mesa com os doze discípulos. Enquanto comiam, disse: “Em verdade vos digo que um de vós me há de entregar”. Profundamente tristes, começaram a perguntar: “Porventura sou eu, Senhor?” Durante a ceia, Jesus tomou o pão, benzeu-o, partiu-o e deu-o aos discípulos, dizendo: “Tomai e comei: isto é o meu corpo”. E, tomando o cálice, deu graças e deu-lho, dizendo: “Bebei dele todos, porque isto é o meu sangue da nova aliança, que será derramado por muitos para remissão dos pecados. Digo-vos que desde agora não beberei mais deste fruto da videira, até o dia em que o beber novo convosco no Reino de meu Pai”.",
+    "meditatio_perguntas": [
+      "Com que fé e preparação me aproximo da Eucaristia?",
+      "Pergunto-me com humildade, como os discípulos: “Porventura sou eu, Senhor?”",
+      "A comunhão me une de fato aos irmãos, no Corpo de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que na noite em que foste entregue nos deste o teu Corpo e o teu Sangue, aumenta a minha fé na tua presença real. Que eu te receba com o coração puro, para a vida e não para o juízo, e viva unido aos irmãos, até beber contigo o vinho novo no Reino. Amém.",
+    "contemplatio_foco": { "texto": "Tomai e comei: isto é o meu corpo.", "ref": "Mt 26,26" }
+  },
+  "ancoras": {
+    "26:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:17–19#1", "sintese": "O primeiro dia dos Ázimos é o décimo quarto do primeiro mês, quando se imola o cordeiro e se tira o fermento." }
+      ],
+      "nota": null
+    },
+    "26:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:17–19#5", "sintese": "Daqui se vê que não tinha casa nem pousada, e tampouco os discípulos." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:17–19#11", "sintese": "“O meu tempo está próximo”: fortalece os discípulos e mostra que empreende a paixão de boa vontade." }
+      ],
+      "nota": null
+    },
+    "26:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:20–25#0", "sintese": "Prediz quem será o traidor, dando-lhe ocasião de penitência ao ver que eram conhecidos os seus pensamentos." },
+        { "autor": "São Leão Magno", "obra": "Serm. 58, 3", "catena": "26:20–25#6", "sintese": "Não o confunde com repreensão aberta, para que a penitência encontrasse caminho mais fácil." }
+      ],
+      "nota": null
+    },
+    "26:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:20–25#17", "sintese": "Não quer dizer que o homem exista antes de nascer, mas que é melhor não existir do que existir mal." }
+      ],
+      "nota": null
+    },
+    "26:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:20–25#20", "sintese": "Os outros disseram “Senhor”; o traidor chama-o “Mestre”, como se fosse desculpa entregar só um mestre." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:20–25#22", "sintese": "Podia acusá-lo do dinheiro ajustado; mas, misericordiosíssimo, nada disse, dando-nos modelo de paciência." }
+      ],
+      "nota": null
+    },
+    "26:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:26#0", "sintese": "Terminada a Páscoa figurativa, passa ao verdadeiro sacramento: como Melquisedec ofereceu pão e vinho, torna presente a verdade do seu Corpo e Sangue." },
+        { "autor": "Santo Agostinho", "obra": "In Ioann. Tract. 26, 17; cf. Serm. 227, 1", "catena": "26:26#4", "sintese": "O pão de muitos grãos e o vinho de muitas uvas: consagrou na sua mesa o mistério da nossa paz e unidade." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "26:26#19", "sintese": "Este alimento restaura e não se consome: é dividido no sacramento, mas permanece inteiro." },
+        { "autor": "Santo Agostinho", "obra": "In Ioann. Tract. 59", "catena": "26:26#15", "sintese": "Pedro e Judas receberam o mesmo pão, mas Pedro para a vida, Judas para a morte." },
+        { "autor": "Santo Agostinho", "obra": "In Ioann. Tract. 27, 11", "catena": "26:26#20", "sintese": "Não comamos a carne de Cristo só no sacramento, mas até a participação do Espírito, como membros vivos do seu corpo." }
+      ],
+      "nota": null
+    },
+    "26:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:27–29#1", "sintese": "Deu graças para nos ensinar a celebrar este mistério e mostrar que ia à paixão de boa vontade." },
+        { "autor": "São Jerônimo", "obra": "Ep. 120, a Hedíbia", "catena": "26:27–29#2", "sintese": "O Senhor Jesus era ao mesmo tempo conviva e banquete, o que come e o que é comido." }
+      ],
+      "nota": null
+    },
+    "26:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:27–29#3", "sintese": "Sangue da nova aliança: da nova promessa e da nova lei, prometido desde antigamente." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:27–29#5", "sintese": "Prenuncia a paixão e o seu fim: derramado para a remissão dos pecados." }
+      ],
+      "nota": { "texto": "A Igreja crê que, pelas palavras de Cristo repetidas pelo sacerdote, o pão e o vinho se tornam verdadeira, real e substancialmente o Corpo e o Sangue do Senhor (transubstanciação), e que a Eucaristia torna presente o único sacrifício da Cruz.", "origem": "ia" }
+    },
+    "26:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:27–29#14", "sintese": "Por Reino entende a ressurreição, quando havia de comer e beber com os apóstolos, para provar que não era aparência." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
