@@ -1,0 +1,81 @@
+{
+  "id": "MAT.15.21",
+  "livro": "MAT",
+  "titulo": "A fé da mulher cananeia",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 15,21-28",
+  "ini": { "c": 15, "v": 21 },
+  "fim": { "c": 15, "v": 28 },
+  "liturgia": { "tema_central": "“Mulher, grande é a tua fé”: as migalhas que caem da mesa", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus retira-se para a região pagã de Tiro e Sidônia (atual Líbano). Uma mulher cananeia (descendente dos antigos inimigos de Israel) clama: “Tem piedade de mim, Senhor, Filho de Davi”, pela filha atormentada por um demônio. Jesus primeiro se cala; os discípulos pedem que a despeça; Ele diz que foi enviado só às ovelhas perdidas de Israel. Ela se prostra: “Senhor, ajuda-me”. Jesus usa um provérbio: não é bom tirar o pão dos filhos e lançá-lo aos cachorrinhos (o diminutivo grego suaviza: cães domésticos). Ela responde com humildade e agudeza: os cachorrinhos comem as migalhas que caem da mesa dos donos. “Mulher, grande é a tua fé!” A filha fica curada.",
+    "alegorico": "A cananeia é figura da Igreja dos gentios, que, rejeitada no início, alcança pela fé humilde a mesa dos filhos. Admirável mudança: outrora Israel era o filho e os gentios os cães; agora a fé inverte os nomes. A filha atormentada é a alma pagã escravizada pela idolatria, curada à distância, como os gentios aos quais Jesus não foi pessoalmente, mas pela palavra dos apóstolos.",
+    "moral": "Três virtudes brilham nesta mulher: fé, pois crê que a filha pode ser curada; paciência, pois tantas vezes desprezada persevera; humildade, pois aceita ser comparada aos cachorrinhos. O silêncio de Deus não é recusa, mas pedagogia: Jesus tardou para que tão grande virtude não ficasse oculta. A oração perseverante e humilde vence.",
+    "anagogico": "As migalhas que a cananeia pede anunciam o banquete do Reino aberto a todos os povos. Quem se humilha como ela será sentado à mesa dos filhos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Uma mulher cananeia gritava: “Senhor, Filho de Davi, tem piedade de mim! Minha filha está cruelmente atormentada por um demônio”. Jesus não lhe respondeu palavra. Os discípulos pediram: “Despede-a, porque vem gritando atrás de nós”. Ele respondeu: “Não fui enviado senão às ovelhas perdidas da casa de Israel”. Ela, porém, veio prostrar-se diante dele: “Senhor, socorre-me!” Jesus disse: “Não é bom tirar o pão dos filhos e lançá-lo aos cachorrinhos”. Ela respondeu: “É verdade, Senhor; mas os cachorrinhos também comem as migalhas que caem da mesa dos seus donos”. Jesus disse: “Mulher, grande é a tua fé! Seja feito como desejas”. E a filha ficou curada.",
+    "meditatio_perguntas": [
+      "Como reajo quando Deus parece calar diante da minha oração?",
+      "Tenho a humildade de me contentar com as “migalhas” da graça?",
+      "Intercedo com perseverança pelos que amo?"
+    ],
+    "oratio_guia": "Senhor, Filho de Davi, tem piedade de mim! Dá-me a fé, a paciência e a humildade da mulher cananeia. Mesmo quando te calas, que eu persevere. Basta-me uma migalha da tua mesa para ser salvo. Amém.",
+    "contemplatio_foco": { "texto": "Ó mulher, grande é a tua fé!", "ref": "Mt 15,28" }
+  },
+  "ancoras": {
+    "15:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 52", "catena": "15:21–28#2", "sintese": "Tendo livrado os judeus da observância dos alimentos, abre também a porta aos gentios." }
+      ],
+      "nota": null
+    },
+    "15:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:21–28#4", "sintese": "Diz que era cananeia para mostrar o poder de Cristo: a nação outrora expulsa mostra-se agora mais sábia que os judeus, saindo dos seus confins para ir a Ele." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. sobre diversas passagens, 47", "catena": "15:21–28#6", "sintese": "Não buscou curandeiros nem amuletos inúteis, mas, deixando os encantamentos, veio ao Senhor." }
+      ],
+      "nota": null
+    },
+    "15:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:21–28#11", "sintese": "Os discípulos compadeciam-se, mas não ousavam pedir a graça; diziam só “despede-a”." }
+      ],
+      "nota": null
+    },
+    "15:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:21–28#12", "sintese": "Não diz que não foi enviado aos gentios, mas que foi enviado primeiro a Israel, para que a passagem aos gentios fosse justa." }
+      ],
+      "nota": null
+    },
+    "15:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:21–28#16", "sintese": "Com que perseverança o chama primeiro Filho de Davi, depois Senhor, e por fim o adora como Deus!" }
+      ],
+      "nota": null
+    },
+    "15:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:21–28#21", "sintese": "Admiráveis a fé, a paciência e a humildade desta mulher." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:21–28#27", "sintese": "Admirável mudança: outrora Israel era o filho, e nós os cães; a mudança da fé trouxe a mudança dos nomes." }
+      ],
+      "nota": null
+    },
+    "15:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:21–28#22", "sintese": "Por isso tardou: sabia o que ela diria e não queria que tão grande virtude ficasse oculta." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 18", "catena": "15:21–28#30", "sintese": "Não ir à casa dela significa que os gentios, aos quais não foi pessoalmente, seriam salvos pela sua palavra." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

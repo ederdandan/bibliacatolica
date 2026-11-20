@@ -1,0 +1,81 @@
+{
+  "id": "MAT.15.1",
+  "livro": "MAT",
+  "titulo": "A tradição dos antigos e a verdadeira pureza",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 15,1-20",
+  "ini": { "c": 15, "v": 1 },
+  "fim": { "c": 15, "v": 20 },
+  "liturgia": { "tema_central": "O que sai do coração é o que torna o homem impuro", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Fariseus e escribas vindos de Jerusalém acusam os discípulos de não lavar as mãos antes de comer, rito da “tradição dos antigos” (a lei oral), não da Lei escrita. Jesus contra-ataca: eles anulam o mandamento de honrar pai e mãe com a prática do “corbã”, a declaração de que um bem estava consagrado a Deus, que permitia negar ajuda aos pais. Cita Is 29,13: honram a Deus com os lábios, mas o coração está longe. Depois ensina à multidão: o que entra pela boca não torna o homem impuro; o que sai do coração, sim. Aos discípulos, chama os fariseus “cegos guias de cegos” e explica: do coração saem os maus pensamentos, homicídios, adultérios, roubos, falsos testemunhos, blasfêmias.",
+    "alegorico": "Cristo, legislador da nova aliança, leva a Lei à sua intenção profunda: a pureza que Deus quer é a do coração. As plantas não plantadas pelo Pai são as tradições humanas que sufocam a Palavra de Deus. Ao abolir a distinção dos alimentos, abre-se a porta aos gentios, como se verá no episódio seguinte da cananeia.",
+    "moral": "As mãos que se devem lavar são as da alma, as ações. As tradições humanas são boas quando servem a Palavra de Deus, e más quando a anulam. O culto exterior sem conversão é hipocrisia. O coração é a fonte de onde nascem o bem e o mal: é ali que se deve vigiar.",
+    "anagogico": "Só os puros de coração verão a Deus (5,8). A purificação interior começa agora e se completa na glória, onde nada de impuro entrará (Ap 21,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fariseus e escribas perguntaram a Jesus: “Por que os teus discípulos transgridem a tradição dos antigos? Não lavam as mãos quando comem”. Jesus respondeu: “E vós, por que transgredis o mandamento de Deus por causa da vossa tradição? Deus disse: Honra teu pai e tua mãe; mas vós anulastes a palavra de Deus pela vossa tradição. Hipócritas! Bem profetizou Isaías: Este povo honra-me com os lábios, mas o seu coração está longe de mim”. E à multidão: “Não é o que entra pela boca que torna o homem impuro, mas o que sai da boca, porque vem do coração”.",
+    "meditatio_perguntas": [
+      "Honro a Deus só com os lábios, ou também com o coração?",
+      "Uso alguma “tradição” ou desculpa religiosa para fugir de um dever de caridade?",
+      "O que está saindo do meu coração nas palavras e ações?"
+    ],
+    "oratio_guia": "Senhor Jesus, que olhas o coração, purifica-me por dentro. Que eu não te honre só com os lábios, mas com a vida. Livra-me da hipocrisia e faz do meu coração uma fonte de bem. Amém.",
+    "contemplatio_foco": { "texto": "Este povo honra-me com os lábios, mas o seu coração está longe de mim.", "ref": "Mt 15,8" }
+  },
+  "ancoras": {
+    "15:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:1–6#4", "sintese": "Admirável insensatez: acusam o Filho de Deus de não guardar as tradições e preceitos dos homens." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:1–6#5", "sintese": "Não dizem “a Lei de Moisés”, mas “a tradição dos antigos”: são apanhados na própria pergunta." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:1–6#8", "sintese": "As mãos que se devem lavar não são as do corpo, mas as ações da mente." }
+      ],
+      "nota": { "texto": "As abluções antes das refeições não estavam na Lei de Moisés, mas na tradição oral dos fariseus (cf. Mc 7,3-4).", "origem": "ia" }
+    },
+    "15:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:1–6#11", "sintese": "Não escusa os discípulos, mas mostra que quem peca nas coisas grandes não deve escandalizar-se com as pequenas." }
+      ],
+      "nota": null
+    },
+    "15:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:1–6#14", "sintese": "Para derrubar esta providentíssima lei de Deus, introduziam a impiedade sob a máscara da piedade." }
+      ],
+      "nota": { "texto": "O “corbã” (oferta) era a declaração de que um bem estava consagrado ao Templo; abusava-se dela para negar sustento aos pais (Mc 7,11).", "origem": "ia" }
+    },
+    "15:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faustum 6, 6", "catena": "15:7–11#9", "sintese": "Esta palavra não é contrária ao Antigo Testamento: “para os puros tudo é puro”." }
+      ],
+      "nota": null
+    },
+    "15:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "15:12–14#4", "sintese": "A planta não plantada pelo Pai é a tradição humana sob cuja capa se transgredia a Lei; deve ser arrancada." }
+      ],
+      "nota": null
+    },
+    "15:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Trin. 15, 10", "catena": "15:15–20#6", "sintese": "O Senhor inclui aqui as duas bocas do homem, a do corpo e a do coração." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:15–20#7", "sintese": "O que é do coração mancha o homem ao permanecer nele e, mais ainda, ao sair." }
+      ],
+      "nota": null
+    },
+    "15:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "15:15–20#8", "sintese": "O princípio da alma não está no cérebro, segundo Platão, mas, segundo Cristo, no coração." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
