@@ -1,0 +1,57 @@
+{
+  "id": "EPH.2.11",
+  "livro": "EPH",
+  "titulo": "Cristo, nossa paz: de dois povos fez um só",
+  "secao": "O mistério de Cristo e da Igreja",
+  "referencia": "Ef 2,11-22",
+  "ini": {
+    "c": 2,
+    "v": 11
+  },
+  "fim": {
+    "c": 2,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Ele é a nossa paz: de dois povos fez um só",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo lembra aos cristãos vindos do paganismo que, outrora, estavam sem Cristo, excluídos da cidadania de Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo. Agora, em Cristo, os que estavam longe foram aproximados pelo seu sangue. Pois Ele é a nossa paz: de judeus e pagãos fez um só povo, derrubando o muro de inimizade que os separava, abolindo na sua carne a lei dos preceitos, para criar em si mesmo um só homem novo, e reconciliar ambos com Deus num só corpo, por meio da cruz, matando nela a inimizade. Veio anunciar a paz aos que estavam longe e aos que estavam perto; por Ele, uns e outros temos acesso ao Pai num só Espírito. Já não são estrangeiros, mas concidadãos dos santos e membros da família de Deus, edificados sobre o fundamento dos apóstolos e profetas, sendo Cristo a pedra angular, e crescem como templo santo, morada de Deus no Espírito.",
+    "alegorico": "O “muro de separação” lembra a barreira do Templo de Jerusalém que impedia os gentios de entrar no átrio interior. Cristo derruba-o na cruz e constrói um novo Templo, não de pedras, mas de pessoas: a Igreja, edificada sobre os apóstolos, com Ele por pedra angular, habitada pelo Espírito. O “homem novo” é a humanidade reconciliada, o Cristo total.",
+    "moral": "Na Igreja ninguém é estrangeiro. As inimizades de povo, de classe ou de cultura devem morrer na cruz de Cristo. Quem foi aproximado pelo sangue de Cristo não pode erguer novos muros contra os irmãos. Cada fiel é pedra viva: deve deixar-se encaixar no edifício, em comunhão com os outros e sobre o fundamento dos apóstolos.",
+    "anagogico": "O templo “se levanta”, cresce: a construção da Igreja só terminará no fim, quando ela for a Jerusalém celeste, morada definitiva de Deus com os homens, onde já não haverá longe nem perto, mas todos reunidos diante do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós, que outrora estáveis longe, fostes aproximados pelo sangue de Cristo. Porque ele é a nossa paz, ele que de dois povos fez um só, destruindo a parede de inimizade que os separava. Já não sois hóspedes, nem adventícios, mas sois concidadãos dos santos e membros da família de Deus.",
+    "meditatio_perguntas": [
+      "Que “muros de inimizade” ainda mantenho em meu coração contra alguém?",
+      "Sinto-me realmente da família de Deus, ou ainda como estranho?",
+      "Como sou pedra viva no edifício da Igreja, em comunhão com os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, nossa paz, que derrubaste na cruz o muro da inimizade, derruba também os muros do meu coração. Faz-me viver como membro da família de Deus e pedra viva do teu templo, onde habita o teu Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque ele é a nossa paz, ele que de dois povos fez um só.",
+      "ref": "Ef 2,14"
+    }
+  },
+  "ancoras": {
+    "2:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No Templo de Herodes, uma balaustrada separava o átrio dos gentios; inscrições (duas foram achadas) ameaçavam de morte o estrangeiro que a ultrapassasse.",
+        "origem": "ia"
+      }
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “profetas” aqui são os profetas cristãos do Novo Testamento, ligados aos apóstolos (cf. 3,5; 4,11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

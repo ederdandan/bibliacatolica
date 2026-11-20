@@ -1,0 +1,57 @@
+{
+  "id": "EPH.3.14",
+  "livro": "EPH",
+  "titulo": "O amor de Cristo, que excede toda a ciência",
+  "secao": "O mistério de Cristo e da Igreja",
+  "referencia": "Ef 3,14-21",
+  "ini": {
+    "c": 3,
+    "v": 14
+  },
+  "fim": {
+    "c": 3,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Que Cristo habite pela fé nos vossos corações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dobra os joelhos diante do Pai, de quem toma o nome toda paternidade nos céus e na terra. Pede que, segundo a riqueza da sua glória, Ele fortaleça neles o homem interior pelo seu Espírito, e que Cristo habite pela fé nos seus corações, para que, enraizados e fundados na caridade, possam compreender com todos os santos qual é a largura, o comprimento, a altura e a profundidade, e conhecer o amor de Cristo, que excede todo conhecimento, até ficarem cheios de toda a plenitude de Deus. E conclui com uma doxologia: Àquele que, pelo poder que atua em nós, pode fazer muito mais do que pedimos ou pensamos, a Ele a glória na Igreja e em Cristo Jesus, por todas as gerações, pelos séculos dos séculos. Amém.",
+    "alegorico": "A oração é trinitária: ao Pai, pelo Espírito, para que Cristo habite nos corações. As quatro dimensões (largura, comprimento, altura, profundidade) foram lidas pelos Padres como figura da cruz, cujos braços abraçam o mundo, se elevam ao céu e descem aos abismos. O amor de Cristo crucificado mede todas as coisas.",
+    "moral": "A vida cristã começa no homem interior. Sem raízes na caridade, a fé não compreende. Conhecer o amor de Cristo não é questão de ciência, mas de habitação: Ele mora no coração pela fé. E Deus pode fazer muito mais do que pedimos: a oração deve ser confiante e generosa, não mesquinha.",
+    "anagogico": "“Cheios de toda a plenitude de Deus”: a meta é a divinização, a participação plena na vida divina, que começa agora e se consuma na glória. A doxologia “por todos os séculos” abre a oração da Igreja à eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dobro os joelhos diante do Pai, para que Cristo habite pela fé nos vossos corações, de sorte que, arraigados e fundados na caridade, possais compreender, com todos os santos, qual a largura, o comprimento, a altura e a profundidade, e conhecer também aquele amor de Cristo, que excede toda a ciência.",
+    "meditatio_perguntas": [
+      "Cuido do meu “homem interior”, ou só do exterior?",
+      "Quais as raízes da minha vida: estão fundadas na caridade?",
+      "Peço a Deus pouco demais, esquecendo que pode fazer muito mais do que peço?"
+    ],
+    "oratio_guia": "Pai, de quem procede toda paternidade, fortalece em mim o homem interior pelo teu Espírito. Que Cristo habite pela fé no meu coração e eu, enraizado no amor, conheça o amor de Cristo que excede todo conhecimento. A ti a glória na Igreja, por todos os séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que Cristo habite pela fé nos vossos corações.",
+      "ref": "Ef 3,17"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras no grego: patḗr (Pai) e patriá (família, paternidade). Toda paternidade humana ou angélica é reflexo da paternidade de Deus.",
+        "origem": "ia"
+      }
+    },
+    "3:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Santo Agostinho e outros Padres viram nas quatro dimensões a forma da cruz. A tradição da devoção ao Sagrado Coração usou muito este texto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

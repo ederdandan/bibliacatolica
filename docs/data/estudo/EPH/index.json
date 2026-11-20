@@ -1,0 +1,177 @@
+{
+ "livro": "EPH",
+ "secoes": [
+  "O mistério de Cristo e da Igreja",
+  "A vida nova em Cristo"
+ ],
+ "pericopes": [
+  {
+   "id": "EPH.1.1",
+   "titulo": "Bendito seja Deus: reunir tudo em Cristo",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  },
+  {
+   "id": "EPH.1.15",
+   "titulo": "Cristo, cabeça da Igreja, que é o seu corpo",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 1,15-23",
+   "ini": {
+    "c": 1,
+    "v": 15
+   },
+   "fim": {
+    "c": 1,
+    "v": 23
+   }
+  },
+  {
+   "id": "EPH.2.1",
+   "titulo": "Salvos pela graça, mediante a fé",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 2,1-10",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 10
+   }
+  },
+  {
+   "id": "EPH.2.11",
+   "titulo": "Cristo, nossa paz: de dois povos fez um só",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 2,11-22",
+   "ini": {
+    "c": 2,
+    "v": 11
+   },
+   "fim": {
+    "c": 2,
+    "v": 22
+   }
+  },
+  {
+   "id": "EPH.3.1",
+   "titulo": "Paulo, ministro do mistério revelado aos gentios",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 3,1-13",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 13
+   }
+  },
+  {
+   "id": "EPH.3.14",
+   "titulo": "O amor de Cristo, que excede toda a ciência",
+   "secao": "O mistério de Cristo e da Igreja",
+   "referencia": "Ef 3,14-21",
+   "ini": {
+    "c": 3,
+    "v": 14
+   },
+   "fim": {
+    "c": 3,
+    "v": 21
+   }
+  },
+  {
+   "id": "EPH.4.1",
+   "titulo": "Um só corpo e um só Espírito",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 4,1-16",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 16
+   }
+  },
+  {
+   "id": "EPH.4.17",
+   "titulo": "Despojar-se do homem velho, revestir-se do novo",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 4,17-32",
+   "ini": {
+    "c": 4,
+    "v": 17
+   },
+   "fim": {
+    "c": 4,
+    "v": 32
+   }
+  },
+  {
+   "id": "EPH.5.1",
+   "titulo": "Andai como filhos da luz",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 5,1-20",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 20
+   }
+  },
+  {
+   "id": "EPH.5.21",
+   "titulo": "Grande mistério: Cristo e a Igreja",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 5,21-33",
+   "ini": {
+    "c": 5,
+    "v": 21
+   },
+   "fim": {
+    "c": 5,
+    "v": 33
+   }
+  },
+  {
+   "id": "EPH.6.1",
+   "titulo": "Filhos e pais, servos e senhores",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 6,1-9",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 9
+   }
+  },
+  {
+   "id": "EPH.6.10",
+   "titulo": "A armadura de Deus",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Ef 6,10-24",
+   "ini": {
+    "c": 6,
+    "v": 10
+   },
+   "fim": {
+    "c": 6,
+    "v": 24
+   }
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "EPH.1.1",
+  "livro": "EPH",
+  "titulo": "Bendito seja Deus: reunir tudo em Cristo",
+  "secao": "O mistério de Cristo e da Igreja",
+  "referencia": "Ef 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Escolhidos em Cristo antes da criação do mundo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da saudação, Paulo eleva uma grande bênção a Deus Pai, que nos abençoou com toda bênção espiritual em Cristo. Nele nos escolheu antes da criação do mundo para sermos santos e imaculados diante dele; no seu amor, predestinou-nos a ser seus filhos adotivos por Jesus Cristo, para louvor da sua graça concedida no Amado. Nele temos a redenção pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça. Deus deu-nos a conhecer o mistério da sua vontade: reunir em Cristo, na plenitude dos tempos, todas as coisas, as do céu e as da terra. Nele os que primeiro esperaram foram escolhidos para louvor da sua glória; e nele também os destinatários, ouvindo a palavra da verdade e crendo, foram marcados com o selo do Espírito Santo prometido, penhor da nossa herança até a plena redenção.",
+    "alegorico": "O hino é trinitário: o Pai escolhe e predestina, o Filho redime pelo seu sangue, o Espírito sela e garante a herança. Cristo é o centro do universo, Aquele em quem tudo se “recapitula” (como diz a Vulgata: instaurare omnia in Christo). A Igreja aparece já aqui como o povo dos filhos adotivos, nascido do desígnio eterno de Deus, e o selo do Espírito evoca o Batismo e a Confirmação.",
+    "moral": "Antes de qualquer obra nossa está a escolha amorosa de Deus: somos amados desde antes da criação do mundo. A primeira resposta é o louvor, não a ansiedade. A vocação é à santidade (“santos e imaculados”), não a uma vida morna. Quem se sabe filho adotivo, resgatado pelo sangue e marcado pelo Espírito, vive com dignidade e gratidão, e não se deixa definir pelos seus pecados, já perdoados na riqueza da graça.",
+    "anagogico": "O Espírito é “penhor da nossa herança”: um adiantamento do que virá. O desígnio de Deus caminha para a plenitude dos tempos, quando tudo, no céu e na terra, estará reunido sob Cristo como única cabeça; então o louvor da sua glória será perfeito."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendito seja Deus e Pai de Nosso Senhor Jesus Cristo, que nos abençoou com toda a bênção espiritual, em Cristo, escolhendo-nos nele, antes da criação do mundo, para sermos santos e imaculados. Nele temos a redenção pelo seu sangue, a remissão dos pecados. Reunir em Cristo todas as coisas. Fostes marcados com o selo do Espírito Santo.",
+    "meditatio_perguntas": [
+      "Que muda em mim saber que fui escolhido e amado antes da criação do mundo?",
+      "Minha oração começa pelo louvor, ou só pelos pedidos?",
+      "Que áreas da minha vida ainda não estão “reunidas em Cristo”?"
+    ],
+    "oratio_guia": "Bendito sejas, Pai, que me escolheste em Cristo antes da criação do mundo e me fizeste teu filho. Obrigado pela redenção no sangue do teu Filho e pelo selo do teu Espírito. Reúne em Cristo toda a minha vida, para louvor da tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Escolhendo-nos nele, antes da criação do mundo, para sermos santos e imaculados, a seus olhos.",
+      "ref": "Ef 1,4"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As palavras “em Éfeso” faltam nos manuscritos mais antigos; por isso muitos pensam numa carta circular às igrejas da Ásia. A Vulgata e a tradição a atribuem aos efésios.",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Reunir” traduz anakephalaiōsasthai, “recapitular, pôr sob uma só cabeça”. Santo Irineu fez da “recapitulação” em Cristo um eixo da sua teologia.",
+        "origem": "ia"
+      }
+    },
+    "1:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “selo” (sphragís) era a marca de propriedade e autenticidade. A tradição viu aqui o caráter indelével impresso pelo Batismo e pela Confirmação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

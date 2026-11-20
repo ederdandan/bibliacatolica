@@ -1,0 +1,57 @@
+{
+  "id": "EPH.5.1",
+  "livro": "EPH",
+  "titulo": "Andai como filhos da luz",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 5,1-20",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Outrora éreis trevas, mas agora sois luz no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo convida a ser imitadores de Deus, como filhos amados, e a andar no amor, como Cristo, que nos amou e se entregou por nós a Deus como oferenda e sacrifício de suave odor. Entre os santos não se nomeie sequer a fornicação, a impureza ou a avareza, nem conversas torpes ou chocarrices, mas antes ações de graças; nenhum impuro ou avarento, que é idólatra, terá herança no reino de Cristo e de Deus. Ninguém os engane com palavras vãs. Outrora eram trevas, agora são luz no Senhor: andem como filhos da luz, cujo fruto é bondade, justiça e verdade, discernindo o que agrada ao Senhor e denunciando as obras estéreis das trevas, pois tudo o que é manifestado se torna luz. “Desperta, tu que dormes, levanta-te dentre os mortos, e Cristo te iluminará.” Andem com prudência, aproveitando o tempo, pois os dias são maus; não se embriaguem com vinho, mas encham-se do Espírito, cantando salmos, hinos e cânticos espirituais e dando sempre graças ao Pai em nome de Jesus.",
+    "alegorico": "O sacrifício de “suave odor” evoca os holocaustos do Antigo Testamento, cumpridos na entrega de Cristo na cruz. A passagem das trevas à luz é o Batismo, chamado pelos antigos “iluminação”; o “Desperta, tu que dormes” parece ser um hino batismal da Igreja primitiva. A assembleia que canta salmos e hinos cheia do Espírito é a Igreja em liturgia.",
+    "moral": "A medida do amor é Cristo que se entrega. A pureza e o desprendimento são exigências da santidade, e a avareza é chamada idolatria. A palavra do cristão deve ser ação de graças, não grosseria. Ser luz implica discernir o que agrada a Deus e não pactuar com as obras das trevas. “Aproveitar o tempo” é resgatar cada momento para o bem; a verdadeira embriaguez é a do Espírito, que se exprime no canto e na gratidão.",
+    "anagogico": "“Levanta-te dentre os mortos, e Cristo te alumiará”: o despertar do pecado antecipa a ressurreição final. A herança “no reino de Cristo e de Deus” é a meta; o louvor incessante da Igreja na terra prepara o cântico eterno do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Sede imitadores de Deus, como filhos muito amados. Andai no amor, a exemplo de Cristo, que nos amou e se entregou a si mesmo por nós. Outrora éreis trevas, mas agora sois luz no Senhor. Andai como filhos da luz. Desperta, tu que dormes; levanta-te dentre os mortos, e Cristo te alumiará. Enchei-vos do Espírito Santo.",
+    "meditatio_perguntas": [
+      "Em que ainda ando nas trevas, embora seja chamado à luz?",
+      "Como “aproveito o tempo” que Deus me dá?",
+      "Minha boca é mais cheia de ação de graças ou de queixas e palavras vãs?"
+    ],
+    "oratio_guia": "Cristo, luz do mundo, desperta-me do sono do pecado e ilumina-me. Faz-me andar no amor como Tu, que te entregaste por mim. Enche-me do teu Espírito para que eu viva como filho da luz e dê sempre graças ao Pai em teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Outrora éreis trevas, mas agora sois luz no Senhor. Andai como filhos da luz.",
+      "ref": "Ef 5,8"
+    }
+  },
+  "ancoras": {
+    "5:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A citação não corresponde exatamente a nenhum texto do AT (Matos Soares remete a Is 26,19); muitos estudiosos veem nela um fragmento de hino batismal cristão.",
+        "origem": "ia"
+      }
+    },
+    "5:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmos, hinos e cânticos espirituais: testemunho precioso do canto litúrgico das primeiras comunidades.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

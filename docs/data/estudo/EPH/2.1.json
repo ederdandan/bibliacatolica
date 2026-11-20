@@ -1,0 +1,57 @@
+{
+  "id": "EPH.2.1",
+  "livro": "EPH",
+  "titulo": "Salvos pela graça, mediante a fé",
+  "secao": "O mistério de Cristo e da Igreja",
+  "referencia": "Ef 2,1-10",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Pela graça fostes salvos, mediante a fé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo lembra o passado dos destinatários: estavam mortos pelos seus delitos e pecados, seguindo o curso deste mundo e o príncipe das potestades do ar, o espírito que age nos filhos da desobediência. Também os judeus viviam segundo os desejos da carne e eram, por natureza, filhos da ira, como os demais. Mas Deus, rico em misericórdia, pelo grande amor com que nos amou, quando estávamos mortos pelos pecados, deu-nos vida juntamente com Cristo, ressuscitou-nos com Ele e fez-nos sentar nos céus em Cristo Jesus, para mostrar nos séculos futuros a riqueza da sua graça. Pois pela graça fomos salvos, mediante a fé; e isto não vem de nós, é dom de Deus; não vem das obras, para que ninguém se glorie. Somos obra sua, criados em Cristo Jesus para as boas obras que Deus preparou para nelas caminharmos.",
+    "alegorico": "A passagem da morte à vida é a Páscoa aplicada a cada fiel: o que aconteceu a Cristo (vida, ressurreição, ascensão) acontece a nós “com Ele”. O Batismo é este “convivificar” e “consentar nos céus”. A humanidade sem Cristo aparece como reino do “príncipe do ar”; a Igreja é a nova criação, obra das mãos de Deus.",
+    "moral": "Tudo é graça: a salvação não se compra nem se merece no início, para que ninguém se glorie. Mas a graça não dispensa as obras: fomos criados “para as boas obras” que Deus preparou. A humildade e a gratidão são as respostas certas. Quem se lembra de onde foi tirado não despreza os que ainda estão “mortos” e deseja-lhes a mesma misericórdia.",
+    "anagogico": "Já estamos sentados com Cristo nos céus pela esperança e pelo Batismo; mas a riqueza da graça será mostrada “aos séculos futuros”. A plena manifestação do que Deus fez em nós pertence à glória que há de vir."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estáveis mortos pelos vossos delitos e pecados. Mas Deus, que é rico em misericórdia, pela extrema caridade, com que nos amou, convivificou-nos em Cristo. Porque pela graça fostes salvos, mediante a fé, e isto não vem de vós, porque é um dom de Deus. Somos obra sua, criados em Jesus Cristo para boas obras.",
+    "meditatio_perguntas": [
+      "Reconheço de que “morte” Deus me tirou?",
+      "Atribuo a mim mesmo algum mérito que é pura graça?",
+      "Quais as boas obras que Deus preparou para mim, hoje, onde estou?"
+    ],
+    "oratio_guia": "Deus rico em misericórdia, que me amaste quando eu estava morto pelo pecado, obrigado por me teres dado vida em Cristo. Tudo é dom teu. Dá-me caminhar nas boas obras que preparaste para mim, sem jamais me gloriar senão em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus, que é rico em misericórdia, pela extrema caridade, com que nos amou.",
+      "ref": "Ef 2,4"
+    }
+  },
+  "ancoras": {
+    "2:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Por natureza filhos da ira”: texto clássico para a doutrina do pecado original (Concílio de Trento, sessão V), estado de que todos necessitam ser libertados.",
+        "origem": "ia"
+      }
+    },
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os parênteses de Matos Soares, “praticadas sem a sua graça”, seguem a leitura católica tradicional: o que é excluído é a pretensão de merecer a primeira graça pelas obras naturais, não as obras feitas na graça (cf. 2,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

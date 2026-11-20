@@ -1,0 +1,49 @@
+{
+  "id": "EPH.6.1",
+  "livro": "EPH",
+  "titulo": "Filhos e pais, servos e senhores",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 6,1-9",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Servir de bom coração, como ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filhos obedeçam aos pais no Senhor, porque isto é justo: “Honra teu pai e tua mãe”, o primeiro mandamento com promessa, para que sejas feliz e tenhas longa vida na terra. E os pais não provoquem os filhos à ira, mas os eduquem na disciplina e na instrução do Senhor. Os servos obedeçam aos senhores terrenos com temor e reverência, na sinceridade do coração, como a Cristo; não só quando vigiados, para agradar aos homens, mas como servos de Cristo, fazendo de bom coração a vontade de Deus, servindo com boa vontade como ao Senhor, sabendo que cada um, escravo ou livre, receberá do Senhor a recompensa do bem que fizer. E os senhores façam o mesmo com eles, deixando as ameaças, sabendo que o Senhor de ambos está nos céus e não faz acepção de pessoas.",
+    "alegorico": "A casa cristã, com pais, filhos, servos e senhores, é imagem da Igreja, família de Deus, onde todos têm um só Senhor nos céus. Cristo, o Filho obediente ao Pai e Servo que lava os pés, é o modelo tanto de quem obedece como de quem exerce autoridade.",
+    "moral": "Toda relação de autoridade é relativizada e santificada pelo único Senhor. Os filhos honram os pais; os pais não exasperam os filhos, mas os educam na fé. O trabalho é feito “de bom coração”, não só sob vigilância: é serviço prestado a Cristo. Quem manda não pode ameaçar nem humilhar, porque também tem um Senhor que não faz acepção de pessoas.",
+    "anagogico": "“Cada um receberá do Senhor a paga do bem que tiver feito”: o juízo final restabelece todas as coisas. Diante de Deus, escravo e livre são iguais; as hierarquias terrenas passam, e só o amor com que se serviu permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Filhos, obedecei a vossos pais no Senhor. Honra teu pai e tua mãe. Pais, não provoqueis à ira os vossos filhos, mas educai-os na disciplina e nas instruções do Senhor. Servindo-os com boa vontade, como se servísseis o Senhor e não os homens. O Senhor está nos céus, e não faz acepção de pessoas.",
+    "meditatio_perguntas": [
+      "Como honro hoje meu pai e minha mãe, vivos ou falecidos?",
+      "Trabalho de bom coração mesmo quando ninguém me vê?",
+      "Exerço a autoridade que tenho sem ameaças, lembrando que também tenho um Senhor?"
+    ],
+    "oratio_guia": "Senhor, único Senhor de todos, santifica as nossas famílias e o nosso trabalho. Dá aos filhos honrar os pais e aos pais educar na tua fé; que eu sirva de bom coração, como a ti, e exerça a autoridade com mansidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Servindo-os com boa vontade, como se servísseis o Senhor e não os homens.",
+      "ref": "Ef 6,7"
+    }
+  },
+  "ancoras": {
+    "6:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo não legitima a escravidão, mas a transforma por dentro: a igualdade diante do Senhor (6,9) e a fraternidade em Cristo minaram com o tempo a própria instituição (cf. a Carta a Filémon).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

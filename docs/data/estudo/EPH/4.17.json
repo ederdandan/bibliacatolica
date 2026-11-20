@@ -1,0 +1,57 @@
+{
+  "id": "EPH.4.17",
+  "livro": "EPH",
+  "titulo": "Despojar-se do homem velho, revestir-se do novo",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 4,17-32",
+  "ini": {
+    "c": 4,
+    "v": 17
+  },
+  "fim": {
+    "c": 4,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Revesti-vos do homem novo, criado segundo Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que não vivam mais como os pagãos, na vaidade dos seus pensamentos, com o entendimento obscurecido, afastados da vida de Deus pela ignorância e pela dureza do coração; de consciência embotada, entregaram-se à libertinagem e a toda impureza. Não foi assim que aprenderam a Cristo: foram ensinados, segundo a verdade que está em Jesus, a despojar-se do homem velho, que se corrompe pelas paixões enganadoras, a renovar-se no espírito da mente e a revestir-se do homem novo, criado segundo Deus na justiça e santidade da verdade. Daí as consequências: renunciar à mentira e falar a verdade, porque somos membros uns dos outros; irar-se sem pecar e não deixar o sol pôr-se sobre a ira, nem dar lugar ao demônio; o ladrão deixe de furtar e trabalhe para ter o que dar ao necessitado; nenhuma palavra má, só palavras que edificam; não entristecer o Espírito Santo. Longe toda amargura e maledicência; sejam bons, misericordiosos, perdoando-se como Deus os perdoou em Cristo.",
+    "alegorico": "Despojar-se e revestir-se é linguagem batismal: na Igreja antiga, o catecúmeno despia as vestes velhas, descia à água e recebia a veste branca. O homem velho é Adão decaído; o homem novo é Cristo, de quem o batizado se reveste. O selo do Espírito para o dia da redenção lembra de novo o Batismo e a Confirmação.",
+    "moral": "A conversão é concreta: verdade nas palavras, controle da ira, trabalho honesto que permite a partilha, palavras que edificam, perdão. A ira pode ser justa, mas não deve durar até o pôr do sol, para não abrir a porta ao demônio. O motivo de tudo é teológico: somos membros uns dos outros, e Deus nos perdoou em Cristo. Pecar entristece o Espírito que habita em nós.",
+    "anagogico": "Fomos “marcados com um selo para o dia da redenção”: a renovação diária é preparação para o dia em que o homem novo se manifestará plenamente, criado segundo Deus na justiça e na santidade verdadeiras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A vos despojardes do homem velho, a renovar-vos no vosso espírito e a revestir-vos do homem novo, criado segundo Deus na justiça e na santidade verdadeiras. Não se ponha o sol sobre a vossa ira. Não entristeçais o Espírito Santo de Deus. Sede benignos uns para com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou por Cristo.",
+    "meditatio_perguntas": [
+      "Que hábito do “homem velho” preciso despir hoje?",
+      "Há alguma ira que deixo durar além do pôr do sol?",
+      "Minhas palavras edificam ou destroem os que me ouvem?"
+    ],
+    "oratio_guia": "Espírito Santo, que me marcaste para o dia da redenção, não quero entristecer-te. Ajuda-me a despojar-me do homem velho e a revestir-me de Cristo. Dá-me falar a verdade, vencer a ira e perdoar como Deus me perdoou em Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sede benignos uns para com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou por Cristo.",
+      "ref": "Ef 4,32"
+    }
+  },
+  "ancoras": {
+    "4:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 4,5 segundo a Septuaginta. A ira como paixão não é em si pecado; torna-se pecado quando consentida contra a razão ou guardada como rancor.",
+        "origem": "ia"
+      }
+    },
+    "4:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O trabalho tem aqui finalidade social: não só sustentar-se, mas “ter que dar ao que está em necessidade”. A Doutrina Social da Igreja retoma este versículo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

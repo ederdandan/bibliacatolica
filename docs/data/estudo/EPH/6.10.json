@@ -1,0 +1,57 @@
+{
+  "id": "EPH.6.10",
+  "livro": "EPH",
+  "titulo": "A armadura de Deus",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 6,10-24",
+  "ini": {
+    "c": 6,
+    "v": 10
+  },
+  "fim": {
+    "c": 6,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Revesti-vos da armadura de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo conclui: fortaleçam-se no Senhor e no seu poder. Revistam-se da armadura de Deus para resistir às ciladas do demônio, pois a luta não é só contra a carne e o sangue, mas contra os principados e potestades, os dominadores deste mundo de trevas, os espíritos malignos nos ares. Tomem a armadura de Deus, para resistir no dia mau e ficar de pé depois de tudo vencido: os rins cingidos com a verdade, a couraça da justiça, os pés calçados com o zelo do Evangelho da paz, o escudo da fé, que apaga os dardos inflamados do maligno, o elmo da salvação e a espada do Espírito, que é a palavra de Deus. Rezem sempre no Espírito, com perseverança, por todos os santos e também por Paulo, para que lhe seja dado anunciar com liberdade o mistério do Evangelho, do qual é embaixador em cadeias. Tíquico lhes dará notícias. Paz, caridade e fé aos irmãos, e a graça a todos os que amam a Nosso Senhor Jesus Cristo com amor incorruptível.",
+    "alegorico": "A armadura é a do próprio Deus, descrita em Isaías (59,17) como as vestes do Senhor que vem salvar: o cristão reveste-se das armas de Cristo vencedor. A Igreja é a Igreja militante, em combate espiritual contra os poderes das trevas; a sua espada é a Palavra e a sua força é a oração.",
+    "moral": "A vida cristã é combate, e o inimigo real não são as pessoas, mas os espíritos do mal. Ninguém vence com as próprias forças: é preciso revestir-se das virtudes que Deus dá, verdade, justiça, zelo, fé, esperança da salvação, e manejar a Palavra de Deus. A oração perseverante, por todos e pelos pastores, é a respiração do combatente.",
+    "anagogico": "Resistir “no dia mau e ficar de pé depois de ter vencido tudo” aponta para a vitória final. O elmo da salvação é a esperança (cf. 1Ts 5,8): o soldado de Cristo luta já sabendo que o seu Senhor venceu e que a paz definitiva virá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fortalecei-vos no Senhor, no seu poder soberano. Revesti-vos da armadura de Deus, para que possais resistir às ciladas do demônio. Tomai o escudo da fé, o elmo da salvação e a espada do espírito, que é a palavra de Deus. Fazei continuamente pelo Espírito toda a sorte de orações e de súplicas.",
+    "meditatio_perguntas": [
+      "Reconheço que o meu combate é espiritual, e não contra as pessoas?",
+      "Que peça da armadura de Deus mais me falta hoje?",
+      "Uso a Palavra de Deus como espada nas tentações?"
+    ],
+    "oratio_guia": "Senhor, minha força, reveste-me da tua armadura: a verdade, a justiça, a fé, a esperança da salvação e a tua Palavra. Ensina-me a rezar sem cessar no Espírito, por todos os santos e pelos pastores da tua Igreja, e dá-me ficar de pé no dia mau. Amém.",
+    "contemplatio_foco": {
+      "texto": "Revesti-vos da armadura de Deus, para que possais resistir às ciladas do demônio.",
+      "ref": "Ef 6,11"
+    }
+  },
+  "ancoras": {
+    "6:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem combina o equipamento do legionário romano (que Paulo, preso, via de perto) com Is 11,5 e 59,17, onde é o próprio Deus que se reveste de justiça e do elmo da salvação.",
+        "origem": "ia"
+      }
+    },
+    "6:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Embaixador em algemas”: paradoxo intencional, pois um embaixador gozava de imunidade; o de Cristo, porém, está acorrentado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

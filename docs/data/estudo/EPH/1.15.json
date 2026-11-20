@@ -1,0 +1,57 @@
+{
+  "id": "EPH.1.15",
+  "livro": "EPH",
+  "titulo": "Cristo, cabeça da Igreja, que é o seu corpo",
+  "secao": "O mistério de Cristo e da Igreja",
+  "referencia": "Ef 1,15-23",
+  "ini": {
+    "c": 1,
+    "v": 15
+  },
+  "fim": {
+    "c": 1,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Iluminados os olhos do coração para conhecer a esperança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tendo ouvido falar da fé deles no Senhor Jesus e do amor a todos os santos, Paulo não cessa de dar graças e de lembrá-los nas orações. Pede que o Pai da glória lhes dê espírito de sabedoria e de revelação para o conhecerem, iluminando os olhos do coração, para que saibam qual é a esperança a que foram chamados, qual a riqueza da glória da herança reservada aos santos, e qual a suprema grandeza do seu poder para os que creem. É o mesmo poder que Deus empregou em Cristo, ressuscitando-o dos mortos e sentando-o à sua direita nos céus, acima de todo principado, potestade, virtude e dominação, e de todo nome, neste século e no futuro. Tudo pôs debaixo dos seus pés e o constituiu cabeça sobre toda a Igreja, que é o seu corpo, a plenitude daquele que plenifica tudo em todos.",
+    "alegorico": "A Igreja é o corpo de Cristo e a sua “plenitude” (plḗrōma): Cristo, a cabeça, não se completa em si mesmo, mas quer ser completado nos seus membros. A ressurreição e ascensão do Senhor acima de todas as potestades revelam que a Igreja, unida à cabeça, participa já da sua vitória sobre os poderes do mal.",
+    "moral": "Paulo pede para os cristãos não bens exteriores, mas conhecimento: olhos do coração iluminados. A fé precisa crescer em compreensão, para que o fiel saiba a grandeza da esperança e do poder que já atua nele. O mesmo poder que ressuscitou Jesus está em nós: não há desânimo que resista a essa verdade.",
+    "anagogico": "A “herança reservada aos santos” é a glória futura. Cristo reina “não só neste século, mas também no futuro”; a Igreja, seu corpo, caminha para a plenitude em que Ele será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Pai de glória vos dê o espírito de sabedoria e de revelação, iluminando os olhos do vosso coração, para que conheçais qual a esperança a que ele vos chamou. Ressuscitando-o dos mortos e pondo-o à sua mão direita no céu. Constituiu-o cabeça de toda a Igreja, que é o seu corpo.",
+    "meditatio_perguntas": [
+      "Peço a Deus que ilumine os olhos do meu coração, ou só que resolva os meus problemas?",
+      "Creio que o poder que ressuscitou Jesus atua em mim?",
+      "Vivo a Igreja como o corpo de Cristo, do qual sou membro?"
+    ],
+    "oratio_guia": "Pai da glória, ilumina os olhos do meu coração para que eu conheça a esperança da minha vocação e a grandeza do teu poder. Que eu viva unido a Cristo, cabeça da Igreja, e como membro vivo do seu corpo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Iluminando os olhos do vosso coração, para que conheçais qual a esperança a que ele vos chamou.",
+      "ref": "Ef 1,18"
+    }
+  },
+  "ancoras": {
+    "1:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Principados, potestades, virtudes e dominações: nomes de ordens angélicas. A teologia (Pseudo-Dionísio, São Gregório) usou-os na classificação dos coros dos anjos.",
+        "origem": "ia"
+      }
+    },
+    "1:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Complemento” traduz plḗrōma. A Igreja é a plenitude de Cristo: Ele enche-a dos seus dons, e ela o completa como o corpo completa a cabeça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

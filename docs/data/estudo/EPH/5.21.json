@@ -1,0 +1,57 @@
+{
+  "id": "EPH.5.21",
+  "livro": "EPH",
+  "titulo": "Grande mistério: Cristo e a Igreja",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 5,21-33",
+  "ini": {
+    "c": 5,
+    "v": 21
+  },
+  "fim": {
+    "c": 5,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Grande mistério: Cristo amou a Igreja e por ela se entregou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede que se sujeitem uns aos outros no temor de Cristo. As mulheres sejam submissas aos maridos como ao Senhor, porque o marido é cabeça da mulher como Cristo é cabeça da Igreja, seu corpo, do qual é o Salvador. Os maridos amem as suas mulheres como Cristo amou a Igreja e se entregou por ela, para santificá-la, purificando-a no banho da água pela palavra, e apresentá-la a si mesmo gloriosa, sem mancha nem ruga, santa e imaculada. Assim os maridos devem amar as mulheres como ao próprio corpo: quem ama a mulher ama-se a si mesmo; ninguém odeia a própria carne, mas a nutre e cuida dela, como Cristo faz com a Igreja, porque somos membros do seu corpo. “Por isso o homem deixará pai e mãe e se unirá à sua mulher, e serão os dois uma só carne.” Grande mistério é este, diz Paulo, em relação a Cristo e à Igreja. Cada um ame a mulher como a si mesmo, e a mulher respeite o marido.",
+    "alegorico": "O matrimônio é figura e sacramento da união de Cristo com a Igreja: Ele, o Esposo, entrega-se na cruz; ela, a Esposa, nasce purificada pela água do Batismo e pela palavra. A Igreja “sem mácula nem ruga” é a Esposa que Cristo prepara para si. O versículo de Gênesis sobre “uma só carne” encontra o seu sentido pleno no Cristo total, cabeça e corpo.",
+    "moral": "A chave é o primeiro versículo: submissão mútua “no temor de Cristo”. O marido é cabeça à maneira de Cristo, isto é, servindo e entregando-se até a morte; a esposa responde com respeito e confiança. O amor conjugal é cuidado concreto, nutrir e cuidar, como de si mesmo. Nenhuma relação familiar escapa ao modelo da cruz.",
+    "anagogico": "A Igreja será apresentada “gloriosa, sem mácula, nem ruga” no fim dos tempos: as núpcias do Cordeiro. Todo matrimônio cristão aponta para esse banquete eterno, em que a união de Cristo com a humanidade redimida será plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Sede submissos uns aos outros no temor de Cristo. Maridos, amai as vossas mulheres, como também Cristo amou a Igreja e por ela se entregou a si mesmo, para a santificar. Serão dois numa só carne. Grande mistério é este; eu o entendo em relação a Cristo e à Igreja.",
+    "meditatio_perguntas": [
+      "Vivo as minhas relações familiares no “temor de Cristo”, com submissão mútua?",
+      "O amor de Cristo, que se entrega, é a medida do meu amor?",
+      "Como vejo a Igreja: como uma instituição, ou como a Esposa amada de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da Igreja, que a amaste e te entregaste por ela, santifica as famílias cristãs. Dá aos esposos amar-se como Tu amas, servindo e cuidando, e faz de cada lar um sinal do teu grande mistério. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cristo amou a Igreja e por ela se entregou a si mesmo.",
+      "ref": "Ef 5,25"
+    }
+  },
+  "ancoras": {
+    "5:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “batismo da água pela palavra”: o rito batismal com a fórmula pronunciada. A tradição viu aqui também o banho nupcial que precedia o casamento.",
+        "origem": "ia"
+      }
+    },
+    "5:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Mistério” (mystḗrion) foi traduzido na Vulgata por sacramentum. O texto é central na doutrina da sacramentalidade do matrimônio (Concílio de Trento, sessão XXIV).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

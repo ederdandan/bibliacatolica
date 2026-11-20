@@ -1,0 +1,57 @@
+{
+  "id": "EPH.4.1",
+  "livro": "EPH",
+  "titulo": "Um só corpo e um só Espírito",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Ef 4,1-16",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Um só Senhor, uma só fé, um só batismo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, prisioneiro no Senhor, exorta a viver de modo digno da vocação recebida, com toda humildade, mansidão e paciência, suportando-se uns aos outros na caridade, solícitos em conservar a unidade do Espírito no vínculo da paz. Há um só corpo e um só Espírito, uma só esperança; um só Senhor, uma só fé, um só batismo; um só Deus e Pai de todos, que está acima de todos, age por todos e está em todos. A cada um, porém, foi dada a graça segundo a medida do dom de Cristo: subindo ao alto, levou cativos e distribuiu dons aos homens; e o que subiu é o mesmo que antes desceu às regiões inferiores da terra. Ele constituiu uns apóstolos, outros profetas, evangelistas, pastores e doutores, para aperfeiçoar os santos para a obra do ministério e edificar o corpo de Cristo, até chegarmos à unidade da fé e à estatura da plenitude de Cristo, sem sermos levados por todo vento de doutrina, mas praticando a verdade na caridade, crescendo naquele que é a cabeça.",
+    "alegorico": "As sete unidades (corpo, Espírito, esperança, Senhor, fé, batismo, Deus Pai) descrevem a Igreja una, reflexo da unidade trinitária. A descida e a subida de Cristo evocam a Encarnação, a descida à mansão dos mortos e a Ascensão, de onde Ele derrama os dons. Os ministérios são dados para que o corpo cresça até a medida do Cristo total.",
+    "moral": "A unidade não se mantém sem humildade, mansidão e paciência: é preciso “suportar-se uns aos outros” por amor. Cada um recebeu um dom que deve servir à edificação comum. A maturidade cristã aparece na firmeza doutrinal (não ser criança levada por todo vento) unida à caridade: a verdade sem amor fere, o amor sem verdade engana.",
+    "anagogico": "“Até que cheguemos todos à unidade da fé... à estatura da plenitude de Cristo”: a Igreja está em crescimento rumo à sua forma perfeita. A unidade plena, hoje ainda ferida, será completa quando Cristo for tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Andeis de um modo digno da vocação a que fostes chamados, com toda a humildade, mansidão e paciência, suportando-vos uns aos outros por caridade. Há um só corpo e um só Espírito. Há um só Senhor, uma só fé, um só batismo. Praticando a verdade na caridade, cresçamos naquele que é cabeça, o Cristo.",
+    "meditatio_perguntas": [
+      "Onde preciso de mais paciência para “suportar” o outro por amor?",
+      "Que dom recebi de Cristo para a edificação do corpo, e como o uso?",
+      "Sou firme na fé sem perder a caridade, e caridoso sem trair a verdade?"
+    ],
+    "oratio_guia": "Senhor, que distribuis os teus dons à Igreja, dá-me humildade, mansidão e paciência para guardar a unidade do Espírito. Faz-me servir com o dom que recebi e crescer, na verdade e na caridade, até a plenitude de Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Há um só Senhor, uma só fé, um só batismo.",
+      "ref": "Ef 4,5"
+    }
+  },
+  "ancoras": {
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação livre do Sl 67(68),19, aplicada à Ascensão. O salmo diz “recebeste dons”; Paulo, seguindo uma tradição judaica de leitura, diz “distribuiu dons”.",
+        "origem": "ia"
+      }
+    },
+    "4:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A descida “aos lugares mais baixos da terra” foi lida pela tradição como a descida de Cristo à mansão dos mortos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
