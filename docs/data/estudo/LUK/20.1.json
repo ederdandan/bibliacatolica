@@ -1,0 +1,95 @@
+{
+  "id": "LUK.20.1",
+  "livro": "LUK",
+  "titulo": "A autoridade de Jesus; os vinhateiros homicidas",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Lc 20,1-19",
+  "ini": { "c": 20, "v": 1 },
+  "fim": { "c": 20, "v": 19 },
+  "liturgia": { "tema_central": "O Filho amado rejeitado torna-se pedra angular", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Enquanto Jesus ensina no Templo, os sumos sacerdotes, escribas e anciãos perguntam-lhe com que autoridade faz estas coisas. Ele responde com outra pergunta: o batismo de João era do céu ou dos homens? Eles calculam: se disserem “do céu”, ele perguntará por que não creram; se disserem “dos homens”, o povo apedrejá-los-á. Respondem que não sabem, e Jesus também não lhes diz. Conta então a parábola: um homem planta uma vinha, arrenda-a e parte por muito tempo. No tempo da colheita envia três servos, sucessivamente espancados, ultrajados e expulsos de mãos vazias. “Mandarei o meu filho amado; talvez o respeitem.” Mas os vinhateiros dizem: “Este é o herdeiro; matemo-lo, e a herança será nossa”, e, lançando-o fora da vinha, matam-no. O dono virá, destruirá aqueles vinhateiros e dará a vinha a outros. “Deus tal não permita!” Jesus cita o Salmo: a pedra que os construtores rejeitaram tornou-se pedra angular. Os chefes percebem que a parábola é contra eles e procuram prendê-lo, mas temem o povo.",
+    "alegorico": "A vinha é a casa de Israel (Is 5); os servos enviados são os profetas, de Moisés a David e aos outros; o Filho amado é Cristo, morto fora da vinha, como padeceu fora da porta para santificar o povo com o seu sangue. A pedra angular é Cristo, que une os dois povos, judeu e gentio, num só homem novo. Os “outros” a quem a vinha é dada são a Igreja das nações.",
+    "moral": "Deus está mais presente aos que o amam e afasta-se dos que não fazem caso dele; a sua longa paciência torna menos desculpável a obstinação. Deus pede só uma parte do fruto, e o que ganha de nós é o nosso próprio proveito: conhecê-lo. Cada fiel recebe uma vinha a cultivar, o mistério do batismo; maltrata os servos quem despreza a palavra ouvida. Quem cai sobre a pedra pela penitência é quebrado para ser salvo; sobre quem a nega, a pedra cai e o esmaga.",
+    "anagogico": "“Virá o senhor da vinha”: o juízo pedirá contas dos frutos. Rejeitado pelos homens, o Filho é exaltado por Deus como pedra angular do templo eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Um homem plantou uma vinha, arrendou-a a uns vinhateiros, e ausentou-se para longe durante muito tempo. No tempo próprio, enviou um servo aos vinhateiros, para que lhe dessem a sua parte do fruto da vinha. Eles, porém, depois de lhe terem batido, reenviaram-no com as mãos vazias. Disse então o senhor da vinha: Que hei-de fazer? Mandarei meu filho amado; talvez lhe guardarão respeito. Mas, quando os vinhateiros o viram, disseram: Este é o herdeiro, matemo-lo. E, lançando-o fora da vinha, mataram-no.” Jesus disse: “A pedra que os edificadores desprezaram, tornou-se pedra angular”.",
+    "meditatio_perguntas": [
+      "Que frutos devo ao Senhor da vinha que me foi confiada?",
+      "Como acolho os “servos” que Deus me envia: a Palavra, os profetas, os irmãos?",
+      "Em que me comporto como dono, e não como arrendatário, do que é de Deus?"
+    ],
+    "oratio_guia": "Pai, que me confiaste a tua vinha e me enviaste o teu Filho amado, perdoa as vezes que despedi de mãos vazias os teus mensageiros. Que eu acolha Jesus, pedra angular da minha vida, e te dê a seu tempo os frutos que esperas. Amém.",
+    "contemplatio_foco": { "texto": "Mandarei meu filho amado; talvez lhe guardarão respeito.", "ref": "Lc 20,13" }
+  },
+  "ancoras": {
+    "20:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "20:1–8#1", "sintese": "Deviam admirar-se de tão celeste doutrina e reconhecer o Cristo; em vez disso, vêm impedi-lo, apressando a ruína do povo." }
+      ],
+      "nota": null
+    },
+    "20:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:1–8#5", "sintese": "João, profeta vindo do céu, dera testemunho de Cristo: respondessem como respondessem, cairiam na armadilha." }
+      ],
+      "nota": null
+    },
+    "20:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "20:9–18#2", "sintese": "Isaías diz claramente que a vinha do Senhor dos exércitos é a casa de Israel; quem a plantou senão Deus?" },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "20:9–18#6", "sintese": "Deus está mais presente aos que o amam; ausentou-se muito tempo para que a obstinação fosse menos desculpável." }
+      ],
+      "nota": { "texto": "A parábola retoma o “Cântico da vinha” de Is 5,1-7, bem conhecido dos ouvintes.", "origem": "ia" }
+    },
+    "20:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "20:9–18#8", "sintese": "Pede só uma parte do fruto: o que Deus ganha de nós é o conhecimento dele, que é também proveito nosso." },
+        { "autor": "São Beda, o Venerável", "obra": "in Marc. 12.", "catena": "20:9–18#33", "sintese": "A cada fiel é confiada uma vinha, o mistério do batismo; maltrata o servo quem despreza a palavra ouvida." }
+      ],
+      "nota": null
+    },
+    "20:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "20:9–18#13", "sintese": "Esgotados os auxílios humanos sem que o povo se curasse, acrescenta algo maior: o Filho amado." }
+      ],
+      "nota": null
+    },
+    "20:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:9–18#16", "sintese": "Mataram-no não por ignorância, mas por inveja; e fora da vinha, como Jesus padeceu fora da porta." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:9–18#18", "sintese": "Primeiro foi lançado fora do coração dos incrédulos, depois pregado na cruz." }
+      ],
+      "nota": null
+    },
+    "20:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "20:9–18#29", "sintese": "A pedra angular une os dois povos numa só fé e num só corpo; é salvação, e ruína para os que resistem à união." }
+      ],
+      "nota": null
+    },
+    "20:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:9–18#31", "sintese": "O pecador que crê cai sobre a pedra e é quebrado para a salvação pela penitência; quem a nega é esmagado por ela." }
+      ],
+      "nota": null
+    },
+    "20:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:19–26#1", "sintese": "Procurando matá-lo, provaram a verdade da parábola: Ele é o Herdeiro, e eles os vinhateiros perversos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

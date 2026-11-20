@@ -1,0 +1,102 @@
+{
+  "id": "LUK.20.20",
+  "livro": "LUK",
+  "titulo": "O tributo a César, a ressurreição e o Filho de Davi",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Lc 20,20-47",
+  "ini": { "c": 20, "v": 20 },
+  "fim": { "c": 20, "v": 47 },
+  "liturgia": { "tema_central": "Dar a Deus o que é de Deus: o Deus dos vivos e o Senhor de David", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os chefes enviam espiões, fingindo-se justos, para apanhar Jesus em alguma palavra e entregá-lo ao governador. Elogiam-no e perguntam se é lícito pagar o tributo a César. Ele, conhecendo a sua astúcia, pede uma moeda: de quem é a imagem e a inscrição? “De César.” — “Dai a César o que é de César, e a Deus o que é de Deus.” Admirados, calam-se. Depois, os saduceus, que negam a ressurreição, propõem o caso da mulher que casou sucessivamente com sete irmãos: de qual será esposa na ressurreição? Jesus responde que os filhos deste século casam, mas os julgados dignos da ressurreição já não casam nem morrem: são iguais aos anjos e filhos de Deus. E Moisés, na sarça, chama ao Senhor Deus de Abraão, de Isaac e de Jacob: Deus não é Deus de mortos, mas de vivos. Alguns escribas aprovam-no, e ninguém ousa mais interrogá-lo. Jesus pergunta então como o Cristo pode ser filho de David, se David lhe chama Senhor no Salmo 110. Por fim, diante do povo, adverte os discípulos contra os escribas que buscam honras e devoram as casas das viúvas a pretexto de longas orações.",
+    "alegorico": "Há no homem duas imagens: a de Deus, recebida na criação, e a do inimigo, contraída pelo pecado; a moeda com a efígie de César lembra que devemos restituir a Deus a sua imagem em nós. A pergunta sobre o Filho de David revela o mistério de Cristo, Deus e homem: filho de David segundo a carne, seu Senhor segundo o Espírito, sentado à direita do Pai, isto é, revestido do poder de julgar quem primeiro veio para ser julgado.",
+    "moral": "Deus não exige dinheiro, mas fé; ao César o tributo, a Deus o temor. Quem não quer ser devedor de César não se prenda aos bens do mundo, e cumpra o que prometeu a Deus, pois maior é o contrato da fé que o do dinheiro. Os discípulos devem fugir das duas paixões dos escribas, a vanglória e o lucro: não se condena a dignidade, mas o amor desordenado dela; e é mais grave ainda fazer da oração pretexto para o pecado e explorar os pobres.",
+    "anagogico": "Na ressurreição não haverá casamento, porque não haverá morte: os ressuscitados, sem temor nem corrupção, alegrar-se-ão na contemplação perpétua de Deus. O Deus de Abraão, Isaac e Jacob é Deus de vivos: os patriarcas vivem para Ele e aguardam a ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Interrogaram-no, dizendo: “É-nos permitido dar o tributo a César ou não?” Jesus disse-lhes: “Mostrai-me um dinheiro. De quem é a imagem e a inscrição que tem?” Responderam: “De César”. Ele disse-lhes: “Dai pois a César o que é de César, e a Deus o que é de Deus”. Aproximaram-se depois alguns saduceus, que negam a ressurreição. Jesus disse-lhes: “Os que forem julgados dignos do século futuro e da ressurreição dos mortos não poderão jamais morrer; porquanto são semelhantes aos anjos, e são filhos de Deus. Ora Deus não é Deus de mortos, mas de vivos, porque para ele, todos são vivos”.",
+    "meditatio_perguntas": [
+      "Que imagem trago gravada em mim, e a quem a restituo?",
+      "A esperança da ressurreição muda a maneira como vivo hoje?",
+      "Busco na fé honras e vantagens, ou sirvo os pobres e as viúvas?"
+    ],
+    "oratio_guia": "Deus dos vivos, que me criaste à tua imagem, ajuda-me a restituir-te o que é teu: o meu coração inteiro. Livra-me da vaidade e da cobiça, e dá-me a esperança firme da ressurreição, para viver desde já como filho teu. Amém.",
+    "contemplatio_foco": { "texto": "Dai pois a César o que é de César, e a Deus o que é de Deus.", "ref": "Lc 20,25" }
+  },
+  "ancoras": {
+    "20:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:19–26#4", "sintese": "Pergunta suave e astuciosa: queriam que dissesse temer a Deus mais que a César, para ser preso pelos guardas." }
+      ],
+      "nota": null
+    },
+    "20:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "20:19–26#8", "sintese": "Tendes a imagem de César e aceitais o seu governo: a ele o tributo, a Deus o temor; Deus não exige dinheiro, mas fé." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "20:19–26#11", "sintese": "Não queiras possuir os bens do mundo, se não queres ser devedor de César; maior é o contrato da fé que o do dinheiro." },
+        { "autor": "Orígenes", "obra": null, "catena": "20:19–26#12", "sintese": "Há no homem duas imagens: a de Deus, da criação, e a do inimigo, contraída pelo pecado." }
+      ],
+      "nota": null
+    },
+    "20:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "20:27–40#1", "sintese": "Os saduceus negam a ressurreição e julgam que a alma morre com o corpo; propõem a questão para o apanhar." }
+      ],
+      "nota": { "texto": "A lei do levirato (Dt 25,5-6) mandava o irmão casar com a viúva sem filhos para dar descendência ao falecido.", "origem": "ia" }
+    },
+    "20:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 49.", "catena": "20:27–40#8", "sintese": "O casamento existe por causa dos filhos, os filhos pela sucessão, a sucessão pela morte: onde não há morte, não há casamento." }
+      ],
+      "nota": null
+    },
+    "20:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:27–40#13", "sintese": "Renovados pela ressurreição, sem temor da morte nem corrupção, alegram-se na contemplação perpétua de Deus." }
+      ],
+      "nota": null
+    },
+    "20:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "de Anna, Serm. 4.", "catena": "20:27–40#17", "sintese": "Deus chama-se especialmente Deus dos santos, não estreitando o seu domínio, mas mostrando um afeto próprio." }
+      ],
+      "nota": null
+    },
+    "20:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Symbolo ad Catech. l. ii. c. 7.", "catena": "20:41–44#2", "sintese": "A direita não é postura do corpo, mas o poder dado ao homem assumido por Deus para julgar quem veio ser julgado." }
+      ],
+      "nota": null
+    },
+    "20:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:41–44#7", "sintese": "David era pai e servo de Cristo: pai segundo a carne, servo segundo o Espírito." }
+      ],
+      "nota": null
+    },
+    "20:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "20:45–47#2", "sintese": "As paixões dos escribas eram a vanglória e o lucro; adverte os discípulos para as evitarem." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "20:45–47#4", "sintese": "Não condena a dignidade do primeiro lugar a quem pertence, mas o amor desordenado por ela." }
+      ],
+      "nota": null
+    },
+    "20:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "20:45–47#6", "sintese": "Fingem orar, fazendo da virtude desculpa para o pecado, e empobrecem as viúvas de quem deviam compadecer-se." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
