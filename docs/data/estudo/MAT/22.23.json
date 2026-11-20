@@ -1,0 +1,69 @@
+{
+  "id": "MAT.22.23",
+  "livro": "MAT",
+  "titulo": "Os saduceus e a ressurreição dos mortos",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 22,23-33",
+  "ini": { "c": 22, "v": 23 },
+  "fim": { "c": 22, "v": 33 },
+  "liturgia": { "tema_central": "Deus não é Deus de mortos, mas de vivos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os saduceus, que negavam a ressurreição e aceitavam como Escritura sobretudo a Lei de Moisés, apresentam um caso baseado na lei do levirato (Dt 25,5-6: o irmão de quem morre sem filhos deve casar com a viúva). Sete irmãos casam sucessivamente com a mesma mulher; de qual será esposa na ressurreição? Jesus responde que erram por não conhecerem as Escrituras nem o poder de Deus: na ressurreição não se casa, mas se é como os anjos no céu. E, citando o próprio Moisés (Ex 3,6), prova a ressurreição: “Eu sou o Deus de Abraão, de Isaac e de Jacó”; Deus não é Deus de mortos, mas de vivos. A multidão fica admirada.",
+    "alegorico": "Deus, que se liga pela aliança aos patriarcas, não os abandona à morte: a fidelidade de Deus é o fundamento da ressurreição. A vida ressuscitada não é simples continuação desta, mas transformação, semelhante à dos anjos.",
+    "moral": "Muitos erros nascem de não conhecer as Escrituras e de medir o poder de Deus pela imaginação humana. A presunção que não aprende com a derrota dos outros é cega. Quem vive para Deus vive já da vida que não morre.",
+    "anagogico": "Ressuscitaremos com o nosso corpo, transfigurado: Deus, que formou a carne, não perde nada do pó em que ela se desfaz. Na vida eterna não haverá matrimônio, porque já não haverá morte a vencer pela geração, e Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os saduceus, que dizem não haver ressurreição, perguntaram a Jesus: “Mestre, havia entre nós sete irmãos; o primeiro casou e morreu sem filhos, deixando a mulher a seu irmão; o mesmo aconteceu ao segundo, ao terceiro, até o sétimo. Na ressurreição, de qual dos sete será ela mulher?” Jesus respondeu: “Errais, não conhecendo as Escrituras nem o poder de Deus. Na ressurreição nem os homens terão mulheres, nem as mulheres maridos, mas serão como os anjos de Deus no céu. Não lestes o que Deus vos disse: Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó? Ele não é Deus de mortos, mas de vivos”.",
+    "meditatio_perguntas": [
+      "Creio de verdade na ressurreição da carne?",
+      "Conheço as Escrituras o suficiente para não “errar” sobre Deus?",
+      "Vivo como quem pertence ao Deus dos vivos?"
+    ],
+    "oratio_guia": "Deus de Abraão, de Isaac e de Jacó, Deus dos vivos, fortalece a minha fé na ressurreição. Faz-me conhecer as tuas Escrituras e confiar no teu poder, que vence a morte. Amém.",
+    "contemplatio_foco": { "texto": "Não é Deus de mortos, mas de vivos.", "ref": "Mt 22,32" }
+  },
+  "ancoras": {
+    "22:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:23–33#0", "sintese": "A derrota dos que vieram antes devia tê-los contido; mas a presunção é desavergonhada." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:23–33#2", "sintese": "Os fariseus ostentavam a justiça das tradições; os saduceus negavam a ressurreição do corpo." }
+      ],
+      "nota": null
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:23–33#9", "sintese": "Não crendo na ressurreição, inventaram uma fábula para mostrar o absurdo dessa fé." },
+        { "autor": "Santo Agostinho", "obra": "Enchiridion 88", "catena": "22:23–33#6", "sintese": "A matéria de que se forma a carne não perece diante de Deus, em qualquer pó ou cinza em que se desfaça." }
+      ],
+      "nota": null
+    },
+    "22:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:23–33#12", "sintese": "Erram porque não conhecem as Escrituras e, por isso, não conhecem o poder de Deus." }
+      ],
+      "nota": null
+    },
+    "22:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:23–33#18", "sintese": "Negavam a ressurreição por supor que a condição dos ressuscitados seria a mesma; Jesus remove essa razão." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:23–33#20", "sintese": "“Como os anjos de Deus no céu”: garantia de que a nossa vida no céu será espiritual." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 22, 17", "catena": "22:23–33#23", "sintese": "Pensam com mais acerto os que não duvidam que ambos os sexos ressuscitarão, sem a concupiscência que causa vergonha." }
+      ],
+      "nota": null
+    },
+    "22:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:23–33#26", "sintese": "Como apresentaram Moisés, refuta-os por Moisés." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:23–33#29", "sintese": "Foi dito a Moisés quando os patriarcas já tinham morrido: aqueles de quem Ele era Deus existiam." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

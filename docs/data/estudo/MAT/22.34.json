@@ -1,0 +1,82 @@
+{
+  "id": "MAT.22.34",
+  "livro": "MAT",
+  "titulo": "O maior mandamento; o Filho de David",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 22,34-46",
+  "ini": { "c": 22, "v": 34 },
+  "fim": { "c": 22, "v": 46 },
+  "liturgia": { "tema_central": "Amar a Deus de todo o coração e ao próximo como a si mesmo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um doutor da Lei pergunta, para o tentar, qual é o maior mandamento da Lei (os rabinos contavam 613 preceitos e discutiam a sua hierarquia). Jesus une dois textos: “Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento” (Dt 6,5, do Shemá, a oração diária de Israel) e “amarás o teu próximo como a ti mesmo” (Lv 19,18). Destes dois mandamentos dependem toda a Lei e os Profetas. Depois Jesus pergunta aos fariseus: de quem é filho o Cristo? “De Davi.” Como então Davi, inspirado, o chama “Senhor” no Sl 110,1? Ninguém lhe sabe responder, e desde então ninguém ousa interrogá-lo.",
+    "alegorico": "O Messias é filho de Davi segundo a carne e Senhor de Davi pela sua geração eterna do Pai: a pergunta aponta para a divindade de Cristo. Ele mesmo cumpre perfeitamente o duplo mandamento, amando o Pai até a Cruz e os homens até dar a vida.",
+    "moral": "Toda a Lei se resume no amor. Amar a Deus “de todo” o coração significa dar-lhe todos os pensamentos, toda a vida e toda a inteligência, sem deixar parte vazia para outra coisa. O próximo é todo homem; amá-lo retamente é amá-lo em Deus, porque é justo ou para que se torne justo. Os dois amores são inseparáveis.",
+    "anagogico": "O amor é o único mandamento que permanece na eternidade: a fé e a esperança passarão, a caridade não (1Cor 13,8-13). Cristo sentado à direita do Pai, até que os inimigos sejam postos por escabelo, é o Senhor da história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um doutor da Lei perguntou a Jesus, para o tentar: “Mestre, qual é o maior mandamento da Lei?” Jesus respondeu: “Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento. Este é o maior e o primeiro mandamento. O segundo é semelhante a este: Amarás o teu próximo como a ti mesmo. Destes dois mandamentos depende toda a Lei e os Profetas”. Depois perguntou aos fariseus: “Que vos parece do Cristo? De quem é filho?” Responderam: “De Davi”. Ele disse: “Como, pois, Davi, em espírito, lhe chama Senhor?”",
+    "meditatio_perguntas": [
+      "Há alguma parte do meu coração que eu ainda não entreguei a Deus?",
+      "Quem é o próximo que tenho mais dificuldade em amar?",
+      "Reconheço em Jesus não só o filho de Davi, mas o meu Senhor?"
+    ],
+    "oratio_guia": "Senhor meu Deus, quero amar-te de todo o coração, de toda a alma e de todo o entendimento. Ensina-me a amar o próximo como a mim mesmo, por amor de ti. Jesus, Filho de Davi, sê o Senhor da minha vida. Amém.",
+    "contemplatio_foco": { "texto": "Amarás o Senhor teu Deus de todo o teu coração.", "ref": "Mt 22,37" }
+  },
+  "ancoras": {
+    "22:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:34–40#0", "sintese": "Deviam ter aprendido a não tentar enganá-lo; mas o ódio e a inveja são pais do atrevimento." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:34–40#2", "sintese": "Fariseus e saduceus, até então inimigos, unem-se para tentar Jesus." }
+      ],
+      "nota": null
+    },
+    "22:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:34–40#8", "sintese": "Pergunta qual é o primeiro e grande mandamento para, sendo grande tudo o que Deus manda, impugnar qualquer resposta." }
+      ],
+      "nota": null
+    },
+    "22:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Doctr. Christ. 1, 22", "catena": "22:34–40#10", "sintese": "Todos os teus pensamentos, toda a tua vida e toda a tua inteligência sejam dados Àquele de quem os recebeste." }
+      ],
+      "nota": null
+    },
+    "22:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Doctr. Christ. 1, 30", "catena": "22:34–40#13", "sintese": "Todo homem deve ser tido por nosso próximo, porque a ninguém se deve fazer mal." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 8, 6", "catena": "22:34–40#14", "sintese": "Ama-se o homem porque é justo, ou para que seja justo; e assim também a si mesmo." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:34–40#17", "sintese": "O segundo é semelhante ao primeiro: a obrigação e o mérito de ambos são iguais." }
+      ],
+      "nota": null
+    },
+    "22:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 33", "catena": "22:34–40#18", "sintese": "“Dependem”: a eles se referem como a seu fim." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 8, 7", "catena": "22:34–40#21", "sintese": "Sendo dois os mandamentos, a Escritura muitas vezes põe um só pelos dois." }
+      ],
+      "nota": null
+    },
+    "22:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:41–46#2", "sintese": "Cristo é Senhor de Davi não pela descendência, mas pela geração eterna do Pai." }
+      ],
+      "nota": null
+    },
+    "22:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:41–46#10", "sintese": "Calaram-se, não por boa vontade, mas por não terem nada que dizer." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

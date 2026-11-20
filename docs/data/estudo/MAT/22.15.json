@@ -1,0 +1,68 @@
+{
+  "id": "MAT.22.15",
+  "livro": "MAT",
+  "titulo": "O tributo a César",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 22,15-22",
+  "ini": { "c": 22, "v": 15 },
+  "fim": { "c": 22, "v": 22 },
+  "liturgia": { "tema_central": "“Dai a César o que é de César, e a Deus o que é de Deus”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os fariseus enviam os seus discípulos com os herodianos (partidários da dinastia de Herodes, colaboradores de Roma) para apanhar Jesus. Depois de o elogiarem, perguntam: é lícito pagar o tributo a César? (o censo, imposto romano por pessoa, odiado pelo povo). Se dissesse “sim”, perderia o povo; se “não”, seria denunciado como rebelde. Jesus chama-os hipócritas e pede a moeda do tributo: um denário com a imagem e a inscrição de Tibério César. “Dai, pois, a César o que é de César, e a Deus o que é de Deus.” Admirados, retiram-se.",
+    "alegorico": "A moeda traz a imagem de César; o homem traz a imagem de Deus (Gn 1,27). Por isso o homem inteiro pertence a Deus. Cristo, sabedoria de Deus, discerne os pensamentos ocultos e desfaz as armadilhas com as próprias palavras dos adversários.",
+    "moral": "O cristão deve cumprir os seus deveres civis, pois goza da proteção e dos bens da sociedade; mas a obediência a César vale só no que não se opõe a Deus: o que se opõe já não é tributo de César, mas do Diabo. A Deus devemos o corpo, a alma e a vontade. A lisonja que prepara armadilhas é hipocrisia: ser uma coisa e fingir outra.",
+    "anagogico": "A imagem de Deus impressa em nós será restaurada e glorificada plenamente na eternidade, quando lhe devolvermos tudo o que é seu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os fariseus enviaram a Jesus os seus discípulos com os herodianos, dizendo: “Mestre, sabemos que és verdadeiro e ensinas o caminho de Deus segundo a verdade. Dize-nos: é lícito ou não pagar o tributo a César?” Jesus, conhecendo a sua malícia, disse: “Hipócritas, por que me tentais? Mostrai-me a moeda do tributo”. Apresentaram-lhe um denário. Jesus perguntou: “De quem é esta imagem e esta inscrição?” Responderam: “De César”. Disse-lhes: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”. Ouvindo isto, admiraram-se e, deixando-o, retiraram-se.",
+    "meditatio_perguntas": [
+      "Cumpro os meus deveres de cidadão com honestidade?",
+      "O que é de Deus em mim, e eu o estou devolvendo a Ele?",
+      "Sei distinguir quando a obediência humana se opõe à lei de Deus?"
+    ],
+    "oratio_guia": "Senhor, que me criaste à tua imagem, eu te devolvo o que é teu: o meu corpo, a minha alma e a minha vontade. Dá-me ser cidadão honesto e, acima de tudo, inteiramente teu. Amém.",
+    "contemplatio_foco": { "texto": "Dai, pois, a César o que é de César, e a Deus o que é de Deus.", "ref": "Mt 22,21" }
+  },
+  "ancoras": {
+    "22:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 70", "catena": "22:15–22#3", "sintese": "Enviam juntos os seus discípulos e os soldados de Herodes, para que qualquer resposta pudesse ser censurada." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:15–22#7", "sintese": "Pergunta lisonjeira e traiçoeira, que o provocava a temer antes a Deus que a César." }
+      ],
+      "nota": null
+    },
+    "22:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:15–22#2", "sintese": "Sob César Augusto a Judeia tornara-se tributária, e o povo dividia-se sobre se devia ou não pagar." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:15–22#8", "sintese": "Sabiam que alguns tinham sido mortos por tramar rebelião contra Roma; queriam fazê-lo cair na mesma suspeita." }
+      ],
+      "nota": null
+    },
+    "22:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:15–22#10", "sintese": "Discerne os pensamentos e não os chama discípulos, mas tentadores: hipócrita é quem é uma coisa e finge outra." }
+      ],
+      "nota": null
+    },
+    "22:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:15–22#13", "sintese": "Se nos servimos do que é de César e gozamos da proteção do seu poder, não podemos queixar-nos de lhe devolver o que é seu." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:15–22#14", "sintese": "Trata-se só do que não se opõe à religião; o que se opõe já não é tributo de César, mas do Diabo." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:15–22#16", "sintese": "Damos a Deus o corpo, a alma e a vontade: a moeda de César traz a sua imagem; a moeda de Deus é o homem, em quem está impressa a imagem de Deus." }
+      ],
+      "nota": null
+    },
+    "22:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:15–22#18", "sintese": "Os que deviam crer só se admiraram de que a sua astúcia não encontrasse modo de enredá-lo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

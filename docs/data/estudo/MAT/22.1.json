@@ -1,0 +1,104 @@
+{
+  "id": "MAT.22.1",
+  "livro": "MAT",
+  "titulo": "A parábola do banquete nupcial",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 22,1-14",
+  "ini": { "c": 22, "v": 1 },
+  "fim": { "c": 22, "v": 14 },
+  "liturgia": { "tema_central": "Todos convidados às bodas do Filho; a veste nupcial", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um rei faz as bodas do filho e envia servos a chamar os convidados, que não querem vir. Envia outros: o banquete está pronto. Uns desprezam o convite e vão ao campo ou ao negócio; outros maltratam e matam os servos. O rei, irado, envia os seus exércitos, destrói os homicidas e incendeia a cidade (alusão que os Padres ligaram à destruição de Jerusalém no ano 70). Manda então chamar todos os que se acharem nas encruzilhadas, maus e bons, e a sala se enche. Ao entrar, o rei vê um homem sem veste nupcial (traje de festa, talvez oferecido pelo anfitrião); este emudece e é lançado nas trevas exteriores. “Muitos são os chamados, poucos os escolhidos.”",
+    "alegorico": "O Pai faz as bodas do Filho ao uni-lo à natureza humana no seio da Virgem; a esposa é a Igreja. Os servos são os profetas e os apóstolos; os primeiros convidados, Israel; os chamados das encruzilhadas, os gentios. A sala de bodas é a Igreja presente, onde há bons e maus misturados até o juízo. A veste nupcial é a caridade, que Cristo trazia ao desposar a Igreja.",
+    "moral": "Por mais necessárias que sejam as ocupações deste mundo, as coisas espirituais devem vir antes. Não basta entrar na Igreja pela fé: é preciso a veste da caridade e das boas obras. Ninguém pode presumir de si: uns nem começam o bem, outros não perseveram. Vai às bodas sem veste nupcial quem busca a própria honra, e não a do Esposo.",
+    "anagogico": "As bodas do Filho consumam-se no banquete eterno, as núpcias do Cordeiro (Ap 19,7-9). O juízo separa os que têm a veste nupcial dos que não a têm; as trevas exteriores são a noite eterna da condenação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Reino dos Céus é semelhante a um rei que fez as bodas de seu filho. Enviou os seus servos a chamar os convidados, mas eles não quiseram vir. Enviou outros servos: “Dizei aos convidados: Preparei o meu banquete; vinde às bodas”. Mas eles não fizeram caso e foram-se, um para o seu campo, outro para o seu negócio; os outros mataram os servos. Disse então o rei: “Ide às saídas dos caminhos e convidai para as bodas todos os que encontrardes”. A sala encheu-se de convidados. Entrando o rei, viu um homem que não trazia veste nupcial: “Amigo, como entraste aqui sem veste nupcial?” Ele emudeceu. Porque muitos são os chamados, mas poucos os escolhidos.",
+    "meditatio_perguntas": [
+      "Que “campos” e “negócios” me fazem desprezar o convite de Deus?",
+      "Estou revestido da veste nupcial da caridade?",
+      "Busco nas coisas de Deus a minha honra ou a do Esposo?"
+    ],
+    "oratio_guia": "Pai, que me convidas às bodas do teu Filho, não permitas que as ocupações do mundo me afastem do teu banquete. Reveste-me da caridade, a veste nupcial, para que eu seja contado entre os escolhidos. Amém.",
+    "contemplatio_foco": { "texto": "Muitos são os chamados, mas poucos os escolhidos.", "ref": "Mt 22,14" }
+  },
+  "ancoras": {
+    "22:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 38 sobre os Evangelhos, 2", "catena": "22:1–14#3", "sintese": "Aqui o banquete nupcial é a Igreja presente, onde entram alguns que hão de sair; na ceia de Lucas, o banquete eterno." },
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#5", "sintese": "O Pai fez as bodas do Filho quando o uniu à natureza humana no seio da Virgem." }
+      ],
+      "nota": null
+    },
+    "22:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:1–14#10", "sintese": "O servo enviado é Moisés, por quem foi dada a Lei; ou, se se lê “servos”, os profetas." }
+      ],
+      "nota": null
+    },
+    "22:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#20", "sintese": "No segundo convite anuncia que os animais já estão mortos: quando não ouvimos as palavras, Deus propõe exemplos." }
+      ],
+      "nota": null
+    },
+    "22:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:1–14#25", "sintese": "Por mais necessárias que sejam as ocupações, devemos preferir a tudo as coisas espirituais." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "22:1–14#28", "sintese": "Quem, entregue às ocupações do mundo, deixa de meditar na paixão do Senhor recusa as bodas do Rei." }
+      ],
+      "nota": null
+    },
+    "22:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:1–14#30", "sintese": "Quando convidava, era chamado “homem rei”; agora, que vem castigar, chama-se só Rei." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "22:1–14#32", "sintese": "Os exércitos são os romanos de Vespasiano e Tito, que reduziram a cinzas a cidade infiel." }
+      ],
+      "nota": null
+    },
+    "22:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:1–14#42", "sintese": "O caminho é o tempo deste mundo; enviam-se às saídas dos caminhos porque a todos se oferece o perdão do passado." }
+      ],
+      "nota": null
+    },
+    "22:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#46", "sintese": "Na Igreja presente não pode haver maus sem bons, nem bons sem maus; não é bom quem se recusa a suportar os maus." }
+      ],
+      "nota": null
+    },
+    "22:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#50", "sintese": "A veste nupcial é a caridade, que o Senhor trazia quando veio desposar consigo a Igreja." },
+        { "autor": "Santo Agostinho", "obra": "Contra Faustum 22, 19", "catena": "22:1–14#51", "sintese": "Vai às bodas sem veste nupcial quem busca a sua própria honra, e não a do Esposo." }
+      ],
+      "nota": null
+    },
+    "22:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#59", "sintese": "As trevas interiores são a cegueira do coração; as exteriores, a noite eterna da condenação." }
+      ],
+      "nota": null
+    },
+    "22:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "22:1–14#64", "sintese": "Convidar a todos é próprio da bondade pública; mas a escolha far-se-á pela distinção dos méritos." },
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "22:1–14#65", "sintese": "Uns não começam o bem, outros não perseveram; cuide cada um de si, pois ignora o que está por vir." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
