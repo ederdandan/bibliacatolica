@@ -360,7 +360,9 @@ async function homeView(signal) {
   const st = S.get();
   const meta = B.meta();
   const votd = P.verseOfDay();
-  const votdText = await B.verseText(votd.b, votd.c, votd.v);
+  const votdCh = await B.chapter(votd.b, votd.c);
+  const votdVs = Array.from({ length: votd.to - votd.v + 1 }, (_, i) => votd.v + i);
+  const votdText = P.votdText(votdVs.map((n) => votdCh?.[n - 1] ?? ''));
   if (signal.aborted) return;
   const last = st.last && B.book(st.last.b) ? st.last : null;
   const lastBook = last ? B.book(last.b) : B.book('GEN');
@@ -373,7 +375,7 @@ async function homeView(signal) {
   const dateStr = new Intl.DateTimeFormat('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' }).format(new Date());
   const groups = groupNames().map((g) => ({ g, n: B.books().filter((b) => b.group === g).length }));
   const recent = st.history.slice(0, 8).filter((h) => B.book(h.b));
-  const votdRef = B.fmtRef(votd.b, votd.c, votd.v, { long: true });
+  const votdRef = B.fmtRef(votd.b, votd.c, votdVs, { long: true });
 
   view.innerHTML = `<div class="page">
     <div class="hero">
