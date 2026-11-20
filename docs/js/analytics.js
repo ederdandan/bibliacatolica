@@ -1,9 +1,9 @@
 // Estatísticas de uso anônimas via GoatCounter (sem cookies, sem dados pessoais).
 // O app usa rotas por hash (#/ler/GEN/1), que o GoatCounter ignora por padrão,
 // então as visitas são contadas manualmente a cada troca de rota.
-// Painel: https://bibliacatolica.goatcounter.com/
+// Painel: https://estudo-biblico-catolico.goatcounter.com/
 
-const ENDPOINT = 'https://bibliacatolica.goatcounter.com/count';
+const ENDPOINT = 'https://estudo-biblico-catolico.goatcounter.com/count';
 const SCRIPT = 'https://gc.zgo.at/count.js';
 
 const queue = [];
