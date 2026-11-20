@@ -4,9 +4,18 @@
   "titulo": "A agonia no Getsêmani",
   "secao": "A Paixão e a Morte do Senhor",
   "referencia": "Mt 26,36-46",
-  "ini": { "c": 26, "v": 36 },
-  "fim": { "c": 26, "v": 46 },
-  "liturgia": { "tema_central": "“Não como eu quero, mas como tu queres”", "usos": [] },
+  "ini": {
+    "c": 26,
+    "v": 36
+  },
+  "fim": {
+    "c": 26,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "“Não como eu quero, mas como tu queres”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Jesus vai com os discípulos ao Getsêmani (“lagar de azeite”, um horto ao pé do monte das Oliveiras). Toma consigo Pedro, Tiago e João, as testemunhas da Transfiguração, e começa a entristecer-se e angustiar-se: “A minha alma está triste até a morte; ficai aqui e vigiai comigo”. Prostrado, reza: “Meu Pai, se é possível, passe de mim este cálice; todavia, não como eu quero, mas como tu queres”. Encontra os discípulos dormindo: “Vigiai e orai, para que não entreis em tentação; o espírito está pronto, mas a carne é fraca”. Reza três vezes; por fim diz: “Chegou a hora; o Filho do Homem vai ser entregue nas mãos dos pecadores. Levantai-vos, vamos”.",
     "alegorico": "No jardim, Cristo, o novo Adão, repara a desobediência do primeiro: onde Adão disse “não” a Deus, Ele diz “seja feita a tua vontade”. A sua tristeza revela a verdade da humanidade assumida, com alma racional e vontade humana, que se submete livremente à vontade divina. A sua oração é a da Cabeça por todo o Corpo.",
@@ -21,74 +30,147 @@
       "Vigio e oro com Jesus, ou durmo na hora da prova?"
     ],
     "oratio_guia": "Meu Pai, se é possível, afasta de mim este cálice; todavia, não como eu quero, mas como tu queres. Senhor Jesus, que vigiaste e oraste por todos, dá-me força para vigiar contigo e para não entrar em tentação. Amém.",
-    "contemplatio_foco": { "texto": "Não como eu quero, mas como tu queres.", "ref": "Mt 26,39" }
+    "contemplatio_foco": {
+      "texto": "Todavia não se faça como eu quero, mas sim como tu queres.",
+      "ref": "Mt 26,39"
+    }
   },
   "ancoras": {
     "26:36": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:36–38#2", "sintese": "Getsêmani interpreta-se “vale fertilíssimo”; ali manda os discípulos esperar, enquanto ora sozinho por todos." },
-        { "autor": "São João Crisóstomo", "obra": "Hom. 83", "catena": "26:36–38#4", "sintese": "Era seu costume orar à parte, ensinando-nos a buscar o silêncio e o recolhimento para a oração." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:36–38#2",
+          "sintese": "Getsêmani interpreta-se “vale fertilíssimo”; ali manda os discípulos esperar, enquanto ora sozinho por todos."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 83",
+          "catena": "26:36–38#4",
+          "sintese": "Era seu costume orar à parte, ensinando-nos a buscar o silêncio e o recolhimento para a oração."
+        }
       ],
       "nota": null
     },
     "26:37": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:36–38#12", "sintese": "Não se entristeceu por medo de padecer, mas por Judas, pelo escândalo dos apóstolos, pela rejeição do seu povo e pela ruína de Jerusalém." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:36–38#14", "sintese": "Entristeceu-se para provar a realidade da humanidade assumida; mas “começou” a entristecer-se, para que a paixão não dominasse o seu espírito." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:36–38#12",
+          "sintese": "Não se entristeceu por medo de padecer, mas por Judas, pelo escândalo dos apóstolos, pela rejeição do seu povo e pela ruína de Jerusalém."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:36–38#14",
+          "sintese": "Entristeceu-se para provar a realidade da humanidade assumida; mas “começou” a entristecer-se, para que a paixão não dominasse o seu espírito."
+        }
       ],
       "nota": null
     },
     "26:38": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:36–38#20", "sintese": "Triste não por causa da morte, mas até a morte, até libertar os apóstolos pela sua paixão." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:36–38#20",
+          "sintese": "Triste não por causa da morte, mas até a morte, até libertar os apóstolos pela sua paixão."
+        }
       ],
       "nota": null
     },
     "26:39": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 3, 4", "catena": "26:39–44#3", "sintese": "Não diz “se podes”, mas “se é possível”, para não limitar o poder do Pai." },
-        { "autor": "Santo Agostinho", "obra": "Enarr. in Ps. 32, 2", "catena": "26:39–44#5", "sintese": "Como homem, mostra uma vontade humana; e, como Cabeça, ensina-nos a dirigi-la a Deus: “não como eu quero”." },
-        { "autor": "São Leão Magno", "obra": "Serm. 58, 5", "catena": "26:39–44#6", "sintese": "Esta palavra da Cabeça é a salvação de todo o corpo: instruiu os fiéis, animou os confessores, coroou os mártires." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Cons. Evang. 3, 4",
+          "catena": "26:39–44#3",
+          "sintese": "Não diz “se podes”, mas “se é possível”, para não limitar o poder do Pai."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Enarr. in Ps. 32, 2",
+          "catena": "26:39–44#5",
+          "sintese": "Como homem, mostra uma vontade humana; e, como Cabeça, ensina-nos a dirigi-la a Deus: “não como eu quero”."
+        },
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 58, 5",
+          "catena": "26:39–44#6",
+          "sintese": "Esta palavra da Cabeça é a salvação de todo o corpo: instruiu os fiéis, animou os confessores, coroou os mártires."
+        }
       ],
       "nota": null
     },
     "26:40": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:39–44#10", "sintese": "Escolheram morrer com Cristo e nem sequer puderam vigiar com Ele." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:39–44#10",
+          "sintese": "Escolheram morrer com Cristo e nem sequer puderam vigiar com Ele."
+        }
       ],
       "nota": null
     },
     "26:41": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:39–44#12", "sintese": "Não diz “para não serdes tentados”, mas “para não entrardes em tentação”, isto é, para que ela não vos vença." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:39–44#14", "sintese": "Quanto mais confiantes no nosso fervor, mais devemos desconfiar da fragilidade da carne." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:39–44#12",
+          "sintese": "Não diz “para não serdes tentados”, mas “para não entrardes em tentação”, isto é, para que ela não vos vença."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:39–44#14",
+          "sintese": "Quanto mais confiantes no nosso fervor, mais devemos desconfiar da fragilidade da carne."
+        }
       ],
       "nota": null
     },
     "26:44": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:39–44#21", "sintese": "Cristo ora sozinho por todos, assim como padece sozinho por todos." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:39–44#21",
+          "sintese": "Cristo ora sozinho por todos, assim como padece sozinho por todos."
+        }
       ],
       "nota": null
     },
     "26:45": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:45–46#6", "sintese": "“Chegou a hora”: tudo foi por disposição divina; “nas mãos dos pecadores”: foi obra da maldade deles." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:45–46#6",
+          "sintese": "“Chegou a hora”: tudo foi por disposição divina; “nas mãos dos pecadores”: foi obra da maldade deles."
+        }
       ],
       "nota": null
     },
     "26:46": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:45–46#8", "sintese": "Terminada a terceira oração, sai sem temor ao encontro dos que o perseguem." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:45–46#8",
+          "sintese": "Terminada a terceira oração, sai sem temor ao encontro dos que o perseguem."
+        }
       ],
       "nota": null
     }

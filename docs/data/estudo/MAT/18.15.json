@@ -4,9 +4,18 @@
   "titulo": "A correção fraterna e a oração em comum",
   "secao": "O discurso sobre a Igreja",
   "referencia": "Mt 18,15-20",
-  "ini": { "c": 18, "v": 15 },
-  "fim": { "c": 18, "v": 20 },
-  "liturgia": { "tema_central": "Ganhar o irmão; “onde dois ou três estão reunidos em meu nome”", "usos": [] },
+  "ini": {
+    "c": 18,
+    "v": 15
+  },
+  "fim": {
+    "c": 18,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Ganhar o irmão; “onde dois ou três estão reunidos em meu nome”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Jesus dá um procedimento gradual para quando um irmão peca: primeiro, repreendê-lo a sós; se não ouvir, levar uma ou duas testemunhas (como exigia Dt 19,15); se ainda não ouvir, dizer à Igreja (ekklesia, a comunidade reunida, aqui com autoridade); se não ouvir nem a Igreja, seja considerado como pagão e publicano, isto é, fora da comunhão. Segue o poder de ligar e desligar, dado agora aos discípulos como colégio (cf. 16,19 a Pedro). Por fim, a promessa: se dois concordarem na oração, o Pai concederá; onde dois ou três estão reunidos em seu nome, Ele está no meio deles.",
     "alegorico": "A Igreja aparece como comunidade com autoridade vinda de Cristo: o que ela liga na terra é ligado no céu. A presença de Cristo no meio dos reunidos em seu nome é a nova Shekiná, a presença de Deus que habitava no Templo; Ele é o “Emanuel”, Deus conosco (1,23; 28,20).",
@@ -21,54 +30,117 @@
       "Rezo em comunhão com outros, crendo na presença de Cristo no meio de nós?"
     ],
     "oratio_guia": "Senhor Jesus, presente no meio dos que se reúnem em teu nome, dá-me a caridade e a coragem de corrigir o irmão com mansidão, buscando ganhá-lo para ti. Une-nos na oração e na concórdia. Amém.",
-    "contemplatio_foco": { "texto": "Onde estão dois ou três reunidos em meu nome, aí estou eu no meio deles.", "ref": "Mt 18,20" }
+    "contemplatio_foco": {
+      "texto": "Onde se acham dois ou três congregados em meu nome…",
+      "ref": "Mt 18,20"
+    }
   },
   "ancoras": {
     "18:15": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "Serm. 82, 1", "catena": "18:15–17#1", "sintese": "Não descuidar as faltas uns dos outros: a repreensão deve ser amorosa, não desejosa de ferir." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:15–17#5", "sintese": "Não diz “acusa-o” nem “castiga-o”, mas “repreende-o”: ele está como quem dorme, e cabe a ti, que estás são, ir ter com o doente." },
-        { "autor": "Santo Agostinho", "obra": "Serm. 82, 7", "catena": "18:15–17#8", "sintese": "Esquece a ofensa que te fez, mas não a ferida do teu irmão." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:15–17#11", "sintese": "Não diz “ganhou-se a si mesmo”, mas “ganhaste-o tu”: a inimizade é perda para ambos." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Serm. 82, 1",
+          "catena": "18:15–17#1",
+          "sintese": "Não descuidar as faltas uns dos outros: a repreensão deve ser amorosa, não desejosa de ferir."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:15–17#5",
+          "sintese": "Não diz “acusa-o” nem “castiga-o”, mas “repreende-o”: ele está como quem dorme, e cabe a ti, que estás são, ir ter com o doente."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Serm. 82, 7",
+          "catena": "18:15–17#8",
+          "sintese": "Esquece a ofensa que te fez, mas não a ferida do teu irmão."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:15–17#11",
+          "sintese": "Não diz “ganhou-se a si mesmo”, mas “ganhaste-o tu”: a inimizade é perda para ambos."
+        }
       ],
       "nota": null
     },
     "18:16": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:15–17#12", "sintese": "Salvando o outro, alcança-se também para nós a salvação." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:15–17#12",
+          "sintese": "Salvando o outro, alcança-se também para nós a salvação."
+        }
       ],
       "nota": null
     },
     "18:17": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:15–17#16", "sintese": "“Dize-o à Igreja”: isto é, aos que presidem à Igreja." },
-        { "autor": "Santo Agostinho", "obra": "Serm. 82, 7", "catena": "18:15–17#18", "sintese": "Não o tenhas já entre os teus irmãos; mas nem assim descuides a sua salvação, como também buscamos a dos pagãos." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:15–17#16",
+          "sintese": "“Dize-o à Igreja”: isto é, aos que presidem à Igreja."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Serm. 82, 7",
+          "catena": "18:15–17#18",
+          "sintese": "Não o tenhas já entre os teus irmãos; mas nem assim descuides a sua salvação, como também buscamos a dos pagãos."
+        }
       ],
       "nota": null
     },
     "18:18": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:18–20#3", "sintese": "Põe o incorrigível sob dupla pena: a expulsão da Igreja agora e o ser ligado no céu." },
-        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "18:18–20#4", "sintese": "Quando tens o irmão por publicano, ligas-o na terra; mas vê que o ligues justamente, pois a justiça rompe os laços injustos." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:18–20#3",
+          "sintese": "Põe o incorrigível sob dupla pena: a expulsão da Igreja agora e o ser ligado no céu."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "ubi sup.",
+          "catena": "18:18–20#4",
+          "sintese": "Quando tens o irmão por publicano, ligas-o na terra; mas vê que o ligues justamente, pois a justiça rompe os laços injustos."
+        }
       ],
       "nota": null
     },
     "18:19": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:18–20#9", "sintese": "Todo o discurso convidou à concórdia; agora, para nos fazer abraçar a paz, promete uma recompensa." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:18–20#9",
+          "sintese": "Todo o discurso convidou à concórdia; agora, para nos fazer abraçar a paz, promete uma recompensa."
+        }
       ],
       "nota": null
     },
     "18:20": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:18–20#10", "sintese": "Não diz só “reunidos”, mas “em meu nome”: quando não obtêm, é porque pedem coisas inconvenientes ou não fazem a sua parte." },
-        { "autor": "Santo Hilário", "obra": null, "catena": "18:18–20#8", "sintese": "Aquele que é paz e caridade estabelece a sua morada nas disposições boas e pacíficas." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:18–20#10",
+          "sintese": "Não diz só “reunidos”, mas “em meu nome”: quando não obtêm, é porque pedem coisas inconvenientes ou não fazem a sua parte."
+        },
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "18:18–20#8",
+          "sintese": "Aquele que é paz e caridade estabelece a sua morada nas disposições boas e pacíficas."
+        }
       ],
       "nota": null
     }

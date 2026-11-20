@@ -4,9 +4,18 @@
   "titulo": "A parábola dos talentos",
   "secao": "O discurso escatológico",
   "referencia": "Mt 25,14-30",
-  "ini": { "c": 25, "v": 14 },
-  "fim": { "c": 25, "v": 30 },
-  "liturgia": { "tema_central": "“Servo bom e fiel… entra na alegria do teu senhor”", "usos": [] },
+  "ini": {
+    "c": 25,
+    "v": 14
+  },
+  "fim": {
+    "c": 25,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“Servo bom e fiel… entra na alegria do teu senhor”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Um homem, antes de viajar, confia os seus bens aos servos: cinco talentos a um, dois a outro, um ao terceiro, a cada um segundo a sua capacidade. O talento era uma unidade de peso de prata ou ouro, equivalente a cerca de seis mil denários, ou seja, muitos anos de salário (daí o sentido moderno de “talento” como dom). Os dois primeiros negociam e dobram o que receberam; o terceiro enterra o seu. Depois de muito tempo, o senhor volta e pede contas: aos dois primeiros diz “servo bom e fiel, foste fiel no pouco, eu te confiarei muito; entra na alegria do teu senhor”. O terceiro desculpa-se com o medo e acusa o senhor de duro. O senhor tira-lhe o talento e o dá ao que tem dez; o servo inútil é lançado nas trevas exteriores.",
     "alegorico": "O homem que parte é Cristo, que subiu ao céu e voltará para julgar. Os talentos são os dons da graça, distribuídos segundo a capacidade de cada um: a Palavra, os sacramentos, as capacidades naturais e sobrenaturais. O longo tempo é o intervalo entre a Ascensão e a segunda vinda. Esconder o talento na terra é empregar nos negócios terrenos a capacidade recebida.",
@@ -21,81 +30,159 @@
       "Vejo Deus como senhor duro ou como Pai que me confia os seus bens?"
     ],
     "oratio_guia": "Senhor, que me confiaste os teus dons, livra-me do medo e da preguiça que enterram a graça. Ensina-me a fazê-la frutificar no serviço dos irmãos, para que um dia eu ouça: “Servo bom e fiel, entra na alegria do teu senhor”. Amém.",
-    "contemplatio_foco": { "texto": "Entra no gozo do teu senhor.", "ref": "Mt 25,21" }
+    "contemplatio_foco": {
+      "texto": "Entra no gozo de teu senhor.",
+      "ref": "Mt 25,21"
+    }
   },
   "ancoras": {
     "25:14": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Hom. 9 sobre os Evangelhos, 1", "catena": "25:14–30#2", "sintese": "O homem que parte para longe é o Redentor, que subiu ao céu na carne que assumira." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:14–30#1", "sintese": "É dita contra os que não ajudam o próximo nem com dinheiro, nem com palavras, mas escondem tudo o que têm." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 9 sobre os Evangelhos, 1",
+          "catena": "25:14–30#2",
+          "sintese": "O homem que parte para longe é o Redentor, que subiu ao céu na carne que assumira."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "25:14–30#1",
+          "sintese": "É dita contra os que não ajudam o próximo nem com dinheiro, nem com palavras, mas escondem tudo o que têm."
+        }
       ],
       "nota": null
     },
     "25:15": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "25:14–30#4", "sintese": "Deu a um mais, a outro menos, não por generosidade ou parcimônia, mas segundo a capacidade de quem recebia." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "25:14–30#4",
+          "sintese": "Deu a um mais, a outro menos, não por generosidade ou parcimônia, mas segundo a capacidade de quem recebia."
+        }
       ],
       "nota": null
     },
     "25:18": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "25:14–30#15", "sintese": "Esconder o talento na terra é aplicar aos negócios terrenos a capacidade recebida." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "25:14–30#15",
+          "sintese": "Esconder o talento na terra é aplicar aos negócios terrenos a capacidade recebida."
+        }
       ],
       "nota": null
     },
     "25:19": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "25:14–30#20", "sintese": "Muito tempo: há longo intervalo entre a ascensão do Salvador e a sua segunda vinda." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:14–30#19", "sintese": "Não exige logo as contas, para que aprendas a sua longanimidade." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "25:14–30#20",
+          "sintese": "Muito tempo: há longo intervalo entre a ascensão do Salvador e a sua segunda vinda."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "25:14–30#19",
+          "sintese": "Não exige logo as contas, para que aprendas a sua longanimidade."
+        }
       ],
       "nota": null
     },
     "25:21": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "25:14–30#27", "sintese": "Tudo o que agora temos, ainda que pareça muito, é pouco em comparação com as coisas futuras." },
-        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 8", "catena": "25:14–30#31", "sintese": "A alegria plena é gozar da Trindade divina, à imagem da qual fomos feitos." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "25:14–30#27",
+          "sintese": "Tudo o que agora temos, ainda que pareça muito, é pouco em comparação com as coisas futuras."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Trin. 1, 8",
+          "catena": "25:14–30#31",
+          "sintese": "A alegria plena é gozar da Trindade divina, à imagem da qual fomos feitos."
+        }
       ],
       "nota": null
     },
     "25:23": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "25:14–30#32", "sintese": "São recebidos com igual favor: o pai de família não olha a grandeza do lucro, mas a disposição da vontade." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "25:14–30#32",
+          "sintese": "São recebidos com igual favor: o pai de família não olha a grandeza do lucro, mas a disposição da vontade."
+        }
       ],
       "nota": null
     },
     "25:25": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "25:14–30#38", "sintese": "Muitos na Igreja temem entrar numa vida melhor e não temem permanecer na preguiça." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "25:14–30#38",
+          "sintese": "Muitos na Igreja temem entrar numa vida melhor e não temem permanecer na preguiça."
+        }
       ],
       "nota": null
     },
     "25:26": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "25:14–30#40", "sintese": "A desculpa tornou-se condenação: mau, porque caluniou o seu Senhor; preguiçoso, porque não quis dobrar o talento." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "25:14–30#40",
+          "sintese": "A desculpa tornou-se condenação: mau, porque caluniou o seu Senhor; preguiçoso, porque não quis dobrar o talento."
+        }
       ],
       "nota": null
     },
     "25:29": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Hom. 9 sobre os Evangelhos, 6", "catena": "25:14–30#47", "sintese": "Quem tem caridade recebe também os outros dons; quem não a tem perde até os que parecia ter." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:14–30#48", "sintese": "Quem tem a graça da palavra e não a usa perde-a; quem se esforça por usá-la recebe mais." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 9 sobre os Evangelhos, 6",
+          "catena": "25:14–30#47",
+          "sintese": "Quem tem caridade recebe também os outros dons; quem não a tem perde até os que parecia ter."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "25:14–30#48",
+          "sintese": "Quem tem a graça da palavra e não a usa perde-a; quem se esforça por usá-la recebe mais."
+        }
       ],
       "nota": null
     },
     "25:30": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "25:14–30#56", "sintese": "Não só quem rouba ou faz o mal é castigado, mas também quem não faz o bem." },
-        { "autor": "São Gregório Magno", "obra": "Hom. 9 sobre os Evangelhos, 7", "catena": "25:14–30#57", "sintese": "Quem tem inteligência não se cale; quem tem riquezas não se entorpeça na misericórdia." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "25:14–30#56",
+          "sintese": "Não só quem rouba ou faz o mal é castigado, mas também quem não faz o bem."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 9 sobre os Evangelhos, 7",
+          "catena": "25:14–30#57",
+          "sintese": "Quem tem inteligência não se cale; quem tem riquezas não se entorpeça na misericórdia."
+        }
       ],
       "nota": null
     }

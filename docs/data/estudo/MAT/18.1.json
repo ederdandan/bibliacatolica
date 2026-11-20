@@ -4,9 +4,18 @@
   "titulo": "Quem é o maior; os pequeninos e a ovelha perdida",
   "secao": "O discurso sobre a Igreja",
   "referencia": "Mt 18,1-14",
-  "ini": { "c": 18, "v": 1 },
-  "fim": { "c": 18, "v": 14 },
-  "liturgia": { "tema_central": "Tornar-se como criança; não desprezar nenhum dos pequeninos", "usos": [] },
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Tornar-se como criança; não desprezar nenhum dos pequeninos",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Abre-se o quarto grande discurso de Mateus, sobre a vida da comunidade. Os discípulos perguntam quem é o maior no Reino. Jesus põe uma criança no meio deles (na época, alguém sem estatuto nem direitos): quem não se converter e não se fizer como criança não entrará no Reino; quem receber uma criança em seu nome recebe a Ele. Ai de quem escandalizar (fizer tropeçar na fé) um destes pequeninos: melhor seria afogar-se com uma mó de moinho ao pescoço. É preciso cortar mão, pé ou olho que levem ao pecado (hipérbole semítica que pede ruptura radical com as ocasiões de pecado). Os anjos dos pequeninos veem sempre a face do Pai. A parábola da ovelha perdida mostra que o Pai não quer que nenhum se perca.",
     "alegorico": "Cristo mesmo é o “pequenino” que veio para servir, e é recebido em cada pequeno. O pastor que deixa as noventa e nove nos montes e busca a ovelha perdida é o Verbo que deixa a glória celeste para buscar a humanidade extraviada. Os anjos da guarda, que veem a face do Pai, mostram a dignidade de cada alma.",
@@ -21,76 +30,159 @@
       "Quem é a “ovelha perdida” que Deus me pede para buscar?"
     ],
     "oratio_guia": "Senhor Jesus, que te fizeste pequeno para nos salvar, dá-me um coração de criança, confiante e humilde. Livra-me de escandalizar os pequeninos e faz-me pastor das ovelhas perdidas, como tu. Amém.",
-    "contemplatio_foco": { "texto": "Se não vos converterdes e não vos fizerdes como crianças, não entrareis no Reino dos Céus.", "ref": "Mt 18,3" }
+    "contemplatio_foco": {
+      "texto": "Se vos não converterdes e vos não tornardes como meninos, não entrareis no reino dos céus.",
+      "ref": "Mt 18,3"
+    }
   },
   "ancoras": {
     "18:1": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:1–6#0", "sintese": "Vendo pago o mesmo tributo por Pedro e pelo Senhor, pensaram que Pedro era preferido aos demais." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:1–6#1", "sintese": "Envergonhados, não perguntam “por que honraste Pedro?”, mas em geral: “quem é o maior?”" }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:1–6#0",
+          "sintese": "Vendo pago o mesmo tributo por Pedro e pelo Senhor, pensaram que Pedro era preferido aos demais."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:1–6#1",
+          "sintese": "Envergonhados, não perguntam “por que honraste Pedro?”, mas em geral: “quem é o maior?”"
+        }
       ],
       "nota": null
     },
     "18:2": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:1–6#3", "sintese": "Quis curar-lhes a ambição despertando a emulação da humildade." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:1–6#5", "sintese": "Ou pôs-se a si mesmo no meio deles, o pequenino que não veio para ser servido, mas para servir, como modelo de humildade." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:1–6#3",
+          "sintese": "Quis curar-lhes a ambição despertando a emulação da humildade."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:1–6#5",
+          "sintese": "Ou pôs-se a si mesmo no meio deles, o pequenino que não veio para ser servido, mas para servir, como modelo de humildade."
+        }
       ],
       "nota": null
     },
     "18:3": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "18:1–6#6", "sintese": "As crianças seguem o pai, amam a mãe, não conhecem o ódio, não mentem e creem no que ouvem." }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "18:1–6#6",
+          "sintese": "As crianças seguem o pai, amam a mãe, não conhecem o ódio, não mentem e creem no que ouvem."
+        }
       ],
       "nota": null
     },
     "18:6": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:1–6#13", "sintese": "Quem se escandaliza é pequenino; e os apóstolos, disputando a primazia, poderiam escandalizar os chamados à fé." },
-        { "autor": "São Gregório Magno", "obra": "Moral. 6, 37", "catena": "18:1–6#18", "sintese": "O mar é o mundo, e a mó a ação terrena que prende o pescoço ao jugo dos desejos vãos." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:1–6#13",
+          "sintese": "Quem se escandaliza é pequenino; e os apóstolos, disputando a primazia, poderiam escandalizar os chamados à fé."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 6, 37",
+          "catena": "18:1–6#18",
+          "sintese": "O mar é o mundo, e a mó a ação terrena que prende o pescoço ao jugo dos desejos vãos."
+        }
       ],
       "nota": null
     },
     "18:7": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": "Hom. 59", "catena": "18:7–9#2", "sintese": "Os escândalos não acontecem porque Ele os predisse; predisse-os porque certamente haviam de acontecer." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 59",
+          "catena": "18:7–9#2",
+          "sintese": "Os escândalos não acontecem porque Ele os predisse; predisse-os porque certamente haviam de acontecer."
+        }
       ],
       "nota": null
     },
     "18:8": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:7–9#9", "sintese": "Não fala dos membros do corpo, mas dos amigos que temos por necessários: nada é tão nocivo como as más companhias." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:7–9#11", "sintese": "Cortam-se todo afeto e parentesco, para que, sob pretexto de dever, nenhum fiel fique exposto ao escândalo." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "18:7–9#9",
+          "sintese": "Não fala dos membros do corpo, mas dos amigos que temos por necessários: nada é tão nocivo como as más companhias."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:7–9#11",
+          "sintese": "Cortam-se todo afeto e parentesco, para que, sob pretexto de dever, nenhum fiel fique exposto ao escândalo."
+        }
       ],
       "nota": null
     },
     "18:10": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:10–14#8", "sintese": "Grande é a dignidade das almas: cada uma tem, desde o nascimento, um anjo encarregado da sua guarda." },
-        { "autor": "São Gregório Magno", "obra": "Moral. 2, 3", "catena": "18:10–14#11", "sintese": "Os anjos vêm até nós e, contudo, pela contemplação interior, não deixam de ver a face do Pai." },
-        { "autor": "Santo Hilário", "obra": null, "catena": "18:10–14#12", "sintese": "Os anjos oferecem diariamente a Deus as orações dos que serão salvos: é perigoso desprezar alguém assim." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:10–14#8",
+          "sintese": "Grande é a dignidade das almas: cada uma tem, desde o nascimento, um anjo encarregado da sua guarda."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 2, 3",
+          "catena": "18:10–14#11",
+          "sintese": "Os anjos vêm até nós e, contudo, pela contemplação interior, não deixam de ver a face do Pai."
+        },
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "18:10–14#12",
+          "sintese": "Os anjos oferecem diariamente a Deus as orações dos que serão salvos: é perigoso desprezar alguém assim."
+        }
       ],
       "nota": null
     },
     "18:12": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "18:10–14#18", "sintese": "A ovelha é o gênero humano; quem a busca é Cristo, e as noventa e nove são a multidão da glória celeste que Ele deixou." },
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "18:10–14#19", "sintese": "Foram deixadas nos montes porque as ovelhas que não se perderam habitavam nas alturas." }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "18:10–14#18",
+          "sintese": "A ovelha é o gênero humano; quem a busca é Cristo, e as noventa e nove são a multidão da glória celeste que Ele deixou."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "18:10–14#19",
+          "sintese": "Foram deixadas nos montes porque as ovelhas que não se perderam habitavam nas alturas."
+        }
       ],
       "nota": null
     },
     "18:14": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "18:10–14#25", "sintese": "A parábola confirma o preceito anterior: não desprezeis nenhum destes pequeninos." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "18:10–14#25",
+          "sintese": "A parábola confirma o preceito anterior: não desprezeis nenhum destes pequeninos."
+        }
       ],
       "nota": null
     }

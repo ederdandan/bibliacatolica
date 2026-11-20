@@ -4,9 +4,18 @@
   "titulo": "O endemoninhado na sinagoga de Cafarnaum",
   "secao": "O ministério na Galileia",
   "referencia": "Mc 1,21-28",
-  "ini": { "c": 1, "v": 21 },
-  "fim": { "c": 1, "v": 28 },
-  "liturgia": { "tema_central": "A autoridade de Jesus: uma palavra nova que ensina e liberta", "usos": [] },
+  "ini": {
+    "c": 1,
+    "v": 21
+  },
+  "fim": {
+    "c": 1,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A autoridade de Jesus: uma palavra nova que ensina e liberta",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "É a primeira cena do ministério de Jesus em Marcos: um sábado em Cafarnaum, cidade junto ao lago que se torna a sua base. Na sinagoga, Jesus ensina, e o povo nota a diferença: os escribas comentavam a Lei citando mestres anteriores, Ele fala com autoridade própria. Um homem possuído interrompe, e o demônio o reconhece como “o Santo de Deus”. Jesus o faz calar e o expulsa com uma palavra. Ensino e libertação aparecem juntos: a “doutrina nova” se manifesta no poder sobre o mal.",
     "alegorico": "Como a morte entrou no mundo pela inveja do diabo, convinha que o primeiro milagre fosse contra o autor da morte. Cafarnaum significa “cidade da consolação”, e o sábado, “descanso”: o gênero humano, dominado pela impureza desde Adão, é curado no repouso e na consolação que Cristo traz. A ordem “Cala-te” mostra que a Verdade não aceita o testemunho do pai da mentira. O exorcismo prefigura o Batismo, que liberta do poder das trevas.",
@@ -21,42 +30,78 @@
       "Que “espíritos” (medos, vícios, rancores) precisam ouvir de Jesus: “Cala-te e sai”?"
     ],
     "oratio_guia": "Senhor Jesus, Santo de Deus, a tua palavra tem autoridade sobre todo mal. Entra na minha vida como entraste na sinagoga de Cafarnaum, expulsa o que me escraviza e ensina-me com a tua verdade. Que eu não só te conheça, mas te ame. Amém.",
-    "contemplatio_foco": { "texto": "Ele manda com autoridade, e obedecem-lhe.", "ref": "Mc 1,27" }
+    "contemplatio_foco": {
+      "texto": "Ele manda com autoridade até aos espíritos imundos, e obedecem-lhe.",
+      "ref": "Mc 1,27"
+    }
   },
   "ancoras": {
     "1:22": {
       "cic": [],
       "padres": [
-        { "autor": "São Beda, o Venerável", "obra": "no lugar citado", "catena": "1:21–22#2", "sintese": "Os escribas ensinavam o que estava escrito em Moisés e nos Profetas; Jesus, como Deus e Senhor do próprio Moisés, acrescentava ou modificava a Lei: “Foi dito aos antigos… Eu, porém, vos digo”." }
+        {
+          "autor": "São Beda, o Venerável",
+          "obra": "no lugar citado",
+          "catena": "1:21–22#2",
+          "sintese": "Os escribas ensinavam o que estava escrito em Moisés e nos Profetas; Jesus, como Deus e Senhor do próprio Moisés, acrescentava ou modificava a Lei: “Foi dito aos antigos… Eu, porém, vos digo”."
+        }
       ],
-      "nota": { "texto": "Os escribas eram os especialistas na Lei, que ensinavam apoiados na tradição dos mestres anteriores.", "origem": "ia" }
+      "nota": {
+        "texto": "Os escribas eram os especialistas na Lei, que ensinavam apoiados na tradição dos mestres anteriores.",
+        "origem": "ia"
+      }
     },
     "1:23": {
       "cic": [],
       "padres": [
-        { "autor": "São Beda, o Venerável", "obra": "in Marc. 1, 7", "catena": "1:23–28#0", "sintese": "Como foi pela inveja do diabo que a morte entrou no mundo, convinha que o remédio agisse primeiro contra o autor da morte." }
+        {
+          "autor": "São Beda, o Venerável",
+          "obra": "in Marc. 1, 7",
+          "catena": "1:23–28#0",
+          "sintese": "Como foi pela inveja do diabo que a morte entrou no mundo, convinha que o remédio agisse primeiro contra o autor da morte."
+        }
       ],
       "nota": null
     },
     "1:24": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "De Civ. Dei IX, 21", "catena": "1:23–28#2", "sintese": "Os demônios tinham conhecimento de Cristo, mas não caridade: temiam dele o castigo e não amavam nele a justiça." },
-        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:23–28#6", "sintese": "Chama-o “o Santo” não como um entre muitos, pois os profetas também eram santos, mas como o Único, e pelo próprio temor o reconhece Senhor de todos." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Civ. Dei IX, 21",
+          "catena": "1:23–28#2",
+          "sintese": "Os demônios tinham conhecimento de Cristo, mas não caridade: temiam dele o castigo e não amavam nele a justiça."
+        },
+        {
+          "autor": "Pseudo-Crisóstomo",
+          "obra": "Vict. Ant. e Cat. in Marc.",
+          "catena": "1:23–28#6",
+          "sintese": "Chama-o “o Santo” não como um entre muitos, pois os profetas também eram santos, mas como o Único, e pelo próprio temor o reconhece Senhor de todos."
+        }
       ],
       "nota": null
     },
     "1:25": {
       "cic": [],
       "padres": [
-        { "autor": "Pseudo-Crisóstomo", "obra": "Vict. Ant. e Cat. in Marc.", "catena": "1:23–28#8", "sintese": "A Verdade não queria o testemunho dos espíritos impuros. Daí um preceito salutar: não dar crédito aos demônios, por mais que anunciem a verdade." }
+        {
+          "autor": "Pseudo-Crisóstomo",
+          "obra": "Vict. Ant. e Cat. in Marc.",
+          "catena": "1:23–28#8",
+          "sintese": "A Verdade não queria o testemunho dos espíritos impuros. Daí um preceito salutar: não dar crédito aos demônios, por mais que anunciem a verdade."
+        }
       ],
       "nota": null
     },
     "1:26": {
       "cic": [],
       "padres": [
-        { "autor": "Pseudo-Jerônimo", "obra": null, "catena": "1:23–28#12", "sintese": "O espírito sai agitando o homem: quando a salvação se aproxima, também a tentação se aproxima." }
+        {
+          "autor": "Pseudo-Jerônimo",
+          "obra": null,
+          "catena": "1:23–28#12",
+          "sintese": "O espírito sai agitando o homem: quando a salvação se aproxima, também a tentação se aproxima."
+        }
       ],
       "nota": null
     }

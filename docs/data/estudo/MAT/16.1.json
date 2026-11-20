@@ -4,9 +4,18 @@
   "titulo": "O sinal do céu e o fermento dos fariseus",
   "secao": "A formação dos discípulos",
   "referencia": "Mt 16,1-12",
-  "ini": { "c": 16, "v": 1 },
-  "fim": { "c": 16, "v": 12 },
-  "liturgia": { "tema_central": "Discernir os sinais dos tempos; guardar-se do fermento dos fariseus", "usos": [] },
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Discernir os sinais dos tempos; guardar-se do fermento dos fariseus",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Fariseus e saduceus, normalmente adversários (os saduceus, aristocracia sacerdotal, negavam a ressurreição), unem-se para pôr Jesus à prova, pedindo um “sinal do céu”, uma prova cósmica irrefutável. Jesus responde que sabem ler o céu para prever o tempo (o vermelho do entardecer anuncia bom tempo, o da manhã, tempestade), mas não os sinais dos tempos. Repete que só será dado o sinal de Jonas. Na barca, os discípulos esqueceram o pão; quando Jesus os adverte contra o “fermento” dos fariseus e saduceus, pensam que fala de pão. Jesus os censura pela pouca fé, recordando as duas multiplicações, e eles entendem que o fermento é a doutrina deles.",
     "alegorico": "O sinal de Jonas é a Ressurreição, sinal definitivo dado à humanidade. Agostinho viu no céu avermelhado do entardecer o sangue da Paixão, que traz a serenidade, e no da manhã a tribulação que precede a vinda gloriosa. O fermento, pequena porção que leveda toda a massa, é a doutrina que corrompe, oposta ao fermento bom do Reino (13,33).",
@@ -21,43 +30,81 @@
       "Lembro-me das obras de Deus em minha história quando fico ansioso?"
     ],
     "oratio_guia": "Senhor Jesus, sinal de Jonas, morto e ressuscitado, abre os meus olhos para discernir os sinais dos tempos. Guarda-me do fermento das falsas doutrinas. Que a memória das tuas maravilhas fortaleça a minha fé. Amém.",
-    "contemplatio_foco": { "texto": "Não sabeis conhecer os sinais dos tempos?", "ref": "Mt 16,3" }
+    "contemplatio_foco": {
+      "texto": "Não podeis conhecer os sinais dos tempos?",
+      "ref": "Mt 16,4"
+    }
   },
   "ancoras": {
     "16:2": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 20", "catena": "16:1–4#5", "sintese": "O céu avermelhado ao entardecer pode significar o sangue da paixão de Cristo, que trouxe a serenidade." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 20",
+          "catena": "16:1–4#5",
+          "sintese": "O céu avermelhado ao entardecer pode significar o sangue da paixão de Cristo, que trouxe a serenidade."
+        }
       ],
       "nota": null
     },
     "16:3": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:1–4#8", "sintese": "Como no céu há sinal de bom tempo e de chuva, assim nesta primeira vinda são necessários estes sinais, e outros na segunda." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:1–4#8",
+          "sintese": "Como no céu há sinal de bom tempo e de chuva, assim nesta primeira vinda são necessários estes sinais, e outros na segunda."
+        }
       ],
       "nota": null
     },
     "16:4": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:1–4#13", "sintese": "Deviam ter perguntado o sentido, mas não perguntavam com desejo de aprender; por isso o Senhor os deixou." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:1–4#14", "sintese": "Deixando a má geração dos judeus, passou o estreito, e o povo dos gentios o seguiu." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:1–4#13",
+          "sintese": "Deviam ter perguntado o sentido, mas não perguntavam com desejo de aprender; por isso o Senhor os deixou."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:1–4#14",
+          "sintese": "Deixando a má geração dos judeus, passou o estreito, e o povo dos gentios o seguiu."
+        }
       ],
       "nota": null
     },
     "16:6": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:5–12#3", "sintese": "Quem dá ouvidos ao fermento dos fariseus observa a Lei segundo a letra e anula os mandamentos de Deus pelas tradições humanas." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:5–12#4", "sintese": "Não disse claramente “a doutrina”, para lembrá-los da multiplicação dos pães." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:5–12#3",
+          "sintese": "Quem dá ouvidos ao fermento dos fariseus observa a Lei segundo a letra e anula os mandamentos de Deus pelas tradições humanas."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:5–12#4",
+          "sintese": "Não disse claramente “a doutrina”, para lembrá-los da multiplicação dos pães."
+        }
       ],
       "nota": null
     },
     "16:9": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:5–12#8", "sintese": "Repreende-os para tirar deles toda preocupação com o alimento." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:5–12#8",
+          "sintese": "Repreende-os para tirar deles toda preocupação com o alimento."
+        }
       ],
       "nota": null
     }

@@ -1,0 +1,161 @@
+{
+  "id": "MAT.26.57",
+  "livro": "MAT",
+  "titulo": "Jesus diante do Sinédrio",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 26,57-68",
+  "ini": {
+    "c": 26,
+    "v": 57
+  },
+  "fim": {
+    "c": 26,
+    "v": 68
+  },
+  "liturgia": {
+    "tema_central": "O silêncio do Inocente e a confissão do Filho do Homem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jesus é levado a Caifás, onde se reúnem os escribas e os anciãos; Pedro segue-o de longe até o pátio. O Sinédrio (o supremo conselho judaico, de 71 membros) procura um falso testemunho para o condenar à morte. Por fim, duas testemunhas acusam-no de ter dito que podia destruir o templo e reedificá-lo em três dias. Jesus cala-se. O sumo sacerdote o conjura pelo Deus vivo a dizer se é o Cristo, o Filho de Deus. Jesus responde: “Tu o disseste”, e anuncia que verão o Filho do Homem sentado à direita do Poder, vindo sobre as nuvens do céu (Dn 7,13; Sl 110,1). O sumo sacerdote rasga as vestes e declara-o blasfemo; todos o julgam réu de morte. Cospem-lhe no rosto, esbofeteiam-no e zombam: “Profetiza, Cristo: quem te bateu?”",
+    "alegorico": "As testemunhas deturpam a palavra que Jesus dissera do templo do seu corpo. Ao rasgar as vestes, o sumo sacerdote significa, sem o saber, o fim do sacerdócio antigo, que dá lugar ao de Cristo. O Juiz eterno é julgado, e cumpre-se Isaías: “ofereci o rosto aos que me batiam” (Is 50,6).",
+    "moral": "O silêncio de Jesus diante da calúnia ensina a mansidão e a confiança no juízo de Deus. Ainda hoje cospem no rosto de Cristo os que rejeitam a sua graça, e esbofeteiam-no os que lhe preferem a própria honra. O evangelista narra tudo sem atenuar: a nossa glória é que o Senhor do universo sofreu isso por nós.",
+    "anagogico": "Diante do tribunal humano, Cristo revela-se o Juiz que virá sobre as nuvens. O condenado é o Filho do Homem que se sentará à direita do Poder."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os que tinham prendido Jesus levaram-no a casa de Caifás, sumo sacerdote. Os príncipes dos sacerdotes e todo o conselho procuravam algum falso testemunho contra Jesus, a fim de o entregarem à morte. Por último, chegaram duas testemunhas, que declararam: “Este homem disse: Posso destruir o templo de Deus e reedificá-lo em três dias”. Jesus, porém, estava calado. E o sumo sacerdote disse-lhe: “Eu te conjuro por Deus vivo que nos digas se tu és o Cristo, o Filho de Deus”. Jesus respondeu-lhe: “Tu o disseste. Digo-vos mais que vereis depois o Filho do homem sentado à direita do poder de Deus, e vir sobre as nuvens do céu”. Então o sumo sacerdote rasgou os seus vestidos. Cuspiram-lhe no rosto, e feriram-no a punhadas; outros deram-lhe bofetadas.",
+    "meditatio_perguntas": [
+      "Sei calar como Jesus diante da calúnia?",
+      "Confesso com clareza quem é Jesus, mesmo quando custa?",
+      "De que modo “cuspo no rosto” de Cristo quando rejeito a sua graça?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te calaste diante dos falsos testemunhos e suportaste os ultrajes por mim, ensina-me a mansidão e a coragem de confessar-te. Tu és o Cristo, o Filho de Deus vivo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jesus, porém, estava calado.",
+      "ref": "Mt 26,63"
+    }
+  },
+  "ancoras": {
+    "26:57": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Cons. Evang. 3, 6",
+          "catena": "26:55–58#9",
+          "sintese": "Levaram-no a Caifás, mas, como refere João, primeiro a Anás, sogro de Caifás."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:55–58#10",
+          "sintese": "Segundo Josefo, Caifás comprou o sacerdócio por um só ano, contra a lei de Moisés."
+        }
+      ],
+      "nota": null
+    },
+    "26:58": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:55–58#13",
+          "sintese": "Grande zelo de Pedro, que não fugiu como os outros; mas seguia de longe, porque estava para negar o Senhor."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:55–58#16",
+          "sintese": "Entrou por afeto de discípulo ou por curiosidade, querendo saber que sentença o sumo sacerdote daria."
+        }
+      ],
+      "nota": null
+    },
+    "26:59": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:59–68#0",
+          "sintese": "Esta assembleia de malfeitores procurou dar à conspiração a aparência de julgamento legal."
+        }
+      ],
+      "nota": null
+    },
+    "26:61": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:59–68#2",
+          "sintese": "Falsa testemunha é a que interpreta o que se disse em outro sentido: Ele falara do templo do seu corpo."
+        }
+      ],
+      "nota": null
+    },
+    "26:63": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:59–68#5",
+          "sintese": "Jesus calava, pois a defesa de nada serviria, já que ninguém a ouviria: era uma paródia de justiça."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:59–68#7",
+          "sintese": "Como Deus, sabia que tudo o que dissesse seria torcido em acusação contra Ele."
+        }
+      ],
+      "nota": null
+    },
+    "26:65": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:59–68#11",
+          "sintese": "Rasgando as vestes, mostra que os judeus perderam a glória sacerdotal e o trono do sumo sacerdote ficava vazio."
+        }
+      ],
+      "nota": null
+    },
+    "26:67": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:59–68#15",
+          "sintese": "Cumpre-se Isaías: ofereci o rosto aos que me batiam e não desviei a face dos ultrajes."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 44",
+          "catena": "26:59–68#19",
+          "sintese": "Cospem-lhe no rosto os que rejeitam a graça oferecida; esbofeteiam-no os que lhe preferem a própria honra."
+        }
+      ],
+      "nota": null
+    },
+    "26:68": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:59–68#18",
+          "sintese": "O evangelista refere tudo sem atenuar: é a nossa maior glória que o Senhor do universo suporte isto por nós."
+        }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

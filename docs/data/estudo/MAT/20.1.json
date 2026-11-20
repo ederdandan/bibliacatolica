@@ -4,9 +4,18 @@
   "titulo": "Os trabalhadores da vinha",
   "secao": "A caminho de Jerusalém",
   "referencia": "Mt 20,1-16",
-  "ini": { "c": 20, "v": 1 },
-  "fim": { "c": 20, "v": 16 },
-  "liturgia": { "tema_central": "A bondade gratuita de Deus: os últimos serão os primeiros", "usos": [] },
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A bondade gratuita de Deus: os últimos serão os primeiros",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Um pai de família sai de madrugada para contratar trabalhadores para a sua vinha, ajustando um denário por dia (o salário diário de um trabalhador). Volta a sair às horas terceira, sexta, nona e undécima (cerca de 9h, 12h, 15h e 17h), chamando os que estavam ociosos. Ao fim do dia, paga a todos um denário, a começar pelos últimos. Os primeiros murmuram: suportaram o peso do dia e o calor. O patrão responde que não lhes faz injustiça: não ajustaram um denário? “Não me é lícito fazer o que quero do que é meu? Ou o teu olho é mau porque eu sou bom?” Assim, os últimos serão os primeiros, e os primeiros, últimos.",
     "alegorico": "O pai de família é o Criador, e a vinha a Igreja de todos os tempos. Gregório Magno lê as horas como as idades do mundo: de Adão a Noé, de Noé a Abraão, de Abraão a Moisés, de Moisés a Cristo, e a hora undécima, de Cristo ao fim. Os primeiros são Israel; os da última hora, os gentios, que recebem a mesma salvação. O denário, que traz a imagem do rei, é a vida eterna, a imagem e semelhança de Deus restaurada.",
@@ -21,61 +30,132 @@
       "Há em mim alguma “hora ociosa” em que o Senhor me chama para a sua vinha?"
     ],
     "oratio_guia": "Senhor, Pai de família generoso, obrigado por me chamares à tua vinha. Arranca de mim a inveja e o espírito de cobrança. Que eu me alegre com a tua bondade para com todos e trabalhe por amor, até o entardecer. Amém.",
-    "contemplatio_foco": { "texto": "Ou o teu olho é mau porque eu sou bom?", "ref": "Mt 20,15" }
+    "contemplatio_foco": {
+      "texto": "Porventura vês com maus olhos que eu sou bom?",
+      "ref": "Mt 20,15"
+    }
   },
   "ancoras": {
     "20:1": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Hom. 19 sobre os Evangelhos, 1", "catena": "20:1–16#2", "sintese": "O pai de família é o Criador; a vinha, a Igreja universal, desde o justo Abel até o último santo." },
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "20:1–16#4", "sintese": "A madrugada é a idade do mundo que vai de Adão a Noé." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 19 sobre os Evangelhos, 1",
+          "catena": "20:1–16#2",
+          "sintese": "O pai de família é o Criador; a vinha, a Igreja universal, desde o justo Abel até o último santo."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "20:1–16#4",
+          "sintese": "A madrugada é a idade do mundo que vai de Adão a Noé."
+        }
       ],
-      "nota": { "texto": "O dia era contado do nascer ao pôr do sol: a hora terceira corresponde às 9h, a sexta ao meio-dia, a nona às 15h e a undécima às 17h, a uma hora do fim do trabalho.", "origem": "ia" }
+      "nota": {
+        "texto": "O dia era contado do nascer ao pôr do sol: a hora terceira corresponde às 9h, a sexta ao meio-dia, a nona às 15h e a undécima às 17h, a uma hora do fim do trabalho.",
+        "origem": "ia"
+      }
     },
     "20:3": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "20:1–16#10", "sintese": "Quem vive para si e se alimenta dos prazeres da carne é com razão acusado de ociosidade." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "20:1–16#10",
+          "sintese": "Quem vive para si e se alimenta dos prazeres da carne é com razão acusado de ociosidade."
+        }
       ],
       "nota": null
     },
     "20:6": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "20:1–16#15", "sintese": "A hora undécima vai da vinda do Senhor até o fim do mundo." },
-        { "autor": "São Gregório Magno", "obra": null, "catena": "20:1–16#44", "sintese": "Os que descuidaram viver para Deus até a velhice estiveram ociosos até a hora undécima; mas também a estes chama o pai de família." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:1–16#43", "sintese": "Chamou uns e outros em horas diversas segundo as suas disposições, quando haviam de obedecer, como chamou o ladrão." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "20:1–16#15",
+          "sintese": "A hora undécima vai da vinda do Senhor até o fim do mundo."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": null,
+          "catena": "20:1–16#44",
+          "sintese": "Os que descuidaram viver para Deus até a velhice estiveram ociosos até a hora undécima; mas também a estes chama o pai de família."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "20:1–16#43",
+          "sintese": "Chamou uns e outros em horas diversas segundo as suas disposições, quando haviam de obedecer, como chamou o ladrão."
+        }
       ],
       "nota": null
     },
     "20:11": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:1–16#29", "sintese": "Não se devem examinar todos os pormenores de uma parábola, mas apreender o seu sentido geral." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "20:1–16#31", "sintese": "Os chamados antigamente invejam os gentios e doem-se da graça do Evangelho." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "20:1–16#29",
+          "sintese": "Não se devem examinar todos os pormenores de uma parábola, mas apreender o seu sentido geral."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "20:1–16#31",
+          "sintese": "Os chamados antigamente invejam os gentios e doem-se da graça do Evangelho."
+        }
       ],
       "nota": null
     },
     "20:14": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "20:1–16#35", "sintese": "O denário traz a figura do rei: recebeste a minha imagem e semelhança; buscas não ter mais, mas que o outro tenha menos." },
-        { "autor": "Santo Agostinho", "obra": "De Sancta Virg. 26", "catena": "20:1–16#38", "sintese": "A vida eterna é igual para todos, um só denário; mas a luz dos méritos brilha diversamente: há muitas moradas." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "20:1–16#35",
+          "sintese": "O denário traz a figura do rei: recebeste a minha imagem e semelhança; buscas não ter mais, mas que o outro tenha menos."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Sancta Virg. 26",
+          "catena": "20:1–16#38",
+          "sintese": "A vida eterna é igual para todos, um só denário; mas a luz dos méritos brilha diversamente: há muitas moradas."
+        }
       ],
       "nota": null
     },
     "20:15": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "20:1–16#39", "sintese": "É queixa insensata murmurar contra a bondade de Deus." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "20:1–16#39",
+          "sintese": "É queixa insensata murmurar contra a bondade de Deus."
+        }
       ],
       "nota": null
     },
     "20:16": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "20:1–16#42", "sintese": "Muitos chegam à fé, poucos ao Reino: muitos seguem a Deus com palavras e fogem dele com a vida; ninguém presuma de si." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:1–16#46", "sintese": "Alude aos que foram eminentes e depois desprezaram a virtude, e aos que se levantaram da iniquidade e superaram muitos." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "20:1–16#42",
+          "sintese": "Muitos chegam à fé, poucos ao Reino: muitos seguem a Deus com palavras e fogem dele com a vida; ninguém presuma de si."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "20:1–16#46",
+          "sintese": "Alude aos que foram eminentes e depois desprezaram a virtude, e aos que se levantaram da iniquidade e superaram muitos."
+        }
       ],
       "nota": null
     }

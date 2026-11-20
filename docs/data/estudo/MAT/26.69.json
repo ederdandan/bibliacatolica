@@ -1,0 +1,131 @@
+{
+  "id": "MAT.26.69",
+  "livro": "MAT",
+  "titulo": "As negações de Pedro",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 26,69-75",
+  "ini": {
+    "c": 26,
+    "v": 69
+  },
+  "fim": {
+    "c": 26,
+    "v": 75
+  },
+  "liturgia": {
+    "tema_central": "“E, tendo saído para fora, chorou amargamente”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro está sentado fora, no pátio. Uma criada diz-lhe: “Tu também estavas com Jesus, o Galileu”; ele nega diante de todos. À porta, outra criada repete a acusação; ele nega com juramento: “Não conheço tal homem”. Pouco depois, os presentes insistem: “Tu és deles, pois a tua fala te dá a conhecer” (o sotaque galileu). Ele começa a praguejar e a jurar que não conhece aquele homem. Logo o galo canta. Pedro lembra-se da palavra de Jesus, sai e chora amargamente.",
+    "alegorico": "Pedro, o chefe da Igreja, cai para que nele se mostre o remédio da penitência. O olhar do Senhor (Lc 22,61), a Luz do mundo, tira-o das trevas da negação. As lágrimas de Pedro têm a força de um batismo que lava o pecado.",
+    "moral": "Quem cortara a orelha a um soldado não resiste à palavra de uma criada: ninguém confie nas próprias forças. A queda vem por degraus: negar, jurar, praguejar. Mas a penitência é possível: Pedro sai da assembleia dos ímpios e chora. A diferença entre Pedro e Judas não está no pecado, mas no arrependimento confiante.",
+    "anagogico": "A pedra que vacilou recobrou depressa a firmeza, e quem fraquejara na Paixão havia de suportar o martírio. As lágrimas do arrependimento abrem o caminho da glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro estava sentado fora no átrio. Aproximou-se dele uma criada, dizendo: “Tu também estavas com Jesus, o Galileu”. Mas ele negou diante de todos, dizendo: “Não sei o que dizes”. Saindo ele à porta, viu-o outra criada, e disse: “Este também andava com Jesus Nazareno”. Novamente ele negou com juramento: “Não conheço tal homem”. Pouco depois disseram-lhe os que ali estavam: “Tu certamente és também dos tais, porque até o teu modo de falar te dá a conhecer”. Então começou a fazer imprecações e a jurar que não conhecia tal homem. Imediatamente o galo cantou. Pedro lembrou-se da palavra que lhe tinha dito Jesus: “Antes de cantar o galo, três vezes me negarás”. E, tendo saído para fora, chorou amargamente.",
+    "meditatio_perguntas": [
+      "Em que situações tenho vergonha de dizer que sou de Jesus?",
+      "Deixo que o olhar do Senhor me leve ao arrependimento?",
+      "Acredito que nenhuma queda é maior que a misericórdia de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, olha para mim como olhaste para Pedro. Dá-me lágrimas de verdadeiro arrependimento pelas vezes em que te neguei. Sustenta a minha fraqueza com a tua graça, para que eu te confesse diante de todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "E, tendo saído para fora, chorou amargamente.",
+      "ref": "Mt 26,75"
+    }
+  },
+  "ancoras": {
+    "26:69": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:69–75#1",
+          "sintese": "Estava sentado fora, para ver o desfecho e não levantar suspeitas aproximando-se de Jesus."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:69–75#2",
+          "sintese": "Quem desembainhou a espada não resiste agora às palavras de uma pobre criada."
+        }
+      ],
+      "nota": null
+    },
+    "26:70": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 60, 4",
+          "catena": "26:69–75#4",
+          "sintese": "Permitiu-se que vacilasse para que no chefe da Igreja se mostrasse o remédio da penitência e ninguém confiasse na própria força."
+        }
+      ],
+      "nota": null
+    },
+    "26:72": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:69–75#9",
+          "sintese": "É frívola a defesa de que negou o homem e não o Deus: se não negou, o Senhor teria falado falsamente."
+        }
+      ],
+      "nota": null
+    },
+    "26:73": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:69–75#13",
+          "sintese": "Era hebreu como os acusadores, mas cada região tem as suas peculiaridades de fala."
+        }
+      ],
+      "nota": null
+    },
+    "26:74": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:69–75#7",
+          "sintese": "O canto do galo não o deteve na negação nem lhe trouxe à memória a sua promessa."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 45",
+          "catena": "26:69–75#18",
+          "sintese": "Negou três vezes, como o erro herético acerca de Cristo: sobre a divindade, a humanidade ou ambas."
+        }
+      ],
+      "nota": null
+    },
+    "26:75": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:69–75#20",
+          "sintese": "O olhar do Salvador provocou as lágrimas: não podia permanecer nas trevas aquele para quem olhava a Luz do mundo."
+        },
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 60, 4",
+          "catena": "26:69–75#21",
+          "sintese": "Felizes lágrimas, que tiveram a virtude do batismo para lavar o pecado da negação!"
+        }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

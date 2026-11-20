@@ -142,6 +142,13 @@ async function checkBook(id, errs, stats) {
     if (typeof L.oratio_guia !== 'string' || L.oratio_guia.length < 40) e('oratio_guia ausente ou curto');
     const C = L.contemplatio_foco || {};
     if (!C.texto || !C.ref) e('contemplatio_foco precisa de texto e ref');
+    else {
+      // A frase de contemplação deve ser citação literal de Matos Soares (trechos separados por "…").
+      const m = String(C.ref).match(/(\d+),(\d+)(?:-(\d+))?/);
+      const norm = (s) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/\([^)]*\)/g, ' ').replace(/[^\p{L}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
+      const src = m ? norm(bible[+m[1] - 1].slice(+m[2] - 1, +(m[3] || m[2])).join(' ')) : '';
+      if (!m || C.texto.split('…').some((seg) => norm(seg) && !src.includes(norm(seg)))) e(`contemplatio_foco não é citação literal de ${C.ref}`);
+    }
     if (!d.liturgia || typeof d.liturgia.tema_central !== 'string' || !Array.isArray(d.liturgia.usos)) e('liturgia.tema_central / usos');
     if (typeof d.revisado !== 'boolean') e('revisado deve ser boolean');
 

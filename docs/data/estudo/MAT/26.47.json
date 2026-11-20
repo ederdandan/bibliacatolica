@@ -1,0 +1,155 @@
+{
+  "id": "MAT.26.47",
+  "livro": "MAT",
+  "titulo": "A prisão de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 26,47-56",
+  "ini": {
+    "c": 26,
+    "v": 47
+  },
+  "fim": {
+    "c": 26,
+    "v": 56
+  },
+  "liturgia": {
+    "tema_central": "“Mete a tua espada na bainha”: o Senhor entrega-se livremente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas chega com uma multidão armada de espadas e varapaus, enviada pelos sumos sacerdotes e anciãos. Dera-lhes um sinal: “Aquele a quem eu beijar, é esse”. Saúda Jesus (“Salve, Mestre”) e beija-o. Jesus responde: “Amigo, a que vieste!” Prendem-no. Um dos que estavam com Jesus (Pedro, segundo Jo 18,10) fere com a espada o servo do sumo sacerdote e corta-lhe a orelha. Jesus manda-o embainhar a espada: “Todos os que tomarem a espada morrerão pela espada”. Poderia pedir ao Pai mais de doze legiões de anjos, mas assim se cumprem as Escrituras. Pergunta à multidão por que veio prendê-lo como a um ladrão, se ensinava todos os dias no templo. Então todos os discípulos o abandonam e fogem.",
+    "alegorico": "O beijo, sinal de amor, torna-se sinal de traição. Cristo, que poderia dispor de exércitos de anjos, entrega-se como o Cordeiro levado ao matadouro (Is 53,7), para que se cumpra o desígnio redentor anunciado pelos profetas. Não vence com a espada humana, mas com a espada da sua boca.",
+    "moral": "Jesus chama Judas de “amigo” até o fim: oferece-lhe ainda a conversão. O zelo de Pedro é sincero, mas não segundo Deus: o Reino não se defende com violência. Usar a espada por conta própria, sem autoridade legítima, é pecado. A fuga dos discípulos mostra como é frágil a coragem humana sem a graça.",
+    "anagogico": "A liberdade com que Cristo se entrega revela que a Paixão é o triunfo da cruz, que destrói o domínio do Diabo. O Senhor dos exércitos celestes deixa-se amarrar para nos libertar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando Jesus ainda a falar, chegou Judas, um dos doze, e com ele uma grande multidão com espadas e varapaus. O traidor tinha-lhes dado este sinal: “Aquele a quem eu der um ósculo, é esse; prendei-o”. Aproximando-se logo de Jesus, disse: “Salve, Mestre”. E deu-lhe um ósculo. Jesus disse-lhe: “Amigo, a que vieste!” Então lançaram mão de Jesus e prenderam-no. Um dos que estavam com Jesus desembainhou a sua espada e, ferindo um servo do sumo pontífice, cortou-lhe uma orelha. Jesus disse-lhe: “Mete a tua espada no seu lugar, porque todos os que tomarem espada morrerão à espada. Julgas porventura que eu não posso rogar a meu Pai, e que ele me não porá aqui logo mais de doze legiões de anjos?” Então todos os discípulos o abandonaram e fugiram.",
+    "meditatio_perguntas": [
+      "Há “beijos” na minha vida que escondem traição a Jesus?",
+      "Respondo às injustiças com a espada ou com a mansidão de Cristo?",
+      "Em que momentos também eu abandonei Jesus e fugi?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te entregaste livremente nas mãos dos pecadores e chamaste de amigo o teu traidor, dá-me a tua mansidão diante da injustiça. Perdoa as vezes em que te abandonei, e firma-me para que eu permaneça contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Amigo, a que vieste!",
+      "ref": "Mt 26,50"
+    }
+  },
+  "ancoras": {
+    "26:48": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:47–50#3",
+          "sintese": "Sempre que tentaram prendê-lo, escapava-lhes; também agora o poderia ter feito, se quisesse."
+        }
+      ],
+      "nota": null
+    },
+    "26:50": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "Santo Agostinho",
+          "obra": null,
+          "catena": "26:47–50#6",
+          "sintese": "“A que vieste?”: o teu beijo é uma cilada; finges ser meu amigo, sendo na verdade meu traidor."
+        }
+      ],
+      "nota": null
+    },
+    "26:51": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:51–54#1",
+          "sintese": "Outro Evangelho apresenta Pedro como autor do golpe, com a sua habitual impetuosidade, e diz que o servo se chamava Malco."
+        }
+      ],
+      "nota": null
+    },
+    "26:52": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 22",
+          "catena": "26:51–54#5",
+          "sintese": "Era contrário ao sacramento da redenção que aquele que viera morrer por todos recusasse ser preso."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Contra Faustum 22, 70",
+          "catena": "26:51–54#8",
+          "sintese": "Usa a espada quem, sem ordem ou permissão de autoridade legítima, se arma contra a vida de um homem."
+        },
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "26:51–54#11",
+          "sintese": "Não os havia de destruir com arma humana, mas com a espada da sua boca."
+        }
+      ],
+      "nota": null
+    },
+    "26:53": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:51–54#13",
+          "sintese": "Convence os discípulos de que padecia voluntariamente: poderia rogar ao Pai."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:51–54#14",
+          "sintese": "Não precisa do auxílio dos doze, pois poderia ter doze legiões do exército angélico."
+        }
+      ],
+      "nota": null
+    },
+    "26:54": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:51–54#18",
+          "sintese": "Em vão os profetas teriam profetizado, se o Senhor não confirmasse a sua verdade com o seu sofrimento."
+        }
+      ],
+      "nota": null
+    },
+    "26:55": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:55–58#2",
+          "sintese": "É insensatez buscar com espadas, de noite, como a quem se esconde, aquele que ensinava todos os dias no templo."
+        }
+      ],
+      "nota": null
+    },
+    "26:56": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:55–58#6",
+          "sintese": "Fugiram quando compreenderam que não escaparia, mas que se entregava voluntariamente."
+        }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

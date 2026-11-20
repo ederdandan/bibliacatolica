@@ -4,9 +4,18 @@
   "titulo": "A conspiração, a unção em Betânia e a traição de Judas",
   "secao": "A Paixão e a Morte do Senhor",
   "referencia": "Mt 26,1-16",
-  "ini": { "c": 26, "v": 1 },
-  "fim": { "c": 26, "v": 16 },
-  "liturgia": { "tema_central": "O amor que derrama o perfume e a cobiça que vende o Mestre", "usos": [] },
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O amor que derrama o perfume e a cobiça que vende o Mestre",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Terminado o último discurso, Jesus anuncia: daqui a dois dias é a Páscoa, e o Filho do Homem será entregue para ser crucificado. Os sumos sacerdotes e anciãos reúnem-se no palácio de Caifás (sumo sacerdote de 18 a 36 d.C.) e decidem prender Jesus à traição, mas não durante a festa, por medo de tumulto. Em Betânia, na casa de Simão, o leproso, uma mulher derrama sobre a cabeça de Jesus um vaso de alabastro com perfume caríssimo. Os discípulos indignam-se com o “desperdício”, que poderia ser dado aos pobres. Jesus defende-a: fez uma boa obra, preparando-o para a sepultura; os pobres sempre os tereis, mas a mim nem sempre; onde for pregado o Evangelho, se contará o que ela fez. Então Judas vai aos sumos sacerdotes e combina entregá-lo por trinta moedas de prata, o preço de um escravo (Ex 21,32; Zc 11,12).",
     "alegorico": "A unção da cabeça é gesto messiânico, pois “Cristo” significa “Ungido”: a mulher unge o Rei para a sua sepultura e glorificação. Hilário vê nela o povo gentio, que dá glória a Deus na Paixão. A Páscoa antiga, “passagem”, cumpre-se na passagem de Cristo deste mundo ao Pai. Os trinta siclos lembram o preço do pastor rejeitado em Zacarias.",
@@ -21,73 +30,141 @@
       "Defendo, como Jesus, as boas obras dos outros, ou as critico?"
     ],
     "oratio_guia": "Senhor Jesus, ungido para a tua sepultura, aceita o perfume do meu amor, ainda que pobre. Livra-me da cobiça que vende o Mestre por trinta moedas. Que eu te dê o melhor de mim, sem medida. Amém.",
-    "contemplatio_foco": { "texto": "Ela fez uma boa obra para comigo.", "ref": "Mt 26,10" }
+    "contemplatio_foco": {
+      "texto": "Ela fez-me verdadeiramente uma boa obra.",
+      "ref": "Mt 26,10"
+    }
   },
   "ancoras": {
     "26:2": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "26:1–2#0", "sintese": "Depois de anunciar a sua vinda gloriosa, anuncia a paixão, para que aprendam a ligação entre o sacramento da cruz e a glória eterna." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:1–2#4", "sintese": "Páscoa não vem de “padecer”, mas da palavra hebraica que significa “passagem”." }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "26:1–2#0",
+          "sintese": "Depois de anunciar a sua vinda gloriosa, anuncia a paixão, para que aprendam a ligação entre o sacramento da cruz e a glória eterna."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:1–2#4",
+          "sintese": "Páscoa não vem de “padecer”, mas da palavra hebraica que significa “passagem”."
+        }
       ],
       "nota": null
     },
     "26:5": {
       "cic": [],
       "padres": [
-        { "autor": "São Leão Magno", "obra": "Serm. 58, 2", "catena": "26:3–5#7", "sintese": "Não era reverência pela festa, mas cuidado com o êxito da trama: temiam uma sedição." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:3–5#8", "sintese": "O seu furor pôs de lado a cautela: achando um traidor, mataram Cristo no meio da festa." }
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 58, 2",
+          "catena": "26:3–5#7",
+          "sintese": "Não era reverência pela festa, mas cuidado com o êxito da trama: temiam uma sedição."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:3–5#8",
+          "sintese": "O seu furor pôs de lado a cautela: achando um traidor, mataram Cristo no meio da festa."
+        }
       ],
       "nota": null
     },
     "26:6": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:6–13#1", "sintese": "Não era ainda leproso: curado pelo Salvador, conservou o nome para mostrar o poder de quem o curou." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:6–13#1",
+          "sintese": "Não era ainda leproso: curado pelo Salvador, conservou o nome para mostrar o poder de quem o curou."
+        }
       ],
       "nota": null
     },
     "26:7": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Hom. 33 sobre os Evangelhos, 1", "catena": "26:6–13#10", "sintese": "Pode ser a mesma mulher que Lucas chama pecadora e João chama Maria." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 33 sobre os Evangelhos, 1",
+          "catena": "26:6–13#10",
+          "sintese": "Pode ser a mesma mulher que Lucas chama pecadora e João chama Maria."
+        }
       ],
       "nota": null
     },
     "26:8": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:6–13#14", "sintese": "Tinham ouvido “quero misericórdia, e não sacrifício”, e pensavam que Ele não aceitaria tal perfume." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:6–13#14",
+          "sintese": "Tinham ouvido “quero misericórdia, e não sacrifício”, e pensavam que Ele não aceitaria tal perfume."
+        }
       ],
       "nota": null
     },
     "26:10": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:6–13#19", "sintese": "Ensina-nos a não molestar quem faz uma boa obra, ainda que lhe falte alguma perfeição." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:6–13#19",
+          "sintese": "Ensina-nos a não molestar quem faz uma boa obra, ainda que lhe falte alguma perfeição."
+        }
       ],
       "nota": null
     },
     "26:11": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:6–13#21", "sintese": "Fala da sua presença corporal e familiar, que não terão depois da ressurreição como agora." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:6–13#21",
+          "sintese": "Fala da sua presença corporal e familiar, que não terão depois da ressurreição como agora."
+        }
       ],
       "nota": null
     },
     "26:13": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:6–13#26", "sintese": "Vitórias de reis caíram no esquecimento; mas o gesto desta mulher ressoa em todo o mundo." },
-        { "autor": "Santo Hilário", "obra": null, "catena": "26:6–13#29", "sintese": "Nesta mulher está prefigurado o povo gentio, que deu glória a Deus na paixão de Cristo." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "26:6–13#26",
+          "sintese": "Vitórias de reis caíram no esquecimento; mas o gesto desta mulher ressoa em todo o mundo."
+        },
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "26:6–13#29",
+          "sintese": "Nesta mulher está prefigurado o povo gentio, que deu glória a Deus na paixão de Cristo."
+        }
       ],
       "nota": null
     },
     "26:15": {
       "cic": [],
       "padres": [
-        { "autor": "São Leão Magno", "obra": "Serm. 60, 4", "catena": "26:14–16#8", "sintese": "Não o abandonou por temor, mas por desejo de dinheiro: diante do amor do dinheiro, todos os afetos são fracos." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "26:14–16#9", "sintese": "Não pede quantia determinada, mas, como quem entrega um escravo sem valor, deixa aos compradores decidir." }
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 60, 4",
+          "catena": "26:14–16#8",
+          "sintese": "Não o abandonou por temor, mas por desejo de dinheiro: diante do amor do dinheiro, todos os afetos são fracos."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "26:14–16#9",
+          "sintese": "Não pede quantia determinada, mas, como quem entrega um escravo sem valor, deixa aos compradores decidir."
+        }
       ],
       "nota": null
     }

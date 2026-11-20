@@ -4,9 +4,18 @@
   "titulo": "Curas e a segunda multiplicação dos pães",
   "secao": "A formação dos discípulos",
   "referencia": "Mt 15,29-39",
-  "ini": { "c": 15, "v": 29 },
-  "fim": { "c": 15, "v": 39 },
-  "liturgia": { "tema_central": "“Tenho compaixão desta multidão”: o pão para todos os povos", "usos": [] },
+  "ini": {
+    "c": 15,
+    "v": 29
+  },
+  "fim": {
+    "c": 15,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "“Tenho compaixão desta multidão”: o pão para todos os povos",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Jesus volta ao mar da Galileia e sobe ao monte; as multidões trazem coxos, cegos, aleijados, mudos e muitos outros, deitando-os a seus pés, e Ele os cura; o povo glorifica “o Deus de Israel”, expressão que sugere uma multidão em parte pagã, na margem oriental do lago (cf. Mc 7,31). Depois, por compaixão de quem está com Ele há três dias, Jesus multiplica sete pães e alguns peixinhos; comem quatro mil homens, sem contar mulheres e crianças, e sobram sete cestos. Por fim, vai de barca para a região de Magadã.",
     "alegorico": "Os Padres viram na primeira multiplicação o povo judeu (cinco mil, doze cestos, as tribos) e nesta segunda os gentios (quatro mil, os quatro cantos da terra; sete cestos, a plenitude do Espírito). Cristo é o pão para todos os povos, e a Eucaristia é oferecida a judeus e gentios reunidos numa só Igreja. O monte é o lugar da nova aliança, onde Cristo cura e alimenta.",
@@ -21,37 +30,75 @@
       "Permaneço com Jesus, mesmo quando isso me custa, como a multidão por três dias?"
     ],
     "oratio_guia": "Senhor Jesus, que te compadeces da multidão, cura-nos e sacia-nos com o teu pão. Reúne todos os povos na tua mesa. Que eu permaneça contigo e glorifique o Deus que faz maravilhas. Amém.",
-    "contemplatio_foco": { "texto": "Tenho compaixão desta multidão.", "ref": "Mt 15,32" }
+    "contemplatio_foco": {
+      "texto": "Tenho piedade deste povo.",
+      "ref": "Mt 15,32"
+    }
   },
   "ancoras": {
     "15:29": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "15:29–31#8", "sintese": "Sobe ao monte para, como uma ave, convidar os tenros filhotes a voar." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "15:29–31#8",
+          "sintese": "Sobe ao monte para, como uma ave, convidar os tenros filhotes a voar."
+        }
       ],
       "nota": null
     },
     "15:30": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:29–31#2", "sintese": "Umas vezes o Senhor vai curar os enfermos; outras, senta-se e espera que venham." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "15:29–31#4", "sintese": "Mostraram a sua fé subindo ao monte e crendo que bastava lançar-se aos pés de Jesus." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "15:29–31#2",
+          "sintese": "Umas vezes o Senhor vai curar os enfermos; outras, senta-se e espera que venham."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "15:29–31#4",
+          "sintese": "Mostraram a sua fé subindo ao monte e crendo que bastava lançar-se aos pés de Jesus."
+        }
       ],
       "nota": null
     },
     "15:32": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": "Hom. 53", "catena": "15:32–39#1", "sintese": "A multidão não ousou pedir alimento; mas Aquele que ama os homens dá sem que lhe peçam." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "15:32–39#0", "sintese": "Primeiro tirou as enfermidades, depois deu alimento aos curados." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 53",
+          "catena": "15:32–39#1",
+          "sintese": "A multidão não ousou pedir alimento; mas Aquele que ama os homens dá sem que lhe peçam."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "15:32–39#0",
+          "sintese": "Primeiro tirou as enfermidades, depois deu alimento aos curados."
+        }
       ],
       "nota": null
     },
     "15:37": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "15:32–39#7", "sintese": "A primeira multidão corresponde aos judeus que creram; esta, ao povo dos gentios." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "15:32–39#8", "sintese": "Não são cinco, mas quatro mil: o número quatro toma-se sempre em bom sentido, como a pedra quadrada que não vacila." }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "15:32–39#7",
+          "sintese": "A primeira multidão corresponde aos judeus que creram; esta, ao povo dos gentios."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "15:32–39#8",
+          "sintese": "Não são cinco, mas quatro mil: o número quatro toma-se sempre em bom sentido, como a pedra quadrada que não vacila."
+        }
       ],
       "nota": null
     }

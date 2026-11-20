@@ -4,9 +4,18 @@
   "titulo": "O joio, o grão de mostarda e o fermento",
   "secao": "As parábolas do Reino",
   "referencia": "Mt 13,24-43",
-  "ini": { "c": 13, "v": 24 },
-  "fim": { "c": 13, "v": 43 },
-  "liturgia": { "tema_central": "O Reino cresce em meio ao joio; a paciência de Deus até a colheita", "usos": [] },
+  "ini": {
+    "c": 13,
+    "v": 24
+  },
+  "fim": {
+    "c": 13,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "O Reino cresce em meio ao joio; a paciência de Deus até a colheita",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Três parábolas sobre o crescimento do Reino. No campo semeado com trigo, um inimigo semeia joio, provavelmente o “joio-de-darnel”, muito parecido com o trigo no início e tóxico. O dono não permite arrancá-lo antes da colheita, para não arrancar também o trigo. O grão de mostarda, proverbialmente a menor semente, torna-se um arbusto que pode chegar a três metros às margens do lago. O fermento escondido em três medidas de farinha (cerca de 40 litros, quantidade enorme) leveda toda a massa. Mateus vê no falar em parábolas o cumprimento do Sl 78,2. Em casa, Jesus explica o joio: o semeador é o Filho do Homem, o campo é o mundo, o joio são os filhos do Maligno, a colheita é o fim do mundo.",
     "alegorico": "Cristo é o grão de mostarda: semente quando morreu e foi sepultado, árvore quando ressuscitou, em cujos ramos (a Igreja) as aves do céu, as almas, encontram repouso. O fermento é o Evangelho ou a caridade, que a Igreja esconde no mundo até que tudo seja transformado. O campo onde trigo e joio crescem juntos é a Igreja peregrina, mistura de bons e maus até o fim.",
@@ -21,76 +30,162 @@
       "Acredito na força escondida das pequenas sementes de fé e de bem?"
     ],
     "oratio_guia": "Senhor da colheita, guarda o trigo bom no meu coração e livra-me do joio do maligno. Dá-me a tua paciência com os irmãos. Faz crescer em mim a fé, pequena como a mostarda, e o fermento do teu amor, até que tudo seja transformado. Amém.",
-    "contemplatio_foco": { "texto": "Os justos resplandecerão como o sol no reino de seu Pai.", "ref": "Mt 13,43" }
+    "contemplatio_foco": {
+      "texto": "Então resplandecerão os justos como o sol no reino de seu Pai.",
+      "ref": "Mt 13,43"
+    }
   },
   "ancoras": {
     "13:24": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": "Hom. 46", "catena": "13:24–30#0", "sintese": "Antes falou dos que não recebem a palavra; aqui, dos que recebem semente corruptora: a astúcia do diabo é misturar o erro com a verdade." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 46",
+          "catena": "13:24–30#0",
+          "sintese": "Antes falou dos que não recebem a palavra; aqui, dos que recebem semente corruptora: a astúcia do diabo é misturar o erro com a verdade."
+        }
       ],
       "nota": null
     },
     "13:25": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "Quaest. sobre Mateus, q. 11", "catena": "13:24–30#4", "sintese": "Enquanto os chefes da Igreja estavam descuidados e os apóstolos adormeceram na morte, veio o diabo e semeou." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "13:24–30#8", "sintese": "Não durma quem preside a Igreja, para que, por sua negligência, o inimigo não semeie o joio, isto é, os dogmas dos hereges." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. sobre Mateus, q. 11",
+          "catena": "13:24–30#4",
+          "sintese": "Enquanto os chefes da Igreja estavam descuidados e os apóstolos adormeceram na morte, veio o diabo e semeou."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "13:24–30#8",
+          "sintese": "Não durma quem preside a Igreja, para que, por sua negligência, o inimigo não semeie o joio, isto é, os dogmas dos hereges."
+        }
       ],
-      "nota": { "texto": "O joio (Lolium temulentum) é quase indistinguível do trigo até a espiga; os seus grãos são tóxicos.", "origem": "ia" }
+      "nota": {
+        "texto": "O joio (Lolium temulentum) é quase indistinguível do trigo até a espiga; os seus grãos são tóxicos.",
+        "origem": "ia"
+      }
     },
     "13:29": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "13:24–30#12", "sintese": "Resta lugar para a penitência: não cortar precipitadamente o irmão, pois quem hoje erra pode amanhã voltar à verdade." },
-        { "autor": "Santo Agostinho", "obra": "Quaest. sobre Mateus, q. 12", "catena": "13:24–30#13", "sintese": "Torna-os pacientes: os bons, enquanto fracos, precisam por vezes estar misturados com os maus." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "13:24–30#12",
+          "sintese": "Resta lugar para a penitência: não cortar precipitadamente o irmão, pois quem hoje erra pode amanhã voltar à verdade."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. sobre Mateus, q. 12",
+          "catena": "13:24–30#13",
+          "sintese": "Torna-os pacientes: os bons, enquanto fracos, precisam por vezes estar misturados com os maus."
+        }
       ],
       "nota": null
     },
     "13:31": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:31–32#4", "sintese": "A semente do Evangelho é a menor, porque os discípulos eram fracos; mas, havendo neles grande poder, a pregação espalhou-se pelo mundo." },
-        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 11", "catena": "13:31–32#2", "sintese": "O grão de mostarda pode aludir ao ardor da fé ou à sua propriedade de antídoto contra o veneno." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "13:31–32#4",
+          "sintese": "A semente do Evangelho é a menor, porque os discípulos eram fracos; mas, havendo neles grande poder, a pregação espalhou-se pelo mundo."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 11",
+          "catena": "13:31–32#2",
+          "sintese": "O grão de mostarda pode aludir ao ardor da fé ou à sua propriedade de antídoto contra o veneno."
+        }
       ],
       "nota": null
     },
     "13:32": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Moral. 19, 1", "catena": "13:31–32#8", "sintese": "Cristo é o grão de mostarda plantado no jardim do sepulcro: grão quando morreu, árvore quando ressuscitou." },
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "13:31–32#10", "sintese": "As aves habitam nos seus ramos quando as almas santas, nas asas das virtudes, repousam nas suas palavras e consolações." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 19, 1",
+          "catena": "13:31–32#8",
+          "sintese": "Cristo é o grão de mostarda plantado no jardim do sepulcro: grão quando morreu, árvore quando ressuscitou."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "13:31–32#10",
+          "sintese": "As aves habitam nos seus ramos quando as almas santas, nas asas das virtudes, repousam nas suas palavras e consolações."
+        }
       ],
       "nota": null
     },
     "13:33": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:33#0", "sintese": "Como o fermento transforma muita farinha na sua natureza, assim vós transformareis o mundo." },
-        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 12", "catena": "13:33#2", "sintese": "O fermento é o amor, que produz fervor; as três medidas, amar a Deus de todo o coração, de toda a alma e de todo o entendimento." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "13:33#0",
+          "sintese": "Como o fermento transforma muita farinha na sua natureza, assim vós transformareis o mundo."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 12",
+          "catena": "13:33#2",
+          "sintese": "O fermento é o amor, que produz fervor; as três medidas, amar a Deus de todo o coração, de toda a alma e de todo o entendimento."
+        }
       ],
       "nota": null
     },
     "13:38": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:36–43#5", "sintese": "O campo é o mundo: se Ele semeia o seu próprio campo, este mundo é seu." },
-        { "autor": "Santo Agostinho", "obra": "Contra Faustum 18, 7", "catena": "13:36–43#7", "sintese": "O joio não são partes espúrias das Escrituras, como diz Manes, mas os filhos do Maligno." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "13:36–43#5",
+          "sintese": "O campo é o mundo: se Ele semeia o seu próprio campo, este mundo é seu."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Contra Faustum 18, 7",
+          "catena": "13:36–43#7",
+          "sintese": "O joio não são partes espúrias das Escrituras, como diz Manes, mas os filhos do Maligno."
+        }
       ],
       "nota": null
     },
     "13:41": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 20, 9", "catena": "13:36–43#11", "sintese": "O Reino de onde se recolhem os escândalos é o seu Reino que está aqui, isto é, a Igreja." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:36–43#17", "sintese": "Inefável amor: quando semeia, semeia por si mesmo; quando castiga, castiga por meio de outros." }
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Civ. Dei 20, 9",
+          "catena": "13:36–43#11",
+          "sintese": "O Reino de onde se recolhem os escândalos é o seu Reino que está aqui, isto é, a Igreja."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "13:36–43#17",
+          "sintese": "Inefável amor: quando semeia, semeia por si mesmo; quando castiga, castiga por meio de outros."
+        }
       ],
       "nota": null
     },
     "13:43": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:36–43#19", "sintese": "Brilharão mais que o sol, mas, como não conhecemos fulgor maior, usa um exemplo acomodado ao nosso entendimento." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "13:36–43#19",
+          "sintese": "Brilharão mais que o sol, mas, como não conhecemos fulgor maior, usa um exemplo acomodado ao nosso entendimento."
+        }
       ],
       "nota": null
     }

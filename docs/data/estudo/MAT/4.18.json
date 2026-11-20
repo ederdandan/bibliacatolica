@@ -4,9 +4,18 @@
   "titulo": "O chamado dos primeiros discípulos",
   "secao": "O início do ministério na Galileia",
   "referencia": "Mt 4,18-22",
-  "ini": { "c": 4, "v": 18 },
-  "fim": { "c": 4, "v": 22 },
-  "liturgia": { "tema_central": "“Segui-me, e eu vos farei pescadores de homens”", "usos": [] },
+  "ini": {
+    "c": 4,
+    "v": 18
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Segui-me, e eu vos farei pescadores de homens”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Junto ao mar da Galileia, Jesus vê dois pares de irmãos pescadores: Simão, chamado Pedro, e André, lançando a rede; Tiago e João, filhos de Zebedeu, consertando as redes na barca com o pai. A ordem é breve: “Segui-me”. A promessa transforma o ofício: “pescadores de homens”. A resposta é imediata e total: deixam as redes, a barca e o pai. Diferente dos rabinos, que eram escolhidos pelos discípulos, aqui é Jesus quem escolhe e chama. Mateus já dá a Simão o nome de “Pedro”, que terá papel central no seu Evangelho.",
     "alegorico": "O mar figura o mundo agitado; a rede, a pregação do Evangelho, que recolhe os homens das águas da morte para a luz. Os apóstolos, chamados enquanto lançavam e consertavam redes, figuram a missão da Igreja: lançar a rede da pregação e restaurar a comunhão. A barca de Pedro será imagem da Igreja.",
@@ -21,28 +30,51 @@
       "Como posso ser “pescador de homens” no meu ambiente?"
     ],
     "oratio_guia": "Senhor Jesus, que chamaste Pedro, André, Tiago e João à beira do mar, chama-me também no meio das minhas tarefas. Dá-me a prontidão de deixar o que me prende e seguir-te. Faz de mim pescador de homens para o teu Reino. Amém.",
-    "contemplatio_foco": { "texto": "Segui-me, e eu vos farei pescadores de homens.", "ref": "Mt 4,19" }
+    "contemplatio_foco": {
+      "texto": "Segui-me… e eu vos farei pescadores de homens.",
+      "ref": "Mt 4,19"
+    }
   },
   "ancoras": {
     "4:18": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:18–22#4", "sintese": "Chama-os enquanto trabalham, para mostrar que segui-lo deve ser preferido a todas as ocupações; lançavam a rede, o que convinha ao seu ofício futuro." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "4:18–22#4",
+          "sintese": "Chama-os enquanto trabalham, para mostrar que segui-lo deve ser preferido a todas as ocupações; lançavam a rede, o que convinha ao seu ofício futuro."
+        }
       ],
       "nota": null
     },
     "4:20": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:18–22#13", "sintese": "Confiaram em tão grande promessa e creram que apanhariam outros com as mesmas palavras com que eles tinham sido apanhados." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "4:18–22#13",
+          "sintese": "Confiaram em tão grande promessa e creram que apanhariam outros com as mesmas palavras com que eles tinham sido apanhados."
+        }
       ],
       "nota": null
     },
     "4:21": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:18–22#18", "sintese": "Não é pequeno sinal de virtude suportar a pobreza, viver de trabalho honesto, estar unidos pelo afeto e manter consigo o pai pobre." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:18–22#20", "sintese": "Não lhes fez promessa ao chamá-los: a obediência dos primeiros já lhes abrira o caminho." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "4:18–22#18",
+          "sintese": "Não é pequeno sinal de virtude suportar a pobreza, viver de trabalho honesto, estar unidos pelo afeto e manter consigo o pai pobre."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "4:18–22#20",
+          "sintese": "Não lhes fez promessa ao chamá-los: a obediência dos primeiros já lhes abrira o caminho."
+        }
       ],
       "nota": null
     }

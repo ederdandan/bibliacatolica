@@ -4,9 +4,18 @@
   "titulo": "Os “ais” contra os escribas e fariseus; lamento sobre Jerusalém",
   "secao": "O ministério em Jerusalém",
   "referencia": "Mt 23,13-39",
-  "ini": { "c": 23, "v": 13 },
-  "fim": { "c": 23, "v": 39 },
-  "liturgia": { "tema_central": "Contra a hipocrisia; “Jerusalém, quantas vezes quis reunir os teus filhos!”", "usos": [] },
+  "ini": {
+    "c": 23,
+    "v": 13
+  },
+  "fim": {
+    "c": 23,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Contra a hipocrisia; “Jerusalém, quantas vezes quis reunir os teus filhos!”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Jesus pronuncia uma série de “ais” (lamento profético que anuncia desgraça, cf. Is 5,8-23) contra os escribas e fariseus hipócritas: fecham o Reino aos outros; devoram as casas das viúvas com pretexto de longas orações; percorrem mar e terra para fazer um prosélito e o tornam pior; fazem distinções enganosas nos juramentos; pagam o dízimo da hortelã e do cominho e descuidam o essencial (a justiça, a misericórdia e a fé), coando o mosquito e engolindo o camelo (ambos animais impuros); limpam o exterior do copo e por dentro estão cheios de rapina; são sepulcros caiados (pintados de branco para que ninguém se contaminasse ao tocá-los); edificam os túmulos dos profetas que os pais mataram. Encherão a medida dos pais, até o sangue de Abel e de Zacarias. Termina com o lamento: “Jerusalém, Jerusalém… quantas vezes quis reunir os teus filhos, como a galinha reúne os pintinhos, e não quiseste!” A casa ficará deserta até que digam: “Bendito o que vem em nome do Senhor”.",
     "alegorico": "Os “ais” são o juízo do Messias sobre uma religião de aparência. O lamento sobre Jerusalém revela o coração de Deus, que ama como uma mãe e respeita a liberdade dos filhos. A casa deserta anuncia a destruição do Templo; a aclamação final aponta para a vinda gloriosa de Cristo, quando Israel o reconhecerá.",
@@ -21,88 +30,177 @@
       "Deixo-me reunir por Jesus, ou resisto ao seu amor?"
     ],
     "oratio_guia": "Senhor Jesus, que choraste sobre Jerusalém, purifica-me por dentro e livra-me da hipocrisia. Ensina-me a viver a justiça, a misericórdia e a fé. Reúne-me sob as tuas asas, e que eu não resista ao teu amor. Amém.",
-    "contemplatio_foco": { "texto": "Quantas vezes quis eu juntar os teus filhos, como a galinha junta os seus pintos debaixo das asas, e tu não quiseste!", "ref": "Mt 23,37" }
+    "contemplatio_foco": {
+      "texto": "Quantas vezes eu quis juntar teus filhos, como a galinha recolhe debaixo das asas os seus pintos, e tu não quiseste!",
+      "ref": "Mt 23,37"
+    }
   },
   "ancoras": {
     "23:14": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:14#3", "sintese": "Quem toma da religião pretexto para o mal merece castigo mais severo." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:14#3",
+          "sintese": "Quem toma da religião pretexto para o mal merece castigo mais severo."
+        }
       ],
-      "nota": { "texto": "Este versículo falta em vários manuscritos gregos antigos e em algumas edições modernas, mas está na Vulgata e em Matos Soares.", "origem": "ia" }
+      "nota": {
+        "texto": "Este versículo falta em vários manuscritos gregos antigos e em algumas edições modernas, mas está na Vulgata e em Matos Soares.",
+        "origem": "ia"
+      }
     },
     "23:15": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Moral. 31, 9", "catena": "23:15#6", "sintese": "Os hipócritas dizem coisas retas e geram filhos com boas instruções, mas não sabem criá-los com vida boa." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:15#10", "sintese": "O discípulo imita o mestre virtuoso, mas excede o mau." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 31, 9",
+          "catena": "23:15#6",
+          "sintese": "Os hipócritas dizem coisas retas e geram filhos com boas instruções, mas não sabem criá-los com vida boa."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:15#10",
+          "sintese": "O discípulo imita o mestre virtuoso, mas excede o mau."
+        }
       ],
       "nota": null
     },
     "23:16": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "23:16–22#2", "sintese": "Quem jurava pelo altar não era réu de perjúrio; quem jurava pela oferta, sim, por cobiça das ofertas." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "23:16–22#2",
+          "sintese": "Quem jurava pelo altar não era réu de perjúrio; quem jurava pela oferta, sim, por cobiça das ofertas."
+        }
       ],
       "nota": null
     },
     "23:23": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:23–24#0", "sintese": "Eram escrupulosos nas coisas pequenas e descuidavam as importantes." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:23–24#0",
+          "sintese": "Eram escrupulosos nas coisas pequenas e descuidavam as importantes."
+        }
       ],
       "nota": null
     },
     "23:24": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "23:23–24#6", "sintese": "O camelo são os preceitos graves, o juízo, a misericórdia e a fé; o mosquito, o dízimo das ervas sem valor." },
-        { "autor": "São Gregório Magno", "obra": "Moral. 1, 15", "catena": "23:23–24#8", "sintese": "Coaram o mosquito ao pedir o ladrão sedicioso; engoliram o camelo ao pedir a morte daquele que se curvou para levar a carga da nossa mortalidade." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "23:23–24#6",
+          "sintese": "O camelo são os preceitos graves, o juízo, a misericórdia e a fé; o mosquito, o dízimo das ervas sem valor."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 1, 15",
+          "catena": "23:23–24#8",
+          "sintese": "Coaram o mosquito ao pedir o ladrão sedicioso; engoliram o camelo ao pedir a morte daquele que se curvou para levar a carga da nossa mortalidade."
+        }
       ],
       "nota": null
     },
     "23:26": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "23:25–26#2", "sintese": "É o interior do copo que se usa; se está sujo, de que serve limpar o exterior?" }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "23:25–26#2",
+          "sintese": "É o interior do copo que se usa; se está sujo, de que serve limpar o exterior?"
+        }
       ],
       "nota": null
     },
     "23:27": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "23:27–28#2", "sintese": "Os mestres perversos aparentam pureza nas vestes e humildade nas palavras, mas por dentro estão cheios de cobiça e luxúria." },
-        { "autor": "São Gregório Magno", "obra": "Moral. 26, 32", "catena": "23:27–28#4", "sintese": "Não podem alegar ignorância: assumindo a forma da santidade, testemunham que sabem como se deve viver." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "23:27–28#2",
+          "sintese": "Os mestres perversos aparentam pureza nas vestes e humildade nas palavras, mas por dentro estão cheios de cobiça e luxúria."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Moral. 26, 32",
+          "catena": "23:27–28#4",
+          "sintese": "Não podem alegar ignorância: assumindo a forma da santidade, testemunham que sabem como se deve viver."
+        }
       ],
       "nota": null
     },
     "23:29": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": "Hom. 74", "catena": "23:29–31#2", "sintese": "Não os censura por edificarem sepulcros, mas pela intenção: levantar a si mesmos um monumento triunfal do homicídio." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 74",
+          "catena": "23:29–31#2",
+          "sintese": "Não os censura por edificarem sepulcros, mas pela intenção: levantar a si mesmos um monumento triunfal do homicídio."
+        }
       ],
       "nota": null
     },
     "23:35": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:32–36#15", "sintese": "Nomeia Abel, morto por inveja como Cristo, e Zacarias, pela dupla semelhança: o lugar sagrado e a pessoa sagrada." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:32–36#15",
+          "sintese": "Nomeia Abel, morto por inveja como Cristo, e Zacarias, pela dupla semelhança: o lugar sagrado e a pessoa sagrada."
+        }
       ],
-      "nota": { "texto": "Abel é o primeiro mártir da Bíblia (Gn 4,8) e Zacarias, morto no átrio do Templo (2Cr 24,20-22), o último do cânon hebraico, que termina com as Crônicas: de A a Z, todo o sangue justo.", "origem": "ia" }
+      "nota": {
+        "texto": "Abel é o primeiro mártir da Bíblia (Gn 4,8) e Zacarias, morto no átrio do Templo (2Cr 24,20-22), o último do cânon hebraico, que termina com as Crônicas: de A a Z, todo o sangue justo.",
+        "origem": "ia"
+      }
     },
     "23:37": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:37–39#0", "sintese": "A repetição do nome, “Jerusalém, Jerusalém”, é sinal de compaixão e de amor intenso." },
-        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 36", "catena": "23:37–39#4", "sintese": "A galinha tem tal afeto pelos pintinhos que adoece com eles e luta contra o milhafre." },
-        { "autor": "Santo Agostinho", "obra": "Enchiridion 97", "catena": "23:37–39#7", "sintese": "Ela não quis que os filhos fossem reunidos; e, contudo, mesmo contra a vontade dela, Ele reuniu os que quis." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:37–39#0",
+          "sintese": "A repetição do nome, “Jerusalém, Jerusalém”, é sinal de compaixão e de amor intenso."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Quaest. Evang. 1, 36",
+          "catena": "23:37–39#4",
+          "sintese": "A galinha tem tal afeto pelos pintinhos que adoece com eles e luta contra o milhafre."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "Enchiridion 97",
+          "catena": "23:37–39#7",
+          "sintese": "Ela não quis que os filhos fossem reunidos; e, contudo, mesmo contra a vontade dela, Ele reuniu os que quis."
+        }
       ],
       "nota": null
     },
     "23:39": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:37–39#12", "sintese": "Alude veladamente à sua segunda vinda, quando certamente o adorarão." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "23:37–39#12",
+          "sintese": "Alude veladamente à sua segunda vinda, quando certamente o adorarão."
+        }
       ],
       "nota": null
     }

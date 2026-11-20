@@ -4,9 +4,18 @@
   "titulo": "Primeiro anúncio da Paixão; tomar a cruz",
   "secao": "A formação dos discípulos",
   "referencia": "Mt 16,21-28",
-  "ini": { "c": 16, "v": 21 },
-  "fim": { "c": 16, "v": 28 },
-  "liturgia": { "tema_central": "Quem quiser seguir-me, renuncie a si mesmo, tome a sua cruz e siga-me", "usos": [] },
+  "ini": {
+    "c": 16,
+    "v": 21
+  },
+  "fim": {
+    "c": 16,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Quem quiser seguir-me, renuncie a si mesmo, tome a sua cruz e siga-me",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "“Desde então”, marco que abre uma nova etapa em Mateus, Jesus começa a anunciar que deve ir a Jerusalém, sofrer muito dos anciãos, sumos sacerdotes e escribas (as três classes do Sinédrio), ser morto e ressuscitar ao terceiro dia. Pedro o chama à parte e o repreende: “Isso não te acontecerá”. Jesus responde: “Para trás de mim, Satanás”, pois Pedro, que acabara de ser chamado pedra, torna-se pedra de tropeço, pensando como os homens. Segue o ensinamento sobre o discipulado: renunciar a si mesmo, tomar a cruz, perder a vida para encontrá-la. De que adianta ganhar o mundo e perder a alma? O Filho do Homem virá na glória do Pai, e alguns dos presentes verão o Filho do Homem vindo no seu Reino.",
     "alegorico": "A cruz de Cristo é o caminho da glória: o grão de trigo deve cair na terra e morrer. Pedro, que não queria a Paixão, mostra a resistência humana ao mistério pascal. A promessa final cumpriu-se, segundo os Padres, na Transfiguração, quando três discípulos viram antecipadamente a glória do Reino, e também no crescimento da Igreja.",
@@ -21,61 +30,129 @@
       "O que estou disposto a perder para não perder a minha alma?"
     ],
     "oratio_guia": "Senhor Jesus, que caminhaste para a cruz por amor, dá-me pensar segundo Deus e não segundo os homens. Ensina-me a renunciar a mim mesmo, a tomar a minha cruz e a seguir-te, para encontrar a verdadeira vida. Amém.",
-    "contemplatio_foco": { "texto": "Que aproveitará ao homem ganhar o mundo inteiro, se vier a perder a sua alma?", "ref": "Mt 16,26" }
+    "contemplatio_foco": {
+      "texto": "Que aproveitará a um homem ganhar todo o mundo, se vier a perder a sua alma?",
+      "ref": "Mt 16,26"
+    }
   },
   "ancoras": {
     "16:21": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:20–21#3", "sintese": "O que se segue explica por que os proibia de dizer que Ele era o Cristo: devia primeiro padecer." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:20–21#3",
+          "sintese": "O que se segue explica por que os proibia de dizer que Ele era o Cristo: devia primeiro padecer."
+        }
       ],
       "nota": null
     },
     "16:22": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:22–23#1", "sintese": "Pedro tinha um zelo ardentíssimo e um amor imenso ao Senhor." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:22–23#5", "sintese": "Medindo as coisas de Cristo por critérios terrenos, julgou baixo e indigno dele padecer: a confissão anterior não fora dita por si mesmo." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:22–23#1",
+          "sintese": "Pedro tinha um zelo ardentíssimo e um amor imenso ao Senhor."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:22–23#5",
+          "sintese": "Medindo as coisas de Cristo por critérios terrenos, julgou baixo e indigno dele padecer: a confissão anterior não fora dita por si mesmo."
+        }
       ],
       "nota": null
     },
     "16:23": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:22–23#4", "sintese": "Nunca me parecerá sugestão do diabo este erro, que procede do ardor do afeto; o poder fora prometido a Pedro para o futuro." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:22–23#6", "sintese": "É vontade minha e do Pai que eu morra pela salvação dos homens; tu não queres que o grão de trigo caia na terra." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:22–23#4",
+          "sintese": "Nunca me parecerá sugestão do diabo este erro, que procede do ardor do afeto; o poder fora prometido a Pedro para o futuro."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:22–23#6",
+          "sintese": "É vontade minha e do Pai que eu morra pela salvação dos homens; tu não queres que o grão de trigo caia na terra."
+        }
       ],
       "nota": null
     },
     "16:24": {
       "cic": [],
       "padres": [
-        { "autor": "São Gregório Magno", "obra": "Hom. sobre Ezequiel 1, 10", "catena": "16:24–25#2", "sintese": "Renega-se a si mesmo quem é mudado para melhor: começa a ser o que não era e deixa de ser o que era." },
-        { "autor": "São Gregório Magno", "obra": "Hom. 32 sobre os Evangelhos, 3", "catena": "16:24–25#8", "sintese": "Dois modos de tomar a cruz: o corpo afligido pela abstinência, ou o coração que padece pela compaixão para com o próximo." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:24–25#9", "sintese": "Toma a sua cruz quem está crucificado para o mundo; e quem tem o mundo crucificado segue o Senhor crucificado." }
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. sobre Ezequiel 1, 10",
+          "catena": "16:24–25#2",
+          "sintese": "Renega-se a si mesmo quem é mudado para melhor: começa a ser o que não era e deixa de ser o que era."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "Hom. 32 sobre os Evangelhos, 3",
+          "catena": "16:24–25#8",
+          "sintese": "Dois modos de tomar a cruz: o corpo afligido pela abstinência, ou o coração que padece pela compaixão para com o próximo."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:24–25#9",
+          "sintese": "Toma a sua cruz quem está crucificado para o mundo; e quem tem o mundo crucificado segue o Senhor crucificado."
+        }
       ],
       "nota": null
     },
     "16:26": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:26–28#2", "sintese": "Ainda que reinasses sobre o mundo inteiro, não poderias comprar a tua alma." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:26–28#2",
+          "sintese": "Ainda que reinasses sobre o mundo inteiro, não poderias comprar a tua alma."
+        }
       ],
       "nota": null
     },
     "16:27": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:26–28#7", "sintese": "Não disse “numa glória como a do Pai”, mas “na glória do Pai”: é a mesma glória." },
-        { "autor": "São Jerônimo", "obra": null, "catena": "16:26–28#8", "sintese": "Não há distinção entre judeu e gentio, pobre e rico: não se olham as pessoas, mas as obras." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "16:26–28#7",
+          "sintese": "Não disse “numa glória como a do Pai”, mas “na glória do Pai”: é a mesma glória."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "16:26–28#8",
+          "sintese": "Não há distinção entre judeu e gentio, pobre e rico: não se olham as pessoas, mas as obras."
+        }
       ],
       "nota": null
     },
     "16:28": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": "Hom. 56", "catena": "16:26–28#11", "sintese": "Querendo mostrar a glória da sua vinda futura, revelou-a nesta vida, na Transfiguração, na medida em que podiam recebê-la." },
-        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "16:26–28#14", "sintese": "Ou: o Reino de Deus é a Igreja presente, que alguns discípulos viveriam o bastante para ver erguida." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 56",
+          "catena": "16:26–28#11",
+          "sintese": "Querendo mostrar a glória da sua vinda futura, revelou-a nesta vida, na Transfiguração, na medida em que podiam recebê-la."
+        },
+        {
+          "autor": "São Gregório Magno",
+          "obra": "ubi sup.",
+          "catena": "16:26–28#14",
+          "sintese": "Ou: o Reino de Deus é a Igreja presente, que alguns discípulos viveriam o bastante para ver erguida."
+        }
       ],
       "nota": null
     }

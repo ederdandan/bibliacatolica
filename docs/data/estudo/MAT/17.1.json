@@ -4,9 +4,18 @@
   "titulo": "A Transfiguração",
   "secao": "A formação dos discípulos",
   "referencia": "Mt 17,1-13",
-  "ini": { "c": 17, "v": 1 },
-  "fim": { "c": 17, "v": 13 },
-  "liturgia": { "tema_central": "“Este é o meu Filho muito amado: ouvi-o”", "usos": [] },
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "“Este é o meu Filho muito amado: ouvi-o”",
+    "usos": []
+  },
   "quatro_sentidos": {
     "literal": "Seis dias depois do anúncio da Paixão, Jesus leva Pedro, Tiago e João a um monte alto (a tradição o identifica com o Tabor) e transfigura-se diante deles: o rosto brilha como o sol e as vestes tornam-se brancas como a luz. Aparecem Moisés e Elias, a Lei e os Profetas, conversando com Ele. Pedro propõe fazer três tendas. Uma nuvem luminosa os cobre e a voz do Pai diz: “Este é o meu Filho muito amado, em quem pus a minha complacência; ouvi-o”. Os discípulos caem por terra com medo; Jesus os toca: “Levantai-vos e não temais”. Na descida, manda guardar silêncio até a Ressurreição e explica que Elias já veio, em João Batista, e não o reconheceram; assim também o Filho do Homem há de sofrer.",
     "alegorico": "A glória que os três veem é a da vinda futura, antecipada para que não se escandalizassem com a Cruz. Moisés e Elias testemunham que a Lei e os Profetas convergem para Cristo. A nuvem luminosa evoca a presença de Deus no Êxodo; a voz do Pai repete a do Batismo e acrescenta “ouvi-o”: Cristo é o profeta anunciado por Moisés (Dt 18,15). Não há três tendas, mas uma só, a do Evangelho.",
@@ -21,58 +30,111 @@
       "Aceito descer do monte e seguir Jesus no caminho da cruz?"
     ],
     "oratio_guia": "Senhor Jesus, transfigurado no monte, deixa-me contemplar a tua glória e fortalece a minha fé para o caminho da cruz. Que eu ouça a tua voz, como pede o Pai, e que o teu toque dissipe o meu medo. Amém.",
-    "contemplatio_foco": { "texto": "Este é o meu Filho muito amado; ouvi-o.", "ref": "Mt 17,5" }
+    "contemplatio_foco": {
+      "texto": "Este é o meu Filho dilecto em quem pus toda a minha complacência; ouvi-o.",
+      "ref": "Mt 17,5"
+    }
   },
   "ancoras": {
     "17:1": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "17:1–4#1", "sintese": "Lucas diz oito dias; Mateus conta só os dias intermédios, Lucas inclui o primeiro e o último." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:1–4#5", "sintese": "Tomou estes três porque os preferia; e Mateus não esconde quem foi preferido a ele." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "17:1–4#1",
+          "sintese": "Lucas diz oito dias; Mateus conta só os dias intermédios, Lucas inclui o primeiro e o último."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "17:1–4#5",
+          "sintese": "Tomou estes três porque os preferia; e Mateus não esconde quem foi preferido a ele."
+        }
       ],
       "nota": null
     },
     "17:2": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "17:1–4#9", "sintese": "Tal como há de ser no juízo, assim foi visto pelos apóstolos; não perdeu a sua forma e as suas feições." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "17:1–4#9",
+          "sintese": "Tal como há de ser no juízo, assim foi visto pelos apóstolos; não perdeu a sua forma e as suas feições."
+        }
       ],
       "nota": null
     },
     "17:3": {
       "cic": [],
       "padres": [
-        { "autor": "Santo Hilário", "obra": null, "catena": "17:1–4#14", "sintese": "Só Moisés e Elias aparecem, porque Cristo, no seu Reino, está entre a Lei e os Profetas." }
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "17:1–4#14",
+          "sintese": "Só Moisés e Elias aparecem, porque Cristo, no seu Reino, está entre a Lei e os Profetas."
+        }
       ],
       "nota": null
     },
     "17:4": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "17:1–4#19", "sintese": "Erras, Pedro: não penses em três tendas, quando há só uma tenda do Evangelho." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "17:1–4#19",
+          "sintese": "Erras, Pedro: não penses em três tendas, quando há só uma tenda do Evangelho."
+        }
       ],
       "nota": null
     },
     "17:5": {
       "cic": [],
       "padres": [
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:5–9#1", "sintese": "Quando ameaça, Deus mostra uma nuvem escura, como no Sinai; aqui, querendo ensinar e não aterrorizar, mostra uma nuvem luminosa." },
-        { "autor": "Santo Hilário", "obra": null, "catena": "17:5–9#7", "sintese": "Este é o Filho, o Amado, o Aceito; e é Ele que deve ser ouvido." }
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "17:5–9#1",
+          "sintese": "Quando ameaça, Deus mostra uma nuvem escura, como no Sinai; aqui, querendo ensinar e não aterrorizar, mostra uma nuvem luminosa."
+        },
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "17:5–9#7",
+          "sintese": "Este é o Filho, o Amado, o Aceito; e é Ele que deve ser ouvido."
+        }
       ],
       "nota": null
     },
     "17:7": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "17:5–9#14", "sintese": "Como estavam prostrados e não podiam levantar-se, aproxima-se e toca-os suavemente, para que o seu toque dissipe o medo." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "17:5–9#14",
+          "sintese": "Como estavam prostrados e não podiam levantar-se, aproxima-se e toca-os suavemente, para que o seu toque dissipe o medo."
+        }
       ],
       "nota": null
     },
     "17:12": {
       "cic": [],
       "padres": [
-        { "autor": "São Jerônimo", "obra": null, "catena": "17:10–13#4", "sintese": "Aquele que virá em corpo na segunda vinda veio agora em João, no espírito e no poder." },
-        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:10–13#6", "sintese": "Aproveita a paixão de João para lembrar a sua própria, dando-lhes assim conforto." }
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "17:10–13#4",
+          "sintese": "Aquele que virá em corpo na segunda vinda veio agora em João, no espírito e no poder."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "17:10–13#6",
+          "sintese": "Aproveita a paixão de João para lembrar a sua própria, dando-lhes assim conforto."
+        }
       ],
       "nota": null
     }
