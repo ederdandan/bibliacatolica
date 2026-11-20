@@ -1,0 +1,79 @@
+{
+  "id": "LUK.13.10",
+  "livro": "LUK",
+  "titulo": "A cura da mulher encurvada; o grão de mostarda e o fermento",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 13,10-21",
+  "ini": { "c": 13, "v": 10 },
+  "fim": { "c": 13, "v": 21 },
+  "liturgia": { "tema_central": "Cristo endireita os que estão curvados; o Reino que cresce do pequeno", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Num sábado, Jesus ensina numa sinagoga. Está ali uma mulher que, há dezoito anos, um espírito mantinha doente: andava curvada e não podia endireitar-se. Jesus chama-a: “Mulher, estás livre da tua enfermidade”, impõe-lhe as mãos, e ela endireita-se e glorifica a Deus. O chefe da sinagoga, indignado, diz ao povo que há seis dias para ser curado. Jesus responde: “Hipócritas, cada um de vós não solta ao sábado o boi ou o jumento para lhe dar de beber? E esta filha de Abraão, que Satanás tinha presa havia dezoito anos, não devia ser solta no sábado?” Os adversários ficam envergonhados e o povo alegra-se. Jesus compara o Reino ao grão de mostarda que se torna árvore onde as aves fazem ninho, e ao fermento que uma mulher mistura em três medidas de farinha até tudo levedar.",
+    "alegorico": "A mulher curvada é a natureza humana dobrada pelo pecado, e também a Igreja reunida de ambos os povos, filha de Abraão pela fé, que Cristo endireita. O grão é Cristo, semeado no jardim da Igreja, e o Evangelho, que cresce até cobrir o mundo. O fermento escondido em três medidas é o Filho, escondido na Lei, velado nos Profetas e manifestado no Evangelho; ou o amor, que leveda o coração, a alma e as forças.",
+    "moral": "O homem foi feito de cabeça erguida para olhar o céu; quem pensa só no terreno tem o coração curvado. Deus descansou das obras do mundo, não das obras santas: cessem as nossas obras mundanas, não as de piedade. O chefe da sinagoga é hipócrita porque não o inquietava o sábado, mas a glória de Cristo. Ninguém se torna perfeito de repente: o Reino cresce também em cada alma, pouco a pouco.",
+    "anagogico": "A cura no sábado é sinal do sábado eterno, em que seremos libertados de toda carga. O fermento do amor começa aqui a levedar a alma inteira e consumará a sua obra na vida futura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estava lá uma mulher possessa de um espírito que a tinha doente havia dezoito anos; andava encurvada, e não podia absolutamente levantar a cabeça. Jesus, vendo-a, chamou-a, e disse-lhe: “Mulher, estás livre da tua enfermidade”; impôs-lhe as mãos. Imediatamente ficou direita, e glorificava a Deus. O Senhor disse: “E esta filha de Abraão, que Satanás tinha presa, há dezoito anos não devia ser livre desta prisão ao sábado?” Dizia também: “O reino de Deus é semelhante a um grão de mostarda, que um homem tomou e semeou na sua horta; cresceu, tornou-se uma grande planta. É semelhante ao fermento que uma mulher tomou e misturou em três medidas de farinha, até que ficasse tudo levedado”.",
+    "meditatio_perguntas": [
+      "O que me mantém curvado, incapaz de levantar os olhos para Deus?",
+      "Alegro-me com o bem que Deus faz nos outros, ou incomoda-me?",
+      "Confio no crescimento lento do Reino na minha alma?"
+    ],
+    "oratio_guia": "Senhor Jesus, que viste a mulher curvada e a chamaste, olha também para mim e endireita-me com as tuas mãos. Liberta-me de tudo o que me prende à terra, para que eu possa olhar para o céu e glorificar a Deus. Faz crescer em mim, como grão e fermento, o teu Reino de amor. Amém.",
+    "contemplatio_foco": { "texto": "Mulher, estás livre da tua enfermidade.", "ref": "Lc 13,12" }
+  },
+  "ancoras": {
+    "13:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Hom. 9 in Hexaem.", "catena": "13:10–17#3", "sintese": "A cabeça dos animais olha para o chão; a do homem foi feita erguida para o céu, para buscar as coisas do alto." }
+      ],
+      "nota": null
+    },
+    "13:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 31 in Evang.", "catena": "13:10–17#13", "sintese": "O pecador preso ao terreno tem o coração curvado; o Senhor chama-o e endireita-o, iluminando-o e socorrendo-o." }
+      ],
+      "nota": null
+    },
+    "13:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "13:10–17#5", "sintese": "Deus descansou das obras do mundo, não das santas: cessem as nossas obras mundanas, não as religiosas." }
+      ],
+      "nota": null
+    },
+    "13:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "13:10–17#7", "sintese": "Hipócrita: não o inquietava a violação do sábado, mas que Cristo fosse glorificado." }
+      ],
+      "nota": null
+    },
+    "13:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:10–17#15", "sintese": "A filha de Abraão é toda alma fiel, ou a Igreja de ambos os povos, libertada da escravidão das inclinações." }
+      ],
+      "nota": null
+    },
+    "13:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:18–21#3", "sintese": "O homem é Cristo e o jardim a Igreja; o Evangelho cresce no mundo e em cada fiel, pois ninguém se torna perfeito de repente." }
+      ],
+      "nota": null
+    },
+    "13:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "13:18–21#7", "sintese": "Somos a farinha que esconde Jesus no íntimo; o Filho foi escondido na Lei, velado nos Profetas, manifestado no Evangelho." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:18–21#11", "sintese": "O fermento é o amor, que leva a amar a Deus de todo o coração, mente e forças, até que mova a alma inteira à perfeição." }
+      ],
+      "nota": { "texto": "Três “medidas” (satos) davam cerca de 40 litros de farinha: pão para mais de cem pessoas. Pequeno o fermento, enorme o resultado.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

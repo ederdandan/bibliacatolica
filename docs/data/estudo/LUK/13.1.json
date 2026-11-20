@@ -1,0 +1,74 @@
+{
+  "id": "LUK.13.1",
+  "livro": "LUK",
+  "titulo": "O apelo à conversão; a figueira estéril",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 13,1-9",
+  "ini": { "c": 13, "v": 1 },
+  "fim": { "c": 13, "v": 9 },
+  "liturgia": { "tema_central": "Se não vos converterdes… a paciência de Deus que espera fruto", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Contam a Jesus que Pilatos misturara o sangue de alguns galileus com o dos seus sacrifícios. Jesus pergunta: julgais que eram mais pecadores do que os outros galileus? Não; mas, se não fizerdes penitência, todos perecereis do mesmo modo. O mesmo diz dos dezoito mortos pela queda da torre de Siloé. Conta então a parábola: um homem tinha uma figueira na sua vinha; há três anos procura fruto e não encontra. “Corta-a; para que ocupa inutilmente a terra?” O vinhateiro intercede: “Senhor, deixa-a ainda este ano; eu cavarei em volta e lhe deitarei adubo. Se der fruto, bem; senão, cortá-la-ás depois.”",
+    "alegorico": "A figueira é Israel, e também o gênero humano, que Deus visitou três vezes: antes da Lei, sob a Lei e sob a graça, sem encontrar fruto. O dono é o Pai; o vinhateiro que intercede é Cristo, que rega a figueira com os seus sofrimentos e o seu ensino. A torre que cai sobre uma parte é aviso para a cidade inteira, que, impenitente, cairá sob os romanos.",
+    "moral": "As desgraças alheias não são prova de culpa maior, mas ocasião de conversão para quem as vê. Cada um de nós é uma figueira na vinha de Deus: quem não dá fruto ocupa inutilmente a terra e tira a outro a ocasião de trabalhar. Deus não castiga em silêncio: ameaça para chamar à penitência. O adubo pode ser a lembrança dos próprios pecados, da qual a alma revive para as boas obras. Na correção dos outros, não cortar de repente a figueira que ainda pode dar fruto.",
+    "anagogico": "“Ainda este ano”: o tempo presente é o ano da paciência de Deus. Depois virá o Juiz dos vivos e dos mortos; a conversão adiada até ao fim pode encontrar a árvore já cortada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Chegaram alguns a dar-lhe a notícia de certos galileus, cujo sangue Pilatos misturara com o dos sacrifícios deles. Jesus respondeu-lhes: “Vós julgais que aqueles galileus eram maiores pecadores que todos os outros galileus? Não, eu vo-lo digo; mas, se não fizerdes penitência, todos perecereis do mesmo modo”. Dizia também esta parábola: “Um homem tinha uma figueira plantada na sua vinha. Foi buscar fruto, e não o encontrou. Disse ao cultivador da vinha: Corta-a. Ele, porém, respondeu-lhe: Senhor, deixa-a ainda este ano, enquanto eu a cavo em roda, e lhe lanço esterco; se com isto der fruto, bem está”.",
+    "meditatio_perguntas": [
+      "Diante das tragédias dos outros, julgo-os ou deixo que elas me chamem à conversão?",
+      "Que frutos o Senhor procura na minha vida e não encontra?",
+      "Como estou a usar o “ano” de paciência que Ele ainda me concede?"
+    ],
+    "oratio_guia": "Senhor, vinhateiro paciente, obrigado por intercederes por mim quando sou figueira estéril. Cava em volta do meu coração e aduba-o com a tua graça, para que eu dê fruto. Não me deixes adiar a conversão, mas faz-me voltar a ti hoje. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, deixa-a ainda este ano", "ref": "Lc 13,8" }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "de Laz. Conc. 3.", "catena": "13:1–5#2", "sintese": "Deus castiga uns pondo termo à sua iniquidade; a outros poupa, para que pela penitência escapem da pena presente e da futura." }
+      ],
+      "nota": { "texto": "O episódio não é conhecido por outras fontes, mas condiz com a dureza de Pilatos descrita por Flávio Josefo.", "origem": "ia" }
+    },
+    "13:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "de Laz. Conc. 3.", "catena": "13:1–5#5", "sintese": "Cada um é castigado pelos próprios crimes; mas daí surge para os que veem uma ocasião de salvação." }
+      ],
+      "nota": null
+    },
+    "13:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "13:1–5#8", "sintese": "A ruína de uma torre aterroriza a cidade inteira: em breve toda ela será atingida, se persistir na impenitência." }
+      ],
+      "nota": null
+    },
+    "13:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:6–9#6", "sintese": "Também cada um de nós é uma figueira plantada na vinha de Deus, isto é, na Igreja ou no mundo." }
+      ],
+      "nota": null
+    },
+    "13:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 31 in Evang.", "catena": "13:6–9#7", "sintese": "Três vezes buscou a natureza humana: antes da Lei, sob a Lei e sob a graça, esperando, advertindo, visitando." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "13:6–9#9", "sintese": "Quem, em qualquer estado, não dá frutos de boas obras ocupa inutilmente a terra e tira a outro a ocasião de trabalhar." },
+        { "autor": "Pseudo-Basílio", "obra": "De Pœnit.", "catena": "13:6–9#10", "sintese": "É misericórdia de Deus não castigar em silêncio, mas ameaçar para chamar o pecador à penitência." }
+      ],
+      "nota": null
+    },
+    "13:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:6–9#13", "sintese": "O dono é o Pai e o vinhateiro é Cristo, que pede tempo para regar a figueira com os seus sofrimentos e ensinamentos." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "13:6–9#15", "sintese": "O adubo são os pecados lembrados: da memória do pecado a alma revive para as boas obras." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

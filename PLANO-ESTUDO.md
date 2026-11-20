@@ -196,7 +196,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 ## 8. Próximo passo
 
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
-   **Lucas** (em andamento): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: até 12.49 (46); próxima 13.1. Depois: João.
+   **Lucas** (em andamento): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: até 13.22 (49); próxima 14.1. Depois: João.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).

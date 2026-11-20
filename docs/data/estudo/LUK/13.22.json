@@ -1,0 +1,98 @@
+{
+  "id": "LUK.13.22",
+  "livro": "LUK",
+  "titulo": "A porta estreita; o lamento sobre Jerusalém",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 13,22-35",
+  "ini": { "c": 13, "v": 22 },
+  "fim": { "c": 13, "v": 35 },
+  "liturgia": { "tema_central": "Esforçai-vos por entrar pela porta estreita; o amor de Cristo por Jerusalém", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Caminhando para Jerusalém, Jesus ensina por cidades e aldeias. Alguém pergunta: “Senhor, são poucos os que se salvam?”. Ele não responde ao número, mas exorta: “Esforçai-vos por entrar pela porta estreita”, pois muitos procurarão entrar e não conseguirão. Fechada a porta pelo dono da casa, os de fora baterão: “Comemos e bebemos contigo, ensinaste nas nossas praças”; mas ele dirá: “Não sei donde sois; apartai-vos de mim, vós que praticais a iniquidade”. Verão Abraão, Isaac, Jacó e os profetas no Reino, e virão do oriente e do ocidente, do norte e do sul sentar-se à mesa; últimos serão primeiros. Fariseus avisam que Herodes o quer matar; Jesus responde: “Ide dizer a essa raposa” que ele continua a curar até ao terceiro dia, pois não convém que um profeta morra fora de Jerusalém. E lamenta: “Jerusalém, Jerusalém… quantas vezes quis juntar os teus filhos como a galinha os seus pintainhos, e tu não quiseste!”.",
+    "alegorico": "O dono da casa é Cristo, que introduzirá a Igreja na contemplação de si e fechará a porta da penitência aos réprobos. Os que vêm dos quatro pontos cardeais são os gentios, preferidos aos que se julgavam primeiros. Herodes, a raposa, figura os que tramam destruir a fé humilde; Cristo, a galinha que reúne sob as asas, é o amor materno de Deus pelo seu povo. O “terceiro dia” aponta para a consumação na ressurreição.",
+    "moral": "A porta estreita são os trabalhos e as provas que tornam forte o cristão; o jugo de Cristo é suave para quem o abraça de todo o coração. É preciso esforço, pois a onda do mundo arrasta a alma para o fundo. Não basta ter comido e bebido diante do Senhor, ouvindo a palavra, sem a praticar. Os que receberam a fé desde o berço podem ser últimos diante de pagãos convertidos no fim; muitos começam com fervor e esfriam.",
+    "anagogico": "A porta fechada e o banquete do Reino com os patriarcas descrevem o juízo final. “Não me vereis até que digais: Bendito o que vem”: quem não confessar o Filho não verá a sua face na segunda vinda."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Alguém lhe perguntou: “Senhor, são poucos os que se salvam?” Ele respondeu-lhes: “Esforçai-vos por entrar pela porta estreita, porque vos digo que muitos procurarão entrar, e não conseguirão. Virão muitos do oriente, do ocidente, do norte, do sul, e se sentarão à mesa no reino de Deus. Haverá últimos que serão os primeiros, e primeiros que serão os últimos. Jerusalém, Jerusalém, que matas os profetas, quantas vezes quis juntar os teus filhos como a galinha recolhe os seus pintainhos debaixo das asas, e tu não quiseste!”",
+    "meditatio_perguntas": [
+      "Preocupo-me mais com quantos se salvam do que com o meu próprio esforço de entrar?",
+      "Contento-me com “ter comido e bebido” diante do Senhor, sem viver o que ouço?",
+      "Quantas vezes Jesus quis reunir-me sob as suas asas, e eu não quis?"
+    ],
+    "oratio_guia": "Senhor Jesus, que choraste sobre Jerusalém, recolhe-me sob as tuas asas e vence a minha resistência. Dá-me força para entrar pela porta estreita e não me deixes ficar fora, junto dos que só te conheceram de ouvido. Que eu te bendiga como Aquele que vem em nome do Senhor. Amém.",
+    "contemplatio_foco": { "texto": "quantas vezes quis juntar os teus filhos como a galinha recolhe os seus pintainhos debaixo das asas, e tu não quiseste!", "ref": "Lc 13,34" }
+  },
+  "ancoras": {
+    "13:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:22–30#1", "sintese": "Percorria cidades e aldeias como Pai comum que provê a todos, e não evitava Jerusalém por medo da morte." }
+      ],
+      "nota": null
+    },
+    "13:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "13:22–30#4", "sintese": "A porta estreita são os trabalhos e sofrimentos dos santos; a resistência às provas torna o homem forte." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 24, 40 in Matth.", "catena": "13:22–30#5", "sintese": "Não contradiz o “jugo suave”: o penoso para a natureza torna-se fácil quando o abraçamos de todo o coração." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 11, c. 50.", "catena": "13:22–30#6", "sintese": "“Esforçai-vos”: se a mente não luta com vigor, não vence a onda do mundo, que arrasta a alma para o fundo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:22–30#9", "sintese": "Procurarão entrar pelo amor da salvação, mas não conseguirão, atemorizados pela aspereza do caminho." }
+      ],
+      "nota": null
+    },
+    "13:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:22–30#13", "sintese": "O dono da casa é Cristo: entrará quando introduzir a Igreja na sua contemplação e fechará a porta quando tirar aos réprobos o lugar de penitência." }
+      ],
+      "nota": null
+    },
+    "13:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:22–30#17", "sintese": "Come e bebe diante do Senhor quem recebe a palavra; mas de nada aproveita sem as obras." }
+      ],
+      "nota": null
+    },
+    "13:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 2, c. 5.", "catena": "13:22–30#14", "sintese": "Para Deus, não conhecer é reprovar: a luz da verdade não conhece as trevas que condena." }
+      ],
+      "nota": null
+    },
+    "13:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "13:22–30#25", "sintese": "Nós, educados na fé desde o berço, parecemos primeiros, e talvez sejamos últimos diante dos pagãos que creram no fim da vida." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:22–30#26", "sintese": "Muitos ardem no princípio e depois esfriam; outros, frios, inflamam-se de repente." }
+      ],
+      "nota": null
+    },
+    "13:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:31–35#1", "sintese": "Chama raposa a Herodes pela astúcia: figura dos que procuram destruir no coração dos fiéis a humildade da fé." }
+      ],
+      "nota": null
+    },
+    "13:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 75 in Matth.", "catena": "13:31–35#7", "sintese": "O nome repetido indica compaixão e grande amor, como o de quem ama e é desprezado." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:31–35#11", "sintese": "Chamou raposa a Herodes e compara-se a si mesmo a uma ave, pois as raposas espreitam as aves." },
+        { "autor": "Santo Agostinho", "obra": "Enchir. 97.", "catena": "13:31–35#10", "sintese": "Todos quantos reuni, reuni-os pela minha vontade sempre vitoriosa, apesar da tua má vontade." }
+      ],
+      "nota": null
+    },
+    "13:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "13:31–35#20", "sintese": "Se não fizerdes penitência e não confessardes o Filho do Pai, não vereis a minha face na segunda vinda." }
+      ],
+      "nota": { "texto": "“Bendito o que vem em nome do Senhor” (Sl 118,26) será a aclamação da entrada em Jerusalém (Lc 19,38).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
