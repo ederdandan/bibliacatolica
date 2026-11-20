@@ -1,0 +1,57 @@
+{
+  "id": "1TH.4.1",
+  "livro": "1TH",
+  "titulo": "A vontade de Deus é a vossa santificação",
+  "secao": "Exortações e esperança",
+  "referencia": "1Ts 4,1-12",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Deus não nos chamou para a impureza, mas para a santidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta os tessalonicenses a progredir ainda mais no modo de viver que agrada a Deus, segundo os preceitos dados da parte do Senhor Jesus. Esta é a vontade de Deus: a santificação deles. Que se abstenham da impureza; que cada um saiba possuir o próprio corpo em santidade e honra, não na paixão desordenada dos pagãos que não conhecem a Deus; que ninguém prejudique ou engane o irmão nesta matéria, porque o Senhor vinga todas estas coisas. Deus não nos chamou para a impureza, mas para a santidade; quem despreza isto não despreza um homem, mas Deus, que nos dá o seu Espírito Santo. Quanto ao amor fraterno, não precisam que lhes escreva: foram ensinados por Deus a amar-se, e já o praticam com todos os irmãos da Macedônia; mas devem progredir ainda mais. Procurem viver em paz, cuidar dos seus afazeres e trabalhar com as próprias mãos, para serem dignos aos olhos dos de fora e não dependerem de ninguém.",
+    "alegorico": "O corpo do cristão é morada do Espírito Santo que Deus “dá”: por isso a castidade é questão de culto, não só de disciplina. Os fiéis “ensinados por Deus” a amar-se cumprem a profecia de que todos seriam discípulos do Senhor (Is 54,13; Jr 31,34): a Igreja é o povo da nova aliança, com a lei escrita no coração.",
+    "moral": "A santidade não é opcional: é “a vontade de Deus” para todos. Ela inclui o domínio de si na sexualidade, vivida “em santidade e honra”, e a justiça para com o próximo. O amor fraterno deve sempre crescer. E a vida cristã é também sobriedade social: trabalhar, viver em paz, não ser peso para ninguém, dar bom testemunho aos de fora.",
+    "anagogico": "O Senhor “é vingador” dessas coisas: a vida moral tem peso eterno. O chamado à santidade é chamado ao Reino; o corpo vivido em santidade está destinado à ressurreição gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Esta é a vontade de Deus, que vos santifiqueis. Que cada um de vós saiba possuir o seu corpo em santidade e honra. Deus não nos chamou para a impureza, mas para a santidade. Vós mesmos aprendestes de Deus que vos deveis amar uns aos outros. Procurai viver em paz e trabalhar com as vossas mãos.",
+    "meditatio_perguntas": [
+      "Acredito que a santidade é, de fato, a vontade de Deus para mim?",
+      "Vivo o meu corpo “em santidade e honra”?",
+      "Meu modo de viver e trabalhar dá bom testemunho aos que estão fora da Igreja?"
+    ],
+    "oratio_guia": "Deus santo, que me chamaste à santidade e me deste o teu Espírito, ensina-me a viver o meu corpo em pureza e honra. Faz crescer em mim o amor fraterno e dá-me trabalhar em paz, para dar testemunho de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esta é a vontade de Deus, que vos santifiqueis.",
+      "ref": "1Ts 4,3"
+    }
+  },
+  "ancoras": {
+    "4:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Possuir o seu corpo” traduz uma expressão discutida: literalmente “o seu vaso”. Alguns entendem o próprio corpo, outros a própria esposa; em ambos os casos, trata-se da castidade.",
+        "origem": "ia"
+      }
+    },
+    "4:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ensinados por Deus” (theodídaktoi): termo cunhado por Paulo, eco de Is 54,13.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

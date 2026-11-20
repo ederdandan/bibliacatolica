@@ -1,0 +1,49 @@
+{
+  "id": "1TH.5.1",
+  "livro": "1TH",
+  "titulo": "Filhos da luz e filhos do dia",
+  "secao": "Exortações e esperança",
+  "referencia": "1Ts 5,1-11",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Vigiemos e sejamos sóbrios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quanto aos tempos e momentos, os tessalonicenses não precisam que lhes escrevam: sabem bem que o dia do Senhor virá como ladrão de noite. Quando disserem “paz e segurança”, a ruína cairá de repente, como as dores sobre a mulher grávida, e não escaparão. Mas eles não estão nas trevas, para que esse dia os surpreenda como ladrão: são filhos da luz e filhos do dia. Por isso não durmam como os outros, mas vigiem e sejam sóbrios. Os que dormem, dormem de noite; os que se embriagam, embriagam-se de noite. Os filhos do dia sejam sóbrios, revestidos da couraça da fé e da caridade e com o elmo da esperança da salvação. Deus não nos destinou à ira, mas à salvação por Jesus Cristo, que morreu por nós para que, vigiando ou dormindo, vivamos com Ele. Consolem-se e edifiquem-se mutuamente.",
+    "alegorico": "A noite é o tempo do pecado e da ignorância; o dia é Cristo, sol nascente. Os batizados, iluminados, são “filhos do dia”, e esperam o dia sem ocaso. A armadura da fé, da caridade e da esperança é a mesma que Isaías atribui a Deus, agora dada aos fiéis.",
+    "moral": "Não se trata de calcular datas, mas de viver vigilante. A falsa segurança (“paz e segurança”) é perigosa. A sobriedade, o contrário da embriaguez espiritual e material, é virtude do cristão que espera. E a esperança não é ansiedade: Deus destinou-nos à salvação. A vida comunitária deve ser consolo e edificação mútua.",
+    "anagogico": "“Vigiemos ou durmamos, vivamos juntamente com ele”: vivos ou mortos, os que estão em Cristo pertencem a Ele. O dia do Senhor, temível para os ímpios, é para os filhos da luz o dia do encontro e da salvação plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O dia do Senhor virá como um ladrão durante a noite. Todos sois filhos da luz e filhos do dia. Não durmamos, pois, como os outros, mas vigiemos e sejamos sóbrios, revestidos da couraça da fé e da caridade, e tendo por elmo a esperança da salvação. Deus não nos destinou para a ira, mas para alcançar a salvação.",
+    "meditatio_perguntas": [
+      "Vivo vigilante, ou adormecido numa falsa “paz e segurança”?",
+      "Em que preciso de mais sobriedade?",
+      "A esperança da salvação me protege como um elmo, ou me deixo dominar pelo medo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que morreste por mim para que eu viva contigo, faz-me viver como filho da luz, vigilante e sóbrio. Reveste-me da fé, da caridade e da esperança da salvação, para que o teu dia me encontre pronto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não durmamos, pois, como os outros, mas vigiemos e sejamos sóbrios.",
+      "ref": "1Ts 5,6"
+    }
+  },
+  "ancoras": {
+    "5:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem do ladrão vem do próprio Jesus (Mt 24,43; Lc 12,39) e reaparece em 2Pd 3,10 e Ap 3,3; 16,15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1TH.3.1",
+  "livro": "1TH",
+  "titulo": "Timóteo traz boas notícias",
+  "secao": "Memória e ação de graças",
+  "referencia": "1Ts 3,1-13",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Vivemos, se estais firmes no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Não aguentando mais a falta de notícias, Paulo ficou só em Atenas e enviou Timóteo, irmão e colaborador de Deus no Evangelho, para fortalecê-los e confortá-los na fé, para que ninguém se abalasse com as tribulações, às quais estamos destinados, como Paulo já lhes predissera. Temia que o tentador os tivesse tentado e que o seu trabalho fosse inútil. Mas Timóteo voltou com boas notícias da fé e da caridade deles, da boa lembrança que guardam de Paulo e do desejo de revê-lo. Isso o consolou em toda a sua angústia: “agora vivemos, porque estais firmes no Senhor”. Como agradecer a Deus por tanta alegria? Pede noite e dia para revê-los e completar o que falta à sua fé. Que Deus Pai e o Senhor Jesus abram o caminho; que o Senhor os faça crescer e abundar no amor mútuo e para com todos, e confirme os seus corações irrepreensíveis em santidade para a vinda do Senhor Jesus com todos os seus santos.",
+    "alegorico": "O envio de Timóteo e o seu regresso com boas notícias espelham a vida da Igreja como comunhão viva, em que os pastores se preocupam, visitam e se alegram com a fidelidade dos fiéis. A angústia do Apóstolo pela fé dos seus reflete a solicitude de Cristo pela sua Igreja.",
+    "moral": "As tribulações fazem parte do caminho cristão: “para isto fomos destinados”. Não devem surpreender nem abalar. O tentador age sobretudo nos momentos de prova; por isso a fé deve ser fortalecida e completada. A caridade não é estática: deve “crescer e abundar” para com todos, não só para com os irmãos.",
+    "anagogico": "A oração termina na vinda de Cristo “com todos os seus santos”: a santidade presente é preparação para esse encontro. Os corações confirmados na santidade serão apresentados irrepreensíveis diante do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enviamos Timóteo para vos fortalecer e confortar na vossa fé, a fim de que ninguém seja abalado por estas tribulações. Agora vivemos, visto que vós estais firmes no Senhor. O Senhor vos faça crescer e abundar na caridade, uns para com os outros, e para com todos. Que os vossos corações sejam confirmados na santidade.",
+    "meditatio_perguntas": [
+      "Deixo-me abalar pelas tribulações, ou as vejo como parte do caminho?",
+      "Alegro-me com a fidelidade dos outros como Paulo se alegrou?",
+      "Minha caridade cresce também para com os que não são da minha comunidade?"
+    ],
+    "oratio_guia": "Senhor Jesus, firma-me em ti nas tribulações e guarda-me das tentações do inimigo. Faz-me crescer e abundar no amor para com todos e confirma o meu coração na santidade, para a tua vinda com todos os teus santos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vos faça crescer e abundar na caridade, uns para com os outros, e para com todos.",
+      "ref": "1Ts 3,12"
+    }
+  },
+  "ancoras": {
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura do 1º Domingo do Advento, Ano C (1Ts 3,12–4,2): a santidade na espera do Senhor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1TH.4.13",
+  "livro": "1TH",
+  "titulo": "Os que morreram em Cristo e a vinda do Senhor",
+  "secao": "Exortações e esperança",
+  "referencia": "1Ts 4,13-18",
+  "ini": {
+    "c": 4,
+    "v": 13
+  },
+  "fim": {
+    "c": 4,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Estaremos para sempre com o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo não quer que os tessalonicenses fiquem na ignorância a respeito dos que morreram, para não se entristecerem como os outros que não têm esperança. Se cremos que Jesus morreu e ressuscitou, cremos também que Deus levará com Ele os que morreram em Jesus. Segundo a palavra do Senhor, os que estiverem vivos na sua vinda não terão vantagem sobre os que morreram. Pois o próprio Senhor, a um sinal, à voz do arcanjo e ao som da trombeta de Deus, descerá do céu, e os mortos em Cristo ressuscitarão primeiro; depois, os vivos serão arrebatados com eles nas nuvens, ao encontro do Senhor nos ares, e assim estaremos para sempre com o Senhor. Por isso, consolem-se uns aos outros com estas palavras.",
+    "alegorico": "A descrição usa imagens das teofanias do Antigo Testamento (trombeta, nuvens, voz) e do protocolo das visitas imperiais: quando o soberano chegava, a cidade saía “ao seu encontro” (apántēsis) para acompanhá-lo. A Igreja inteira, mortos e vivos, sairá ao encontro do seu Rei. A ressurreição de Cristo é a garantia e o modelo da nossa.",
+    "moral": "O cristão chora os seus mortos, mas não “como os que não têm esperança”. A fé na ressurreição muda o modo de viver o luto. A palavra final é uma tarefa: consolar-se mutuamente com a esperança. Rezar pelos falecidos e confortar os enlutados é obra de fé.",
+    "anagogico": "Este é um dos textos centrais da escatologia cristã: a Parusia, a ressurreição dos mortos e a comunhão definitiva com Cristo. “Assim estaremos para sempre com o Senhor” resume o próprio céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não queremos que estejais na ignorância acerca dos mortos, para que não vos entristeçais como os outros, que não têm esperança. Se cremos que Jesus morreu e ressuscitou, Deus trará com ele aqueles que morreram em Jesus. E assim estaremos para sempre com o Senhor. Portanto, consolai-vos uns aos outros com estas palavras.",
+    "meditatio_perguntas": [
+      "Como vivo a lembrança dos meus mortos: com tristeza sem esperança, ou na fé da ressurreição?",
+      "Desejo realmente “estar para sempre com o Senhor”?",
+      "Quem precisa hoje do meu consolo, com estas palavras de esperança?"
+    ],
+    "oratio_guia": "Senhor Jesus, que morreste e ressuscitaste, consola-me na perda dos que amo e firma-me na esperança. Leva contigo os que morreram em ti e dá-nos um dia estar para sempre contigo. Faz de mim consolo para os que choram. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim estaremos para sempre com o Senhor.",
+      "ref": "1Ts 4,17"
+    }
+  },
+  "ancoras": {
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo inclui-se entre os “vivos”, sem afirmar que a Parusia viria em seu tempo; em 5,1-2 diz que o momento é desconhecido.",
+        "origem": "ia"
+      }
+    },
+    "4:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Arrebatados” (Vulgata: rapiemur) não sustenta a ideia moderna de um “arrebatamento” secreto antes do fim: o texto descreve o encontro público com Cristo na sua vinda gloriosa. É leitura frequente nas Missas pelos fiéis defuntos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

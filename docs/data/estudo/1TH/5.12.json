@@ -1,0 +1,57 @@
+{
+  "id": "1TH.5.12",
+  "livro": "1TH",
+  "titulo": "Orai sem cessar",
+  "secao": "Exortações e esperança",
+  "referencia": "1Ts 5,12-28",
+  "ini": {
+    "c": 5,
+    "v": 12
+  },
+  "fim": {
+    "c": 5,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Estai sempre alegres, orai sem cessar, por tudo dai graças",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede consideração e especial caridade para com os que trabalham entre eles, os presidem no Senhor e os admoestam, por causa do seu serviço; e que vivam em paz. Que corrijam os desordenados, animem os desanimados, amparem os fracos, sejam pacientes com todos. Que ninguém pague o mal com o mal, mas procurem sempre o bem, entre si e para com todos. Estejam sempre alegres, orem sem cessar, deem graças em todas as circunstâncias: esta é a vontade de Deus em Cristo Jesus para eles. Não extingam o Espírito, não desprezem as profecias; examinem tudo e fiquem com o que é bom; afastem-se de toda espécie de mal. O Deus da paz os santifique totalmente, e todo o seu ser, espírito, alma e corpo, seja guardado irrepreensível para a vinda do Senhor. Fiel é quem os chama, e Ele o fará. Pede orações, a saudação com o ósculo santo, e que a carta seja lida a todos os irmãos.",
+    "alegorico": "A comunidade descrita, com presidentes no Senhor, profecias, discernimento, oração contínua e ósculo santo, é a Igreja em sua vida litúrgica e carismática ordenada. A ordem de ler a carta “a todos os irmãos” mostra o nascimento da leitura apostólica na assembleia, raiz da liturgia da Palavra.",
+    "moral": "Em poucas linhas, um programa de vida: respeito pelos pastores, correção fraterna, paciência, recusa da vingança, alegria, oração contínua, gratidão, discernimento. A “oração sem cessar” inspirou a tradição monástica e a oração de Jesus. O discernimento não apaga o Espírito nem aceita tudo: examina e retém o bom.",
+    "anagogico": "Todo o ser, espírito, alma e corpo, deve ser guardado “para a vinda de Nosso Senhor”: a santificação abrange o homem inteiro, destinado inteiro à glória. “Fiel é aquele que vos chamou”: a perseverança final é dom do Deus fiel."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vede que nenhum retribua a outro mal por mal. Estai sempre alegres; orai sem cessar; por tudo dai graças, porque esta é a vontade de Deus, em Jesus Cristo, em relação a todos vós. Não extingais o Espírito; examinai tudo e abraçai o que for bom. Fiel é aquele que vos chamou, o qual fará isso.",
+    "meditatio_perguntas": [
+      "O que me impede de estar “sempre alegre” e de dar graças por tudo?",
+      "Como posso fazer da minha vida uma oração contínua?",
+      "Extingo o Espírito com desconfiança, ou aceito tudo sem discernir?"
+    ],
+    "oratio_guia": "Deus da paz, santifica-me inteiramente, espírito, alma e corpo. Dá-me estar sempre alegre, orar sem cessar e dar graças em tudo. Não me deixes extinguir o teu Espírito; ensina-me a examinar tudo e reter o bem. Tu és fiel e o farás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Estai sempre alegres; orai sem cessar; por tudo dai graças.",
+      "ref": "1Ts 5,16-18"
+    }
+  },
+  "ancoras": {
+    "5:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição oriental (Filocalia) e os Relatos de um Peregrino russo fizeram deste versículo a base da “oração de Jesus”, repetida continuamente.",
+        "origem": "ia"
+      }
+    },
+    "5:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Espírito, alma e corpo: não é tratado de antropologia, mas modo de dizer “o homem todo”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

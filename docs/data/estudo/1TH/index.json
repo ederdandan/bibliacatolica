@@ -1,0 +1,121 @@
+{
+ "livro": "1TH",
+ "secoes": [
+  "Memória e ação de graças",
+  "Exortações e esperança"
+ ],
+ "pericopes": [
+  {
+   "id": "1TH.1.1",
+   "titulo": "A obra da fé, o trabalho da caridade, a constância da esperança",
+   "secao": "Memória e ação de graças",
+   "referencia": "1Ts 1,1-10",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 10
+   }
+  },
+  {
+   "id": "1TH.2.1",
+   "titulo": "Como a mãe que cuida dos filhos",
+   "secao": "Memória e ação de graças",
+   "referencia": "1Ts 2,1-12",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 12
+   }
+  },
+  {
+   "id": "1TH.2.13",
+   "titulo": "A palavra de Deus que opera em vós",
+   "secao": "Memória e ação de graças",
+   "referencia": "1Ts 2,13-20",
+   "ini": {
+    "c": 2,
+    "v": 13
+   },
+   "fim": {
+    "c": 2,
+    "v": 20
+   }
+  },
+  {
+   "id": "1TH.3.1",
+   "titulo": "Timóteo traz boas notícias",
+   "secao": "Memória e ação de graças",
+   "referencia": "1Ts 3,1-13",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 13
+   }
+  },
+  {
+   "id": "1TH.4.1",
+   "titulo": "A vontade de Deus é a vossa santificação",
+   "secao": "Exortações e esperança",
+   "referencia": "1Ts 4,1-12",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 12
+   }
+  },
+  {
+   "id": "1TH.4.13",
+   "titulo": "Os que morreram em Cristo e a vinda do Senhor",
+   "secao": "Exortações e esperança",
+   "referencia": "1Ts 4,13-18",
+   "ini": {
+    "c": 4,
+    "v": 13
+   },
+   "fim": {
+    "c": 4,
+    "v": 18
+   }
+  },
+  {
+   "id": "1TH.5.1",
+   "titulo": "Filhos da luz e filhos do dia",
+   "secao": "Exortações e esperança",
+   "referencia": "1Ts 5,1-11",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 11
+   }
+  },
+  {
+   "id": "1TH.5.12",
+   "titulo": "Orai sem cessar",
+   "secao": "Exortações e esperança",
+   "referencia": "1Ts 5,12-28",
+   "ini": {
+    "c": 5,
+    "v": 12
+   },
+   "fim": {
+    "c": 5,
+    "v": 28
+   }
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1TH.2.1",
+  "livro": "1TH",
+  "titulo": "Como a mãe que cuida dos filhos",
+  "secao": "Memória e ação de graças",
+  "referencia": "1Ts 2,1-12",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Desejávamos dar-vos não só o Evangelho, mas a nossa própria vida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo lembra a sua chegada a Tessalônica, que não foi em vão. Depois de ter sido maltratado em Filipos, teve coragem em Deus para anunciar o Evangelho no meio de muitas lutas. A sua pregação não vinha de erro, nem de impureza, nem de engano: aprovado por Deus para receber o Evangelho, fala não para agradar aos homens, mas a Deus, que sonda os corações. Nunca usou lisonja nem buscou lucro, Deus é testemunha, nem procurou glória humana. Podendo, como apóstolo, impor-se, fez-se pequeno no meio deles, como a mãe que acaricia os filhos; tanto os amava que queria dar-lhes não só o Evangelho, mas a própria vida. Trabalhou noite e dia para não ser peso a ninguém. Comportou-se de modo santo, justo e irrepreensível, e, como pai aos filhos, exortou cada um a viver de modo digno de Deus, que os chama ao seu Reino e à sua glória.",
+    "alegorico": "O Apóstolo é mãe e pai da comunidade: mãe na ternura, pai na exortação. Nele brilha a imagem de Cristo, o Bom Pastor que dá a vida pelas ovelhas, e de Deus, que nas Escrituras se compara à mãe que não esquece o filho. A Igreja, por sua vez, é mãe que gera e nutre os fiéis com o Evangelho.",
+    "moral": "Este é um retrato do verdadeiro pastor e evangelizador: sem lisonja, sem interesse, sem vaidade; humilde, terno, trabalhador, dando a própria vida. Quem anuncia o Evangelho deve agradar a Deus e não aos homens. E o amor verdadeiro não dá só palavras: dá a si mesmo.",
+    "anagogico": "Deus “vos chamou ao seu reino e à sua glória”: o cuidado materno e paterno do Apóstolo tem em vista essa meta. O ministério da Igreja é preparar os fiéis para a glória eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Falamos, não para agradar aos homens, mas a Deus, que sonda os nossos corações. Fizemo-nos pequenos entre vós. Como a mãe que cerca de ternos cuidados os seus filhos, assim, amando-vos muito, desejávamos dar-vos não só o Evangelho de Deus, mas ainda a nossa própria vida. Que andásseis de uma maneira digna de Deus, que vos chamou ao seu reino e à sua glória.",
+    "meditatio_perguntas": [
+      "Ao falar de Deus, procuro agradar a Deus ou aos homens?",
+      "Entrego aos outros não só palavras, mas a minha própria vida?",
+      "Quem foi para mim pai ou mãe na fé, e para quem eu o sou?"
+    ],
+    "oratio_guia": "Senhor, que sondas os corações, purifica as minhas intenções. Dá-me amar como Paulo amou, com ternura de mãe e firmeza de pai, entregando não só palavras, mas a vida. Que eu viva de modo digno de ti, que me chamas ao teu Reino e à tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como a mãe que cerca de ternos cuidados os seus filhos.",
+      "ref": "1Ts 2,7"
+    }
+  },
+  "ancoras": {
+    "2:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em Filipos, Paulo e Silas foram açoitados e presos (At 16,22-24).",
+        "origem": "ia"
+      }
+    },
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo trabalhava como fabricante de tendas (At 18,3), para não ser sustentado pelas comunidades nascentes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

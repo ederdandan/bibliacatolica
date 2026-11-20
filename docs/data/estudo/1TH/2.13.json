@@ -1,0 +1,49 @@
+{
+  "id": "1TH.2.13",
+  "livro": "1TH",
+  "titulo": "A palavra de Deus que opera em vós",
+  "secao": "Memória e ação de graças",
+  "referencia": "1Ts 2,13-20",
+  "ini": {
+    "c": 2,
+    "v": 13
+  },
+  "fim": {
+    "c": 2,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Não como palavra de homens, mas como palavra de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dá graças sem cessar porque os tessalonicenses acolheram a palavra pregada não como palavra de homens, mas, como verdadeiramente é, palavra de Deus, que opera neles, os que creem. Tornaram-se imitadores das igrejas da Judeia, sofrendo dos seus compatriotas o mesmo que aquelas sofreram dos judeus que mataram o Senhor Jesus e os profetas e que perseguiram os apóstolos, impedindo-os de pregar aos gentios. Paulo, separado deles por pouco tempo, de vista e não de coração, desejou muito revê-los; tentou ir uma e outra vez, mas Satanás o impediu. Pois quem é a sua esperança, a sua alegria, a sua coroa de glória diante do Senhor Jesus na sua vinda, senão eles? Eles são a sua glória e a sua alegria.",
+    "alegorico": "A palavra de Deus pregada pelos apóstolos e acolhida pela Igreja “opera” nos crentes: é palavra viva, eficaz, quase sacramental. A comunidade perseguida que imita as igrejas da Judeia mostra que toda a Igreja partilha o mesmo destino do seu Senhor, rejeitado e morto. Os fiéis são a “coroa” do Apóstolo, como a Igreja é a coroa de Cristo.",
+    "moral": "A pregação da Igreja deve ser acolhida como palavra de Deus, não como opinião humana; e quem a acolhe deve deixá-la operar. O sofrimento por causa da fé une os cristãos de todos os lugares. Os obstáculos ao bem vêm muitas vezes do inimigo, mas não apagam o amor. O pastor encontra a sua alegria nos fiéis, não nos seus sucessos.",
+    "anagogico": "“Coroa de glória diante do Senhor Jesus, na sua vinda”: o fruto do apostolado será apresentado no dia da Parusia. Os que se amaram no Senhor se alegrarão juntos diante dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo vós recebido a palavra de Deus, que ouvistes de nós, a abraçastes, não como palavra dos homens, mas, segundo é, na verdade, como palavra de Deus, que opera em vós, que crestes. Qual é a nossa esperança, a nossa alegria, coroa de glória? Vós sois a nossa glória e a nossa alegria.",
+    "meditatio_perguntas": [
+      "Acolho a Escritura e a pregação da Igreja como palavra de Deus, ou como opinião humana?",
+      "Deixo que a palavra “opere” em mim, mudando a minha vida?",
+      "Quem são, para mim, a “coroa” e a alegria diante do Senhor?"
+    ],
+    "oratio_guia": "Senhor, que eu acolha a tua palavra não como palavra de homens, mas como palavra tua, viva e eficaz. Que ela opere em mim e me transforme. Dá-me perseverar nas tribulações e alegrar-me nos irmãos, que serão a minha coroa na tua vinda. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não como palavra dos homens, mas, segundo é, na verdade, como palavra de Deus, que opera em vós, que crestes.",
+      "ref": "1Ts 2,13"
+    }
+  },
+  "ancoras": {
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo, ele próprio judeu, fala de opositores concretos da sua missão, não do povo judeu como tal. A Igreja ensina que a morte de Cristo não pode ser imputada indistintamente a todos os judeus (Concílio Vaticano II, Nostra Aetate, 4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

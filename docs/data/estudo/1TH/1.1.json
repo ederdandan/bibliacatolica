@@ -1,0 +1,57 @@
+{
+  "id": "1TH.1.1",
+  "livro": "1TH",
+  "titulo": "A obra da fé, o trabalho da caridade, a constância da esperança",
+  "secao": "Memória e ação de graças",
+  "referencia": "1Ts 1,1-10",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Convertidos dos ídolos para servir ao Deus vivo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, Silvano e Timóteo saúdam a Igreja dos tessalonicenses, que está em Deus Pai e no Senhor Jesus Cristo. Dão sempre graças por eles, lembrando diante de Deus a obra da sua fé, o trabalho da sua caridade e a constância da sua esperança em Cristo. Sabem que foram escolhidos, porque o Evangelho chegou a eles não só em palavras, mas com poder, com o Espírito Santo e plena convicção. Os tessalonicenses tornaram-se imitadores dos apóstolos e do Senhor, acolhendo a palavra no meio de muita tribulação, com a alegria do Espírito Santo, e passaram a ser modelo para todos os crentes da Macedônia e da Acaia. A fama da sua fé espalhou-se por toda parte: todos contam como se converteram dos ídolos a Deus, para servir ao Deus vivo e verdadeiro e esperar do céu o seu Filho, que Ele ressuscitou dos mortos, Jesus, que nos livra da ira que há de vir.",
+    "alegorico": "Esta é provavelmente a carta mais antiga do Novo Testamento, e já nela aparecem a fé, a esperança e a caridade, a tríade das virtudes teologais. A comunidade de Tessalônica é imagem da Igreja nascente: recebe a palavra com o poder do Espírito, imita o Senhor, sofre e se alegra, e torna-se ela mesma anúncio. A conversão “dos ídolos ao Deus vivo” resume a passagem de toda a humanidade pagã a Cristo.",
+    "moral": "A fé é “obra”, a caridade é “trabalho” (fadiga), a esperança é “constância”: as virtudes teologais não são sentimentos, mas forças que se exercem. A palavra acolhida com alegria, mesmo na tribulação, transforma a vida e se espalha sem propaganda. Converter-se é deixar os ídolos, também os modernos, para servir ao Deus vivo.",
+    "anagogico": "A vida cristã define-se pela espera: “esperar do céu a seu Filho”. O Jesus ressuscitado é Aquele que virá e que livra da ira futura; a esperança que sustenta a constância está voltada para a sua vinda."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Lembrando-nos da obra da vossa fé, do trabalho da vossa caridade e da constância da vossa esperança em Nosso Senhor Jesus Cristo. Recebendo a palavra no meio de muita tribulação, com a alegria do Espírito Santo. Vos convertestes dos ídolos a Deus, para servirdes ao Deus vivo e verdadeiro e para esperardes do céu a seu Filho.",
+    "meditatio_perguntas": [
+      "Minha fé produz obras, minha caridade se cansa pelos outros, minha esperança é constante?",
+      "Que ídolos ainda disputam em mim o lugar do Deus vivo?",
+      "Minha vida cristã é, para os outros, um anúncio silencioso?"
+    ],
+    "oratio_guia": "Deus vivo e verdadeiro, obrigado por me teres chamado dos ídolos a ti. Faz ativa a minha fé, laboriosa a minha caridade e constante a minha esperança. Que eu acolha a tua palavra com a alegria do Espírito e espere do céu o teu Filho Jesus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vos convertestes dos ídolos a Deus, para servirdes ao Deus vivo e verdadeiro.",
+      "ref": "1Ts 1,9"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Escrita em Corinto, por volta de 50–51, poucos meses depois da fundação da comunidade (At 17,1-10): é provavelmente o escrito mais antigo do Novo Testamento.",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira aparição da tríade fé, esperança e caridade (cf. 5,8; 1Cor 13,13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
