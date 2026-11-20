@@ -1,0 +1,96 @@
+{
+  "id": "LUK.11.1",
+  "livro": "LUK",
+  "titulo": "O Pai-nosso e a perseverança na oração",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 11,1-13",
+  "ini": { "c": 11, "v": 1 },
+  "fim": { "c": 11, "v": 13 },
+  "liturgia": { "tema_central": "“Senhor, ensina-nos a orar”: pedir com confiança ao Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de ver Jesus orar, um discípulo pede: “Senhor, ensina-nos a orar, como João ensinou aos seus discípulos”. Jesus ensina o Pai-nosso na forma breve de Lucas (cinco pedidos): Pai, santificado seja o teu nome; venha o teu reino; o pão nosso de cada dia nos dá hoje; perdoa-nos os nossos pecados, pois também nós perdoamos; e não nos deixes cair em tentação. Segue-se a parábola do amigo importuno que, à meia-noite, pede três pães e os obtém pela insistência. “Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.” Se um pai humano não dá uma pedra ao filho que pede pão, quanto mais o Pai do céu dará o Espírito Santo aos que lho pedirem.",
+    "alegorico": "Jesus, que tudo possui, ora para nos ensinar e partilha conosco a sua própria relação com o Pai: chamamos “Pai” a Deus porque o Filho nos fez filhos pelo batismo. O amigo de meia-noite é Deus, ou Cristo, que entregou o seu corpo por nós; os três pães são o alimento do mistério da Trindade. O dom supremo da oração é o Espírito Santo.",
+    "moral": "Para dizer “Pai” com verdade é preciso preparação: quem vive escravo das paixões mancha esse nome. Pedimos o necessário para o dia, não o supérfluo. Perdoar aos devedores é a condição para sermos perdoados das nossas grandes dívidas. Não pedimos para não ser tentados, mas para não ser abandonados à tentação. Deus demora para aumentar o nosso desejo e para guardarmos melhor o dom; Ele está mais disposto a dar do que nós a receber.",
+    "anagogico": "“Venha o teu reino”: pedimos a plena manifestação de Deus e a vida semelhante à dos anjos. Que bastará a quem não basta o Senhor? O Espírito dado aos que pedem é penhor da herança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando ele a fazer oração, um dos seus discípulos disse-lhe: “Senhor, ensina-nos a orar”. Ele respondeu-lhes: “Quando orardes, dizei: Pai, santificado seja o teu nome. Venha o teu reino. O pão nosso de cada dia nos dá hoje; perdoa-nos os nossos pecados, pois que também nós perdoámos aos que nos ofenderam; e não nos deixes cair em tentação”. “Eu digo-vos: Pedi, e dár-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á. Se pois vós, sendo maus, sabeis dar boas dádivas a vossos filhos, quanto mais o vosso Pai celestial dará o Espírito Santo aos que lho pedirem”.",
+    "meditatio_perguntas": [
+      "Rezo o Pai-nosso com consciência de filho, ou por hábito?",
+      "Há alguém a quem preciso perdoar para poder rezar “perdoa-nos”?",
+      "Persevero na oração quando a resposta demora, ou desisto?"
+    ],
+    "oratio_guia": "Pai, que o teu nome seja santificado em mim e que o teu Reino venha. Dá-me hoje o pão de que preciso, perdoa-me como eu perdoo e não me deixes cair na tentação. Ensina-me a pedir, buscar e bater com perseverança, e dá-me o teu Espírito Santo. Amém.",
+    "contemplatio_foco": { "texto": "Pedi, e dár-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.", "ref": "Lc 11,9" }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:1–4#1", "sintese": "Pleno de todo bem, ora segundo a economia da encarnação, para nos ensinar a não sermos tíbios na oração." }
+      ],
+      "nota": null
+    },
+    "11:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Pseudo-Agostinho", "obra": "App. Serm. 84.", "catena": "11:1–4#6", "sintese": "A primeira palavra, quão cheia de graça! De servo tornaste-te filho pelo batismo; glorifica-te não da tua obra, mas da graça de Cristo." },
+        { "autor": "São Gregório de Nissa", "obra": "Orat. Dom. Serm. 2.", "catena": "11:1–4#8", "sintese": "É preciso preparação para dizer “Pai”: quem vive escravo das paixões mancha com os lábios um nome incorruptível." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:1–4#11", "sintese": "Onde a fé ainda não chegou, o nome de Deus é desprezado; quando brilhar a verdade, confessarão o Santo dos santos." }
+      ],
+      "nota": { "texto": "Lucas transmite uma forma mais breve do Pai-nosso que Mateus (Mt 6,9-13); a Igreja reza a forma de Mateus, que inclui “seja feita a tua vontade” e “livra-nos do mal”.", "origem": "ia" }
+    },
+    "11:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 23 in Matth.", "catena": "11:1–4#24", "sintese": "Pedimos o necessário para o dia, não iguarias e vinhos; uma só petição sobre as coisas sensíveis, para que a vida presente não nos perturbe." }
+      ],
+      "nota": null
+    },
+    "11:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:1–4#28", "sintese": "Os nossos devedores são causa do maior perdão: fazendo pouco, achamos muito, pois devemos muito a Deus." },
+        { "autor": "Tito de Bostra", "obra": null, "catena": "11:1–4#30", "sintese": "Não podemos deixar de ser tentados; pedimos não ser abandonados a tentações acima das nossas forças." }
+      ],
+      "nota": null
+    },
+    "11:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "11:5–8#2", "sintese": "Que maior amigo do que aquele que entregou o seu corpo por nós? E ensina a orar também de noite, como David." }
+      ],
+      "nota": null
+    },
+    "11:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Const. Seg. c. 1.", "catena": "11:5–8#4", "sintese": "Deus talvez demore de propósito, para redobrares o zelo, conheceres o valor do dom e o guardares com cuidado." }
+      ],
+      "nota": null
+    },
+    "11:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 23 in Matth.", "catena": "11:9–13#2", "sintese": "Pedir é a oração; buscar, o empenho, como quem procura ouro perdido; bater, perseverar mesmo se a porta não abre logo." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 105.", "catena": "11:9–13#4", "sintese": "Não nos exortaria a pedir se não quisesse dar: Ele está mais disposto a dar do que nós a receber." }
+      ],
+      "nota": null
+    },
+    "11:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:9–13#9", "sintese": "Como o pai não dá ao filho o que lhe faria mal, Deus não concede o que pedimos por impulso de desejos nocivos." }
+      ],
+      "nota": null
+    },
+    "11:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 105.", "catena": "11:9–13#16", "sintese": "Que buscas, homem avarento? Que bastará a quem não basta o Senhor?" }
+      ],
+      "nota": { "texto": "Onde Mateus diz “boas coisas” (Mt 7,11), Lucas diz “o Espírito Santo”: o dom por excelência da oração, protagonista dos Atos dos Apóstolos.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

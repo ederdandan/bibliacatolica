@@ -1,0 +1,66 @@
+{
+  "id": "LUK.10.38",
+  "livro": "LUK",
+  "titulo": "Marta e Maria",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 10,38-42",
+  "ini": { "c": 10, "v": 38 },
+  "fim": { "c": 10, "v": 42 },
+  "liturgia": { "tema_central": "“Uma só coisa é necessária”: a melhor parte", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Numa aldeia (Betânia, segundo João), Marta recebe Jesus em sua casa. A sua irmã Maria senta-se aos pés do Senhor e escuta a sua palavra, postura de discípulo. Marta, absorvida pelo muito serviço, queixa-se: “Senhor, não te importa que minha irmã me deixe sozinha a servir? Diz-lhe que me ajude”. Jesus responde: “Marta, Marta, tu afadigas-te e andas inquieta com muitas coisas. Uma só coisa é necessária. Maria escolheu a melhor parte, que lhe não será tirada”. Logo após o bom samaritano, Lucas une o amor ao próximo e a escuta da Palavra.",
+    "alegorico": "Marta e Maria figuram as duas vidas da Igreja: a ativa, que serve o Verbo feito carne nas necessidades presentes, e a contemplativa, que escuta o Verbo que estava no princípio. Marta representa a Igreja peregrina, que acolhe o Senhor nos pobres; Maria, a Igreja da pátria, que repousa na contemplação, parte que não passará.",
+    "moral": "O Senhor não censura o serviço, mas a agitação e a ansiedade que dispersam o coração e querem impedir os outros de escutar. A hospitalidade é boa enquanto não nos afasta do essencial. Maria, quanto mais humilde aos pés de Jesus, mais recebe, como as águas que descem ao vale. A ação nasce da escuta e a ela retorna.",
+    "anagogico": "A parte de Maria não lhe será tirada: os trabalhos da vida ativa passam com o corpo, mas a alegria da contemplação cresce e se consuma na visão de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Indo em viagem, entrou em uma aldeia, e uma mulher, chamada Marta, recebeu-o em sua casa. Esta tinha uma irmã, chamada Maria que, sentada aos pés do Senhor, ouvia a sua palavra. Marta, porém, afadigava-se muito na contínua lida da casa, e disse: “Senhor, não se te dá que minha irmã me tenha deixado só com o serviço da casa?” O Senhor respondeu-lhe: “Marta, Marta, tu afadigas-te e andas inquieta com muitas coisas. Entretanto uma só coisa é necessária. Maria escolheu a melhor parte, que lhe não será tirada”.",
+    "meditatio_perguntas": [
+      "Que “muitas coisas” me deixam inquieto e me afastam da única necessária?",
+      "Reservo tempo para estar aos pés de Jesus, escutando?",
+      "O meu serviço nasce da escuta ou da agitação?"
+    ],
+    "oratio_guia": "Senhor Jesus, que entraste em casa de Marta e Maria, entra também na minha. Acalma a minha agitação e dá-me o coração de Maria, sentado aos teus pés, para que o meu serviço nasça da tua palavra e eu escolha a parte que não me será tirada. Amém.",
+    "contemplatio_foco": { "texto": "uma só coisa é necessária", "ref": "Lc 10,42" }
+  },
+  "ancoras": {
+    "10:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "10:38–42#0", "sintese": "O amor de Deus e do próximo, apresentado antes em palavras, é aqui mostrado em atos." }
+      ],
+      "nota": null
+    },
+    "10:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:38–42#3", "sintese": "Senta-se aos pés, mostrando diligência, constância e grande reverência ao ouvir." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 103.", "catena": "10:38–42#4", "sintese": "Quanto mais humilde aos seus pés, mais recebia, como as águas que descem ao fundo do vale." }
+      ],
+      "nota": { "texto": "“Sentar-se aos pés” de um mestre era a postura do discípulo (cf. At 22,3); Jesus admite uma mulher a esse lugar.", "origem": "ia" }
+    },
+    "10:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 103.", "catena": "10:38–42#7", "sintese": "Maria ouvia o Verbo que estava no princípio; Marta servia o Verbo feito carne. Uma trabalhava, a outra repousava." }
+      ],
+      "nota": null
+    },
+    "10:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "10:38–42#11", "sintese": "Não proíbe a hospitalidade, mas a agitação; e só repreende Marta quando ela quer impedir a irmã de ouvir." }
+      ],
+      "nota": null
+    },
+    "10:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 104.", "catena": "10:38–42#12", "sintese": "Não censura as obras, mas distingue os ofícios: na pátria não haverá peregrino a quem hospedar, mas a parte de Maria não será tirada." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 6, c. 18.", "catena": "10:38–42#15", "sintese": "Maria significa a vida contemplativa e Marta a ativa; grandes são os méritos desta, mas melhores os daquela, que não passa com o corpo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

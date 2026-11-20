@@ -1,0 +1,99 @@
+{
+  "id": "LUK.10.25",
+  "livro": "LUK",
+  "titulo": "O bom samaritano",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 10,25-37",
+  "ini": { "c": 10, "v": 25 },
+  "fim": { "c": 10, "v": 37 },
+  "liturgia": { "tema_central": "“Vai, e faz tu o mesmo”: fazer-se próximo pela misericórdia", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um doutor da Lei pergunta a Jesus, para o pôr à prova, o que fazer para herdar a vida eterna. Jesus devolve a pergunta, e ele cita Dt 6,5 e Lv 19,18: amar a Deus com todo o coração, alma, forças e entendimento, e o próximo como a si mesmo. “Faz isso, e viverás”. Querendo justificar-se, pergunta: “E quem é o meu próximo?”. Jesus conta: um homem desce de Jerusalém a Jericó, cai nas mãos de ladrões e fica meio morto. Um sacerdote e um levita veem-no e passam ao largo. Um samaritano, inimigo tradicional dos judeus, vê-o, compadece-se, trata as feridas com azeite e vinho, leva-o no seu jumento a uma estalagem, cuida dele e paga ao estalajadeiro dois denários, prometendo pagar o resto ao voltar. Jesus pergunta qual foi o próximo do homem ferido. “O que usou com ele de misericórdia.” “Vai, e faz tu o mesmo.”",
+    "alegorico": "O homem que desce é Adão, a humanidade que caiu da Jerusalém celeste para Jericó, a mortalidade. Os ladrões são o diabo e os seus anjos, que o despojam da graça e o deixam meio morto. O sacerdote e o levita são a Lei e os Profetas, que não puderam curar. O samaritano, “guardião”, é Cristo, que desce do céu, se faz próximo, unge as feridas com o óleo da misericórdia e o vinho do seu sangue, carrega-nos na sua carne e nos leva à estalagem, a Igreja, até voltar.",
+    "moral": "Amar a Deus com todo o entendimento não admite divisão: o amor derramado no ilícito diminui o amor a Deus. A pergunta não é “quem é o meu próximo?”, mas “de quem me faço próximo?”: não é o parentesco que faz o próximo, mas a misericórdia. A quem está caído não se pergunta se é bom ou mau, judeu ou gentio: tem direito à nossa ajuda. Na correção, mistura-se o vinho da firmeza com o óleo da suavidade.",
+    "anagogico": "“Quando voltar”: o Samaritano divino voltará e recompensará tudo o que se gastou a mais por amor. A estalagem é o lugar de cura até à pátria definitiva, a verdadeira Jerusalém."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um doutor da lei disse-lhe: “Mestre, que devo eu fazer para alcançar a vida eterna?” Respondeu: “Amarás o Senhor teu Deus com todo o teu coração, e o teu próximo como a ti mesmo”. Jesus disse-lhe: “Faz isso, e viverás”. “E quem é o meu próximo?” “Um homem descia de Jerusalém para Jericó, e caiu nas mãos dos ladrões, que o deixaram meio morto. Passou um sacerdote, e passou de largo; igualmente um levita. Um samaritano, porém, quando o viu, moveu-se de compaixão. Aproximou-se, ligou-lhe as feridas, lançando nelas azeite e vinho, levou-o a uma estalagem, e teve cuidado dele. Qual destes três foi o próximo daquele?” “O que usou com ele de misericórdia.” “Vai, e faz tu o mesmo.”",
+    "meditatio_perguntas": [
+      "Diante de quem tenho “passado de largo” ultimamente?",
+      "Reconheço-me também no homem ferido, que Cristo levantou e carregou?",
+      "Que limites ponho à pergunta “quem é o meu próximo”?"
+    ],
+    "oratio_guia": "Senhor Jesus, bom Samaritano, que te inclinaste sobre mim ferido e me curaste com o óleo da tua misericórdia e o vinho do teu sangue, dá-me olhos que veem e um coração que se comove. Que eu não passe de largo, mas me faça próximo de quem sofre, como tu fizeste comigo. Amém.",
+    "contemplatio_foco": { "texto": "Vai, e faz tu o mesmo.", "ref": "Lc 10,37" }
+  },
+  "ancoras": {
+    "10:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "10:25–28#2", "sintese": "Era dos que guardam a letra da Lei e ignoram o seu espírito; o Senhor prova pela própria Lei que eles a desconhecem." }
+      ],
+      "nota": null
+    },
+    "10:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Hom. in Ps. 44.", "catena": "10:25–28#3", "sintese": "“Todo o entendimento” não admite divisão: o amor que escorre para o ilícito diminui a plenitude do amor a Deus, como o líquido que sai do vaso." },
+        { "autor": "São Basílio", "obra": "Reg. fus. int. 2.", "catena": "10:25–28#7", "sintese": "O amor de Deus não se ensina: é um germe posto em nós, que os mandamentos cultivam e fazem crescer." }
+      ],
+      "nota": null
+    },
+    "10:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "10:29–37#0", "sintese": "Louvado, cai na soberba e pensa não ter próximo, como se ninguém lhe fosse igual em justiça." }
+      ],
+      "nota": null
+    },
+    "10:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 19.", "catena": "10:29–37#4", "sintese": "O homem é Adão; Jerusalém, a pátria celeste da paz; Jericó (“lua”), a nossa mortalidade, que nasce, cresce e míngua." },
+        { "autor": "Pseudo-Agostinho", "obra": "Hypognost. lib. 3.", "catena": "10:29–37#13", "sintese": "Meio morto, ferido no livre-arbítrio, não pode por si voltar à vida nem procurar o médico." }
+      ],
+      "nota": { "texto": "A estrada de Jerusalém a Jericó desce cerca de mil metros em menos de 30 km, por um deserto conhecido pelos assaltos.", "origem": "ia" }
+    },
+    "10:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:29–37#19", "sintese": "O sacerdote e o levita são a Lei e os Profetas: por eles vem o conhecimento do pecado, não a cura." }
+      ],
+      "nota": null
+    },
+    "10:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 171.", "catena": "10:29–37#23", "sintese": "Distante pela origem, próximo pela compaixão: o samaritano (“guardião”) é Cristo, o guarda de Israel." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "10:29–37#29", "sintese": "Vindo, fez-se nosso vizinho, tomando as nossas enfermidades, e nosso próximo, dando-nos a sua compaixão." }
+      ],
+      "nota": { "texto": "Judeus e samaritanos eram hostis havia séculos; o herói da parábola é precisamente o “estrangeiro” desprezado.", "origem": "ia" }
+    },
+    "10:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:29–37#32", "sintese": "Ligar as feridas é refrear os pecados; o óleo, a consolação da esperança do perdão; o vinho, o estímulo ao fervor." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 20, c. 8.", "catena": "10:29–37#34", "sintese": "No vinho, o rigor da correção; no óleo, a suavidade da misericórdia: quem governa deve uni-los." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:29–37#37", "sintese": "A montaria é a carne na qual veio a nós; ser posto sobre ela é crer na encarnação." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "10:29–37#40", "sintese": "A estalagem é a Igreja, que recebe os viajantes cansados e oprimidos, alivia-os do fardo e os restaura." }
+      ],
+      "nota": null
+    },
+    "10:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "10:29–37#43", "sintese": "Os dois denários são os dois preceitos da caridade, ou a promessa da vida presente e da futura." }
+      ],
+      "nota": null
+    },
+    "10:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 10 in Ep. ad Heb.", "catena": "10:29–37#48", "sintese": "Se vires alguém oprimido, não digas “é mau”; gentio ou judeu, se precisa de ajuda, tem direito a ela." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "10:29–37#50", "sintese": "Não é o parentesco que faz o próximo, mas a misericórdia, que é conforme à natureza." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
