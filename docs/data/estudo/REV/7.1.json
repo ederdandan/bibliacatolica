@@ -1,0 +1,57 @@
+{
+  "id": "REV.7.1",
+  "livro": "REV",
+  "titulo": "A grande multidão de vestes brancas",
+  "secao": "O trono, o Cordeiro e os selos",
+  "referencia": "Ap 7,1-17",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Lavaram as suas vestes no sangue do Cordeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quatro anjos retêm os quatro ventos da terra, e outro anjo, que sobe do oriente com o selo do Deus vivo, ordena-lhes que não façam mal à terra, ao mar e às árvores até que sejam marcados na fronte os servos de Deus. João ouve o número dos marcados: cento e quarenta e quatro mil, doze mil de cada tribo de Israel. Depois vê uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, de pé diante do trono e do Cordeiro, com vestes brancas e palmas na mão, clamando: a salvação ao nosso Deus e ao Cordeiro! Os anjos prostram-se e adoram. Um dos anciãos pergunta: quem são estes vestidos de branco? E responde: são os que vêm da grande tribulação; lavaram as suas vestes e branquearam-nas no sangue do Cordeiro. Por isso estão diante do trono de Deus e o servem dia e noite no seu templo; o que está sentado no trono estenderá sobre eles a sua tenda; não terão mais fome nem sede, nem os ferirá o sol, porque o Cordeiro os apascentará e os conduzirá às fontes da água da vida, e Deus enxugará toda lágrima dos seus olhos.",
+    "alegorico": "O selo na fronte evoca o tau de Ezequiel (Ez 9,4) e o selo do batismo e da confirmação. Os 144.000 (12×12×1000) são a totalidade do povo de Deus; a multidão incontável é o mesmo povo visto na sua universalidade. Vestes branqueadas no sangue: paradoxo que só o mistério pascal explica.",
+    "moral": "A salvação não é para poucos privilegiados: é multidão incontável, de todas as nações. Mas passa pela “grande tribulação”: a perseverança na prova faz parte do caminho. As vestes branqueadas no sangue lembram que é a graça de Cristo, não o mérito próprio, que purifica.",
+    "anagogico": "Uma das mais belas imagens do céu: servir a Deus no seu templo, sob a sua tenda, sem fome nem sede, apascentados pelo Cordeiro, com toda lágrima enxugada. É a esperança da Igreja para todos os santos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vi uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas, que estavam em pé diante do trono e diante do Cordeiro, revestidos de vestiduras brancas, com palmas nas suas mãos. Estes são aqueles que vêm da grande tribulação; lavaram as suas vestes e as embranqueceram no sangue do Cordeiro. O Cordeiro os apascentará e levará às fontes das águas da vida; e Deus enxugará toda a lágrima dos seus olhos.",
+    "meditatio_perguntas": [
+      "Sinto-me parte dessa multidão de todas as nações?",
+      "Que tribulação atual pode ser caminho para as vestes brancas?",
+      "Que lágrima espero que Deus enxugue?"
+    ],
+    "oratio_guia": "Cordeiro de Deus, que lavas as nossas vestes no teu sangue, conduz-me através da tribulação até ao teu trono. Apascenta-me, leva-me às fontes da água da vida, e que Deus enxugue toda lágrima dos meus olhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus enxugará toda a lágrima dos seus olhos",
+      "ref": "Ap 7,17"
+    }
+  },
+  "ancoras": {
+    "7:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 7,2-4.9-14 é a primeira leitura da solenidade de Todos os Santos; Ap 7,9.14b-17, a segunda leitura do 4º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "7:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As palmas evocam a festa das Tendas e a vitória; daí a palma como símbolo dos mártires.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

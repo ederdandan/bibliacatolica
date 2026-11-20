@@ -1,0 +1,65 @@
+{
+  "id": "REV.21.9",
+  "livro": "REV",
+  "titulo": "A cidade santa, esposa do Cordeiro",
+  "secao": "A vitória final e a nova Jerusalém",
+  "referencia": "Ap 21,9–22,5",
+  "ini": {
+    "c": 21,
+    "v": 9
+  },
+  "fim": {
+    "c": 22,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "O seu luzeiro é o Cordeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um dos anjos das taças convida João: vem, mostrar-te-ei a Esposa, a mulher do Cordeiro. Leva-o a um monte alto e mostra-lhe a cidade santa, Jerusalém, que desce do céu, com a glória de Deus, brilhante como jaspe cristalino. Tem uma muralha alta com doze portas, guardadas por doze anjos e com os nomes das doze tribos de Israel, três para cada ponto cardeal; a muralha tem doze alicerces com os nomes dos doze apóstolos do Cordeiro. A cidade, medida com uma cana de ouro, é um cubo perfeito de doze mil estádios; a muralha é de jaspe, a cidade de ouro puro como cristal, os alicerces ornados de doze pedras preciosas, cada porta é uma pérola. Não há nela templo, porque o seu templo é o Senhor Deus Todo-poderoso e o Cordeiro; não precisa de sol nem de lua, porque a glória de Deus a ilumina e o seu luzeiro é o Cordeiro. As nações caminharão à sua luz, as portas nunca se fecharão, e nela só entrarão os inscritos no livro da vida do Cordeiro. Um rio de água viva sai do trono de Deus e do Cordeiro; nas margens, a árvore da vida dá fruto todos os meses, e as suas folhas curam as nações. Não haverá mais maldição; os servos de Deus verão a sua face, e o seu nome estará nas suas frontes; reinarão pelos séculos.",
+    "alegorico": "A cidade em forma de cubo lembra o Santo dos Santos do Templo (1Rs 6,20): toda a cidade se tornou lugar da presença de Deus. As doze tribos e os doze apóstolos unem as duas alianças. O rio e a árvore da vida restauram o paraíso de Génesis 2 e realizam a visão de Ezequiel 47.",
+    "moral": "A Igreja é fundada sobre os apóstolos: a fé apostólica é alicerce da cidade. As portas abertas a todas as nações dizem a universalidade da salvação. E a pureza é condição de entrada: “não entrará nela coisa alguma contaminada”.",
+    "anagogico": "“Verão a sua face”: a visão beatífica, termo de todo desejo humano. Não haverá templo nem sol, porque Deus mesmo será tudo: luz, templo e vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vem, e eu te mostrarei a noiva, a esposa do Cordeiro. Mostrou-me a cidade santa, Jerusalém, que descia do céu de junto de Deus, a qual tinha a glória de Deus. Não vi templo nela, porque o Senhor Deus omnipotente com o Cordeiro é o seu templo. A glória de Deus a ilumina, e o seu luzeiro é o Cordeiro. Os seus servos o servirão, e verão a sua face, e o seu nome estará sobre as suas frontes.",
+    "meditatio_perguntas": [
+      "Desejo ver a face de Deus?",
+      "A minha fé está firmada no alicerce dos apóstolos?",
+      "Deixo que a luz do Cordeiro ilumine as minhas sombras?"
+    ],
+    "oratio_guia": "Senhor Deus, cuja glória ilumina a cidade santa e cujo luzeiro é o Cordeiro, conduz-me à tua Jerusalém. Que eu te sirva e veja a tua face, e que o teu nome esteja escrito sobre mim para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "verão a sua face, e o seu nome estará sobre as suas frontes",
+      "ref": "Ap 22,4"
+    }
+  },
+  "ancoras": {
+    "21:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 21,10-14.22-23 é a segunda leitura do 6º Domingo da Páscoa, Ano C; Ap 21,9b-14, na festa de São Bartolomeu.",
+        "origem": "ia"
+      }
+    },
+    "21:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Doze mil estádios (cerca de 2200 km): medida simbólica da plenitude (12×1000).",
+        "origem": "ia"
+      }
+    },
+    "22:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A árvore da vida, perdida no Génesis (Gn 3,24), é devolvida; Ez 47,12 descreve árvores com folhas medicinais junto ao rio do Templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

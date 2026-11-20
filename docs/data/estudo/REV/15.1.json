@@ -1,0 +1,57 @@
+{
+  "id": "REV.15.1",
+  "livro": "REV",
+  "titulo": "O cântico de Moisés e as sete taças",
+  "secao": "As taças e a queda de Babilónia",
+  "referencia": "Ap 15,1–16,21",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Grandes e admiráveis são as tuas obras",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João vê outro sinal: sete anjos com as sete últimas pragas, com as quais se consuma a ira de Deus. Vê como um mar de vidro misturado com fogo e, de pé sobre ele, os que venceram a Besta, com cítaras de Deus, cantando o cântico de Moisés e o cântico do Cordeiro: grandes e admiráveis são as tuas obras, Senhor Deus Todo-poderoso; justos e verdadeiros os teus caminhos, ó Rei das nações. Quem não temerá e não glorificará o teu nome? Só tu és santo, e todas as nações virão adorar-te. Abre-se o templo da tenda do testemunho no céu; os sete anjos recebem sete taças cheias da ira de Deus, e o templo enche-se de fumo da glória de Deus. As taças são derramadas: úlceras sobre os adoradores da Besta, o mar e os rios em sangue (e o anjo das águas proclama justos os juízos de Deus), o sol que queima, as trevas sobre o trono da Besta, o Eufrates seco para os reis do oriente. Espíritos imundos como rãs juntam os reis para a batalha em Harmagedon. Eis que venho como ladrão: bem-aventurado o que vigia. Com a sétima taça, uma voz do trono diz: está feito; grande terremoto, Babilónia é dividida, e os homens blasfemam em vez de se arrependerem.",
+    "alegorico": "O mar de vidro e fogo é o novo mar Vermelho, e os vencedores cantam o cântico de Moisés depois da passagem (Ex 15): a Igreja é o povo do novo êxodo, libertado pelo Cordeiro. As taças repetem as pragas do Egito: Deus liberta o seu povo julgando os opressores.",
+    "moral": "Antes das taças, o livro mostra os vencedores a cantar: o cristão olha a história a partir da vitória. No meio das catástrofes, uma bem-aventurança: “bem-aventurado aquele que vigia e guarda os seus vestidos”. A tragédia maior é a dos que, mesmo castigados, blasfemam e não se arrependem.",
+    "anagogico": "“Está feito”: a palavra do trono antecipa o cumprimento final. Todas as nações virão adorar o único Santo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vi os que venceram a Besta, de pé sobre o mar de vidro. Cantam o cântico de Moisés e o cântico do Cordeiro, dizendo: Grandes e admiráveis são as tuas obras, ó Senhor Deus omnipotente; justos e verdadeiros são os teus caminhos, ó Rei das nações! Só tu és santo. Eis que venho como um ladrão! Bem-aventurado aquele que vigia e guarda os seus vestidos.",
+    "meditatio_perguntas": [
+      "Consigo cantar as obras de Deus mesmo em tempos de prova?",
+      "Estou vigilante, com as vestes guardadas?",
+      "Que endurecimento me impede de me arrepender?"
+    ],
+    "oratio_guia": "Grandes e admiráveis são as tuas obras, Senhor Deus Todo-poderoso; justos e verdadeiros os teus caminhos, ó Rei das nações. Só tu és santo. Dá-me vigiar e guardar as minhas vestes até à tua vinda. Amém.",
+    "contemplatio_foco": {
+      "texto": "Grandes e admiráveis são as tuas obras, ó Senhor Deus omnipotente; justos e verdadeiros são os teus caminhos, ó Rei das nações",
+      "ref": "Ap 15,3"
+    }
+  },
+  "ancoras": {
+    "15:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cântico rezado nas Vésperas de sexta-feira, na Liturgia das Horas.",
+        "origem": "ia"
+      }
+    },
+    "16:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Harmagedon: “monte de Megido”, planície de batalhas célebres na história de Israel (Jz 5,19; 2Rs 23,29); símbolo do combate final, não lugar geográfico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

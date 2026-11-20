@@ -1,0 +1,57 @@
+{
+  "id": "REV.1.9",
+  "livro": "REV",
+  "titulo": "O Filho do Homem no meio dos candeeiros",
+  "secao": "Prólogo e cartas às sete Igrejas",
+  "referencia": "Ap 1,9-20",
+  "ini": {
+    "c": 1,
+    "v": 9
+  },
+  "fim": {
+    "c": 1,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Fui morto, mas eis que estou vivo pelos séculos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João, irmão e companheiro na tribulação, no reino e na perseverança em Jesus, estava na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus. No dia do Senhor, foi arrebatado em espírito e ouviu uma grande voz como de trombeta, que lhe mandava escrever num livro o que visse e enviá-lo às sete Igrejas: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia. Voltando-se, viu sete candelabros de ouro e, no meio deles, alguém semelhante a um Filho de homem, vestido de longa túnica, com cinto de ouro; cabelos brancos como lã e neve, olhos como chama de fogo, pés como bronze incandescente, voz como o ruído de muitas águas; na direita sete estrelas, da boca uma espada de dois gumes, o rosto como o sol. João caiu como morto, mas Ele pôs a mão sobre ele: não temas; eu sou o primeiro e o último, o que vive; fui morto, mas eis que estou vivo pelos séculos dos séculos, e tenho as chaves da morte e do inferno. As estrelas são os anjos das Igrejas; os candelabros, as Igrejas.",
+    "alegorico": "Cada traço do Filho do Homem é símbolo: a túnica longa e o cinto, o sacerdote; os cabelos brancos, a eternidade (o Ancião de Dias de Daniel); os olhos de fogo, o conhecimento que penetra; a espada, a Palavra; o rosto como o sol, a glória divina. Ele caminha no meio dos candelabros: Cristo está presente nas suas Igrejas.",
+    "moral": "A visão acontece “no dia do Senhor”, o domingo: a liturgia dominical é lugar de encontro com o Ressuscitado. Diante da sua glória, o homem cai; mas a primeira palavra de Cristo é “não temas”, com a mão posta sobre o discípulo. João é “companheiro na tribulação”: a fé não isenta da perseguição.",
+    "anagogico": "Cristo tem as chaves da morte e do inferno: nenhum poder de morte é definitivo para quem lhe pertence. O Vivente pelos séculos é a garantia da nossa vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Caí em êxtase, no dia do Senhor, e ouvi por detrás de mim uma grande voz. Vi sete candeeiros de ouro, e, no meio dos candeeiros, alguém semelhante a um Filho de homem. O seu rosto era como o sol quando está na sua força. Logo que o vi, caí diante de seus pés como morto. Porém ele pôs a sua mão direita sobre mim, dizendo: Não temas; eu sou o primeiro e o último, e o que vive. Fui morto, mas eis que estou vivo, pelos séculos dos séculos.",
+    "meditatio_perguntas": [
+      "Vivo o domingo como dia do encontro com o Ressuscitado?",
+      "Sinto a mão de Cristo sobre mim a dizer “não temas”?",
+      "Reconheço Cristo presente no meio da minha comunidade?"
+    ],
+    "oratio_guia": "Senhor Jesus, primeiro e último, que vives pelos séculos e tens as chaves da morte, põe sobre mim a tua mão e diz-me: não temas. Que eu te reconheça no meio da tua Igreja, no dia do Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fui morto, mas eis que estou vivo, pelos séculos dos séculos",
+      "ref": "Ap 1,18"
+    }
+  },
+  "ancoras": {
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Dia do Senhor” (kyriaké hēméra): primeira menção do domingo com este nome. Ap 1,9-11a.12-13.17-19 é a segunda leitura do 2º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "1:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Patmos, pequena ilha do mar Egeu; segundo a tradição, João foi aí desterrado sob Domiciano (c. 95).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

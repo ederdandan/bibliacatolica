@@ -1,0 +1,57 @@
+{
+  "id": "REV.11.15",
+  "livro": "REV",
+  "titulo": "O reino do mundo passou a ser de Nosso Senhor",
+  "secao": "As trombetas",
+  "referencia": "Ap 11,15-19",
+  "ini": {
+    "c": 11,
+    "v": 15
+  },
+  "fim": {
+    "c": 11,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "O reino deste mundo passou a ser de Nosso Senhor e do seu Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sétimo anjo toca a trombeta, e vozes no céu proclamam: o reino do mundo passou a ser de Nosso Senhor e do seu Cristo, e Ele reinará pelos séculos dos séculos. Os vinte e quatro anciãos prostram-se e adoram: damos-te graças, Senhor Deus Todo-poderoso, que és e que eras, porque assumiste o teu grande poder e começaste a reinar. As nações enfureceram-se, mas chegou a tua ira e o tempo de julgar os mortos, de dar a recompensa aos teus servos, os profetas, aos santos e aos que temem o teu nome, pequenos e grandes, e de destruir os que destroem a terra. Abriu-se então o templo de Deus no céu, e apareceu a arca da sua aliança no seu templo; e houve relâmpagos, vozes, trovões, terremoto e grande saraiva.",
+    "alegorico": "A arca da aliança, desaparecida desde o exílio, reaparece no templo celeste: a presença de Deus no meio do seu povo. A liturgia e os Padres viram em Maria a nova Arca, que trouxe em si o Verbo; por isso este versículo abre a leitura da Assunção, ligado à Mulher do capítulo 12.",
+    "moral": "O hino de ação de graças antecipa a vitória como já realizada: a esperança cristã dá graças antes de ver. O juízo inclui a recompensa “aos pequenos e grandes”: nenhum serviço fiel é esquecido. E há juízo também para “os que destroem a terra”.",
+    "anagogico": "O reino de Cristo sobre o mundo é a meta da história: “reinará pelos séculos dos séculos”, aclamação que Händel tornou célebre. A arca aberta no céu anuncia a comunhão plena com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O sétimo anjo tocou a trombeta, e ouviram-se no céu grandes vozes, que diziam: O reino deste mundo passou a ser de Nosso Senhor e do seu Cristo, e ele reinará pelos séculos dos séculos. Graças te damos, Senhor Deus omnipotente, que és e que eras, porque assumiste o teu grande poder e reinaste. Então abriu-se o templo de Deus, o do céu, e apareceu a arca da sua aliança no seu templo.",
+    "meditatio_perguntas": [
+      "Dou graças a Deus pela vitória de Cristo antes de a ver plenamente?",
+      "Em que áreas da minha vida Cristo ainda não reina?",
+      "Como honro Maria, arca da nova aliança?"
+    ],
+    "oratio_guia": "Graças te damos, Senhor Deus Todo-poderoso, porque assumiste o teu grande poder e reinas. Que o reino deste mundo, e o reino do meu coração, seja de Nosso Senhor e do seu Cristo, pelos séculos dos séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "O reino deste mundo passou a ser de Nosso Senhor e do seu Cristo, e ele reinará pelos séculos dos séculos",
+      "ref": "Ap 11,15"
+    }
+  },
+  "ancoras": {
+    "11:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 11,19a; 12,1-6a.10ab é a primeira leitura da solenidade da Assunção (Missa do dia).",
+        "origem": "ia"
+      }
+    },
+    "11:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto do coro “Aleluia” do Messias de Händel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

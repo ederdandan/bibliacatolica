@@ -1,0 +1,57 @@
+{
+  "id": "REV.4.1",
+  "livro": "REV",
+  "titulo": "A liturgia celeste diante do trono",
+  "secao": "O trono, o Cordeiro e os selos",
+  "referencia": "Ap 4,1-11",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Santo, Santo, Santo é o Senhor Deus omnipotente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João vê uma porta aberta no céu, e a voz como de trombeta convida: sobe aqui. Arrebatado em espírito, vê um trono no céu e alguém sentado, com aspeto de jaspe e sardónica, e um arco-íris como esmeralda à volta. Em redor, vinte e quatro tronos com vinte e quatro anciãos vestidos de branco e coroas de ouro. Do trono saem relâmpagos, vozes e trovões; diante dele ardem sete lâmpadas, que são os sete espíritos de Deus, e há como um mar de vidro semelhante a cristal. No meio e em volta do trono, quatro seres vivos cheios de olhos: o primeiro como leão, o segundo como novilho, o terceiro com rosto de homem, o quarto como águia; cada um com seis asas, e não cessam de dizer dia e noite: Santo, Santo, Santo é o Senhor Deus Todo-poderoso, que era, que é e que vem. Quando dão glória ao que está sentado no trono, os vinte e quatro anciãos prostram-se, lançam as coroas diante do trono e dizem: digno és, Senhor nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas.",
+    "alegorico": "Os quatro seres vivos, retomados de Ezequiel e Isaías, foram identificados por Santo Ireneu e São Jerónimo com os quatro evangelistas (homem, Mateus; leão, Marcos; novilho, Lucas; águia, João). Os vinte e quatro anciãos unem as doze tribos e os doze apóstolos: a Igreja das duas alianças.",
+    "moral": "Antes das pragas e das lutas, o livro mostra o trono: Deus reina, e a história não está fora do seu controlo. A primeira atitude do homem é a adoração. Os anciãos lançam as coroas: toda a glória humana é devolvida a Deus.",
+    "anagogico": "É a visão da liturgia celeste, de que a liturgia da Igreja participa: o “Santo” da Missa une-nos aos seres vivos e aos anjos. A porta aberta no céu é promessa de que também nós subiremos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Uma porta estava aberta no céu, e a voz dizia: Sobe aqui. E eis que um trono estava colocado no céu, sobre o qual estava alguém sentado. Os quatro animais não cessam, dia e noite, de dizer: Santo, Santo, Santo, é o Senhor Deus, o Omnipotente, o que era, que é, e que vem. Os vinte e quatro anciães lançam as suas coroas diante do trono, dizendo: Tu és digno, ó Senhor, nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas.",
+    "meditatio_perguntas": [
+      "Na liturgia, tenho consciência de me unir à adoração do céu?",
+      "Que “coroas” preciso de depor diante de Deus?",
+      "Creio que Deus está no trono, mesmo nas crises da história?"
+    ],
+    "oratio_guia": "Santo, Santo, Santo é o Senhor Deus omnipotente, que era, que é e que vem. Tu és digno, Senhor nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas. Deponho diante de ti tudo o que sou. Amém.",
+    "contemplatio_foco": {
+      "texto": "Santo, Santo, Santo, é o Senhor Deus, o Omnipotente, o que era, que é, e que vem",
+      "ref": "Ap 4,8"
+    }
+  },
+  "ancoras": {
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatro seres vêm de Ez 1,10; as seis asas e o triplo “Santo”, de Is 6,2-3.",
+        "origem": "ia"
+      }
+    },
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O triságio “Santo, Santo, Santo” entrou na oração eucarística (Sanctus).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "REV.13.1",
+  "livro": "REV",
+  "titulo": "As duas Bestas",
+  "secao": "A Mulher, o Dragão e as Bestas",
+  "referencia": "Ap 13,1-18",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Aqui está a paciência e a fé dos santos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Do mar sobe uma Besta com dez chifres e sete cabeças, com nomes de blasfémia, semelhante a leopardo, urso e leão; o Dragão dá-lhe o seu poder, o seu trono e grande autoridade. Uma das cabeças parecia ferida de morte, mas foi curada, e toda a terra, maravilhada, segue a Besta e adora o Dragão: quem é semelhante à Besta? Ela profere blasfémias contra Deus durante quarenta e dois meses, faz guerra aos santos e recebe poder sobre todas as nações; adoram-na todos aqueles cujo nome não está escrito no livro da vida do Cordeiro imolado. Aqui está a paciência e a fé dos santos. Depois sobe da terra outra Besta, com dois chifres como de cordeiro, mas que fala como dragão; faz prodígios, até fogo do céu, seduz os habitantes da terra, manda fazer uma imagem da primeira Besta e mata quem não a adorar; faz que todos recebam um sinal na mão direita ou na fronte, sem o qual ninguém pode comprar nem vender. Aqui está a sabedoria: o número da Besta é número de homem, seiscentos e sessenta e seis.",
+    "alegorico": "A Besta do mar é o poder político que se diviniza (no tempo de João, o Império Romano e o culto imperial); a Besta da terra, com aparência de cordeiro, é a falsa profecia, a propaganda religiosa ao serviço do poder. São paródia da Trindade: o Dragão, a Besta “ferida e curada” (falsa ressurreição) e o falso profeta. O 666, segundo muitos, corresponde ao valor numérico de “Nero César” em hebraico.",
+    "moral": "O texto ensina a discernir: todo poder que exige adoração, que controla a vida económica e persegue a consciência, tem traços da Besta. O cristão resiste não com violência, mas com paciência e fé. E cuidado com o que parece cordeiro e fala como dragão: o mal disfarça-se de bem.",
+    "anagogico": "O poder da Besta é limitado (42 meses) e o seu número é imperfeito (seis, que nunca chega a sete). Os nomes escritos no livro da vida do Cordeiro não serão apagados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Toda a terra, cheia de admiração, seguiu a Besta, dizendo: Quem há semelhante à Besta? Adoraram-na todos os habitantes da terra, cujos nomes não estão escritos no livro da vida do Cordeiro, que foi imolado. Aqui está a paciência e a fé dos santos. Vi outra Besta, que tinha dois chifres semelhantes aos de um cordeiro, mas que falava como um dragão.",
+    "meditatio_perguntas": [
+      "Que poderes do meu tempo pedem uma adoração que só a Deus pertence?",
+      "Sei discernir o que tem aparência de cordeiro e fala como dragão?",
+      "Como vivo a paciência e a fé quando a fidelidade tem um custo?"
+    ],
+    "oratio_guia": "Senhor, só a ti adoro. Livra-me de me prostrar diante dos ídolos do poder, do dinheiro e da opinião. Dá-me discernimento, paciência e fé, e guarda o meu nome no livro da vida do Cordeiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aqui está a paciência e a fé dos santos",
+      "ref": "Ap 13,10"
+    }
+  },
+  "ancoras": {
+    "13:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gematria: cada letra tinha valor numérico. “Nero César” em hebraico (nrwn qsr) soma 666; alguns manuscritos trazem 616, que corresponde à forma latina “Nero Caesar”.",
+        "origem": "ia"
+      }
+    },
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As quatro feras de Daniel 7 estão fundidas nesta única Besta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "REV.6.1",
+  "livro": "REV",
+  "titulo": "Os seis primeiros selos",
+  "secao": "O trono, o Cordeiro e os selos",
+  "referencia": "Ap 6,1-17",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Até quando, Senhor santo e verdadeiro?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Cordeiro abre os selos. No primeiro, sai um cavalo branco, cujo cavaleiro tem um arco e recebe uma coroa, e parte vencedor para vencer. No segundo, um cavalo vermelho, cujo cavaleiro recebe o poder de tirar a paz da terra, para que os homens se matem, e uma grande espada. No terceiro, um cavalo negro, cujo cavaleiro tem uma balança, e uma voz anuncia preços de fome. No quarto, um cavalo esverdeado, cujo cavaleiro se chama Morte, seguido pelo inferno, com poder sobre a quarta parte da terra, para matar à espada, pela fome, pela peste e pelas feras. No quinto selo, João vê debaixo do altar as almas dos mortos por causa da palavra de Deus, que clamam: até quando, Senhor santo e verdadeiro, não fazes justiça? Recebem vestes brancas e ouvem que devem esperar ainda um pouco, até se completar o número dos irmãos que serão mortos como eles. No sexto selo, um grande terremoto: o sol escurece, a lua fica como sangue, as estrelas caem, o céu enrola-se como um livro, e os poderosos escondem-se nas cavernas, pedindo aos montes que os cubram da face do que está no trono e da ira do Cordeiro.",
+    "alegorico": "O cavaleiro do cavalo branco, que sai vencedor, foi lido por muitos Padres (Ireneu, Vitorino) como Cristo e o Evangelho que avança; os outros três são a guerra, a fome e a morte que atravessam a história. Os mártires sob o altar estão unidos ao sacrifício do Cordeiro.",
+    "moral": "O texto não é calendário de catástrofes, mas leitura da história: guerra, fome e morte são realidades de todos os tempos, e mesmo assim o Evangelho avança. O grito dos mártires, “até quando?”, é legítimo na oração. A resposta de Deus é paciência e vestes brancas: a justiça virá no tempo dele.",
+    "anagogico": "O grande dia da ira do Cordeiro revela que a história tem um juízo. Ninguém se esconde da face de Deus; mas para os mártires, de vestes brancas, esse dia é libertação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Olhei e vi um cavalo branco. O que estava montado sobre ele saiu como vitorioso e para vencer. Vi debaixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus. Clamaram em voz alta: Até quando, Senhor, santo e verdadeiro, dilatas tu o fazer justiça? E foi dada a cada um deles uma túnica branca, e foi-lhes dito que tivessem paciência ainda um pouco de tempo.",
+    "meditatio_perguntas": [
+      "Como leio as guerras e crises do meu tempo à luz da fé?",
+      "Ouso rezar “até quando, Senhor?”, com confiança?",
+      "Tenho paciência com o tempo de Deus?"
+    ],
+    "oratio_guia": "Senhor santo e verdadeiro, até quando? Vês as guerras, a fome e a morte que ferem o mundo. Dá-me a paciência dos teus mártires, a esperança da tua justiça e a certeza de que o teu Evangelho avança vitorioso. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, santo e verdadeiro, dilatas tu o fazer justiça",
+      "ref": "Ap 6,10"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatro cavalos inspiram-se em Zc 1,8 e 6,1-8.",
+        "origem": "ia"
+      }
+    },
+    "6:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Debaixo do altar”: como o sangue das vítimas era derramado na base do altar (Lv 4,7), a vida dos mártires é oferecida a Deus. Daí o costume de pôr relíquias de mártires sob o altar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

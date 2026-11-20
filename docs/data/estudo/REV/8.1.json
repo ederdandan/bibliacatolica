@@ -1,0 +1,65 @@
+{
+  "id": "REV.8.1",
+  "livro": "REV",
+  "titulo": "O sétimo selo e as seis trombetas",
+  "secao": "As trombetas",
+  "referencia": "Ap 8,1–9,21",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "As orações dos santos sobem diante de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando o Cordeiro abre o sétimo selo, faz-se silêncio no céu durante cerca de meia hora. Sete anjos recebem sete trombetas. Outro anjo, com um turíbulo de ouro, oferece muitos perfumes com as orações de todos os santos sobre o altar de ouro diante do trono, e o fumo sobe com as orações até Deus; depois enche o turíbulo com fogo do altar e lança-o sobre a terra: trovões, vozes, relâmpagos, terremoto. As quatro primeiras trombetas ferem a terça parte da terra, do mar, das águas (a estrela chamada Absinto) e dos astros. Uma águia anuncia três “ais”. Na quinta trombeta, uma estrela caída abre o poço do abismo, e saem gafanhotos semelhantes a cavalos de guerra, que atormentam durante cinco meses os homens sem o selo de Deus; o seu rei é o anjo do abismo, Abadon, Apolion. Na sexta, são soltos os anjos do Eufrates, e um exército de cavalaria mata a terça parte dos homens. Os sobreviventes, porém, não se arrependem das suas idolatrias, homicídios, feitiçarias, impurezas e roubos.",
+    "alegorico": "As trombetas recordam as pragas do Egito: Deus age para libertar o seu povo e chamar os opressores à conversão. O silêncio de meia hora e o anjo com o turíbulo descrevem uma liturgia: a história é movida pela oração dos santos que sobe a Deus.",
+    "moral": "As “pragas” são parciais (a terça parte): sinais de advertência, não ainda o fim. O drama está no final: mesmo assim, “não fizeram penitência”. O sofrimento não converte por si só; é preciso abrir o coração. E a oração dos fiéis tem peso real na história.",
+    "anagogico": "O silêncio no céu antes das trombetas é o silêncio da expectativa do juízo. A oração dos santos, oferecida no altar celeste, prepara a vinda do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tendo o Cordeiro aberto o sétimo selo, fez-se silêncio no céu, quase por meia hora. Veio outro anjo e parou diante do altar, com um turíbulo de ouro; e foram-lhe dados muitos perfumes, a fim de os oferecer com as orações de todos os santos sobre o altar de ouro. E o fumo dos perfumes, com as orações dos santos, subiu da mão do anjo até à presença de Deus. Os outros homens não fizeram penitência das obras das suas mãos.",
+    "meditatio_perguntas": [
+      "Sei fazer silêncio diante de Deus?",
+      "Acredito que a minha oração sobe até Ele como incenso?",
+      "Que sinais Deus me deu para a conversão e eu ignorei?"
+    ],
+    "oratio_guia": "Senhor, que recebes as orações dos santos como incenso no teu altar, acolhe a minha oração. Ensina-me o silêncio diante de ti, e não permitas que eu endureça o coração diante dos teus apelos à conversão. Amém.",
+    "contemplatio_foco": {
+      "texto": "o fumo dos perfumes, com as orações dos santos, subiu da mão do anjo até à presença de Deus",
+      "ref": "Ap 8,4"
+    }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Cânon Romano pede que “o teu santo anjo leve esta oferta ao teu altar sublime”, eco desta cena.",
+        "origem": "ia"
+      }
+    },
+    "9:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abadon (hebraico) e Apolion (grego): “destruição” e “destruidor”.",
+        "origem": "ia"
+      }
+    },
+    "8:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Absinto: planta de sabor amargo; imagem de águas envenenadas (cf. Jr 9,15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

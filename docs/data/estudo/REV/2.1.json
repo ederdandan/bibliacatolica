@@ -1,0 +1,65 @@
+{
+  "id": "REV.2.1",
+  "livro": "REV",
+  "titulo": "Cartas a Éfeso, Esmirna e Pérgamo",
+  "secao": "Prólogo e cartas às sete Igrejas",
+  "referencia": "Ap 2,1-17",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Volta à tua primeira caridade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao anjo da Igreja de Éfeso, Aquele que tem as sete estrelas e anda entre os candelabros diz: conheço as tuas obras, o teu trabalho e a tua perseverança; não suportas os maus e desmascaraste os falsos apóstolos; sofreste pelo meu nome sem desfalecer. Mas tenho contra ti que abandonaste a tua primeira caridade. Lembra-te de onde caíste, arrepende-te e volta às primeiras obras; senão, removerei o teu candelabro. Ao vencedor darei a comer da árvore da vida, que está no paraíso de Deus. À Igreja de Esmirna, o primeiro e o último, que foi morto e voltou à vida, diz: conheço a tua tribulação e a tua pobreza, mas és rica; não temas o que vais sofrer; o diabo lançará alguns na prisão; sê fiel até à morte e dar-te-ei a coroa da vida; o vencedor não sofrerá a segunda morte. À Igreja de Pérgamo, o que tem a espada de dois gumes diz: sei que habitas onde está o trono de Satanás e conservaste o meu nome, mesmo quando Antipas, minha testemunha fiel, foi morto; mas há entre vós quem siga a doutrina de Balaão e dos nicolaítas; arrepende-te. Ao vencedor darei o maná escondido e uma pedra branca com um nome novo, que só conhece quem o recebe.",
+    "alegorico": "As cartas dirigem-se a Igrejas reais, mas o número sete faz delas imagem da Igreja universal de todos os tempos. A árvore da vida do paraíso perdido é devolvida em Cristo; o maná escondido é a Eucaristia, penhor da vida eterna; a pedra branca com o nome novo, a identidade única que cada um recebe de Deus.",
+    "moral": "Uma comunidade pode ser trabalhadora, ortodoxa, perseverante, e ter perdido o primeiro amor. O caminho de volta tem três passos: lembrar, arrepender-se, refazer as primeiras obras. A Esmirna, pobre e perseguida, não recebe censura, só consolação: “sê fiel até à morte”. E a tolerância com o erro (Pérgamo) também é falta.",
+    "anagogico": "As promessas ao vencedor são escatológicas: árvore da vida, coroa da vida, preservação da segunda morte, maná escondido, nome novo. Cada luta fiel aqui tem resposta na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Conheço as tuas obras, o teu trabalho, a tua paciência. Mas tenho contra ti que deixaste a tua primeira caridade. Lembra-te donde caíste, arrepende-te e volta às tuas primeiras obras. Conheço a tua tribulação e a tua pobreza, mas és rico. Sê fiel até à morte, e eu te darei a coroa da vida. Darei ao vencedor maná escondido, uma pedrinha branca e um nome novo.",
+    "meditatio_perguntas": [
+      "Onde perdi o “primeiro amor” na minha fé?",
+      "Que “primeiras obras” preciso de retomar?",
+      "Sou fiel nas pequenas perseguições do dia a dia?"
+    ],
+    "oratio_guia": "Senhor Jesus, que conheces as minhas obras, devolve-me o primeiro amor. Que eu me lembre de onde caí, me arrependa e volte às primeiras obras. Dá-me ser fiel até à morte, para receber de ti a coroa da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sê fiel até à morte, e eu te darei a coroa da vida",
+      "ref": "Ap 2,10"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nicolaítas: grupo que, segundo Ireneu, aceitava o culto idolátrico e a imoralidade; não se sabe mais.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Trono de Satanás”: Pérgamo era centro do culto imperial e tinha o grande altar de Zeus.",
+        "origem": "ia"
+      }
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O refrão “aquele que tem ouvidos, ouça o que o Espírito diz às Igrejas” mostra que cada carta é para todas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

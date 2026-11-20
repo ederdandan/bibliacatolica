@@ -1,0 +1,57 @@
+{
+  "id": "REV.21.1",
+  "livro": "REV",
+  "titulo": "Eis que renovo todas as coisas",
+  "secao": "A vitória final e a nova Jerusalém",
+  "referencia": "Ap 21,1-8",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Eis que renovo todas as coisas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João vê um novo céu e uma nova terra, porque o primeiro céu e a primeira terra passaram, e o mar já não existe. Vê a cidade santa, a nova Jerusalém, descer do céu, de junto de Deus, adornada como uma esposa para o seu esposo. Uma grande voz do trono proclama: eis a tenda de Deus com os homens: habitará com eles, eles serão o seu povo, e o próprio Deus estará com eles; enxugará toda lágrima dos seus olhos; não haverá mais morte, nem luto, nem clamor, nem dor, porque as primeiras coisas passaram. O que está sentado no trono diz: eis que renovo todas as coisas; escreve, porque estas palavras são fiéis e verdadeiras. E acrescenta: está feito. Eu sou o Alfa e o Ômega, o princípio e o fim; a quem tiver sede darei gratuitamente da fonte da água da vida. O vencedor herdará estas coisas: eu serei o seu Deus e ele será meu filho. Mas os covardes, incrédulos, abomináveis, homicidas, impuros, feiticeiros, idólatras e mentirosos terão a sua parte no lago de fogo, que é a segunda morte.",
+    "alegorico": "A nova Jerusalém é a Igreja glorificada, esposa do Cordeiro. O desaparecimento do mar, símbolo do caos e do mal na Bíblia, significa a vitória total sobre as forças hostis. A “tenda de Deus com os homens” cumpre o Emanuel e o “o Verbo armou a sua tenda entre nós” de João 1,14.",
+    "moral": "Deus não destrói a criação, renova-a. A esperança cristã inclui o mundo, o corpo, a história. A água da vida é oferecida gratuitamente a quem tem sede: basta desejar. Mas a lista dos excluídos começa com os “tímidos”: a covardia diante da fé também é recusa.",
+    "anagogico": "É a página central da esperança cristã: Deus habitando com os homens, sem morte, luto, clamor ou dor. A promessa “eu serei o seu Deus e ele será meu filho” resume toda a aliança levada à plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vi um novo céu e uma nova terra. Vi a cidade santa, a nova Jerusalém, que descia do céu, adornada como uma esposa ataviada para o seu esposo. Eis o tabernáculo de Deus com os homens: habitará com eles, eles serão o seu povo. Enxugar-lhes-á todas as lágrimas dos seus olhos; não haverá mais morte, nem luto, nem grito, nem dor. Eis que renovo todas as coisas. Darei gratuitamente da fonte da água da vida ao que tiver sede.",
+    "meditatio_perguntas": [
+      "Que “primeiras coisas” em mim precisam de ser renovadas por Deus?",
+      "Tenho sede da água da vida?",
+      "A esperança do céu novo e da terra nova sustenta o meu presente?"
+    ],
+    "oratio_guia": "Senhor, que estás sentado no trono e renovas todas as coisas, renova o meu coração. Tenho sede: dá-me gratuitamente da água da vida. Que eu viva à espera da tua tenda entre os homens, onde enxugarás toda lágrima. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que renovo todas as coisas",
+      "ref": "Ap 21,5"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 21,1-5a é a segunda leitura do 5º Domingo da Páscoa, Ano C, e muito usado nas exéquias.",
+        "origem": "ia"
+      }
+    },
+    "21:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tabernáculo” (skené): a mesma palavra de Jo 1,14, “o Verbo fez-se carne e habitou (armou a tenda) entre nós”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

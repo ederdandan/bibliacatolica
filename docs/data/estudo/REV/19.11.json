@@ -1,0 +1,65 @@
+{
+  "id": "REV.19.11",
+  "livro": "REV",
+  "titulo": "O Verbo de Deus vencedor e o juízo final",
+  "secao": "A vitória final e a nova Jerusalém",
+  "referencia": "Ap 19,11–20,15",
+  "ini": {
+    "c": 19,
+    "v": 11
+  },
+  "fim": {
+    "c": 20,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O seu nome é Verbo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O céu abre-se, e aparece um cavalo branco; o cavaleiro chama-se Fiel e Verdadeiro, julga e combate com justiça. Os seus olhos são chama de fogo, tem muitos diademas, um nome escrito que só Ele conhece, um manto tingido de sangue, e o seu nome é Verbo de Deus. Seguem-no os exércitos do céu, vestidos de linho branco; da sua boca sai uma espada afiada; no manto e na coxa traz escrito: Rei dos reis e Senhor dos senhores. A Besta e os reis da terra reúnem-se para o combate, mas a Besta e o falso profeta são presos e lançados vivos no lago de fogo. Depois um anjo prende o Dragão por mil anos no abismo; os mártires e os que não adoraram a Besta vivem e reinam com Cristo mil anos: é a primeira ressurreição, e sobre eles a segunda morte não tem poder. Terminados os mil anos, Satanás é solto, reúne Gog e Magog, mas um fogo do céu os devora, e o diabo é lançado no lago de fogo. João vê um grande trono branco: a terra e o céu fogem; os mortos, grandes e pequenos, comparecem; abrem-se os livros e o livro da vida, e cada um é julgado segundo as suas obras. A morte e o Hades são lançados no lago de fogo, a segunda morte.",
+    "alegorico": "O cavaleiro é Cristo, Verbo de Deus, cujo manto tingido de sangue recorda a Paixão: Ele vence com a espada da Palavra, não com armas. Santo Agostinho interpretou os “mil anos” como o tempo da Igreja, desde a ressurreição de Cristo, em que os santos reinam com Ele; a “primeira ressurreição” é o batismo e a vida nova.",
+    "moral": "A vitória de Cristo é certa, mas o combate é real: a Palavra é a arma. O juízo “segundo as obras” dá peso à vida: cada escolha está escrita. Mas há outro livro, o da vida, onde a misericórdia inscreve os que pertencem ao Cordeiro.",
+    "anagogico": "O juízo final, diante do trono branco, encerra a história; a própria morte é destruída. A Igreja rejeitou a leitura literal de um reino terreno de mil anos (milenarismo)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vi o céu aberto, e apareceu um cavalo branco. O que estava montado sobre ele chama-se Fiel e Verdadeiro, que julga com justiça. Veste uma roupa tingida de sangue: o seu nome é Verbo de Deus. No seu manto está escrito este nome: Rei dos reis, e Senhor dos senhores. Vi os mortos, grandes e pequenos, de pé diante do trono. Foram abertos livros; e foi aberto um outro livro, que é o da vida.",
+    "meditatio_perguntas": [
+      "Confio na vitória de Cristo, Fiel e Verdadeiro?",
+      "Uso a espada da Palavra no meu combate espiritual?",
+      "Vivo de modo a estar inscrito no livro da vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, Fiel e Verdadeiro, Verbo de Deus, Rei dos reis e Senhor dos senhores, combate em mim com a espada da tua Palavra. No dia do juízo, encontra o meu nome escrito no livro da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "veste uma roupa tingida de sangue: o seu nome é Verbo de Deus",
+      "ref": "Ap 19,13"
+    }
+  },
+  "ancoras": {
+    "20:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Catecismo rejeita o milenarismo, mesmo mitigado (a ideia de um reino messiânico terreno antes do fim). Para Agostinho (Cidade de Deus XX), os mil anos são o tempo da Igreja.",
+        "origem": "ia"
+      }
+    },
+    "20:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gog e Magog: figuras de Ez 38–39, símbolo das forças hostis a Deus.",
+        "origem": "ia"
+      }
+    },
+    "20:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Segunda morte”: a condenação eterna, separação definitiva de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

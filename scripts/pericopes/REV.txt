@@ -1,0 +1,30 @@
+# Divisão do Apocalipse em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Prólogo e cartas às sete Igrejas
+1:1-1:8 | O Alfa e o Ômega
+1:9-1:20 | O Filho do Homem no meio dos candeeiros
+2:1-2:17 | Cartas a Éfeso, Esmirna e Pérgamo
+2:18-3:6 | Cartas a Tiatira e Sardes
+3:7-3:22 | Cartas a Filadélfia e Laodiceia
+## O trono, o Cordeiro e os selos
+4:1-4:11 | A liturgia celeste diante do trono
+5:1-5:14 | Digno é o Cordeiro que foi imolado
+6:1-6:17 | Os seis primeiros selos
+7:1-7:17 | A grande multidão de vestes brancas
+## As trombetas
+8:1-9:21 | O sétimo selo e as seis trombetas
+10:1-11:14 | O livrinho e as duas testemunhas
+11:15-11:19 | O reino do mundo passou a ser de Nosso Senhor
+## A Mulher, o Dragão e as Bestas
+12:1-12:18 | A Mulher vestida de sol e o Dragão
+13:1-13:18 | As duas Bestas
+14:1-14:20 | O Cordeiro no monte Sião e a ceifa da terra
+## As taças e a queda de Babilónia
+15:1-16:21 | O cântico de Moisés e as sete taças
+17:1-18:24 | A queda de Babilónia
+## A vitória final e a nova Jerusalém
+19:1-19:10 | As bodas do Cordeiro
+19:11-20:15 | O Verbo de Deus vencedor e o juízo final
+21:1-21:8 | Eis que renovo todas as coisas
+21:9-22:5 | A cidade santa, esposa do Cordeiro
+22:6-22:21 | Vem, Senhor Jesus

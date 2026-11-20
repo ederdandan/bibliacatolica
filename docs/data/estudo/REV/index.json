@@ -1,0 +1,321 @@
+{
+ "livro": "REV",
+ "secoes": [
+  "Prólogo e cartas às sete Igrejas",
+  "O trono, o Cordeiro e os selos",
+  "As trombetas",
+  "A Mulher, o Dragão e as Bestas",
+  "As taças e a queda de Babilónia",
+  "A vitória final e a nova Jerusalém"
+ ],
+ "pericopes": [
+  {
+   "id": "REV.1.1",
+   "titulo": "O Alfa e o Ômega",
+   "secao": "Prólogo e cartas às sete Igrejas",
+   "referencia": "Ap 1,1-8",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 8
+   }
+  },
+  {
+   "id": "REV.1.9",
+   "titulo": "O Filho do Homem no meio dos candeeiros",
+   "secao": "Prólogo e cartas às sete Igrejas",
+   "referencia": "Ap 1,9-20",
+   "ini": {
+    "c": 1,
+    "v": 9
+   },
+   "fim": {
+    "c": 1,
+    "v": 20
+   }
+  },
+  {
+   "id": "REV.2.1",
+   "titulo": "Cartas a Éfeso, Esmirna e Pérgamo",
+   "secao": "Prólogo e cartas às sete Igrejas",
+   "referencia": "Ap 2,1-17",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "REV.2.18",
+   "titulo": "Cartas a Tiatira e Sardes",
+   "secao": "Prólogo e cartas às sete Igrejas",
+   "referencia": "Ap 2,18–3,6",
+   "ini": {
+    "c": 2,
+    "v": 18
+   },
+   "fim": {
+    "c": 3,
+    "v": 6
+   }
+  },
+  {
+   "id": "REV.3.7",
+   "titulo": "Cartas a Filadélfia e Laodiceia",
+   "secao": "Prólogo e cartas às sete Igrejas",
+   "referencia": "Ap 3,7-22",
+   "ini": {
+    "c": 3,
+    "v": 7
+   },
+   "fim": {
+    "c": 3,
+    "v": 22
+   }
+  },
+  {
+   "id": "REV.4.1",
+   "titulo": "A liturgia celeste diante do trono",
+   "secao": "O trono, o Cordeiro e os selos",
+   "referencia": "Ap 4,1-11",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 11
+   }
+  },
+  {
+   "id": "REV.5.1",
+   "titulo": "Digno é o Cordeiro que foi imolado",
+   "secao": "O trono, o Cordeiro e os selos",
+   "referencia": "Ap 5,1-14",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 14
+   }
+  },
+  {
+   "id": "REV.6.1",
+   "titulo": "Os seis primeiros selos",
+   "secao": "O trono, o Cordeiro e os selos",
+   "referencia": "Ap 6,1-17",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 17
+   }
+  },
+  {
+   "id": "REV.7.1",
+   "titulo": "A grande multidão de vestes brancas",
+   "secao": "O trono, o Cordeiro e os selos",
+   "referencia": "Ap 7,1-17",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 17
+   }
+  },
+  {
+   "id": "REV.8.1",
+   "titulo": "O sétimo selo e as seis trombetas",
+   "secao": "As trombetas",
+   "referencia": "Ap 8,1–9,21",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 21
+   }
+  },
+  {
+   "id": "REV.10.1",
+   "titulo": "O livrinho e as duas testemunhas",
+   "secao": "As trombetas",
+   "referencia": "Ap 10,1–11,14",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 14
+   }
+  },
+  {
+   "id": "REV.11.15",
+   "titulo": "O reino do mundo passou a ser de Nosso Senhor",
+   "secao": "As trombetas",
+   "referencia": "Ap 11,15-19",
+   "ini": {
+    "c": 11,
+    "v": 15
+   },
+   "fim": {
+    "c": 11,
+    "v": 19
+   }
+  },
+  {
+   "id": "REV.12.1",
+   "titulo": "A Mulher vestida de sol e o Dragão",
+   "secao": "A Mulher, o Dragão e as Bestas",
+   "referencia": "Ap 12,1-18",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 18
+   }
+  },
+  {
+   "id": "REV.13.1",
+   "titulo": "As duas Bestas",
+   "secao": "A Mulher, o Dragão e as Bestas",
+   "referencia": "Ap 13,1-18",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 18
+   }
+  },
+  {
+   "id": "REV.14.1",
+   "titulo": "O Cordeiro no monte Sião e a ceifa da terra",
+   "secao": "A Mulher, o Dragão e as Bestas",
+   "referencia": "Ap 14,1-20",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 20
+   }
+  },
+  {
+   "id": "REV.15.1",
+   "titulo": "O cântico de Moisés e as sete taças",
+   "secao": "As taças e a queda de Babilónia",
+   "referencia": "Ap 15,1–16,21",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 21
+   }
+  },
+  {
+   "id": "REV.17.1",
+   "titulo": "A queda de Babilónia",
+   "secao": "As taças e a queda de Babilónia",
+   "referencia": "Ap 17,1–18,24",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 24
+   }
+  },
+  {
+   "id": "REV.19.1",
+   "titulo": "As bodas do Cordeiro",
+   "secao": "A vitória final e a nova Jerusalém",
+   "referencia": "Ap 19,1-10",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 10
+   }
+  },
+  {
+   "id": "REV.19.11",
+   "titulo": "O Verbo de Deus vencedor e o juízo final",
+   "secao": "A vitória final e a nova Jerusalém",
+   "referencia": "Ap 19,11–20,15",
+   "ini": {
+    "c": 19,
+    "v": 11
+   },
+   "fim": {
+    "c": 20,
+    "v": 15
+   }
+  },
+  {
+   "id": "REV.21.1",
+   "titulo": "Eis que renovo todas as coisas",
+   "secao": "A vitória final e a nova Jerusalém",
+   "referencia": "Ap 21,1-8",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 8
+   }
+  },
+  {
+   "id": "REV.21.9",
+   "titulo": "A cidade santa, esposa do Cordeiro",
+   "secao": "A vitória final e a nova Jerusalém",
+   "referencia": "Ap 21,9–22,5",
+   "ini": {
+    "c": 21,
+    "v": 9
+   },
+   "fim": {
+    "c": 22,
+    "v": 5
+   }
+  },
+  {
+   "id": "REV.22.6",
+   "titulo": "Vem, Senhor Jesus",
+   "secao": "A vitória final e a nova Jerusalém",
+   "referencia": "Ap 22,6-21",
+   "ini": {
+    "c": 22,
+    "v": 6
+   },
+   "fim": {
+    "c": 22,
+    "v": 21
+   }
+  }
+ ]
+}

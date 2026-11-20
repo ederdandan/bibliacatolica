@@ -1,0 +1,65 @@
+{
+  "id": "REV.1.1",
+  "livro": "REV",
+  "titulo": "O Alfa e o Ômega",
+  "secao": "Prólogo e cartas às sete Igrejas",
+  "referencia": "Ap 1,1-8",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Aquele que é, que era e que vem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro apresenta-se como revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que deve acontecer em breve, comunicada por um anjo ao servo João, que dá testemunho de tudo o que viu. Bem-aventurado quem lê e quem ouve as palavras desta profecia e guarda o que nela está escrito, porque o tempo está próximo. João saúda as sete Igrejas da Ásia com graça e paz da parte daquele que é, que era e que vem, dos sete espíritos diante do seu trono e de Jesus Cristo, a testemunha fiel, o primogénito dentre os mortos, o soberano dos reis da terra. A Ele, que nos ama, nos libertou dos pecados pelo seu sangue e fez de nós um reino e sacerdotes para Deus, a glória pelos séculos. Eis que vem com as nuvens, e todo olho o verá, até os que o trespassaram. Eu sou o Alfa e o Ômega, diz o Senhor Deus, o Todo-poderoso.",
+    "alegorico": "A saudação é trinitária: o Pai (“que é, que era e que vem”), o Espírito na sua plenitude (os “sete espíritos”) e Jesus Cristo. A Igreja, libertada pelo sangue do Cordeiro, é povo real e sacerdotal, como Israel no Sinai (Ex 19,6).",
+    "moral": "O Apocalipse começa com uma bem-aventurança para quem lê, ouve e guarda: não é livro para curiosidade sobre o futuro, mas para fidelidade no presente. E começa com o amor: “àquele que nos ama”. O batizado participa do sacerdócio de Cristo e oferece a vida a Deus.",
+    "anagogico": "“Eis que ele vem sobre as nuvens”: todo o livro está orientado para a vinda gloriosa de Cristo. Deus é o Alfa e o Ômega: a história começa e termina nele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bem-aventurado aquele que lê e aquele que ouve as palavras desta profecia, e observa as coisas que nela estão escritas, porque o tempo está próximo. Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos. Àquele que nos ama e nos livrou dos nossos pecados pelo seu sangue, e fez de nós um reino e sacerdotes para Deus, a ele glória e poder pelos séculos. Eis que ele vem sobre as nuvens. Eu sou o Alfa e o Ômega.",
+    "meditatio_perguntas": [
+      "Leio o Apocalipse para saber o futuro ou para ser fiel hoje?",
+      "Vivo a consciência de ser amado e libertado pelo sangue de Cristo?",
+      "Como exerço o meu sacerdócio batismal?"
+    ],
+    "oratio_guia": "Senhor Jesus, testemunha fiel e primogénito dentre os mortos, que nos amas e nos libertaste pelo teu sangue, a ti a glória e o poder pelos séculos. Faz-me guardar as palavras desta profecia, à espera da tua vinda. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-poderoso",
+      "ref": "Ap 1,8"
+    }
+  },
+  "ancoras": {
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sete espíritos”: símbolo da plenitude do Espírito Santo (cf. Is 11,2). O número sete, no Apocalipse, indica totalidade.",
+        "origem": "ia"
+      }
+    },
+    "1:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 1,5-8 é a segunda leitura de Cristo Rei, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alfa e Ômega: a primeira e a última letra do alfabeto grego; gravadas no Círio pascal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

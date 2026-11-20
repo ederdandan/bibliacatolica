@@ -1,0 +1,65 @@
+{
+  "id": "REV.12.1",
+  "livro": "REV",
+  "titulo": "A Mulher vestida de sol e o Dragão",
+  "secao": "A Mulher, o Dragão e as Bestas",
+  "referencia": "Ap 12,1-18",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Uma Mulher vestida de sol",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aparece no céu um grande sinal: uma Mulher vestida de sol, com a lua debaixo dos pés e uma coroa de doze estrelas na cabeça; está grávida e grita com dores de parto. Aparece outro sinal: um grande Dragão cor de fogo, com sete cabeças, dez chifres e sete diademas; a sua cauda arrasta a terça parte das estrelas. O Dragão põe-se diante da Mulher para devorar o filho logo que nascesse. Ela dá à luz um filho varão, que há de reger todas as nações com cetro de ferro, e o filho é arrebatado para Deus e para o seu trono; a Mulher foge para o deserto, onde Deus lhe preparou um lugar. Há uma batalha no céu: Miguel e os seus anjos combatem o Dragão, que é precipitado na terra com os seus anjos; é a antiga Serpente, chamada Diabo e Satanás. Uma voz proclama: agora chegou a salvação, a força e o reino do nosso Deus, porque foi precipitado o acusador dos nossos irmãos; eles venceram-no pelo sangue do Cordeiro e pela palavra do seu testemunho. O Dragão persegue a Mulher, mas ela recebe asas de águia e a terra engole o rio que ele lança; então ele vai fazer guerra aos outros filhos dela, que guardam os mandamentos de Deus e o testemunho de Jesus.",
+    "alegorico": "A Mulher é o povo de Deus, Israel e a Igreja, que dá à luz o Messias e os seus discípulos; e é, em sentido pleno, Maria, Mãe do Messias, nova Eva diante da antiga Serpente (Gn 3,15). As doze estrelas evocam as tribos e os apóstolos. O filho arrebatado ao trono é Cristo ressuscitado e glorificado.",
+    "moral": "A história é campo de combate entre o Dragão e a descendência da Mulher. O cristão não deve ser ingénuo: há um inimigo, “acusador dos irmãos”. Mas a vitória vem “pelo sangue do Cordeiro e pela palavra do seu testemunho”. Maria, Mãe protegida no deserto, acompanha os filhos que guardam os mandamentos.",
+    "anagogico": "O Dragão foi já precipitado e sabe que lhe resta pouco tempo. A Mulher vestida de sol, imagem da Igreja glorificada e de Maria assunta ao céu, é sinal da vitória final que espera os seus filhos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apareceu no céu um grande sinal: uma Mulher vestida de sol, com a lua debaixo de seus pés, e uma coroa de doze estrelas sobre a sua cabeça. Ela deu à luz um filho varão, que deve reger todas as gentes com vara de ferro. E foi precipitado o grande Dragão, a antiga Serpente, que se chama Demônio e Satanás. Eles venceram-no pelo sangue do Cordeiro e pela palavra do seu testemunho.",
+    "meditatio_perguntas": [
+      "Reconheço-me filho da Mulher, que guarda os mandamentos e o testemunho de Jesus?",
+      "Como reajo às acusações do inimigo contra mim?",
+      "Confio à proteção de Maria os meus combates?"
+    ],
+    "oratio_guia": "Santa Maria, Mulher vestida de sol, Mãe do Messias e nossa, protege os teus filhos no combate contra a antiga Serpente. Senhor Jesus, dá-nos vencer pelo teu sangue e pela palavra do nosso testemunho. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma Mulher vestida de sol, com a lua debaixo de seus pés, e uma coroa de doze estrelas sobre a sua cabeça",
+      "ref": "Ap 12,1"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lido na Assunção e na Imaculada; a iconografia mariana (Nossa Senhora da Conceição, Guadalupe) inspira-se nesta imagem.",
+        "origem": "ia"
+      }
+    },
+    "12:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "São Miguel (“Quem como Deus?”), príncipe da milícia celeste (cf. Dn 12,1; Jd 9).",
+        "origem": "ia"
+      }
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Acusador” traduz o sentido do hebraico satan.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

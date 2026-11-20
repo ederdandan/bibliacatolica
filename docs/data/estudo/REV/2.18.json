@@ -1,0 +1,57 @@
+{
+  "id": "REV.2.18",
+  "livro": "REV",
+  "titulo": "Cartas a Tiatira e Sardes",
+  "secao": "Prólogo e cartas às sete Igrejas",
+  "referencia": "Ap 2,18–3,6",
+  "ini": {
+    "c": 2,
+    "v": 18
+  },
+  "fim": {
+    "c": 3,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Tens nome de vivo, e estás morto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "À Igreja de Tiatira, o Filho de Deus, de olhos como chama de fogo, diz: conheço as tuas obras, a tua caridade, a tua fé, o teu serviço e a tua paciência, e as tuas últimas obras superam as primeiras. Mas toleras Jezabel, que se diz profetisa e seduz os meus servos à imoralidade e à idolatria; dei-lhe tempo para se arrepender, e ela não quer. Castigá-la-ei, e todas as Igrejas saberão que eu sondo os rins e os corações e dou a cada um segundo as suas obras. Aos outros de Tiatira, que não conheceram as “profundidades de Satanás”, nada mais imponho: guardai o que tendes até que eu venha. Ao vencedor darei poder sobre as nações e a estrela da manhã. À Igreja de Sardes, Aquele que tem os sete espíritos de Deus diz: conheço as tuas obras; tens nome de vivo, e estás morto. Sê vigilante e reanima o que resta e estava para morrer; lembra-te do que recebeste, guarda-o e arrepende-te. Se não vigiares, virei como ladrão. Tens em Sardes algumas pessoas que não mancharam as vestes; andarão comigo de branco. O vencedor não terá o nome apagado do livro da vida, e eu o confessarei diante do meu Pai e dos seus anjos.",
+    "alegorico": "Jezabel, a rainha que levou Israel à idolatria (1Rs 16–21), é tipo de toda sedução que mistura fé e paganismo. A “estrela da manhã” é o próprio Cristo (22,16), dado como prémio. As vestes brancas são a graça batismal conservada.",
+    "moral": "Tiatira cresce no bem, mas tolera o erro. Sardes tem fama e está morta: o perigo de viver da reputação, de uma vitalidade aparente. O remédio é a vigilância e a memória do que se recebeu. Cristo sonda os corações: não se engana pelas aparências.",
+    "anagogico": "Os que conservam as vestes sem mancha andarão com Cristo vestidos de branco; o seu nome não será apagado do livro da vida. A estrela da manhã anuncia o dia sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Conheço as tuas obras, a tua caridade, a tua fé e o teu serviço. Eu sou aquele que sonda os rins e os corações. Guardai bem aquilo que tendes, até que eu venha. Dar-lhes-ei a estrela da manhã. Tens a reputação de que vives, e estás morto. Sê vigilante. Lembra-te do que recebeste e ouviste, observa-o e faze penitência. Tens algumas pessoas que não contaminaram os seus vestidos: acompanhar-me-ão vestidas de branco.",
+    "meditatio_perguntas": [
+      "Vivo da reputação ou de uma fé realmente viva?",
+      "Que “Jezabel” tolero no meu coração?",
+      "Guardo sem mancha as vestes do meu batismo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que sondas os corações, desperta-me se tenho nome de vivo e estou morto. Faz-me vigilante, fiel ao que recebi, e guarda sem mancha as minhas vestes, para que caminhe contigo de branco. Amém.",
+    "contemplatio_foco": {
+      "texto": "tens a reputação de que vives, e estás morto",
+      "ref": "Ap 3,1"
+    }
+  },
+  "ancoras": {
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Profundidades de Satanás”: provável ironia contra grupos que se gloriavam de conhecimentos esotéricos (“as profundezas de Deus”).",
+        "origem": "ia"
+      }
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Livro da vida”: imagem do registo dos cidadãos do Reino (cf. Ex 32,32; Dn 12,1; Fl 4,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

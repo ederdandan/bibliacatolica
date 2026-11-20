@@ -1,0 +1,57 @@
+{
+  "id": "REV.14.1",
+  "livro": "REV",
+  "titulo": "O Cordeiro no monte Sião e a ceifa da terra",
+  "secao": "A Mulher, o Dragão e as Bestas",
+  "referencia": "Ap 14,1-20",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Bem-aventurados os mortos que morrem no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Cordeiro está de pé sobre o monte Sião, e com Ele os cento e quarenta e quatro mil que têm na fronte o seu nome e o do seu Pai. Uma voz como de muitas águas e de citaristas: cantam um cântico novo que só os resgatados da terra podem aprender. São os que não se contaminaram, são virgens, seguem o Cordeiro aonde quer que vá, primícias para Deus e para o Cordeiro; na sua boca não se achou mentira. Um anjo voa com um Evangelho eterno para anunciar a toda nação: temei a Deus e dai-lhe glória, porque chegou a hora do seu juízo. Um segundo anjo: caiu, caiu Babilónia, a grande. Um terceiro anuncia o castigo dos que adoram a Besta. Aqui está a paciência dos santos, que guardam os mandamentos de Deus e a fé em Jesus. Uma voz do céu diz: escreve: bem-aventurados os mortos que morrem no Senhor; sim, diz o Espírito, que descansem dos seus trabalhos, porque as suas obras os acompanham. Depois, alguém semelhante a um Filho de homem, sobre uma nuvem branca, lança a foice à ceifa da terra; e um anjo vindima a vinha da terra e lança as uvas no grande lagar da ira de Deus.",
+    "alegorico": "Os 144.000 sobre o monte Sião, em contraste com os marcados pela Besta, são a Igreja fiel, “virgem” no sentido bíblico de não se prostituir com os ídolos. A ceifa e a vindima, imagens tomadas de Joel 3,13, representam o juízo final; o lagar pisado “fora da cidade” evoca Cristo crucificado fora das portas.",
+    "moral": "Seguir o Cordeiro “aonde quer que vá” é o programa do discípulo, também até à cruz. A ausência de mentira na boca é marca dos resgatados. E a bem-aventurança dos mortos no Senhor consola: as obras acompanham-nos; nada do bem feito se perde.",
+    "anagogico": "O descanso dos que morrem no Senhor e a ceifa final mostram o termo da história: a colheita de Deus. O cântico novo é a liturgia eterna dos resgatados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eis que o Cordeiro estava de pé sobre o monte de Sião, e com ele cento e quarenta e quatro mil. Cantam um cântico novo diante do trono. Estes seguem o Cordeiro para onde quer que ele vá. Na sua boca não se achou mentira. Escreve: Bem-aventurados, desde agora, os mortos, que morrem no Senhor. Sim, diz o Espírito, que descansem dos seus trabalhos, porque as suas obras os seguem.",
+    "meditatio_perguntas": [
+      "Sigo o Cordeiro aonde quer que vá, ou só por onde me convém?",
+      "Há mentira na minha boca?",
+      "Que obras minhas me acompanharão diante de Deus?"
+    ],
+    "oratio_guia": "Cordeiro de Deus, quero seguir-te aonde quer que vás. Guarda a minha boca da mentira e o meu coração dos ídolos. Concede aos que morreram no Senhor o descanso dos seus trabalhos, e que as suas obras os acompanhem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurados, desde agora, os mortos, que morrem no Senhor",
+      "ref": "Ap 14,13"
+    }
+  },
+  "ancoras": {
+    "14:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto usado nas exéquias e na Comemoração dos Fiéis Defuntos (2 de novembro).",
+        "origem": "ia"
+      }
+    },
+    "14:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Virgens”: na linguagem profética, a idolatria é prostituição; a virgindade é fidelidade exclusiva a Deus (cf. 2Cor 11,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

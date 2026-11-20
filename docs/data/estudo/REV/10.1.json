@@ -1,0 +1,57 @@
+{
+  "id": "REV.10.1",
+  "livro": "REV",
+  "titulo": "O livrinho e as duas testemunhas",
+  "secao": "As trombetas",
+  "referencia": "Ap 10,1–11,14",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O livrinho doce na boca e amargo no ventre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um anjo forte desce do céu, envolto numa nuvem, com o arco-íris sobre a cabeça e um livrinho aberto na mão; põe um pé sobre o mar e outro sobre a terra, e grita como leão; sete trovões falam, mas João recebe ordem de não escrever o que disseram. O anjo jura que não haverá mais demora: ao som da sétima trombeta cumprir-se-á o mistério de Deus anunciado aos profetas. João toma o livrinho e come-o: é doce como mel na boca, mas amargo no ventre; e ouve que deve ainda profetizar sobre muitos povos. Depois recebe uma cana para medir o templo de Deus, o altar e os que nele adoram; o átrio exterior é entregue às nações, que pisarão a cidade santa durante quarenta e dois meses. Deus dá às suas duas testemunhas o poder de profetizar, vestidas de saco, durante 1260 dias: são as duas oliveiras e os dois candelabros. Quando terminam o testemunho, a Besta do abismo mata-as, e os seus corpos ficam na praça da grande cidade onde o Senhor foi crucificado, enquanto os habitantes da terra se alegram. Mas, depois de três dias e meio, um espírito de vida entra nelas, ressuscitam e sobem ao céu numa nuvem.",
+    "alegorico": "O livrinho comido repete a vocação de Ezequiel (Ez 3,1-3): a Palavra é doce ao ser recebida e amarga ao ser vivida e anunciada. As duas testemunhas, com traços de Moisés e Elias, representam a Igreja profética, que partilha a morte e a ressurreição do seu Senhor.",
+    "moral": "Quem anuncia a Palavra experimenta a doçura do encontro e a amargura da missão. O testemunho cristão pode terminar em aparente derrota e escárnio; mas a última palavra é de Deus, que ressuscita. O templo medido indica que Deus protege o essencial da sua Igreja, mesmo quando o átrio é pisado.",
+    "anagogico": "A ressurreição das duas testemunhas após três dias e meio anuncia a ressurreição dos fiéis e a vitória final. “Não haverá mais tempo”: a história caminha para o cumprimento do mistério de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Toma o livrinho e devora-o; ele fará amargar o teu ventre, mas na tua boca será doce como mel. Tomei o livrinho e devorei-o; na minha boca era doce como mel, mas o meu ventre ficou amargurado. Darei às minhas duas testemunhas o poder de profetizar. Depois de três dias e meio, um espírito de vida entrou neles da parte de Deus, e eles puseram-se de pé.",
+    "meditatio_perguntas": [
+      "Experimento a Palavra de Deus como doce e, ao vivê-la, também como amarga?",
+      "Aceito o custo do testemunho cristão?",
+      "Creio que Deus dá a última palavra mesmo depois do fracasso aparente?"
+    ],
+    "oratio_guia": "Senhor, dá-me comer a tua Palavra, doce como mel, e aceitar a amargura de a viver e anunciar. Faz de mim testemunha fiel, e que o teu espírito de vida me levante depois de toda derrota. Amém.",
+    "contemplatio_foco": {
+      "texto": "na minha boca era doce como mel, mas, depois que o devorei, o meu ventre ficou amargurado",
+      "ref": "Ap 10,10"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "42 meses = 1260 dias = três anos e meio: metade de sete, símbolo de um tempo limitado de provação (cf. Dn 7,25).",
+        "origem": "ia"
+      }
+    },
+    "11:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As duas oliveiras vêm de Zc 4,3.14; os poderes (fechar o céu, mudar a água em sangue) lembram Elias e Moisés.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

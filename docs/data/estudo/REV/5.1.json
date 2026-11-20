@@ -1,0 +1,57 @@
+{
+  "id": "REV.5.1",
+  "livro": "REV",
+  "titulo": "Digno é o Cordeiro que foi imolado",
+  "secao": "O trono, o Cordeiro e os selos",
+  "referencia": "Ap 5,1-14",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Digno é o Cordeiro que foi imolado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na mão direita do que está sentado no trono, João vê um livro escrito por dentro e por fora, selado com sete selos. Um anjo forte pergunta: quem é digno de abrir o livro? Ninguém no céu, na terra ou debaixo da terra o pode abrir, e João chora muito. Um dos anciãos diz: não chores; venceu o Leão da tribo de Judá, a raiz de David, e pode abrir o livro. Então João vê, no meio do trono, um Cordeiro de pé, como imolado, com sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra. O Cordeiro recebe o livro; os seres vivos e os anciãos prostram-se, com cítaras e taças de ouro cheias de perfume, que são as orações dos santos, e cantam um cântico novo: digno és de receber o livro e abrir os seus selos, porque foste imolado e resgataste para Deus, com o teu sangue, homens de toda tribo, língua, povo e nação, e fizeste deles um reino e sacerdotes. Miríades de anjos aclamam: digno é o Cordeiro imolado de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e o louvor. E toda criatura responde: ao que está sentado no trono e ao Cordeiro, louvor, honra, glória e poder pelos séculos.",
+    "alegorico": "Espera-se um Leão, e aparece um Cordeiro imolado: a vitória de Cristo é a Cruz. Está “de pé, como imolado”: ressuscitado, mas com as chagas. Só Ele abre o livro selado, isto é, revela o sentido da história e das Escrituras. As taças de perfume são as orações dos santos: a oração da Igreja sobe a Deus.",
+    "moral": "O pranto de João diante do livro fechado é o de todo homem que não entende o sentido da história e da própria vida. A resposta não é uma ideia, mas uma Pessoa: o Cordeiro imolado. A oração dos fiéis, por humilde que seja, é recolhida em taças de ouro diante de Deus.",
+    "anagogico": "O cântico novo dos resgatados “de toda tribo, língua, povo e nação” anuncia a assembleia universal do céu. Toda a criação acabará por louvar o que está no trono e o Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não chores; eis que o leão da tribo de Judá venceu de maneira a poder abrir o livro. Então vi no meio do trono um Cordeiro de pé, como imolado. Cantam um cântico novo, dizendo: Digno és de receber o livro, porque foste morto e resgataste para Deus, com o teu sangue, homens de toda a tribo, língua, povo e nação. Digno é o Cordeiro, que foi morto, de receber o poder, a riqueza, a sabedoria, a fortaleza, a honra, a glória e a bênção.",
+    "meditatio_perguntas": [
+      "Que “livro selado” da minha vida preciso de entregar ao Cordeiro?",
+      "Creio que a minha oração sobe a Deus como perfume?",
+      "Uno-me ao louvor de toda a criação ao Cordeiro?"
+    ],
+    "oratio_guia": "Digno és, Cordeiro imolado, de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e o louvor. Tu me resgataste com o teu sangue: abre o livro da minha vida e dá-lhe sentido. A ti o louvor pelos séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Digno é o Cordeiro, que foi morto, de receber o poder, a riqueza, a sabedoria, a fortaleza, a honra, a glória e a bênção",
+      "ref": "Ap 5,12"
+    }
+  },
+  "ancoras": {
+    "5:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sete chifres e sete olhos”: plenitude de poder e de conhecimento. Ap 5,11-14 é a segunda leitura do 3º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto citado para a intercessão dos santos: as orações dos fiéis são apresentadas diante de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

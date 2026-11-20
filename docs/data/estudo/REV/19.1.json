@@ -1,0 +1,57 @@
+{
+  "id": "REV.19.1",
+  "livro": "REV",
+  "titulo": "As bodas do Cordeiro",
+  "secao": "A vitória final e a nova Jerusalém",
+  "referencia": "Ap 19,1-10",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Bem-aventurados os chamados à ceia das bodas do Cordeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João ouve no céu a voz de uma grande multidão: Aleluia! A salvação, a glória e o poder ao nosso Deus, porque são verdadeiros e justos os seus juízos; julgou a grande Prostituta e vingou o sangue dos seus servos. Os anciãos e os seres vivos adoram: Amém, Aleluia! Uma voz do trono convida: louvai o nosso Deus, todos os seus servos, pequenos e grandes. E a multidão, como o ruído de muitas águas e de grandes trovões, canta: Aleluia! Porque reina o Senhor nosso Deus, o Todo-poderoso. Alegremo-nos, exultemos e demos-lhe glória, porque chegaram as bodas do Cordeiro, e a sua Esposa está preparada; foi-lhe dado vestir-se de linho fino, resplandecente e puro: o linho são as obras justas dos santos. O anjo diz: escreve: bem-aventurados os convidados para a ceia das bodas do Cordeiro. João prostra-se para o adorar, mas o anjo impede-o: sou servo como tu; adora a Deus; o testemunho de Jesus é o espírito da profecia.",
+    "alegorico": "As bodas do Cordeiro com a Igreja são a consumação da aliança, descrita pelos profetas como casamento entre Deus e o seu povo. O vestido da Esposa é tecido com as obras justas dos santos: dom de Deus e cooperação humana. A liturgia faz eco desta bem-aventurança antes da comunhão: “felizes os convidados para a ceia do Senhor”.",
+    "moral": "A Igreja prepara-se para as bodas: cada ato de justiça é um fio do seu vestido. O louvor (“Aleluia”) é a resposta adequada à vitória de Deus. E o anjo recusa a adoração: o culto pertence só a Deus, e toda criatura, por mais elevada, é serva.",
+    "anagogico": "O céu é descrito como festa nupcial, comunhão de amor entre Cristo e a humanidade redimida. Cada Eucaristia é já participação antecipada nesse banquete."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouvi uma espécie de voz de grande multidão, a dizer: Aleluia! porque tomou posse do seu reino o Senhor nosso Deus, o Omnipotente. Alegremo-nos, exultemos, dêmos-lhe glória, porque chegaram as bodas do Cordeiro, e sua esposa está ataviada. Este linho fino são os actos de justiça dos santos. Escreve: Bem-aventurados os que foram chamados ao festim das bodas do Cordeiro!",
+    "meditatio_perguntas": [
+      "Vivo a Eucaristia como antecipação das bodas do Cordeiro?",
+      "Que obras justas estou a tecer para o vestido da Esposa?",
+      "O meu louvor a Deus é alegre como um “Aleluia”?"
+    ],
+    "oratio_guia": "Aleluia! Reina o Senhor nosso Deus, o Todo-poderoso. Senhor Jesus, Esposo da Igreja, prepara-me para as tuas bodas, veste-me de obras justas e conta-me entre os bem-aventurados chamados à tua ceia. Amém.",
+    "contemplatio_foco": {
+      "texto": "os que foram chamados ao festim das bodas do Cordeiro",
+      "ref": "Ap 19,9"
+    }
+  },
+  "ancoras": {
+    "19:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Únicas ocorrências de “Aleluia” no NT; a Igreja usa estes cânticos nas Vésperas de domingo.",
+        "origem": "ia"
+      }
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Missal Romano retoma esta bem-aventurança no convite à comunhão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

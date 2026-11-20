@@ -1,0 +1,65 @@
+{
+  "id": "REV.3.7",
+  "livro": "REV",
+  "titulo": "Cartas a Filadélfia e Laodiceia",
+  "secao": "Prólogo e cartas às sete Igrejas",
+  "referencia": "Ap 3,7-22",
+  "ini": {
+    "c": 3,
+    "v": 7
+  },
+  "fim": {
+    "c": 3,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Eis que estou à porta e bato",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "À Igreja de Filadélfia, o Santo, o Verdadeiro, que tem a chave de David, que abre e ninguém fecha, diz: conheço as tuas obras; pus diante de ti uma porta aberta que ninguém pode fechar, porque, com pouca força, guardaste a minha palavra e não negaste o meu nome. Porque guardaste a palavra da minha paciência, também te guardarei da hora da prova. Venho em breve: guarda o que tens, para que ninguém tome a tua coroa. Do vencedor farei uma coluna no templo do meu Deus e escreverei sobre ele o nome do meu Deus e o da nova Jerusalém. À Igreja de Laodiceia, o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus, diz: conheço as tuas obras: não és frio nem quente; oxalá fosses frio ou quente! Porque és morno, vomitar-te-ei da minha boca. Dizes: sou rico, nada me falta; e não sabes que és infeliz, miserável, pobre, cego e nu. Aconselho-te que compres de mim ouro provado no fogo, vestes brancas e colírio para os olhos. Repreendo e castigo os que amo: sê zeloso e arrepende-te. Eis que estou à porta e bato: se alguém ouvir a minha voz e abrir a porta, entrarei e cearei com ele, e ele comigo. Ao vencedor darei sentar-se comigo no meu trono.",
+    "alegorico": "A chave de David (Is 22,22) é o poder messiânico de Cristo sobre a casa de Deus. A ceia partilhada com quem abre a porta evoca a Eucaristia e o banquete do Reino. O Cristo que bate à porta é o Esposo do Cântico (Ct 5,2).",
+    "moral": "Filadélfia, fraca, é elogiada: Deus não pede força, pede fidelidade. Laodiceia, rica e satisfeita, é a imagem da tibieza: a pior doença espiritual é julgar que nada falta. Mas a censura termina com o convite mais íntimo do livro: Cristo bate à porta e espera que se abra; não a força.",
+    "anagogico": "O vencedor será coluna no templo de Deus e sentar-se-á com Cristo no trono: participação real na glória. A ceia com o Senhor que entra na casa é antecipação das bodas eternas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eis que pus diante de ti uma porta aberta, que ninguém pode fechar, porque, tendo pouca força, guardaste a minha palavra. Guarda o que tens, para que ninguém tome a tua coroa. Conheço as tuas obras, que não és nem frio nem quente. Dizes: sou rico; e não sabes que és um infeliz, pobre, cego e nu! Aos que amo, repreendo e castigo. Eis que estou à porta e bato. Se alguém ouvir a minha voz e me abrir a porta, entrarei nele, cearei com ele, e ele comigo.",
+    "meditatio_perguntas": [
+      "Sou frio, quente ou morno?",
+      "Em que me julgo rico e autossuficiente diante de Deus?",
+      "Ouço Cristo a bater à minha porta? Que me impede de abrir?"
+    ],
+    "oratio_guia": "Senhor Jesus, que estás à porta e bates, abro-te o meu coração. Tira de mim a tibieza e a falsa riqueza; dá-me o teu ouro, as tuas vestes brancas e o colírio para ver. Entra e ceia comigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que estou à porta e bato",
+      "ref": "Ap 3,20"
+    }
+  },
+  "ancoras": {
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Laodiceia recebia água morna por aqueduto, ao contrário das águas termais de Hierápolis e das frias de Colossas: imagem conhecida pelos destinatários.",
+        "origem": "ia"
+      }
+    },
+    "3:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Laodiceia era célebre pelos bancos, pela lã negra e por um colírio medicinal: Cristo oferece o contrário de tudo isso.",
+        "origem": "ia"
+      }
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O Amen”: título de Cristo, o “sim” fiel de Deus (cf. 2Cor 1,20; Is 65,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

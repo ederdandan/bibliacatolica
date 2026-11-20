@@ -1,0 +1,65 @@
+{
+  "id": "REV.22.6",
+  "livro": "REV",
+  "titulo": "Vem, Senhor Jesus",
+  "secao": "A vitória final e a nova Jerusalém",
+  "referencia": "Ap 22,6-21",
+  "ini": {
+    "c": 22,
+    "v": 6
+  },
+  "fim": {
+    "c": 22,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Vem, Senhor Jesus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O anjo garante que estas palavras são fiéis e verdadeiras. Jesus diz: eis que venho em breve; bem-aventurado quem guarda as palavras da profecia deste livro. João, que ouviu e viu tudo, prostra-se diante do anjo para o adorar, mas este impede-o: sou servo como tu; adora a Deus. Não seles as palavras deste livro, porque o tempo está próximo. Que o injusto continue na injustiça e o santo continue a santificar-se. Eis que venho em breve, e trago comigo a recompensa, para dar a cada um segundo as suas obras. Eu sou o Alfa e o Ômega, o primeiro e o último, o princípio e o fim. Bem-aventurados os que lavam as suas vestes, para terem direito à árvore da vida e entrarem pelas portas da cidade. Eu, Jesus, enviei o meu anjo para vos dar testemunho destas coisas sobre as Igrejas; eu sou a raiz e a descendência de David, a estrela radiosa da manhã. O Espírito e a Esposa dizem: Vem! E quem ouve diga: Vem! Quem tem sede venha, e quem quiser receba gratuitamente a água da vida. Adverte-se que nada se acrescente nem se tire a esta profecia. Aquele que dá testemunho destas coisas diz: sim, venho em breve. Amém. Vem, Senhor Jesus! A graça do Senhor Jesus esteja com todos.",
+    "alegorico": "A Bíblia termina como começou o Génesis: com a árvore da vida, agora acessível aos que lavaram as vestes no sangue do Cordeiro. O diálogo final, “o Espírito e a Esposa dizem: Vem”, é a oração da Igreja animada pelo Espírito, que deseja o Esposo. Cristo é a estrela da manhã que anuncia o dia eterno.",
+    "moral": "A última palavra da Escritura é um desejo e uma oração: “Vem, Senhor Jesus”. O cristão vive em espera ativa: santificando-se, lavando as vestes, guardando a Palavra. O convite é gratuito e universal: “quem tem sede, venha”. A integridade da Palavra (nada acrescentar, nada tirar) pede reverência.",
+    "anagogico": "“Sim, venho sem demora”: a promessa do Senhor e a resposta da Igreja selam toda a Escritura. A história está orientada para o encontro com Cristo que vem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eis que venho sem demora. Bem-aventurado aquele que guarda as palavras da profecia deste livro. Eu sou o Alfa e o Ômega, o primeiro e o último, o princípio e o fim. Eu sou a raiz e a geração de David, a estrela resplandecente da manhã. E o Espírito e a Esposa dizem: Vem! E o que tem sede, venha; e o que quer, receba de graça a água da vida. Sim, venho sem demora. Amen. Vem, Senhor Jesus.",
+    "meditatio_perguntas": [
+      "Desejo, de facto, a vinda do Senhor?",
+      "Uno a minha voz ao Espírito e à Esposa que dizem “Vem”?",
+      "Que sede minha só a água da vida pode saciar?"
+    ],
+    "oratio_guia": "Senhor Jesus, estrela radiosa da manhã, o Espírito e a Esposa dizem: Vem! Também eu digo: Vem! Dá-me de graça a água da vida, lava as minhas vestes e faz-me entrar na tua cidade. Maranatha: vem, Senhor Jesus!",
+    "contemplatio_foco": {
+      "texto": "Vem, Senhor Jesus",
+      "ref": "Ap 22,20"
+    }
+  },
+  "ancoras": {
+    "22:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ap 22,12-14.16-17.20 é a segunda leitura do 7º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "22:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Vem, Senhor Jesus”: equivalente grego do aramaico Maranatha (1Cor 16,22), oração da Igreja primitiva.",
+        "origem": "ia"
+      }
+    },
+    "22:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A advertência final segue o modelo de Dt 4,2, protegendo a integridade da revelação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
