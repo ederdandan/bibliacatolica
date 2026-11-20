@@ -1,0 +1,203 @@
+{
+  "id": "MAT.27.45",
+  "livro": "MAT",
+  "titulo": "A morte de Jesus",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 27,45-56",
+  "ini": {
+    "c": 27,
+    "v": 45
+  },
+  "fim": {
+    "c": 27,
+    "v": 56
+  },
+  "liturgia": {
+    "tema_central": "“Na verdade este era Filho de Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Do meio-dia às três da tarde (da hora sexta à nona) há trevas sobre toda a terra. Perto da hora nona, Jesus clama em alta voz as primeiras palavras do Salmo 22: “Eli, Eli, lema sabachtani?”, “Deus meu, Deus meu, porque me abandonaste?” Alguns pensam que chama Elias; um deles oferece-lhe vinagre numa esponja. Jesus dá outro grande grito e expira. O véu do templo (que separava o Santo dos Santos) rasga-se de alto a baixo, a terra treme, as rochas fendem-se, abrem-se sepulturas, e muitos santos ressuscitados aparecem, depois da ressurreição de Jesus, na cidade santa. O centurião e os guardas, cheios de medo, confessam: “Na verdade este era Filho de Deus”. De longe olham as mulheres que o seguiam desde a Galileia, entre elas Maria Madalena.",
+    "alegorico": "As trevas recordam as do Egito na noite da Páscoa: agora se imola o verdadeiro Cordeiro. O grito do Salmo 22, que começa no abandono e termina no louvor, mostra Cristo assumindo a oração do justo sofredor. O véu rasgado abre o acesso a Deus, antes reservado ao sumo sacerdote uma vez por ano, e marca o fim do culto antigo. Os sepulcros abertos anunciam que a morte foi vencida.",
+    "moral": "Jesus entrega o espírito com um grande grito, sinal de que dá a vida livremente: ninguém lha tira. O centurião pagão confessa a fé em pleno escândalo da cruz: tremam também as “rochas” dos corações incrédulos. As mulheres permanecem quando os discípulos fogem: a fidelidade amorosa vale mais que as promessas.",
+    "anagogico": "Os santos que ressuscitam são primícias da ressurreição futura, mas só depois de Cristo, primogênito dentre os mortos. A morte do Senhor abre a cidade santa celeste a todos os que creem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Desde a hora sexta até à hora nona, houve trevas sobre toda a terra. Perto da hora nona, exclamou Jesus com voz forte: “Eli, Eli, lema sabachtani?”, isto é: “Deus meu, Deus meu, porque me abandonaste?” Alguns dos que ali estavam diziam: “Ele chama por Elias”. Jesus, tornando a dar um alto grito, expirou. E eis que o véu do templo se rasgou em duas partes de alto a baixo, a terra tremeu, as rochas fenderam-se, abriram-se as sepulturas. O centurião e os que com ele estavam de guarda a Jesus, vendo o terremoto e as coisas que aconteciam, tiveram grande medo, e diziam: “Na verdade este era Filho de Deus”. Achavam-se também ali muitas mulheres que olhavam de longe, as quais tinham seguido Jesus desde a Galileia.",
+    "meditatio_perguntas": [
+      "Na minha dor, rezo com Jesus o Salmo do abandono que termina na confiança?",
+      "O que a morte de Jesus “rasga” em mim, abrindo-me o acesso a Deus?",
+      "Permaneço junto à cruz, como as mulheres, ou olho de longe?"
+    ],
+    "oratio_guia": "Senhor Jesus, que entregaste o espírito ao Pai com um grande grito de amor, eu te adoro e te bendigo, porque pela tua santa cruz remiste o mundo. Com o centurião, confesso: na verdade, tu és o Filho de Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Na verdade este era Filho de Deus.",
+      "ref": "Mt 27,54"
+    }
+  },
+  "ancoras": {
+    "27:45": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": "Hom. 88",
+          "catena": "27:45–50#3",
+          "sintese": "Estas trevas duraram três horas, ao passo que o eclipse é passageiro."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "27:45–50#5",
+          "sintese": "Trevas sobre toda a terra, como só no Egito na noite da Páscoa: aquilo era figura disto."
+        }
+      ],
+      "nota": null
+    },
+    "27:46": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:45–50#6",
+          "sintese": "Usou o princípio do Salmo 21 (22), citado segundo o hebraico."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "27:45–50#7",
+          "sintese": "Pronunciou a palavra profética para dar testemunho do Antigo Testamento até a última hora e mostrar que honra o Pai."
+        }
+      ],
+      "nota": {
+        "texto": "O Salmo 22 começa no grito de abandono e termina na confiança e no louvor (Sl 22,23-32). Ao rezá-lo, Jesus assume a oração do justo sofredor; não exprime desespero, pois a união do Filho com o Pai nunca se rompeu.",
+        "origem": "ia"
+      }
+    },
+    "27:47": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:45–50#13",
+          "sintese": "Eram talvez soldados romanos que, ignorando o hebraico, pensaram que invocava Elias."
+        }
+      ],
+      "nota": null
+    },
+    "27:48": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "27:45–50#15",
+          "sintese": "O vinho da imortalidade azedou em Adão; Cristo tomou esse vinagre e bebeu-o das mãos dos gentios."
+        }
+      ],
+      "nota": null
+    },
+    "27:50": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:45–50#22",
+          "sintese": "Entregar assim o espírito foi sinal do poder divino: ninguém ma tira, mas eu a dou."
+        },
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "27:45–50#23",
+          "sintese": "Clamando em alta voz ao morrer, mostrou que era verdadeiro Deus: o homem que morre mal consegue emitir um som."
+        },
+        {
+          "autor": "Santo Agostinho",
+          "obra": "De Cons. Evang. 3, 18",
+          "catena": "27:45–50#24",
+          "sintese": "Lucas refere o que clamou: Pai, nas tuas mãos entrego o meu espírito."
+        }
+      ],
+      "nota": null
+    },
+    "27:51": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "Santo Hilário",
+          "obra": null,
+          "catena": "27:51–56#3",
+          "sintese": "Rasga-se o véu porque a honra do véu foi tirada, juntamente com a proteção do anjo guardião."
+        },
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:51–56#5",
+          "sintese": "Segundo a letra, o céu, a terra e todas as coisas davam testemunho do seu Senhor crucificado."
+        }
+      ],
+      "nota": null
+    },
+    "27:52": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:51–56#8",
+          "sintese": "Não ressuscitaram antes do Senhor, para que Ele fosse o primogênito da ressurreição dentre os mortos."
+        },
+        {
+          "autor": "São Leão Magno",
+          "obra": "Serm. 66, 3",
+          "catena": "27:51–56#14",
+          "sintese": "Fendam-se as rochas das mentes incrédulas e saiam dos sepulcros da mortalidade, como sinais da ressurreição futura."
+        }
+      ],
+      "nota": null
+    },
+    "27:54": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": null,
+          "catena": "27:51–56#12",
+          "sintese": "Em pleno escândalo da paixão, o centurião confessa o Filho de Deus, enquanto Ário, na Igreja, o proclama criatura."
+        }
+      ],
+      "nota": null
+    },
+    "27:55": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São João Crisóstomo",
+          "obra": null,
+          "catena": "27:51–56#17",
+          "sintese": "Seguiam-no servindo e permaneceram no perigo: quando os discípulos fugiram, elas ficaram."
+        }
+      ],
+      "nota": null
+    },
+    "27:56": {
+      "cic": [],
+      "padres": [
+        {
+          "autor": "São Jerônimo",
+          "obra": "Contra Helvídio",
+          "catena": "27:51–56#18",
+          "sintese": "Contra Helvídio, mostra que este Tiago, chamado irmão do Senhor, é o apóstolo filho de Alfeu, e não filho da Virgem Maria."
+        }
+      ],
+      "nota": {
+        "texto": "“Maria, mãe de Tiago e de José” não é a Mãe do Senhor. Os “irmãos” de Jesus são, na linguagem bíblica, parentes próximos; a Igreja professa a virgindade perpétua de Maria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

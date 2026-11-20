@@ -1,0 +1,113 @@
+{
+  "id": "MAT.27.27",
+  "livro": "MAT",
+  "titulo": "A coroação de espinhos e a crucifixão",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 27,27-44",
+  "ini": { "c": 27, "v": 27 },
+  "fim": { "c": 27, "v": 44 },
+  "liturgia": { "tema_central": "O Rei coroado de espinhos, elevado na cruz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No Pretório (a residência do governador), a coorte romana zomba de Jesus: vestem-no com um manto carmesim, põem-lhe uma coroa de espinhos e uma cana na mão, ajoelham-se dizendo “Salve, ó rei dos Judeus”, cospem-lhe e batem-lhe na cabeça. Levam-no para crucificar; obrigam Simão de Cirene a levar a cruz. No Gólgota, “lugar do Crânio”, fora dos muros, dão-lhe vinho misturado com fel (bebida entorpecente), que Ele prova e recusa. Crucificam-no, repartem as suas vestes por sorte (Sl 22,19) e põem por cima da cabeça a inscrição da causa: “Este é Jesus, o Rei dos Judeus”. Dois ladrões são crucificados com Ele. Os que passam, os sacerdotes e até os ladrões o insultam: “Salvou outros, a si mesmo não se pode salvar; desça da cruz, e creremos nele”.",
+    "alegorico": "A zombaria proclama, sem o saber, a verdade: Jesus é Rei, e a coroa de espinhos, feita dos pecados, torna-se coroa de vitória. A cruz é a nova árvore da vida: o que Adão perdeu na árvore, Cristo o reencontra na cruz. Padece fora da cidade, porque o sacrifício é universal, por toda a terra. Simão de Cirene, estrangeiro, figura os gentios que tomam a cruz e seguem a Cristo.",
+    "moral": "Depois de Cristo ter sofrido assim, que nos importam os insultos? Ele padeceu em todo o corpo para curar todos os nossos membros. Carregar a cruz com Ele é a vocação do discípulo. A tentação “desce da cruz” é a de fugir do sofrimento redentor; Jesus não desce precisamente porque é o Filho de Deus e veio para ser crucificado por nós.",
+    "anagogico": "Os dois ladrões, à direita e à esquerda, prefiguram a separação do juízo final. O instrumento do suplício tornou-se degrau para a glória: o Crucificado é o Rei que reinará do alto da cruz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os soldados do governador, conduzindo Jesus ao Pretório, despiram-no e lançaram sobre ele um manto carmezim; tecendo uma coroa de espinhos, puseram-lha sobre a cabeça, e na mão direita uma cana; e, dobrando o joelho diante dele, o escarneciam, dizendo: “Salve, ó rei dos Judeus”. Ao sair, encontraram um homem de Cirene, chamado Simão, ao qual obrigaram a levar a cruz de Jesus. Tendo chegado ao lugar chamado Gólgota, crucificaram-no e repartiram entre si os seus vestidos. Puseram por cima da sua cabeça uma inscrição: “Este é Jesus, o Rei dos Judeus”. Os que iam passando ultrajavam-no, dizendo: “Se és Filho de Deus, desce da cruz”. E os príncipes dos sacerdotes diziam: “Ele salvou outros, a si mesmo não se pode salvar”.",
+    "meditatio_perguntas": [
+      "Que cruz o Senhor me pede para carregar com Ele, como Simão?",
+      "Como reajo quando sou ridicularizado por ser cristão?",
+      "Em que momentos peço a Jesus que “desça da cruz” em vez de aceitar o seu caminho?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei coroado de espinhos, adoro-te elevado na cruz. Ajuda-me a carregar contigo a minha cruz, como Simão de Cirene, sem fugir e sem murmurar. Que eu nunca me envergonhe de ti. Amém.",
+    "contemplatio_foco": { "texto": "Este é Jesus, o Rei dos Judeus.", "ref": "Mt 27,37" }
+  },
+  "ancoras": {
+    "27:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:27–30#1", "sintese": "Fora chamado Rei dos judeus; daí a zombaria dos soldados, que o revestem de insígnias reais por escárnio." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 2, no fim", "catena": "27:27–30#10", "sintese": "Tirarem-lhe as vestes e porem-lhe outro manto designa os hereges que lhe atribuíram um corpo aparente." }
+      ],
+      "nota": null
+    },
+    "27:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 87", "catena": "27:27–30#3", "sintese": "Que nos importam os insultos, depois de Cristo ter padecido assim? Todo o seu corpo padeceu, da cabeça aos pés." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:27–30#6", "sintese": "É coroado de espinhos, isto é, dos pecados dos gentios, de que se tece para Cristo a coroa da vitória." }
+      ],
+      "nota": null
+    },
+    "27:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 2 sobre a Cruz e o Ladrão", "catena": "27:31–34#4", "sintese": "Padeceu fora da cidade, para que saibas que o sacrifício era universal, oblação por toda a terra." }
+      ],
+      "nota": null
+    },
+    "27:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:31–34#7", "sintese": "Em figura: as nações tomam a cruz, e o estrangeiro, pela obediência, leva a ignomínia do Salvador." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:31–34#8", "sintese": "Estava reservado à fé dos gentios tomar a cruz e padecer com Ele." }
+      ],
+      "nota": null
+    },
+    "27:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:31–34#12", "sintese": "Calvário não se chama assim pela cabeça de Adão, mas por ser o lugar dos decapitados, fora da cidade." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:31–34#13", "sintese": "A cruz é levantada no centro da terra, para que todas as nações tenham igual acesso ao conhecimento de Deus." }
+      ],
+      "nota": null
+    },
+    "27:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:31–34#15", "sintese": "A videira amarga produziu vinho amargo, para que se cumprisse: deram-me fel por alimento." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:31–34#17", "sintese": "Recusou-o porque o amargor do pecado não se mistura com a incorrupção da glória eterna." }
+      ],
+      "nota": null
+    },
+    "27:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "sermão não localizado", "catena": "27:35–38#2", "sintese": "Tudo o que Adão perdeu tomando o fruto da árvore, Cristo o encontrou na cruz." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:35–38#6", "sintese": "Na árvore da vida está suspensa a salvação e a vida de todos." }
+      ],
+      "nota": null
+    },
+    "27:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Leão Magno", "obra": "Serm. 55, 1", "catena": "27:35–38#14", "sintese": "Na própria figura da cruz representa-se a separação que se fará no juízo; o instrumento do suplício tornou-se degrau para a glória." }
+      ],
+      "nota": null
+    },
+    "27:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 2 sobre a Cruz e o Ladrão", "catena": "27:39–44#5", "sintese": "Não desce da cruz precisamente porque é o Filho de Deus: veio para ser crucificado por nós." }
+      ],
+      "nota": null
+    },
+    "27:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:39–44#6", "sintese": "Confessam, contra a vontade, que salvou os outros; e o seu próprio juízo os condena." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:39–44#10", "sintese": "Promessa enganosa: ressuscitar morto é maior que descer vivo da cruz, e ainda assim não creram." }
+      ],
+      "nota": null
+    },
+    "27:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:39–44#13", "sintese": "A princípio ambos o insultaram; mas, diante das trevas e do terremoto, um deles creu e reparou a sua negação." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
