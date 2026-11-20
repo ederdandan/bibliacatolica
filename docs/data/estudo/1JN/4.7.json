@@ -1,0 +1,57 @@
+{
+  "id": "1JN.4.7",
+  "livro": "1JN",
+  "titulo": "Deus é caridade",
+  "secao": "Deus é caridade",
+  "referencia": "1Jo 4,7-21",
+  "ini": {
+    "c": 4,
+    "v": 7
+  },
+  "fim": {
+    "c": 4,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Deus é caridade: Ele nos amou primeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus, e todo aquele que ama nasceu de Deus e conhece a Deus; quem não ama não conheceu a Deus, porque Deus é amor. Nisto se manifestou o amor de Deus para conosco: Deus enviou o seu Filho unigênito ao mundo para que vivamos por Ele. O amor consiste nisto: não fomos nós que amamos a Deus, mas foi Ele que nos amou e enviou o seu Filho como vítima de propiciação pelos nossos pecados. Se Deus nos amou assim, também nós devemos amar-nos. Ninguém jamais viu a Deus; se nos amamos, Deus permanece em nós e o seu amor é perfeito em nós. Sabemos que permanecemos nele porque nos deu o seu Espírito. Quem confessa que Jesus é o Filho de Deus, Deus permanece nele. Deus é amor: quem permanece no amor permanece em Deus, e Deus nele. No amor não há temor; o amor perfeito lança fora o temor. Amemos, porque Ele nos amou primeiro. Quem diz amar a Deus e odeia o irmão é mentiroso: quem não ama o irmão que vê não pode amar a Deus que não vê.",
+    "alegorico": "“Deus é amor” é a revelação mais alta sobre o ser de Deus: o Pai que ama, o Filho amado e enviado, o Espírito, amor derramado em nós. O envio do Filho como vítima é o centro do mistério: o amor de Deus não é abstrato, mas tem a forma da cruz. A Igreja, comunhão no amor, torna visível o Deus que ninguém viu.",
+    "moral": "O amor fraterno é consequência do amor de Deus e sua prova. O amor de Deus precede o nosso: tudo começa por deixar-se amar. O Deus invisível torna-se presente quando nos amamos. O medo servil é vencido pelo amor. E não há amor a Deus que dispense o amor ao irmão concreto, visível.",
+    "anagogico": "O amor perfeito dá “confiança no dia do juízo”: quem ama não teme o encontro final. Ninguém viu a Deus, mas quem permanece no amor já começa a viver nele, à espera de vê-lo face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Amemo-nos uns aos outros, porque a caridade vem de Deus. Quem não ama, não conheceu a Deus, porque Deus é caridade. Não fomos nós os que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho. Quem permanece na caridade, permanece em Deus, e Deus nele. A caridade perfeita lança fora o temor. Nós, portanto, amemos, porque ele nos amou primeiro.",
+    "meditatio_perguntas": [
+      "Deixo-me amar por Deus antes de tentar amá-lo?",
+      "Que temor ainda me impede de amar com liberdade?",
+      "Há algum irmão “que vejo” e que não amo?"
+    ],
+    "oratio_guia": "Deus, que és amor e me amaste primeiro, enviando o teu Filho como vítima pelos meus pecados, faz-me permanecer no teu amor. Lança fora de mim todo temor. Que eu te ame no irmão que vejo, para te amar a ti, que não vejo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é caridade; quem permanece na caridade, permanece em Deus, e Deus nele.",
+      "ref": "1Jo 4,16"
+    }
+  },
+  "ancoras": {
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Caridade” traduz agápē (Vulgata: Deus caritas est). Bento XVI abriu com 4,16 a sua primeira encíclica, Deus caritas est (2005).",
+        "origem": "ia"
+      }
+    },
+    "4:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “temor que supõe pena” é o temor servil; não se opõe ao “temor de Deus” filial, dom do Espírito, que é respeito amoroso.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

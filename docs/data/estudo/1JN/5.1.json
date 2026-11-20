@@ -1,0 +1,57 @@
+{
+  "id": "1JN.5.1",
+  "livro": "1JN",
+  "titulo": "A vitória que vence o mundo é a nossa fé",
+  "secao": "A fé que vence o mundo",
+  "referencia": "1Jo 5,1-13",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A vitória que vence o mundo é a nossa fé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todo aquele que crê que Jesus é o Cristo nasceu de Deus, e quem ama o Pai ama também o que dele nasceu. Sabemos que amamos os filhos de Deus quando amamos a Deus e guardamos os seus mandamentos: o amor de Deus consiste em guardar os seus mandamentos, e os seus mandamentos não são pesados. Tudo o que nasceu de Deus vence o mundo; e a vitória que vence o mundo é a nossa fé. Quem vence o mundo senão quem crê que Jesus é o Filho de Deus? Ele é o que veio pela água e pelo sangue; não só com a água, mas com a água e com o sangue. E o Espírito é quem dá testemunho, porque o Espírito é a verdade. Três dão testemunho: o Espírito, a água e o sangue, e os três estão de acordo. O testemunho de Deus é maior que o dos homens, e é este: Deus nos deu a vida eterna, e essa vida está no seu Filho. Quem tem o Filho tem a vida; quem não tem o Filho não tem a vida. João escreve para que saibam que têm a vida eterna os que creem no nome do Filho de Deus.",
+    "alegorico": "A água e o sangue lembram o lado aberto de Cristo na cruz (Jo 19,34), de onde os Padres viram nascer a Igreja e os sacramentos: a água do Batismo e o sangue da Eucaristia. O Espírito, a água e o sangue testemunham juntos: o Espírito age nos sacramentos que brotam da cruz. Também se viu na água o Batismo de Jesus no Jordão e no sangue a sua Paixão.",
+    "moral": "A fé não é fuga do mundo, mas vitória sobre ele: sobre o medo, a concupiscência, a mentira. Os mandamentos “não são custosos” para quem ama, porque o amor torna leve o jugo. Amar a Deus e amar os seus filhos são inseparáveis. A certeza de ter a vida eterna em Cristo dá serenidade e coragem.",
+    "anagogico": "“Aquele que tem o Filho, tem a vida”: a vida eterna já é possuída na fé e será plena na glória. A vitória da fé sobre o mundo antecipa a vitória final de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O amor de Deus consiste em guardarmos os seus mandamentos, mandamentos que não são custosos. Tudo o que nasceu de Deus, vence o mundo; a vitória que venceu o mundo é a nossa fé. Este Jesus Cristo é aquele que veio pela água e pelo sangue. Deus deu-nos a vida eterna e esta vida está em seu Filho. Aquele que tem o Filho, tem a vida.",
+    "meditatio_perguntas": [
+      "Sinto os mandamentos como peso, ou como caminho de amor?",
+      "Em que ponto concreto a minha fé precisa vencer o mundo hoje?",
+      "Tenho consciência de que, tendo o Filho, já tenho a vida eterna?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Deus, que vieste pela água e pelo sangue, aumenta a minha fé, que vence o mundo. Torna leves para mim os teus mandamentos pelo amor. Que eu te tenha sempre, porque em ti está a vida eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "A vitória que venceu o mundo é a nossa fé.",
+      "ref": "1Jo 5,4"
+    }
+  },
+  "ancoras": {
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata clementina traz aqui o “Comma Joanino” (“três dão testemunho no céu: o Pai, o Verbo e o Espírito Santo, e estes três são um”), ausente dos manuscritos gregos antigos. Esta edição de Matos Soares não o inclui; a Nova Vulgata também o omite.",
+        "origem": "ia"
+      }
+    },
+    "5:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura do Domingo do Batismo do Senhor, Ano B (1Jo 5,1-9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

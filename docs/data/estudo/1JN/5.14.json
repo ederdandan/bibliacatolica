@@ -1,0 +1,57 @@
+{
+  "id": "1JN.5.14",
+  "livro": "1JN",
+  "titulo": "A confiança na oração; o Deus verdadeiro",
+  "secao": "A fé que vence o mundo",
+  "referencia": "1Jo 5,14-21",
+  "ini": {
+    "c": 5,
+    "v": 14
+  },
+  "fim": {
+    "c": 5,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Este é o verdadeiro Deus e a vida eterna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Esta é a confiança que temos em Deus: se pedimos algo segundo a sua vontade, Ele nos ouve; e, se sabemos que nos ouve, sabemos que temos o que lhe pedimos. Se alguém vê o irmão cometer um pecado que não leva à morte, reze, e Deus lhe dará a vida; há um pecado que leva à morte, e por esse João não diz que se reze. Toda injustiça é pecado, mas há pecado que não leva à morte. Sabemos que quem nasceu de Deus não peca: o Gerado de Deus o guarda, e o maligno não o toca. Sabemos que somos de Deus e que o mundo inteiro está sob o poder do maligno. Sabemos que o Filho de Deus veio e nos deu inteligência para conhecermos o Verdadeiro; e estamos no Verdadeiro, no seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna. Filhinhos, guardai-vos dos ídolos.",
+    "alegorico": "A intercessão pelo irmão pecador mostra a Igreja como comunhão onde a oração de uns obtém vida para outros. Cristo, “o gerado de Deus”, guarda os filhos de Deus como pastor. A confissão final, “Este é o verdadeiro Deus”, é uma das afirmações mais claras da divindade de Jesus no Novo Testamento.",
+    "moral": "A oração confiante pede segundo a vontade de Deus. A caridade inclui rezar pelos irmãos que pecam. A distinção entre pecado “que conduz à morte” e pecado que não conduz está na raiz da distinção entre pecado mortal e venial. A última palavra é um aviso sempre atual: guardar-se dos ídolos, tudo o que toma o lugar do Deus verdadeiro.",
+    "anagogico": "Em Cristo “estamos no Verdadeiro”, e Ele é “a vida eterna”: o fim da carta coincide com o fim da vida cristã, a comunhão eterna com o Deus verdadeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Esta é a confiança que temos nele: que qualquer coisa que lhe pedimos, conforme à sua vontade, ele nos ouve. Sabemos que veio o Filho de Deus e que nos deu entendimento para que conheçamos o Verdadeiro. Nós estamos no Verdadeiro, em seu Filho Jesus Cristo. Este é o Verdadeiro Deus e a vida eterna. Filhinhos, guardai-vos dos ídolos.",
+    "meditatio_perguntas": [
+      "Rezo com confiança, pedindo segundo a vontade de Deus?",
+      "Intercedo pelos irmãos que vejo pecar, em vez de só julgá-los?",
+      "Que ídolos preciso afastar hoje da minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, verdadeiro Deus e vida eterna, guarda-me do maligno e de todos os ídolos. Dá-me rezar com confiança segundo a tua vontade e interceder pelos irmãos que pecam. Que eu permaneça sempre em ti, o Verdadeiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o Verdadeiro Deus e a vida eterna.",
+      "ref": "1Jo 5,20"
+    }
+  },
+  "ancoras": {
+    "5:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição moral católica funda em 5,16-17 a distinção entre pecado mortal e venial. O “pecado que conduz à morte” é provavelmente a apostasia, ruptura consciente com Cristo.",
+        "origem": "ia"
+      }
+    },
+    "5:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O pronome “Este” refere-se mais naturalmente a Jesus Cristo, mencionado imediatamente antes: afirmação explícita da divindade do Filho.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

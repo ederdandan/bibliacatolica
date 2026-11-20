@@ -1,0 +1,49 @@
+{
+  "id": "1JN.1.1",
+  "livro": "1JN",
+  "titulo": "O Verbo da vida, que vimos e apalpamos",
+  "secao": "Deus é luz",
+  "referencia": "1Jo 1,1-4",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Para que tenhais comunhão conosco, com o Pai e com o Filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João abre a carta com um testemunho solene: o que era desde o princípio, o que ouviram, viram com os próprios olhos, contemplaram e apalparam com as mãos, a respeito do Verbo da vida. Pois a vida manifestou-se: viram-na, dão testemunho dela e anunciam a vida eterna, que estava junto do Pai e se manifestou a eles. O que viram e ouviram, anunciam-no também aos destinatários, para que tenham comunhão com os apóstolos; e a comunhão dos apóstolos é com o Pai e com o seu Filho Jesus Cristo. E escrevem estas coisas para que a sua alegria seja completa.",
+    "alegorico": "O prólogo ecoa o do Evangelho de João: o Verbo que estava no princípio fez-se carne, visível e palpável. A “comunhão” (koinōnía) é o próprio mistério da Igreja: participação na vida trinitária, transmitida pelo testemunho apostólico. A Igreja é a comunhão dos que, pela palavra dos apóstolos, entram em comunhão com o Pai e o Filho.",
+    "moral": "A fé cristã não é ideia, mas encontro com uma Pessoa que se deixou ver e tocar. Quem recebeu esse anúncio é chamado a transmiti-lo, não como teoria, mas como testemunho do que viu e ouviu. A comunhão com Deus passa pela comunhão com a Igreja apostólica. E o fruto do anúncio partilhado é a alegria completa.",
+    "anagogico": "A “vida eterna, que estava no Pai”, já se manifestou; a comunhão com o Pai e o Filho, iniciada agora, será plena na visão. A alegria completa que João deseja é a da eternidade, antecipada na comunhão eclesial."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos, o que apalparam as nossas mãos relativamente ao Verbo da vida, isso vo-lo anunciamos, para que vós também tenhais comunhão conosco, e para que a nossa comunhão seja com o Pai e com seu Filho Jesus Cristo. Para que a nossa alegria seja completa.",
+    "meditatio_perguntas": [
+      "Minha fé é encontro com uma Pessoa viva, ou só um conjunto de ideias?",
+      "Posso testemunhar o que “vi e ouvi” de Deus na minha vida?",
+      "Vivo a comunhão com a Igreja como caminho de comunhão com o Pai e o Filho?"
+    ],
+    "oratio_guia": "Verbo da vida, que te deixaste ver e tocar, faz-me entrar na comunhão dos teus apóstolos, que é comunhão com o Pai e contigo. Dá-me anunciar o que recebi, para que a nossa alegria seja completa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Para que a nossa comunhão seja com o Pai e com seu Filho Jesus Cristo.",
+      "ref": "1Jo 1,3"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O realismo dos verbos (ver, contemplar, apalpar) responde a mestres que negavam a verdadeira carne de Cristo (docetismo; cf. 4,2-3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

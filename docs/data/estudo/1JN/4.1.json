@@ -1,0 +1,49 @@
+{
+  "id": "1JN.4.1",
+  "livro": "1JN",
+  "titulo": "Examinai os espíritos",
+  "secao": "Deus é caridade",
+  "referencia": "1Jo 4,1-6",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Aquele que está em vós é maior do que o que está no mundo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Caríssimos, não acreditem em todo espírito, mas examinem os espíritos para ver se são de Deus, porque muitos falsos profetas vieram ao mundo. Nisto se reconhece o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio na carne é de Deus; todo espírito que não confessa Jesus não é de Deus, mas é o do anticristo, que ouviram que viria e já está no mundo. Eles, filhinhos, são de Deus e venceram esses falsos profetas, porque Aquele que está neles é maior do que aquele que está no mundo. Os falsos profetas são do mundo, falam a linguagem do mundo, e o mundo os ouve. Nós somos de Deus: quem conhece a Deus nos ouve, quem não é de Deus não nos ouve. Nisto reconhecemos o espírito da verdade e o espírito do erro.",
+    "alegorico": "O critério do discernimento é a Encarnação: confessar Jesus Cristo “vindo na carne”. Toda doutrina que esvazia a humanidade ou a divindade de Cristo vem de outro espírito. O “nós” apostólico é a Igreja: ouvir os apóstolos e os seus sucessores é sinal de pertença a Deus.",
+    "moral": "Não basta parecer espiritual: é preciso discernir. O critério é a confissão de Cristo verdadeiro Deus e verdadeiro homem e a comunhão com a fé apostólica. O sucesso no mundo não prova a verdade: “o mundo os ouve”. O cristão não deve ter medo, porque Deus nele é mais forte que o mal no mundo.",
+    "anagogico": "A vitória já obtida sobre os falsos profetas é antecipação da vitória final de Cristo sobre o anticristo. O espírito da verdade guiará a Igreja até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não acrediteis em todo o espírito, mas examinai os espíritos para ver se são de Deus. Todo o espírito que confessa que Jesus Cristo veio em carne, é de Deus. Vós, filhinhos, sois de Deus, e alcançastes vitória sobre eles, porque o que está em vós, é mais poderoso que o que está no mundo.",
+    "meditatio_perguntas": [
+      "Examino as “vozes espirituais” que escuto, ou acredito em tudo?",
+      "Minha fé em Cristo verdadeiro Deus e verdadeiro homem é clara?",
+      "Confio que Aquele que está em mim é mais forte que o mal do mundo?"
+    ],
+    "oratio_guia": "Espírito da verdade, dá-me discernir os espíritos e permanecer na fé em Jesus Cristo vindo na carne. Livra-me das vozes do mundo que me afastam de ti. Tu, que estás em mim, és maior do que tudo o que está no mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Examinai os espíritos para ver se são de Deus.",
+      "ref": "1Jo 4,1"
+    }
+  },
+  "ancoras": {
+    "4:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Critério dirigido contra o docetismo e, segundo Santo Irineu, contra Cerinto, contemporâneo de João, que separava o homem Jesus do Cristo celeste.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

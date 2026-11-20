@@ -1,0 +1,49 @@
+{
+  "id": "1JN.3.11",
+  "livro": "1JN",
+  "titulo": "Amar por obra e em verdade",
+  "secao": "Deus é caridade",
+  "referencia": "1Jo 3,11-24",
+  "ini": {
+    "c": 3,
+    "v": 11
+  },
+  "fim": {
+    "c": 3,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Não amemos de palavra, mas por obra e em verdade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A mensagem ouvida desde o princípio é esta: que nos amemos uns aos outros. Não como Caim, que era do maligno e matou o irmão, porque as suas obras eram más e as do irmão justas. Não se admirem se o mundo os odeia. Sabemos que passamos da morte para a vida porque amamos os irmãos; quem não ama permanece na morte. Quem odeia o irmão é homicida, e nenhum homicida tem a vida eterna. Nisto conhecemos o amor: Ele deu a sua vida por nós; também nós devemos dar a vida pelos irmãos. Se alguém tem bens deste mundo e vê o irmão em necessidade e lhe fecha o coração, como pode o amor de Deus permanecer nele? Filhinhos, não amemos de palavra nem com a língua, mas por obras e em verdade. Assim tranquilizaremos o coração diante de Deus, mesmo que o coração nos acuse, porque Deus é maior que o nosso coração e conhece tudo. O mandamento é crer no nome do Filho Jesus Cristo e amar-nos uns aos outros; quem guarda os mandamentos permanece em Deus e Deus nele, e sabemo-lo pelo Espírito que nos deu.",
+    "alegorico": "Caim e Abel são figura das duas cidades: a do ódio e a do amor. Abel, o justo morto pelo irmão, prefigura Cristo. A cruz, onde Cristo “deu a sua vida por nós”, é a definição do amor; a Igreja é a comunidade dos que passaram da morte à vida pela caridade.",
+    "moral": "O amor não é sentimento, mas doação até a vida, e começa por abrir o coração e a mão ao irmão necessitado. O ódio é homicídio no coração. A verdade do amor está nas obras. E quando a consciência acusa, há consolo: Deus é maior que o nosso coração. Fé em Cristo e amor fraterno resumem todos os mandamentos.",
+    "anagogico": "“Fomos trasladados da morte para a vida”: a vida eterna começa já no amor. Quem ama permanece em Deus; quem não ama “permanece na morte”, que tem consequências eternas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Sabemos que fomos trasladados da morte para a vida, porque amamos os nossos irmãos. Nisto conhecemos o amor: em ter dado a sua vida por nós. Igualmente nós devemos também dar a vida pelos nossos irmãos. Meus filhinhos, não amemos de palavra e com a língua, mas por obra e em verdade. Deus é maior do que o nosso coração e conhece todas as coisas.",
+    "meditatio_perguntas": [
+      "Fecho o coração a algum irmão em necessidade?",
+      "Meu amor é mais de palavras ou de obras?",
+      "Quando o meu coração me acusa, confio que Deus é maior?"
+    ],
+    "oratio_guia": "Senhor Jesus, que deste a vida por mim, ensina-me a amar não de palavra, mas por obras e em verdade. Abre o meu coração e as minhas mãos aos irmãos necessitados. E quando o meu coração me acusar, recorda-me que és maior do que ele. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não amemos de palavra e com a língua, mas por obra e em verdade.",
+      "ref": "1Jo 3,18"
+    }
+  },
+  "ancoras": {
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Única menção de uma figura do AT em toda a carta. Santo Agostinho desenvolve a oposição Caim/Abel na Cidade de Deus (XV).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

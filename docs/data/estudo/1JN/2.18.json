@@ -1,0 +1,57 @@
+{
+  "id": "1JN.2.18",
+  "livro": "1JN",
+  "titulo": "A unção do Santo e os anticristos",
+  "secao": "Deus é luz",
+  "referencia": "1Jo 2,18-29",
+  "ini": {
+    "c": 2,
+    "v": 18
+  },
+  "fim": {
+    "c": 2,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Permanecei nele, segundo a unção vos ensinou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Filhinhos, é a última hora. Ouviram que o Anticristo há de vir; já há muitos anticristos, por isso sabemos que é a última hora. Saíram de entre nós, mas não eram dos nossos; se fossem, teriam ficado conosco. Mas os fiéis receberam a unção do Santo e têm conhecimento. João não lhes escreve por ignorarem a verdade, mas porque a conhecem. Quem é o mentiroso, senão quem nega que Jesus é o Cristo? Esse é o anticristo, que nega o Pai e o Filho; quem nega o Filho não tem o Pai, quem confessa o Filho tem também o Pai. Permaneça neles o que ouviram desde o princípio, e permanecerão no Filho e no Pai; esta é a promessa: a vida eterna. A unção que receberam permanece neles, e não precisam que alguém lhes ensine outra coisa: a sua unção ensina tudo e é verdadeira; permaneçam nele. Permaneçam nele, filhinhos, para que tenham confiança quando Ele aparecer e não sejam envergonhados na sua vinda. Quem pratica a justiça nasceu dele.",
+    "alegorico": "A “unção do Santo” é o Espírito Santo recebido no Batismo e na Confirmação (chrísma), que faz de cada fiel um “cristo”, ungido. É o “senso da fé” do povo de Deus, que reconhece a verdade e rejeita o erro. Os anticristos são os que, saindo da comunhão da Igreja, negam o mistério de Cristo.",
+    "moral": "A fidelidade consiste em “permanecer” no que se ouviu desde o princípio, a fé apostólica, sem buscar novidades que neguem o Filho. O Espírito ensina interiormente, mas não contra a fé recebida. Quem sai da comunhão revela que não era dos nossos: a perseverança é sinal da verdadeira pertença. A justiça praticada mostra o novo nascimento.",
+    "anagogico": "“É a última hora”: desde a vinda de Cristo vivemos o tempo final. Permanecer nele é preparar a confiança “na sua vinda”, quando os fiéis não serão confundidos. A promessa é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós recebestes a unção do Santo e tendes a ciência. Aquele que confessa o Filho, possui também o Pai. Se em vós permanecer o que ouvistes desde o princípio, também permanecereis no Filho e no Pai. Esta é a promessa que ele mesmo nos fez: a vida eterna. E agora, filhinhos, permanecei nele, para que, quando aparecer, tenhamos confiança.",
+    "meditatio_perguntas": [
+      "Permaneço na fé que recebi desde o princípio, ou procuro novidades que a contradizem?",
+      "Escuto a voz do Espírito que recebi na unção do Batismo e da Crisma?",
+      "Se Cristo aparecesse hoje, teria eu confiança diante dele?"
+    ],
+    "oratio_guia": "Espírito Santo, unção do Santo que recebi, ensina-me a verdade e guarda-me na fé apostólica. Faz-me permanecer no Filho e no Pai, para que eu tenha confiança na vinda de Cristo e alcance a vida eterna prometida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Permanecei nele, para que, quando aparecer, tenhamos confiança.",
+      "ref": "1Jo 2,28"
+    }
+  },
+  "ancoras": {
+    "2:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nas cartas de João, “anticristo” designa os que negam Jesus como Cristo e Filho; a figura escatológica de um Anticristo pessoal é desenvolvida em outros textos (cf. 2Ts 2).",
+        "origem": "ia"
+      }
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Unção” traduz chrísma. O Vaticano II (Lumen Gentium, 12) cita 2,20.27 ao falar do sentido sobrenatural da fé de todo o povo de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

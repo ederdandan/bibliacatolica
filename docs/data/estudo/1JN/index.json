@@ -1,0 +1,150 @@
+{
+ "livro": "1JN",
+ "secoes": [
+  "Deus é luz",
+  "Deus é caridade",
+  "A fé que vence o mundo"
+ ],
+ "pericopes": [
+  {
+   "id": "1JN.1.1",
+   "titulo": "O Verbo da vida, que vimos e apalpamos",
+   "secao": "Deus é luz",
+   "referencia": "1Jo 1,1-4",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 4
+   }
+  },
+  {
+   "id": "1JN.1.5",
+   "titulo": "Andar na luz e confessar os pecados",
+   "secao": "Deus é luz",
+   "referencia": "1Jo 1,5–2,2",
+   "ini": {
+    "c": 1,
+    "v": 5
+   },
+   "fim": {
+    "c": 2,
+    "v": 2
+   }
+  },
+  {
+   "id": "1JN.2.3",
+   "titulo": "O mandamento novo; não ameis o mundo",
+   "secao": "Deus é luz",
+   "referencia": "1Jo 2,3-17",
+   "ini": {
+    "c": 2,
+    "v": 3
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "1JN.2.18",
+   "titulo": "A unção do Santo e os anticristos",
+   "secao": "Deus é luz",
+   "referencia": "1Jo 2,18-29",
+   "ini": {
+    "c": 2,
+    "v": 18
+   },
+   "fim": {
+    "c": 2,
+    "v": 29
+   }
+  },
+  {
+   "id": "1JN.3.1",
+   "titulo": "Agora somos filhos de Deus",
+   "secao": "Deus é caridade",
+   "referencia": "1Jo 3,1-10",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 10
+   }
+  },
+  {
+   "id": "1JN.3.11",
+   "titulo": "Amar por obra e em verdade",
+   "secao": "Deus é caridade",
+   "referencia": "1Jo 3,11-24",
+   "ini": {
+    "c": 3,
+    "v": 11
+   },
+   "fim": {
+    "c": 3,
+    "v": 24
+   }
+  },
+  {
+   "id": "1JN.4.1",
+   "titulo": "Examinai os espíritos",
+   "secao": "Deus é caridade",
+   "referencia": "1Jo 4,1-6",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 6
+   }
+  },
+  {
+   "id": "1JN.4.7",
+   "titulo": "Deus é caridade",
+   "secao": "Deus é caridade",
+   "referencia": "1Jo 4,7-21",
+   "ini": {
+    "c": 4,
+    "v": 7
+   },
+   "fim": {
+    "c": 4,
+    "v": 21
+   }
+  },
+  {
+   "id": "1JN.5.1",
+   "titulo": "A vitória que vence o mundo é a nossa fé",
+   "secao": "A fé que vence o mundo",
+   "referencia": "1Jo 5,1-13",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 13
+   }
+  },
+  {
+   "id": "1JN.5.14",
+   "titulo": "A confiança na oração; o Deus verdadeiro",
+   "secao": "A fé que vence o mundo",
+   "referencia": "1Jo 5,14-21",
+   "ini": {
+    "c": 5,
+    "v": 14
+   },
+   "fim": {
+    "c": 5,
+    "v": 21
+   }
+  }
+ ]
+}

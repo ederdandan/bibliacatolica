@@ -1,0 +1,57 @@
+{
+  "id": "1JN.3.1",
+  "livro": "1JN",
+  "titulo": "Agora somos filhos de Deus",
+  "secao": "Deus é caridade",
+  "referencia": "1Jo 3,1-10",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Veremos a Deus como Ele é",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Vede que grande amor nos deu o Pai: sermos chamados filhos de Deus, e o somos! O mundo não nos conhece porque não o conheceu. Caríssimos, agora somos filhos de Deus, mas ainda não se manifestou o que seremos; sabemos que, quando Ele se manifestar, seremos semelhantes a Ele, porque o veremos como Ele é. Quem tem esta esperança purifica-se, como Ele é puro. Quem comete pecado transgride a lei. Ele apareceu para tirar os pecados, e nele não há pecado; quem permanece nele não peca. Ninguém os seduza: quem pratica a justiça é justo como Ele é justo; quem comete o pecado é do diabo, que peca desde o princípio; o Filho de Deus manifestou-se para destruir as obras do diabo. Quem nasceu de Deus não comete pecado, porque a semente de Deus permanece nele. Nisto se distinguem os filhos de Deus dos filhos do diabo: quem não pratica a justiça e não ama o irmão não é de Deus.",
+    "alegorico": "A filiação divina é obra do amor do Pai, realizada pelo Filho e comunicada pelo Espírito no Batismo; a “semente de Deus” é a graça, que Matos Soares explica como graça santificante. Cristo veio “destruir as obras do demônio”: a sua vida é combate e vitória sobre o mal que reina desde o princípio.",
+    "moral": "A dignidade de filhos de Deus é o fundamento da moral: quem é filho vive como o Pai. A esperança da visão purifica: quem espera ver a Deus prepara o coração. O pecado é incompatível com a vida de filho; a justiça e o amor fraterno são os sinais de quem nasceu de Deus.",
+    "anagogico": "Este é o grande texto da visão beatífica: “o veremos como ele é” e “seremos semelhantes a ele”. A filiação, agora oculta, será manifesta; a semelhança com Deus será plena na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Considerai que amor nos mostrou o Pai, que sejamos chamados filhos de Deus! E nós o somos. Agora somos filhos de Deus, mas não se manifestou ainda o que seremos. Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque o veremos como ele é. Todo o que tem esta esperança nele, torna-se puro, assim como também ele é puro.",
+    "meditatio_perguntas": [
+      "Vivo consciente de que sou, de fato, filho de Deus?",
+      "O desejo de ver a Deus purifica o meu coração?",
+      "Há obras do mal na minha vida que Cristo quer destruir?"
+    ],
+    "oratio_guia": "Pai, que grande amor me deste, chamando-me teu filho! Que eu viva como tal, purificando-me na esperança de te ver como és. Senhor Jesus, destrói em mim as obras do mal e guarda viva a semente de Deus no meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Seremos semelhantes a ele, porque o veremos como ele é.",
+      "ref": "1Jo 3,2"
+    }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fundamento bíblico da doutrina da visão beatífica (Bento XII, Benedictus Deus, 1336): os bem-aventurados veem a essência divina face a face.",
+        "origem": "ia"
+      }
+    },
+    "3:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Não pode pecar”: enquanto permanece nele a graça. João descreve o ideal da vida filial; em 1,8 admitiu que todos pecamos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1JN.1.5",
+  "livro": "1JN",
+  "titulo": "Andar na luz e confessar os pecados",
+  "secao": "Deus é luz",
+  "referencia": "1Jo 1,5–2,2",
+  "ini": {
+    "c": 1,
+    "v": 5
+  },
+  "fim": {
+    "c": 2,
+    "v": 2
+  },
+  "liturgia": {
+    "tema_central": "Se confessamos os nossos pecados, Deus é fiel e justo para os perdoar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A mensagem ouvida de Cristo é esta: Deus é luz, e nele não há treva alguma. Se dizemos ter comunhão com Ele e andamos nas trevas, mentimos e não praticamos a verdade. Mas se andamos na luz, como Ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus, seu Filho, purifica-nos de todo pecado. Se dizemos que não temos pecado, enganamo-nos e a verdade não está em nós. Se confessamos os nossos pecados, Ele é fiel e justo para nos perdoar e purificar de toda iniquidade. Se dizemos que não pecamos, fazemo-lo mentiroso. Filhinhos, João escreve para que não pequem; mas, se alguém pecar, temos um advogado junto do Pai, Jesus Cristo, o justo: Ele é a vítima de propiciação pelos nossos pecados, e não só pelos nossos, mas pelos do mundo inteiro.",
+    "alegorico": "Deus é luz; Cristo, luz do mundo; os fiéis, filhos da luz. O sangue de Jesus, que purifica, é o sangue da Nova Aliança, oferecido na cruz e presente nos sacramentos. Cristo “advogado” (paráklētos) junto do Pai é o Sumo Sacerdote que intercede por nós, vítima e sacerdote ao mesmo tempo.",
+    "moral": "A comunhão com Deus exige coerência: não se pode andar nas trevas e dizer-se na luz. Mas o caminho não é fingir perfeição: quem diz não ter pecado engana-se. A humildade de confessar os pecados abre ao perdão fiel de Deus. O pecado não deve levar ao desespero, porque temos um advogado. A Igreja vê aqui um fundamento para a confissão dos pecados.",
+    "anagogico": "A propiciação de Cristo é “pelos de todo o mundo”: a salvação é oferecida a todos. A purificação de “toda a iniquidade” aponta para a santidade perfeita, plena na visão de Deus, que é luz sem trevas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus é luz e não há nele nenhumas trevas. Se andamos na luz, temos comunhão recíproca, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. Se confessamos os nossos pecados, Deus é fiel e justo para no-los perdoar. Se algum pecar, temos um advogado junto do Pai, Jesus Cristo, o justo.",
+    "meditatio_perguntas": [
+      "Há áreas da minha vida onde ando nas trevas, embora diga estar na luz?",
+      "Reconheço com humildade os meus pecados, sem me justificar?",
+      "Confio na fidelidade de Deus para perdoar, e procuro o sacramento da Reconciliação?"
+    ],
+    "oratio_guia": "Deus, que és luz sem trevas, faz-me andar na tua luz. Confesso os meus pecados: tu és fiel e justo para perdoar. Obrigado, Jesus, meu advogado junto do Pai, vítima pelos meus pecados e pelos do mundo inteiro. Purifica-me com o teu sangue. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é luz e não há nele nenhumas trevas.",
+      "ref": "1Jo 1,5"
+    }
+  },
+  "ancoras": {
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O parêntese de Matos Soares (“menos venial”) reflete a doutrina de Trento (sessão VI, cân. 23): sem privilégio especial, ninguém evita durante a vida inteira todos os pecados veniais.",
+        "origem": "ia"
+      }
+    },
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Advogado” traduz paráklētos, o mesmo título dado ao Espírito Santo em Jo 14,16 (“outro Paráclito”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,15 @@
+# Divisão de 1 João em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Deus é luz
+1:1-1:4 | O Verbo da vida, que vimos e apalpamos
+1:5-2:2 | Andar na luz e confessar os pecados
+2:3-2:17 | O mandamento novo; não ameis o mundo
+2:18-2:29 | A unção do Santo e os anticristos
+## Deus é caridade
+3:1-3:10 | Agora somos filhos de Deus
+3:11-3:24 | Amar por obra e em verdade
+4:1-4:6 | Examinai os espíritos
+4:7-4:21 | Deus é caridade
+## A fé que vence o mundo
+5:1-5:13 | A vitória que vence o mundo é a nossa fé
+5:14-5:21 | A confiança na oração; o Deus verdadeiro

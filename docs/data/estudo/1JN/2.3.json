@@ -1,0 +1,57 @@
+{
+  "id": "1JN.2.3",
+  "livro": "1JN",
+  "titulo": "O mandamento novo; não ameis o mundo",
+  "secao": "Deus é luz",
+  "referencia": "1Jo 2,3-17",
+  "ini": {
+    "c": 2,
+    "v": 3
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Quem ama o seu irmão permanece na luz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sabemos que conhecemos a Deus se guardamos os seus mandamentos. Quem diz conhecê-lo e não guarda os mandamentos é mentiroso; mas quem guarda a sua palavra, nele o amor de Deus é verdadeiramente perfeito. Quem diz permanecer nele deve andar como Ele andou. João não escreve um mandamento novo, mas antigo, ouvido desde o princípio; e, contudo, é novo, verdadeiro em Cristo e neles, porque as trevas passam e a verdadeira luz já brilha. Quem diz estar na luz e odeia o irmão está nas trevas; quem ama o irmão permanece na luz e nele não há tropeço; quem odeia anda nas trevas e não sabe para onde vai. Escreve a filhinhos, pais e jovens: os pecados foram perdoados, conhecem o Pai e Aquele que é desde o princípio, venceram o maligno, a palavra de Deus permanece neles. Não amem o mundo nem as coisas do mundo: concupiscência da carne, concupiscência dos olhos e soberba da vida não vêm do Pai. O mundo passa com a sua concupiscência; quem faz a vontade de Deus permanece eternamente.",
+    "alegorico": "O mandamento é antigo (Lv 19,18) e novo (Jo 13,34): novo porque Cristo o cumpriu e o tornou possível, inaugurando o tempo em que “passaram as trevas e já resplandece a verdadeira luz”. As três concupiscências foram lidas pelos Padres à luz das três tentações de Cristo no deserto e da tentação de Eva (o fruto bom para comer, agradável aos olhos, desejável para ter conhecimento).",
+    "moral": "Conhecer a Deus é guardar os mandamentos; o critério é “andar como ele andou”. O ódio ao irmão cega. O amor ao “mundo”, entendido como o sistema da concupiscência e do orgulho, é incompatível com o amor do Pai. A tradição espiritual faz das três concupiscências um mapa das tentações: prazer, posse, poder.",
+    "anagogico": "“O mundo passa, e a sua concupiscência com ele, mas o que faz a vontade de Deus permanece eternamente.” A escolha entre o que passa e o que permanece é escolha entre o tempo e a eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quem pretende estar nele, deve também andar como ele andou. Passaram as trevas e já resplandece a verdadeira luz. Quem ama o seu irmão, permanece na luz. Não ameis o mundo nem as coisas do mundo. O mundo passa, e a sua concupiscência com ele, mas o que faz a vontade de Deus permanece eternamente.",
+    "meditatio_perguntas": [
+      "Ando como Jesus andou, ou só digo conhecê-lo?",
+      "Há algum irmão que eu odeie ou despreze, cegando-me?",
+      "Qual das três concupiscências mais me prende ao que passa?"
+    ],
+    "oratio_guia": "Senhor Jesus, verdadeira luz que já brilha, faz-me andar como tu andaste. Livra-me do ódio que cega e do amor ao mundo que passa. Dá-me fazer a vontade do Pai, para permanecer eternamente. Amém.",
+    "contemplatio_foco": {
+      "texto": "O que faz a vontade de Deus permanece eternamente.",
+      "ref": "1Jo 2,17"
+    }
+  },
+  "ancoras": {
+    "2:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata: concupiscentia carnis, concupiscentia oculorum, superbia vitae. Santo Agostinho (Confissões, X) organiza o exame de si mesmo segundo estas três.",
+        "origem": "ia"
+      }
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Filhinhos, pais e jovens podem indicar faixas etárias ou graus de maturidade na fé; “filhinhos” é também o modo carinhoso como João chama todos os destinatários.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
