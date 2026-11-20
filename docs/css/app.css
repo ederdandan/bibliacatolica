@@ -142,6 +142,7 @@ h1, h2, h3 { font-family: var(--font-head); font-weight: var(--head-weight); lin
 body[data-view='reader'] .brand-name { display: none; }
 .top-actions { margin-left: auto; display: flex; align-items: center; gap: 4px; }
 body:not([data-view='reader']) .reader-only { display: none; }
+body[data-view='study'] #display-btn { display: inline-flex; }
 .icon-btn {
   display: inline-flex; align-items: center; justify-content: center;
   width: 44px; height: 44px; border-radius: 50%; border: 0;
@@ -572,13 +573,13 @@ mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2
 
 /* ===== Estudo por perícopes ===== */
 .peri-sec {
-  font-family: var(--font-ui); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  font-family: var(--font-ui); font-size: 0.7em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
   color: var(--muted); margin: 1.6em 0 0.2em; display: flex; align-items: center; gap: 10px;
 }
 .peri-sec::after { content: ''; flex: 1; height: 1px; background: var(--border); }
 .peri-head { display: flex; align-items: center; gap: 10px; margin: 1.1em 0 0.5em; font-family: var(--font-ui); }
 .verses > .peri-sec:first-child, .verses > .peri-head:first-child { margin-top: 0; }
-.peri-head h2 { flex: 1; min-width: 0; margin: 0; font-family: var(--font-head); font-size: 1.05rem; line-height: 1.3; }
+.peri-head h2 { flex: 1; min-width: 0; margin: 0; font-family: var(--font-head); font-size: 1.05em; line-height: 1.3; }
 .peri-btn, .peri-carry {
   display: inline-flex; align-items: center; gap: 6px; flex: none; text-decoration: none; font-weight: 700;
   font-size: 0.82rem; border-radius: 16px; padding: 6px 12px; background: var(--accent); color: var(--on-accent);
@@ -593,13 +594,15 @@ mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2
 .study-tema { font-family: var(--font-text); font-style: italic; color: var(--muted); margin: 0 0 12px; line-height: 1.5; }
 .study .chips { margin-bottom: 12px; }
 .study-tabs { margin-top: 12px; }
-.study-body { font-size: 1rem; }
-.study-verses { font-family: var(--font-text); font-size: 1.08rem; line-height: 1.7; }
+/* O estudo segue o ajuste de aparência do leitor (tamanho, fonte e entrelinhas). */
+.study-body { font-size: calc(var(--reader-size) * 0.9); }
+.study-tema { font-size: calc(var(--reader-size) * 0.9); }
+.study-verses { font-family: var(--font-reader); font-size: var(--reader-size); line-height: var(--reader-lh); }
 .sv { display: block; width: 100%; margin: 0 0 2px; padding: 4px 8px; border-radius: 12px; text-align: left; font: inherit; color: inherit; background: none; border: 0; }
 button.sv { cursor: pointer; }
 button.sv:hover, button.sv[aria-expanded='true'] { background: var(--surface-2); }
 .anc-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); margin-left: 6px; vertical-align: middle; }
-.anc-box { margin: 2px 8px 12px; padding: 12px 14px; border-radius: 14px; background: var(--surface); box-shadow: var(--soft-shadow); font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.5; }
+.anc-box { margin: 2px 8px 12px; padding: 12px 14px; border-radius: 14px; background: var(--surface); box-shadow: var(--soft-shadow); font-family: var(--font-ui); font-size: 0.85em; line-height: 1.5; }
 [data-style='noturno'] .anc-box { background: var(--surface-2); }
 .anc-father { margin: 0 0 10px; }
 .anc-father:last-child { margin-bottom: 0; }
@@ -610,11 +613,11 @@ button.sv:hover, button.sv[aria-expanded='true'] { background: var(--surface-2);
 .anc-nota b, .anc-cic b { color: var(--text); margin-right: 4px; }
 .anc-item { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 14px 0; border-top: 1px solid var(--border); }
 .anc-item:first-child { border-top: 0; }
-.anc-item .anc-father p, .anc-item .anc-nota { font-size: 0.95rem; }
+.anc-item .anc-father p, .anc-item .anc-nota { font-size: 0.95em; }
 .anc-ref { font-family: var(--font-head); font-weight: 700; color: var(--accent-ink); text-decoration: none; }
-.sense h3, .lectio h3 { margin: 0; font-size: 1.05rem; }
+.sense h3, .lectio h3 { margin: 0; font-size: 1.05em; }
 .sense h3 small, .lectio h3 small { font-family: var(--font-ui); font-weight: 500; color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
-.sense p, .lectio p, .lectio ul { font-family: var(--font-text); line-height: 1.65; margin: 8px 0 0; }
+.sense p, .lectio p, .lectio ul { font-family: var(--font-reader); line-height: var(--reader-lh); margin: 8px 0 0; }
 .lectio { list-style: none; padding: 0; margin: 8px 0; counter-reset: deg; }
 .lectio > li { position: relative; padding: 0 0 20px 48px; counter-increment: deg; }
 .lectio > li::before {
@@ -623,7 +626,7 @@ button.sv:hover, button.sv[aria-expanded='true'] { background: var(--surface-2);
 }
 .lectio ul { padding-left: 18px; }
 .lectio ul li { margin-bottom: 6px; }
-.jac { margin: 10px 0 0; padding: 16px; border-radius: 16px; background: var(--accent-soft); text-align: center; font-family: var(--font-text); font-style: italic; font-size: 1.2rem; line-height: 1.5; }
+.jac { margin: 10px 0 0; padding: 16px; border-radius: 16px; background: var(--accent-soft); text-align: center; font-family: var(--font-text); font-style: italic; font-size: 1.2em; line-height: 1.5; }
 .jac cite { display: block; margin-top: 6px; font-family: var(--font-ui); font-style: normal; font-size: 0.8rem; color: var(--muted); }
 .study-flag { margin-top: 24px; }
 .study-nav { margin-top: 16px; display: flex; gap: 10px; justify-content: space-between; }
