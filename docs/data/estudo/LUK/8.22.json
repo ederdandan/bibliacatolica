@@ -1,0 +1,102 @@
+{
+  "id": "LUK.8.22",
+  "livro": "LUK",
+  "titulo": "A tempestade acalmada e o endemoninhado geraseno",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 8,22-39",
+  "ini": { "c": 8, "v": 22 },
+  "fim": { "c": 8, "v": 39 },
+  "liturgia": { "tema_central": "O Senhor do mar e dos demônios: “Onde está a vossa fé?”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus atravessa o lago com os discípulos e adormece. Levanta-se uma tempestade, a barca enche-se de água, e eles o acordam: “Mestre, Mestre! nós perecemos”. Ele repreende o vento e as ondas, faz-se a calma, e pergunta: “Onde está a vossa fé?”. Cheios de temor, perguntam-se quem é este a quem o mar obedece. Na outra margem, terra pagã dos gerasenos, vem ao seu encontro um homem possesso, que vivia nu entre os sepulcros e quebrava as correntes. Ele grita: “Que tens tu comigo, Jesus, Filho do Deus Altíssimo?”. O seu nome é “Legião”. Os demônios pedem para não ir ao abismo e entram numa vara de porcos, que se precipita no lago. O povo encontra o homem sentado aos pés de Jesus, vestido e em juízo, e, com medo, pede a Jesus que se vá. O homem quer segui-lo, mas Jesus manda-o para casa contar o que Deus lhe fez.",
+    "alegorico": "A barca é a Igreja, sacudida pelas tempestades; Cristo dorme segundo o corpo, mas vela segundo a divindade, e basta despertá-lo para que tudo se acalme. O geraseno, morando entre túmulos, figura os povos gentios mortos no pecado, que Cristo visitou e libertou; vestido e sentado aos seus pés, é a imagem do batizado, que recebe a veste nova e o juízo da fé.",
+    "moral": "Ninguém atravessa a vida sem tentações, que são a prova da fé como o fogo prova o ouro; o medo nasce menos do assalto que da covardia. Não deixemos Cristo adormecido em nós. Os demônios não têm poder nem sobre os porcos sem licença de Deus: temamos só a Deus. Não morar em casa é não ter repouso na consciência; habitar nos sepulcros, comprazer-se nas obras mortas. O curado deve voltar à sua casa e anunciar o que Deus fez.",
+    "anagogico": "O abismo que os demônios temem é o seu destino final; a calma imposta ao mar antecipa a vitória definitiva de Cristo sobre o mal. O homem que quer ficar com Jesus repousará com Ele depois de cumprir a sua missão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enquanto iam navegando, Jesus adormeceu. Levantou-se uma tempestade de vento sobre o lago. Despertaram-no, dizendo: “Mestre, Mestre! nós perecemos”. Ele increpou o vento e as ondas, e veio a bonança. Então disse-lhes: “Onde está a vossa fé?” Arribaram ao país dos Gerasenos. Foi ter com ele um homem possesso de muitos demônios, que habitava nos sepulcros. Jesus interrogou-o: “Que nome é o teu?” Ele respondeu: “Legião”. Saíram do homem os demônios, entraram nos porcos, e a vara se precipitou no lago. Encontraram sentado a seus pés, vestido e em seu juízo, o homem de quem tinham saído os demônios. Jesus o despediu dizendo: “Volta para tua casa, e conta quanto Deus te fez”.",
+    "meditatio_perguntas": [
+      "Que tempestade me faz pensar que Jesus “dorme” e não se importa?",
+      "Que “sepulcros” (hábitos de morte) ainda habito, e de que correntes preciso ser libertado?",
+      "A quem posso contar hoje “quanto Deus me fez”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que acalmas o mar e expulsas os demônios, desperta em mim nas tempestades e dá-me fé. Liberta-me de tudo o que me prende aos sepulcros, veste-me de novo e põe-me sentado aos teus pés. E envia-me a contar em minha casa as maravilhas que Deus fez por mim. Amém.",
+    "contemplatio_foco": { "texto": "Volta para tua casa, e conta quanto Deus te fez.", "ref": "Lc 8,39" }
+  },
+  "ancoras": {
+    "8:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:22–25#2", "sintese": "Dorme segundo o corpo, mas vela segundo a divindade: só Ele está sem medo, porque nada se faz sem o Verbo." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:22–25#3", "sintese": "Só o despertam quando o perigo cresce, para que o poder divino se tornasse mais manifesto." }
+      ],
+      "nota": null
+    },
+    "8:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:22–25#12", "sintese": "Ninguém atravessa a vida sem tentações; como marinheiros vigilantes, despertemos o Piloto, e não o deixemos adormecido em nós." }
+      ],
+      "nota": null
+    },
+    "8:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:22–25#6", "sintese": "Acalma também o tumulto das almas: não é tanto a tentação que causa medo, mas a covardia; a fé prova-se na tentação como o ouro no fogo." }
+      ],
+      "nota": null
+    },
+    "8:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:26–39#6", "sintese": "Deus permite que alguns sejam dominados por demônios para vermos o que eles são para nós e recusarmos sujeitar-nos a eles." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 13.", "catena": "8:26–39#30", "sintese": "Não morar em casa é não ter repouso na consciência; habitar nos sepulcros, deleitar-se nas obras mortas do pecado." }
+      ],
+      "nota": { "texto": "A região dos gerasenos ficava na margem oriental do lago, terra de maioria pagã: daí a vara de porcos, animais impuros para os judeus.", "origem": "ia" }
+    },
+    "8:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:26–39#8", "sintese": "Mistura de ousadia e medo: confessa o Filho do Altíssimo, Senhor de tudo, e pergunta “que tens tu comigo?”." }
+      ],
+      "nota": null
+    },
+    "8:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:26–39#10", "sintese": "Pergunta o nome para que, confessando o mal que sofria, resplandecesse o poder do Médico." }
+      ],
+      "nota": null
+    },
+    "8:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": "de vita Anton.", "catena": "8:26–39#19", "sintese": "Se os demônios nem sobre os porcos têm poder, muito menos sobre os homens, feitos à imagem de Deus: temamos só a Deus." }
+      ],
+      "nota": null
+    },
+    "8:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 28 in Matth.", "catena": "8:26–39#23", "sintese": "Humildade de Cristo: depois de tantos benefícios, quando o mandam embora, parte sem resistir." }
+      ],
+      "nota": null
+    },
+    "8:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:26–39#25", "sintese": "Temia voltar a ser presa dos demônios longe de Jesus; mas Ele o protege pela graça e diz “quanto Deus te fez”, ensinando a atribuir a Deus todo o bem." }
+      ],
+      "nota": null
+    },
+    "8:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:26–39#27", "sintese": "Aos que o rejeitaram, deixou como mestre o homem libertado." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "8:26–39#37", "sintese": "Depois do perdão, cada um volta à boa consciência e serve o Evangelho para a salvação dos outros, antes de repousar com Cristo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

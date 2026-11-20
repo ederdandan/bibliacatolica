@@ -1,0 +1,109 @@
+{
+  "id": "LUK.8.40",
+  "livro": "LUK",
+  "titulo": "A filha de Jairo e a mulher com fluxo de sangue",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 8,40-56",
+  "ini": { "c": 8, "v": 40 },
+  "fim": { "c": 8, "v": 56 },
+  "liturgia": { "tema_central": "“Não temas, crê somente”: a fé que toca Jesus e vence a morte", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "De volta, Jesus é acolhido pela multidão. Jairo, chefe da sinagoga, lança-se a seus pés: a sua filha única, de doze anos, está morrendo. A caminho, no aperto da multidão, uma mulher que sofria de hemorragia havia doze anos e gastara tudo com médicos toca por trás a orla do manto de Jesus e fica curada. A doença tornava-a impura pela Lei (Lv 15). Jesus pergunta: “Quem me tocou?”, pois sentiu sair de si uma força. A mulher, tremendo, confessa diante de todos, e Jesus diz: “Filha, a tua fé te salvou; vai em paz”. Chega a notícia de que a menina morreu. Jesus diz a Jairo: “Não temas, crê somente”. Entra só com Pedro, Tiago, João e os pais; aos que choram diz que ela dorme, e zombam dele. Toma-a pela mão: “Menina, levanta-te”. Ela levanta-se, e Jesus manda dar-lhe de comer.",
+    "alegorico": "Os doze anos ligam as duas mulheres: enquanto a Sinagoga florescia, a gentilidade estava enferma. A mulher que toca Jesus por trás, sem o ver, figura os gentios, que tocam Cristo pela fé sem o terem visto na carne; a filha de Jairo, a Sinagoga, que o Senhor ressuscitará. O alimento dado à menina aponta para o pão do céu, a Palavra e a Eucaristia.",
+    "moral": "Muitos comprimem Jesus, poucos o tocam: os que o comprimem não creem, os que o tocam creem. Não foram as vestes que a salvaram, mas a fé; tocou-o primeiro com a mente, depois com o corpo. Jesus a faz confessar publicamente para afastar dela o medo e edificar os outros. Diante da morte, o “não temas, crê somente” vale para todo desespero. Faz os milagres longe da multidão, ensinando a fugir da ostentação.",
+    "anagogico": "“Não está morta, mas dorme”: para Cristo a morte é um sono do qual se desperta. A mão que levanta a menina é penhor da ressurreição final e do banquete eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Veio um homem, chamado Jairo, chefe da sinagoga; lançou-se aos pés de Jesus, porque tinha uma filha única que estava a morrer. Uma mulher, que padecia fluxo de sangue há doze anos, aproximou-se por detrás e tocou a orla do seu vestido; imediatamente parou o fluxo do seu sangue. Jesus disse: “Alguém me tocou, porque conheci que saiu de mim uma virtude”. E disse-lhe: “Filha, a tua fé te salvou; vai em paz”. Veio um dizer ao chefe da sinagoga: “Tua filha morreu”. Jesus disse: “Não temas, crê sòmente e ela será salva”. E, tomando-a pela mão, disse em alta voz: “Menina, levanta-te”. O seu espírito voltou, e levantou-se imediatamente.",
+    "meditatio_perguntas": [
+      "Estou entre os que apenas “apertam” Jesus, ou entre os que o tocam com fé?",
+      "Que “doença” antiga já tentei curar com tudo, menos com Ele?",
+      "Diante de que notícia de morte ou fracasso Jesus me diz hoje: “Não temas, crê somente”?"
+    ],
+    "oratio_guia": "Senhor Jesus, quero tocar-te com fé, como a mulher doente, e não apenas estar perto de ti. Cura as feridas antigas que escondo. Quando tudo parece perdido, diz-me “não temas, crê somente”, toma-me pela mão e levanta-me. Amém.",
+    "contemplatio_foco": { "texto": "Não temas, crê sòmente e ela será salva.", "ref": "Lc 8,50" }
+  },
+  "ancoras": {
+    "8:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 31 in Matth.", "catena": "8:40–48#7", "sintese": "Não pondera a condição de quem pede: chamado para curar uma enferma, sabia que ressuscitaria uma morta e firmaria a esperança da ressurreição." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:40–48#8", "sintese": "Cura primeiro o fluxo de sangue para infundir fé ao chefe da sinagoga, antes de ressuscitar a filha." }
+      ],
+      "nota": null
+    },
+    "8:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:40–48#32", "sintese": "Os doze anos ligam as duas: enquanto a Sinagoga florescia, a gentilidade estava enferma da idolatria." }
+      ],
+      "nota": { "texto": "Segundo Lv 15,25-27, a mulher com fluxo de sangue era impura e tornava impuro o que tocava; o seu gesto é ousado e cheio de fé.", "origem": "ia" }
+    },
+    "8:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "8:40–48#11", "sintese": "Esgotada pela doença, pela força do afeto e da fé abre caminho na multidão e toca às ocultas a orla do manto." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:40–48#15", "sintese": "Não foram as vestes que a salvaram, que também os soldados repartiram, mas a firmeza da sua fé." },
+        { "autor": "Teofilato", "obra": null, "catena": "8:40–48#16", "sintese": "Tocou Cristo primeiro com a mente e depois com o corpo." }
+      ],
+      "nota": null
+    },
+    "8:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:40–48#39", "sintese": "Os que o comprimem não creem; creem os que o tocam. Pela fé Cristo é tocado e visto." }
+      ],
+      "nota": null
+    },
+    "8:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:40–48#20", "sintese": "Faz que se descubra para lhe tirar o medo de ter “roubado” a graça e para tornar pública a sua fé em proveito dos outros." }
+      ],
+      "nota": null
+    },
+    "8:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "8:40–48#24", "sintese": "Chama-a filha, já curada pela fé, pois a fé alcança a graça da adoção." }
+      ],
+      "nota": null
+    },
+    "8:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 31 in Matth.", "catena": "8:49–56#0", "sintese": "Demorou de propósito, conversando com a mulher, para que a ressurreição da menina se tornasse pública." }
+      ],
+      "nota": null
+    },
+    "8:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": "Orat. in Pass. et Crucem Dom. 4.", "catena": "8:49–56#2", "sintese": "Exige fé, não por precisar dela, mas para que os benefícios não sejam recebidos sem fé nem perdidos pela incredulidade." }
+      ],
+      "nota": null
+    },
+    "8:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "8:49–56#3", "sintese": "Faz sair a todos, ensinando a fugir da vanglória e a nada fazer por ostentação." }
+      ],
+      "nota": null
+    },
+    "8:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:49–56#12", "sintese": "Quando Cristo toma a mão, o homem revive da morte da alma: a menina em casa figura o pecado oculto no pensamento." }
+      ],
+      "nota": null
+    },
+    "8:55": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "8:49–56#11", "sintese": "Bem-aventurado quem a Sabedoria toma pela mão e manda alimentar: o pão do céu é a palavra de Deus e o corpo e sangue do Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

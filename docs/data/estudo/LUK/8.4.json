@@ -1,0 +1,122 @@
+{
+  "id": "LUK.8.4",
+  "livro": "LUK",
+  "titulo": "A parábola do semeador; a verdadeira família de Jesus",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 8,4-21",
+  "ini": { "c": 8, "v": 4 },
+  "fim": { "c": 8, "v": 21 },
+  "liturgia": { "tema_central": "Ouvir a palavra com coração reto e dar fruto pela perseverança", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Diante de uma grande multidão, Jesus conta a parábola do semeador: a semente cai no caminho, onde é pisada e comida pelas aves; na pedra, onde seca por falta de umidade; entre os espinhos, que a sufocam; e na terra boa, onde dá cem por um. Aos discípulos é dado conhecer os mistérios do Reino; aos outros fala em parábolas (Is 6,9-10). Explica: a semente é a palavra de Deus; no caminho, o diabo a arrebata; na pedra, recebe-se com alegria mas, sem raiz, cede na tentação; nos espinhos, os cuidados, riquezas e prazeres a sufocam; na terra boa, ouve-se com coração reto e bom, guarda-se e dá-se fruto com perseverança. A lâmpada põe-se no candelabro; “vede, pois, como ouvis”. Quando chegam sua mãe e seus irmãos, Jesus declara: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a praticam”.",
+    "alegorico": "O semeador é o Filho de Deus, que saiu do seio do Pai e veio ao mundo semear a Palavra que Ele próprio é. A lâmpada posta no candelabro é a verdade do Reino, que, escondida em parábolas, será manifestada a todos. Maria é a primeira terra boa: ouviu, guardou e deu à luz o Verbo; por isso as palavras sobre a verdadeira família não a diminuem, mas a exaltam.",
+    "moral": "Diferentemente da terra, o coração pode mudar: a pedra pode tornar-se terra fértil, o caminho deixar de ser pisado e os espinhos ser arrancados. As riquezas são espinhos porque ferem com cuidados e enervam com prazeres. Muitos se deleitam na igreja e esquecem tudo ao sair. Dá fruto quem persevera e suporta com paciência. A quem ama a palavra é dado compreendê-la.",
+    "anagogico": "O cento por um é o fruto perfeito, que se colhe na eternidade. Tornar-se família de Jesus pela escuta e pela prática é já pertencer à família de Deus no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Saiu o semeador a semear a sua semente; uma parte caiu ao longo do caminho; outra parte caiu sobre pedregulho; outra parte caiu entre os espinhos; outra parte caiu em boa terra, e deu fruto, cento por um. Quem tem ouvidos para ouvir, ouça! A semente é a palavra de Deus. A que caiu em boa terra representa aqueles que, ouvindo a palavra com coração recto e bom, a retêm e dão fruto por sua perseverança. Ninguém, acendendo uma lucerna, a cobre com um vaso. Vede, pois, como ouvis”. Disseram-lhe: “Tua mãe e teus irmãos estão lá fora”. Ele respondeu: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus, e a praticam”.",
+    "meditatio_perguntas": [
+      "Que tipo de terreno é hoje o meu coração: caminho, pedra, espinhos ou terra boa?",
+      "Que “espinhos” (cuidados, riquezas, prazeres) sufocam a Palavra em mim?",
+      "Como imito Maria em ouvir, guardar e praticar a palavra de Deus?"
+    ],
+    "oratio_guia": "Senhor, divino semeador, prepara o meu coração para receber a tua palavra: tira dele as pedras da dureza e os espinhos das preocupações. Que eu a guarde com coração reto e bom e dê fruto com perseverança, para ser contado, com Maria, entre os da tua família. Amém.",
+    "contemplatio_foco": { "texto": "Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus, e a praticam.", "ref": "Lc 8,21" }
+  },
+  "ancoras": {
+    "8:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:4–15#3", "sintese": "O semeador é o Filho de Deus, que saiu do seio do Pai e veio ao mundo dar testemunho da verdade." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:4–15#11", "sintese": "O caminho, seco e pisado por todos, é o coração indomável, onde a palavra não penetra." }
+      ],
+      "nota": null
+    },
+    "8:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:4–15#12", "sintese": "A pedra é o coração duro; a umidade que falta é o amor e a perseverança, o óleo das lâmpadas das virgens." }
+      ],
+      "nota": null
+    },
+    "8:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 44 in Matth.", "catena": "8:4–15#14", "sintese": "Na terra, a pedra não vira terra fértil; no coração, sim: o caminho pode deixar de ser pisado e os espinhos podem ser arrancados." }
+      ],
+      "nota": null
+    },
+    "8:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:4–15#15", "sintese": "A terra boa são os corações retos que guardam e cultivam a palavra; numa alma livre de ansiedades, ela lança raízes e amadurece." }
+      ],
+      "nota": null
+    },
+    "8:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nazianzo", "obra": null, "catena": "8:4–15#22", "sintese": "Não há naturezas destinadas à perdição ou à salvação: “a vós é dado” aos que querem e se dispõem." }
+      ],
+      "nota": null
+    },
+    "8:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 15 in Ev.", "catena": "8:4–15#25", "sintese": "O Senhor explica a parábola para aprendermos a buscar o sentido também onde Ele não o explicou." }
+      ],
+      "nota": null
+    },
+    "8:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "8:4–15#29", "sintese": "Deleitam-se na igreja com os mistérios, mas esquecem tudo ao sair; na perseguição desfalecem, porque a fé não tinha raiz." }
+      ],
+      "nota": null
+    },
+    "8:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:4–15#32", "sintese": "As riquezas são espinhos: dilaceram a mente com cuidados, enervam-na com prazeres e fecham a passagem a todo bom desejo." }
+      ],
+      "nota": null
+    },
+    "8:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "8:4–15#35", "sintese": "A terra boa dá fruto pela paciência: nenhuma obra é boa sem suportar com paciência os males do próximo." }
+      ],
+      "nota": null
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Eusébio", "obra": null, "catena": "8:16–18#1", "sintese": "Como a lâmpada é acesa para iluminar, os segredos do Reino, agora em parábolas, serão manifestados." }
+      ],
+      "nota": null
+    },
+    "8:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:16–18#6", "sintese": "A quem ama a palavra é dado compreender o que ama; quem não gosta de ouvi-la, mesmo hábil, não saboreia a sabedoria." }
+      ],
+      "nota": null
+    },
+    "8:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:19–21#1", "sintese": "Os “irmãos” do Senhor não são filhos de Maria nem de José, mas seus parentes." }
+      ],
+      "nota": { "texto": "Em hebraico e aramaico, “irmão” designa também primos e parentes próximos; a Igreja professa a virgindade perpétua de Maria.", "origem": "ia" }
+    },
+    "8:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "8:19–21#5", "sintese": "Quem ouve e pratica a palavra é mãe do Senhor, porque o dá à luz no coração dos ouvintes, e irmão, porque faz a vontade do Pai." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 41 in Matth.", "catena": "8:19–21#6", "sintese": "Não repreende a mãe, mas a ajuda e eleva, para que o reconheça também como seu Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
