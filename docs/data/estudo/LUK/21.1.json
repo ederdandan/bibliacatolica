@@ -1,0 +1,59 @@
+{
+  "id": "LUK.21.1",
+  "livro": "LUK",
+  "titulo": "A oferta da viúva",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Lc 21,1-4",
+  "ini": { "c": 21, "v": 1 },
+  "fim": { "c": 21, "v": 4 },
+  "liturgia": { "tema_central": "Deus olha o coração: a viúva que deu tudo o que tinha", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No Templo, Jesus levanta os olhos e vê os ricos a lançar as suas ofertas no tesouro. Vê também uma viúva pobre que lança duas pequenas moedas. E diz: “Em verdade vos digo que esta pobre viúva lançou mais do que todos. Todos esses deram do que lhes sobrava; ela, porém, da sua indigência, deu tudo o que tinha para viver”. O episódio contrasta com a advertência anterior contra os escribas que devoram as casas das viúvas.",
+    "alegorico": "Os ricos que lançam as suas ofertas figuram os que se orgulham da justiça da Lei; a viúva pobre figura a simplicidade da Igreja, pobre porque rejeitou a soberba, e viúva porque o seu Esposo morreu por ela. É também a alma que, livre do primeiro marido, a Lei antiga, traz a Deus como dote a fé e a boa consciência.",
+    "moral": "Deus não pesa a quantidade do que se dá, mas aquilo de que é tirado e o coração com que se dá. A esmola verdadeira não é dar pouco do muito, mas esvaziar-se; quem não pode dar tanto como a viúva dê ao menos tudo o que lhe sobra. A pobreza oferecida a Deus torna-se fecunda.",
+    "anagogico": "Quem dá tudo a Deus entrega-se a Ele por inteiro e recebe, em justa recompensa, a coroa. A viúva prefigura o Senhor que, dias depois, dará a sua própria vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levantando Jesus os olhos, viu vários ricos que lançavam as suas oferendas no gazofilácio. Viu também uma viúva pobrezinha, que lançava duas pequenas moedas. E disse: “Na verdade vos digo que esta pobre viúva lançou mais que todos os outros. Porque todos esses fizeram a Deus oferta do que lhes sobejava; ela, porém, deu da sua mesma indigência tudo o que tinha para viver”.",
+    "meditatio_perguntas": [
+      "Dou a Deus do que me sobra ou do que me custa?",
+      "Que “duas moedas” — tempo, afeto, segurança — Deus me pede hoje?",
+      "Confio que Deus me sustentará se eu der tudo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que viste a pequena oferta da viúva e a louvaste, olha também o meu coração. Ensina-me a dar não só o que me sobra, mas o que sou, confiando inteiramente no teu cuidado. Amém.",
+    "contemplatio_foco": { "texto": "ela, porém, deu da sua mesma indigência tudo o que tinha para viver.", "ref": "Lc 21,4" }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Glosa", "obra": null, "catena": "21:1–4#0", "sintese": "Depois de repreender a avareza dos escribas que devoravam as casas das viúvas, louva a esmola de uma viúva." }
+      ],
+      "nota": { "texto": "O tesouro (gazofilácio) tinha no átrio das mulheres caixas em forma de trombeta onde se depositavam as ofertas.", "origem": "ia" }
+    },
+    "21:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "21:1–4#5", "sintese": "A viúva pobre é a Igreja, pobre por rejeitar a soberba e viúva porque o seu Esposo morreu por ela." },
+        { "autor": "Teofilato", "obra": null, "catena": "21:1–4#6", "sintese": "A viúva é a alma livre da Lei antiga, que traz a Deus como dote a fé e a boa consciência." }
+      ],
+      "nota": null
+    },
+    "21:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "21:1–4#2", "sintese": "Ofereceu o que ganhara com suor para o sustento diário: a sua pobreza foi fecunda e mereceu a coroa." }
+      ],
+      "nota": null
+    },
+    "21:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "21:1–4#3", "sintese": "Deus olha o coração e não pesa a quantidade dada, mas aquilo de que é tirada." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 1 in Ep. ad Heb.; Hom. 28.", "catena": "21:1–4#4", "sintese": "Deus não olha a pequenez da oferta, mas a abundância do afeto; a esmola é esvaziar-se, como a viúva." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

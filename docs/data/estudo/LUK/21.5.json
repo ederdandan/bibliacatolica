@@ -1,0 +1,131 @@
+{
+  "id": "LUK.21.5",
+  "livro": "LUK",
+  "titulo": "O discurso escatológico",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Lc 21,5-38",
+  "ini": { "c": 21, "v": 5 },
+  "fim": { "c": 21, "v": 38 },
+  "liturgia": { "tema_central": "“Erguei-vos, levantai as vossas cabeças”: perseverança e vigilância até a vinda do Filho do homem", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Admirando alguns a beleza do Templo, Jesus anuncia que dele não ficará pedra sobre pedra. Perguntam-lhe quando e com que sinal. Ele adverte contra os enganadores que virão em seu nome e manda não temer guerras e tumultos: devem acontecer, mas não é logo o fim. Haverá terremotos, fomes, pestes e sinais no céu. Antes disso, os discípulos serão perseguidos, levados a sinagogas, prisões, reis e governadores: será ocasião de testemunho, e Ele lhes dará palavra e sabedoria irresistíveis. Serão entregues até por pais, irmãos e amigos e odiados por causa do seu nome, mas não se perderá um cabelo da sua cabeça: pela perseverança salvarão as suas almas. Quando virem Jerusalém cercada por exércitos, fujam: serão dias de castigo, e Jerusalém será pisada pelos gentios até se cumprirem os tempos das nações. Haverá sinais no sol, na lua e nas estrelas, angústia dos povos e abalo das potestades do céu; então verão o Filho do homem vir numa nuvem com grande poder e majestade. Quando isto começar, levantem a cabeça, porque a libertação está próxima. Com a parábola da figueira ensina a ler os sinais: o céu e a terra passarão, mas as suas palavras não passarão. Manda vigiar, para que os corações não se tornem pesados com excessos e preocupações, e orar sempre, para ficarem de pé diante do Filho do homem. De dia ensinava no Templo e à noite ia para o monte das Oliveiras; todo o povo madrugava para o ouvir.",
+    "alegorico": "O Templo de pedra, que o tempo e a violência derrubam, cede lugar a outro: a Sinagoga desmorona-se à medida que a Igreja se levanta, e há em cada um um templo que cai quando falta a fé. A ruína de Jerusalém prefigura o fim do mundo; o tempo dos gentios figura a entrada da plenitude das nações, depois da qual todo o Israel será salvo. A vinda na nuvem com grande poder contrasta com a primeira vinda, oculta na fraqueza e humildade.",
+    "moral": "Os males anunciados ferem menos porque previstos. Além das guerras exteriores, o cristão trava as dos desejos e da vontade, e os inimigos domésticos são os mais perigosos. Na perseguição, o discípulo não combate sozinho: é Cristo quem fala nele. Dói mais a traição dos que amávamos; mas pela paciência possuímos as nossas almas, porque ela é raiz e guarda de todas as virtudes. Os excessos e os cuidados desta vida tornam pesados os olhos da mente e fazem naufragar a fé; o próprio Senhor, antes da paixão, dá exemplo de ensino, vigília e oração.",
+    "anagogico": "A primeira vinda restaurou as almas; a segunda restaurará os corpos, na liberdade perfeita. Tudo o que parece durar passa, e só a palavra de Cristo permanece. A glória final é estar de pé diante do Filho do homem e contemplar sempre a sua face, como os anjos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando ouvirdes falar de guerras e de tumultos, não vos assusteis; estas coisas devem suceder primeiro; mas não será logo o fim. Lançar-vos-ão as mãos, e vos perseguirão por causa do meu nome. Eu vos darei uma linguagem e uma sabedoria, à qual não poderão resistir. Mas não se perderá um cabelo da vossa cabeça. Pela vossa perseverança salvareis as vossas almas. Então verão o Filho do homem vir sobre uma nuvem com grande poder e majestade. Erguei-vos, levantai as vossas cabeças, porque está próxima a vossa libertação. Passará o céu e a terra, mas as minhas palavras não passarão. Vigiai, pois, orando sem cessar.”",
+    "meditatio_perguntas": [
+      "Em que “templos de pedra” deposito a minha segurança em vez de em Deus?",
+      "Como vivo a perseverança nas provações e nas incompreensões, mesmo dos próximos?",
+      "Que excessos ou preocupações tornam pesado o meu coração e adormecem a minha vigilância?"
+    ],
+    "oratio_guia": "Senhor Jesus, que voltarás com grande poder e majestade, dá-me um coração vigilante e livre do que o torna pesado. Quando o mundo tremer, que eu levante a cabeça e confie na tua palavra, que não passa. Concede-me perseverar na oração e estar de pé diante de ti no teu dia. Amém.",
+    "contemplatio_foco": { "texto": "Passará o céu e a terra, mas as minhas palavras não passarão.", "ref": "Lc 21,33" }
+  },
+  "ancoras": {
+    "21:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "21:5–8#2", "sintese": "Cai o templo feito por mãos; cai também a Sinagoga quando a Igreja se levanta, e o templo interior quando falta a fé." }
+      ],
+      "nota": { "texto": "A profecia cumpriu-se no ano 70, quando as legiões de Tito destruíram Jerusalém e o Templo.", "origem": "ia" }
+    },
+    "21:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "21:5–8#6", "sintese": "A primeira vinda foi oculta, para carregar a cruz; a segunda será manifesta e gloriosa: não deis ouvidos aos que a anunciam às escondidas." }
+      ],
+      "nota": null
+    },
+    "21:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 35 in Evang.", "catena": "21:9–11#0", "sintese": "Anuncia as desgraças para que perturbem menos quando vierem: os dardos previstos ferem menos." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "21:9–11#9", "sintese": "Há também as guerras interiores dos desejos e da vontade; os inimigos domésticos são mais perigosos que os estrangeiros." }
+      ],
+      "nota": null
+    },
+    "21:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "21:12–19#4", "sintese": "Não temais, ide para a batalha: sou eu quem combate; vós pronunciais as palavras, mas sou eu quem fala." }
+      ],
+      "nota": null
+    },
+    "21:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "21:12–19#7", "sintese": "Afligem mais as perseguições dos que amávamos: à dor do corpo junta-se a do afeto perdido." }
+      ],
+      "nota": null
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 35 in Ev.", "catena": "21:12–19#13", "sintese": "Pela paciência possuímos as nossas almas: ela é raiz e guarda de todas as virtudes." }
+      ],
+      "nota": null
+    },
+    "21:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "Hist. Eccl. lib. iii. c. 5.", "catena": "21:20–24#5", "sintese": "Advertidos pelo Senhor, os cristãos da Judeia retiraram-se para Pela, além do Jordão, antes da destruição." }
+      ],
+      "nota": null
+    },
+    "21:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "21:20–24#15", "sintese": "Até que entre a plenitude dos gentios; e então todo o Israel será salvo, como diz o Apóstolo." }
+      ],
+      "nota": null
+    },
+    "21:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "21:25–27#21", "sintese": "A primeira vinda foi na fraqueza e humildade; a segunda será celebrada com todo o seu poder." },
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "21:25–27#22", "sintese": "Verão em majestade aquele a quem não quiseram ouvir na humildade." }
+      ],
+      "nota": null
+    },
+    "21:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 1 in Ev.", "catena": "21:28–33#0", "sintese": "Depois de falar aos réprobos, consola os eleitos: quando os golpes do mundo se multiplicarem, alegrai os vossos corações." },
+        { "autor": "Teofilato", "obra": null, "catena": "21:28–33#2", "sintese": "A primeira vinda restaurou as almas; a segunda manifestará a restauração dos corpos, na liberdade perfeita." }
+      ],
+      "nota": null
+    },
+    "21:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ut sup.", "catena": "21:28–33#13", "sintese": "O que parece durar passa; a palavra de Cristo, que passa ao ser dita, exprime sentenças imutáveis para sempre." }
+      ],
+      "nota": null
+    },
+    "21:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "21:34–36#2", "sintese": "Os cuidados desta vida, a crápula e a embriaguez tornam pesados os olhos da mente e fazem naufragar a fé." },
+        { "autor": "São Basílio", "obra": "Reg. brev. int. 88.", "catena": "21:34–36#4", "sintese": "O cuidado desta vida, mesmo lícito, deve evitar-se se não conduz a Deus, para que o dia não caia de repente." }
+      ],
+      "nota": null
+    },
+    "21:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "21:34–36#9", "sintese": "Não basta fugir do mal; a glória é estar de pé diante do Filho do homem e contemplar sempre a sua face." }
+      ],
+      "nota": null
+    },
+    "21:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "21:37–38#0", "sintese": "O que mandou com palavras confirma com o exemplo: antes da paixão persevera no ensino, na vigília e na oração." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
