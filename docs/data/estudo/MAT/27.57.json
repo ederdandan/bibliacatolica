@@ -1,0 +1,81 @@
+{
+  "id": "MAT.27.57",
+  "livro": "MAT",
+  "titulo": "A sepultura e a guarda do sepulcro",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 27,57-66",
+  "ini": { "c": 27, "v": 57 },
+  "fim": { "c": 27, "v": 66 },
+  "liturgia": { "tema_central": "O silêncio do sepulcro selado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao entardecer, José de Arimateia, homem rico e discípulo de Jesus, pede a Pilatos o corpo. Envolve-o num lençol limpo e deposita-o no seu sepulcro novo, escavado na rocha, rolando uma grande pedra para a entrada. Maria Madalena e a outra Maria estão sentadas defronte do sepulcro. No dia seguinte à Preparação (o sábado), os sacerdotes e fariseus pedem a Pilatos que guarde o sepulcro até o terceiro dia, pois “aquele impostor” dissera que ressuscitaria; temem que os discípulos furtem o corpo. Pilatos responde: “Tendes uma guarda”; eles selam a pedra e põem os guardas.",
+    "alegorico": "O sepulcro novo, onde ninguém fora posto, figura o seio virginal de Maria e o coração novo que recebe a Cristo. José, que envolve o corpo em lençol limpo, é figura dos apóstolos e da Igreja que acolhe o Corpo do Senhor. A pedra e o selo, postos pela incredulidade, tornam-se testemunhas da Ressurreição.",
+    "moral": "José arrisca a reputação e a vida para honrar o corpo do Mestre: a coragem da fé manifesta-se quando outros se escondem. A sepultura simples condena a ostentação dos ricos. As mulheres que permanecem junto ao sepulcro merecem ser as primeiras testemunhas da Ressurreição: a perseverança no amor é recompensada.",
+    "anagogico": "O repouso de Cristo no sepulcro, no grande sábado, santifica a morte dos fiéis e anuncia o descanso eterno. As precauções dos inimigos tornaram a Ressurreição mais incontestável."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pela tarde, veio um homem rico de Arimateia, chamado José, que também era discípulo de Jesus. Foi ter com Pilatos, e pediu-lhe o corpo de Jesus. José, tomando o corpo, envolveu-o num lençol branco, e depositou-o no seu sepulcro novo, o qual tinha mandado abrir numa rocha. Depois rolou uma grande pedra para diante da boca do sepulcro, e retirou-se. Maria Madalena e a outra Maria estavam lá, sentadas defronte do sepulcro. No outro dia, os príncipes dos sacerdotes e os fariseus foram ter com Pilatos e disseram-lhe: “Aquele impostor, quando ainda vivia, disse: Ressuscitarei depois de três dias”. Foram, e tomaram bem conta do sepulcro, selando a pedra e pondo lá uma guarda.",
+    "meditatio_perguntas": [
+      "Tenho a coragem de José de Arimateia para me declarar discípulo de Jesus?",
+      "Sei permanecer, como as mulheres, junto de Jesus no silêncio e na espera?",
+      "Que “pedras” e “selos” coloco para impedir que Cristo ressuscite em mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, que repousaste no sepulcro novo, prepara em mim um coração limpo para te receber. Dá-me a coragem de José e a fidelidade das mulheres que esperaram junto de ti. Amém.",
+    "contemplatio_foco": { "texto": "Depositou-o no seu sepulcro novo, o qual tinha mandado abrir numa rocha.", "ref": "Mt 27,60" }
+  },
+  "ancoras": {
+    "27:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:57–61#2", "sintese": "Diz-se rico não por vaidade do escritor, mas para mostrar como pôde obter de Pilatos o corpo de Jesus." }
+      ],
+      "nota": null
+    },
+    "27:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:57–61#3", "sintese": "Considera a sua coragem: arriscou a vida e expôs-se a muitas inimizades para prestar este serviço." }
+      ],
+      "nota": null
+    },
+    "27:59": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:57–61#4", "sintese": "Por esta simples sepultura é condenada a ostentação dos ricos, que gastam prodigamente até nos sepulcros." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:57–61#11", "sintese": "Em sentido místico, José é figura dos apóstolos, que envolvem o corpo do Senhor num lençol limpo." }
+      ],
+      "nota": null
+    },
+    "27:60": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:57–61#8", "sintese": "Sepulcro novo, para que não se pudesse inventar que ressuscitara outro dos corpos ali postos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:57–61#10", "sintese": "A grande pedra mostra que o sepulcro não podia ser aberto sem a força unida de muitos." }
+      ],
+      "nota": null
+    },
+    "27:61": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:57–61#15", "sintese": "Quando os demais deixaram o Senhor, as mulheres permaneceram; por isso mereceram ver primeiro a ressurreição." }
+      ],
+      "nota": null
+    },
+    "27:63": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:62–66#0", "sintese": "Não lhes bastava ter crucificado o Senhor, se não guardassem também o sepulcro." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:62–66#5", "sintese": "Loucura e incredulidade: quiseram selar o sepulcro daquele a cuja ordem tinham visto um morto ressuscitar." }
+      ],
+      "nota": null
+    },
+    "27:66": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 89", "catena": "27:62–66#7", "sintese": "Contra a vontade, colaboram para a verdade: as suas precauções deram uma demonstração irrefutável da ressurreição." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

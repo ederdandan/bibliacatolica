@@ -1,0 +1,110 @@
+{
+  "id": "MAT.28.1",
+  "livro": "MAT",
+  "titulo": "O anúncio da Ressurreição e o suborno dos guardas",
+  "secao": "A Ressurreição",
+  "referencia": "Mt 28,1-15",
+  "ini": { "c": 28, "v": 1 },
+  "fim": { "c": 28, "v": 15 },
+  "liturgia": { "tema_central": "“Ele já aqui não está, ressuscitou como tinha dito”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Passado o sábado, ao amanhecer do primeiro dia da semana, Maria Madalena e a outra Maria vão ao sepulcro. Há um grande terremoto: um anjo desce do céu, revolve a pedra e senta-se sobre ela; o seu aspecto é como relâmpago, a veste branca como a neve. Os guardas ficam como mortos. O anjo diz às mulheres: “Vós não temais… Ele já aqui não está, ressuscitou como tinha dito. Vinde e vede o lugar”, e manda anunciar aos discípulos que Ele vai adiante deles para a Galileia. Elas correm, com medo e grande alegria; Jesus sai-lhes ao encontro: “Eu vos saúdo”. Elas abraçam os seus pés e adoram-no. “Não temais; ide, avisai meus irmãos.” Entretanto, os sacerdotes dão muito dinheiro aos guardas para dizerem que os discípulos roubaram o corpo enquanto dormiam.",
+    "alegorico": "O primeiro dia da semana é o dia da nova criação, o Domingo, dia do Senhor. A pedra removida não é para Cristo sair, mas para que se veja o sepulcro vazio. O anjo, terrível como o relâmpago para os maus e brando como a neve para os justos, anuncia o triunfo. As mulheres são as primeiras a ver e anunciar o Ressuscitado, para que, assim como a morte começou por uma mulher, por mulheres fosse anunciada a vida.",
+    "moral": "O medo e a alegria juntos apressam os passos das mulheres: o encontro com o Ressuscitado gera missão. Jesus chama aos discípulos que o abandonaram “meus irmãos”: o perdão precede a reconciliação. Os sacerdotes, que deviam converter-se, preferem comprar a mentira: o dinheiro e a honra do mundo levam a negar a glória de Cristo.",
+    "anagogico": "A Ressurreição é o penhor da nossa: o Senhor vai adiante de nós para a “Galileia” eterna, onde o veremos. O sepulcro vazio é a vitória definitiva sobre a morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Passado o sábado, ao amanhecer o primeiro dia da semana, foi Maria Madalena e a outra Maria visitar o sepulcro. Eis que se deu um grande terremoto, porque um anjo do Senhor desceu do céu, revolveu a pedra do sepulcro, e sentou-se sobre ela. O anjo disse às mulheres: “Vós não temais, porque sei que procurais a Jesus, que foi crucificado. Ele já aqui não está, ressuscitou como tinha dito. Vinde e vede o lugar, onde o Senhor esteve depositado. Ide já dizer aos seus discípulos que ele ressuscitou”. Saíram logo do sepulcro com medo e grande gáudio. E eis que Jesus lhes saiu ao encontro e lhes disse: “Eu vos saúdo”. Elas aproximaram-se, abraçaram os seus pés e prostraram-se diante dele. Então Jesus disse-lhes: “Não temais; ide, avisai meus irmãos, para que vão à Galileia; lá me verão”.",
+    "meditatio_perguntas": [
+      "Vivo o domingo como dia da Ressurreição?",
+      "Que medos me impedem de anunciar que Jesus está vivo?",
+      "Deixo-me encontrar pelo Ressuscitado no caminho da vida cotidiana?"
+    ],
+    "oratio_guia": "Senhor Jesus ressuscitado, que saíste ao encontro das mulheres e chamaste os discípulos de irmãos, enche-me da alegria pascal. Afasta de mim o medo e faz de mim testemunha da tua vitória sobre a morte. Aleluia. Amém.",
+    "contemplatio_foco": { "texto": "Ele já aqui não está, ressuscitou como tinha dito.", "ref": "Mt 28,6" }
+  },
+  "ancoras": {
+    "28:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:1–7#3", "sintese": "A diferença de horas entre os evangelistas não é sinal de falsidade, mas mostra a diligente solicitude das mulheres." }
+      ],
+      "nota": null
+    },
+    "28:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "28:1–7#8", "sintese": "O terremoto é o poder da ressurreição: vencido o aguilhão da morte, as potências inferiores estremecem." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "28:1–7#12", "sintese": "Misericórdia do Pai: dá ao Filho o ministério do poder celeste, e o anjo é o primeiro arauto da ressurreição." }
+      ],
+      "nota": null
+    },
+    "28:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 21 sobre os Evangelhos, 4", "catena": "28:1–7#21", "sintese": "O relâmpago infunde terror e a neve brandura: Deus é terrível para os pecadores e brando para os justos." }
+      ],
+      "nota": null
+    },
+    "28:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:1–7#24", "sintese": "Não consola os guardas, mas as mulheres: temam os que não creem; vós, não temais." }
+      ],
+      "nota": null
+    },
+    "28:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "28:1–7#27", "sintese": "Se não me credes, lembrai-vos das suas próprias palavras; e vinde ver o lugar onde jazia." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:1–7#28", "sintese": "Se as minhas palavras não vos convencerem, convença-vos o sepulcro vazio." }
+      ],
+      "nota": null
+    },
+    "28:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:1–7#33", "sintese": "Em sentido místico, vai adiante para a Galileia, isto é, para os gentios, onde antes havia erro e tropeço." }
+      ],
+      "nota": null
+    },
+    "28:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:8–10#2", "sintese": "Temor pela grandeza do milagre e alegria pelo desejo do Ressuscitado: ambos apressavam os seus passos." }
+      ],
+      "nota": null
+    },
+    "28:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:8–10#4", "sintese": "As mulheres são as primeiras a ouvir a saudação, para que nelas fosse tirada a maldição de Eva." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "28:8–10#12", "sintese": "Tendo a morte começado pelo sexo feminino, seja ele o primeiro a ver e a anunciar a glória da ressurreição." }
+      ],
+      "nota": null
+    },
+    "28:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:8–10#11", "sintese": "Quando aparece uma pessoa majestosa, o primeiro é afastar o temor, para que a mente tranquila possa ouvir." }
+      ],
+      "nota": null
+    },
+    "28:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:11–15#2", "sintese": "Em vez de buscar o Ressuscitado pela penitência, perseveram na maldade e usam o dinheiro do templo para comprar a mentira." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "28:11–15#4", "sintese": "Como teriam os discípulos, pobres e medrosos, roubado o corpo, se fugiram quando Ele foi preso ainda vivo?" }
+      ],
+      "nota": null
+    },
+    "28:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "28:11–15#8", "sintese": "Compra-se com dinheiro a ocultação da ressurreição: pela honra deste mundo nega-se a glória de Cristo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

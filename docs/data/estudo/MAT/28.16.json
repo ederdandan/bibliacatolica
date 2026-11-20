@@ -1,0 +1,62 @@
+{
+  "id": "MAT.28.16",
+  "livro": "MAT",
+  "titulo": "O envio missionário",
+  "secao": "A Ressurreição",
+  "referencia": "Mt 28,16-20",
+  "ini": { "c": 28, "v": 16 },
+  "fim": { "c": 28, "v": 20 },
+  "liturgia": { "tema_central": "“Ide… ensinai todas as gentes… Eu estarei convosco todos os dias”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os onze vão à Galileia, ao monte indicado por Jesus. Ao vê-lo, adoram-no, embora alguns tenham duvidado. Jesus declara: “Foi-me dado todo o poder no céu e na terra”. Envia-os a ensinar todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo, e ensinando-as a observar tudo o que mandou. E promete: “Eu estarei convosco todos os dias, até ao fim do mundo”. Assim termina o Evangelho de Mateus, que começara com o “Emanuel, Deus conosco” (Mt 1,23).",
+    "alegorico": "O monte da Galileia evoca o Sinai e o monte das Bem-aventuranças: o novo Moisés dá a lei da missão universal. A fórmula trinitária revela o mistério de Deus, Pai, Filho e Espírito Santo, num só nome. A promessa final retoma o Emanuel do início: todo o Evangelho é a presença de Deus conosco.",
+    "moral": "A ordem é clara: primeiro ensinar, depois batizar, depois ensinar a viver; não pode o corpo receber o batismo sem que a alma tenha recebido a fé. A missão é de todos os discípulos, e a dúvida de alguns, vencida, confirma a fé dos outros. Diante da grandeza da tarefa, a força vem da presença do Senhor, não das nossas capacidades.",
+    "anagogico": "A promessa de estar conosco até o fim do mundo garante que os fiéis viverão para sempre e que Ele nunca se afasta dos que creem. Subindo ao céu, não abandona os filhos adotivos, mas fortalece-os para a glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os onze discípulos partiram para a Galileia, para o monte que Jesus lhes tinha indicado. Quando o viram, adoraram-no eles que a princípio tinham duvidado. Jesus, aproximando-se, falou-lhes assim: “Foi-me dado todo o poder no céu e na terra. Ide, pois, ensinai todas as gentes, baptizando-as em nome do Pai, e do Filho, e do Espírito Santo, ensinando-as a observar todas as coisas que vos mandei. Eu estarei convosco todos os dias, até ao fim do mundo”.",
+    "meditatio_perguntas": [
+      "Como vivo hoje a graça do meu batismo em nome da Trindade?",
+      "A quem o Senhor me envia para ensinar e testemunhar?",
+      "Confio na promessa de que Jesus está comigo todos os dias?"
+    ],
+    "oratio_guia": "Senhor Jesus, a quem foi dado todo o poder no céu e na terra, eu te adoro. Envia-me como teu discípulo e dá-me coragem para anunciar o Evangelho. Que eu viva sempre na certeza de que estás comigo todos os dias, até o fim do mundo. Amém.",
+    "contemplatio_foco": { "texto": "Eu estarei convosco todos os dias, até ao fim do mundo.", "ref": "Mt 28,20" }
+  },
+  "ancoras": {
+    "28:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#1", "sintese": "É visto e adorado no monte da Galileia; e a dúvida de alguns confirma a nossa fé." }
+      ],
+      "nota": null
+    },
+    "28:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#6", "sintese": "O poder é dado àquele que pouco antes foi crucificado e sepultado, e depois ressuscitou." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#9", "sintese": "Para que aquele que reinava no céu reine agora na terra pela fé dos crentes." }
+      ],
+      "nota": null
+    },
+    "28:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#12", "sintese": "Primeiro ensinam as nações, depois batizam: o corpo não recebe o batismo sem que a alma tenha recebido a fé." },
+        { "autor": "Santo Hilário", "obra": "De Trin. 2, 1 ss.", "catena": "28:16–20#15", "sintese": "Que parte da salvação dos homens não está contida neste sacramento? Tudo é pleno e perfeito, procedendo do que é perfeito." }
+      ],
+      "nota": { "texto": "A fórmula batismal “em nome do Pai, e do Filho, e do Espírito Santo” (um só nome) é um dos testemunhos mais claros da fé trinitária e permanece a forma do sacramento do Batismo.", "origem": "ia" }
+    },
+    "28:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#16", "sintese": "Ordem dos mandamentos: ensinar, batizar e, depois da fé e do batismo, ensinar o que devem observar." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "28:16–20#18", "sintese": "Como a tarefa era grande, levanta-lhes o ânimo: eis que estou convosco todos os dias." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "28:16–20#22", "sintese": "Promete estar com os discípulos até o fim: eles viverão para sempre, e Ele nunca se afastará dos que creem." },
+        { "autor": "São Leão Magno", "obra": "Serm. 72, 3", "catena": "28:16–20#23", "sintese": "Subindo ao céu, não abandona os filhos adotivos, mas do alto fortalece-os para a perseverança." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
