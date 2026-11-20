@@ -1,0 +1,86 @@
+{
+  "id": "MAT.16.13",
+  "livro": "MAT",
+  "titulo": "A confissão de Pedro e o primado",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 16,13-20",
+  "ini": { "c": 16, "v": 13 },
+  "fim": { "c": 16, "v": 20 },
+  "liturgia": { "tema_central": "“Tu és o Cristo, o Filho de Deus vivo”; “Tu és Pedro”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em Cesareia de Filipe, cidade pagã junto às nascentes do Jordão, ao pé de um grande rochedo onde havia um santuário ao deus Pã, Jesus pergunta o que dizem dele os homens e, depois, os próprios discípulos. Pedro responde: “Tu és o Cristo, o Filho de Deus vivo”. Jesus o declara bem-aventurado, porque isso lhe foi revelado pelo Pai, e muda o seu nome: “Tu és Pedro (Kefa, em aramaico, ‘rocha’), e sobre esta pedra edificarei a minha Igreja”. As portas do inferno (o poder da morte) não prevalecerão contra ela. Dá-lhe as chaves do Reino, símbolo da autoridade do mordomo do palácio real (Is 22,22), e o poder de ligar e desligar (termos rabínicos para proibir e permitir, condenar e absolver). Ordena silêncio sobre a sua messianidade.",
+    "alegorico": "A confissão de Pedro é a fé da Igreja: Cristo, verdadeiro Deus nascido do Pai e verdadeiro homem. Os Padres leram a “pedra” de modos complementares: Pedro, a quem Cristo dá o nome de Pedra; a fé que ele confessou; o próprio Cristo, a Pedra fundamental. A tradição católica une estas leituras: Cristo edifica a Igreja sobre Pedro, enquanto confessa a fé, e lhe dá as chaves, sinal do primado transmitido aos seus sucessores.",
+    "moral": "A fé verdadeira não vem “da carne e do sangue”, mas da revelação do Pai: é dom a receber com humildade. Cada um deve responder pessoalmente à pergunta de Jesus: “E vós, quem dizeis que eu sou?” Amar a Igreja é amar a obra que Cristo edificou sobre Pedro, firme no meio das tempestades.",
+    "anagogico": "As portas do inferno não prevalecerão: a Igreja, apesar dos pecados e perseguições, atravessará a história até o Reino. As chaves abrem o Reino dos Céus, meta última da Igreja peregrina."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Na região de Cesareia de Filipe, Jesus perguntou aos discípulos: “Quem dizem os homens que é o Filho do Homem?” Responderam: “Uns dizem João Batista, outros Elias, outros Jeremias ou um dos profetas”. Ele perguntou: “E vós, quem dizeis que eu sou?” Simão Pedro respondeu: “Tu és o Cristo, o Filho de Deus vivo”. Jesus disse-lhe: “Bem-aventurado és tu, Simão, filho de Jonas, porque não foi a carne nem o sangue que to revelou, mas meu Pai que está nos céus. E eu te digo: tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela. Eu te darei as chaves do Reino dos Céus”.",
+    "meditatio_perguntas": [
+      "Se Jesus me perguntasse hoje “quem dizes que eu sou?”, o que eu responderia com a vida?",
+      "Peço ao Pai a graça de conhecer Jesus mais profundamente?",
+      "Como vivo a minha comunhão com a Igreja edificada sobre Pedro?"
+    ],
+    "oratio_guia": "Senhor Jesus, tu és o Cristo, o Filho de Deus vivo. Revela-te a mim, como te revelaste a Pedro. Guarda a tua Igreja, edificada sobre a rocha, e o sucessor de Pedro, para que as portas do inferno não prevaleçam. Amém.",
+    "contemplatio_foco": { "texto": "Tu és o Cristo, o Filho de Deus vivo.", "ref": "Mt 16,16" }
+  },
+  "ancoras": {
+    "16:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 54", "catena": "16:13–19#1", "sintese": "Faz a pergunta levando os discípulos para longe dos judeus, para que falassem com liberdade." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "16:13–19#9", "sintese": "Diz “o Filho do Homem” e não “eu”, para não parecer perguntar com ostentação a seu próprio respeito." }
+      ],
+      "nota": { "texto": "Cesareia de Filipe, junto às nascentes do Jordão, ficava ao pé de uma grande parede rochosa com um santuário ao deus Pã; daí o nome posterior Paneias (atual Banias).", "origem": "ia" }
+    },
+    "16:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#12", "sintese": "Depois da opinião do povo, convida-os, com uma segunda pergunta, a pensamentos mais altos." }
+      ],
+      "nota": null
+    },
+    "16:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#15", "sintese": "Quando todos são interrogados, Pedro, como boca dos apóstolos, responde por todos." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "16:13–19#18", "sintese": "Esta é a fé verdadeira: que de Deus nasceu Deus Filho, eterno como o Pai, e que assumiu um corpo e se fez homem." }
+      ],
+      "nota": null
+    },
+    "16:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#22", "sintese": "“Filho de Jonas”: mostra que Cristo é tão naturalmente Filho de Deus como Pedro é filho de Jonas." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "16:13–19#24", "sintese": "É bem-aventurado porque viu além da vista humana: viu no homem o Filho de Deus." }
+      ],
+      "nota": null
+    },
+    "16:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "16:13–19#27", "sintese": "“Para mim, dizer é fazer”: como de Cristo, a Luz, os apóstolos são luz do mundo, assim de Cristo, a Pedra, Simão recebe o nome de Pedro." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#30", "sintese": "Sobre esta fé e confissão edificarei a minha Igreja: eleva o seu entendimento e constitui-o pastor." },
+        { "autor": "Santo Agostinho", "obra": "Retract. 1, 21", "catena": "16:13–19#31", "sintese": "Disse que a Igreja foi edificada sobre Pedro; depois expliquei muitas vezes que a pedra é Cristo, a quem Pedro confessou, e que Pedro representava a Igreja. Escolha o leitor a mais provável." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "16:13–19#32", "sintese": "Na imposição do novo nome está o feliz fundamento da Igreja, pedra digna do edifício que quebraria as portas do inferno." }
+      ],
+      "nota": { "texto": "A Igreja ensina que Cristo constituiu Pedro fundamento visível da sua Igreja e lhe confiou as chaves. Esse ministério permanece nos seus sucessores, os bispos de Roma. As leituras dos Padres (Pedro, a fé confessada, Cristo) são complementares.", "origem": "ia" }
+    },
+    "16:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#41", "sintese": "Outra honra de Pedro: como o Pai lhe concedeu conhecer-me, eu te darei as chaves do Reino." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:13–19#45", "sintese": "Promete coisas próprias só de Deus: perdoar os pecados e tornar a Igreja inabalável no meio das tempestades." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "16:13–19#49", "sintese": "Como o sacerdote da Lei declarava o leproso puro ou impuro, assim o bispo ou presbítero liga ou desliga não porque torne alguém inocente ou culpado, mas porque, pelo seu ofício, discerne." }
+      ],
+      "nota": { "texto": "As chaves evocam Is 22,22: o mordomo do palácio do rei de Davi recebia as chaves e o poder de abrir e fechar.", "origem": "ia" }
+    },
+    "16:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:20–21#4", "sintese": "O que, lançadas raízes, é arrancado dificilmente se replanta; por isso insiste nas coisas tristes, para abrir a mente dos discípulos antes de serem anunciadas." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
