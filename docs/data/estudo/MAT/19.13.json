@@ -1,0 +1,45 @@
+{
+  "id": "MAT.19.13",
+  "livro": "MAT",
+  "titulo": "Jesus abençoa as crianças",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mt 19,13-15",
+  "ini": { "c": 19, "v": 13 },
+  "fim": { "c": 19, "v": 15 },
+  "liturgia": { "tema_central": "“Deixai vir a mim as crianças”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Trazem crianças a Jesus para que lhes imponha as mãos e reze por elas (costume de pedir a bênção de um mestre). Os discípulos as repreendem, talvez para poupar o Mestre. Jesus diz: “Deixai as crianças e não as impeçais de vir a mim, porque dos tais é o Reino dos Céus”. Impõe-lhes as mãos e parte dali. Logo depois do ensinamento sobre o matrimônio, o episódio valoriza os filhos, fruto da união conjugal.",
+    "alegorico": "As crianças figuram os gentios e todos os que recebem a salvação pela fé e pelo ouvir, sem méritos próprios. A imposição das mãos antecipa a bênção que a Igreja transmite; a tradição viu aqui um fundamento para acolher as crianças no Batismo.",
+    "moral": "O Reino pertence aos que têm a inocência e a simplicidade das crianças, não pela idade, mas pela disposição do coração. Não devemos impedir ninguém, sobretudo os pequenos, de se aproximar de Jesus. A Ele os pais devem levar os filhos.",
+    "anagogico": "“Dos tais é o Reino dos Céus”: a simplicidade confiante dos filhos é a condição para entrar na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apresentaram a Jesus umas crianças, para que lhes impusesse as mãos e orasse por elas. Os discípulos repreendiam-nos. Mas Jesus disse: “Deixai as crianças, e não as impeçais de vir a mim, porque dos tais é o Reino dos Céus”. E, tendo-lhes imposto as mãos, partiu dali.",
+    "meditatio_perguntas": [
+      "Levo a Jesus as crianças e os pequenos que Deus me confiou?",
+      "Há algo em mim que impede outros de se aproximarem de Jesus?",
+      "Tenho a simplicidade e a confiança de uma criança diante de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, que acolheste e abençoaste as crianças, impõe também sobre mim as tuas mãos. Dá-me um coração simples e confiante, e faz que eu nunca impeça os pequenos de chegar a ti. Amém.",
+    "contemplatio_foco": { "texto": "Deixai as crianças, e não as impeçais de vir a mim.", "ref": "Mt 19,14" }
+  },
+  "ancoras": {
+    "19:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:13–15#4", "sintese": "Não que não quisessem a bênção do Salvador; mas, com fé ainda imperfeita, pensavam que Ele se cansaria como os outros homens." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:13–15#5", "sintese": "Ou afastavam-nas por respeito à dignidade de Cristo; mas Ele, para abater a soberba do mundo, tomou-as nos braços." }
+      ],
+      "nota": null
+    },
+    "19:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:13–15#7", "sintese": "“Dos tais”, e não “destes”: não a idade, mas a disposição; promete-se o Reino a quem tiver inocência e simplicidade semelhantes." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "19:13–15#12", "sintese": "As crianças são figura dos gentios, a quem a salvação é dada pela fé e pelo ouvir." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

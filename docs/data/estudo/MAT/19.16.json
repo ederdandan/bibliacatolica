@@ -1,0 +1,97 @@
+{
+  "id": "MAT.19.16",
+  "livro": "MAT",
+  "titulo": "O jovem rico",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mt 19,16-30",
+  "ini": { "c": 19, "v": 16 },
+  "fim": { "c": 19, "v": 30 },
+  "liturgia": { "tema_central": "“Vai, vende o que tens… e segue-me”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um jovem pergunta que bem deve fazer para ter a vida eterna. Jesus responde que só Deus é bom e manda guardar os mandamentos, citando os do Decálogo sobre o próximo e o amor ao próximo (Lv 19,18). O jovem diz que já os guarda: que lhe falta? “Se queres ser perfeito, vai, vende o que tens, dá-o aos pobres, e terás um tesouro no céu; depois, vem e segue-me.” Ele vai embora triste, porque tinha muitos bens. Jesus diz que é difícil a um rico entrar no Reino: é mais fácil um camelo passar pelo fundo de uma agulha (hipérbole: o maior animal da Palestina e a menor abertura). “Para Deus tudo é possível.” Pedro lembra que deixaram tudo; Jesus promete aos Doze tronos para julgar as doze tribos de Israel “na regeneração”, e a todos os que deixam tudo por Ele, cem vezes mais e a vida eterna.",
+    "alegorico": "Jesus conduz o jovem a reconhecer que só Deus é bom e que Ele mesmo, o Filho, é esse Bem que deve ser seguido. O camelo que passa pelo fundo da agulha é Cristo, que entrou pelo caminho estreito da Paixão, mostrando aos soberbos a forma da humildade. A “regeneração” é a ressurreição e a renovação de todas as coisas, quando os apóstolos, fundamentos do novo Israel, partilharão o juízo de Cristo.",
+    "moral": "Guardar os mandamentos é o caminho da vida; a perfeição está em seguir Cristo com o coração livre. Não basta deixar as riquezas, é preciso seguir o Senhor. O que já possuímos nos prende mais do que o que desejamos. As riquezas não são más em si, mas é perigoso ser escravo delas; com a graça de Deus, também o rico pode salvar-se pela partilha.",
+    "anagogico": "“Terás um tesouro no céu”: o desapego de agora prepara a herança eterna. Na regeneração, os que tudo deixaram receberão o cêntuplo e a vida eterna; e muitos primeiros serão últimos, e os últimos, primeiros."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um jovem aproximou-se de Jesus: “Mestre, que devo fazer de bom para alcançar a vida eterna?” Jesus respondeu: “Se queres entrar na vida, guarda os mandamentos”. O jovem disse: “Tenho guardado tudo isso; que me falta ainda?” Jesus disse: “Se queres ser perfeito, vai, vende o que tens, dá-o aos pobres, e terás um tesouro no céu; depois, vem e segue-me”. Ouvindo isto, o jovem foi-se embora triste, porque tinha muitos bens. Jesus disse aos discípulos: “É mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino dos Céus”. Eles perguntaram: “Quem poderá então salvar-se?” Jesus, olhando para eles, disse: “Aos homens isto é impossível, mas a Deus tudo é possível”.",
+    "meditatio_perguntas": [
+      "O que “ainda me falta” para seguir Jesus de todo o coração?",
+      "Que bens ou apegos me deixam triste quando Jesus me chama?",
+      "Confio que, para Deus, tudo é possível, também a minha conversão?"
+    ],
+    "oratio_guia": "Senhor Jesus, único bem verdadeiro, liberta o meu coração dos apegos que me impedem de te seguir. Dá-me a generosidade de partilhar com os pobres e a confiança de que, para ti, tudo é possível. Amém.",
+    "contemplatio_foco": { "texto": "Vem e segue-me.", "ref": "Mt 19,21" }
+  },
+  "ancoras": {
+    "19:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:16–22#6", "sintese": "Não rejeita o testemunho da sua bondade, mas corrige o erro de chamá-lo bom separadamente de Deus." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:16–22#7", "sintese": "Conduz o jovem pouco a pouco a deixar a lisonja, elevar-se acima da terra e conhecer Aquele que é verdadeiramente bom." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 84, 1", "catena": "19:16–22#9", "sintese": "Chama simplesmente “vida” à vida eterna: quanto se deve amá-la, se tanto se ama esta vida miserável e passageira!" }
+      ],
+      "nota": null
+    },
+    "19:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:16–22#14", "sintese": "Não parou ali, mas perguntou ainda “que me falta?”, sinal do seu grande desejo." }
+      ],
+      "nota": null
+    },
+    "19:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:16–22#21", "sintese": "Manda despojar-se das riquezas e promete restituir coisas maiores, tanto quanto o céu é maior que a terra." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:16–22#23", "sintese": "Não basta desprezar o dinheiro sem seguir o Salvador: é mais fácil desprezar a bolsa do que a vontade." }
+      ],
+      "nota": null
+    },
+    "19:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 31, 5", "catena": "19:16–22#25", "sintese": "O que já temos prende-nos mais do que o que desejamos: despojar-se do que se possui é como separar-se de um membro." }
+      ],
+      "nota": null
+    },
+    "19:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:23–26#1", "sintese": "Não condena as riquezas em si, mas os que são escravos delas." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "19:23–26#2", "sintese": "Ter riquezas não é pecado; mas deve guardar-se moderação, para socorrer as necessidades dos santos." }
+      ],
+      "nota": null
+    },
+    "19:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 35, 16", "catena": "19:23–26#11", "sintese": "O camelo passou pelo fundo da agulha quando o Redentor entrou pelo caminho estreito da Paixão, mostrando aos soberbos a forma da humildade." }
+      ],
+      "nota": null
+    },
+    "19:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:23–26#16", "sintese": "Não para que cruzes os braços como diante do impossível, mas para que te esforces por entrar, com súplicas a Deus." }
+      ],
+      "nota": null
+    },
+    "19:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 64", "catena": "19:27–30#1", "sintese": "Que foi esse “tudo”, Pedro? A cana, a rede e a barca; mas fala para animar a multidão dos pobres." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:27–30#4", "sintese": "Muitos filósofos desprezaram as riquezas; próprio dos apóstolos e dos fiéis é acrescentar: “e te seguimos”." }
+      ],
+      "nota": null
+    },
+    "19:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:27–30#6", "sintese": "Na ressurreição, os apóstolos sentar-se-ão em tronos, condenando as tribos que não quiseram crer quando eles creram." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

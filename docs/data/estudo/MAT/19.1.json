@@ -1,0 +1,97 @@
+{
+  "id": "MAT.19.1",
+  "livro": "MAT",
+  "titulo": "O matrimônio e o divórcio",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mt 19,1-12",
+  "ini": { "c": 19, "v": 1 },
+  "fim": { "c": 19, "v": 12 },
+  "liturgia": { "tema_central": "“O que Deus uniu, o homem não separe”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus deixa a Galileia rumo à Judeia, além do Jordão. Os fariseus o tentam: é lícito repudiar a mulher “por qualquer motivo”? (A escola de Hilel admitia o divórcio por motivos fúteis; a de Shamai, só por falta grave.) Jesus volta ao “princípio”, à criação (Gn 1,27; 2,24): homem e mulher tornam-se uma só carne, e o homem não separe o que Deus uniu. O libelo de repúdio de Moisés (Dt 24,1) foi uma concessão à dureza do coração. Quem repudia a mulher, salvo em caso de “fornicação”, e se casa com outra, comete adultério. Os discípulos acham duro; Jesus fala então dos que renunciam ao matrimônio “por amor do Reino dos Céus”, dom concedido a quem o recebe.",
+    "alegorico": "A união de uma só carne é sinal da união de Cristo com a Igreja (Ef 5,31-32): por isso o matrimônio dos cristãos é indissolúvel e sacramento. Jesus restaura o desígnio original do Criador, ferido pelo pecado. A virgindade pelo Reino antecipa as núpcias definitivas com o Esposo.",
+    "moral": "O matrimônio não é contrato que se desfaz à vontade, mas aliança selada por Deus. A dureza do coração, não a vontade de Deus, explica as concessões antigas; a graça de Cristo torna possível a fidelidade. O celibato por amor do Reino é dom a pedir a Deus, não fruto do acaso; não se trata de mutilação do corpo, mas da renúncia aos maus pensamentos e da entrega a Deus.",
+    "anagogico": "No Reino não se casa nem se dá em casamento (22,30): os que renunciam ao matrimônio pelo Reino testemunham já agora a vida futura, onde Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os fariseus perguntaram a Jesus: “É lícito a um homem repudiar sua mulher por qualquer motivo?” Ele respondeu: “Não lestes que no princípio o Criador fez o homem e a mulher, e disse: Por isso o homem deixará pai e mãe e se unirá à sua mulher, e os dois serão uma só carne? Portanto, já não são dois, mas uma só carne. Não separe, pois, o homem o que Deus uniu”. Replicaram: “Por que então Moisés mandou dar libelo de repúdio?” Jesus respondeu: “Por causa da dureza do vosso coração Moisés vos permitiu repudiar as vossas mulheres; mas no princípio não foi assim”.",
+    "meditatio_perguntas": [
+      "Como vejo o matrimônio: como aliança selada por Deus ou como contrato humano?",
+      "Onde a “dureza do coração” impede o amor fiel na minha vida?",
+      "Rezo pelas famílias, pelos casais em crise e pelos que se consagram ao Reino?"
+    ],
+    "oratio_guia": "Senhor Jesus, que restauraste o desígnio do Criador, abençoa os esposos e fortalece a sua fidelidade. Amolece os corações endurecidos. Concede a quem chamas a graça de se consagrar inteiramente ao teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Não separe o homem o que Deus juntou.", "ref": "Mt 19,6" }
+  },
+  "ancoras": {
+    "19:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:1–8#9", "sintese": "Querem apanhá-lo entre as pontas de um silogismo: qualquer que fosse a resposta, ficaria exposto à crítica." }
+      ],
+      "nota": null
+    },
+    "19:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:1–8#13", "sintese": "Escapa da armadilha com o testemunho da Escritura e da lei natural, opondo a primeira sentença de Deus à segunda." }
+      ],
+      "nota": null
+    },
+    "19:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:1–8#17", "sintese": "Diz “à sua mulher”, não “às suas mulheres”: e os dois serão uma só carne." },
+        { "autor": "Santo Agostinho", "obra": "De Gen. ad litt. 9, 19", "catena": "19:1–8#21", "sintese": "A Escritura atribui estas palavras a Adão e o Senhor a Deus: pelo êxtase, Adão disse-as como profecia." }
+      ],
+      "nota": null
+    },
+    "19:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:1–8#25", "sintese": "Repudiar a mulher é contra a natureza, porque divide uma só carne, e contra a lei, porque Deus os uniu." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:1–8#26", "sintese": "O homem separa quando repudia a primeira mulher pelo desejo de uma segunda; só Deus, que uniu, pode separar, como quando os esposos, de comum acordo, se consagram ao serviço de Deus." }
+      ],
+      "nota": null
+    },
+    "19:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:1–8#30", "sintese": "Se fosse contrário ao Antigo Testamento, não teria defendido Moisés: mostra que o seu ensino concorda com o antigo." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:1–8#33", "sintese": "Deus não se contradiz: não anulou com novo estatuto o que mandou no princípio." }
+      ],
+      "nota": null
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:9#7", "sintese": "Manda-se separar-se da primeira de modo que não se tome segunda enquanto a primeira viver." },
+        { "autor": "Santo Agostinho", "obra": "De Conjug. Adult. 2, 9", "catena": "19:9#4", "sintese": "A reconciliação dos cônjuges, mesmo depois do adultério, não é vergonhosa nem difícil, onde há a remissão dos pecados pelas chaves do Reino." }
+      ],
+      "nota": { "texto": "A exceção “a não ser por fornicação” (grego porneia) é entendida na tradição católica como referida a uniões ilegítimas desde o início, ou como permissão de separação sem novo casamento. A Igreja ensina a indissolubilidade do matrimônio válido e consumado.", "origem": "ia" }
+    },
+    "19:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:10–12#1", "sintese": "É mais leve lutar consigo mesmo e com a própria concupiscência do que com uma mulher má." }
+      ],
+      "nota": null
+    },
+    "19:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "19:10–12#3", "sintese": "Não é destino nem sorte: é dado aos que o pediram a Deus." }
+      ],
+      "nota": null
+    },
+    "19:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "19:10–12#8", "sintese": "A causa no primeiro caso é a natureza; no segundo, a violência; no último, a escolha feita pela esperança do Reino." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "19:10–12#11", "sintese": "Não quer dizer amputação dos membros, mas supressão dos maus pensamentos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
