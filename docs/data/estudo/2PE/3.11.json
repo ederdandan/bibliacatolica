@@ -1,0 +1,49 @@
+{
+  "id": "2PE.3.11",
+  "livro": "2PE",
+  "titulo": "Novos céus e nova terra",
+  "secao": "Falsos doutores e a vinda do Senhor",
+  "referencia": "2Pd 3,11-18",
+  "ini": {
+    "c": 3,
+    "v": 11
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Esperamos novos céus e nova terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se tudo isto vai ser desfeito, que santidade e piedade devem ter os fiéis, esperando e apressando a vinda do dia de Deus, em que os céus se desfarão em fogo! Segundo a promessa, esperam-se novos céus e nova terra, onde habite a justiça. Por isso, devem esforçar-se por ser encontrados por Ele sem mancha, irrepreensíveis e em paz. A paciência do Senhor é para a salvação, como também escreveu o caríssimo irmão Paulo segundo a sabedoria que lhe foi dada, em cartas que contêm pontos difíceis, que os ignorantes e instáveis torcem, como fazem com as demais Escrituras, para sua perdição. Pedro termina pedindo vigilância para não perderem a firmeza e exortando a crescer na graça e no conhecimento de Cristo, a quem é dada glória agora e no dia da eternidade.",
+    "alegorico": "Os “novos céus e nova terra” (cf. Is 65,17; Ap 21,1) são a criação inteira renovada em Cristo. A referência às cartas de Paulo como “Escrituras” mostra a Igreja apostólica reconhecendo os escritos inspirados e a unidade da pregação de Pedro e de Paulo.",
+    "moral": "A esperança não é passividade: “esperando e correndo ao encontro” do dia de Deus, o cristão apressa-o pela santidade de vida. Diante dos textos difíceis da Escritura, pede-se humildade e firmeza, não leitura arbitrária. A vida cristã é crescimento contínuo na graça e no conhecimento de Cristo.",
+    "anagogico": "O destino final não é a destruição, mas a renovação: novos céus e nova terra “nos quais habite a justiça”. Ser encontrado em paz, sem mancha, é a preparação para essa morada definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quais não deveis ser em piedade e santidade de vida, esperando e correndo ao encontro da vinda do dia de Deus! Esperamos, segundo a sua promessa, novos céus e uma nova terra, nos quais habite a justiça. Procurai com diligência ser encontrados por ele sem mancha e irrepreensíveis na paz. Crescei na graça e no conhecimento do nosso Senhor e Salvador Jesus Cristo.",
+    "meditatio_perguntas": [
+      "A esperança do céu muda o modo como vivo hoje?",
+      "Como estou a “crescer na graça e no conhecimento” de Cristo?",
+      "Leio os textos difíceis da Escritura com humildade, na fé da Igreja?"
+    ],
+    "oratio_guia": "Senhor Jesus Cristo, nosso Salvador, que nos prometeste novos céus e nova terra, faz-me crescer na tua graça e no teu conhecimento. Que me encontres sem mancha e em paz no teu dia. A ti a glória, agora e no dia da eternidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "esperamos, segundo a sua promessa, novos céus e uma nova terra, nos quais habite a justiça",
+      "ref": "2Pd 3,13"
+    }
+  },
+  "ancoras": {
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira atestação de que as cartas de Paulo eram lidas como Escritura ao lado das “outras Escrituras”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2PE.2.1",
+  "livro": "2PE",
+  "titulo": "Os falsos doutores e o juízo de Deus",
+  "secao": "Falsos doutores e a vinda do Senhor",
+  "referencia": "2Pd 2,1-22",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O Senhor sabe livrar os justos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como houve falsos profetas em Israel, haverá falsos mestres entre os cristãos: introduzirão seitas perniciosas, negarão o Senhor que os resgatou, arrastarão muitos à libertinagem e farão negócio dos fiéis por cobiça. Mas a sua condenação não dorme. Pedro recorda que Deus não poupou os anjos que pecaram, nem o mundo antigo no dilúvio, salvando Noé com mais sete, nem Sodoma e Gomorra; mas livrou o justo Lot, atormentado pela iniquidade que via. Assim, o Senhor sabe livrar os justos da provação e reservar os ímpios para o juízo. Os falsos mestres são descritos com dureza: arrogantes, sensuais, gananciosos, seguidores de Balaão, fontes sem água. Prometem liberdade, sendo escravos da corrupção. Para quem conheceu Cristo e volta atrás, o fim é pior do que o começo.",
+    "alegorico": "Noé, “pregador da justiça”, salvo com os seus na arca, é figura da Igreja que salva pelas águas do batismo (cf. 1Pd 3,20-21). Lot, que se aflige no meio de Sodoma, é imagem do justo que vive no mundo sem ser do mundo, guardado por Deus.",
+    "moral": "A falsa liberdade que os sedutores prometem é, na verdade, escravidão: “é-se escravo daquele por quem se foi vencido”. O cristão deve discernir os mestres pelos frutos: cobiça, sensualidade e arrogância desmascaram o falso doutor. E o texto adverte para a gravidade de voltar atrás depois de conhecer Cristo.",
+    "anagogico": "Deus “sabe livrar os justos da tentação e reservar os maus para o dia do juízo”. A história mostra que a aparente impunidade dos ímpios é provisória e que a fidelidade dos justos será recompensada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Haverá entre vós falsos doutores, que renegarão aquele Senhor que os resgatou. Deus salvou Noé, pregador da justiça, e livrou o justo Lot, que se afligia pelo viver luxurioso desses infames. O Senhor sabe livrar os justos da tentação. Prometem-lhes a liberdade, quando eles mesmos são escravos da corrupção, pois que se é escravo daquele por quem se foi vencido.",
+    "meditatio_perguntas": [
+      "Que “liberdade” me prometem e que, na verdade, me escraviza?",
+      "Como Lot, aflijo-me com o mal que vejo, ou já me habituei a ele?",
+      "Confio que o Senhor sabe livrar-me da tentação?"
+    ],
+    "oratio_guia": "Senhor, que livraste Noé e Lot, livra-me da tentação e de todo falso mestre. Não permitas que eu volte atrás depois de te conhecer. Dá-me a verdadeira liberdade dos filhos de Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor sabe livrar os justos da tentação",
+      "ref": "2Pd 2,9"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tártaro” era, na mitologia grega, o lugar mais profundo do mundo inferior; Pedro usa a palavra para o lugar de castigo dos anjos rebeldes.",
+        "origem": "ia"
+      }
+    },
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Grande parte de 2Pd 2 retoma, com adaptações, a carta de Judas (Jd 4-16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

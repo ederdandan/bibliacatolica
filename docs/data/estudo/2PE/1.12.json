@@ -1,0 +1,57 @@
+{
+  "id": "2PE.1.12",
+  "livro": "2PE",
+  "titulo": "Testemunhas da sua grandeza; a palavra dos profetas",
+  "secao": "Crescer no conhecimento de Cristo",
+  "referencia": "2Pd 1,12-21",
+  "ini": {
+    "c": 1,
+    "v": 12
+  },
+  "fim": {
+    "c": 1,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Testemunhas da sua grandeza no monte santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro sabe que em breve deixará a “tenda” do seu corpo, como o Senhor lhe deu a entender, e quer deixar aos fiéis um meio de recordar sempre estas verdades. Não pregaram fábulas engenhosas ao anunciar o poder e a vinda de Cristo: foram testemunhas oculares da sua grandeza, quando receberam do Pai honra e glória e a voz que dizia: “Este é o meu Filho amado, em quem pus as minhas complacências.” Ouviram-na no monte santo. Além disso, há a palavra profética, ainda mais firme, a que se deve atender como a uma lâmpada que brilha num lugar escuro, até que o dia desponte e a estrela da manhã nasça nos corações. Nenhuma profecia da Escritura é de interpretação particular, porque os homens de Deus falaram movidos pelo Espírito Santo.",
+    "alegorico": "A Transfiguração é antecipação da glória da vinda final: os apóstolos viram de antemão o que a Igreja espera. A Escritura é a “lâmpada” para o tempo da noite, e a “estrela da manhã” é Cristo, que nasce no coração de quem a acolhe. A inspiração pelo Espírito faz da Escritura palavra de Deus em palavras humanas.",
+    "moral": "A fé cristã não é mito, mas assenta no testemunho de quem viu e ouviu. A Escritura deve ser lida com atenção, como quem caminha no escuro com uma lâmpada, e não segundo interpretação particular: o mesmo Espírito que a inspirou guia a sua leitura na Igreja. Pedro ensina ainda a preparar-se para a morte deixando aos outros o bem recebido.",
+    "anagogico": "Toda a vida cristã caminha “até que venha o dia” e a estrela da manhã nasça plenamente nos corações. A glória vista no Tabor é a mesma que será revelada a todos na vinda do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda de Nosso Senhor Jesus Cristo, mas depois de termos sido espectadores da sua grandeza. Ouvimos esta voz vinda do céu, quando estávamos com ele sobre o monte santo. Temos ainda a palavra mais firme dos profetas, à qual fazeis bem em prestar atenção, como a uma lucerna que alumia num lugar escuro, até que venha o dia, e a estrela da manhã nasça em vossos corações.",
+    "meditatio_perguntas": [
+      "A Escritura é para mim lâmpada no meio das minhas escuridões?",
+      "Leio a Bíblia com a Igreja, ou apenas segundo o meu entendimento particular?",
+      "Que bem recebido de Deus quero deixar aos outros antes de partir?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho amado do Pai, que mostraste a tua glória no monte santo, faz da tua Palavra uma lâmpada para os meus passos. Que o Espírito que a inspirou me ensine a lê-la, até que nasça em mim a estrela da manhã. Amém.",
+    "contemplatio_foco": {
+      "texto": "como a uma lucerna que alumia num lugar escuro, até que venha o dia",
+      "ref": "2Pd 1,19"
+    }
+  },
+  "ancoras": {
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão provável à predição de Jesus sobre a morte de Pedro (Jo 21,18-19).",
+        "origem": "ia"
+      }
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto clássico sobre a inspiração da Escritura e a sua interpretação no seio da Igreja, retomado pelo Concílio Vaticano II na Dei Verbum.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

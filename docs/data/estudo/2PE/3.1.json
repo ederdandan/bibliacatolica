@@ -1,0 +1,49 @@
+{
+  "id": "2PE.3.1",
+  "livro": "2PE",
+  "titulo": "Onde está a promessa da sua vinda?",
+  "secao": "Falsos doutores e a vinda do Senhor",
+  "referencia": "2Pd 3,1-10",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Um dia diante do Senhor é como mil anos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro escreve a segunda carta para despertar com lembranças uma sã inteligência: recordar os profetas e o mandamento do Senhor transmitido pelos apóstolos. Nos últimos tempos virão zombadores dizendo: “Onde está a promessa da sua vinda? Desde que os pais morreram, tudo continua como no princípio.” Ignoram de propósito que o mundo, criado pela palavra de Deus a partir da água, já pereceu pela água no dilúvio, e que os céus e a terra de agora são reservados pela mesma palavra para o fogo do juízo. Diante do Senhor, um dia é como mil anos, e mil anos como um dia. O Senhor não tarda a cumprir a promessa: é paciente, não querendo que ninguém pereça, mas que todos se convertam. O dia do Senhor virá como um ladrão.",
+    "alegorico": "O dilúvio e o fogo final emolduram a história: a primeira criação purificada pelas águas, a definitiva pelo fogo. Entre ambos está o tempo da Igreja, tempo da paciência de Deus, aberto à conversão de todos.",
+    "moral": "A demora da vinda do Senhor não é esquecimento, mas misericórdia: Deus “usa de paciência”, porque quer que todos se convertam. O cristão não mede o tempo de Deus pelo seu relógio, nem se deixa vencer pela zombaria de quem diz que nada muda. Cada dia de espera é oportunidade de penitência.",
+    "anagogico": "O dia do Senhor virá de surpresa, “como um ladrão”. A criação inteira passará pela prova do fogo. A esperança cristã vive entre a certeza da vinda e a incerteza da hora."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dirão: “Onde está a promessa da sua vinda?” Há, porém, uma coisa, caríssimos, que não deveis ignorar: é que um dia, diante do Senhor, é como mil anos, e mil anos como um dia. Não retarda o Senhor a sua promessa, mas usa de paciência convosco, não querendo que nenhum pereça, mas que todos se convertam à penitência. Como um ladrão, virá o dia do Senhor.",
+    "meditatio_perguntas": [
+      "Vivo como se “tudo continuasse como no princípio”, sem esperar o Senhor?",
+      "Reconheço a paciência de Deus comigo como chamada à conversão?",
+      "Estaria pronto se o dia do Senhor chegasse hoje?"
+    ],
+    "oratio_guia": "Senhor paciente, que não queres que ninguém pereça, obrigado pelo tempo que me dás para converter-me. Não deixes que eu me acomode nem zombe da tua promessa. Encontra-me vigilante quando vieres. Amém.",
+    "contemplatio_foco": {
+      "texto": "não querendo que nenhum pereça, mas que todos se convertam à penitência",
+      "ref": "2Pd 3,9"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco do Sl 89(90),4: “mil anos diante de ti são como o dia de ontem”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2PE.1.1",
+  "livro": "2PE",
+  "titulo": "Participantes da natureza divina",
+  "secao": "Crescer no conhecimento de Cristo",
+  "referencia": "2Pd 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Participantes da natureza divina",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Simão Pedro, servo e apóstolo de Jesus Cristo, escreve aos que receberam uma fé tão preciosa como a dos apóstolos. O poder divino de Cristo deu-nos tudo o que é necessário para a vida e a piedade, pelo conhecimento daquele que nos chamou pela sua glória e virtude; e deu-nos promessas preciosas para que nos tornemos participantes da natureza divina, fugindo da corrupção que a concupiscência traz ao mundo. Por isso os fiéis devem empenhar-se em juntar à fé a virtude, à virtude o conhecimento, depois a temperança, a constância, a piedade, o amor fraterno e a caridade. Quem tem estas coisas não fica estéril; quem não as tem é míope e esquece a purificação recebida. Que procurem tornar firme a sua vocação e eleição: assim lhes será dada largamente a entrada no reino eterno de Cristo.",
+    "alegorico": "“Participantes da natureza divina” é a expressão mais ousada do NT sobre a graça: pelo Filho que assumiu a nossa natureza, somos elevados à comunhão com a natureza de Deus. Os Padres resumiram: Deus fez-se homem para que o homem se tornasse deus por participação. A escada de virtudes que parte da fé e culmina na caridade é o caminho dessa divinização.",
+    "moral": "A graça é dada inteira, mas exige cooperação: “aplicando todo o cuidado, juntai à vossa fé a virtude”. Cada virtude apoia a seguinte, e todas desembocam na caridade. Quem não cresce esquece o próprio batismo e torna-se míope para as coisas de Deus. A vocação e a eleição tornam-se firmes pelas boas obras.",
+    "anagogico": "O caminho termina na “entrada no reino eterno de Nosso Senhor e Salvador Jesus Cristo”, concedida “largamente”. A participação na natureza divina, começada no batismo, chegará à plenitude na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O seu divino poder deu-nos todas as coisas que dizem respeito à vida e à piedade. Por elas nos deu estas preciosas e magníficas promessas, a fim de que vos torneis participantes da natureza divina. Juntai à vossa fé a virtude, à piedade o amor fraterno, ao amor fraterno a caridade. Ponde cada vez maior cuidado em tornardes certa a vossa vocação e eleição. Deste modo vos será concedida largamente a entrada no reino eterno.",
+    "meditatio_perguntas": [
+      "Tenho consciência de que a graça me faz participar da vida de Deus?",
+      "Que virtude Deus me pede hoje para juntar à minha fé?",
+      "Esqueço às vezes a purificação que recebi no batismo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que pelo teu divino poder me deste tudo o que é necessário para a vida e a piedade, faz-me participante da tua natureza divina. Ajuda-me a juntar à fé a virtude, até chegar à caridade, e abre-me a entrada no teu reino eterno. Amém.",
+    "contemplatio_foco": {
+      "texto": "vos torneis participantes da natureza divina",
+      "ref": "2Pd 1,4"
+    }
+  },
+  "ancoras": {
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Participantes da natureza divina” (theías koinōnoì phýseōs): texto central na doutrina da graça santificante e na teologia oriental da divinização (théōsis).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
