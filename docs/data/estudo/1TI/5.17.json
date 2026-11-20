@@ -1,0 +1,57 @@
+{
+  "id": "1TI.5.17",
+  "livro": "1TI",
+  "titulo": "Os presbíteros e os escravos",
+  "secao": "Os ministérios na casa de Deus",
+  "referencia": "1Tm 5,17–6,2",
+  "ini": {
+    "c": 5,
+    "v": 17
+  },
+  "fim": {
+    "c": 6,
+    "v": 2
+  },
+  "liturgia": {
+    "tema_central": "O operário é digno do seu salário",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os presbíteros que presidem bem merecem dupla honra, sobretudo os que se afadigam na pregação e no ensino, pois a Escritura diz: “Não amordaçarás o boi que debulha” e “o operário é digno do seu salário”. Contra um presbítero não se aceite acusação senão com duas ou três testemunhas; os que pecam, repreendam-se diante de todos, para que os outros temam. Paulo conjura Timóteo diante de Deus, de Cristo e dos anjos a agir sem preconceito nem favoritismo. Não imponha as mãos a ninguém com precipitação, para não participar dos pecados alheios; conserve-se puro. Um conselho pessoal: tome um pouco de vinho por causa do estômago. Os pecados de uns são logo manifestos, os de outros só depois; assim também as boas obras não ficam ocultas. Os escravos honrem os seus senhores, e os que têm senhores cristãos os sirvam ainda melhor, porque são irmãos.",
+    "alegorico": "O “operário digno do salário” é palavra de Jesus (Lc 10,7) citada como Escritura: sinal de que as palavras do Senhor já tinham autoridade escriturística. O presbítero que trabalha na Palavra participa do trabalho do Semeador.",
+    "moral": "A comunidade deve sustentar e honrar os que a servem, e também protegê-los de acusações levianas; mas o pecado público de um responsável exige correção pública. O discernimento para confiar ministérios exige prudência: não se impõem as mãos com pressa. O texto pede imparcialidade, sem favoritismos, em toda decisão.",
+    "anagogico": "Nem o pecado nem o bem ficam escondidos para sempre: “não podem permanecer ocultos”. Tudo será manifestado no juízo, e as boas obras escondidas serão então reveladas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os presbíteros que exercem bem a presidência sejam considerados dignos de estipêndio dobrado, principalmente os que trabalham em pregar e ensinar. O operário é digno da sua paga. Não te apresses a impor as mãos a ninguém. Conserva-te a ti mesmo puro. As boas obras são manifestas; e as que o não são ainda, não podem permanecer ocultas.",
+    "meditatio_perguntas": [
+      "Honro e sustento os que me servem na Palavra?",
+      "Julgo os outros com imparcialidade, sem favoritismos?",
+      "Confio que Deus vê as boas obras escondidas?"
+    ],
+    "oratio_guia": "Senhor da messe, recompensa os presbíteros que trabalham na pregação e no ensino. Dá-me um juízo justo e imparcial e conserva-me puro. Que as minhas obras, mesmo as escondidas, sejam para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Conserva-te a ti mesmo puro.",
+      "ref": "1Tm 5,22"
+    }
+  },
+  "ancoras": {
+    "5:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A primeira citação é de Dt 25,4; a segunda é palavra de Jesus registada em Lc 10,7.",
+        "origem": "ia"
+      }
+    },
+    "5:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Impor as mãos” refere-se provavelmente à ordenação de presbíteros; alguns Padres pensaram na reconciliação dos penitentes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

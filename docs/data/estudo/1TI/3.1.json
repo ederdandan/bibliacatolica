@@ -1,0 +1,57 @@
+{
+  "id": "1TI.3.1",
+  "livro": "1TI",
+  "titulo": "Os bispos e os diáconos",
+  "secao": "Os ministérios na casa de Deus",
+  "referencia": "1Tm 3,1-13",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Os bispos e os diáconos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "É palavra segura: quem aspira ao episcopado deseja uma nobre função. O bispo deve ser irrepreensível, casado uma só vez, sóbrio, prudente, cortês, hospitaleiro, apto para ensinar, não dado ao vinho nem violento, mas moderado, pacífico, desapegado do dinheiro; que governe bem a sua casa e tenha filhos submissos, pois quem não sabe governar a própria casa como cuidará da Igreja de Deus? Não seja recém-convertido, para não se encher de orgulho e cair na condenação do diabo; tenha boa reputação junto dos de fora. Também os diáconos sejam dignos, de uma só palavra, não dados ao vinho nem a lucros desonestos, e guardem o mistério da fé numa consciência pura; sejam primeiro provados. As mulheres sejam dignas, não maldizentes, sóbrias e fiéis. Os que servem bem alcançam uma posição honrosa e grande confiança na fé.",
+    "alegorico": "O bispo, pai da “casa de Deus”, e os diáconos, servidores do mistério da fé, desenham a estrutura ministerial da Igreja, que prolonga no tempo o cuidado de Cristo, Bom Pastor e Servo, pelo seu rebanho.",
+    "moral": "As qualidades pedidas aos ministros são sobretudo de caráter: equilíbrio, sobriedade, desapego, capacidade de governar a própria casa. A Igreja precisa de pastores provados, não de neófitos orgulhosos. E todo serviço bem feito gera “confiança na fé”: a fidelidade nas pequenas coisas fortalece.",
+    "anagogico": "Os que exercem bem o ministério “ganharão um alto grau de honra”: a recompensa do servidor fiel é entrar na alegria do seu Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se alguém deseja o episcopado, deseja um nobre cargo. É necessário que o bispo seja irrepreensível, sóbrio, prudente, hospitaleiro, capaz de ensinar, desapegado do dinheiro. Se algum não sabe governar a sua casa, como terá cuidado da Igreja de Deus? Os diáconos conservem o mistério da fé com uma consciência pura. Os que tiverem exercido bem o seu ministério ganharão muita confiança na fé.",
+    "meditatio_perguntas": [
+      "Rezo pelos bispos e diáconos da minha Igreja?",
+      "Governo bem a “casa” que Deus me confiou?",
+      "Guardo o mistério da fé numa consciência pura?"
+    ],
+    "oratio_guia": "Senhor Jesus, Bom Pastor e Servo de todos, dá à tua Igreja bispos e diáconos segundo o teu coração: sóbrios, humildes, desapegados e fiéis. E a mim, faz-me servidor fiel na casa que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "conservem o mistério de fé com uma consciência pura",
+      "ref": "1Tm 3,9"
+    }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Casado uma só vez” (literalmente “marido de uma só mulher”): exclui quem se casou de novo após a viuvez; na Igreja latina, o celibato dos bispos e presbíteros veio a ser a norma.",
+        "origem": "ia"
+      }
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As “mulheres” podem ser as esposas dos diáconos ou mulheres que serviam a comunidade, como Febe, “diaconisa” da Igreja de Cêncreas (Rm 16,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

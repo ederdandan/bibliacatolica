@@ -1,0 +1,57 @@
+{
+  "id": "1TI.6.11",
+  "livro": "1TI",
+  "titulo": "Combate o bom combate; guarda o depósito",
+  "secao": "O bom combate da fé",
+  "referencia": "1Tm 6,11-21",
+  "ini": {
+    "c": 6,
+    "v": 11
+  },
+  "fim": {
+    "c": 6,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Combate o bom combate; guarda o depósito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dirige-se a Timóteo como “homem de Deus”: fuja destas coisas e procure a justiça, a piedade, a fé, a caridade, a paciência, a mansidão. Combata o bom combate da fé, conquiste a vida eterna, para a qual foi chamado e da qual fez bela confissão diante de muitas testemunhas. Diante de Deus, que dá vida a todas as coisas, e de Cristo, que fez a bela confissão diante de Pôncio Pilatos, ordena-lhe guardar o mandamento sem mancha até à manifestação do Senhor, que Deus mostrará a seu tempo: o Bem-aventurado e único Soberano, Rei dos reis e Senhor dos senhores, o único que possui a imortalidade, habita numa luz inacessível, e a quem nenhum homem viu. Aos ricos, mande que não sejam orgulhosos nem confiem nas riquezas incertas, mas em Deus, e sejam ricos em boas obras, generosos. E a Timóteo: guarda o depósito.",
+    "alegorico": "A “bela confissão” de Cristo diante de Pilatos é o modelo da confissão batismal e do martírio cristão. O “depósito” é a fé apostólica, confiada aos pastores para ser guardada intacta e transmitida. A doxologia ao Deus que habita a luz inacessível é das mais belas da Escritura.",
+    "moral": "A vida cristã é combate e conquista: fugir do mal e perseguir as virtudes. O cristão rico não é condenado pelas riquezas, mas chamado a não pôr nelas a esperança e a fazer delas instrumento de generosidade. Guardar o depósito exige evitar as falsas ciências que desviam da fé.",
+    "anagogico": "Os ricos que partilham juntam “um sólido tesouro para o futuro, a fim de alcançarem a verdadeira vida”. Tudo tende à manifestação de Cristo e à visão do Deus que agora habita uma luz inacessível."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tu, ó homem de Deus, segue a justiça, a piedade, a fé, a caridade, a paciência, a mansidão. Combate o bom combate da fé, conquista a vida eterna, para a qual foste chamado. Manda aos ricos deste mundo que não confiem na incerteza das riquezas, mas em Deus, que sejam generosos, a fim de alcançarem a verdadeira vida. Ó Timóteo, guarda o depósito.",
+    "meditatio_perguntas": [
+      "Que virtude preciso de “perseguir” com mais empenho?",
+      "Onde ponho a minha confiança: nas riquezas ou em Deus?",
+      "Como guardo e transmito o depósito da fé que recebi?"
+    ],
+    "oratio_guia": "Rei dos reis e Senhor dos senhores, que habitas numa luz inacessível, dá-me combater o bom combate da fé e guardar fielmente o depósito recebido. Faz-me rico em boas obras, até alcançar a verdadeira vida. A ti honra e poder eterno. Amém.",
+    "contemplatio_foco": {
+      "texto": "Combate o bom combate da fé, conquista a vida eterna",
+      "ref": "1Tm 6,12"
+    }
+  },
+  "ancoras": {
+    "6:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Depósito” (parathḗkē): termo jurídico para um bem confiado em custódia, que se deve devolver intacto; designa a fé recebida dos apóstolos.",
+        "origem": "ia"
+      }
+    },
+    "6:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “bela confissão diante de muitas testemunhas” é provavelmente a profissão de fé batismal ou a da ordenação de Timóteo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

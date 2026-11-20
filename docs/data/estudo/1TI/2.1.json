@@ -1,0 +1,57 @@
+{
+  "id": "1TI.2.1",
+  "livro": "1TI",
+  "titulo": "Um só mediador; a oração por todos os homens",
+  "secao": "A sã doutrina e a oração",
+  "referencia": "1Tm 2,1-15",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Deus quer que todos os homens se salvem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede, antes de tudo, súplicas, orações, intercessões e ações de graças por todos os homens, pelos reis e pelas autoridades, para que se possa levar uma vida calma e tranquila, com piedade e dignidade. Isto agrada a Deus nosso Salvador, que quer que todos os homens se salvem e cheguem ao conhecimento da verdade. Pois há um só Deus e um só mediador entre Deus e os homens, Cristo Jesus homem, que se deu em resgate por todos; para isso Paulo foi constituído pregador, apóstolo e doutor dos pagãos. Os homens orem em todo lugar, erguendo mãos puras, sem ira nem discussões; as mulheres se apresentem com modéstia, adornadas mais de boas obras do que de joias. Segue uma disciplina para as assembleias, fundada na ordem da criação, e a promessa de salvação pela maternidade vivida na fé, na caridade e na santidade.",
+    "alegorico": "O “único mediador”, Jesus Cristo homem, é o sumo sacerdote que reconcilia Deus e a humanidade na sua própria pessoa. A oração da Igreja “por todos os homens” é participação na sua mediação: por isso a liturgia sempre intercede pelo mundo inteiro, incluindo os governantes.",
+    "moral": "O cristão não reza só pelos seus, mas por todos, até pelas autoridades, mesmo as que não o favorecem. Mãos levantadas devem ser mãos puras, sem ira nem contenda. A verdadeira elegância é a das boas obras. As normas para as assembleias refletem o contexto da época, mas o princípio permanece: a oração comum pede ordem, modéstia e paz.",
+    "anagogico": "Deus “quer que todos os homens se salvem”: a vontade salvífica universal é o horizonte de toda a missão. O resgate pago “por todos” abre a todos o caminho da vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Recomendo-te, antes de tudo, que se façam súplicas, orações, petições, acções de graças por todos os homens. Isto é bom e agradável diante de Deus nosso Salvador, o qual quer que todos os homens se salvem e cheguem ao conhecimento da verdade. Há um só Deus e um só mediador entre Deus e os homens, que é Jesus Cristo homem, o qual se deu a si mesmo para redenção de todos.",
+    "meditatio_perguntas": [
+      "Rezo por todos, incluindo os governantes e os que não me agradam?",
+      "Levanto a Deus mãos puras, sem ira nem contenda?",
+      "Desejo, como Deus, que todos se salvem?"
+    ],
+    "oratio_guia": "Deus nosso Salvador, que queres que todos os homens se salvem, ensina-me a rezar por todos. Por Jesus Cristo, único mediador, que se deu em resgate por todos, recebe a minha oração pelo mundo inteiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "o qual quer que todos os homens se salvem e cheguem ao conhecimento da verdade",
+      "ref": "1Tm 2,4"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esta recomendação está na origem da oração universal (oração dos fiéis) da Missa e das grandes preces da Sexta-feira Santa.",
+        "origem": "ia"
+      }
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A norma refere-se ao ensino oficial na assembleia litúrgica; o texto supõe as circunstâncias das comunidades de Éfeso.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1TI.1.1",
+  "livro": "1TI",
+  "titulo": "O fim do preceito é a caridade",
+  "secao": "A sã doutrina e a oração",
+  "referencia": "1Tm 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A caridade que nasce de um coração puro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, apóstolo por mandato de Deus Salvador e de Cristo, “nossa esperança”, escreve a Timóteo, seu filho amado na fé. Recorda-lhe que o deixou em Éfeso para advertir alguns que ensinavam doutrinas diferentes e se perdiam em fábulas e genealogias sem fim, que geram discussões em vez de servir ao plano de Deus, que se funda na fé. O objetivo da advertência é a caridade que nasce de um coração puro, de uma boa consciência e de uma fé sincera. Alguns, desviando-se disto, perderam-se em conversas vãs, querendo ser doutores da lei sem saber o que dizem. A lei é boa se usada como deve: não foi feita para o justo, mas para os injustos e para tudo o que se opõe à sã doutrina, segundo o Evangelho da glória do Deus bem-aventurado.",
+    "alegorico": "O “plano de Deus que se funda na fé” é a economia da salvação, conduzida pela Igreja, que tem por fim a caridade. Cristo, “nossa esperança”, é o centro dessa economia, e o pastor é guardião da sã doutrina que dela fala.",
+    "moral": "Todo o ensino e toda a correção têm um fim: a caridade. E a caridade verdadeira tem três raízes: coração puro, boa consciência, fé sem fingimento. A curiosidade estéril e as discussões intermináveis afastam do essencial. A lei moral não é um peso para quem ama, mas freio para quem se fecha ao bem.",
+    "anagogico": "Cristo é chamado “nossa esperança”: a sã doutrina não é um fim em si, mas caminho para “o Evangelho da glória de Deus bem-aventurado”, a glória que esperamos contemplar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Paulo, Apóstolo de Jesus Cristo, por mandado de Deus nosso Salvador e de Jesus Cristo, nossa esperança, a Timóteo, amado filho na fé. O fim deste preceito é a caridade nascida de um coração puro, de uma boa consciência e de uma fé não fingida. Apartando-se alguns destas coisas, entregaram-se a discursos vãos. A lei é boa, contanto que se use dela legitimamente.",
+    "meditatio_perguntas": [
+      "O meu coração é puro, a minha consciência boa e a minha fé sincera?",
+      "Perco tempo em discussões estéreis que não edificam?",
+      "Cristo é, de facto, a minha esperança?"
+    ],
+    "oratio_guia": "Senhor Jesus, minha esperança, purifica o meu coração, endireita a minha consciência e torna sincera a minha fé, para que delas nasça a caridade. Livra-me das palavras vãs. Amém.",
+    "contemplatio_foco": {
+      "texto": "O fim deste preceito é a caridade nascida de um coração puro, de uma boa consciência e de uma fé não fingida.",
+      "ref": "1Tm 1,5"
+    }
+  },
+  "ancoras": {
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As cartas a Timóteo e a Tito são chamadas “pastorais”: tratam da organização das Igrejas e do ministério dos pastores.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

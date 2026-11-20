@@ -1,0 +1,150 @@
+{
+ "livro": "1TI",
+ "secoes": [
+  "A sã doutrina e a oração",
+  "Os ministérios na casa de Deus",
+  "O bom combate da fé"
+ ],
+ "pericopes": [
+  {
+   "id": "1TI.1.1",
+   "titulo": "O fim do preceito é a caridade",
+   "secao": "A sã doutrina e a oração",
+   "referencia": "1Tm 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "1TI.1.12",
+   "titulo": "Cristo veio salvar os pecadores",
+   "secao": "A sã doutrina e a oração",
+   "referencia": "1Tm 1,12-20",
+   "ini": {
+    "c": 1,
+    "v": 12
+   },
+   "fim": {
+    "c": 1,
+    "v": 20
+   }
+  },
+  {
+   "id": "1TI.2.1",
+   "titulo": "Um só mediador; a oração por todos os homens",
+   "secao": "A sã doutrina e a oração",
+   "referencia": "1Tm 2,1-15",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 15
+   }
+  },
+  {
+   "id": "1TI.3.1",
+   "titulo": "Os bispos e os diáconos",
+   "secao": "Os ministérios na casa de Deus",
+   "referencia": "1Tm 3,1-13",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 13
+   }
+  },
+  {
+   "id": "1TI.3.14",
+   "titulo": "A Igreja, coluna da verdade; o mistério da piedade",
+   "secao": "Os ministérios na casa de Deus",
+   "referencia": "1Tm 3,14–4,5",
+   "ini": {
+    "c": 3,
+    "v": 14
+   },
+   "fim": {
+    "c": 4,
+    "v": 5
+   }
+  },
+  {
+   "id": "1TI.4.6",
+   "titulo": "Exercita-te na piedade; não desprezes o dom",
+   "secao": "Os ministérios na casa de Deus",
+   "referencia": "1Tm 4,6-16",
+   "ini": {
+    "c": 4,
+    "v": 6
+   },
+   "fim": {
+    "c": 4,
+    "v": 16
+   }
+  },
+  {
+   "id": "1TI.5.1",
+   "titulo": "Os anciãos e as viúvas",
+   "secao": "Os ministérios na casa de Deus",
+   "referencia": "1Tm 5,1-16",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 16
+   }
+  },
+  {
+   "id": "1TI.5.17",
+   "titulo": "Os presbíteros e os escravos",
+   "secao": "Os ministérios na casa de Deus",
+   "referencia": "1Tm 5,17–6,2",
+   "ini": {
+    "c": 5,
+    "v": 17
+   },
+   "fim": {
+    "c": 6,
+    "v": 2
+   }
+  },
+  {
+   "id": "1TI.6.3",
+   "titulo": "A raiz de todos os males",
+   "secao": "O bom combate da fé",
+   "referencia": "1Tm 6,3-10",
+   "ini": {
+    "c": 6,
+    "v": 3
+   },
+   "fim": {
+    "c": 6,
+    "v": 10
+   }
+  },
+  {
+   "id": "1TI.6.11",
+   "titulo": "Combate o bom combate; guarda o depósito",
+   "secao": "O bom combate da fé",
+   "referencia": "1Tm 6,11-21",
+   "ini": {
+    "c": 6,
+    "v": 11
+   },
+   "fim": {
+    "c": 6,
+    "v": 21
+   }
+  }
+ ]
+}

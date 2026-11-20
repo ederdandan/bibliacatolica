@@ -1,0 +1,57 @@
+{
+  "id": "1TI.3.14",
+  "livro": "1TI",
+  "titulo": "A Igreja, coluna da verdade; o mistério da piedade",
+  "secao": "Os ministérios na casa de Deus",
+  "referencia": "1Tm 3,14–4,5",
+  "ini": {
+    "c": 3,
+    "v": 14
+  },
+  "fim": {
+    "c": 4,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "A Igreja, coluna e firmamento da verdade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo espera ir em breve, mas escreve para que, se tardar, Timóteo saiba como portar-se na casa de Deus, que é a Igreja do Deus vivo, coluna e sustentáculo da verdade. E proclama: é grande o mistério da piedade, Cristo, que se manifestou na carne, foi justificado no Espírito, contemplado pelos anjos, pregado aos pagãos, crido no mundo, exaltado na glória. O Espírito anuncia, porém, que nos últimos tempos alguns apostatarão, seguindo espíritos enganadores e doutrinas de demónios, de mentirosos hipócritas de consciência cauterizada, que proíbem o matrimónio e certos alimentos. Ora, tudo o que Deus criou é bom, e nada se deve rejeitar quando tomado com ação de graças, porque é santificado pela palavra de Deus e pela oração.",
+    "alegorico": "A Igreja é “casa de Deus” e “coluna da verdade”: nela se guarda e se proclama o mistério de Cristo. O hino cristológico, talvez cantado nas assembleias, percorre todo o mistério: Encarnação, Ressurreição, missão, glória. A ação de graças sobre os alimentos ecoa a Eucaristia, que santifica a criação.",
+    "moral": "Contra o desprezo da criação, Paulo afirma: tudo o que Deus criou é bom. O matrimónio e os alimentos são dons a receber com gratidão, não males a evitar. A ascese cristã não nasce do desprezo do mundo, mas do amor maior. E a fé pede pertença à Igreja, coluna que sustenta a verdade.",
+    "anagogico": "O hino termina em “exaltado na glória”: Cristo já entrou na glória que a Igreja espera partilhar. A casa de Deus na terra é sacramento da casa eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Para que saibas como deves portar-te na casa de Deus, que é a Igreja do Deus vivo, coluna e firmamento da verdade. É grande o mistério da piedade: foi manifestado na carne, justificado no Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, exaltado na glória. Tudo o que Deus criou é bom, e não é para desprezar nada do que se toma com ação de graças.",
+    "meditatio_perguntas": [
+      "Amo a Igreja como casa de Deus e coluna da verdade?",
+      "Contemplo o mistério de Cristo na sua grandeza?",
+      "Recebo as coisas criadas com ação de graças?"
+    ],
+    "oratio_guia": "Senhor Jesus, manifestado na carne e exaltado na glória, faz-me viver dignamente na tua casa, a Igreja do Deus vivo. Ensina-me a receber com gratidão tudo o que criaste e a santificá-lo pela tua palavra e pela oração. Amém.",
+    "contemplatio_foco": {
+      "texto": "a Igreja do Deus vivo, coluna e firmamento da verdade",
+      "ref": "1Tm 3,15"
+    }
+  },
+  "ancoras": {
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fragmento de hino cristão primitivo, em seis versos paralelos.",
+        "origem": "ia"
+      }
+    },
+    "4:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Visa correntes ascéticas de tipo gnóstico, que condenavam o matrimónio e certos alimentos como impuros.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

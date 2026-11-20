@@ -1,0 +1,49 @@
+{
+  "id": "1TI.4.6",
+  "livro": "1TI",
+  "titulo": "Exercita-te na piedade; não desprezes o dom",
+  "secao": "Os ministérios na casa de Deus",
+  "referencia": "1Tm 4,6-16",
+  "ini": {
+    "c": 4,
+    "v": 6
+  },
+  "fim": {
+    "c": 4,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Exercita-te na piedade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ensinando estas coisas aos irmãos, Timóteo será bom ministro de Cristo, nutrido pelas palavras da fé. Deve rejeitar as fábulas profanas e exercitar-se na piedade: o exercício corporal serve para pouco, mas a piedade serve para tudo, pois tem a promessa da vida presente e da futura. Se trabalhamos e combatemos, é porque esperamos no Deus vivo, Salvador de todos, principalmente dos fiéis. Ninguém despreze a sua juventude: seja modelo dos fiéis na palavra, no comportamento, na caridade, na fé, na castidade. Até Paulo chegar, aplique-se à leitura, à exortação e ao ensino. Não descuide o dom que recebeu pela imposição das mãos do presbitério. Medite estas coisas, viva nelas, para que o seu progresso seja visível; vigie a si mesmo e o ensino, e assim salvará a si e aos que o ouvem.",
+    "alegorico": "O “dom espiritual” dado pela imposição das mãos é a graça do sacramento da Ordem, que configura o ministro a Cristo Pastor. A leitura, a exortação e o ensino desenham a liturgia da Palavra, onde Cristo continua a falar à sua Igreja.",
+    "moral": "A piedade é um exercício, como o treino do atleta: exige constância, disciplina, meditação. O jovem não deve impor-se pela idade, mas pelo exemplo. O ministro, e todo cristão, deve vigiar primeiro sobre si mesmo: a fidelidade pessoal é condição para salvar os outros.",
+    "anagogico": "A piedade “tem a promessa da vida presente e da futura”: o exercício espiritual de hoje é treino para a vida eterna. A esperança no Deus vivo sustenta os trabalhos e combates do tempo presente."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Exercita-te na piedade. O exercício corporal para pouco serve, mas a piedade para tudo é útil, porque tem a promessa da vida presente e da futura. Sê modelo dos fiéis na palavra, na caridade, na fé, na castidade. Aplica-te à leitura, à exortação e ao ensino. Não desprezes o dom espiritual que há em ti. Vela por ti e pelo teu ensino; persevera nestas coisas.",
+    "meditatio_perguntas": [
+      "Dedico à minha vida espiritual o cuidado que dou a outras coisas?",
+      "Sou modelo para os outros na palavra, na caridade e na pureza?",
+      "Que dom de Deus em mim estou a descuidar?"
+    ],
+    "oratio_guia": "Deus vivo, Salvador de todos, ensina-me a exercitar-me na piedade com perseverança. Reaviva em mim o dom que me deste e faz-me modelo de fé e de caridade, para a minha salvação e a dos que me ouvem. Amém.",
+    "contemplatio_foco": {
+      "texto": "a piedade para tudo é útil, porque tem a promessa da vida presente e da futura",
+      "ref": "1Tm 4,8"
+    }
+  },
+  "ancoras": {
+    "4:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imposição das mãos pelo presbitério é rito de ordenação, já presente nos Atos (At 6,6; 13,3); cf. 2Tm 1,6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

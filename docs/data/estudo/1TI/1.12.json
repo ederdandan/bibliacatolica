@@ -1,0 +1,57 @@
+{
+  "id": "1TI.1.12",
+  "livro": "1TI",
+  "titulo": "Cristo veio salvar os pecadores",
+  "secao": "A sã doutrina e a oração",
+  "referencia": "1Tm 1,12-20",
+  "ini": {
+    "c": 1,
+    "v": 12
+  },
+  "fim": {
+    "c": 1,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Cristo veio salvar os pecadores, dos quais sou o primeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dá graças a Cristo, que lhe deu força e o julgou fiel, chamando-o ao ministério, a ele que antes era blasfemo, perseguidor e violento. Alcançou misericórdia porque agia por ignorância, na incredulidade, e a graça do Senhor superabundou com a fé e a caridade que há em Cristo. Proclama uma palavra segura e digna de toda aceitação: Cristo Jesus veio ao mundo para salvar os pecadores, dos quais ele é o primeiro. Alcançou misericórdia para que nele, o primeiro, Cristo mostrasse toda a sua paciência, como exemplo para os que hão de crer. Irrompe então em doxologia ao Rei dos séculos, imortal, invisível, único Deus. Por fim exorta Timóteo a combater o bom combate, conservando a fé e a boa consciência, que alguns rejeitaram, naufragando na fé.",
+    "alegorico": "Paulo convertido é o ícone da misericórdia: em quem foi o “primeiro” pecador, Cristo exibe toda a sua longanimidade. A Igreja vê nele o modelo de todo pecador alcançado pela graça, e no seu ministério a prova de que Deus escolhe os fracos.",
+    "moral": "A memória humilde do próprio pecado gera gratidão, não desânimo. Ninguém pode dizer-se excluído da misericórdia. E a fé precisa da boa consciência: quem a abandona arrisca o naufrágio. O ministério é dom imerecido, que se recebe com ação de graças.",
+    "anagogico": "A misericórdia recebida tem em vista “a vida eterna”. A doxologia ao Rei dos séculos, imortal e invisível, abre o horizonte da eternidade, onde o pecador perdoado cantará para sempre a paciência de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dou graças a Jesus Cristo Nosso Senhor, porque me julgou fiel, pondo-me no ministério, a mim que fui antes blasfemo e perseguidor. A graça de Nosso Senhor superabundou. Palavra segura e digna de toda aceitação: Jesus Cristo veio a este mundo salvar os pecadores, dos quais sou o primeiro. Ao rei dos séculos imortal, invisível, ao Deus único, honra e glória pelos séculos dos séculos.",
+    "meditatio_perguntas": [
+      "Reconheço-me como pecador alcançado pela misericórdia?",
+      "Agradeço a Deus o ministério ou serviço que me confiou?",
+      "Que naufrágio na fé preciso de evitar, guardando a boa consciência?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vieste salvar os pecadores, dos quais sou o primeiro, obrigado pela tua paciência comigo. Que a tua graça superabunde em mim. Ao Rei dos séculos, imortal, invisível, honra e glória para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jesus Cristo veio a este mundo salvar os pecadores, dos quais sou o primeiro.",
+      "ref": "1Tm 1,15"
+    }
+  },
+  "ancoras": {
+    "1:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Palavra segura” é fórmula própria das cartas pastorais (cf. 3,1; 4,9; 2Tm 2,11; Tt 3,8), que introduz ou confirma uma sentença da fé.",
+        "origem": "ia"
+      }
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Entregar a Satanás” designa a excomunhão, com fim medicinal: “para que aprendam” (cf. 1Cor 5,5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1TI.6.3",
+  "livro": "1TI",
+  "titulo": "A raiz de todos os males",
+  "secao": "O bom combate da fé",
+  "referencia": "1Tm 6,3-10",
+  "ini": {
+    "c": 6,
+    "v": 3
+  },
+  "fim": {
+    "c": 6,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "O amor ao dinheiro, raiz de todos os males",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quem ensina outra coisa e não se atém às sãs palavras de Nosso Senhor Jesus Cristo é orgulhoso e ignorante, doente de discussões e disputas de palavras, de onde nascem invejas, contendas, injúrias e suspeitas; são homens de espírito corrompido, que pensam que a piedade é fonte de lucro. Na verdade, a piedade é grande lucro quando acompanhada de contentamento: nada trouxemos para o mundo e nada dele podemos levar. Tendo alimento e roupa, contentemo-nos. Os que querem enriquecer caem na tentação, no laço e em muitos desejos insensatos e nocivos, que precipitam os homens na ruína e na perdição. Porque a raiz de todos os males é o amor ao dinheiro; por ele, alguns se desviaram da fé e se atormentaram com muitas dores.",
+    "alegorico": "O verdadeiro “lucro” é Cristo, a pérola de grande valor. Quem faz da religião negócio repete o gesto de Judas, que vendeu o Senhor; quem se contenta com o necessário imita a pobreza do Filho, que nada trouxe e nada levou senão o seu amor.",
+    "moral": "A ganância não é um pecado entre outros: é raiz de muitos males, e pode desviar da fé. O contentamento com o necessário liberta do laço do “querer enriquecer”. O texto desmascara também a religião interesseira, usada para ganhar dinheiro ou prestígio.",
+    "anagogico": "“Não podemos levar nada” deste mundo: diante da morte, só resta o que foi dado a Deus e aos irmãos. A verdadeira riqueza é a que se acumula para a eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A piedade é uma grande fonte de lucro, tornando-nos contentes com o que basta. Como nada trouxemos para este mundo, também não podemos levar nada dele. Tendo os alimentos e com que nos cobrir, contentemo-nos com isto. Os que querem enriquecer caem na tentação e no laço. A raiz de todos os males é o amor ao dinheiro.",
+    "meditatio_perguntas": [
+      "Contento-me com o necessário, ou vivo sempre a querer mais?",
+      "O dinheiro tem demasiado poder sobre as minhas decisões?",
+      "Uso a fé, de algum modo, em proveito próprio?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste pobre por mim, livra-me do amor ao dinheiro e do laço do “querer enriquecer”. Ensina-me a contentar-me com o necessário e a fazer de ti o meu único tesouro. Amém.",
+    "contemplatio_foco": {
+      "texto": "a raiz de todos os males é o amor ao dinheiro",
+      "ref": "1Tm 6,10"
+    }
+  },
+  "ancoras": {
+    "6:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jó 1,21: “Nu saí do ventre de minha mãe e nu tornarei para lá.”",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

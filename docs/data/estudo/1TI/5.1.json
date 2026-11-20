@@ -1,0 +1,49 @@
+{
+  "id": "1TI.5.1",
+  "livro": "1TI",
+  "titulo": "Os anciãos e as viúvas",
+  "secao": "Os ministérios na casa de Deus",
+  "referencia": "1Tm 5,1-16",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A Igreja como família: anciãos e viúvas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Timóteo deve tratar os fiéis como família: o ancião, exortá-lo como a um pai; os jovens, como irmãos; as mulheres idosas, como mães; as jovens, como irmãs, com toda a pureza. Honre as viúvas que são verdadeiramente viúvas. As que têm filhos ou netos, sejam sustentadas por eles, pois é justo retribuir aos pais; quem não cuida dos seus, sobretudo dos da sua casa, negou a fé e é pior que um infiel. A verdadeira viúva, sozinha, põe a esperança em Deus e persevera na oração noite e dia; mas a que vive nos prazeres está morta enquanto vive. Só se inscreva no grupo das viúvas a que tenha sessenta anos, casada uma só vez, conhecida pelas boas obras: educou os filhos, foi hospitaleira, lavou os pés dos santos, socorreu os atribulados. As mais jovens casem-se e cuidem da casa.",
+    "alegorico": "A Igreja é a família de Deus, onde as relações naturais se tornam relações na graça: pais, mães, irmãos e irmãs em Cristo. O grupo das viúvas que oram dia e noite, como Ana no Templo, prefigura as formas de vida consagrada à oração e ao serviço.",
+    "moral": "A caridade começa em casa: cuidar dos pais idosos é dever de piedade, e a fé que o ignora é desmentida pelas obras. A correção dos mais velhos deve ser respeitosa, e a dos jovens, fraterna. A viuvez pode tornar-se vocação de oração e serviço, ou desperdício numa vida de prazeres vazios.",
+    "anagogico": "A viúva que “confia em Deus e persevera em suplicar” vive já da esperança, voltada para o Esposo que vem. A que vive nos deleites, pelo contrário, “está morta”: a verdadeira vida é a que se orienta para Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não repreendas com aspereza o velho, mas exorta-o como a um pai; os jovens, como a irmãos; as velhas, como a mães; as jovens, como a irmãs. Aquela que é verdadeiramente viúva e desamparada, confie em Deus e persevere em suplicar e orar, de noite e de dia. Se alguém não tem cuidado dos seus, e principalmente dos da sua casa, negou a fé.",
+    "meditatio_perguntas": [
+      "Trato os irmãos na fé como verdadeira família?",
+      "Cuido dos meus pais e familiares mais necessitados?",
+      "Confio em Deus e persevero na oração nos momentos de solidão?"
+    ],
+    "oratio_guia": "Pai de todos, que fizeste da Igreja a tua família, ensina-me a tratar cada irmão como pai, mãe, irmão ou irmã. Dá-me cuidar dos que são da minha casa e confiar em ti nos dias de solidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "confie em Deus e persevere em suplicar e orar, de noite e de dia",
+      "ref": "1Tm 5,5"
+    }
+  },
+  "ancoras": {
+    "5:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “grupo das viúvas” era uma ordem reconhecida na Igreja antiga, com compromisso de oração e serviço, sustentada pela comunidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
