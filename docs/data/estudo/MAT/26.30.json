@@ -1,0 +1,61 @@
+{
+  "id": "MAT.26.30",
+  "livro": "MAT",
+  "titulo": "O anúncio da negação de Pedro",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 26,30-35",
+  "ini": { "c": 26, "v": 30 },
+  "fim": { "c": 26, "v": 35 },
+  "liturgia": { "tema_central": "“Ferirei o pastor, e as ovelhas serão dispersas”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois de cantarem o hino (os Salmos 113–118, o Hallel que encerrava a ceia pascal), saem para o monte das Oliveiras. Jesus anuncia que todos se escandalizarão nessa noite, citando Zc 13,7: “Ferirei o pastor, e as ovelhas do rebanho serão dispersas”; mas, depois de ressuscitar, irá adiante deles para a Galileia. Pedro protesta que nunca se escandalizará, ainda que todos o façam. Jesus responde que, nessa mesma noite, antes que o galo cante, o negará três vezes. Pedro insiste que morreria com Ele, e todos dizem o mesmo.",
+    "alegorico": "Cristo é o Bom Pastor ferido pelo desígnio do Pai para a salvação do rebanho; a dispersão das ovelhas termina com o reencontro na Galileia, depois da Ressurreição. O canto do hino mostra que Cristo vai à Paixão em ação de graças, como sacrifício voluntário.",
+    "moral": "Pedro confia no seu fervor e esquece a fraqueza da carne e a verdade da palavra do Senhor. Quanto mais confiantes estamos em nós mesmos, mais devemos desconfiar. Jesus prediz a queda para que, depois dela, os discípulos não desesperem, mas façam penitência. A promessa “irei adiante de vós” é já uma oferta de perdão.",
+    "anagogico": "O Pastor ressuscitado reúne o rebanho disperso. Os que fugiram de medo tornaram-se, depois da Cruz, mais firmes que o diamante: a graça transforma a fraqueza em fortaleza."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Depois de cantarem o hino, saíram para o monte das Oliveiras. Jesus disse-lhes: “Todos vós vos escandalizareis por minha causa esta noite, porque está escrito: Ferirei o pastor, e as ovelhas do rebanho serão dispersas. Mas, depois que eu ressuscitar, irei adiante de vós para a Galileia”. Pedro respondeu: “Ainda que todos se escandalizem por tua causa, eu nunca me escandalizarei”. Jesus disse-lhe: “Em verdade te digo que esta noite, antes que o galo cante, me negarás três vezes”. Pedro disse: “Ainda que seja necessário morrer contigo, não te negarei”. E o mesmo disseram todos os discípulos.",
+    "meditatio_perguntas": [
+      "Confio mais no meu fervor do que na graça de Deus?",
+      "Conheço a minha fraqueza, ou presumo de mim?",
+      "Acredito que Jesus vai “adiante de mim” mesmo depois das minhas quedas?"
+    ],
+    "oratio_guia": "Senhor Jesus, Pastor ferido por nós, conheces a minha fraqueza melhor do que eu. Livra-me da presunção e sustenta-me com a tua graça. E, se eu cair, que eu encontre o teu perdão, pois tu vais adiante de mim. Amém.",
+    "contemplatio_foco": { "texto": "Depois que eu ressuscitar, irei adiante de vós para a Galileia.", "ref": "Mt 26,32" }
+  },
+  "ancoras": {
+    "26:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:30–35#4", "sintese": "Quem se saciou com o pão e o cálice de Cristo pode louvar a Deus e subir ao monte das Oliveiras." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "26:30–35#5", "sintese": "Os confirmados pelos mistérios divinos são elevados à glória celeste num júbilo comum." }
+      ],
+      "nota": { "texto": "O “hino” é provavelmente a segunda parte do Hallel (Sl 115–118), cantada no fim da ceia pascal.", "origem": "ia" }
+    },
+    "26:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:30–35#7", "sintese": "Prediz o que haviam de padecer para que, depois, não desesperassem, mas fizessem penitência." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:30–35#8", "sintese": "Os que fugiram durante a crucifixão tornaram-se, depois da morte de Cristo, mais firmes que o diamante." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:30–35#12", "sintese": "Cita a profecia para mostrar que a crucifixão estava conforme ao desígnio de Deus." }
+      ],
+      "nota": null
+    },
+    "26:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "26:30–35#14", "sintese": "Pedro, levado pelo zelo e pelo afeto, não considerou a fraqueza da carne nem a verdade das palavras do Senhor." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "26:30–35#16", "sintese": "Não é obstinação nem falsidade, mas a fé do Apóstolo e o seu ardente afeto ao Senhor." }
+      ],
+      "nota": null
+    },
+    "26:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "26:30–35#22", "sintese": "Caiu por ambição: tinham disputado quem seria o maior; depois da queda, falará com Cristo mais humildemente." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
