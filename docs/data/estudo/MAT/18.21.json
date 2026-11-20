@@ -1,0 +1,89 @@
+{
+  "id": "MAT.18.21",
+  "livro": "MAT",
+  "titulo": "O perdão e o servo sem compaixão",
+  "secao": "O discurso sobre a Igreja",
+  "referencia": "Mt 18,21-35",
+  "ini": { "c": 18, "v": 21 },
+  "fim": { "c": 18, "v": 35 },
+  "liturgia": { "tema_central": "Perdoar setenta vezes sete, de coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Pedro pergunta se deve perdoar até sete vezes (já mais que o costume rabínico, que falava de três). Jesus responde: até setenta vezes sete, isto é, sempre. Segue a parábola: um rei perdoa a um servo uma dívida de dez mil talentos (soma astronômica, equivalente a dezenas de milhões de dias de salário, impagável). O mesmo servo, ao sair, sufoca um companheiro que lhe devia cem denários (cerca de cem dias de trabalho) e o põe na prisão. O rei, informado, chama-o “servo mau”, revoga o perdão e o entrega aos carrascos até pagar tudo. Assim fará o Pai a quem não perdoar de coração ao irmão.",
+    "alegorico": "O rei é Deus, que perdoa a dívida infinita do pecado; os dez mil talentos são todos os pecados contra a Lei de Deus, os cem denários, as ofensas entre os homens. A desproporção entre as dívidas mostra a distância entre a ofensa a Deus e a ofensa ao próximo. Os companheiros que relatam o caso figuram a Igreja.",
+    "moral": "O perdão recebido obriga a perdoar: quem foi perdoado de tanto não pode exigir o pouco. O perdão deve ser sem medida e “de coração”, excluindo toda reconciliação fingida. Deus perdoa primeiro; se não perdoarmos, exigirá de novo o que nos perdoou. É o que rezamos no Pai-Nosso: “perdoai-nos as nossas dívidas, assim como nós perdoamos”.",
+    "anagogico": "A parábola aponta para o juízo final: a medida da misericórdia que usamos será a que se usará conosco. Quem não perdoa exclui-se da misericórdia eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro perguntou: “Senhor, quantas vezes devo perdoar a meu irmão, quando pecar contra mim? Até sete vezes?” Jesus respondeu: “Não te digo até sete vezes, mas até setenta vezes sete”. E contou: um rei perdoou a um servo uma dívida de dez mil talentos. Saindo, o servo encontrou um companheiro que lhe devia cem denários, agarrou-o e sufocava-o: “Paga o que deves!” E mandou-o para a prisão. O rei chamou-o: “Servo mau, perdoei-te toda a dívida porque me pediste; não devias também tu compadecer-te do teu companheiro, como eu me compadeci de ti?” “Assim também vos fará meu Pai celeste, se cada um não perdoar de coração a seu irmão.”",
+    "meditatio_perguntas": [
+      "Tenho consciência da imensa dívida que Deus me perdoou?",
+      "Há alguém a quem ainda “sufoco” com cobranças e ressentimento?",
+      "O meu perdão é de coração, ou só de aparência?"
+    ],
+    "oratio_guia": "Pai de misericórdia, que me perdoaste uma dívida que eu nunca poderia pagar, dá-me um coração que perdoe sem medida. Arranca de mim o ressentimento e ensina-me a perdoar como tu me perdoas. Amém.",
+    "contemplatio_foco": { "texto": "Não te digo até sete vezes, mas até setenta vezes sete.", "ref": "Mt 18,22" }
+  },
+  "ancoras": {
+    "18:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:21–22#3", "sintese": "Não fixa um número determinado, mas significa algo infinito e perpétuo." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 83, 3", "catena": "18:21–22#2", "sintese": "Se Cristo encontrou mil pecados e os perdoou todos, não negues tu o teu perdão." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "18:21–22#4", "sintese": "Dez é a Lei, onze o pecado que a ultrapassa, sete a totalidade: quis que se perdoassem todas as ofensas." }
+      ],
+      "nota": null
+    },
+    "18:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "18:23–35#1", "sintese": "É costume dos sírios juntar parábolas, para que o que não se retém por preceito se retenha pelo exemplo." }
+      ],
+      "nota": null
+    },
+    "18:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 83, 6", "catena": "18:23–35#8", "sintese": "Como a Lei tem dez preceitos, os dez mil talentos significam todos os pecados contra a Lei." }
+      ],
+      "nota": { "texto": "Um talento equivalia a cerca de seis mil denários, e um denário era o salário de um dia de trabalho. Dez mil talentos eram uma soma impagável; cem denários, uma dívida modesta.", "origem": "ia" }
+    },
+    "18:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:23–35#11", "sintese": "A ordem não vinha da crueldade, mas de inefável ternura: com o temor, queria levá-lo a suplicar." }
+      ],
+      "nota": null
+    },
+    "18:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:23–35#13", "sintese": "Superabundância do amor celeste: pediu só um prazo e recebeu o perdão de toda a dívida." }
+      ],
+      "nota": null
+    },
+    "18:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:23–35#15", "sintese": "Entre os pecados contra os homens e contra Deus há tanta diferença como entre cem denários e dez mil talentos, e ainda maior." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:23–35#21", "sintese": "“Saindo”: logo, quando o benefício ainda lhe soava aos ouvidos, abusou da liberdade recebida." }
+      ],
+      "nota": null
+    },
+    "18:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "18:23–35#28", "sintese": "Quando devia dez mil talentos, não o chamou mau; agora, porque não se compadeceu do conservo, chama-o “servo mau”." }
+      ],
+      "nota": null
+    },
+    "18:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 83, 7", "catena": "18:23–35#33", "sintese": "Eu perdoei primeiro; perdoa tu depois de mim; se não perdoares, exigirei de novo tudo o que te perdoei." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "18:23–35#34", "sintese": "Acrescenta “de coração” para excluir toda reconciliação fingida." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
