@@ -1,0 +1,44 @@
+{
+  "id": "MAT.8.1",
+  "livro": "MAT",
+  "titulo": "A cura de um leproso",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,1-4",
+  "ini": { "c": 8, "v": 1 },
+  "fim": { "c": 8, "v": 4 },
+  "liturgia": { "tema_central": "“Senhor, se queres, podes curar-me”: “Quero, sê curado”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois do Sermão (a palavra), Mateus reúne nos capítulos 8–9 dez milagres (as obras): Jesus é Messias em palavras e em obras. O primeiro é a cura de um leproso. A lepra tornava a pessoa ritualmente impura e excluída da comunidade (Lv 13,45-46); tocá-la tornava impuro. Jesus toca o leproso e, em vez de ficar impuro, o purifica. Manda-o ao sacerdote, a quem a Lei atribuía constatar a cura e receber a oferta (Lv 14), “em testemunho”: Jesus respeita a Lei, e a cura atesta diante dos sacerdotes quem Ele é. O silêncio pedido evita um entusiasmo messiânico mal entendido.",
+    "alegorico": "A lepra é figura do pecado, que desfigura e separa de Deus e da comunidade. Cristo, tocando a nossa natureza na Encarnação, purifica-a sem se contaminar. O envio ao sacerdote foi lido pelos Padres como figura do sacramento da Penitência, no qual a Igreja reconhece e celebra a purificação do pecador.",
+    "moral": "A oração do leproso é modelo: humilde (prostra-se), confiante (“podes”) e entregue à vontade de Deus (“se queres”). Não pede imperiosamente; deixa tudo a Ele. Jesus não teme tocar os marginalizados: o cristão deve aproximar-se dos excluídos.",
+    "anagogico": "A purificação do leproso anuncia a restauração completa da carne na ressurreição, quando nenhuma impureza ou doença permanecerá, e o homem será reintegrado na comunhão plena com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando Jesus desceu do monte, uma grande multidão o seguiu. Um leproso aproximou-se, prostrou-se e disse: “Senhor, se queres, podes curar-me”. Jesus estendeu a mão, tocou-o e disse: “Quero, sê curado”. E no mesmo instante ficou curado da lepra. Jesus disse-lhe: “Não o digas a ninguém, mas vai mostrar-te ao sacerdote e faz a oferta que Moisés ordenou, para lhes servir de testemunho”.",
+    "meditatio_perguntas": [
+      "Que “lepra” do meu coração preciso apresentar ao Senhor?",
+      "Rezo com a confiança e a entrega do leproso: “se queres, podes”?",
+      "Quem são os “intocáveis” de hoje de quem devo aproximar-me?"
+    ],
+    "oratio_guia": "Senhor Jesus, prostrado diante de ti eu digo: se queres, podes curar-me. Estende a tua mão e toca as feridas da minha alma. Purifica-me do pecado e reintegra-me na comunhão contigo e com os irmãos. Amém.",
+    "contemplatio_foco": { "texto": "Quero, sê curado.", "ref": "Mt 8,3" }
+  },
+  "ancoras": {
+    "8:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:1–4#8", "sintese": "Não disse “se pedires a Deus”, mas “se queres”; nem “purifica-me”, mas deixou tudo a Ele, reconhecendo-o Senhor com poder sobre tudo." }
+      ],
+      "nota": { "texto": "A Lei mandava ao leproso viver à parte, com as vestes rasgadas, gritando “Impuro!” (Lv 13,45-46).", "origem": "ia" }
+    },
+    "8:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:1–4#10", "sintese": "Podia purificá-lo com uma palavra, mas tocou-o para mostrar que não estava sujeito à Lei e que para o puro nada é impuro." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:1–4#13", "sintese": "Ninguém o acusa por ter tocado o leproso, porque os ouvintes ainda não estavam possuídos de inveja." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

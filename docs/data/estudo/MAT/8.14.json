@@ -1,0 +1,57 @@
+{
+  "id": "MAT.8.14",
+  "livro": "MAT",
+  "titulo": "A sogra de Pedro e muitos doentes",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,14-17",
+  "ini": { "c": 8, "v": 14 },
+  "fim": { "c": 8, "v": 17 },
+  "liturgia": { "tema_central": "Ele tomou as nossas fraquezas e carregou as nossas enfermidades", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na casa de Pedro em Cafarnaum, Jesus toma pela mão a sogra dele, que estava com febre; ela se levanta e põe-se a servi-los. À tarde (terminado o sábado, segundo Marcos), trazem-lhe muitos endemoninhados e doentes, e Ele cura a todos “com a sua palavra”. Mateus vê aqui o cumprimento de Is 53,4, o canto do Servo sofredor: “Ele tomou as nossas fraquezas e carregou as nossas doenças”.",
+    "alegorico": "Cristo é o Servo de Isaías, que carrega em si as nossas enfermidades e, por fim, os nossos pecados na Cruz. A sogra de Pedro, levantada pela mão de Jesus, é figura da humanidade erguida (o mesmo verbo da ressurreição) para servir. A casa de Pedro prefigura a Igreja, onde Cristo cura e é servido.",
+    "moral": "A resposta a quem foi curado é o serviço: ela “levantou-se e servia-os”, sinal do poder do Senhor e do seu afeto por Cristo. Jesus não se cansa da multidão que chega à tarde. As doenças do corpo, muitas vezes ligadas às da alma, nos convidam a buscar no Senhor a cura integral.",
+    "anagogico": "As curas são primícias do Reino em que Deus enxugará toda lágrima e não haverá mais doença (Ap 21,4). O Servo que carregou as nossas fraquezas nos conduz à ressurreição gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus entrou na casa de Pedro e viu a sogra dele de cama, com febre. Tocou-lhe a mão, e a febre a deixou; ela se levantou e pôs-se a servi-lo. À tarde, trouxeram-lhe muitos endemoninhados; Ele expulsou os espíritos com a sua palavra e curou todos os doentes, para se cumprir o que fora dito pelo profeta Isaías: “Ele tomou as nossas fraquezas e carregou as nossas enfermidades”.",
+    "meditatio_perguntas": [
+      "Que “febre” me prende ao leito e me impede de servir?",
+      "Depois de receber as graças do Senhor, eu me levanto para servir?",
+      "Entrego a Jesus as fraquezas e enfermidades dos que amo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Servo que carregaste as nossas enfermidades, toma-me pela mão e levanta-me. Cura as minhas fraquezas do corpo e da alma, para que eu possa servir-te nos irmãos. Amém.",
+    "contemplatio_foco": { "texto": "Ele mesmo tomou as nossas fraquezas, e carregou com as nossas enfermidades.", "ref": "Mt 8,17" }
+  },
+  "ancoras": {
+    "8:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 27", "catena": "8:14–15#0", "sintese": "Entrou na casa de Pedro, penso eu, para tomar alimento; morava com os discípulos para honrá-los e torná-los mais zelosos." }
+      ],
+      "nota": null
+    },
+    "8:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:14–15#3", "sintese": "“Levantou-se e servia-os” mostra ao mesmo tempo o poder do Senhor e o afeto da mulher para com Cristo." }
+      ],
+      "nota": null
+    },
+    "8:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:16–17#3", "sintese": "Não refere cada caso, mas apresenta numa só palavra um mar inumerável de milagres." }
+      ],
+      "nota": null
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:16–17#7", "sintese": "O Profeta parece falar dos pecados; o evangelista aplica-o às doenças, porque a maior parte das doenças corporais tem origem nos pecados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

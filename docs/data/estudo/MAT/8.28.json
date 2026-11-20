@@ -1,0 +1,67 @@
+{
+  "id": "MAT.8.28",
+  "livro": "MAT",
+  "titulo": "Os endemoninhados de Gadara",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,28-34",
+  "ini": { "c": 8, "v": 28 },
+  "fim": { "c": 8, "v": 34 },
+  "liturgia": { "tema_central": "O Filho de Deus vence o poder dos demônios", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na outra margem, em território pagão da Decápole (Gadara era uma das cidades), Jesus encontra dois endemoninhados que vivem nos sepulcros, lugares impuros. Mateus fala de dois; Marcos e Lucas, de um, talvez o mais notável. Os demônios reconhecem Jesus como “Filho de Deus” e sabem que a sua hora de condenação virá (“antes do tempo”). Pedem para entrar nos porcos, animais impuros para os judeus, criados ali por pagãos; a vara se precipita no mar. Os habitantes, mais preocupados com a perda dos porcos que com a libertação dos homens, pedem a Jesus que se retire.",
+    "alegorico": "Os dois endemoninhados, fora da cidade e entre os sepulcros, foram vistos como figura dos povos pagãos dominados pelo demônio, e libertados por Cristo. O mar que engole os porcos lembra o abismo para onde o mal é lançado. A cidade que pede a Jesus que se retire é figura dos que preferem os bens materiais à salvação.",
+    "moral": "Os demônios nada podem sem a permissão de Deus, pois por si mesmos nada podem. A presença do Salvador é o tormento dos demônios. É possível preferir os porcos a Cristo, isto é, os interesses materiais à libertação do irmão. Mas o pedido de Jesus se retirar pode nascer também do sentimento de indignidade.",
+    "anagogico": "“Antes do tempo”: os demônios sabem que haverá um tempo, o Juízo final, em que serão definitivamente atormentados. Cada exorcismo de Jesus antecipa a vitória total sobre Satanás no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando Jesus chegou à outra margem, à região dos gadarenos, vieram ao seu encontro dois endemoninhados que saíam dos sepulcros, tão furiosos que ninguém podia passar por aquele caminho. Gritaram: “Que temos nós contigo, Filho de Deus? Vieste aqui atormentar-nos antes do tempo?” Os demônios suplicaram: “Se nos expulsas, manda-nos para aquela vara de porcos”. Ele disse: “Ide”. E a vara inteira se precipitou no mar. Toda a cidade saiu ao encontro de Jesus e pediu-lhe que se retirasse do seu território.",
+    "meditatio_perguntas": [
+      "Que “sepulcros” habitam em mim e precisam da libertação de Cristo?",
+      "Preferiria alguma vez os meus “porcos” à presença de Jesus?",
+      "Confio no poder de Cristo sobre todo o mal?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Deus, diante de quem os demônios tremem, liberta-me de tudo o que me escraviza. Não permitas que eu prefira os meus interesses à tua presença. Fica no meu território, Senhor. Amém.",
+    "contemplatio_foco": { "texto": "Que tens tu connosco, Filho de Deus?", "ref": "Mt 8,29" }
+  },
+  "ancoras": {
+    "8:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:28–34#0", "sintese": "Como havia quem pensasse que Cristo era só homem, vieram os demônios proclamar a sua divindade." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:28–34#3", "sintese": "Lucas e Marcos quiseram falar daquele que estava mais gravemente atormentado, e por isso o descrevem com mais pormenor." }
+      ],
+      "nota": null
+    },
+    "8:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:28–34#11", "sintese": "A presença do Salvador é o tormento dos demônios." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:28–34#9", "sintese": "Para que não parecesse lisonja, gritam o que estavam experimentando: vieste atormentar-nos antes do tempo?" }
+      ],
+      "nota": null
+    },
+    "8:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 2, 10", "catena": "8:28–34#14", "sintese": "O diabo sabe que por si mesmo nada pode fazer, porque não subsiste por si mesmo como espírito." }
+      ],
+      "nota": null
+    },
+    "8:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:28–34#17", "sintese": "Mandou-os ir não para ceder ao pedido, mas para que, pela morte dos porcos, se oferecesse aos homens ocasião de salvação." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:28–34#18", "sintese": "Os demônios destruíram os porcos porque se alegram com a destruição; e o prejuízo aumentou a fama do que se fez." }
+      ],
+      "nota": null
+    },
+    "8:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:28–34#19", "sintese": "O pedido pode ter nascido da humildade ou da soberba; como Pedro, podem ter-se julgado indignos da presença do Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

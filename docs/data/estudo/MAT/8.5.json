@@ -1,0 +1,51 @@
+{
+  "id": "MAT.8.5",
+  "livro": "MAT",
+  "titulo": "O servo do centurião",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,5-13",
+  "ini": { "c": 8, "v": 5 },
+  "fim": { "c": 8, "v": 13 },
+  "liturgia": { "tema_central": "“Senhor, eu não sou digno”: a fé do pagão admirada por Jesus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em Cafarnaum, um centurião (oficial que comandava cerca de cem soldados, provavelmente a serviço de Herodes Antipas) pede por seu servo paralítico. Jesus se oferece para ir, mas o centurião, pagão, sabe que um judeu se tornaria impuro ao entrar na casa de um gentio e, sobretudo, reconhece a autoridade de Jesus: assim como ele dá ordens que são obedecidas, basta uma palavra de Jesus. Jesus admira-se dessa fé, maior que a de Israel, e anuncia que muitos virão do Oriente e do Ocidente para o banquete do Reino com os patriarcas, enquanto “os filhos do Reino” que o recusam serão excluídos.",
+    "alegorico": "O centurião representa os pagãos que acolherão o Evangelho; o banquete com Abraão, Isaac e Jacó é o banquete messiânico, figurado na Eucaristia. A Igreja repete as palavras do centurião antes da Comunhão: “Senhor, eu não sou digno…”. A cura à distância mostra o poder da Palavra de Cristo, que age onde Ele não está visivelmente presente.",
+    "moral": "Humildade e fé andam juntas: quanto mais o centurião se julga indigno, mais digno se torna. Ele intercede por um servo, e não por um filho: a caridade que se ocupa dos mais pequenos. A pertença exterior ao povo de Deus não garante a salvação sem a fé.",
+    "anagogico": "“Muitos virão do Oriente e do Ocidente”: a visão do banquete escatológico universal (Is 25,6), onde os povos se sentarão à mesa com os patriarcas. As “trevas exteriores” e o “ranger de dentes” indicam a exclusão definitiva de quem recusa o convite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em Cafarnaum, um centurião suplicou a Jesus: “Senhor, o meu servo está em casa paralítico e sofre muito”. Jesus disse: “Eu irei curá-lo”. O centurião respondeu: “Senhor, eu não sou digno de que entres em minha casa; dize uma só palavra, e o meu servo será curado”. Jesus admirou-se e disse: “Em verdade vos digo: não encontrei tanta fé em Israel. Muitos virão do Oriente e do Ocidente e se sentarão à mesa com Abraão, Isaac e Jacó no Reino dos Céus”. E ao centurião: “Vai, seja feito conforme creste”. Naquela hora o servo ficou curado.",
+    "meditatio_perguntas": [
+      "Rezo antes da Comunhão as palavras do centurião com a sua humildade e fé?",
+      "Por quem intercedo, mesmo que não seja da minha família?",
+      "Confio no poder da Palavra de Jesus, mesmo quando não vejo?"
+    ],
+    "oratio_guia": "Senhor, eu não sou digno de que entres em minha morada, mas dize uma só palavra e serei salvo. Dá-me a fé humilde do centurião. Que eu interceda pelos que sofrem e me sente um dia à tua mesa no Reino. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, eu não sou digno que entres na minha casa; diz, porém, uma só palavra.", "ref": "Mt 8,8" }
+  },
+  "ancoras": {
+    "8:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 26", "catena": "8:5–9#5", "sintese": "Alguns pensam que se desculpa por não trazer o doente; prefiro ver aí um sinal da sua grande fé: sabia que bastava uma palavra." }
+      ],
+      "nota": null
+    },
+    "8:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:5–9#9", "sintese": "Jesus faz o que nunca fazia: adianta-se e promete ir à casa, para aprendermos o mérito do centurião." }
+      ],
+      "nota": null
+    },
+    "8:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:10–13#3", "sintese": "Admirou-se diante de todo o povo para dar-lhes exemplo, para que também eles se admirassem." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:10–13#9", "sintese": "Uma coisa é crer um judeu, outra crer um gentio." }
+      ],
+      "nota": { "texto": "A liturgia da Missa retoma estas palavras antes da Comunhão: “Senhor, eu não sou digno de que entreis em minha morada…”.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

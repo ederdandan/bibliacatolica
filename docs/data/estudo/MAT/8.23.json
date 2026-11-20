@@ -1,0 +1,59 @@
+{
+  "id": "MAT.8.23",
+  "livro": "MAT",
+  "titulo": "Jesus acalma a tempestade",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,23-27",
+  "ini": { "c": 8, "v": 23 },
+  "fim": { "c": 8, "v": 27 },
+  "liturgia": { "tema_central": "“Senhor, salva-nos!”: até os ventos e o mar lhe obedecem", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "O lago de Genesaré, cercado de montes, está sujeito a ventos súbitos e violentos. Os discípulos, alguns deles pescadores experientes, temem morrer, enquanto Jesus dorme. O grito “Senhor, salva-nos, que perecemos!” é já uma oração. Jesus repreende primeiro a pouca fé dos discípulos e depois os ventos e o mar; segue-se uma “grande bonança”. A pergunta final, “Quem é este?”, abre a questão da identidade de Jesus: no Antigo Testamento, só Deus domina o mar (Sl 89,10; Sl 107,29).",
+    "alegorico": "A barca é a Igreja, sacudida pelas tempestades das perseguições e das heresias; Cristo parece dormir, mas está presente e é o Senhor do mar. O sono de Jesus prefigura o seu repouso no sepulcro, de onde se levanta vencedor. “Senhor, salva-nos” tornou-se a oração da Igreja em todas as provações.",
+    "moral": "Cristo parece dormir em nós quando a nossa fé adormece; as provações nos despertam para recorrer a Ele. Os discípulos sabiam que Ele, acordado, podia acalmar o mar, mas não que podia fazê-lo dormindo: a fé deve crescer até confiar nele mesmo no seu aparente silêncio. O medo é sinal de pouca fé.",
+    "anagogico": "A bonança completa, sem vestígio da tempestade, é imagem da paz final do Reino, quando o mar (símbolo do mal) já não existirá (Ap 21,1), e a barca da Igreja chegará ao porto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus subiu à barca, e os discípulos o seguiram. De repente levantou-se no mar uma grande tempestade, a ponto de as ondas cobrirem a barca; Ele, porém, dormia. Os discípulos o acordaram, dizendo: “Senhor, salva-nos, que perecemos!” Jesus respondeu: “Por que temeis, homens de pouca fé?” Então, levantando-se, repreendeu os ventos e o mar, e fez-se grande bonança. Admirados, diziam: “Quem é este, a quem até os ventos e o mar obedecem?”",
+    "meditatio_perguntas": [
+      "Que tempestade agita hoje a minha barca?",
+      "Quando Jesus parece “dormir”, continuo a confiar?",
+      "A pergunta “Quem é este?” me faz crescer no conhecimento de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Senhor dos ventos e do mar, na tempestade eu te digo: salva-me! Aumenta a minha pouca fé. Desperta em mim a confiança e dá à tua Igreja a bonança da tua paz. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, salva-nos, que perecemos!", "ref": "Mt 8,25" }
+  },
+  "ancoras": {
+    "8:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 28", "catena": "8:23–27#1", "sintese": "Levou os discípulos na barca para que aprendessem duas lições: não se perturbarem com os perigos e serem moderados nas honras." }
+      ],
+      "nota": null
+    },
+    "8:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:23–27#3", "sintese": "Ninguém sente tão vivamente o que se faz a outro como o que se faz a si: convinha que experimentassem em si os benefícios de Cristo." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "8:23–27#15", "sintese": "Dorme porque, pela nossa negligência, adormece em nós; assim, temendo o perigo, esperamos o auxílio de Deus." }
+      ],
+      "nota": null
+    },
+    "8:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:23–27#7", "sintese": "Despertá-lo não foi sinal de grande fé: sabiam que, acordado, podia repreender as ondas, mas não que o podia fazer dormindo." }
+      ],
+      "nota": null
+    },
+    "8:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:23–27#8", "sintese": "Todas as criaturas sentem o seu Criador: o que pode ser repreendido e receber ordens sente o mando de quem ordena." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:23–27#10", "sintese": "A tempestade acalma-se inteiramente, sem vestígio de perturbação, o que está acima da natureza." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

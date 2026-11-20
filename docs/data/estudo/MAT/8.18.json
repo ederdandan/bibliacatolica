@@ -1,0 +1,60 @@
+{
+  "id": "MAT.8.18",
+  "livro": "MAT",
+  "titulo": "As exigências do seguimento",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 8,18-22",
+  "ini": { "c": 8, "v": 18 },
+  "fim": { "c": 8, "v": 22 },
+  "liturgia": { "tema_central": "O Filho do Homem não tem onde reclinar a cabeça: “Segue-me”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Antes de atravessar o lago, dois homens se apresentam. Um escriba, chamando Jesus de “Mestre”, oferece-se para segui-lo a toda parte; Jesus o adverte da pobreza radical do “Filho do Homem” (título que Jesus usa para si, tirado de Dn 7,13), que não tem sequer onde repousar. Outro, já discípulo, pede para primeiro sepultar o pai, dever sagrado para os judeus. Jesus responde com uma frase deliberadamente chocante: “Deixa que os mortos sepultem os seus mortos”, isto é, os que não têm a vida nova da fé cuidem dessas coisas; a urgência do Reino vem antes de tudo.",
+    "alegorico": "O Filho do Homem sem morada é Cristo pobre desde o presépio até a Cruz, onde finalmente “inclina a cabeça” (Jo 19,30). As raposas e as aves foram lidas como a astúcia e a soberba que encontram ninho no coração e não deixam lugar para Cristo. Os “mortos” são os que estão na incredulidade.",
+    "moral": "Seguir Jesus por interesse ou por glória não é segui-lo: Ele responde à intenção do coração, não às palavras. O seguimento exige desapego e prontidão. A palavra sobre os mortos não condena o amor aos pais, mas ensina que nada deve ser mais urgente que as coisas do céu.",
+    "anagogico": "Quem aceita não ter morada permanente neste mundo caminha para a casa do Pai, onde há muitas moradas (Jo 14,2). Seguir Cristo é passar da morte à vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vendo-se rodeado por uma grande multidão, Jesus mandou passar para a outra margem. Um escriba aproximou-se e disse: “Mestre, eu te seguirei para onde quer que fores”. Jesus respondeu: “As raposas têm tocas e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça”. Outro discípulo disse: “Senhor, deixa-me ir primeiro sepultar meu pai”. Jesus respondeu: “Segue-me, e deixa que os mortos sepultem os seus mortos”.",
+    "meditatio_perguntas": [
+      "Por que motivos sigo Jesus: por Ele ou pelo que espero receber?",
+      "Que “primeiro” eu coloco antes do seguimento de Cristo?",
+      "Estou disposto a seguir um Mestre que não tem onde reclinar a cabeça?"
+    ],
+    "oratio_guia": "Senhor Jesus, pobre e sem morada, purifica as minhas intenções ao seguir-te. Dá-me um coração livre de astúcia e de soberba, onde possas reclinar a cabeça. Que nada me pareça mais urgente do que o teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Segue-me.", "ref": "Mt 8,22" }
+  },
+  "ancoras": {
+    "8:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:18–22#4", "sintese": "Não despede as multidões, para não as ofender: manda os discípulos passarem à outra margem, para que pudessem esperar segui-lo." }
+      ],
+      "nota": null
+    },
+    "8:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:18–22#10", "sintese": "Por que queres seguir-me por causa dos lucros deste mundo, se a minha pobreza é tal que não tenho sequer casa própria?" },
+        { "autor": "Santo Agostinho", "obra": "Serm. 100, 1", "catena": "8:18–22#12", "sintese": "O Filho do Homem não tem onde reclinar a cabeça na tua fé: as raposas têm tocas no teu coração, porque és enganador; as aves, ninhos, porque és soberbo." }
+      ],
+      "nota": { "texto": "“Filho do Homem” é o título que Jesus prefere para si nos Evangelhos; evoca a figura gloriosa de Dn 7,13-14, mas também a sua humanidade e o seu sofrimento.", "origem": "ia" }
+    },
+    "8:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "8:18–22#16", "sintese": "Um o chama Mestre, o outro o confessa Senhor; este, por piedade filial, pede licença para sepultar o pai." }
+      ],
+      "nota": null
+    },
+    "8:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "8:18–22#19", "sintese": "Não condena o afeto natural aos pais, mas mostra que nada nos deve obrigar mais que as coisas do céu." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "8:18–22#20", "sintese": "Teu pai morreu, mas há outros mortos que sepultarão os seus mortos, porque estão na incredulidade." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 4, 27", "catena": "8:18–22#24", "sintese": "Também os mortos sepultam os mortos quando os pecadores encobrem os pecadores com os seus louvores." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
