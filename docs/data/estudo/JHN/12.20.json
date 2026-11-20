@@ -1,0 +1,86 @@
+{
+  "id": "JHN.12.20",
+  "livro": "JHN",
+  "titulo": "O grão de trigo; a hora da glorificação",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 12,20-36",
+  "ini": { "c": 12, "v": 20 },
+  "fim": { "c": 12, "v": 36 },
+  "liturgia": { "tema_central": "“Se o grão de trigo morrer, produz muito fruto”: a hora em que o Filho é glorificado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Entre os que sobem a adorar na festa há alguns gregos. Aproximam-se de Filipe: “Senhor, desejamos ver Jesus”. Filipe di-lo a André, e ambos a Jesus. Ele responde: “Chegou a hora em que o Filho do homem será glorificado”. Se o grão de trigo que cai na terra não morrer, fica só; se morrer, produz muito fruto. Quem ama a sua vida perde-a; quem a aborrece neste mundo guarda-a para a vida eterna. Quem o quer servir siga-o, e onde Ele estiver estará o seu servo, e o Pai o honrará. “Agora a minha alma está turbada. Que direi? Pai, livra-me desta hora? Mas foi para isto que cheguei a esta hora. Pai, glorifica o teu nome.” Vem uma voz do céu: “Glorifiquei-o e glorificá-lo-ei novamente”. A multidão diz que foi um trovão, ou um anjo. Jesus explica que a voz veio por eles. Agora é o juízo deste mundo; o príncipe deste mundo será lançado fora; e Ele, levantado da terra, atrairá todos a si, indicando de que morte havia de morrer. A multidão objeta que o Cristo permanece para sempre. Jesus responde: a luz está convosco ainda um pouco; caminhai enquanto tendes a luz, crede na luz, para serdes filhos da luz. E retira-se, escondendo-se deles.",
+    "alegorico": "Os judeus querem matá-lo, os gentios querem vê-lo: os da circuncisão e os da incircuncisão juntam-se como duas paredes na pedra angular. Cristo vê no pedido dos gregos o anúncio da hora em que, depois da Paixão, todas as nações creriam nele. Ele é o grão semeado da semente dos patriarcas no campo do mundo: morreu sozinho, ressuscitou com muitos. Levantado na cruz, atrai “tudo”, o homem inteiro, espírito, alma e corpo, de que o diabo é lançado fora.",
+    "moral": "Não ames a tua vida aqui, para não a perderes no futuro. Servir a Cristo é não buscar os próprios interesses, mas os de Jesus Cristo, andando nos seus caminhos e fazendo tudo por seu amor. A alma de Jesus perturba-se: o desejo de viver não é culpa, como não o é a fome. Ele toma a nossa fraqueza para nos ensinar a dizer ao Pai: não o que eu quero, mas o que tu queres. Enquanto tendes alguma verdade, crede na verdade, para renascerdes dela como filhos da luz.",
+    "anagogico": "“Onde eu estou, estará ali também o que me serve”: o servo segue o Senhor pela morte até à ressurreição, e o Pai honra-o na glória. O grão que morre multiplica-se numa colheita sem fim, e a hora da cruz é já a hora da glória que atrai todos ao Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor, desejamos ver Jesus.” Jesus respondeu-lhes: “Chegou a hora em que o Filho do homem será glorificado. Se o grão de trigo, que cai na terra, não morrer, fica infecundo; mas, se morrer, produz muito fruto. Se alguém me quer servir, siga-me. Agora a minha alma está turbada. Pai, glorifica o teu nome. E eu, quando for levantado da terra, atrairei todos os homens a mim.”",
+    "meditatio_perguntas": [
+      "Desejo de verdade “ver Jesus”, como os gregos, ou só ouvir falar dele?",
+      "Que parte de mim tem de morrer, como o grão, para dar fruto?",
+      "Na minha perturbação, consigo dizer: “Pai, glorifica o teu nome”?"
+    ],
+    "oratio_guia": "Senhor Jesus, grão de trigo caído na terra, ensina-me a perder a vida para a encontrar. Quando a minha alma se perturbar, dá-me dizer contigo: Pai, glorifica o teu nome. Levantado na cruz, atrai-me inteiro a ti, para que eu esteja onde tu estás. Amém.",
+    "contemplatio_foco": { "texto": "E eu, quando for levantado da terra, atrairei todos os homens a mim.", "ref": "Jo 12,32" }
+  },
+  "ancoras": {
+    "12:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:20–26#2", "sintese": "Os judeus querem matá-lo, os gentios vê-lo: circuncisão e incircuncisão juntam-se numa só fé, como duas paredes." }
+      ],
+      "nota": null
+    },
+    "12:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:20–26#4", "sintese": "Viu que, depois da Paixão e ressurreição, os gentios de todas as terras creriam nele." }
+      ],
+      "nota": null
+    },
+    "12:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:20–26#5", "sintese": "Semeado no campo do mundo para ressuscitar multiplicado: morreu sozinho, ressuscitou com muitos." }
+      ],
+      "nota": null
+    },
+    "12:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:20–26#7", "sintese": "Não ames a tua vida aqui, para não a perderes no futuro: é o sentido mais conforme ao Evangelho." }
+      ],
+      "nota": { "texto": "“Aborrecer” traduz uma expressão semítica de preferência: pôr em segundo lugar, não detestar.", "origem": "ia" }
+    },
+    "12:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:20–26#12", "sintese": "Serve a Cristo quem não busca os próprios interesses, mas os de Jesus Cristo, e faz tudo por seu amor." }
+      ],
+      "nota": null
+    },
+    "12:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:27–33#2", "sintese": "Perto da cruz aparece a natureza humana, que não quer morrer: o desejo de viver não é culpa, como a fome." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:27–33#5", "sintese": "Tomou a nossa fraqueza para ensinar os aflitos a dizer: não o que eu quero, mas o que tu queres." }
+      ],
+      "nota": null
+    },
+    "12:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:27–33#14", "sintese": "Atrai “tudo”: não todos os homens, mas o homem inteiro, espírito, alma e corpo." }
+      ],
+      "nota": null
+    },
+    "12:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:34–36#8", "sintese": "Enquanto tendes alguma verdade, crede na verdade, para renascerdes dela como filhos da luz." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

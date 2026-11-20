@@ -1,0 +1,64 @@
+{
+  "id": "JHN.12.37",
+  "livro": "JHN",
+  "titulo": "A incredulidade e o juízo",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 12,37-50",
+  "ini": { "c": 12, "v": 37 },
+  "fim": { "c": 12, "v": 50 },
+  "liturgia": { "tema_central": "“Eu vim ao mundo como uma luz”: a palavra que salva e que julga", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Apesar de tantos sinais feitos diante deles, não creem em Jesus, cumprindo-se a palavra de Isaías: “Senhor, quem acreditou o que ouviu de nós? A quem foi revelado o braço do Senhor?”. Não podiam crer, porque Isaías disse também: cegou-lhes os olhos e endureceu-lhes o coração, para que não vejam nem se convertam e Eu os cure. Isaías disse isto quando viu a sua glória e falou dele. Contudo, muitos dos chefes creram nele, mas não o confessavam por causa dos fariseus, para não serem expulsos da sinagoga: amaram mais a glória dos homens que a glória de Deus. Jesus clama: quem crê nele crê naquele que o enviou; quem o vê, vê quem o enviou. Veio ao mundo como luz, para que quem crê nele não fique nas trevas. Se alguém ouvir as suas palavras e não as guardar, não é Ele quem o julga, pois não veio julgar o mundo, mas salvá-lo; a palavra que anunciou o julgará no último dia. Não falou por si: o Pai que o enviou lhe ordenou o que dizer, e o seu mandamento é vida eterna.",
+    "alegorico": "O braço do Senhor é o próprio Filho de Deus, por quem o Pai opera. Isaías viu a glória de Cristo no trono excelso: o Senhor do Templo é o mesmo que agora fala no Templo e é rejeitado. Crer em Jesus é crer no Pai, e vê-lo é ver o Pai, porque o Verbo revela plenamente o que há na mente do Pai. A palavra que Ele disse é Ele mesmo, Verbo do Pai, que julgará no último dia.",
+    "moral": "Deus não nos abandona se nós não o abandonarmos: somos nós que começamos a deixá-lo, como o sol não é culpado de ferir os olhos doentes. A fé dos chefes crescia, mas mais crescia o amor ao louvor humano, que a sufocava. Fé sem confissão é fé tímida: quem prefere a glória dos homens à de Deus acaba por calar Cristo. Todos estavam nas trevas; quem não quer permanecer nelas deve crer na luz que veio ao mundo.",
+    "anagogico": "Agora é o tempo da misericórdia; depois virá o tempo do juízo. Cristo não julga agora, porque veio salvar; mas no último dia a sua palavra, recusada ou acolhida, será a medida de cada um. O mandamento do Pai é vida eterna: quem o guarda entra na vida que não acaba."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apesar de haver ele feito tantos milagres em sua presença, não criam nele. Todavia, mesmo entre os principais, muitos creram nele; mas não o confessavam. Porque amaram mais a glória dos homens do que a glória de Deus. Quem me vê a mim, vê aquele que me enviou. Eu vim ao mundo como uma luz, para que todo o que crê em mim não fique nas trevas.",
+    "meditatio_perguntas": [
+      "Em que situações calo a minha fé por medo do que os outros dirão?",
+      "Que glória procuro mais: a dos homens ou a de Deus?",
+      "Guardo as palavras de Jesus, ou apenas as ouço?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz vinda ao mundo, tira-me das trevas e dá-me coragem de te confessar diante dos homens. Que eu prefira a glória de Deus ao louvor humano, e guarde a tua palavra, que é vida eterna. Amém.",
+    "contemplatio_foco": { "texto": "Eu vim ao mundo como uma luz, para que todo o que crê em mim não fique nas trevas.", "ref": "Jo 12,46" }
+  },
+  "ancoras": {
+    "12:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "12:37–43#3", "sintese": "“Quem?”, isto é: quão poucos creram!" }
+      ],
+      "nota": null
+    },
+    "12:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:37–43#9", "sintese": "Deus não nos abandona se não o abandonarmos; como o sol não é culpado de ferir os olhos fracos." }
+      ],
+      "nota": { "texto": "Is 6,9-10 exprime em linguagem semítica o resultado como se fosse finalidade: o endurecimento é consequência da recusa livre, não um decreto que a cause.", "origem": "ia" }
+    },
+    "12:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:37–43#13", "sintese": "Por mais que lhes crescesse a fé, crescia mais o amor ao louvor humano, que a sobrepujava." }
+      ],
+      "nota": null
+    },
+    "12:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:44–50#3", "sintese": "Encontrou todos nas trevas; quem não quer ficar nelas creia na luz que veio ao mundo." }
+      ],
+      "nota": null
+    },
+    "12:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:44–50#5", "sintese": "Não o julgo agora: agora é o tempo da misericórdia, depois será o do juízo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
