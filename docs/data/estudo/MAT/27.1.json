@@ -1,0 +1,77 @@
+{
+  "id": "MAT.27.1",
+  "livro": "MAT",
+  "titulo": "Jesus entregue a Pilatos; o fim de Judas",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 27,1-10",
+  "ini": { "c": 27, "v": 1 },
+  "fim": { "c": 27, "v": 10 },
+  "liturgia": { "tema_central": "O remorso sem esperança e o preço do sangue inocente", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "De manhã, o Sinédrio delibera entregar Jesus à morte. Como os judeus, sob o domínio romano, não podiam executar uma sentença capital, levam-no manietado ao governador Pôncio Pilatos (prefeito da Judeia de 26 a 36 d.C.). Judas, vendo-o condenado, devolve as trinta moedas: “Pequei, entregando o sangue inocente”. Os sacerdotes respondem: “Que nos importa? Isso é contigo”. Judas atira as moedas no templo e vai enforcar-se. Os sacerdotes, escrupulosos, não as põem na arca das esmolas por serem preço de sangue; compram com elas o campo do Oleiro, para sepultura dos estrangeiros, chamado por isso “campo de sangue”. Mateus vê aí o cumprimento de uma profecia que atribui a Jeremias (cf. Zc 11,12-13; Jr 32,6-15).",
+    "alegorico": "Com o preço do sangue de Cristo compra-se um lugar de repouso para os estrangeiros: figura dos gentios, antes alheios à Lei e aos Profetas, que recebem a salvação pelo sangue do Redentor. O sangue que os sacerdotes julgam impuro é o preço da redenção do mundo.",
+    "moral": "Judas reconhece o pecado, mas não espera o perdão: o seu remorso não se torna arrependimento, porque não crê na misericórdia de Cristo. O Diabo não deixa ver o mal antes de consumado, e depois empurra para o desespero. Os sacerdotes coam o mosquito e engolem o camelo: escrupulosos com o dinheiro, indiferentes ao sangue derramado.",
+    "anagogico": "O campo dos estrangeiros prefigura a pátria celeste aberta a todos os povos pelo sangue de Cristo. Nenhum pecado excede a misericórdia de Deus para quem se volta a Ele com fé."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Logo de manhã, todos os príncipes dos sacerdotes e anciãos do povo tiveram conselho contra Jesus, para o entregarem à morte; e, manietado, o levaram e entregaram ao governador Pôncio Pilatos. Então Judas, vendo que Jesus fora condenado, tocado de remorsos, tornou a levar as trinta moedas de prata, dizendo: “Pequei, entregando o sangue inocente”. Mas eles disseram: “Que nos importa? Isso é contigo”. Então, tendo atirado as moedas de prata para o templo, retirou-se e foi pendurar-se de um laço. Os príncipes dos sacerdotes disseram: “Não é lícito deitá-las na arca das esmolas, porque são preço de sangue”; e compraram com elas o campo do Oleiro, para sepultura dos estrangeiros.",
+    "meditatio_perguntas": [
+      "Depois de pecar, corro para a misericórdia de Deus ou me fecho no remorso?",
+      "Em que sou escrupuloso no pequeno e indiferente no essencial?",
+      "Reconheço que fui comprado pelo preço do sangue de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, vendido por trinta moedas, livra-me do desespero que fechou o coração de Judas. Quando eu pecar, dá-me a confiança de voltar a ti, porque o teu sangue é mais forte que o meu pecado. Amém.",
+    "contemplatio_foco": { "texto": "Pequei, entregando o sangue inocente.", "ref": "Mt 27,4" }
+  },
+  "ancoras": {
+    "27:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:1–5#2", "sintese": "Zelo perverso: passaram a noite em vigília para este homicídio, e entregaram-no amarrado, como réu já condenado." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 84", "catena": "27:1–5#4", "sintese": "Não o mataram às ocultas, porque queriam destruir publicamente a sua reputação." }
+      ],
+      "nota": null
+    },
+    "27:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:1–5#5", "sintese": "Devolveu o dinheiro como se estivesse em seu poder mudar a sentença dos perseguidores." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:1–5#8", "sintese": "Arrepende-se só quando o pecado está consumado: o Diabo não deixa os negligentes ver o mal antes de o terem cometido." }
+      ],
+      "nota": null
+    },
+    "27:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Leão Magno", "obra": "Serm. 52, 5", "catena": "27:1–5#7", "sintese": "Não creu que Jesus fosse o Filho de Deus; se não tivesse negado a sua onipotência, teria alcançado a sua misericórdia." }
+      ],
+      "nota": null
+    },
+    "27:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:6–10#0", "sintese": "Sabendo que tinham comprado um homicídio, foram condenados pela própria consciência: “é preço de sangue”." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:6–10#1", "sintese": "Coam o mosquito e engolem o camelo: se não puseram o dinheiro no tesouro por ser preço de sangue, por que derramaram o sangue?" }
+      ],
+      "nota": null
+    },
+    "27:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 80 do Apêndice, 1", "catena": "27:6–10#3", "sintese": "Pela providência, o preço do Salvador tornou-se repouso para os estrangeiros: remiu os vivos e abrigou os mortos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:6–10#4", "sintese": "Também nós, estranhos à Lei e aos Profetas, recebemos da má vontade dos judeus a nossa salvação." }
+      ],
+      "nota": null
+    },
+    "27:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:6–10#7", "sintese": "Isto não se encontra em Jeremias, mas em Zacarias se refere algo semelhante, com palavras diferentes." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 3, 7", "catena": "27:6–10#8", "sintese": "Nem todos os códices trazem o nome de Jeremias; alguns dizem simplesmente “pelo Profeta”." },
+        { "autor": "São Jerônimo", "obra": "Ep. 57, a Pamáquio, 7", "catena": "27:6–10#9", "sintese": "O evangelista não queria esmiuçar palavras e sílabas, mas estabelecer os fundamentos da doutrina." }
+      ],
+      "nota": { "texto": "A citação combina Zc 11,12-13 (as trinta moedas lançadas ao oleiro) com temas de Jeremias (a compra de um campo, Jr 32,6-15; o oleiro, Jr 18–19). Mateus atribui o conjunto ao profeta mais conhecido.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

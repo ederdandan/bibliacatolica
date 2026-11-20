@@ -1,0 +1,103 @@
+{
+  "id": "MAT.27.11",
+  "livro": "MAT",
+  "titulo": "Jesus diante de Pilatos",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Mt 27,11-26",
+  "ini": { "c": 27, "v": 11 },
+  "fim": { "c": 27, "v": 26 },
+  "liturgia": { "tema_central": "O Rei silencioso, preterido por Barrabás", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Pilatos pergunta a Jesus: “Tu és o Rei dos Judeus?”, acusação política que o tornaria rebelde contra César. Jesus responde: “Tu o dizes”, e depois cala-se diante das acusações, deixando o governador admirado. Segundo o costume da Páscoa de soltar um preso, Pilatos propõe a escolha entre Barrabás, preso afamado, e Jesus, sabendo que o tinham entregado por inveja. A sua mulher manda dizer-lhe que nada tenha com aquele justo, por causa de um sonho. Os sacerdotes persuadem o povo a pedir Barrabás e a gritar: “Seja crucificado!” Pilatos lava as mãos, declarando-se inocente do sangue deste justo; o povo responde: “O seu sangue caia sobre nós e sobre nossos filhos”. Pilatos solta Barrabás e, depois de mandar flagelar Jesus (castigo romano que precedia a crucifixão), entrega-o para ser crucificado.",
+    "alegorico": "O inocente é condenado e o culpado é solto: imagem da troca redentora, em que o Justo morre pelos injustos e o pecador sai livre. Barrabás, “filho do pai”, prefigura, segundo Hilário, a incredulidade que preferirá o Anticristo a Cristo. A confissão de inocência de Pilatos e da sua mulher é testemunho dos gentios em favor do Senhor.",
+    "moral": "Pilatos conhece a verdade, mas cede ao medo e à pressão da multidão: lavar as mãos não o torna inocente, pois renunciou à própria jurisdição e consentiu na injustiça. A inveja cega os sacerdotes, que manipulam o povo. O silêncio de Jesus ensina a não se defender com orgulho, mas a entregar a causa a Deus.",
+    "anagogico": "O Rei cujo Reino não é deste mundo aceita ser julgado por um tribunal humano para nos livrar do juízo eterno. Os açoites que recebe livram-nos dos “muitos açoites do pecador”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus foi apresentado diante do governador, que o interrogou, dizendo: “Tu és o Rei dos Judeus?” Jesus respondeu-lhe: “Tu o dizes”. Mas, sendo acusado pelos príncipes dos sacerdotes e pelos anciãos, nada respondeu. Perguntou-lhes Pilatos: “Qual quereis vós que eu vos solte? Barrabás ou Jesus, que se chama o Cristo?” Porque sabia que o tinham entregado por inveja. Eles responderam: “Barrabás”. Pilatos disse-lhes: “Que hei-de então fazer de Jesus, que se chama Cristo?” Disseram todos: “Seja crucificado”. Pilatos, vendo que nada conseguia, tomando água, lavou as mãos diante do povo, dizendo: “Eu sou inocente do sangue deste justo”. Então soltou-lhes Barrabás; e, depois de ter mandado flagelar Jesus, entregou-lho para ser crucificado.",
+    "meditatio_perguntas": [
+      "Em que situações “lavo as mãos” diante da injustiça?",
+      "Escolho Jesus ou os “Barrabás” que o mundo me oferece?",
+      "Sei calar diante das acusações, confiando a minha causa a Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei inocente, condenado em meu lugar e flagelado pelos meus pecados, dá-me coragem para escolher-te sempre, sem ceder ao medo nem à opinião dos outros. Que o teu sangue caia sobre mim, não como condenação, mas como perdão. Amém.",
+    "contemplatio_foco": { "texto": "Qual quereis vós que eu vos solte? Barrabás ou Jesus, que se chama o Cristo?", "ref": "Mt 27,17" }
+  },
+  "ancoras": {
+    "27:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 86", "catena": "27:11–14#2", "sintese": "Como Pilatos não se importava com questões da Lei, recorreram a uma acusação política contra Cristo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:11–14#4", "sintese": "Reconhece-se Rei, mas celeste: “o meu Reino não é deste mundo”." }
+      ],
+      "nota": null
+    },
+    "27:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:11–14#6", "sintese": "A Pilatos respondeu de algum modo; aos sacerdotes e anciãos recusou-se a responder, julgando-os indignos de uma palavra." }
+      ],
+      "nota": null
+    },
+    "27:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:11–14#11", "sintese": "Não quis responder para que o governador não o soltasse e se adiasse o benefício da cruz." }
+      ],
+      "nota": null
+    },
+    "27:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:15–26#2", "sintese": "Procurou salvá-lo por este costume, para não deixar aos judeus nem sombra de desculpa: compara-o a um homicida notório." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "27:15–26#27", "sintese": "O povo escolheu Barrabás, prefigurando a incredulidade que preferirá o Anticristo a Cristo." }
+      ],
+      "nota": null
+    },
+    "27:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:15–26#9", "sintese": "Deus concede visões aos gentios; a confissão de Pilatos e da sua mulher é testemunho do povo gentio." }
+      ],
+      "nota": null
+    },
+    "27:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:15–26#13", "sintese": "Nada comoveu os inimigos de Cristo: a inveja cegou-os, e pela sua maldade corromperam o povo." }
+      ],
+      "nota": null
+    },
+    "27:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:15–26#18", "sintese": "“Mas que mal fez Ele?”: esta palavra de Pilatos absolve Jesus." }
+      ],
+      "nota": null
+    },
+    "27:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:15–26#21", "sintese": "Lava as mãos como quem atesta: procurei libertar este inocente." },
+        { "autor": "São Leão Magno", "obra": "Serm. 59, 2", "catena": "27:15–26#23", "sintese": "A impiedade dos judeus excedeu a culpa de Pilatos; mas ele não ficou inocente, pois consentiu na injustiça alheia." }
+      ],
+      "nota": null
+    },
+    "27:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "27:15–26#22", "sintese": "Amaldiçoam-se a si mesmos; mas Deus misericordioso não ratificou a sentença e recebeu os que fizeram penitência, como Paulo." }
+      ],
+      "nota": { "texto": "A Igreja ensina que a morte de Cristo não pode ser imputada indistintamente a todos os judeus de então nem aos de hoje; todos os pecadores foram autores da Paixão (Concílio Vaticano II, Nostra Aetate 4).", "origem": "ia" }
+    },
+    "27:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:15–26#24", "sintese": "Pela lei romana, o condenado à cruz era primeiro açoitado: rasgaram aquele corpo santíssimo que encerrava Deus." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "27:15–26#26", "sintese": "Foi açoitado para sermos libertados dos açoites de que se diz: muitos são os açoites do pecador." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
