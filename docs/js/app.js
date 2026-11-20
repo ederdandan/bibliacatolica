@@ -6,7 +6,7 @@ import * as L from './liturgy.js';
 import * as ST from './study.js';
 import { trackView, trackEvent } from './analytics.js';
 
-const APP_VERSION = '1.6.0';
+const APP_VERSION = '1.7.0';
 
 // ---------- Utilidades ----------
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -60,12 +60,25 @@ function resolveColor(s, style) {
   return s.color;
 }
 
+// Leitura noturna: fundo escuro em tons quentes (menos luz azul).
+const NIGHT_FROM = 19;
+const NIGHT_TO = 6;
+function nightActive(s) {
+  if (s.nightMode === 'on') return true;
+  if (s.nightMode !== 'auto') return false;
+  const h = new Date().getHours();
+  return h >= NIGHT_FROM || h < NIGHT_TO;
+}
+
 function applySettings() {
   const s = S.settings();
   const root = document.documentElement;
-  const style = resolveStyle(s);
+  const night = nightActive(s);
+  const style = night ? 'noturno' : resolveStyle(s);
   root.dataset.style = style;
   root.dataset.color = resolveColor(s, style);
+  if (night) root.dataset.night = '1';
+  else delete root.dataset.night;
   try {
     localStorage.setItem('biblia:lit', L.season().color);
   } catch {
@@ -90,6 +103,11 @@ function readerClasses(el) {
 }
 
 darkMq.addEventListener('change', applySettings);
+// No modo automático, liga/desliga a leitura noturna na virada do horário.
+setInterval(() => {
+  const s = S.settings();
+  if (s.nightMode === 'auto' && nightActive(s) !== !!document.documentElement.dataset.night) applySettings();
+}, 60000);
 S.subscribe(applySettings);
 
 // ---------- Tela sempre ligada ----------
@@ -1296,7 +1314,11 @@ function displayControlsHtml(full) {
       (c) => `<button class="color-opt" type="button" data-color-opt="${c.id}" aria-pressed="${s.color === c.id}"><span class="dot" style="background:${c.hex}"></span>${c.name}</button>`,
     ).join('')}</div>`
     : `<div class="setting"><div class="label">Tema</div>${segHtml('theme', STYLES.map((t) => [t.id, t.name]), s.theme)}</div>`;
+  const nightHtml = `<div class="setting"><div class="label">Leitura noturna<small>Fundo escuro em tons quentes, com menos luz azul${
+    s.nightMode === 'auto' ? ` · liga das ${NIGHT_FROM}h às ${NIGHT_TO}h` : ''
+  }</small></div>${segHtml('nightMode', [['off', 'Desligada'], ['auto', 'Automática'], ['on', 'Ligada']], s.nightMode)}</div>`;
   return `${styleHtml}
+    ${nightHtml}
     <div class="setting"><div class="label">Tamanho da letra</div>
       <div class="stepper">
         <button class="btn" type="button" data-step="-1" aria-label="Diminuir letra">A−</button>
@@ -1335,6 +1357,7 @@ function bindDisplayControls(el, full = false) {
       const raw = sg.dataset.val;
       S.update((s) => (s.settings[sg.dataset.seg] = isNaN(+raw) ? raw : +raw));
       if (sg.dataset.seg === 'theme') trackEvent(`aparencia/estilo-${raw}`);
+      if (sg.dataset.seg === 'nightMode') trackEvent(`aparencia/noturna-${raw}`);
     } else return;
     rerender();
   });

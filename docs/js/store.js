@@ -14,6 +14,7 @@ export const DEFAULT_SETTINGS = {
   verseNumbers: true,
   justify: false,
   immersive: true, // esconde as barras ao rolar para baixo
+  nightMode: 'off', // off | auto (19h–6h) | on: leitura noturna em tons quentes
   keepAwake: false,
   ttsRate: 1,
   ttsVoice: '',

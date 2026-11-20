@@ -16,6 +16,7 @@ Texto: [bibliacatolica/biblia](https://github.com/bibliacatolica/biblia) (CC0 / 
 - **Versículo do dia**, progresso de leitura (capítulos lidos) e histórico.
 - **Ouvir:** leitura em voz alta (Web Speech API) com destaque do versículo, escolha de voz e velocidade, e continuação no capítulo seguinte.
 - **Aparência:** dois estilos, *Vitral* (claro, com uma cor para cada seção da Bíblia) e *Noturno* (escuro, calmo). O modo *Automático* segue o claro/escuro do aparelho.
+- **Leitura noturna:** fundo escuro em tons quentes, com menos luz azul. Pode ficar ligada, desligada ou automática (das 19h às 6h).
 - **Cores litúrgicas:** verde, roxo, branco/dourado, vermelho e rosa. A opção *Tempo litúrgico* troca a cor sozinha conforme o tempo do ano (Advento, Natal, Quaresma, Páscoa, Pentecostes, Tempo Comum e alguns domingos próprios). Não inclui festas de santos.
 - **Texto:** tamanho da letra, fonte, entrelinhas, largura, versículos em linhas ou texto corrido, números dos versículos e texto justificado.
 - **PWA:** instalação, uso offline (botão para baixar a Bíblia inteira), aviso de nova versão e atalhos no ícone.

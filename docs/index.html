@@ -30,6 +30,11 @@
       var c = s.color || 'liturgical';
       if (c === 'liturgical') c = lit || 'verde';
       if (c === 'style') c = st === 'noturno' ? 'dourado' : 'roxo';
+      var h = new Date().getHours();
+      if (s.nightMode === 'on' || (s.nightMode === 'auto' && (h >= 19 || h < 6))) {
+        st = 'noturno';
+        document.documentElement.dataset.night = '1';
+      }
       document.documentElement.dataset.style = st;
       document.documentElement.dataset.color = c;
     })();
