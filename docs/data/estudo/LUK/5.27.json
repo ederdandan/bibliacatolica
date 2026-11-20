@@ -1,0 +1,107 @@
+{
+  "id": "LUK.5.27",
+  "livro": "LUK",
+  "titulo": "O chamado de Levi; a questão do jejum",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 5,27-39",
+  "ini": { "c": 5, "v": 27 },
+  "fim": { "c": 5, "v": 39 },
+  "liturgia": { "tema_central": "O Médico dos pecadores e o vinho novo do Evangelho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vê o publicano Levi (Mateus) sentado na coletoria e diz-lhe: “Segue-me”. Levi deixa tudo e segue-o, e oferece-lhe um grande banquete com muitos publicanos. Os fariseus e escribas murmuram contra os discípulos por comerem com pecadores. Jesus responde que os enfermos, não os sãos, precisam de médico, e que veio chamar os pecadores à penitência. Objetam-lhe que os discípulos de João e dos fariseus jejuam e oram, e os dele comem e bebem. Jesus responde com a imagem do esposo: enquanto está com eles, os amigos não jejuam; virão dias em que lhes será tirado. Seguem duas comparações: não se põe remendo novo em veste velha, nem vinho novo em odres velhos. Só Lucas acrescenta: quem bebeu vinho velho diz que o velho é melhor.",
+    "alegorico": "Levi chamado da coletoria figura a fé dos gentios, que deixam os prazeres do mundo para servir a Cristo. Jesus é o Esposo, e a sua vinda é a grande festa das núpcias com a humanidade. O esposo “tirado” anuncia a Paixão. O vinho novo é a nova aliança e a graça do Espírito, que exige corações renovados; os apóstolos, odres ainda velhos, tornar-se-ão novos no Pentecostes.",
+    "moral": "Ninguém deve desesperar por causa dos seus pecados: um publicano tornou-se apóstolo. Levi obedece de imediato e paga a Cristo o “imposto” da entrega total. Jesus convive com os pecadores não para os deixar como estão, mas para os converter, como o médico frequenta os doentes para os curar. O jejum tem o seu tempo: há o jejum da tribulação e o da alegria espiritual. Apegar-se ao “vinho velho” é resistir à novidade de Deus.",
+    "anagogico": "O banquete de Levi prefigura o banquete do Reino, onde os pecadores convertidos se sentam à mesa com Cristo. Hoje jejuamos na esperança, até que o Esposo volte e a festa não tenha fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus viu sentado ao telónio um publicano, chamado Levi, e disse-lhe: “Segue-me”. Ele, deixando tudo, levantou-se, e o seguiu. Levi ofereceu-lhe um grande banquete em sua casa. Os fariseus murmuravam: “Porque comeis e bebeis com os publicanos e com os pecadores?” Jesus respondeu: “Os sãos não têm necessidade de médico, mas sim os enfermos. Não vim chamar os justos, mas os pecadores à penitência”. Disseram-lhe: “Os discípulos de João jejuam muitas vezes, e os teus comem e bebem”. Jesus respondeu: “Porventura podeis fazer jejuar os amigos do esposo, enquanto o esposo está com eles? Mas virão dias em que lhes será tirado o esposo; então jejuarão. O vinho novo deve deitar-se em odres novos”.",
+    "meditatio_perguntas": [
+      "Reconheço-me entre os enfermos que precisam do Médico?",
+      "Que “coletoria” Jesus me pede para deixar para o seguir?",
+      "Sou odre novo, aberto à novidade do Evangelho, ou prefiro o “vinho velho”?"
+    ],
+    "oratio_guia": "Senhor Jesus, Médico dos pecadores, olha para mim como olhaste para Levi e diz-me “segue-me”. Dá-me prontidão para deixar tudo, um coração novo para receber o vinho novo do teu Espírito e a alegria de quem está com o Esposo. Amém.",
+    "contemplatio_foco": { "texto": "Os sãos não têm necessidade de médico, mas sim os enfermos.", "ref": "Lc 5,31" }
+  },
+  "ancoras": {
+    "5:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:27–32#1", "sintese": "Mateus chama-se a si mesmo publicano para que ninguém desespere da salvação: ele passou de publicano a apóstolo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:27–32#17", "sintese": "Na eleição de Mateus significa-se a fé dos gentios, que antes ansiavam pelos prazeres do mundo e agora servem ao Senhor." }
+      ],
+      "nota": null
+    },
+    "5:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 30 in Matth.", "catena": "5:27–32#3", "sintese": "Vê o poder de quem chama e a obediência do chamado: não hesitou nem foi a casa avisar os amigos." },
+        { "autor": "Teofilato", "obra": null, "catena": "5:27–32#5", "sintese": "Daquele que cobrava o pedágio, Cristo cobrou o seu: não dinheiro, mas a entrega total ao seu seguimento." }
+      ],
+      "nota": null
+    },
+    "5:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:27–32#19", "sintese": "Quem recebe Cristo no íntimo da alma é alimentado com as maiores delícias; a inveja dos fariseus prefigura a exclusão dos infiéis do banquete do Reino." }
+      ],
+      "nota": null
+    },
+    "5:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:27–32#11", "sintese": "Conviver com os pecadores faz parte do seu desígnio de misericórdia: veio por causa deles, não para que permaneçam pecadores, mas para que se convertam." }
+      ],
+      "nota": null
+    },
+    "5:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "5:27–32#12", "sintese": "Acrescenta “à penitência” para que ninguém pense que Cristo ama os pecadores enquanto pecadores: chama-os como o médico chama os enfermos, para os salvar." }
+      ],
+      "nota": null
+    },
+    "5:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "5:33–39#4", "sintese": "A vinda do Salvador foi uma grande festa nupcial, que uniu a si a nossa natureza como esposa; os amigos do esposo são os chamados à vida evangélica." },
+        { "autor": "Santo Agostinho", "obra": "de Qu. Ev. l. ii. q. 18.", "catena": "5:33–39#2", "sintese": "Há dois jejuns: um na tribulação, para aplacar a Deus pelos pecados; outro na alegria, quando se deleita menos na carne e mais no espírito." }
+      ],
+      "nota": null
+    },
+    "5:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:33–39#11", "sintese": "Enquanto o Esposo está conosco, alegramo-nos; quando se afasta por nossos pecados, é tempo de jejum e de luto." }
+      ],
+      "nota": null
+    },
+    "5:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:33–39#16", "sintese": "As vestes são as boas obras exteriores; o vinho, o fervor interior da fé, da esperança e da caridade." }
+      ],
+      "nota": null
+    },
+    "5:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Orat. de Deit. Filii et SS.", "catena": "5:33–39#17", "sintese": "O vinho novo que ferve é a nova aliança; os odres velhos da incredulidade rompem-se e deixam perder em vão a graça do Espírito." }
+      ],
+      "nota": null
+    },
+    "5:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "5:33–39#15", "sintese": "Os apóstolos eram ainda odres velhos; tornaram-se novos quando, depois da Ascensão, receberam o Espírito Santo." }
+      ],
+      "nota": null
+    },
+    "5:39": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "Só Lucas traz este provérbio: retrata, com ironia, a resistência de quem se habituou ao antigo e não quer provar a novidade do Evangelho.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

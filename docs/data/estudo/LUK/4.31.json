@@ -1,0 +1,101 @@
+{
+  "id": "LUK.4.31",
+  "livro": "LUK",
+  "titulo": "Jesus em Cafarnaum",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 4,31-44",
+  "ini": { "c": 4, "v": 31 },
+  "fim": { "c": 4, "v": 44 },
+  "liturgia": { "tema_central": "A palavra com autoridade que liberta e cura", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Rejeitado em Nazaré, Jesus desce a Cafarnaum e ensina aos sábados; espantam-se porque fala com autoridade. Na sinagoga, um homem possesso grita: “Sei quem és: o Santo de Deus”. Jesus manda-o calar e expulsa o demônio, que sai sem fazer mal. Em casa de Simão, a sogra está com febre alta; Jesus inclina-se, ordena à febre, e ela levanta-se e começa a servi-los. Ao pôr do sol trazem-lhe muitos enfermos: impõe as mãos sobre cada um e cura-os; os demônios que saem proclamam-no Filho de Deus, mas ele os faz calar. De manhã retira-se a um lugar deserto; as multidões querem retê-lo, mas ele declara que deve anunciar o Reino também a outras cidades, pois para isso foi enviado.",
+    "alegorico": "A obra das curas começa num sábado: a nova criação começa onde a antiga parara, e o Filho mostra-se Senhor do sábado e Criador. O pôr do sol figura a morte do Senhor, e o raiar do dia a ressurreição, quando é procurado pelos fiéis e retido pelos gentios. A mão que toca os doentes é a carne do Verbo, cheia do poder divino, como o bronze aquecido pelo fogo.",
+    "moral": "A palavra tem autoridade quando quem ensina pratica o que diz. Não devemos aprender a verdade do diabo, ainda que ele a diga: Jesus manda calar o demônio. A sogra de Pedro, curada, logo serve: a graça recebida torna-se serviço. Jesus ora no deserto e não se deixa reter, ensinando a buscar os que estão longe.",
+    "anagogico": "“É necessário que eu anuncie também às outras cidades”: a missão não para até alcançar todos os povos. O Reino anunciado é a meta da história, e a cura dos corpos é seu sinal antecipado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi a Cafarnaum, e ali ensinava aos sábados. Espantavam-se da sua doutrina, porque falava com autoridade. Estava na sinagoga um homem possesso, que exclamou: “Sei quem és: o Santo de Deus”. Jesus o repreendeu: “Cala-te, e sai desse homem”. Entrou em casa de Simão; a sogra de Simão estava com febre muito alta. Ele, inclinando-se para ela, ordenou à febre, e a febre deixou-a; levantando-se logo, servia-os. Ao sol-posto traziam-lhe os enfermos, e ele, impondo as mãos sobre cada um, sarava-os. Quando se fez dia, foi para um lugar deserto. As multidões detinham-no, mas ele disse: “É necessário que eu anuncie também às outras cidades a boa nova do reino de Deus, pois para isso é que fui enviado”.",
+    "meditatio_perguntas": [
+      "Que “febre” (paixão, inquietação) precisa que Jesus se incline sobre mim e a cure?",
+      "Depois de receber uma graça, transformo-a em serviço, como a sogra de Pedro?",
+      "Quero reter Jesus só para mim ou deixo-o ir às “outras cidades” por meio de mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, cuja palavra tem autoridade sobre o mal, inclina-te sobre mim e cura as febres do meu coração. Impõe as tuas mãos sobre os doentes que te confio, e faz de mim alguém que, curado, se levanta para servir e anunciar o teu Reino. Amém.",
+    "contemplatio_foco": { "texto": "Ele, inclinando-se para ela, ordenou à febre, e a febre deixou-a.", "ref": "Lc 4,39" }
+  },
+  "ancoras": {
+    "4:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:31–37#4", "sintese": "As curas começam no sábado: a nova criação começa onde a antiga cessara, e o Filho mostra-se acima da Lei e Criador que prossegue a sua obra." }
+      ],
+      "nota": null
+    },
+    "4:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:31–37#2", "sintese": "A palavra do mestre tem autoridade quando ele pratica o que ensina; quem a desmente com as obras é desprezado." }
+      ],
+      "nota": null
+    },
+    "4:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": "ad Episc. Æg. et Lib.", "catena": "4:31–37#8", "sintese": "Não diz “um santo”, mas “o Santo de Deus”: Ele é santo por natureza, e pela participação nele os outros são chamados santos." }
+      ],
+      "nota": null
+    },
+    "4:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Atanásio", "obra": null, "catena": "4:31–37#11", "sintese": "Refreia a língua do demônio, ainda que diga a verdade, para ensinar que não devemos ser instruídos pelo diabo." }
+      ],
+      "nota": null
+    },
+    "4:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:38–39#2", "sintese": "Cristo hospeda-se na casa de um pobre, para aprendermos a visitar os pobres e a não desprezar os necessitados." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:38–39#7", "sintese": "Eva não teria tido febre se a serpente não a tivesse enganado; nesta mulher figura-se a nossa carne doente das febres dos pecados." }
+      ],
+      "nota": null
+    },
+    "4:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:38–39#9", "sintese": "Recebamos Jesus no coração: Ele extingue as chamas dos prazeres desordenados e cura-nos para o servirmos." }
+      ],
+      "nota": null
+    },
+    "4:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:40–41#2", "sintese": "Podia curar com uma palavra, mas tocava os enfermos, mostrando que a sua carne, unida ao Verbo, era eficaz para curar, como o bronze aquecido pelo fogo." }
+      ],
+      "nota": null
+    },
+    "4:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:40–41#4", "sintese": "Não deixa os espíritos imundos manifestá-lo, para que não usurpassem o ofício apostólico nem os mistérios fossem divulgados por línguas impuras." }
+      ],
+      "nota": null
+    },
+    "4:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Expositor Grego", "obra": "Vítor de Antioquia.", "catena": "4:42–44#1", "sintese": "Foi ao deserto orar, não por precisar, mas para nos dar exemplo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:42–44#5", "sintese": "O pôr do sol figura a morte do Senhor; o raiar do dia, a ressurreição, quando é procurado pelos fiéis e retido pelos gentios." }
+      ],
+      "nota": null
+    },
+    "4:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 48 in Matth.", "catena": "4:42–44#4", "sintese": "Não fica num só lugar, dando-nos exemplo de ir em busca dos que se perdem, como o pastor e o médico." }
+      ],
+      "nota": { "texto": "Lucas resume o sentido de toda a missão de Jesus: anunciar a “boa nova do reino de Deus”. A menção da Judeia no v. 44 designa, em Lucas, toda a terra dos judeus.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

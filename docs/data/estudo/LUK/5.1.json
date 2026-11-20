@@ -1,0 +1,81 @@
+{
+  "id": "LUK.5.1",
+  "livro": "LUK",
+  "titulo": "A pesca milagrosa e o chamado de Pedro",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 5,1-11",
+  "ini": { "c": 5, "v": 1 },
+  "fim": { "c": 5, "v": 11 },
+  "liturgia": { "tema_central": "“Sobre a tua palavra, lançarei a rede”: de pescador a pescador de homens", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "À beira do lago de Genesaré, a multidão aperta-se para ouvir a palavra de Deus. Jesus sobe à barca de Simão, pede-lhe que se afaste um pouco da terra e ensina sentado. Depois manda: “Faz-te ao largo, e lançai as vossas redes”. Simão objeta que trabalharam a noite toda sem nada apanhar, mas obedece “sobre a tua palavra”. A pesca é tão abundante que as redes se rompem e as duas barcas quase se afundam. Pedro lança-se aos pés de Jesus: “Retira-te de mim, Senhor, pois eu sou um homem pecador”. Jesus responde: “Não tenhas medo; desta hora em diante serás pescador de homens”. Pedro, Tiago e João deixam tudo e seguem-no. Em Lucas, o chamado vem depois de os discípulos verem Jesus agir.",
+    "alegorico": "A barca de Pedro, de onde Jesus ensina, é a Igreja; afastar-se da terra e avançar para o largo é levar o Evangelho às nações distantes e às profundezas do mistério do Filho de Deus. As redes que não matam, mas tiram os peixes do abismo para a luz, são a palavra apostólica. A outra barca que vem ajudar figura os outros apóstolos ou a Igreja dos gentios; as redes rompidas, as perseguições que não fazem perder os eleitos.",
+    "moral": "A noite de trabalho infrutífero ensina que a pesca de almas não é obra da eloquência humana, mas da palavra do Senhor. A obediência de Pedro, contra a sua experiência de pescador, é o primeiro passo da fé. Quanto mais experimenta o dom de Deus, menos presume de si: a humildade de quem se reconhece pecador é a porta da missão. Deixar tudo é a resposta à confiança de Jesus.",
+    "anagogico": "O enchimento das barcas continua até o fim do mundo, até que a rede seja recolhida na praia eterna. O medo de Pedro, desfeito pelo “não tenhas medo”, antecipa a confiança dos que serão reunidos no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Comprimindo-se as multidões em volta dele para ouvir a palavra de Deus, Jesus entrou numa barca, que era a de Simão, e ensinava o povo. Quando acabou de falar, disse a Simão: “Faz-te ao largo, e lançai as vossas redes para pescar”. Respondeu Simão: “Mestre, tendo trabalhado toda a noite, não apanhamos nada; porém, sobre a tua palavra, lançarei a rede”. Apanharam tão grande quantidade de peixes, que a sua rede rompia-se. Simão Pedro lançou-se aos pés de Jesus, dizendo: “Retira-te de mim, Senhor, pois eu sou um homem pecador”. Jesus disse a Simão: “Não tenhas medo; desta hora em diante serás pescador de homens”. Trazidas as barcas para terra, deixando tudo, seguiram-no.",
+    "meditatio_perguntas": [
+      "Que “noite sem pescar nada” na minha vida Jesus me pede para recomeçar sobre a sua palavra?",
+      "Reconheço-me pecador diante dele sem me afastar dele?",
+      "O que Jesus me pede para deixar a fim de o seguir hoje?"
+    ],
+    "oratio_guia": "Senhor, sobe à barca da minha vida e ensina-me. Quando o meu trabalho parecer estéril, dá-me a fé de Pedro para lançar de novo as redes sobre a tua palavra. Eu sou um homem pecador; não te afastes de mim, mas faz-me teu discípulo e pescador de homens. Amém.",
+    "contemplatio_foco": { "texto": "sobre a tua palavra, lançarei a rede", "ref": "Lc 5,5" }
+  },
+  "ancoras": {
+    "5:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "5:1–3#5", "sintese": "Vê a mansidão de Cristo, que pede a Pedro, e a prontidão de Pedro, obediente em tudo." },
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. 2. c. 2.", "catena": "5:1–3#9", "sintese": "Ensina da barca porque ensina os gentios pela autoridade da Igreja; afastar-se um pouco da terra é usar de moderação ao falar às multidões." }
+      ],
+      "nota": null
+    },
+    "5:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:4–7#4", "sintese": "Só a Pedro se diz “faz-te ao largo”: às profundezas do conhecimento do Filho de Deus. As redes apostólicas não matam os peixes, mas tiram-nos das ondas para o alto." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 6 in Matth.", "catena": "5:4–7#1", "sintese": "Por condescendência, chamou os magos com uma estrela e os pescadores com a sua arte de pescar." }
+      ],
+      "nota": null
+    },
+    "5:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:4–7#7", "sintese": "A rede rompe-se, mas os peixes não escapam: o Senhor guarda os seus em meio à violência dos perseguidores." }
+      ],
+      "nota": null
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:4–7#12", "sintese": "O enchimento das barcas continua até o fim do mundo; afundam quando os escolhidos recaem, por maus costumes, no mundo de que foram tirados." }
+      ],
+      "nota": null
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:8–11#0", "sintese": "Assombrado diante do dom divino, Pedro, quanto mais temia, menos presumia de si." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:8–11#4", "sintese": "Dize também tu: “sou um homem pecador”, para que Deus te responda “não temas”; confessa o teu pecado, e o Senhor to perdoará." }
+      ],
+      "nota": null
+    },
+    "5:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:8–11#5", "sintese": "Como agora apanha peixes com a rede, apanhará homens com a palavra; o episódio mostra o que se passa diariamente na Igreja, de que Pedro é figura." }
+      ],
+      "nota": { "texto": "A palavra grega traduzida por “pescador de homens” (zōgrōn) significa literalmente “apanhar vivo”: a pesca de Pedro é para a vida.", "origem": "ia" }
+    },
+    "5:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 14 in Matth.", "catena": "5:8–11#6", "sintese": "Absortos na pesca, ao ouvir a ordem não tardaram: deixaram tudo; tal é a obediência que Cristo nos pede, ainda sob grande necessidade." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

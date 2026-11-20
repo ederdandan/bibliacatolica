@@ -1,0 +1,115 @@
+{
+  "id": "LUK.4.14",
+  "livro": "LUK",
+  "titulo": "Jesus na sinagoga de Nazaré",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 4,14-30",
+  "ini": { "c": 4, "v": 14 },
+  "fim": { "c": 4, "v": 30 },
+  "liturgia": { "tema_central": "“Hoje cumpriu-se esta escritura”: o Ungido enviado aos pobres", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lucas abre o ministério público com uma cena programática. Na força do Espírito, Jesus volta à Galileia e ensina nas sinagogas. Em Nazaré, num sábado, levanta-se para ler e encontra Is 61: o Espírito do Senhor ungiu-o para anunciar a boa nova aos pobres, curar os contritos, libertar os cativos e oprimidos, dar vista aos cegos e proclamar o ano favorável do Senhor. Senta-se e declara: “Hoje cumpriu-se esta escritura”. A admiração inicial muda-se em reserva: “Não é este o filho de José?”. Jesus antecipa o pedido de milagres e lembra que nenhum profeta é aceito na sua pátria: Elias foi enviado a uma viúva de Sarepta e Eliseu curou Naamã, sírio, ambos estrangeiros. Furiosos, levam-no ao cimo do monte para o precipitar, mas ele passa pelo meio deles e vai-se.",
+    "alegorico": "Cristo é o Ungido: o Espírito, o Pai que unge e o Filho que é ungido mostram a Trindade. Jesus, que recebe o livro do profeta, é o mesmo que falara nos Profetas. A viúva de Sarepta e Naamã figuram os gentios que acolhem a palavra quando Israel a recusa; Naamã, lavado sete vezes, prefigura o batismo que o Espírito septiforme renova. A tentativa de o precipitar antecipa a rejeição final e a Paixão.",
+    "moral": "O “hoje” de Jesus vale também para nós: a palavra cumpre-se quando é acolhida. A familiaridade pode cegar: os nazarenos não reconhecem quem cresceu entre eles. Em vão espera a misericórdia quem inveja nos outros os frutos da virtude. Os pobres e contritos de coração, os que sabem precisar de cura, são os primeiros destinatários do Evangelho.",
+    "anagogico": "O “ano favorável do Senhor” é o tempo da graça, que se estende até o dia sem fim do repouso eterno. Os olhos fixos em Jesus na sinagoga figuram a contemplação, que no céu será face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus foi a Nazaré, onde se tinha criado, entrou na sinagoga em dia de sábado e levantou-se para fazer a leitura. Foi-lhe dado o livro do profeta Isaías, e encontrou o lugar onde estava escrito: “O Espírito do Senhor repousou sobre mim; pelo que me ungiu para anunciar a boa nova aos pobres; a pregar o ano favorável do Senhor”. Estavam fixos nele os olhos de todos. Começou a dizer-lhes: “Hoje cumpriu-se esta escritura que acabais de ouvir”. Diziam: “Não é este o filho de José?” Ele disse: “Nenhum profeta é bem recebido na sua pátria”. Encheram-se de ira, e conduziram-no até ao cume do monte para o precipitarem. Mas ele, passando pelo meio deles, retirou-se.",
+    "meditatio_perguntas": [
+      "Deixo que a Palavra se cumpra “hoje” na minha vida, ou adio-a?",
+      "Em que me pareço com os nazarenos, que não reconhecem Jesus por o julgarem conhecido?",
+      "Reconheço-me pobre, cativo ou cego diante de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, ungido pelo Espírito para anunciar a boa nova aos pobres, abre os meus olhos, liberta-me do que me prende e cura o meu coração contrito. Que eu fixe em ti o olhar e acolha hoje a tua palavra, sem te rejeitar por me pareceres conhecido. Amém.",
+    "contemplatio_foco": { "texto": "Hoje cumpriu-se esta escritura que acabais de ouvir.", "ref": "Lc 4,21" }
+  },
+  "ancoras": {
+    "4:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:14–21#1", "sintese": "A força do Espírito significa a manifestação dos milagres." }
+      ],
+      "nota": null
+    },
+    "4:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:14–21#8", "sintese": "Humilha-se até o ofício de leitor e recebe o livro para mostrar que é o mesmo que falara nos Profetas, contra os que separam o Deus do Antigo e do Novo Testamento." }
+      ],
+      "nota": null
+    },
+    "4:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "4:14–21#9", "sintese": "Não foi por acaso, mas por providência, que encontrou a profecia que falava dele." }
+      ],
+      "nota": null
+    },
+    "4:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:14–21#12", "sintese": "Vês aqui a Trindade: Jesus, Deus e homem perfeito, o Pai e o Espírito Santo que desceu sobre Ele." },
+        { "autor": "Orígenes", "obra": null, "catena": "4:14–21#13", "sintese": "Os pobres são as nações gentias, que nada possuíam: nem Deus, nem Lei, nem Profetas, nem justiça." },
+        { "autor": "São Basílio", "obra": null, "catena": "4:14–21#17", "sintese": "Veio curar os de coração contrito, isto é, aqueles cujo coração Satanás quebrantou pelo pecado, que mais que tudo abate o homem." }
+      ],
+      "nota": { "texto": "Jesus combina Is 61,1-2 com Is 58,6 e interrompe a leitura antes de “o dia da vingança do nosso Deus”: o acento está na graça.", "origem": "ia" }
+    },
+    "4:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:14–21#26", "sintese": "O ano favorável do Senhor é o dia estendido por séculos sem fim, que dá aos homens recompensa e repouso perpétuos." }
+      ],
+      "nota": { "texto": "O “ano favorável” evoca o ano jubilar de Lv 25, em que se libertavam os escravos e se perdoavam as dívidas.", "origem": "ia" }
+    },
+    "4:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "4:14–21#28", "sintese": "Também agora os nossos olhos podem fixar-se no Salvador, quando dirigimos o coração à contemplação do Filho unigênito." }
+      ],
+      "nota": null
+    },
+    "4:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "4:22–27#3", "sintese": "Ainda que fosse filho de José, que impedia de o admirar? Não viam os milagres, Satanás prostrado e os homens libertados?" }
+      ],
+      "nota": null
+    },
+    "4:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:22–27#8", "sintese": "Explica por que não faz milagres na sua pátria, para que ninguém pense que se deve estimar pouco o amor à pátria." }
+      ],
+      "nota": null
+    },
+    "4:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:22–27#19", "sintese": "Sidônia e Sarepta significam os gentios, famintos de pão espiritual, aos quais a palavra profética foi levada quando os judeus não creram." }
+      ],
+      "nota": null
+    },
+    "4:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:22–27#23", "sintese": "Naamã representa o povo gentio, lavado sete vezes pelo batismo que o Espírito septiforme renova; a sua carne torna-se de criança, conforme a Cristo." }
+      ],
+      "nota": null
+    },
+    "4:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "4:28–30#2", "sintese": "Os discípulos são piores que o mestre: o diabo disse “lança-te abaixo”; eles tentam de fato precipitá-lo." }
+      ],
+      "nota": null
+    },
+    "4:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "4:28–30#4", "sintese": "A sua paixão foi voluntária: quando quer, é preso; quando quer, escapa. Não quis morrer por mão de poucos, mas pelo mundo inteiro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

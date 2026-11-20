@@ -1,0 +1,60 @@
+{
+  "id": "LUK.5.12",
+  "livro": "LUK",
+  "titulo": "A cura de um leproso",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 5,12-16",
+  "ini": { "c": 5, "v": 12 },
+  "fim": { "c": 5, "v": 16 },
+  "liturgia": { "tema_central": "“Senhor, se tu queres, podes limpar-me”: “Quero, sê limpo”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Numa cidade, um homem “cheio de lepra” (doença avançada) prostra-se diante de Jesus: “Senhor, se tu queres, podes limpar-me”. O leproso era excluído do convívio e considerado impuro pela Lei (Lv 13). Jesus estende a mão, toca-o e diz: “Quero, sê limpo”, e a lepra desaparece. Ordena-lhe que não o diga a ninguém, mas que se apresente ao sacerdote e ofereça o sacrifício prescrito por Moisés, como testemunho. A fama de Jesus espalha-se e acorrem multidões; ele, porém, retira-se para lugares desertos e ora.",
+    "alegorico": "O leproso representa todo o gênero humano, coberto da lepra do pecado. A mão estendida é o Verbo unido à natureza humana: tocando, Cristo não se contamina, mas purifica. Senhor da Lei, toca o que a Lei proibia tocar; mas manda cumprir a oferta de Moisés, mostrando que não revoga a Lei, mas a cumpre.",
+    "moral": "O leproso une pudor e confiança: envergonha-se das suas manchas, mas mostra a ferida e pede o remédio, pondo todo o poder na vontade do Senhor. Aprendamos a entregar-nos à vontade de Deus, que sabe o que é melhor. A ordem de silêncio ensina a não divulgar as nossas boas obras. Jesus alterna a atividade de dia e a oração no deserto: o que se recebe na contemplação devolve-se ao próximo.",
+    "anagogico": "A purificação do leproso e a sua reintegração na comunidade antecipam a purificação final dos eleitos, admitidos à presença de Deus, onde nada impuro entra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Apareceu um homem cheio de lepra, o qual, vendo Jesus, prostrou-se com o rosto por terra e suplicou-lhe: “Senhor, se tu queres, podes limpar-me”. Ele, estendendo a mão, tocou-o, dizendo: “Quero, sê limpo”. Imediatamente desapareceu dele a lepra. Jesus ordenou-lhe que a ninguém o dissesse: “Mas vai, mostra-te ao sacerdote, e oferece pela tua cura o que foi ordenado por Moisés”. Dilatava-se cada vez mais a fama do seu nome. Mas ele retirava-se para lugares desertos, e fazia oração.",
+    "meditatio_perguntas": [
+      "Que “lepra” escondo, com vergonha, em vez de a mostrar a Jesus?",
+      "Rezo como o leproso, entregando o resultado à vontade de Deus?",
+      "Equilibro a ação e a oração como Jesus?"
+    ],
+    "oratio_guia": "Senhor Jesus, prostro-me diante de ti com as minhas manchas. Se tu queres, podes limpar-me. Estende a tua mão e toca-me; cura o que em mim me separa de Deus e dos irmãos, e ensina-me a servir sem buscar louvor e a retirar-me contigo para orar. Amém.",
+    "contemplatio_foco": { "texto": "Quero, sê limpo.", "ref": "Lc 5,13" }
+  },
+  "ancoras": {
+    "5:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:12–16#2", "sintese": "Prostra-se por pudor das manchas da sua vida, mas o pudor não impede a confissão: mostra a ferida, pede o remédio e põe todo o poder na vontade do Senhor." },
+        { "autor": "Tito de Bostra", "obra": null, "catena": "5:12–16#4", "sintese": "Aprendamos a entregar a cura das nossas enfermidades à vontade de Deus, que sabe o que é melhor para nós." }
+      ],
+      "nota": null
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:12–16#5", "sintese": "A Lei proibia tocar o leproso, mas o Senhor da Lei toca-o para mostrar que não teme o contágio: o toque que contaminaria é afugentado pelo seu." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:12–16#10", "sintese": "Diz “quero”, manda e toca: nada se interpõe entre a ordem de Deus e a sua obra." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:12–16#22", "sintese": "O leproso representa o gênero humano coberto da lepra dos pecados; a mão estendida é o Verbo unido à natureza humana, que o purifica." }
+      ],
+      "nota": { "texto": "Segundo Lv 13–14, o leproso devia viver isolado e gritar “impuro”; o sacerdote verificava a cura e oferecia o sacrifício de purificação.", "origem": "ia" }
+    },
+    "5:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:12–16#13", "sintese": "Envia-o ao sacerdote para que este saiba que foi curado pela graça, acima da Lei, e para mostrar que não revoga a Lei, mas a cumpre." }
+      ],
+      "nota": null
+    },
+    "5:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Mor. xxviii. c. 13.", "catena": "5:12–16#19", "sintese": "Faz milagres de dia e ora de noite, ensinando aos pregadores a não abandonar nem a ação nem a contemplação, e a dar em palavras o que beberam no silêncio." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

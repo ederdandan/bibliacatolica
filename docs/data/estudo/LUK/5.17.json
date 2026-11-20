@@ -1,0 +1,67 @@
+{
+  "id": "LUK.5.17",
+  "livro": "LUK",
+  "titulo": "A cura do paralítico",
+  "secao": "O ministério na Galileia",
+  "referencia": "Lc 5,17-26",
+  "ini": { "c": 5, "v": 17 },
+  "fim": { "c": 5, "v": 26 },
+  "liturgia": { "tema_central": "O Filho do homem tem poder de perdoar pecados", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Enquanto Jesus ensina, estão presentes fariseus e doutores da Lei vindos de toda a Galileia, da Judeia e de Jerusalém. Uns homens trazem um paralítico num leito; não conseguindo entrar por causa da multidão, sobem ao telhado, tiram as telhas e descem-no diante de Jesus. Vendo a fé deles, Jesus diz: “Ó homem, são-te perdoados os teus pecados”. Os escribas pensam: “Quem pode perdoar pecados, senão só Deus?”. Jesus, que conhece os seus pensamentos, pergunta o que é mais fácil dizer; e, para mostrar que o Filho do homem tem na terra poder de perdoar, manda o paralítico levantar-se, tomar o leito e ir para casa. Ele levanta-se e vai glorificando a Deus; todos, cheios de temor, dizem: “Hoje vimos coisas maravilhosas”.",
+    "alegorico": "Os escribas dizem a verdade sem a entender: só Deus perdoa pecados, e por isso Jesus, que perdoa e lê os corações, se manifesta Deus. A cura visível é o sinal da cura invisível. A casa coberta de telhas figura a letra da Escritura, sob a qual está escondida a graça; os que descem o enfermo, os doutores da Igreja que o apresentam a Cristo. Voltar para casa é voltar ao paraíso.",
+    "moral": "Deus perdoa a um pelo mérito da fé de outros: recorre à oração dos irmãos e da Igreja. A criatividade dos amigos, que abrem o telhado, mostra a caridade que não se detém diante dos obstáculos. Cuidamos depressa das doenças do corpo e demoramos com as da alma; Jesus começa pela alma. Enquanto estamos na terra é tempo de confessar e apagar os pecados.",
+    "anagogico": "O homem que se levanta do leito é imagem da ressurreição: Cristo perdoa os pecados da alma e afasta a fraqueza da carne. O “ide para casa” aponta para a casa verdadeira, o paraíso perdido e restituído."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Uns homens, levando sobre um leito um homem que estava paralítico, não encontrando por onde o introduzir por causa da multidão, subiram ao telhado e, levantando as telhas, desceram-no com o seu leito diante de Jesus. Vendo a sua fé, Jesus disse: “Ó homem, são-te perdoados os teus pecados!” Os escribas e fariseus pensavam: “Quem pode perdoar pecados, senão só Deus?” Jesus disse: “Para que saibais que o Filho do homem tem poder sobre a terra de perdoar pecados, eu te ordeno, levanta-te, toma o teu leito e vai para tua casa”. Levantando-se logo, foi para sua casa, glorificando a Deus. Todos diziam: “Hoje vimos coisas maravilhosas”.",
+    "meditatio_perguntas": [
+      "Por quem eu “abro o telhado”, levando-o a Jesus com a minha oração?",
+      "Dou à cura da minha alma a mesma urgência que dou à saúde do corpo?",
+      "Recorro ao perdão que Cristo deixou à sua Igreja?"
+    ],
+    "oratio_guia": "Senhor Jesus, que tens poder de perdoar pecados, olha também a fé dos que me levam a ti e perdoa-me. Levanta-me do que me paralisa e dá-me forças para levar os outros à tua presença. Que eu volte para casa glorificando a Deus. Amém.",
+    "contemplatio_foco": { "texto": "Ó homem, são-te perdoados os teus pecados!", "ref": "Lc 5,20" }
+  },
+  "ancoras": {
+    "5:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:17–26#1", "sintese": "Admiráveis os que trouxeram o paralítico: não podendo entrar pela porta, tentaram um caminho novo e desceram-no pelas telhas." }
+      ],
+      "nota": null
+    },
+    "5:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:17–26#3", "sintese": "O Senhor perdoa a um pelo mérito de outros; se desesperas do perdão, recorre à oração da Igreja, e Ele perdoará." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:17–26#2", "sintese": "Antes de curar a paralisia, desata as cadeias dos pecados, sem o que o homem não poderia ser curado." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:17–26#21", "sintese": "Tenha cada enfermo quem ore por ele e o eleve às coisas do alto, para ser posto diante de Jesus, que olha para os humildes." }
+      ],
+      "nota": null
+    },
+    "5:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "5:17–26#9", "sintese": "Dizem a verdade: só Deus perdoa pecados, e também por aqueles a quem dá esse poder; por isso Cristo, que perdoa como Deus, prova-se Deus." }
+      ],
+      "nota": null
+    },
+    "5:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "5:17–26#13", "sintese": "É na terra que se perdoam os pecados: enquanto estamos nela podemos apagá-los; depois, a porta estará fechada." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "5:17–26#25", "sintese": "Ir para casa é voltar ao paraíso, a verdadeira casa do homem, perdida por fraude e restituída por Cristo." }
+      ],
+      "nota": { "texto": "“Filho do homem” é o título que Jesus mais usa para si; evoca a figura celeste de Dn 7,13-14, que recebe de Deus o poder.", "origem": "ia" }
+    },
+    "5:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:17–26#17", "sintese": "Avançam pouco a pouco: glorificam a Deus, mas ainda não o reconhecem Deus; já não era pouco tê-lo por alguém vindo de Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
