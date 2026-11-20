@@ -1,0 +1,57 @@
+{
+  "id": "2JN.1.1",
+  "livro": "2JN",
+  "titulo": "Andar na verdade e na caridade",
+  "secao": "Segunda carta de São João",
+  "referencia": "2Jo 1,1-13",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Permanecer na verdade e na caridade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Ancião escreve à “Senhora eleita” e aos seus filhos, que ama na verdade, por causa da verdade que permanece em nós. Alegra-se por ter encontrado alguns que andam na verdade, segundo o mandamento do Pai, e roga que se amem uns aos outros: não é mandamento novo, mas o que ouviram desde o princípio; e a caridade consiste em andar segundo os mandamentos de Deus. Adverte contra os sedutores que não confessam Jesus Cristo vindo em carne: esse é o sedutor e o Anticristo. Quem não permanece na doutrina de Cristo não tem Deus; quem permanece tem o Pai e o Filho. Pede que não recebam em casa nem saúdem quem traz outra doutrina, para não participarem das suas obras. Espera visitá-los e falar de viva voz, para que a alegria seja perfeita.",
+    "alegorico": "A “Senhora eleita” e os seus filhos são uma Igreja local e os seus fiéis; a “irmã Eleita” é outra Igreja. A Igreja aparece como Esposa e Mãe, que gera filhos na verdade. Confessar Jesus Cristo “vindo em carne” é guardar o mistério da Encarnação, sem o qual não se tem nem o Pai nem o Filho.",
+    "moral": "Verdade e caridade não se opõem: o amor verdadeiro anda segundo os mandamentos, e a verdade se vive em caridade. A carta pede vigilância para não perder o fruto do trabalho e firmeza diante de quem destrói a fé. A hospitalidade cristã é grande, mas não pode servir de apoio à propagação do erro.",
+    "anagogico": "A verdade “será connosco eternamente”, e a alegria que o Ancião espera do encontro face a face, “para que a nossa alegria seja perfeita”, prefigura a alegria plena da visão de Deus, quando já não haverá papel nem tinta, mas comunhão direta."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Ancião à Senhora eleita e a seus filhos que eu amo na verdade. Rogo-te que nos amemos uns aos outros. A caridade consiste em que andemos segundo os seus mandamentos. Muitos sedutores não confessam que Jesus Cristo tenha vindo em carne. O que permanece na doutrina, este tem o Pai e o Filho. Espero ir ter convosco, para que a nossa alegria seja perfeita.",
+    "meditatio_perguntas": [
+      "Amo os irmãos “na verdade”, ou o meu amor foge da verdade quando é incómoda?",
+      "Permaneço na doutrina de Cristo, ou deixo-me levar por novidades que a contradizem?",
+      "Que “fruto dos meus trabalhos” corro o risco de perder por falta de vigilância?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vieste em carne, guarda-me na tua doutrina e no teu amor. Que eu ame os irmãos na verdade e caminhe segundo os teus mandamentos, até que a nossa alegria seja perfeita na tua presença. Amém.",
+    "contemplatio_foco": {
+      "texto": "o que permanece na doutrina, este tem o Pai e o Filho",
+      "ref": "2Jo 1,9"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O Ancião” (presbýteros) é o título com que o autor se apresenta; a tradição identifica-o com o apóstolo São João. “Senhora eleita” designa muito provavelmente uma Igreja local.",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proibição visa os mestres itinerantes que propagavam o erro: recebê-los em casa era dar-lhes base para ensinar na comunidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

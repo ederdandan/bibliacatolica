@@ -1,0 +1,22 @@
+{
+ "livro": "2JN",
+ "secoes": [
+  "Segunda carta de São João"
+ ],
+ "pericopes": [
+  {
+   "id": "2JN.1.1",
+   "titulo": "Andar na verdade e na caridade",
+   "secao": "Segunda carta de São João",
+   "referencia": "2Jo 1,1-13",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 13
+   }
+  }
+ ]
+}

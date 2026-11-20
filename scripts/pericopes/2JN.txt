@@ -1,0 +1,4 @@
+# Divisão em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Segunda carta de São João
+1:1-1:13 | Andar na verdade e na caridade
