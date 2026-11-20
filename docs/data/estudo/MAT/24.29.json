@@ -1,0 +1,78 @@
+{
+  "id": "MAT.24.29",
+  "livro": "MAT",
+  "titulo": "A vinda do Filho do Homem; a lição da figueira",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 24,29-35",
+  "ini": { "c": 24, "v": 29 },
+  "fim": { "c": 24, "v": 35 },
+  "liturgia": { "tema_central": "O Filho do Homem virá sobre as nuvens; as minhas palavras não passarão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois da tribulação, o sol escurecerá, a lua não dará luz, as estrelas cairão e as potências dos céus serão abaladas, linguagem apocalíptica dos profetas (Is 13,10; 34,4; Jl 2,10) para os grandes juízos de Deus. Aparecerá no céu o sinal do Filho do Homem; todas as tribos da terra se lamentarão e verão o Filho do Homem vindo sobre as nuvens do céu com poder e glória (Dn 7,13). Ele enviará os seus anjos com trombeta para reunir os eleitos dos quatro ventos. Da figueira aprendam: quando os ramos ficam tenros e brotam folhas, o verão está perto. Esta geração não passará sem que tudo aconteça; o céu e a terra passarão, mas as suas palavras não passarão.",
+    "alegorico": "O sinal do Filho do Homem foi entendido pelos Padres como a Cruz gloriosa, mais brilhante que o sol, que confundirá os que a desprezaram. A trombeta é o chamado da ressurreição; os anjos reúnem a Igreja dispersa pelo mundo. O verão anunciado pela figueira é a paz e a alegria que os justos terão depois do inverno das provações.",
+    "moral": "Aquele que foi humilhado na Cruz virá como Juiz glorioso: a sua Cruz não é motivo de vergonha, mas de glória. Ler os sinais com fé e esperança, não com medo. A Palavra de Cristo é o único fundamento estável num mundo que passa.",
+    "anagogico": "O céu e a terra passarão, não por aniquilação, mas por transformação, em novos céus e nova terra. Os eleitos serão reunidos dos quatro ventos para a assembleia eterna. Cristo virá no mesmo corpo com que subiu ao céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Logo depois da tribulação daqueles dias, o sol escurecerá, a lua não dará a sua luz, as estrelas cairão do céu e as potências dos céus serão abaladas. Então aparecerá no céu o sinal do Filho do Homem, e todas as tribos da terra se lamentarão, e verão o Filho do Homem vindo sobre as nuvens do céu com grande poder e majestade. E enviará os seus anjos com trombeta e grande voz, e reunirão os seus escolhidos dos quatro ventos. Aprendei da figueira esta comparação: quando os seus ramos estão tenros e brotam as folhas, sabeis que o verão está perto. O céu e a terra passarão, mas as minhas palavras não passarão.”",
+    "meditatio_perguntas": [
+      "Penso na vinda do Senhor com medo ou com esperança?",
+      "A Cruz é para mim sinal de vergonha ou de glória?",
+      "Fundamento a minha vida nas palavras de Cristo, que não passam?"
+    ],
+    "oratio_guia": "Senhor Jesus, que virás sobre as nuvens com poder e glória, faz que eu espere a tua vinda com alegria. Que a tua Cruz seja o meu sinal e a tua Palavra o meu fundamento. Reúne-me entre os teus escolhidos. Amém.",
+    "contemplatio_foco": { "texto": "O céu e a terra passarão, mas as minhas palavras não passarão.", "ref": "Mt 24,35" }
+  },
+  "ancoras": {
+    "24:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:29–30#4", "sintese": "Não por diminuição da luz, mas em comparação com a verdadeira Luz, tudo parecerá trevas." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:29–30#6", "sintese": "As potências dos céus são as hostes dos anjos." }
+      ],
+      "nota": null
+    },
+    "24:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:29–30#9", "sintese": "O sinal é a cruz, mais brilhante que o sol: aparecerá para confundir os que a desprezaram." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:29–30#10", "sintese": "Lamentar-se-ão as tribos da terra: os que não têm cidadania do céu, mas estão inscritos na terra." },
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 41", "catena": "24:29–30#14", "sintese": "O sentido mais óbvio é a sua vinda para julgar os vivos e os mortos no corpo com que está sentado à direita do Pai." }
+      ],
+      "nota": null
+    },
+    "24:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:31#2", "sintese": "O som da trombeta refere-se à ressurreição e à alegria." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:31#7", "sintese": "Chamar os eleitos por meio dos anjos é honra dos eleitos, que serão arrebatados sobre as nuvens." }
+      ],
+      "nota": null
+    },
+    "24:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:32–35#2", "sintese": "A figueira significa o verão espiritual e a paz de que os justos gozarão depois do inverno." },
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 22", "catena": "24:32–35#5", "sintese": "Cada dia a vinda do Senhor se aproxima mais; mas quando será, ninguém sabe." }
+      ],
+      "nota": null
+    },
+    "24:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:32–35#11", "sintese": "“Todas estas coisas”: o fim de Jerusalém, os falsos profetas e tudo o que há de acontecer até a sua vinda." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:32–35#13", "sintese": "Por geração entende todo o gênero humano, e em particular os judeus." }
+      ],
+      "nota": { "texto": "“Esta geração” aplica-se à destruição de Jerusalém, ocorrida uma geração depois (ano 70), que é figura do fim; para o fim do mundo, Jesus declara que ninguém sabe o dia (v. 36).", "origem": "ia" }
+    },
+    "24:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:32–35#15", "sintese": "O céu e a terra passarão por mudança, e não por aniquilação." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:32–35#14", "sintese": "O céu e a terra não têm necessidade de existir; mas as palavras de Cristo, vindas da eternidade, devem permanecer." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

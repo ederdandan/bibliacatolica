@@ -1,0 +1,82 @@
+{
+  "id": "MAT.24.1",
+  "livro": "MAT",
+  "titulo": "A destruição do Templo e o princípio das dores",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 24,1-14",
+  "ini": { "c": 24, "v": 1 },
+  "fim": { "c": 24, "v": 14 },
+  "liturgia": { "tema_central": "Não vos deixeis enganar; quem perseverar até o fim será salvo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Saindo do Templo, os discípulos mostram a Jesus as suas construções (o Templo reconstruído por Herodes, famoso pela beleza). Jesus anuncia: não ficará pedra sobre pedra, o que se cumpriu no ano 70, quando os romanos de Tito o incendiaram. No monte das Oliveiras, os discípulos perguntam quando isso acontecerá e qual o sinal da sua vinda e do fim do mundo. Jesus abre o quinto grande discurso: virão falsos cristos, guerras, fomes, pestes e terremotos, mas ainda não é o fim; é o princípio das dores (imagem das dores de parto, que anunciam um nascimento). Os discípulos serão perseguidos e odiados; muitos se escandalizarão e a caridade de muitos esfriará. Quem perseverar até o fim será salvo; o Evangelho será pregado no mundo inteiro, e então virá o fim.",
+    "alegorico": "Mateus entrelaça dois horizontes: a destruição de Jerusalém, figura e prenúncio, e o fim do mundo. Os Padres viram na queda do Templo o fim do culto antigo: saindo Cristo do Templo, todo o edifício da Lei foi derrubado. As dores de parto são as da história, que dá à luz o Reino definitivo.",
+    "moral": "Não se deixar enganar nem perturbar: a fé não busca datas, mas vigilância. A maior provação não são as guerras, mas os falsos irmãos e o esfriamento da caridade quando a iniquidade cresce. A perseverança é a virtude dos tempos difíceis.",
+    "anagogico": "O Evangelho pregado a todas as nações prepara a vinda do Senhor: é sinal de que a história caminha para a sua plenitude. Quem perseverar até o fim será salvo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus disse: “Vedes todas estas coisas? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derrubada”. Os discípulos perguntaram: “Dize-nos quando sucederão estas coisas, e qual o sinal da tua vinda e do fim do mundo”. Jesus respondeu: “Vede que ninguém vos engane. Ouvireis falar de guerras e rumores de guerras; não vos perturbeis, porque é necessário que isto aconteça, mas ainda não é o fim. Tudo isto é o princípio das dores. Então vos entregarão à tribulação e sereis odiados por todos por causa do meu nome. Por se multiplicar a iniquidade, esfriará a caridade de muitos. Mas quem perseverar até o fim será salvo. E este Evangelho do Reino será pregado em todo o mundo”.",
+    "meditatio_perguntas": [
+      "O que me deixa perturbado e com medo diante dos acontecimentos do mundo?",
+      "A minha caridade está esfriando?",
+      "Como posso perseverar e ajudar o Evangelho a chegar a todos?"
+    ],
+    "oratio_guia": "Senhor Jesus, no meio das guerras e tribulações da história, guarda-me do engano e do medo. Não deixes esfriar em mim a caridade. Dá-me a graça de perseverar até o fim e de anunciar o teu Evangelho. Amém.",
+    "contemplatio_foco": { "texto": "Aquele que perseverar até ao fim, esse será salvo.", "ref": "Mt 24,13" }
+  },
+  "ancoras": {
+    "24:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 75", "catena": "24:1–2#3", "sintese": "Exprime a destruição total: as partes do Templo foram arrancadas até os fundamentos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:1–2#4", "sintese": "Saindo o Senhor do Templo, todo o edifício da Lei foi derrubado, de modo que nada dele pôde ser cumprido." }
+      ],
+      "nota": null
+    },
+    "24:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:3–5#2", "sintese": "Fazem três perguntas: o tempo da destruição de Jerusalém, o da vinda de Cristo e o do fim do mundo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:3–5#1", "sintese": "Perguntam em particular, pelo ardente desejo de ver a sua glória." }
+      ],
+      "nota": null
+    },
+    "24:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:6–8#4", "sintese": "Não penseis que o dia do juízo está próximo: está reservado para outro tempo." }
+      ],
+      "nota": null
+    },
+    "24:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:6–8#12", "sintese": "As dores de parto: como que a concepção da vinda do Anticristo, e não ainda o nascimento." }
+      ],
+      "nota": null
+    },
+    "24:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:9–14#3", "sintese": "Depois dos sedutores e dos inimigos, a terceira oposição: a dos falsos irmãos." }
+      ],
+      "nota": null
+    },
+    "24:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:9–14#6", "sintese": "O mais doloroso: nem sequer terão o alívio da caridade." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:9–14#8", "sintese": "“De muitos”, não de todos: nos apóstolos e nos semelhantes a eles a caridade permanecerá." }
+      ],
+      "nota": null
+    },
+    "24:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:9–14#14", "sintese": "O sinal da segunda vinda é o Evangelho pregado em todo o mundo, para que todos fiquem sem desculpa." },
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 46", "catena": "24:9–14#16", "sintese": "Não há prova certa de que os apóstolos o tenham realizado: há ainda nações a quem o Evangelho não chegou." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

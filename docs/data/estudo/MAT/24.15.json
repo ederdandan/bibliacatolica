@@ -1,0 +1,98 @@
+{
+  "id": "MAT.24.15",
+  "livro": "MAT",
+  "titulo": "A grande tribulação",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 24,15-28",
+  "ini": { "c": 24, "v": 15 },
+  "fim": { "c": 24, "v": 28 },
+  "liturgia": { "tema_central": "Por causa dos eleitos, aqueles dias serão abreviados", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Quando virem “a abominação da desolação” predita por Daniel (Dn 9,27; 11,31), que designava a profanação do Templo por Antíoco IV em 167 a.C., instalada no lugar santo, os da Judeia fujam para os montes, sem voltar atrás. Ai das grávidas e das que amamentam; rezem para que a fuga não seja no inverno nem em sábado. Será uma tribulação como nunca houve; mas, por causa dos eleitos, aqueles dias serão abreviados. Não acreditem em falsos cristos e falsos profetas que farão prodígios: a vinda do Filho do Homem será visível como o relâmpago que brilha do oriente ao ocidente. Onde estiver o cadáver, aí se juntarão as águias (provérbio: o que é inevitável e evidente).",
+    "alegorico": "A abominação no lugar santo foi entendida da profanação do Templo pelos romanos e, em sentido mais amplo, da ação do Anticristo. A vinda gloriosa de Cristo não será escondida nem localizada, mas universal como o relâmpago. As águias que se juntam ao corpo figuram os santos que voam para Cristo, cujo corpo foi entregue na Paixão.",
+    "moral": "Nas tribulações, não descer das alturas espirituais para a vida carnal, nem olhar para trás depois de ter começado o caminho. Não se deixar seduzir por prodígios: também os maus podem fazê-los. Os males previstos ferem menos: Jesus avisa para que estejamos preparados.",
+    "anagogico": "A vinda do Senhor será súbita, gloriosa e evidente a todos. A abreviação dos dias mostra que a história está nas mãos de Deus, que não permite a prova além das forças dos eleitos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando virdes a abominação da desolação, predita pelo profeta Daniel, posta no lugar santo, então os que estiverem na Judeia fujam para os montes. Haverá então grande tribulação, como nunca houve desde o princípio do mundo até agora. E, se aqueles dias não fossem abreviados, nenhuma carne se salvaria; mas por causa dos escolhidos serão abreviados aqueles dias. Se então alguém vos disser: Eis aqui está o Cristo, ou ali, não acrediteis. Surgirão falsos cristos e falsos profetas e farão grandes prodígios, a ponto de enganar, se fosse possível, até os escolhidos. Eis que vo-lo predisse. Porque, assim como o relâmpago sai do oriente e se mostra até o ocidente, assim será a vinda do Filho do Homem.”",
+    "meditatio_perguntas": [
+      "Em tempos de crise, olho para trás, para as seguranças antigas?",
+      "Deixo-me impressionar por quem promete sinais e prodígios?",
+      "Confio que Deus abrevia as provas por amor dos seus eleitos?"
+    ],
+    "oratio_guia": "Senhor Jesus, que avisaste os teus discípulos para que não fossem enganados, guarda-me fiel nas tribulações. Não me deixes olhar para trás nem seguir falsos cristos. Vem, Senhor, como o relâmpago que ilumina toda a terra. Amém.",
+    "contemplatio_foco": { "texto": "Eis que eu vo-lo predisse.", "ref": "Mt 24,25" }
+  },
+  "ancoras": {
+    "24:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:15–22#1", "sintese": "“Quem lê, entenda”: chama-nos à inteligência mística do lugar." },
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 31", "catena": "24:15–22#2", "sintese": "Lucas mostra que a abominação predita por Daniel se referia ao tempo do cerco de Jerusalém." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:15–22#20", "sintese": "O Profeta disse isto dos tempos do Anticristo: é sinal da sua vinda futura." }
+      ],
+      "nota": null
+    },
+    "24:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 30", "catena": "24:15–22#21", "sintese": "Nas tribulações, não descer das alturas espirituais para a vida carnal, nem olhar para trás depois de ter progredido." }
+      ],
+      "nota": null
+    },
+    "24:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:15–22#22", "sintese": "Não é advertência às grávidas, mas descrição das almas carregadas com o peso dos pecados." }
+      ],
+      "nota": null
+    },
+    "24:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:15–22#10", "sintese": "No inverno o frio impede a fuga; no sábado teriam de transgredir a Lei para fugir." }
+      ],
+      "nota": null
+    },
+    "24:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:15–22#17", "sintese": "Abreviados não na duração, mas no número, para que a fé dos crentes não seja abalada por longas aflições." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "24:15–22#16", "sintese": "Quando Jerusalém caiu, havia naquele povo eleitos de Deus que tinham crido ou haviam de crer." }
+      ],
+      "nota": null
+    },
+    "24:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Div. Quaest. 83, q. 79", "catena": "24:23–28#4", "sintese": "Também os maus farão milagres que os santos não fazem, e nem por isso são maiores diante de Deus." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 35 sobre os Evangelhos, 1", "catena": "24:23–28#8", "sintese": "O coração dos eleitos é assaltado pelo temor, mas a sua constância não é abalada." }
+      ],
+      "nota": null
+    },
+    "24:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "24:23–28#10", "sintese": "Os dardos previstos ferem menos: anuncia os males para que, quando vierem, perturbem menos." }
+      ],
+      "nota": null
+    },
+    "24:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:23–28#1", "sintese": "A segunda vinda não será em humildade, mas em glória: é loucura buscar em lugares escondidos a Luz do mundo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:23–28#12", "sintese": "Como o relâmpago não precisa de quem o anuncie, assim será a sua vinda." }
+      ],
+      "nota": null
+    },
+    "24:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:23–28#13", "sintese": "Se as aves descobrem o cadáver só pelo instinto, quanto mais devem os fiéis apressar-se para Cristo!" },
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:23–28#14", "sintese": "Chama águias aos santos, pelo voo espiritual dos seus corpos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

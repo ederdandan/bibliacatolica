@@ -1,0 +1,90 @@
+{
+  "id": "MAT.24.36",
+  "livro": "MAT",
+  "titulo": "Vigiai: o servo fiel e prudente",
+  "secao": "O discurso escatológico",
+  "referencia": "Mt 24,36-51",
+  "ini": { "c": 24, "v": 36 },
+  "fim": { "c": 24, "v": 51 },
+  "liturgia": { "tema_central": "Vigiai, porque não sabeis a hora em que virá o vosso Senhor", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ninguém sabe o dia nem a hora, nem os anjos, nem o Filho, só o Pai. Como nos dias de Noé, em que comiam, bebiam e casavam sem perceber o dilúvio, assim será a vinda do Filho do Homem: de dois que trabalham no campo ou de duas que moem no moinho, um será tomado e outro deixado. Vigiai, pois; se o dono da casa soubesse a hora do ladrão, vigiaria. Segue a parábola do servo posto pelo senhor à frente da casa para dar o alimento a seu tempo: feliz se o senhor o encontrar assim; mas, se disser “meu senhor tarda” e começar a espancar os companheiros e a banquetear com os bêbados, o senhor virá quando não espera e lhe dará a sorte dos hipócritas.",
+    "alegorico": "Cristo, como Verbo, conhece todas as coisas; diz não saber o dia porque não lhe cabia revelá-lo aos discípulos (At 1,7). O servo posto à frente da casa figura os pastores da Igreja, que devem dar aos fiéis o alimento da Palavra e dos sacramentos a seu tempo.",
+    "moral": "Vigiar é ter os olhos abertos para a verdadeira luz, fazer o que se crê e afastar a preguiça. Ignorar a hora é uma graça: obriga a estar sempre preparados. Muitos guardam o dinheiro de um ladrão esperado com mais cuidado do que a própria alma. Quem tem autoridade deve ser fiel, sem se apropriar do que é do Senhor, e prudente, sabendo administrar.",
+    "anagogico": "A vinda do Senhor será súbita para cada um, no fim do mundo e na hora da morte. Ao servo fiel, o Senhor confiará todos os seus bens: a glória de Deus, acima da qual nada há."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quanto àquele dia e àquela hora, ninguém sabe, nem os anjos do céu, nem o Filho, mas só o Pai. Como nos dias de Noé, assim será a vinda do Filho do Homem. Vigiai, pois, porque não sabeis a que hora há de vir o vosso Senhor. Por isso estai vós também preparados, porque o Filho do Homem virá na hora em que não pensais. Quem é o servo fiel e prudente, que o senhor pôs à frente da sua família para lhe dar o alimento a seu tempo? Bem-aventurado aquele servo que o senhor, quando vier, achar procedendo assim.”",
+    "meditatio_perguntas": [
+      "Se o Senhor viesse hoje, como me encontraria?",
+      "Que “alimento” devo dar a seu tempo aos que me foram confiados?",
+      "Guardo a minha alma com o mesmo cuidado com que guardo os meus bens?"
+    ],
+    "oratio_guia": "Senhor Jesus, que virás na hora em que não pensamos, dá-me um coração vigilante. Que me encontres fiel e prudente, servindo os irmãos que me confiaste. Vem, Senhor Jesus! Amém.",
+    "contemplatio_foco": { "texto": "Vigiai, pois, porque não sabeis a que hora há de vir o vosso Senhor.", "ref": "Mt 24,42" }
+  },
+  "ancoras": {
+    "24:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:36–41#5", "sintese": "O Filho não ignora o dia; mas não convinha aos apóstolos sabê-lo: “não vos compete saber os tempos”." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 12", "catena": "24:36–41#6", "sintese": "“Não sabe” significa: não o sabia para o revelar aos discípulos, como se disse a Abraão: “agora sei que temes a Deus”." }
+      ],
+      "nota": { "texto": "A frase “nem o Filho” falta em alguns códices antigos, como observa São Jerônimo; Matos Soares a traz. A Igreja ensina que Cristo, como Verbo, conhece todas as coisas; o que não lhe cabia era revelar esse dia.", "origem": "ia" }
+    },
+    "24:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:36–41#12", "sintese": "Para mostrar que não cala o dia por ignorância, dá outro sinal: os dias de Noé." }
+      ],
+      "nota": null
+    },
+    "24:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:36–41#16", "sintese": "Os dois no campo são crentes e incrédulos, surpreendidos pelo dia do Senhor nos trabalhos desta vida." }
+      ],
+      "nota": null
+    },
+    "24:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "24:42–44#0", "sintese": "Não convinha saber a hora, para que, ignorando-a, vivessem em perpétua expectativa." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 2 sobre os Evangelhos, 3", "catena": "24:42–44#2", "sintese": "Vigiar é ter os olhos abertos para a verdadeira luz, fazer o que se crê e afastar a preguiça." },
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 3", "catena": "24:42–44#4", "sintese": "Disse “vigiai” não só aos que o ouviam, mas a nós e a todos até a sua vinda." }
+      ],
+      "nota": null
+    },
+    "24:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 13 sobre os Evangelhos, 5", "catena": "24:42–44#8", "sintese": "O ladrão entra quando, adormecido o espírito, a morte surpreende a morada da nossa carne." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:42–44#9", "sintese": "Repreende os que cuidam menos da alma do que do dinheiro contra um ladrão esperado." }
+      ],
+      "nota": null
+    },
+    "24:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:45–51#0", "sintese": "Encargo especial aos que governam o povo, os bispos, de vigiar na expectativa da vinda do Senhor." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "24:45–51#4", "sintese": "Fiel, porque não se apropria dos bens do Senhor nem os desperdiça; prudente, porque sabe administrá-los." }
+      ],
+      "nota": null
+    },
+    "24:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "24:45–51#12", "sintese": "Pô-lo-á à frente de todos os seus bens: na glória de Deus, acima da qual nada há." }
+      ],
+      "nota": null
+    },
+    "24:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Ep. 199, 1", "catena": "24:45–51#14", "sintese": "A sua disposição se manifesta na tirania, espancando os conservos, e na sensualidade, comendo com os bêbados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
