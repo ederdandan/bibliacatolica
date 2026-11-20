@@ -1,0 +1,62 @@
+{
+  "id": "MAT.20.29",
+  "livro": "MAT",
+  "titulo": "Os dois cegos de Jericó",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mt 20,29-34",
+  "ini": { "c": 20, "v": 29 },
+  "fim": { "c": 20, "v": 34 },
+  "liturgia": { "tema_central": "“Senhor, que se abram os nossos olhos”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao sair de Jericó, última etapa antes da subida a Jerusalém (cerca de 25 km, com mil metros de desnível), seguido por uma grande multidão, Jesus passa por dois cegos sentados à beira do caminho. Eles gritam: “Senhor, Filho de Davi, tem piedade de nós!”, título messiânico. A multidão manda calar; eles gritam mais. Jesus para, chama-os e pergunta: “Que quereis que vos faça?” “Senhor, que se abram os nossos olhos.” Movido de compaixão, toca-lhes os olhos; logo veem e o seguem. Marcos e Lucas falam de um só cego (Bartimeu).",
+    "alegorico": "Os dois cegos figuram os dois povos, judeus e gentios, à beira do caminho, que é Cristo, esperando a luz. Jesus “passa” na sua Encarnação; quem clama a Ele é iluminado. Os que mandam calar são os maus cristãos e os costumes do mundo que impedem os que querem seguir a Cristo.",
+    "moral": "A oração perseverante vence os obstáculos: quanto mais os mandam calar, mais gritam. Jesus pergunta o que queremos, para que reconheçamos a nossa necessidade. Os curados não foram ingratos: seguiram-no, não tanto com os pés, mas com as virtudes. Quem recebe a luz deve pôr-se no caminho de Jesus.",
+    "anagogico": "Os olhos abertos dos cegos antecipam a visão de Deus, quando a fé dará lugar à luz plena. Seguir Jesus para Jerusalém é seguir o caminho que conduz, pela Cruz, à glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao saírem de Jericó, seguiu Jesus uma grande multidão. Dois cegos, sentados à beira do caminho, ouvindo que Jesus passava, gritaram: “Senhor, Filho de Davi, tem piedade de nós!” A multidão repreendia-os para que se calassem; mas eles gritavam mais. Jesus parou, chamou-os e disse: “Que quereis que vos faça?” Responderam: “Senhor, que se abram os nossos olhos”. Jesus, compadecido, tocou-lhes os olhos, e logo viram, e o seguiram.",
+    "meditatio_perguntas": [
+      "De que cegueira preciso que Jesus me cure?",
+      "Que vozes tentam calar a minha oração?",
+      "Depois de receber a luz, sigo Jesus no seu caminho?"
+    ],
+    "oratio_guia": "Senhor, Filho de Davi, tem piedade de mim! Abre os meus olhos para que eu veja a tua luz. Que nenhuma voz cale a minha súplica, e que, curado, eu te siga pelo caminho. Amém.",
+    "contemplatio_foco": { "texto": "Senhor, que se abram os nossos olhos.", "ref": "Mt 20,33" }
+  },
+  "ancoras": {
+    "20:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 65", "catena": "20:29–34#1", "sintese": "Marcos fala de um só porque um deles era bem conhecido na cidade, como mostra a menção do seu nome e do pai." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 28", "catena": "20:29–34#18", "sintese": "Os dois cegos à beira do caminho designam fiéis de ambos os povos que aderiam a Cristo, o caminho, e buscavam ser iluminados." }
+      ],
+      "nota": null
+    },
+    "20:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 66", "catena": "20:29–34#6", "sintese": "Permitiu que fossem impedidos para manifestar o seu desejo: quem se aproxima de Deus com sinceridade, mesmo repelido, obtém o que pede." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 88, 13", "catena": "20:29–34#19", "sintese": "Os cristãos maus ou tíbios são obstáculo aos bons; mas estes clamem e não desfaleçam." }
+      ],
+      "nota": null
+    },
+    "20:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:29–34#7", "sintese": "Para porque, cegos, não podiam ver o caminho, cheio de covas e precipícios em torno de Jericó." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:29–34#9", "sintese": "Pergunta o que querem para que a sua resposta manifeste a necessidade e se mostre o seu poder." }
+      ],
+      "nota": null
+    },
+    "20:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:29–34#11", "sintese": "O Criador concede o que a natureza não deu; a misericórdia, o que a enfermidade tirara." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:29–34#12", "sintese": "Perseverantes antes do benefício, não foram ingratos depois." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:29–34#14", "sintese": "Os que só sabiam clamar seguem depois a Jesus, não tanto com os pés como com as virtudes." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

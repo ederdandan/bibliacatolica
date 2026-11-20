@@ -1,0 +1,84 @@
+{
+  "id": "MAT.20.17",
+  "livro": "MAT",
+  "titulo": "Terceiro anúncio da Paixão; o pedido da mãe dos filhos de Zebedeu",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Mt 20,17-28",
+  "ini": { "c": 20, "v": 17 },
+  "fim": { "c": 20, "v": 28 },
+  "liturgia": { "tema_central": "Beber o cálice; o Filho do Homem veio para servir e dar a vida", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Subindo a Jerusalém, Jesus anuncia pela terceira vez, e com mais detalhes, a Paixão: será entregue aos sumos sacerdotes e escribas, condenado à morte, entregue aos gentios para ser escarnecido, açoitado e crucificado, e ressuscitará ao terceiro dia. Logo depois, a mãe de Tiago e João pede para os filhos os lugares à direita e à esquerda no Reino. Jesus pergunta se podem beber o cálice que Ele vai beber (imagem bíblica do sofrimento destinado por Deus). Eles dizem que sim; Jesus anuncia que o beberão, mas os lugares são do Pai. Os dez indignam-se; Jesus ensina: os chefes das nações dominam, mas entre vós quem quiser ser o maior seja servo, como o Filho do Homem, que veio para servir e dar a vida em resgate por muitos (Is 53,10-12).",
+    "alegorico": "A Cruz é o trono da glória de Cristo: à sua direita e esquerda estarão, ironicamente, dois ladrões (27,38). O cálice é a Paixão, partilhada pelos discípulos no martírio. O “resgate por muitos” é o preço da libertação da humanidade: Cristo é o Servo sofredor que dá a vida por todos.",
+    "moral": "Pedimos honras e coroas, mas Jesus fala de trabalhos e sofrimentos: este não é o tempo das recompensas. A grandeza cristã é o serviço; desejar a preeminência é próprio dos pagãos. O exemplo de Cristo envergonha a nossa ambição: por mais que nos humilhemos, nunca desceremos tanto quanto Ele.",
+    "anagogico": "Na Paixão vemos o que devemos sofrer pela verdade; na Ressurreição, o que devemos esperar na eternidade. Os lugares no Reino são preparados pelo Pai para os que beberam o cálice com Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Subindo a Jerusalém, Jesus disse aos Doze: “O Filho do Homem será entregue aos sumos sacerdotes e aos escribas, que o condenarão à morte e o entregarão aos gentios para ser escarnecido, açoitado e crucificado; mas ao terceiro dia ressuscitará”. A mãe dos filhos de Zebedeu pediu: “Ordena que estes meus dois filhos se sentem no teu Reino, um à tua direita e outro à tua esquerda”. Jesus respondeu: “Não sabeis o que pedis. Podeis beber o cálice que eu hei de beber?” Disseram: “Podemos”. E aos Doze: “Quem quiser ser o maior entre vós seja vosso servo, assim como o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos”.",
+    "meditatio_perguntas": [
+      "O que peço a Jesus: honras ou a graça de beber o seu cálice?",
+      "Onde busco ser “o maior” em vez de servir?",
+      "Como posso “dar a vida” hoje no serviço aos outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vieste para servir e dar a vida em resgate por muitos, purifica os meus pedidos e a minha ambição. Dá-me força para beber contigo o cálice e alegria em servir os irmãos. Amém.",
+    "contemplatio_foco": { "texto": "O Filho do homem não veio para ser servido, mas para servir e dar a sua vida em redenção de muitos.", "ref": "Mt 20,28" }
+  },
+  "ancoras": {
+    "20:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:17–19#6", "sintese": "Indo a Jerusalém, fortalece os discípulos contra a prova, para que não se escandalizassem com a Cruz." }
+      ],
+      "nota": null
+    },
+    "20:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:17–19#8", "sintese": "Avisa-os para que saibam que vai à paixão consciente e de boa vontade." },
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 18, 49", "catena": "20:17–19#10", "sintese": "Na sua paixão vemos o que devemos sofrer pela verdade; na ressurreição, o que devemos esperar na eternidade." }
+      ],
+      "nota": null
+    },
+    "20:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 64", "catena": "20:20–23#2", "sintese": "Marcos atribui o pedido aos filhos; foi a mãe quem apresentou o desejo deles ao Senhor." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:20–23#3", "sintese": "Tinham ouvido falar dos doze tronos e procuravam o primeiro desses lugares." }
+      ],
+      "nota": null
+    },
+    "20:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:20–23#14", "sintese": "Nas Escrituras, o cálice é o sofrimento: “Preciosa aos olhos do Senhor é a morte dos seus santos”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:20–23#16", "sintese": "Vós me pedis honras e coroas, mas eu vos falo de trabalhos e sofrimentos: não é este o tempo das recompensas." }
+      ],
+      "nota": null
+    },
+    "20:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:20–23#21", "sintese": "Tiago foi decapitado e João morreu em paz; mas João, lançado no azeite fervente e desterrado em Patmos, não careceu da vontade do martírio: bebeu o cálice da confissão." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 12", "catena": "20:20–23#26", "sintese": "Responde na condição de servo; tudo o que o Pai prepara, prepara-o também o Filho, pois Ele e o Pai são um." }
+      ],
+      "nota": null
+    },
+    "20:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:24–28#4", "sintese": "O Mestre manso e humilde não acusa os dois de ambição nem os dez de inveja: chama-os a si." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:24–28#7", "sintese": "Desejar a preeminência é próprio dos gentios." }
+      ],
+      "nota": null
+    },
+    "20:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "20:24–28#9", "sintese": "Dá-lhes o seu próprio exemplo, para que, se tiverem em pouca conta as suas palavras, as suas obras os envergonhem." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "20:24–28#11", "sintese": "Por mais que te humilhes, não poderás descer tanto quanto o teu Senhor." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
