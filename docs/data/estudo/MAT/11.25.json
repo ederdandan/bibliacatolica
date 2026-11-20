@@ -1,0 +1,70 @@
+{
+  "id": "MAT.11.25",
+  "livro": "MAT",
+  "titulo": "O Pai revela aos pequeninos; vinde a mim",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 11,25-30",
+  "ini": { "c": 11, "v": 25 },
+  "fim": { "c": 11, "v": 30 },
+  "liturgia": { "tema_central": "Vinde a mim, todos os que estais cansados: sou manso e humilde de coração", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em contraste com a incredulidade das cidades, Jesus louva o Pai, “Senhor do céu e da terra”, porque revelou “estas coisas” (o mistério do Reino) aos pequeninos e as escondeu aos sábios e entendidos (os mestres da Lei, seguros do próprio saber). Afirma depois a sua relação única com o Pai: conhecimento recíproco e exclusivo, que só o Filho pode comunicar. Por fim, o convite: “Vinde a mim”. O “jugo”, imagem rabínica da Lei (“o jugo do Reino”), pesava sobre o povo com as tradições dos fariseus (23,4). O jugo de Jesus é suave, porque Ele mesmo é manso e humilde e carrega conosco.",
+    "alegorico": "Este é o chamado “hino de júbilo”, em que transparece o mistério trinitário: o Pai e o Filho se conhecem plenamente, e o Espírito, que é o amor de ambos, não se separa deles. Cristo é a Sabedoria que convida os que se cansam (cf. Eclo 51,23-27). O seu jugo é a lei nova do amor, e o descanso que oferece prefigura o sábado eterno.",
+    "moral": "Os “sábios” aqui são os soberbos; os “pequeninos”, os humildes. Para conhecer a Deus é preciso a humildade. Jesus não nos propõe aprender dele a criar o mundo ou fazer milagres, mas a ser manso e humilde de coração: quem quer construir alto deve começar pelo alicerce da humildade. O jugo de Cristo não suprime as dificuldades, mas o amor as torna leves.",
+    "anagogico": "“Achareis descanso para as vossas almas”: o repouso que Cristo dá já agora é antecipação do descanso eterno em Deus, onde o Filho nos revelará o Pai face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus disse: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. Tudo me foi entregue por meu Pai; ninguém conhece o Filho senão o Pai, e ninguém conhece o Pai senão o Filho e aquele a quem o Filho o quiser revelar. Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei de mim, que sou manso e humilde de coração, e encontrareis descanso para as vossas almas. Pois o meu jugo é suave, e o meu fardo é leve”.",
+    "meditatio_perguntas": [
+      "Aproximo-me de Deus como “pequenino” ou como quem já sabe tudo?",
+      "Que cansaço e que fardo preciso entregar hoje a Jesus?",
+      "O que significa, para mim, aprender dele a mansidão e a humildade?"
+    ],
+    "oratio_guia": "Senhor Jesus, manso e humilde de coração, eu venho a ti cansado e sobrecarregado. Revela-me o Pai, faz-me pequenino para te conhecer. Coloca sobre mim o teu jugo suave e dá descanso à minha alma. Amém.",
+    "contemplatio_foco": { "texto": "Vinde a mim todos os que estais fatigados e carregados, e eu vos aliviarei.", "ref": "Mt 11,28" }
+  },
+  "ancoras": {
+    "11:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 67, 1", "catena": "11:25–26#2", "sintese": "Cristo, longe de todo pecado, diz “eu confesso”: a confissão é também louvor e ação de graças." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 67, 5", "catena": "11:25–26#4", "sintese": "Os sábios e entendidos são os soberbos; os pequeninos, os humildes." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:25–26#8", "sintese": "Que se esconda a uns é motivo de tristeza; alegra-se porque os pequeninos conheceram o que os sábios ignoraram." }
+      ],
+      "nota": null
+    },
+    "11:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:27#5", "sintese": "Dizendo que só Ele conhece o Pai, mostra veladamente que é da mesma substância que o Pai." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 8", "catena": "11:27#8", "sintese": "A substância deles é inseparável: às vezes basta nomear o Pai ou o Filho; nem se pode separar deles o seu Espírito." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 7, 3", "catena": "11:27#10", "sintese": "O Pai é revelado pelo Filho, isto é, pelo seu Verbo, como a nossa palavra revela o que queremos comunicar." }
+      ],
+      "nota": null
+    },
+    "11:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:28–30#5", "sintese": "Não disse “vinde vós, este ou aquele”, mas “todos os que estais em aflição ou em pecado”: não para castigar, mas para perdoar." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "11:28–30#3", "sintese": "O fardo do pecado é pesado: a iniquidade está sentada sobre um talento de chumbo." }
+      ],
+      "nota": null
+    },
+    "11:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 69, 1", "catena": "11:28–30#9", "sintese": "Aprendei de mim não a criar o mundo ou fazer milagres, mas que sou manso e humilde: queres construir alto? Começa pelo alicerce da humildade." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:28–30#11", "sintese": "Ao começar a Lei divina, começa pela humildade, e promete a maior recompensa: o descanso para as almas." }
+      ],
+      "nota": null
+    },
+    "11:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 70, 1", "catena": "11:28–30#16", "sintese": "Os que tomaram o jugo do Senhor sofrem perigos tais que parecem chamados do descanso ao trabalho; mas o Espírito Santo, renovando o homem interior, suavizava o que era áspero e tornava leve o que era pesado." }
+      ],
+      "nota": { "texto": "Os rabinos falavam do “jugo da Lei” e do “jugo do Reino dos Céus”. Jesus oferece o seu próprio jugo.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

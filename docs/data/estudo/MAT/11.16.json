@@ -1,0 +1,66 @@
+{
+  "id": "MAT.11.16",
+  "livro": "MAT",
+  "titulo": "Esta geração e as cidades impenitentes",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 11,16-24",
+  "ini": { "c": 11, "v": 16 },
+  "fim": { "c": 11, "v": 24 },
+  "liturgia": { "tema_central": "Ai de ti, Corozain! A dureza diante dos sinais de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus compara “esta geração” a crianças caprichosas na praça, que não aceitam nenhuma brincadeira, nem a de casamento (flauta e dança), nem a de enterro (lamentações). Assim rejeitaram João, austero, dizendo que tinha demônio, e rejeitam o Filho do Homem, que come com os pecadores, chamando-o glutão e beberrão. Mas a Sabedoria é justificada pelas suas obras. Depois, as “lamentações proféticas” (“Ai de ti”) contra Corozain, Betsaida e Cafarnaum, cidades do lago onde Jesus fez muitos milagres sem obter conversão. As cidades pagãs de Tiro e Sidônia, e até Sodoma, teriam feito penitência “em cilício e cinza”. A Cafarnaum aplica-se o oráculo contra o rei de Babilônia (Is 14,13-15).",
+    "alegorico": "João e Jesus são dois caminhos opostos para o mesmo fim, como dois caçadores que cercam a presa por lados diferentes. A Sabedoria é Cristo, justificada por seus “filhos”, os que acolhem a sua obra. As cidades que viram os milagres e não se converteram representam todos os que recebem muitas graças sem fruto.",
+    "moral": "Quem não quer converter-se encontra sempre uma desculpa: contra a austeridade e contra a misericórdia. Nada se omitiu da parte de Deus para a nossa salvação. Mais graça traz mais responsabilidade: a acusação é mais grave para quem viu mais. A penitência é a resposta devida aos sinais de Deus.",
+    "anagogico": "“No dia do Juízo”, a medida será proporcional às graças recebidas. A recusa obstinada dos sinais de Deus leva à ruína; a penitência abre o caminho para a misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A quem compararei esta geração? É semelhante a crianças sentadas nas praças que gritam aos companheiros: Tocamos flauta, e não dançastes; entoamos lamentações, e não chorastes. Veio João, que não comia nem bebia, e dizem: Tem demônio. Veio o Filho do Homem, que come e bebe, e dizem: É um comilão e beberrão, amigo de publicanos e pecadores. Mas a Sabedoria foi justificada pelas suas obras”. Então começou a censurar as cidades onde fizera muitos milagres, porque não se tinham convertido: “Ai de ti, Corozain! Ai de ti, Betsaida!”",
+    "meditatio_perguntas": [
+      "Que desculpas uso para não me converter?",
+      "Quantas graças e sinais recebi, e que frutos dei?",
+      "Faço penitência pelos meus pecados?"
+    ],
+    "oratio_guia": "Senhor Jesus, Sabedoria do Pai, não permitas que eu seja como as crianças caprichosas ou as cidades impenitentes. Que as tuas graças não caiam em vão na minha vida. Dá-me um coração convertido e penitente. Amém.",
+    "contemplatio_foco": { "texto": "A sabedoria (divina) foi justificada por suas obras.", "ref": "Mt 11,19" }
+  },
+  "ancoras": {
+    "11:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:16–19#1", "sintese": "Mostra que nada se omitiu do que devia fazer-se pela salvação deles." }
+      ],
+      "nota": null
+    },
+    "11:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:16–19#8", "sintese": "Tocamos flauta: mostrei-vos uma vida sem rigor; entoamos lamentações: João levou vida austera, e não vos convertestes." }
+      ],
+      "nota": null
+    },
+    "11:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:16–19#10", "sintese": "Eu e João viemos por caminhos opostos para fazer a mesma coisa, como dois caçadores que perseguem o mesmo animal por lados opostos." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 2, 11", "catena": "11:16–19#15", "sintese": "Os apóstolos entenderam que o Reino de Deus não está na comida e na bebida, mas na paciente perseverança." }
+      ],
+      "nota": null
+    },
+    "11:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:20–24#2", "sintese": "Para que não dissesses que eram maus por natureza, nomeia Betsaida, de onde vieram apóstolos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "11:20–24#3", "sintese": "Com este “ai”, o Salvador lamenta as cidades que, depois de tantos sinais, não fizeram penitência." }
+      ],
+      "nota": { "texto": "Cilício era um tecido grosseiro de pelos de cabra; vesti-lo e cobrir-se de cinza eram sinais de luto e penitência.", "origem": "ia" }
+    },
+    "11:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:20–24#15", "sintese": "É prova de extrema maldade serem piores não só que os contemporâneos, mas que os mais perversos de todos os tempos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

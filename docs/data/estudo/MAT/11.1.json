@@ -1,0 +1,95 @@
+{
+  "id": "MAT.11.1",
+  "livro": "MAT",
+  "titulo": "A pergunta de João Batista e o testemunho de Jesus",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 11,1-15",
+  "ini": { "c": 11, "v": 1 },
+  "fim": { "c": 11, "v": 15 },
+  "liturgia": { "tema_central": "“És tu aquele que há de vir?” — Os cegos veem, os pobres são evangelizados", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Preso na fortaleza de Maqueronte por Herodes Antipas (14,3), João envia discípulos a perguntar: “És tu aquele que há de vir?”, título messiânico. Jesus responde com as obras que cumprem as profecias de Isaías (Is 35,5-6; 61,1): cegos veem, coxos andam, os pobres recebem a Boa-Nova. E acrescenta: feliz quem não se escandaliza dele, de um Messias diferente do esperado. Depois, Jesus faz o elogio de João: não é cana agitada pelo vento nem cortesão em vestes finas, mas profeta e mais que profeta, o mensageiro anunciado por Malaquias (Ml 3,1), o “Elias que há de vir” (Ml 3,23). É o maior dos nascidos de mulher; mas o menor no Reino é maior que ele. O versículo sobre os “violentos” que arrebatam o Reino é difícil: pode indicar a oposição violenta ao Reino ou o esforço decidido de quem o conquista.",
+    "alegorico": "João é a fronteira entre a Lei e os Profetas, que profetizaram “até João”, e o Reino que chega em Cristo. Ele é Elias não por reencarnação, mas pelo espírito e pela missão de precursor. As obras de Jesus são os sinais messiânicos da nova criação, que a Igreja continua nos sacramentos e na caridade para com os pobres.",
+    "moral": "Os Padres viram na pergunta de João não uma dúvida sua, mas um cuidado pastoral: enviou os discípulos para que eles mesmos se convencessem. O verdadeiro testemunho são as obras. A firmeza de João, que não se dobra como cana, e a sua austeridade são modelo de fidelidade. O Reino exige decisão: “os violentos o arrebatam”, isto é, os que se esforçam e fazem violência a si mesmos.",
+    "anagogico": "O menor no Reino é maior que João porque o santo que já está com o Senhor, coroado, é maior que quem ainda luta. A promessa “aquele que há de vir” cumpre-se em Cristo e aguarda a sua vinda gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "João, no cárcere, ouviu falar das obras de Cristo e mandou perguntar-lhe: “És tu aquele que há de vir, ou devemos esperar outro?” Jesus respondeu: “Ide contar a João o que ouvis e vedes: os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e os pobres são evangelizados. Feliz aquele que não se escandalizar de mim”. E disse às multidões: “Que fostes ver no deserto? Uma cana agitada pelo vento? Um profeta? Sim, e mais do que profeta. Entre os nascidos de mulher não surgiu ninguém maior que João Batista; mas o menor no Reino dos Céus é maior do que ele”.",
+    "meditatio_perguntas": [
+      "Em que momentos de “cárcere” eu também pergunto: “És tu mesmo?”",
+      "Reconheço os sinais da presença de Cristo nas obras de caridade de hoje?",
+      "Sou firme na fé, ou como a cana que se dobra a todo vento?"
+    ],
+    "oratio_guia": "Senhor Jesus, aquele que havia de vir, abre os meus olhos para reconhecer as tuas obras. Livra-me do escândalo diante dos teus caminhos. Dá-me a firmeza e a humildade de João, para preparar o teu caminho. Amém.",
+    "contemplatio_foco": { "texto": "Os pobres são evangelizados.", "ref": "Mt 11,5" }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 36", "catena": "11:1#1", "sintese": "Tendo-os enviado, retirou-se, dando-lhes ocasião de fazer o que lhes mandara; enquanto Ele estivesse presente, ninguém iria ter com eles." }
+      ],
+      "nota": null
+    },
+    "11:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:2–6#3", "sintese": "João não ignorava a sua morte: foi o primeiro a anunciá-la, chamando-o Cordeiro de Deus que tira o pecado do mundo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:2–6#10", "sintese": "Estando para morrer, preocupou-se com os discípulos e enviou-os para que eles mesmos se convencessem." }
+      ],
+      "nota": null
+    },
+    "11:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:2–6#12", "sintese": "Conhecendo a intenção de João, não disse “Sou eu”, mas deixou que as obras falassem." }
+      ],
+      "nota": null
+    },
+    "11:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:2–6#14", "sintese": "As palavras dirigem-se aos mensageiros, que se escandalizavam dele; sem publicar as suas dúvidas, corrige-os em segredo." }
+      ],
+      "nota": null
+    },
+    "11:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:7–10#4", "sintese": "Livra João da inconstância de que a multidão o suspeitava: “uma cana agitada pelo vento?”" }
+      ],
+      "nota": null
+    },
+    "11:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:7–10#17", "sintese": "João é maior que os profetas porque está perto de Cristo, enviado diante da sua face." }
+      ],
+      "nota": null
+    },
+    "11:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "11:11#2", "sintese": "É posto acima de todos os nascidos do matrimônio, mas não acima daquele que nasceu da Virgem e do Espírito Santo." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "11:11#7", "sintese": "Todo santo que já está com o Senhor é maior do que quem ainda está na batalha: uma coisa é ter a coroa, outra ainda lutar." }
+      ],
+      "nota": null
+    },
+    "11:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:12–15#4", "sintese": "Todos os que se apressam a chegar ao Reino o arrebatam pela fé em Cristo." }
+      ],
+      "nota": null
+    },
+    "11:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "11:12–15#7", "sintese": "João é Elias não segundo a metempsicose dos hereges, mas por ter vindo no espírito e na força de Elias." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:12–15#8", "sintese": "“Se quiserdes aceitar”: respeita a liberdade deles; ambos foram precursores." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
