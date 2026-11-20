@@ -1,0 +1,57 @@
+{
+  "id": "ACT.19.1",
+  "livro": "ACT",
+  "titulo": "Paulo em Éfeso",
+  "secao": "A missão aos gentios",
+  "referencia": "At 19,1-40",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Assim crescia poderosamente a palavra de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Éfeso, Paulo encontra alguns discípulos e pergunta: recebestes o Espírito Santo quando abraçastes a fé? Nem sequer ouvimos dizer que há Espírito Santo. Tinham recebido só o batismo de João. Paulo explica que João pregava a fé naquele que viria depois dele, Jesus; são batizados em nome do Senhor Jesus, e, impondo-lhes Paulo as mãos, o Espírito Santo desce sobre eles, e falam línguas e profetizam; eram cerca de doze. Durante três meses Paulo prega na sinagoga; diante da oposição, ensina diariamente na escola de Tirano, durante dois anos, de modo que todos os habitantes da Ásia ouvem a palavra. Deus faz milagres extraordinários por meio de Paulo: até lenços que lhe tocavam curavam doentes. Exorcistas judeus, filhos de Ceva, tentam usar o nome de Jesus, mas o espírito mau responde: conheço Jesus e sei quem é Paulo; mas vós, quem sois? Muitos dos que praticavam a magia trazem os seus livros e queimam-nos diante de todos: valiam cinquenta mil moedas de prata. Assim crescia e se fortalecia a palavra do Senhor. O ourives Demétrio, que fazia templozinhos de prata de Ártemis, amotina os artífices, porque o Evangelho ameaçava o seu negócio; durante duas horas a multidão grita no teatro: grande é a Ártemis dos efésios! O escrivão da cidade acalma o povo e dissolve a assembleia.",
+    "alegorico": "Os doze discípulos de Éfeso recebem o seu Pentecostes, completando o batismo de João com o dom do Espírito. O nome de Jesus não é fórmula mágica: os filhos de Ceva aprendem que só tem poder quem pertence a Cristo. A fogueira dos livros de magia é imagem da rutura com o paganismo.",
+    "moral": "A conversão tem preço: os efésios queimam livros caros, e o comércio religioso de Demétrio protesta. O Evangelho mexe com os interesses económicos ligados à idolatria. E a pergunta de Paulo continua atual: recebestes o Espírito Santo? Há batizados que vivem como se nem soubessem que há Espírito Santo.",
+    "anagogico": "A palavra do Senhor cresce e fortalece-se apesar de tumultos e ídolos: a vitória final pertence a Cristo, não às Ártemis de todos os tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós recebestes o Espírito Santo, quando abraçastes a fé? Responderam-lhe: Nem sequer ouvimos dizer que há Espírito Santo. Tendo-lhes Paulo imposto as mãos, veio sobre eles o Espírito Santo, e falavam línguas e profetizavam. Muitos dos que tinham exercitado artes mágicas trouxeram os seus livros e queimaram-nos. Deste modo crescia poderosamente e firmava-se a palavra de Deus.",
+    "meditatio_perguntas": [
+      "Tenho consciência viva do Espírito Santo recebido?",
+      "Que “livros de magia” preciso de queimar: superstições, apegos, idolatrias?",
+      "Os meus interesses económicos alguma vez se opõem ao Evangelho?"
+    ],
+    "oratio_guia": "Espírito Santo, que desceste sobre os discípulos de Éfeso, faz-me consciente da tua presença em mim. Dá-me coragem para queimar os meus ídolos, e que a tua palavra cresça e se firme na minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deste modo crescia poderosamente e firmava-se a palavra de Deus",
+      "ref": "At 19,20"
+    }
+  },
+  "ancoras": {
+    "19:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O templo de Ártemis (Diana) em Éfeso era uma das sete maravilhas do mundo antigo.",
+        "origem": "ia"
+      }
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A estadia de Paulo em Éfeso (c. 52–55) é a mais longa; daí escreveu 1 Coríntios.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

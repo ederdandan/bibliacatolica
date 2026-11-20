@@ -1,0 +1,65 @@
+{
+  "id": "ACT.4.1",
+  "livro": "ACT",
+  "titulo": "Pedro e João diante do Sinédrio",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 4,1-31",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Não há salvação em nenhum outro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os sacerdotes, o comandante do Templo e os saduceus, irritados por anunciarem em Jesus a ressurreição dos mortos, prendem Pedro e João; mas muitos dos que ouviram creem, e o número dos homens chega a cinco mil. No dia seguinte, diante do Sinédrio, com Anás e Caifás, perguntam-lhes: com que poder ou em nome de quem fizestes isto? Pedro, cheio do Espírito Santo, responde: é em nome de Jesus Cristo, o Nazareno, que vós crucificastes e Deus ressuscitou, que este homem está curado. Ele é a pedra rejeitada por vós, construtores, que se tornou pedra angular. Não há salvação em nenhum outro, pois não há debaixo do céu outro nome dado aos homens pelo qual devamos ser salvos. Admirados com a ousadia de homens sem instrução, e vendo o curado, não sabem que dizer; proíbem-nos de falar no nome de Jesus. Pedro e João respondem: julgai vós se é justo obedecer-vos antes a vós que a Deus; nós não podemos deixar de falar do que vimos e ouvimos. Libertados, voltam aos irmãos, e todos rezam: Senhor, olha para as suas ameaças e concede aos teus servos anunciar com toda a ousadia a tua palavra. O lugar treme, ficam cheios do Espírito Santo e anunciam a palavra com firmeza.",
+    "alegorico": "A pedra rejeitada que se torna angular (Sl 117,22) é a chave cristológica da Paixão: o que os homens descartam, Deus põe como fundamento. A oração da comunidade relê o Salmo 2 à luz da Paixão: os poderosos conspiraram contra o Ungido, mas cumpriram o desígnio de Deus.",
+    "moral": "Pedro, que negou Jesus diante de uma criada, agora o confessa diante do Sinédrio: é a obra do Espírito. Os apóstolos não pedem que cesse a perseguição, mas coragem para anunciar. O cristão não pode calar o que viu e ouviu.",
+    "anagogico": "Em nenhum outro há salvação: Cristo é o único mediador e o destino de toda a história. O tremor do lugar é como um novo Pentecostes, sinal de que Deus responde à oração."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro, cheio do Espírito Santo, disse-lhes: Este Jesus é a pedra que foi rejeitada por vós, os construtores, e que se tornou pedra angular. Não há salvação em nenhum outro, porque, sob o céu, nenhum outro nome foi dado aos homens, pelo qual devamos ser salvos. Não podemos deixar de falar das coisas que vimos e ouvimos. Concede aos teus servos que, com toda a confiança, anunciem a tua palavra.",
+    "meditatio_perguntas": [
+      "Creio que só em Cristo há salvação?",
+      "Que me impede de falar do que vi e ouvi de Deus?",
+      "Peço na oração coragem, ou só que cessem as dificuldades?"
+    ],
+    "oratio_guia": "Senhor, olha as ameaças que pesam sobre nós e concede aos teus servos anunciar com toda a confiança a tua palavra. Enche-me do teu Espírito, para que não cale o que vi e ouvi. Só em Jesus está a salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não há salvação em nenhum outro",
+      "ref": "At 4,12"
+    }
+  },
+  "ancoras": {
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 4,8-12 é a primeira leitura do 4º Domingo da Páscoa, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "4:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sl 117,22 (Vulgata), já aplicado por Jesus a si mesmo (Mt 21,42).",
+        "origem": "ia"
+      }
+    },
+    "4:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A oração cita o Salmo 2,1-2.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

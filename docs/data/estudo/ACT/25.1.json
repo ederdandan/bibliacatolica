@@ -1,0 +1,65 @@
+{
+  "id": "ACT.25.1",
+  "livro": "ACT",
+  "titulo": "Paulo diante de Festo e de Agripa",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 25,1–26,32",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Não fui rebelde à visão celeste",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O novo governador, Festo, vai a Jerusalém, onde os chefes dos judeus pedem que Paulo seja transferido, planeando matá-lo no caminho. Em Cesareia, Paulo defende-se: não pequei contra a Lei, nem contra o Templo, nem contra César. Festo propõe julgá-lo em Jerusalém; Paulo responde: estou diante do tribunal de César; apelo para César. Festo: apelaste para César, para César irás. Chegam o rei Agripa II e Berenice; Festo expõe-lhes o caso: tratava-se de questões sobre um certo Jesus, morto, que Paulo afirmava estar vivo. Diante deles, Paulo conta de novo a sua conversão: o Senhor disse-lhe que o enviava aos gentios, para lhes abrir os olhos, para que se convertam das trevas à luz e do poder de Satanás a Deus, e recebam o perdão dos pecados e a herança entre os santificados. Por isso, ó rei Agripa, não fui rebelde à visão celeste; anunciei que se arrependessem e se convertessem a Deus. Digo apenas o que os profetas e Moisés anunciaram: que o Cristo havia de sofrer e, ressuscitado em primeiro lugar dentre os mortos, anunciar a luz ao povo e às nações. Festo grita: estás louco, Paulo! Paulo responde: não estou louco, digo palavras de verdade e de bom senso. Agripa diz: por pouco me persuades a fazer-me cristão. E Paulo: prouvera a Deus que todos os que me ouvem se tornassem como eu, exceto estas cadeias. Concluem que nada fez digno de morte.",
+    "alegorico": "Paulo diante de reis e governadores cumpre a profecia sobre ele: “levará o meu nome diante das nações e dos reis” (9,15). A missão é descrita como passagem das trevas à luz: é a própria experiência de Paulo, cegado e iluminado, que se torna programa para todos.",
+    "moral": "“Não fui rebelde à visão celeste”: a fidelidade a um chamamento recebido é o fio da vida de Paulo. Festo julga a fé como loucura; Agripa fica “quase” persuadido. O “por pouco” é o drama de muitos: estar perto e não dar o passo. O desejo de Paulo é magnânimo: que todos sejam como ele, “exceto estas cadeias”.",
+    "anagogico": "A herança entre os santificados e a luz anunciada às nações pelo Cristo ressuscitado são a meta para onde Paulo conduz os seus ouvintes, reis ou prisioneiros."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Para lhes abrir os olhos, a fim de que se convertam das trevas à luz, e do poder de Satanás a Deus, para que recebam o perdão dos pecados e a herança entre os santos, mediante a fé em mim. Por isso, ó rei Agripa, não fui rebelde à visão celeste. Agripa disse a Paulo: Por pouco me não persuades a fazer-me cristão. Prouvera a Deus que todos quantos me ouvem se fizessem hoje tais como eu sou, menos estes grilhões.",
+    "meditatio_perguntas": [
+      "Sou fiel ao chamamento que recebi de Deus?",
+      "Há em mim um “por pouco” diante de um passo de fé?",
+      "Desejo, como Paulo, que todos conheçam a alegria da fé?"
+    ],
+    "oratio_guia": "Senhor, que chamaste Paulo das trevas à luz, faz-me fiel à tua visão celeste. Não me deixes ficar no “por pouco”, mas dá-me dar inteiramente o passo da fé, e desejar que todos conheçam a tua luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "não fui rebelde à visão celeste",
+      "ref": "At 26,19"
+    }
+  },
+  "ancoras": {
+    "25:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O direito de apelo a César (provocatio) era privilégio dos cidadãos romanos.",
+        "origem": "ia"
+      }
+    },
+    "26:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das três ocorrências de “cristão” no NT (com At 11,26 e 1Pd 4,16).",
+        "origem": "ia"
+      }
+    },
+    "25:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Agripa II, bisneto de Herodes, o Grande, e sua irmã Berenice.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

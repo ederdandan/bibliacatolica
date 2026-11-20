@@ -1,0 +1,65 @@
+{
+  "id": "ACT.12.1",
+  "livro": "ACT",
+  "titulo": "Pedro libertado da prisão",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 12,1-25",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A Igreja orava sem cessar por ele",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nesse tempo, o rei Herodes começa a perseguir alguns membros da Igreja; manda matar à espada Tiago, irmão de João, e, vendo que isso agradava aos judeus, prende também Pedro, nos dias dos Ázimos, entregando-o a quatro grupos de soldados, com o intento de o apresentar ao povo depois da Páscoa. Pedro está guardado na prisão, mas a Igreja faz sem cessar oração a Deus por ele. Na noite anterior ao julgamento, Pedro dorme entre dois soldados, atado com duas cadeias. De repente aparece um anjo do Senhor, e uma luz brilha na cela; o anjo toca-o no lado e desperta-o: levanta-te depressa. As cadeias caem-lhe das mãos. Põe o cinto, calça as sandálias, envolve-te no manto e segue-me. Pedro segue-o, julgando ser uma visão; passam as guardas, e a porta de ferro abre-se por si. Voltando a si, Pedro diz: agora sei verdadeiramente que o Senhor enviou o seu anjo e me livrou. Vai à casa de Maria, mãe de João Marcos, onde muitos estavam reunidos em oração; a criada Rode, de alegria, nem abre a porta. Pedro conta como o Senhor o tirou da prisão e parte para outro lugar. Herodes, aclamado como deus, é ferido por um anjo e morre; e a palavra do Senhor crescia e se multiplicava.",
+    "alegorico": "A libertação de Pedro durante a Páscoa, de noite, com o cinto e as sandálias, evoca a ceia pascal e a saída do Egito (Ex 12,11): é uma páscoa de Pedro, figura da ressurreição. A morte de Herodes, que aceita honras divinas, mostra o fim de todo poder que se diviniza.",
+    "moral": "A Igreja não tem armas contra Herodes, mas tem a oração incessante. E a comunidade que reza custa a crer que foi atendida: a cena de Rode é cheia de humor e de verdade. Pedro dorme tranquilo na véspera do julgamento: paz de quem confia.",
+    "anagogico": "“Levanta-te depressa”: as cadeias caem como cairão as da morte. A Palavra cresce enquanto os perseguidores passam."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro estava guardado no cárcere. Entretanto a Igreja fazia sem cessar oração a Deus por ele. De repente sobreveio um anjo do Senhor, e resplandeceu uma luz no aposento. O anjo despertou-o, dizendo: Levanta-te depressa. E caíram as cadeias das suas mãos. Agora sei verdadeiramente que o Senhor mandou o seu anjo e me livrou. Entretanto a palavra do Senhor crescia e multiplicava-se.",
+    "meditatio_perguntas": [
+      "Rezo com perseverança pelos pastores da Igreja?",
+      "Creio realmente que Deus responde quando rezo?",
+      "Que cadeias minhas precisam de cair?"
+    ],
+    "oratio_guia": "Senhor, que libertaste Pedro pelas orações da Igreja, guarda o Papa e os pastores do teu povo. Ensina-me a rezar sem cessar e a crer que me escutas. Quebra as minhas cadeias e faz crescer a tua Palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "a Igreja fazia sem cessar oração a Deus por ele",
+      "ref": "At 12,5"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 12,1-11 é a primeira leitura da solenidade de São Pedro e São Paulo (Missa do dia, 29 de junho).",
+        "origem": "ia"
+      }
+    },
+    "12:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tiago, filho de Zebedeu, é o primeiro dos Doze a morrer mártir (c. 44); Herodes é Agripa I, neto de Herodes, o Grande.",
+        "origem": "ia"
+      }
+    },
+    "12:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Casa de Maria, mãe de João Marcos, autor tradicional do segundo Evangelho: provável lugar de reunião da Igreja de Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

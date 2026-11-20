@@ -1,0 +1,65 @@
+{
+  "id": "ACT.7.1",
+  "livro": "ACT",
+  "titulo": "O discurso e o martírio de Estêvão",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 7,1-59",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 59
+  },
+  "liturgia": {
+    "tema_central": "Senhor Jesus, recebe o meu espírito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Interrogado pelo sumo sacerdote, Estêvão percorre a história de Israel: Deus apareceu a Abraão e prometeu-lhe a terra; os patriarcas venderam José, mas Deus estava com ele; Moisés, rejeitado pelos irmãos (“quem te constituiu chefe?”), foi o mesmo que Deus enviou como libertador, e o povo recusou-o e fez um bezerro; David quis construir uma casa para Deus, e Salomão a edificou, mas o Altíssimo não habita em templos feitos por mãos de homem. E conclui: homens de dura cerviz, incircuncisos de coração e de ouvidos, resistis sempre ao Espírito Santo; qual dos profetas não perseguiram vossos pais? Mataram os que anunciavam o Justo, de quem agora vós fostes traidores e assassinos. Ao ouvirem isto, rangem os dentes. Estêvão, cheio do Espírito Santo, olhando para o céu, vê a glória de Deus e Jesus de pé à direita de Deus: vejo os céus abertos e o Filho do Homem à direita de Deus. Tapam os ouvidos, lançam-se sobre ele, arrastam-no para fora da cidade e apedrejam-no; as testemunhas depõem as vestes aos pés de um jovem chamado Saulo. Estêvão ora: Senhor Jesus, recebe o meu espírito; e de joelhos clama: Senhor, não lhes imputes este pecado. E adormece no Senhor.",
+    "alegorico": "O discurso mostra um padrão: Deus age fora da terra santa e do Templo, e Israel rejeita sempre os enviados (José, Moisés, os profetas, Jesus). A morte de Estêvão reproduz a de Jesus: entrega do espírito, perdão aos algozes, morte fora da cidade. Jesus “de pé” à direita de Deus está como testemunha que se levanta a favor do seu mártir.",
+    "moral": "Estêvão é o primeiro mártir e modelo de todo martírio: fidelidade à verdade até ao fim e perdão aos inimigos. O seu perdão não é fraqueza, mas força do Espírito. E a presença discreta de Saulo mostra que a oração do mártir pode dar frutos inesperados: Agostinho dizia que, se Estêvão não tivesse orado, a Igreja não teria Paulo.",
+    "anagogico": "O mártir vê os céus abertos: a morte cristã é passagem para a glória. Estêvão não morre, “adormece no Senhor”, à espera da ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Homens de dura cerviz, vós resistis sempre ao Espírito Santo. Estêvão, cheio do Espírito Santo, olhando para o céu, viu a glória de Deus e Jesus que estava em pé à direita de Deus. Eis que vejo os céus abertos. Enquanto apedrejavam Estêvão, ele orava assim: Senhor Jesus, recebe o meu espírito. Depois, posto de joelhos, clamou: Senhor, não lhes imputes este pecado. E adormeceu no Senhor.",
+    "meditatio_perguntas": [
+      "Em que resisto ao Espírito Santo?",
+      "Consigo rezar pelos que me ferem?",
+      "Como imagino a minha própria morte à luz da de Estêvão?"
+    ],
+    "oratio_guia": "Senhor Jesus, recebe o meu espírito. Dá-me a fidelidade de Estêvão e a graça de perdoar como ele perdoou: Senhor, não lhes imputes este pecado. Que eu adormeça em ti, vendo os céus abertos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor Jesus, recebe o meu espírito",
+      "ref": "At 7,58"
+    }
+  },
+  "ancoras": {
+    "7:55": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 7,55-60 (na numeração usual) é a primeira leitura do 7º Domingo da Páscoa, Ano C. Na Matos Soares o capítulo tem 59 versículos.",
+        "origem": "ia"
+      }
+    },
+    "7:48": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Crítica a uma conceção do Templo como morada que encerra Deus (cf. Is 66,1-2).",
+        "origem": "ia"
+      }
+    },
+    "7:58": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção de Saulo; as vestes aos seus pés indicam a sua aprovação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ACT.20.1",
+  "livro": "ACT",
+  "titulo": "Trôade e a despedida de Mileto",
+  "secao": "A missão aos gentios",
+  "referencia": "At 20,1-38",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "É maior felicidade dar do que receber",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo percorre a Macedónia e a Grécia e volta por Trôade. No primeiro dia da semana, reunidos para partir o pão, Paulo fala até à meia-noite; um jovem, Êutico, adormece e cai do terceiro andar; levantam-no morto, mas Paulo abraça-o e diz: a sua vida está nele; depois parte o pão, come e fala até ao romper do dia. Com pressa de chegar a Jerusalém para o Pentecostes, Paulo manda chamar a Mileto os anciãos de Éfeso e faz-lhes o seu discurso de despedida: sabeis como vivi convosco, servindo o Senhor com toda a humildade, entre lágrimas e provações; não deixei de vos anunciar nada do que era útil. Agora vou a Jerusalém, ligado pelo Espírito, sem saber o que me espera, senão que me aguardam cadeias e tribulações; mas não dou valor à minha vida, contanto que termine a minha carreira e o ministério de testemunhar o Evangelho da graça de Deus. Não me vereis mais. Velai por vós e por todo o rebanho, sobre o qual o Espírito Santo vos constituiu bispos, para apascentardes a Igreja de Deus, que Ele adquiriu com o seu próprio sangue; virão lobos ferozes. Encomendo-vos a Deus e à palavra da sua graça. Não cobicei prata nem ouro; estas mãos proveram às minhas necessidades; lembrai-vos das palavras do Senhor Jesus: há mais felicidade em dar do que em receber. Ajoelha-se, ora com todos, e todos choram, abraçando-o.",
+    "alegorico": "A reunião de Trôade, “no primeiro dia da semana, para partir o pão”, é o mais antigo testemunho da Eucaristia dominical. O discurso de Mileto é o testamento pastoral de Paulo: retrato do pastor segundo o coração de Cristo, que dá a vida pelo rebanho adquirido com o sangue de Deus.",
+    "moral": "O pastor vela primeiro por si e depois pelo rebanho; serve com humildade, não procura lucro, trabalha e dá. A frase “há mais felicidade em dar do que em receber” é uma palavra de Jesus que não está nos Evangelhos, conservada por Paulo. A despedida, com lágrimas e oração, mostra a profundidade do afeto entre pastor e comunidade.",
+    "anagogico": "Paulo vê a vida como uma corrida a terminar: o horizonte é a coroa e a herança “com todos os santificados”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A minha vida importa-me pouco, contanto que termine a minha carreira e a missão que recebi do Senhor Jesus de dar testemunho ao Evangelho da graça de Deus. Atendei a vós mesmos e a todo o rebanho, sobre que o Espírito Santo vos constituiu bispos, para governardes a Igreja de Deus, que ele adquiriu com o seu próprio sangue. Lembrai-vos das palavras do Senhor Jesus, porquanto ele mesmo disse: É maior ventura dar, que receber.",
+    "meditatio_perguntas": [
+      "Experimento a alegria de dar mais do que a de receber?",
+      "Rezo pelos pastores da Igreja, que velam pelo rebanho?",
+      "Para que “carreira” vivo a minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que disseste ser maior felicidade dar do que receber, faz-me generoso. Guarda os pastores do teu rebanho, adquirido com o teu sangue, e dá-me terminar a minha carreira testemunhando o Evangelho da tua graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "É maior ventura dar, que receber",
+      "ref": "At 20,35"
+    }
+  },
+  "ancoras": {
+    "20:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeiro testemunho explícito da celebração eucarística no domingo (“primeiro dia da semana”).",
+        "origem": "ia"
+      }
+    },
+    "20:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido nas ordenações e nas festas de santos pastores. “Bispos” (epískopoi) e “anciãos” (presbýteroi) designam aqui os mesmos responsáveis.",
+        "origem": "ia"
+      }
+    },
+    "20:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 20,17-27 e 20,28-38 lêem-se na 7ª semana da Páscoa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

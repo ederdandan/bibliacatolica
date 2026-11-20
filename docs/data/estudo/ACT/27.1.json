@@ -1,0 +1,65 @@
+{
+  "id": "ACT.27.1",
+  "livro": "ACT",
+  "titulo": "A viagem e o naufrágio",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 27,1–28,16",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Coragem, porque tenho fé em Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo e outros presos são confiados ao centurião Júlio e embarcam para Itália. A navegação é difícil; em Bons Portos, Paulo aconselha passar ali o inverno, mas o centurião confia mais no piloto. Pouco depois, um vento violento, o Euroaquilão, arrasta o navio; durante muitos dias sem sol nem estrelas, lança-se a carga ao mar e perde-se toda a esperança. Paulo põe-se de pé no meio deles: coragem! Nenhuma vida se perderá, só o navio; esta noite apareceu-me o anjo do Deus a quem pertenço e a quem sirvo, e disse: não temas, Paulo; deves comparecer diante de César, e Deus concedeu-te todos os que navegam contigo. Por isso, coragem, porque tenho fé em Deus de que assim acontecerá. Na décima quarta noite, Paulo exorta todos a comer; toma o pão, dá graças a Deus diante de todos, parte-o e começa a comer; todos se animam e comem; eram duzentas e setenta e seis pessoas. O navio encalha e desfaz-se, mas todos chegam a terra sãos e salvos. Na ilha de Malta, os habitantes acolhem-nos com humanidade; uma víbora morde Paulo, que a sacode para o fogo sem sofrer mal; Paulo cura o pai de Públio e muitos doentes. Três meses depois chegam a Itália; os irmãos de Roma vêm ao seu encontro até ao Foro de Ápio, e Paulo, vendo-os, dá graças a Deus e cobra ânimo.",
+    "alegorico": "O navio na tempestade é imagem clássica da Igreja (a “barca de Pedro”); Paulo, prisioneiro, torna-se o verdadeiro capitão, porque tem a palavra de Deus. O gesto de tomar o pão, dar graças, parti-lo e comer evoca a Eucaristia: no meio da tempestade, o pão partido reanima a todos.",
+    "moral": "Quando todos perdem a esperança, o crente fica de pé e anima: a fé torna-se serviço aos outros. Paulo é realista (prevê perdas) e confiante (nenhuma vida se perderá). A hospitalidade dos malteses, pagãos, é exemplar. E o próprio apóstolo precisa de ânimo: a visita dos irmãos de Roma consola-o.",
+    "anagogico": "Todos chegam a terra sãos e salvos: imagem da salvação que Deus quer para todos os que navegam com a Igreja na tempestade da história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo, dizendo: Não temas, Paulo; Deus te concedeu a vida de todos os que navegam contigo. Por isso, meus amigos, coragem, porque tenho fé em Deus de que assim acontecerá, como me foi dito. Tomando o pão, deu graças a Deus em presença de todos; depois, tendo-o partido, começou a comer. Paulo, tendo visto os irmãos, deu graças a Deus e ficou cheio de confiança.",
+    "meditatio_perguntas": [
+      "Na tempestade, sou dos que desanimam ou dos que animam?",
+      "Pertenço a Deus e sirvo-o, como Paulo diz de si?",
+      "Deixo que os irmãos me deem ânimo quando preciso?"
+    ],
+    "oratio_guia": "Deus a quem pertenço e a quem sirvo, nas tempestades da vida dá-me a fé de Paulo: coragem, porque confio em ti. Que eu saiba partir o pão e reanimar os que perderam a esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "tenho fé em Deus de que assim acontecerá, como me foi dito",
+      "ref": "At 27,25"
+    }
+  },
+  "ancoras": {
+    "27:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Euroaquilão: vento de nordeste, perigoso no Mediterrâneo no inverno.",
+        "origem": "ia"
+      }
+    },
+    "28:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Malta (Melita): a tradição local venera o lugar do naufrágio, a “Baía de São Paulo”.",
+        "origem": "ia"
+      }
+    },
+    "27:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A sequência tomar, dar graças, partir, comer reproduz as palavras da instituição da Eucaristia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

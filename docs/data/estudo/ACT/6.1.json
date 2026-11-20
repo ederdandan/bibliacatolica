@@ -1,0 +1,57 @@
+{
+  "id": "ACT.6.1",
+  "livro": "ACT",
+  "titulo": "A escolha dos Sete",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 6,1-15",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Ocupar-nos-emos da oração e do ministério da palavra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aumentando o número dos discípulos, os helenistas murmuram contra os hebreus, porque as suas viúvas eram esquecidas na distribuição diária. Os Doze convocam a multidão dos discípulos e dizem: não é justo que deixemos a palavra de Deus para servir às mesas. Escolhei, pois, irmãos, dentre vós sete homens de boa reputação, cheios do Espírito e de sabedoria, a quem confiaremos este serviço; nós, porém, dedicar-nos-emos à oração e ao ministério da palavra. A proposta agrada a todos, e escolhem Estêvão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau, prosélito de Antioquia. Apresentam-nos aos apóstolos, que, orando, lhes impõem as mãos. A palavra de Deus crescia, o número dos discípulos multiplicava-se muito em Jerusalém, e grande número de sacerdotes obedecia à fé. Estêvão, cheio de graça e de força, fazia grandes prodígios. Alguns da sinagoga dos Libertos discutem com ele, mas não podem resistir à sabedoria e ao Espírito com que falava; subornam então testemunhas falsas, que o acusam de blasfemar contra Moisés e contra o Templo. Todos os do Sinédrio, fixando nele os olhos, viram o seu rosto como o de um anjo.",
+    "alegorico": "A imposição das mãos com oração é o gesto da ordenação: a Tradição viu nos Sete o início do diaconado. O rosto de Estêvão “como de um anjo” lembra o rosto radiante de Moisés: ironicamente, acusam de falar contra Moisés aquele que se lhe assemelha.",
+    "moral": "O primeiro conflito da Igreja é resolvido com escuta, discernimento e criação de um novo ministério: a Igreja organiza-se para servir. Os pastores não devem deixar a oração e a Palavra por tarefas que outros podem fazer. E o serviço às mesas exige homens “cheios do Espírito”: não há tarefa meramente técnica na Igreja.",
+    "anagogico": "O rosto angélico de Estêvão diante dos acusadores é antecipação da glória que vai contemplar: a santidade já transfigura o homem neste mundo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Escolhei dentre vós sete varões de boa reputação, cheios de Espírito Santo e de sabedoria, aos quais encarreguemos desta obra. Nós, porém, ocupar-nos-emos totalmente na oração e no ministério da palavra. Os Apóstolos, fazendo oração, impuseram-lhes as mãos. A palavra do Senhor ia-se espalhando cada vez mais. Viram o seu rosto como o rosto de um anjo.",
+    "meditatio_perguntas": [
+      "Que serviço concreto posso assumir na minha comunidade?",
+      "Dou à oração e à Palavra o primeiro lugar?",
+      "Como reajo às murmurações e conflitos na Igreja?"
+    ],
+    "oratio_guia": "Senhor, dá à tua Igreja servidores cheios do Espírito e de sabedoria, e pastores dedicados à oração e à Palavra. Faz-me servir com alegria onde me colocares, e que o meu rosto reflita a tua graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós, porém, ocupar-nos-emos totalmente na oração e no ministério da palavra",
+      "ref": "At 6,4"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 6,1-7 é a primeira leitura do 5º Domingo da Páscoa, Ano A; usado também na ordenação de diáconos.",
+        "origem": "ia"
+      }
+    },
+    "6:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 6,8-10; 7,54-59 é a primeira leitura da festa de Santo Estêvão (26 de dezembro).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

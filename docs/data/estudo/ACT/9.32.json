@@ -1,0 +1,57 @@
+{
+  "id": "ACT.9.32",
+  "livro": "ACT",
+  "titulo": "Pedro em Lida e em Jope",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 9,32-43",
+  "ini": {
+    "c": 9,
+    "v": 32
+  },
+  "fim": {
+    "c": 9,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Jesus Cristo te cura",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro, percorrendo todas as comunidades, chega aos santos que habitavam em Lida. Encontra ali um homem chamado Eneias, paralítico, deitado num leito havia oito anos. Pedro diz-lhe: Eneias, Jesus Cristo cura-te; levanta-te e faze tu mesmo a tua cama. Ele levanta-se imediatamente, e todos os habitantes de Lida e de Sarona o veem e convertem-se ao Senhor. Em Jope havia uma discípula chamada Tabita, que quer dizer Gazela, rica em boas obras e esmolas. Adoece e morre; lavam-na e põem-na no quarto de cima. Os discípulos mandam chamar Pedro, que vem logo. Levam-no ao quarto, onde todas as viúvas, chorando, lhe mostram as túnicas e os mantos que Dorcas fazia enquanto estava com elas. Pedro manda sair todos, põe-se de joelhos e ora; depois, voltando-se para o corpo, diz: Tabita, levanta-te. Ela abre os olhos, vê Pedro e senta-se. Ele dá-lhe a mão, levanta-a e apresenta-a viva aos santos e às viúvas. O fato torna-se conhecido em toda Jope, e muitos creem no Senhor. Pedro fica muitos dias em Jope, em casa de Simão, um curtidor.",
+    "alegorico": "As palavras e gestos de Pedro repetem os de Jesus na casa de Jairo (“Talitá, kum”): Cristo continua a agir pela sua Igreja. Pedro é claro: “Jesus Cristo te cura”: o apóstolo é apenas instrumento. A estadia em casa de um curtidor, ofício considerado impuro, prepara o episódio de Cornélio.",
+    "moral": "Tabita é lembrada pelas túnicas que fez para as viúvas: a caridade concreta deixa marca. Pedro ora de joelhos antes de agir: o poder vem da oração. Os milagres servem a fé de muitos: o fim não é o espetáculo, mas a conversão.",
+    "anagogico": "“Tabita, levanta-te”: palavra que anuncia a ressurreição final, quando o Senhor nos tomará pela mão e nos apresentará vivos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro disse-lhe: Eneias, Jesus Cristo cura-te. Levanta-te, e faze tu mesmo a tua cama. Imediatamente se levantou. Tabita era rica em boas obras e nas esmolas que fazia. Pedro, tendo mandado sair todos, pondo-se de joelhos, orou. Depois, voltando-se para o corpo, disse: Tabita, levanta-te. Ela abriu os olhos e sentou-se.",
+    "meditatio_perguntas": [
+      "Que boas obras minhas os outros poderiam mostrar?",
+      "Rezo antes de agir nas situações difíceis?",
+      "Atribuo a Cristo, e não a mim, o bem que acontece por meu intermédio?"
+    ],
+    "oratio_guia": "Senhor Jesus, que curas e ressuscitas pela tua Igreja, levanta-me da minha paralisia. Dá-me ser rico em boas obras, como Tabita, e rezar de joelhos antes de agir, como Pedro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eneias, Jesus Cristo cura-te",
+      "ref": "At 9,34"
+    }
+  },
+  "ancoras": {
+    "9:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tabita (aramaico) e Dorcas (grego) significam “gazela”.",
+        "origem": "ia"
+      }
+    },
+    "9:43": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os curtidores lidavam com cadáveres de animais e eram tidos por impuros: Pedro já começa a ultrapassar fronteiras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

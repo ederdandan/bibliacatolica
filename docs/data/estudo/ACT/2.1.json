@@ -1,0 +1,57 @@
+{
+  "id": "ACT.2.1",
+  "livro": "ACT",
+  "titulo": "O Pentecostes",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Ficaram todos cheios do Espírito Santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Chegado o dia de Pentecostes, estavam todos reunidos no mesmo lugar. De repente veio do céu um ruído como de vento impetuoso, que encheu toda a casa, e apareceram línguas como de fogo, que se repartiram e pousaram sobre cada um deles. Ficaram todos cheios do Espírito Santo e começaram a falar outras línguas, conforme o Espírito lhes concedia. Havia em Jerusalém judeus piedosos de todas as nações; ouvindo o ruído, a multidão acorreu e ficou perplexa, porque cada um os ouvia falar na própria língua. Admirados, diziam: não são galileus todos estes que falam? Como é que os ouvimos cada um na nossa língua materna? Partos, medos, elamitas, habitantes da Mesopotâmia, da Judeia, da Capadócia, do Ponto e da Ásia, da Frígia e da Panfília, do Egito e da Líbia, romanos, judeus e prosélitos, cretenses e árabes: ouvimo-los anunciar nas nossas línguas as maravilhas de Deus. Uns perguntavam o que queria dizer aquilo; outros zombavam: estão cheios de vinho doce.",
+    "alegorico": "Pentecostes era a festa da colheita e, para o judaísmo, memória da Lei dada no Sinai, com fogo e trovão. Agora a nova Lei é o Espírito escrito nos corações. É o reverso de Babel: lá as línguas dividiram, aqui o Espírito une na diversidade, sem apagar as línguas. O vento e o fogo são sinais do Espírito que dá vida e purifica.",
+    "moral": "O Espírito vem sobre uma comunidade reunida e em oração. Ele não uniformiza: cada um ouve na própria língua. A Igreja é católica desde o primeiro dia. E o anúncio cristão tem um conteúdo: “as maravilhas de Deus”. A reação é dupla: admiração ou zombaria, como ainda hoje.",
+    "anagogico": "A multidão de todas as nações que ouve o mesmo louvor antecipa a assembleia celeste “de toda tribo, língua, povo e nação”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Chegado o dia de Pentecostes, estavam todos juntos no mesmo lugar. De repente, veio do céu um estrondo, como de vento que soprava impetuoso, e apareceram-lhes repartidas umas como línguas de fogo. Ficaram todos cheios do Espírito Santo e começaram a falar várias línguas, conforme o Espírito Santo lhes concedia que falassem. Ouvimo-los falar nas nossas línguas as maravilhas de Deus.",
+    "meditatio_perguntas": [
+      "Deixo que o Espírito me encha, ou resisto ao seu fogo?",
+      "Como anuncio “as maravilhas de Deus” de modo que os outros entendam?",
+      "Vivo a unidade na diversidade dentro da Igreja?"
+    ],
+    "oratio_guia": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Dai-me falar das maravilhas de Deus numa língua que os outros compreendam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ficaram todos cheios do Espírito Santo",
+      "ref": "At 2,4"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 2,1-11 é a primeira leitura do Domingo de Pentecostes (Missa do dia, anos A, B e C).",
+        "origem": "ia"
+      }
+    },
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista de povos cobre o mundo conhecido, do oriente (partos) ao ocidente (romanos): universalidade da Igreja nascente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

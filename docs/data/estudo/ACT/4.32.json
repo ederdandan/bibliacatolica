@@ -1,0 +1,65 @@
+{
+  "id": "ACT.4.32",
+  "livro": "ACT",
+  "titulo": "Um só coração e uma só alma",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 4,32–5,16",
+  "ini": {
+    "c": 4,
+    "v": 32
+  },
+  "fim": {
+    "c": 5,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Um só coração e uma só alma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A multidão dos que criam tinha um só coração e uma só alma; ninguém dizia que era seu o que possuía, mas tudo era comum entre eles. Os apóstolos davam testemunho da ressurreição do Senhor Jesus com grande poder, e todos gozavam de grande graça. Não havia entre eles necessitado algum, porque os que possuíam campos ou casas vendiam-nos, traziam o preço e depunham-no aos pés dos apóstolos, e repartia-se a cada um segundo a sua necessidade. José, chamado Barnabé, levita de Chipre, vendeu um campo e trouxe o dinheiro. Mas um homem chamado Ananias, com sua mulher Safira, vendeu uma propriedade, reteve parte do preço com conhecimento da mulher e trouxe só uma parte. Pedro disse: Ananias, por que encheu Satanás o teu coração, para mentires ao Espírito Santo? Não mentiste aos homens, mas a Deus. Ananias caiu morto, e o mesmo aconteceu a Safira, três horas depois. Grande temor apoderou-se de toda a Igreja. Pelas mãos dos apóstolos faziam-se muitos sinais; o povo trazia os doentes para as ruas, para que ao menos a sombra de Pedro os cobrisse, e todos eram curados.",
+    "alegorico": "Ananias e Safira são o reverso do Éden: um casal que, de acordo, engana a Deus. O pecado não é reter o dinheiro (era livre fazê-lo), mas mentir ao Espírito Santo, simulando uma generosidade total. A palavra “Igreja” aparece aqui pela primeira vez em Atos.",
+    "moral": "A comunhão de bens nasce da comunhão de corações: não é imposição, mas fruto da fé. O contraste entre Barnabé e Ananias mostra que Deus não quer aparências: prefere uma oferta pequena e verdadeira a uma grande e falsa. A hipocrisia religiosa é pecado grave.",
+    "anagogico": "Não havia necessitados entre eles: sinal antecipado do Reino, onde Deus será tudo em todos e toda carência será saciada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A multidão dos que criam tinha um só coração e uma só alma, e nenhum dizia ser sua coisa alguma daquelas que possuía, mas tudo entre eles era comum. Os Apóstolos davam testemunho, com grande fortaleza, da ressurreição de Jesus Cristo. Não havia nenhum necessitado entre eles; distribuía-se por cada um segundo a sua necessidade. Ananias, como é que Satanás se apossou de teu coração, para que mentisses ao Espírito Santo?",
+    "meditatio_perguntas": [
+      "Na minha comunidade há algum necessitado que eu possa socorrer?",
+      "Há em mim alguma generosidade aparente que esconde reservas?",
+      "Vivo a unidade de coração com os irmãos na fé?"
+    ],
+    "oratio_guia": "Senhor, dá à tua Igreja um só coração e uma só alma. Livra-me da hipocrisia e da avareza, e faz-me partilhar com verdade, para que não haja necessitados entre os teus filhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A multidão dos que criam tinha um só coração e uma só alma",
+      "ref": "At 4,32"
+    }
+  },
+  "ancoras": {
+    "4:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 4,32-35 é a primeira leitura do 2º Domingo da Páscoa, Ano B; At 5,12-16, do Ano C.",
+        "origem": "ia"
+      }
+    },
+    "4:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Barnabé, “filho da consolação”, será o companheiro de Paulo na primeira viagem missionária.",
+        "origem": "ia"
+      }
+    },
+    "5:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira ocorrência de ekklesía em Atos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

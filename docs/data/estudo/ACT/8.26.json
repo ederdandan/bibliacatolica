@@ -1,0 +1,65 @@
+{
+  "id": "ACT.8.26",
+  "livro": "ACT",
+  "titulo": "Filipe e o eunuco etíope",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 8,26-40",
+  "ini": {
+    "c": 8,
+    "v": 26
+  },
+  "fim": {
+    "c": 8,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Compreendes o que lês?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um anjo do Senhor manda Filipe ir para o sul, pelo caminho deserto que desce de Jerusalém a Gaza. Lá passa um etíope, eunuco, alto funcionário de Candace, rainha da Etiópia, administrador de todos os seus tesouros, que viera adorar a Jerusalém e voltava, sentado no seu carro, lendo o profeta Isaías. O Espírito diz a Filipe: aproxima-te desse carro. Filipe corre, ouve-o ler e pergunta: compreendes o que lês? Ele responde: como posso compreender, se alguém não me explicar? E convida Filipe a sentar-se ao seu lado. A passagem era: como ovelha foi levado ao matadouro, e como cordeiro mudo diante do tosquiador, assim não abriu a boca. O eunuco pergunta: de quem diz isto o profeta, de si ou de outro? Filipe, partindo desta Escritura, anuncia-lhe Jesus. Seguindo o caminho, chegam a uma água, e o eunuco diz: eis aqui água; que impede que eu seja batizado? Descem ambos à água e Filipe batiza-o. Ao saírem, o Espírito do Senhor arrebata Filipe, e o eunuco continua o seu caminho cheio de alegria. Filipe aparece em Azoto e evangeliza todas as cidades até Cesareia.",
+    "alegorico": "O eunuco, estrangeiro e excluído da assembleia pela Lei (Dt 23,1), é acolhido no novo povo, cumprindo Is 56,3-5. A cena é modelo de catequese: encontro no caminho, leitura da Escritura, anúncio de Cristo a partir dela, batismo, alegria. Como em Emaús, o Antigo Testamento só se entende à luz de Jesus.",
+    "moral": "A pergunta “compreendes o que lês?” vale para todo leitor da Bíblia: a Escritura pede intérprete, a Igreja. O evangelizador é dócil ao Espírito, aproxima-se, escuta antes de falar e parte da pergunta do outro. E desaparece no fim: o protagonista é Cristo.",
+    "anagogico": "O etíope, vindo dos “confins da terra” para os antigos, anuncia a entrada de todas as nações no povo de Deus. Segue o seu caminho cheio de alegria: a alegria do batizado é antecipação da do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Correndo Filipe, ouviu que o etíope lia o profeta Isaías, e disse: Compreendes o que lês? Ele disse: Como o poderei, se não houver alguém que mo explique? Abrindo Filipe a sua boca e principiando por esta Escritura, anunciou-lhe Jesus. O eunuco disse: Eis água; que motivo me impede de ser baptizado? E continuava alegremente o seu caminho.",
+    "meditatio_perguntas": [
+      "Leio a Bíblia procurando ajuda para a compreender?",
+      "Sei partir das perguntas dos outros para lhes anunciar Jesus?",
+      "Que “água” me espera no caminho: que passo de fé estou a adiar?"
+    ],
+    "oratio_guia": "Senhor Jesus, cordeiro levado ao matadouro, abre-me o sentido das Escrituras. Faz-me dócil ao Espírito para me aproximar dos que procuram, e que todos possam seguir o seu caminho cheios de alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Compreendes o que lês",
+      "ref": "At 8,30"
+    }
+  },
+  "ancoras": {
+    "8:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Is 53,7-8, o quarto cântico do Servo sofredor.",
+        "origem": "ia"
+      }
+    },
+    "8:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Candace era título das rainhas-mães de Méroe, no atual Sudão.",
+        "origem": "ia"
+      }
+    },
+    "8:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O versículo com a profissão de fé (“creio que Jesus Cristo é o Filho de Deus”) falta em muitos manuscritos, mas está na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

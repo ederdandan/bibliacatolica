@@ -1,0 +1,57 @@
+{
+  "id": "ACT.1.15",
+  "livro": "ACT",
+  "titulo": "A eleição de Matias",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 1,15-26",
+  "ini": {
+    "c": 1,
+    "v": 15
+  },
+  "fim": {
+    "c": 1,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Tu, Senhor, que conheces os corações de todos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naqueles dias, Pedro levanta-se no meio dos irmãos, cerca de cento e vinte pessoas, e lembra que a Escritura devia cumprir-se a respeito de Judas, que guiou os que prenderam Jesus: era contado entre os Doze e teve parte neste ministério, mas comprou um campo com o preço da iniquidade e teve morte trágica, e o campo chamou-se Hacéldama, campo de sangue. Está escrito nos Salmos: “outro tome o seu cargo”. É preciso, pois, que um dos que nos acompanharam durante todo o tempo em que o Senhor Jesus viveu entre nós, desde o batismo de João até ao dia em que foi elevado, se torne connosco testemunha da sua ressurreição. Apresentam dois: José, chamado Barsabás, e Matias. E oram: Tu, Senhor, que conheces os corações de todos, mostra qual destes dois escolheste para ocupar o lugar neste ministério e apostolado, de que Judas desertou. Tiram a sorte, que cai sobre Matias, e ele é agregado aos onze apóstolos.",
+    "alegorico": "O número doze é restaurado antes do Pentecostes: a Igreja é o novo Israel, fundado sobre doze apóstolos, como o antigo sobre doze tribos. Pedro aparece já como quem preside, interpreta as Escrituras e conduz a comunidade.",
+    "moral": "A queda de Judas mostra que a proximidade de Jesus não garante a fidelidade: é preciso perseverar. A escolha é feita em oração: a comunidade discerne critérios (ter sido testemunha) e confia a Deus a decisão. Quem serve na Igreja é escolhido por Deus, não por méritos próprios.",
+    "anagogico": "O apóstolo é testemunha da ressurreição: toda a missão da Igreja está orientada para anunciar a vida que vence a morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "É necessário que um destes homens, que estiveram em nossa companhia todo o tempo em que o Senhor Jesus viveu entre nós, seja feito connosco testemunha da sua ressurreição. E, orando, disseram: Tu, Senhor, que conheces os corações de todos, mostra-nos destes dois o que escolheste. Lançaram sortes e caiu a sorte sobre Matias, e foi contado com os onze Apóstolos.",
+    "meditatio_perguntas": [
+      "Faço as minhas escolhas importantes em oração?",
+      "Sou testemunha da ressurreição na minha vida?",
+      "Que me ensina a queda de Judas sobre a perseverança?"
+    ],
+    "oratio_guia": "Senhor, que conheces os corações de todos, mostra-me o que escolheste para mim. Guarda-me na fidelidade até ao fim e faz-me testemunha da ressurreição do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, Senhor, que conheces os corações de todos",
+      "ref": "At 1,24"
+    }
+  },
+  "ancoras": {
+    "1:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 1,15-17.20-26 é a primeira leitura da festa de São Matias (14 de maio) e do 7º Domingo da Páscoa, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citações de Sl 68,26 e Sl 108,8 (numeração da Vulgata).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

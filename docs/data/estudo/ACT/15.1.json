@@ -1,0 +1,65 @@
+{
+  "id": "ACT.15.1",
+  "livro": "ACT",
+  "titulo": "O concílio de Jerusalém",
+  "secao": "A missão aos gentios",
+  "referencia": "At 15,1-35",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Pareceu bem ao Espírito Santo e a nós",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alguns vindos da Judeia ensinam em Antioquia: se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos. Há grande discussão, e decide-se que Paulo, Barnabé e outros subam a Jerusalém para tratar a questão com os apóstolos e os anciãos. Reúnem-se; depois de longo debate, Pedro levanta-se: Deus escolheu-me para que os gentios ouvissem a palavra; Deus, que conhece os corações, deu-lhes o Espírito Santo como a nós e purificou os seus corações pela fé. Por que tentais a Deus, impondo um jugo que nem nossos pais nem nós pudemos suportar? Cremos que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles. A assembleia cala-se e escuta Barnabé e Paulo contar os sinais feitos entre os gentios. Tiago conclui, citando o profeta Amós: não se deve inquietar os gentios que se convertem, mas pedir-lhes que se abstenham das carnes imoladas aos ídolos, das uniões ilegítimas, das carnes sufocadas e do sangue. Escrevem uma carta às Igrejas: pareceu bem ao Espírito Santo e a nós não vos impor mais nenhum encargo além destas coisas necessárias. A carta é lida em Antioquia, e todos se alegram com a consolação.",
+    "alegorico": "É o primeiro concílio da Igreja, modelo de todos os concílios: debate, escuta da experiência, palavra de Pedro, discernimento à luz das Escrituras, decisão comum atribuída ao Espírito. A fórmula “pareceu ao Espírito Santo e a nós” exprime a convicção de que o Espírito guia a Igreja nas suas decisões.",
+    "moral": "Os conflitos na Igreja resolvem-se em comunhão, não em rutura: sobe-se a Jerusalém, escuta-se, decide-se juntos. A salvação vem da graça, não do cumprimento da Lei: não se pode impor aos outros um jugo inútil. E a caridade pede algumas renúncias para que judeus e gentios possam partilhar a mesa.",
+    "anagogico": "Judeus e gentios salvos “do mesmo modo”, pela graça: a unidade do povo de Deus na diversidade antecipa a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus, que conhece os corações, deu testemunho em favor deles, conferindo-lhes o Espírito Santo, como também a nós, e não fez diferença alguma entre nós e eles, purificando com a fé os seus corações. Pela graça do Senhor Jesus Cristo cremos ser salvos, do mesmo modo que eles. Pareceu bem ao Espírito Santo e a nós não vos impor mais encargos além destes indispensáveis.",
+    "meditatio_perguntas": [
+      "Como vivo os conflitos na Igreja: com espírito de comunhão ou de divisão?",
+      "Imponho aos outros jugos que Deus não exige?",
+      "Creio que sou salvo pela graça, e não pelos meus méritos?"
+    ],
+    "oratio_guia": "Espírito Santo, que guias a Igreja nas suas decisões, dá aos pastores a luz do discernimento e a todos nós a paz da comunhão. Que eu creia ser salvo pela graça do Senhor Jesus e não imponha aos outros pesos inúteis. Amém.",
+    "contemplatio_foco": {
+      "texto": "pareceu bem ao Espírito Santo e a nós",
+      "ref": "At 15,28"
+    }
+  },
+  "ancoras": {
+    "15:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 15,1-2.22-29 é a primeira leitura do 6º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "15:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Am 9,11-12 segundo os Setenta.",
+        "origem": "ia"
+      }
+    },
+    "15:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As quatro cláusulas correspondem às exigências de Lv 17–18 para os estrangeiros que viviam em Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ACT.18.1",
+  "livro": "ACT",
+  "titulo": "Paulo em Corinto",
+  "secao": "A missão aos gentios",
+  "referencia": "At 18,1-28",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Não temas, fala e não te cales",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo deixa Atenas e vai a Corinto. Encontra Áquila e a sua mulher Priscila, judeus expulsos de Roma pelo édito de Cláudio, e, sendo do mesmo ofício, fica com eles e trabalha: eram fabricantes de tendas. Todos os sábados discute na sinagoga. Chegados Silas e Timóteo, dedica-se inteiramente à palavra; diante da oposição, sacode as vestes e passa à casa de Tício Justo, junto à sinagoga; Crispo, chefe da sinagoga, crê no Senhor com toda a sua casa, e muitos coríntios são batizados. Uma noite o Senhor diz a Paulo numa visão: não temas, fala e não te cales, porque eu estou contigo, e ninguém te fará mal, porque tenho um povo numeroso nesta cidade. Paulo fica ali um ano e meio. Sob o procônsul Galião, os judeus levam-no ao tribunal, mas Galião recusa-se a julgar questões de palavras e nomes da Lei deles. Paulo parte para a Síria com Priscila e Áquila, passa por Éfeso e volta a Antioquia. Entretanto chega a Éfeso Apolo, judeu de Alexandria, eloquente e versado nas Escrituras, que ensinava com fervor o que se referia a Jesus, mas conhecia só o batismo de João; Priscila e Áquila tomam-no consigo e expõem-lhe mais exatamente o caminho de Deus. Em Acaia, Apolo é de grande ajuda aos crentes.",
+    "alegorico": "A visão noturna repete a fórmula da vocação dos profetas (“não temas, eu estou contigo”, cf. Jr 1,8): Paulo é profeta enviado às nações. Priscila e Áquila representam a Igreja doméstica e o papel dos leigos, marido e mulher, na formação na fé.",
+    "moral": "Paulo trabalha com as mãos para não ser pesado a ninguém: o trabalho manual não é indigno do apóstolo. Mesmo Paulo conhece o medo; o Senhor não lhe tira o perigo, mas garante a presença. E Priscila e Áquila corrigem Apolo com discrição, “tomando-o consigo”: a correção fraterna faz crescer.",
+    "anagogico": "“Tenho um povo numeroso nesta cidade”: Deus conhece os seus antes que estes o conheçam; a Igreja é reunida pela sua iniciativa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Uma noite, em uma visão, o Senhor disse a Paulo: Não temas, fala, não te cales, porque eu sou contigo; e ninguém porá a mão sobre ti para te fazer mal, porque tenho muito povo nesta cidade. Apolo era homem eloquente e poderoso nas Escrituras. Priscila e Áquila tomaram-no consigo e expuseram-lhe mais profundamente o caminho de Deus.",
+    "meditatio_perguntas": [
+      "Que medo me faz calar quando devia falar de Deus?",
+      "Valorizo o meu trabalho como parte da missão?",
+      "Sei corrigir e ser corrigido com discrição e caridade?"
+    ],
+    "oratio_guia": "Senhor, tu estás comigo: não temerei. Dá-me falar e não me calar, trabalhar com dignidade e ajudar os irmãos a conhecer mais exatamente o teu caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, fala, não te cales",
+      "ref": "At 18,9"
+    }
+  },
+  "ancoras": {
+    "18:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O édito de Cláudio (c. 49) expulsou os judeus de Roma, segundo Suetónio, por tumultos “por instigação de Cresto” (Cristo).",
+        "origem": "ia"
+      }
+    },
+    "18:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma inscrição de Delfos data o proconsulado de Galião em 51–52: é um dos pontos fixos da cronologia de Paulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

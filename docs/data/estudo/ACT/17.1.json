@@ -1,0 +1,57 @@
+{
+  "id": "ACT.17.1",
+  "livro": "ACT",
+  "titulo": "Tessalónica, Bereia e o Areópago",
+  "secao": "A missão aos gentios",
+  "referencia": "At 17,1-34",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Nele vivemos, nos movemos e existimos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Tessalónica, Paulo discute durante três sábados na sinagoga, mostrando pelas Escrituras que o Messias devia sofrer e ressuscitar, e que Jesus é o Cristo; alguns judeus e muitos gregos creem, mas outros provocam tumulto, acusando-os de “revolucionar o mundo”. Em Bereia, os judeus, mais nobres, recebem a palavra com avidez e examinam cada dia as Escrituras para ver se era assim. Em Atenas, Paulo indigna-se ao ver a cidade cheia de ídolos; discute na sinagoga e na praça; filósofos epicuristas e estoicos levam-no ao Areópago. De pé no meio, diz: atenienses, vejo que sois muito religiosos; encontrei um altar com a inscrição: ao Deus desconhecido. O que adorais sem conhecer, isso vos anuncio. O Deus que fez o mundo não habita em templos feitos por mãos humanas, nem precisa de nada, pois é Ele quem dá a todos a vida e a respiração; de um só fez todo o género humano, para que buscassem a Deus, como que às apalpadelas, embora não esteja longe de cada um de nós, porque nele vivemos, nos movemos e existimos; como disseram os vossos poetas: somos da sua raça. Deus manda agora a todos que se arrependam, porque fixou um dia para julgar o mundo por um Homem que ressuscitou dos mortos. Ao ouvirem falar de ressurreição, uns zombam, outros dizem: ouvir-te-emos noutra ocasião. Alguns aderem, entre eles Dionísio, o areopagita, e uma mulher chamada Dâmaris.",
+    "alegorico": "O discurso do Areópago é modelo de inculturação: Paulo parte da religiosidade e dos poetas gregos, reconhece neles uma procura sincera, mas conduz ao que é novo e escandaloso: a ressurreição. O “Deus desconhecido” é a sede de Deus inscrita em toda cultura humana.",
+    "moral": "Os bereanos são modelo de escuta: recebem com avidez, mas examinam as Escrituras. Em Atenas, Paulo não despreza a cultura, mas também não a lisonjeia: anuncia a conversão e o juízo. O resultado parece magro, mas a semente é lançada. O evangelizador procura pontes, sem diluir a mensagem.",
+    "anagogico": "Deus fixou um dia para julgar o mundo pelo Ressuscitado: a ressurreição de Cristo é a garantia da nossa e a medida do juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Receberam a palavra com toda a avidez, examinando todos os dias as Escrituras para ver se estas coisas eram assim. Encontrei também um altar, sobre o qual estava escrito: Ao Deus desconhecido. Aquele, pois, que vós adorais sem o conhecer, esse vos anuncio. Ele não está longe de cada um de nós, porque nele vivemos, nos movemos e existimos. Deus anuncia agora aos homens que todos em todo o lugar se arrependam.",
+    "meditatio_perguntas": [
+      "Examino as Escrituras com a avidez dos bereanos?",
+      "Que “Deus desconhecido” procuram as pessoas à minha volta?",
+      "Tenho consciência de que em Deus vivo, me movo e existo?"
+    ],
+    "oratio_guia": "Deus, em quem vivemos, nos movemos e existimos, não estás longe de nenhum de nós. Faz-me procurar-te com avidez nas Escrituras e anunciar-te aos que te buscam às apalpadelas, sem calar a ressurreição do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "nele vivemos, nos movemos e existimos",
+      "ref": "At 17,28"
+    }
+  },
+  "ancoras": {
+    "17:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do poeta estoico Arato de Solos (séc. III a.C.), nos “Fenómenos”.",
+        "origem": "ia"
+      }
+    },
+    "17:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Dionísio Areopagita foram atribuídos, séculos depois, escritos místicos de um autor anónimo (o “Pseudo-Dionísio”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

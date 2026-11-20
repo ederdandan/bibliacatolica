@@ -1,0 +1,57 @@
+{
+  "id": "ACT.3.1",
+  "livro": "ACT",
+  "titulo": "A cura do coxo na Porta Formosa",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 3,1-26",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "O que tenho, isso te dou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro e João sobem ao Templo para a oração das três da tarde. Um homem, coxo de nascença, era levado todos os dias e posto à porta chamada Formosa para pedir esmola. Vendo os apóstolos, pede-lhes esmola. Pedro fixa nele os olhos com João e diz: olha para nós. Ele olha, esperando receber alguma coisa. Pedro diz: não tenho prata nem ouro, mas o que tenho, isso te dou: em nome de Jesus Cristo, o Nazareno, levanta-te e anda. Toma-o pela mão direita, levanta-o, e logo os pés e os tornozelos se firmam; de um salto põe-se de pé, entra no Templo andando, saltando e louvando a Deus. O povo, cheio de espanto, corre ao pórtico de Salomão. Pedro explica: não foi por poder nosso; o Deus de Abraão glorificou o seu servo Jesus, que vós negastes, pedindo a graça de um homicida; matastes o Autor da vida, mas Deus o ressuscitou. Foi a fé no seu nome que deu a este homem a saúde. Sei que agistes por ignorância; arrependei-vos, pois, e convertei-vos, para que os vossos pecados sejam apagados e venham os tempos de refrigério.",
+    "alegorico": "O coxo à porta do Templo é a humanidade que não pode entrar na presença de Deus; o nome de Jesus a põe de pé e a faz entrar louvando. O “nome” de Jesus, na mentalidade bíblica, é a sua pessoa e o seu poder: torna-se o centro destes capítulos.",
+    "moral": "A Igreja pode não ter prata nem ouro, mas tem algo maior: Cristo. A cura começa com um olhar (“olha para nós”) e uma mão estendida. E os apóstolos recusam a glória: “não foi por poder nosso”. A pregação une acusação e misericórdia: “sei que agistes por ignorância”.",
+    "anagogico": "Os “tempos de refrigério” e a “restauração de todas as coisas” apontam para a vinda final de Cristo, quando toda a criação ferida será levantada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pedro, fixando nele os olhos juntamente com João, disse: Olha para nós. Não tenho prata nem ouro, mas o que tenho, isso te dou: Em nome de Jesus Cristo de Nazaré, levanta-te e anda. E, dando um salto, pôs-se de pé e andava, e entrou com eles no templo, andando, saltando e louvando a Deus. Arrependei-vos, pois, e convertei-vos, para que os vossos pecados sejam perdoados.",
+    "meditatio_perguntas": [
+      "O que tenho de Cristo para dar a quem me pede?",
+      "Que “paralisia” em mim precisa do nome de Jesus?",
+      "Atribuo a Deus, e não a mim, o bem que faço?"
+    ],
+    "oratio_guia": "Senhor Jesus, em teu nome levanta-me das minhas paralisias. Que eu saiba dar aos outros não só prata e ouro, mas a ti, e que tudo o que fizer seja para louvor do teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não tenho prata nem ouro, mas o que tenho, isso te dou",
+      "ref": "At 3,6"
+    }
+  },
+  "ancoras": {
+    "3:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 3,13-15.17-19 é a primeira leitura do 3º Domingo da Páscoa, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “hora nona” (três da tarde) era a hora do sacrifício vespertino no Templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ACT.5.17",
+  "livro": "ACT",
+  "titulo": "Obedecer antes a Deus que aos homens",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 5,17-42",
+  "ini": {
+    "c": 5,
+    "v": 17
+  },
+  "fim": {
+    "c": 5,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "Deve-se obedecer antes a Deus que aos homens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sumo sacerdote e os saduceus, cheios de inveja, mandam prender os apóstolos e metê-los na cadeia pública. Mas de noite um anjo do Senhor abre as portas da prisão e diz-lhes: ide, ponde-vos no Templo e anunciai ao povo todas as palavras desta vida. Ao amanhecer estão a ensinar no Templo. O Sinédrio encontra a prisão fechada e vazia, e os guardas trazem os apóstolos sem violência, por medo do povo. O sumo sacerdote acusa: proibimo-vos de ensinar neste nome, e enchestes Jerusalém da vossa doutrina. Pedro e os apóstolos respondem: deve-se obedecer antes a Deus que aos homens. O Deus de nossos pais ressuscitou Jesus, que vós matastes; Deus o exaltou como Chefe e Salvador, para dar a Israel o arrependimento e o perdão; nós somos testemunhas, e também o Espírito Santo. Furiosos, querem matá-los; mas Gamaliel, fariseu respeitado, aconselha: deixai estes homens; se esta obra vem dos homens, desfar-se-á; se vem de Deus, não a podereis destruir, e arriscais combater contra Deus. Açoitam-nos e soltam-nos; eles saem alegres por terem sido dignos de sofrer ultrajes pelo nome de Jesus, e não cessam de ensinar e anunciar Cristo todos os dias.",
+    "alegorico": "O anjo que abre a prisão mostra que a Palavra de Deus não está acorrentada (2Tm 2,9). O critério de Gamaliel tornou-se princípio de discernimento: a obra que vem de Deus permanece através dos séculos, apesar das perseguições.",
+    "moral": "“Obedecer antes a Deus que aos homens” é o fundamento da objeção de consciência: nenhuma autoridade humana pode ordenar o que contradiz Deus. E a alegria no sofrimento por Cristo é sinal de maturidade cristã. O discípulo não procura o sofrimento, mas não o teme quando é o preço da fidelidade.",
+    "anagogico": "Cristo é “Chefe e Salvador” exaltado à direita de Deus: daí vem o perdão, e para lá caminha a Igreja perseguida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O anjo do Senhor abriu de noite as portas do cárcere, e disse: Ide, apresentai-vos no templo e pregai ao povo todas as palavras desta vida. Pedro e os Apóstolos responderam: Deve-se obedecer antes a Deus que aos homens. Se esta obra vem de Deus, não a podereis desfazer. Eles saíam da presença do Sinédrio, contentes por terem sido achados dignos de sofrer afrontas pelo nome de Jesus.",
+    "meditatio_perguntas": [
+      "Em que situações devo obedecer antes a Deus que aos homens?",
+      "Consigo alegrar-me quando sofro por causa de Cristo?",
+      "Aplico o critério de Gamaliel antes de julgar uma obra?"
+    ],
+    "oratio_guia": "Senhor, dá-me a coragem de obedecer antes a ti que aos homens. Que eu não tema as afrontas por teu nome, mas me alegre por ser achado digno de sofrer por ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deve-se obedecer antes a Deus que aos homens",
+      "ref": "At 5,29"
+    }
+  },
+  "ancoras": {
+    "5:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 5,27b-32.40b-41 é a primeira leitura do 3º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "5:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gamaliel, o Velho, neto de Hillel, foi mestre de Saulo (At 22,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

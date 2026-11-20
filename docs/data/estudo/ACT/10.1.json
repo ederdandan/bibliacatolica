@@ -1,0 +1,57 @@
+{
+  "id": "ACT.10.1",
+  "livro": "ACT",
+  "titulo": "Pedro e Cornélio",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 10,1-48",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 48
+  },
+  "liturgia": {
+    "tema_central": "Deus não faz aceção de pessoas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Cesareia, Cornélio, centurião romano, piedoso e temente a Deus com toda a sua casa, que dava muitas esmolas e orava sem cessar, vê um anjo que lhe diz: as tuas orações e esmolas subiram como memorial diante de Deus; manda chamar Simão, chamado Pedro, que está em Jope. No dia seguinte, Pedro, rezando no terraço, tem uma visão: um lençol desce do céu com toda espécie de animais, e uma voz diz: mata e come. Pedro recusa: nunca comi nada impuro. A voz responde: não chames impuro ao que Deus purificou. Chegam os enviados de Cornélio, e o Espírito diz a Pedro que vá com eles sem hesitar. Em Cesareia, Cornélio reuniu parentes e amigos. Pedro diz: Deus mostrou-me que a nenhum homem devo chamar impuro. Na verdade reconheço que Deus não faz aceção de pessoas, mas em qualquer nação lhe é agradável quem o teme e pratica a justiça. E anuncia Jesus de Nazaré, ungido por Deus com o Espírito Santo, que passou fazendo o bem, foi morto no madeiro e ressuscitou ao terceiro dia. Enquanto Pedro ainda fala, o Espírito Santo desce sobre todos os ouvintes, e os fiéis judeus ficam admirados. Pedro manda batizá-los em nome de Jesus Cristo.",
+    "alegorico": "É o “Pentecostes dos gentios”: o Espírito antecipa-se ao batismo e mostra que Deus mesmo abre a porta aos pagãos. A visão do lençol abole a fronteira entre puro e impuro que separava judeus e gentios. Deus prepara os dois lados: o pagão que reza e o apóstolo que precisa de se converter.",
+    "moral": "Pedro também precisa de conversão: os preconceitos religiosos podem fechar o que Deus quer abrir. Cornélio mostra que a oração e a esmola sinceras são vistas por Deus mesmo antes do batismo. E o resumo da vida de Jesus é belo: “passou fazendo o bem”.",
+    "anagogico": "Deus não faz aceção de pessoas: a salvação é oferecida a todos os povos, e o céu será a reunião de todos os que o temem e praticam a justiça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não chames impuro ao que Deus declarou puro. Na verdade reconheço que Deus não faz acepção de pessoas, mas que, em qualquer nação, aquele que o teme e pratica a justiça, lhe é agradável. Deus ungiu com o Espírito Santo e com poder a Jesus de Nazaré, o qual andou fazendo bem. Estando Pedro ainda proferindo estas palavras, desceu o Espírito Santo sobre todos os que ouviam.",
+    "meditatio_perguntas": [
+      "Que preconceitos me impedem de ver a obra de Deus nos outros?",
+      "A minha vida pode ser resumida como “passou fazendo o bem”?",
+      "Deixo-me surpreender pelo Espírito que se adianta aos meus planos?"
+    ],
+    "oratio_guia": "Senhor, que não fazes aceção de pessoas, liberta-me dos meus preconceitos. Que eu veja a tua graça em todos os povos e, como Jesus, passe pela vida fazendo o bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Na verdade reconheço que Deus não faz acepção de pessoas",
+      "ref": "At 10,34"
+    }
+  },
+  "ancoras": {
+    "10:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 10,34a.37-43 é a primeira leitura do Domingo de Páscoa; At 10,34-38, do Batismo do Senhor; At 10,25-26.34-35.44-48, do 6º Domingo da Páscoa, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Oração e esmola “subiram como memorial” (cf. Tb 12,12): linguagem sacrificial.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

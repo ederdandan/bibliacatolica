@@ -1,0 +1,57 @@
+{
+  "id": "ACT.8.1",
+  "livro": "ACT",
+  "titulo": "Filipe na Samaria",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 8,1-25",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Receberam o Espírito Santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naquele dia levanta-se grande perseguição contra a Igreja de Jerusalém, e todos, exceto os apóstolos, dispersam-se pela Judeia e Samaria. Homens piedosos sepultam Estêvão; Saulo devasta a Igreja, entrando nas casas e arrastando homens e mulheres para a prisão. Os dispersos anunciam a Palavra por onde passam. Filipe desce a uma cidade da Samaria e prega Cristo; as multidões escutam atentas, vendo os sinais: espíritos impuros saem, paralíticos e coxos são curados, e há grande alegria naquela cidade. Um certo Simão, que praticava a magia e se fazia passar por grande, também crê e é batizado, e acompanha Filipe maravilhado. Os apóstolos de Jerusalém, sabendo que a Samaria recebera a Palavra, enviam Pedro e João, que oram para que recebam o Espírito Santo, pois tinham sido apenas batizados em nome do Senhor Jesus. Impõem-lhes as mãos, e recebem o Espírito Santo. Simão oferece dinheiro para ter esse poder; Pedro responde: o teu dinheiro pereça contigo, porque julgaste que o dom de Deus se adquire com dinheiro; arrepende-te e roga ao Senhor.",
+    "alegorico": "A perseguição torna-se semente: a dispersão leva a Palavra para fora de Jerusalém, cumprindo At 1,8. A Samaria, separada de Judá há séculos, é reconciliada em Cristo. A imposição das mãos pelos apóstolos, distinta do batismo, foi vista pela Tradição como figura do sacramento da Confirmação.",
+    "moral": "O dom de Deus não se compra: do nome de Simão vem a palavra “simonia”, o comércio de coisas sagradas. A ligação aos apóstolos (Pedro e João vêm de Jerusalém) mostra que a missão não é independente da comunhão. E a alegria é sinal da chegada do Evangelho a uma cidade.",
+    "anagogico": "A Igreja que se espalha na perseguição prefigura o Reino que cresce no meio das provações até encher a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os que se tinham dispersado iam de uma parte para outra, anunciando a palavra de Deus. Filipe, tendo descido à cidade de Samaria, pregava-lhes Cristo. Houve grande alegria naquela cidade. Pedro e João oraram por eles, para que recebessem o Espírito Santo. Então Pedro e João impuseram-lhes as mãos, e eles receberam o Espírito Santo. Julgaste que o dom de Deus se adquiria por dinheiro.",
+    "meditatio_perguntas": [
+      "As minhas dificuldades podem tornar-se ocasião de anunciar a Palavra?",
+      "Vivo o dom do Espírito recebido na Confirmação?",
+      "Há em mim alguma tentação de “comprar” as coisas de Deus?"
+    ],
+    "oratio_guia": "Espírito Santo, dom de Deus que não se compra, renova em mim a graça da Confirmação. Que a minha vida leve alegria aonde eu for, e que nem a perseguição me impeça de anunciar Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Então Pedro e João impuseram-lhes as mãos, e eles receberam o Espírito Santo",
+      "ref": "At 8,17"
+    }
+  },
+  "ancoras": {
+    "8:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 8,5-8.14-17 é a primeira leitura do 6º Domingo da Páscoa, Ano A; lido também na celebração da Confirmação.",
+        "origem": "ia"
+      }
+    },
+    "8:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Simão Mago: a tradição posterior fez dele pai das heresias gnósticas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ACT.13.1",
+  "livro": "ACT",
+  "titulo": "Barnabé e Saulo enviados pelo Espírito",
+  "secao": "A missão aos gentios",
+  "referencia": "At 13,1-52",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 52
+  },
+  "liturgia": {
+    "tema_central": "Eu te constituí luz das nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na Igreja de Antioquia havia profetas e doutores. Enquanto celebravam o culto do Senhor e jejuavam, o Espírito Santo diz: separai-me Barnabé e Saulo para a obra a que os chamei. Depois de jejuar e orar, impõem-lhes as mãos e despedem-nos. Enviados pelo Espírito, vão a Chipre; em Pafos, o procônsul Sérgio Paulo crê, depois de Saulo, também chamado Paulo, cegar o mago Elimas, que se opunha. Chegam a Antioquia da Pisídia; no sábado, convidados a falar na sinagoga, Paulo percorre a história de Israel, do Egito a David, e anuncia que da sua descendência Deus suscitou um Salvador, Jesus; os chefes de Jerusalém condenaram-no, mas Deus o ressuscitou, cumprindo as promessas; por Ele vos é anunciado o perdão dos pecados, e todo aquele que crê é justificado. No sábado seguinte, quase toda a cidade se junta, e os judeus, cheios de inveja, contradizem. Paulo e Barnabé declaram: era necessário anunciar-vos primeiro a palavra de Deus, mas, já que a rejeitais, voltamo-nos para os gentios; assim nos ordenou o Senhor: eu te constituí luz das nações. Os gentios alegram-se, e creem todos os destinados à vida eterna; mas os apóstolos são expulsos, sacodem o pó dos pés, e os discípulos ficam cheios de alegria e do Espírito Santo.",
+    "alegorico": "A missão nasce da liturgia e do jejum: é o Espírito quem envia, e a Igreja confirma com a imposição das mãos. A mudança de nome, Saulo para Paulo, coincide com o início da missão aos gentios. A profecia do Servo, “luz das nações” (Is 49,6), dita de Cristo, aplica-se agora aos seus enviados.",
+    "moral": "A rejeição não detém a missão, mas a orienta para outros. Sacudir o pó dos pés não é vingança, mas liberdade: o enviado não se prende ao fracasso. E a alegria e o Espírito acompanham os discípulos mesmo quando os missionários são expulsos.",
+    "anagogico": "A salvação “até à extremidade da terra” aponta para a reunião final de todas as nações na luz de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Estando eles a celebrar o culto do Senhor e a jejuar, disse-lhes o Espírito Santo: Separai-me Barnabé e Saulo para a obra a que os destinei. Por ele vos é anunciada a remissão dos pecados. Assim nos ordenou o Senhor: Eu te constituí luz das nações, para que sejas a salvação até à extremidade da terra. Os gentios, ouvindo isto, alegraram-se. Os discípulos estavam cheios de alegria e do Espírito Santo.",
+    "meditatio_perguntas": [
+      "Escuto o Espírito na oração e no jejum, para saber a que me chama?",
+      "Como reajo ao fracasso no anúncio?",
+      "Sou luz para os que estão longe da fé?"
+    ],
+    "oratio_guia": "Espírito Santo, que separaste Barnabé e Saulo para a missão, fala-me na oração e mostra-me a obra a que me chamas. Faz de mim luz das nações, cheio de alegria mesmo na rejeição. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu te constitui luz das nações para que sejas a salvação até à extremidade da terra",
+      "ref": "At 13,47"
+    }
+  },
+  "ancoras": {
+    "13:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 13,14.43-52 é a primeira leitura do 4º Domingo da Páscoa, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "13:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção do nome Paulo: nome romano que usará daqui em diante.",
+        "origem": "ia"
+      }
+    },
+    "13:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 2,7, aplicada à ressurreição: “Tu és meu filho, eu hoje te gerei”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

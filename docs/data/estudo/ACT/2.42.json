@@ -1,0 +1,57 @@
+{
+  "id": "ACT.2.42",
+  "livro": "ACT",
+  "titulo": "A primeira comunidade",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 2,42-47",
+  "ini": {
+    "c": 2,
+    "v": 42
+  },
+  "fim": {
+    "c": 2,
+    "v": 47
+  },
+  "liturgia": {
+    "tema_central": "Perseveravam na fração do pão e nas orações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os que foram batizados perseveravam na doutrina dos apóstolos, na comunhão fraterna, na fração do pão e nas orações. Todos estavam cheios de temor, e muitos prodígios e sinais eram feitos pelos apóstolos. Os que criam viviam unidos e tinham tudo em comum; vendiam as propriedades e os bens e repartiam o preço por todos, segundo a necessidade de cada um. Todos os dias frequentavam unânimes o Templo, partiam o pão nas casas e tomavam o alimento com alegria e simplicidade de coração, louvando a Deus e gozando da simpatia de todo o povo. E o Senhor acrescentava cada dia à comunidade os que eram salvos.",
+    "alegorico": "Lucas traça o retrato ideal da Igreja, que se torna modelo de toda renovação: os quatro pilares (ensino apostólico, comunhão, Eucaristia, oração) permanecem as notas da vida cristã. A “fração do pão” é o nome mais antigo da Eucaristia, ligado a Emaús (Lc 24,35).",
+    "moral": "A comunidade não é só reunião de ideias, mas partilha concreta de bens e de mesa. A alegria e a simplicidade de coração são sinais de autenticidade. E o crescimento vem do Senhor, não de estratégias: a Igreja atrai pelo testemunho da sua vida.",
+    "anagogico": "Esta comunidade unida, em louvor e partilha, é antecipação da comunhão dos santos no céu, onde todos serão um só coração em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fracção do pão e nas orações. Todos os que criam estavam unidos e punham tudo em comum. Partiam o pão pelas casas e tomavam o alimento com alegria e simplicidade de coração, louvando a Deus. O Senhor aumentava cada dia mais o número dos que estavam no caminho da salvação.",
+    "meditatio_perguntas": [
+      "Qual dos quatro pilares (doutrina, comunhão, Eucaristia, oração) está mais fraco na minha vida?",
+      "Partilho de facto os meus bens?",
+      "A minha fé tem a marca da alegria e da simplicidade?"
+    ],
+    "oratio_guia": "Senhor, dá-me perseverar na doutrina dos apóstolos, na comunhão fraterna, na fração do pão e nas orações. Faz da minha comunidade um só coração, cheio de alegria e simplicidade, para que muitos te encontrem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fracção do pão e nas orações",
+      "ref": "At 2,42"
+    }
+  },
+  "ancoras": {
+    "2:42": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 2,42-47 é a primeira leitura do 2º Domingo da Páscoa (Domingo da Divina Misericórdia), Ano A.",
+        "origem": "ia"
+      }
+    },
+    "2:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os primeiros cristãos continuavam a frequentar o Templo e celebravam a Eucaristia nas casas (“igrejas domésticas”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

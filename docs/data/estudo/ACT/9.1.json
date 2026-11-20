@@ -1,0 +1,65 @@
+{
+  "id": "ACT.9.1",
+  "livro": "ACT",
+  "titulo": "A conversão de Saulo",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 9,1-31",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Saulo, Saulo, por que me persegues?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Saulo, respirando ainda ameaças e morte contra os discípulos, pede ao sumo sacerdote cartas para as sinagogas de Damasco, a fim de trazer presos os do Caminho. Perto de Damasco, uma luz do céu envolve-o; cai por terra e ouve uma voz: Saulo, Saulo, por que me persegues? Quem és tu, Senhor? Eu sou Jesus, a quem tu persegues. Levanta-te, entra na cidade, e ser-te-á dito o que deves fazer. Os companheiros ouvem a voz, mas não veem ninguém. Saulo levanta-se cego e fica três dias sem ver, sem comer nem beber. O Senhor manda Ananias ir à rua Direita; Ananias hesita, conhecendo o mal que Saulo fizera; mas o Senhor diz: vai, porque este é um instrumento que escolhi para levar o meu nome diante das nações, dos reis e dos filhos de Israel; eu lhe mostrarei quanto deve sofrer pelo meu nome. Ananias impõe-lhe as mãos: irmão Saulo, o Senhor Jesus enviou-me para que recuperes a vista e sejas cheio do Espírito Santo. Caem-lhe dos olhos como escamas, recupera a vista e é batizado. Logo prega nas sinagogas que Jesus é o Filho de Deus; foge de Damasco descido num cesto pela muralha; em Jerusalém, Barnabé apresenta-o aos apóstolos. A Igreja tinha paz em toda a Judeia, Galileia e Samaria, e crescia.",
+    "alegorico": "“Por que me persegues?”: Jesus identifica-se com os discípulos. Aqui está a raiz da doutrina paulina da Igreja como Corpo de Cristo. A cegueira e as escamas que caem são imagem do batismo como iluminação: Saulo passa das trevas à luz.",
+    "moral": "Ninguém está longe demais para a graça: o perseguidor torna-se apóstolo. Ananias mostra a coragem de acolher quem tem um passado temível, chamando-o “irmão”. E Barnabé faz a ponte entre Saulo e a comunidade desconfiada: a Igreja precisa de quem confie nos convertidos.",
+    "anagogico": "O encontro com o Ressuscitado na luz é para Paulo o que será para todos na glória: ver Cristo e ser transformado. A paz da Igreja que “caminhava no temor do Senhor” é imagem da Igreja peregrina."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Caindo por terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues? Ele disse: Quem és tu, Senhor? Eu sou Jesus, a quem tu persegues. Vai, porque este é um instrumento escolhido por mim para levar o meu nome diante das gentes. Irmão Saulo, o Senhor Jesus enviou-me para que recuperes a vista e fiques cheio do Espírito Santo. Imediatamente lhe caíram dos olhos umas como escamas.",
+    "meditatio_perguntas": [
+      "Reconheço Cristo nos irmãos que sofrem?",
+      "Que “escamas” nos meus olhos precisam de cair?",
+      "Sou capaz de acolher como irmão alguém de passado difícil?"
+    ],
+    "oratio_guia": "Senhor Jesus, que derrubaste Saulo para o levantar apóstolo, converte o meu coração. Faz cair as escamas dos meus olhos, enche-me do teu Espírito e faz de mim instrumento para levar o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Saulo, Saulo, por que me persegues",
+      "ref": "At 9,4"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 9,1-22 (ou At 22,3-16) é a primeira leitura da festa da Conversão de São Paulo (25 de janeiro).",
+        "origem": "ia"
+      }
+    },
+    "9:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 9,26-31 é a primeira leitura do 5º Domingo da Páscoa, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "9:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O Caminho”: um dos primeiros nomes do cristianismo em Atos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

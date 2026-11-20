@@ -1,0 +1,65 @@
+{
+  "id": "ACT.1.1",
+  "livro": "ACT",
+  "titulo": "A Ascensão do Senhor",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Sereis minhas testemunhas até às extremidades da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lucas dirige a Teófilo o segundo livro, continuação do Evangelho, que tratou de tudo o que Jesus fez e ensinou até ao dia em que foi elevado ao céu. Durante quarenta dias, o Ressuscitado mostrou-se vivo aos apóstolos com muitas provas e falou-lhes do Reino de Deus; mandou-lhes que não se afastassem de Jerusalém, mas esperassem a promessa do Pai: seriam batizados no Espírito Santo dentro de poucos dias. Eles perguntam se é agora que vai restaurar o reino de Israel; Jesus responde que não lhes pertence conhecer os tempos, mas que receberão a força do Espírito Santo e serão suas testemunhas em Jerusalém, na Judeia, na Samaria e até aos confins da terra. Dito isto, é elevado à vista deles, e uma nuvem o oculta. Dois homens vestidos de branco dizem: homens da Galileia, por que estais a olhar para o céu? Este Jesus virá do mesmo modo. Os onze voltam a Jerusalém e, no cenáculo, perseveram unânimes na oração, com as mulheres, com Maria, Mãe de Jesus, e com os irmãos dele.",
+    "alegorico": "O versículo 8 é o índice do livro: Jerusalém (cap. 1–7), Judeia e Samaria (8–12), os confins da terra (13–28). A Ascensão não é ausência, mas nova forma de presença: Cristo entra na glória e envia o Espírito. A nuvem é sinal da presença divina, como no Sinai e na Transfiguração.",
+    "moral": "Os discípulos querem saber “quando”; Jesus responde com uma missão. A curiosidade sobre o futuro dá lugar ao testemunho no presente. E “por que estais a olhar para o céu?” corrige a espiritualidade evasiva: a espera da volta de Cristo faz-se trabalhando na terra. A Igreja nasce em oração, com Maria no meio dela.",
+    "anagogico": "“Virá do mesmo modo”: a Ascensão é penhor da vinda gloriosa. Onde a Cabeça entrou, o Corpo espera chegar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Recebereis a virtude do Espírito Santo, que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia, na Samaria e até às extremidades da terra. Dito isto, foi elevado à vista deles. Homens da Galileia, por que estais aí parados olhando para o céu? Esse Jesus virá do mesmo modo. Todos estes perseveravam unanimemente em oração, com as mulheres e com Maria, Mãe de Jesus.",
+    "meditatio_perguntas": [
+      "Onde estou a ser chamado a ser testemunha de Cristo hoje?",
+      "Fico “a olhar para o céu” em vez de assumir a minha missão?",
+      "Persevero na oração com a Igreja e com Maria?"
+    ],
+    "oratio_guia": "Senhor Jesus, elevado à glória do Pai, envia-me a força do teu Espírito para ser tua testemunha onde vivo. Que eu espere a tua vinda trabalhando, e persevere em oração com Maria, tua Mãe. Amém.",
+    "contemplatio_foco": {
+      "texto": "sereis minhas testemunhas em Jerusalém, em toda a Judeia, na Samaria e até às extremidades da terra",
+      "ref": "At 1,8"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 1,1-11 é a primeira leitura da Ascensão do Senhor (anos A, B e C).",
+        "origem": "ia"
+      }
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 1,12-14 é a primeira leitura do 7º Domingo da Páscoa, Ano A. Última menção de Maria no Novo Testamento: a novena que precede o Pentecostes tem aqui a sua origem.",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “quarenta dias” evocam os quarenta anos do deserto e os quarenta dias de Jesus no deserto: tempo de preparação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

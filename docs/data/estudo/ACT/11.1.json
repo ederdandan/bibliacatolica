@@ -1,0 +1,57 @@
+{
+  "id": "ACT.11.1",
+  "livro": "ACT",
+  "titulo": "A Igreja de Antioquia",
+  "secao": "A Igreja na Judeia e na Samaria",
+  "referencia": "At 11,1-30",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Em Antioquia foram chamados cristãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os apóstolos e os irmãos da Judeia sabem que também os gentios receberam a palavra de Deus. Quando Pedro sobe a Jerusalém, os da circuncisão censuram-no: entraste em casa de incircuncisos e comeste com eles! Pedro conta tudo por ordem: a visão do lençol, os enviados, a descida do Espírito. Se Deus lhes deu o mesmo dom que a nós, quem era eu para me opor a Deus? Ouvindo isto, calam-se e glorificam a Deus: então também aos gentios Deus concedeu a conversão que leva à vida. Entretanto, os dispersos pela perseguição de Estêvão chegam à Fenícia, a Chipre e a Antioquia; alguns, de Chipre e de Cirene, falam também aos gregos, anunciando o Senhor Jesus; a mão do Senhor está com eles, e grande número crê. A Igreja de Jerusalém envia Barnabé, que, vendo a graça de Deus, se alegra e exorta todos a permanecer no Senhor; era homem bom, cheio do Espírito Santo e de fé. Barnabé vai a Tarso buscar Saulo; durante um ano inteiro ensinam uma grande multidão. Em Antioquia, os discípulos foram pela primeira vez chamados cristãos. Por ocasião de uma grande fome predita por Ágabo, os discípulos enviam socorro aos irmãos da Judeia por meio de Barnabé e Saulo.",
+    "alegorico": "Antioquia, grande cidade pagã, torna-se a segunda capital da Igreja e ponto de partida da missão às nações. O nome “cristãos” (os de Cristo) identifica os discípulos pela pessoa a quem pertencem. A coleta para Jerusalém exprime a comunhão entre a Igreja dos gentios e a Igreja-mãe.",
+    "moral": "A Igreja de Jerusalém sabe escutar e mudar: ante a evidência da ação de Deus, cala-se e glorifica. Barnabé é modelo do pastor que “vê a graça de Deus e se alegra”, em vez de desconfiar do que é novo. Ser chamado “cristão” é responsabilidade: o nome deve corresponder à vida.",
+    "anagogico": "Deus concede “a conversão que leva à vida”: a missão aos gentios abre o caminho para a vida eterna de todos os povos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se Deus lhes deu a mesma graça que a nós, quem era eu para me opor a Deus? Glorificaram a Deus, dizendo: Logo Deus concedeu também aos gentios a penitência, a fim de que tenham a vida. A mão do Senhor era com eles. Barnabé era um homem de bem e cheio do Espírito Santo e de fé. Em Antioquia foi dado pela primeira vez aos discípulos o nome de cristãos.",
+    "meditatio_perguntas": [
+      "Sei alegrar-me com a graça de Deus que age nos outros, mesmo de forma nova?",
+      "O meu modo de viver corresponde ao nome de “cristão”?",
+      "Partilho com as comunidades mais necessitadas?"
+    ],
+    "oratio_guia": "Senhor Jesus, de quem recebemos o nome de cristãos, faz que a minha vida seja digna dele. Dá-me o coração de Barnabé, que se alegra ao ver a tua graça, e ensina-me a nunca me opor à tua obra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em Antioquia foi dada pela primeira vez aos discípulos o nome de cristãos",
+      "ref": "At 11,26"
+    }
+  },
+  "ancoras": {
+    "11:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 11,21b-26; 13,1-3 é a primeira leitura da memória de São Barnabé (11 de junho).",
+        "origem": "ia"
+      }
+    },
+    "11:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fome “sob Cláudio” é atestada por historiadores antigos por volta de 46–48.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

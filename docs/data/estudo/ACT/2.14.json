@@ -1,0 +1,65 @@
+{
+  "id": "ACT.2.14",
+  "livro": "ACT",
+  "titulo": "O discurso de Pedro",
+  "secao": "A Igreja em Jerusalém",
+  "referencia": "At 2,14-41",
+  "ini": {
+    "c": 2,
+    "v": 14
+  },
+  "fim": {
+    "c": 2,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "Deus constituiu Senhor e Cristo a este Jesus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedro, de pé com os onze, ergue a voz: estes homens não estão embriagados, pois são nove horas da manhã; cumpre-se o que disse o profeta Joel: nos últimos dias derramarei o meu Espírito sobre toda a carne, e todo aquele que invocar o nome do Senhor será salvo. Jesus de Nazaré, homem acreditado por Deus com milagres, foi entregue segundo o desígnio de Deus, e vós o matastes, crucificando-o pelas mãos de ímpios; mas Deus ressuscitou-o, rompendo os laços da morte. David falou dele: não deixarás o teu Santo ver a corrupção. David morreu e o seu sepulcro está entre nós; mas, sendo profeta, viu de antemão a ressurreição do Cristo. Deus ressuscitou este Jesus, e todos nós somos testemunhas; elevado à direita de Deus, derramou o Espírito que vedes e ouvis. Saiba, pois, toda a casa de Israel que Deus o constituiu Senhor e Cristo. Compungidos, perguntam: que devemos fazer? Pedro responde: arrependei-vos, e cada um seja batizado em nome de Jesus Cristo para remissão dos pecados, e recebereis o dom do Espírito Santo; a promessa é para vós, para os vossos filhos e para os que estão longe. Cerca de três mil pessoas são batizadas.",
+    "alegorico": "É o primeiro anúncio da Igreja (o kerigma): Jesus foi crucificado, Deus o ressuscitou, nós somos testemunhas, Ele é Senhor e Cristo, convertei-vos. O Salmo 15 é lido como profecia da ressurreição. O derramamento do Espírito é fruto da exaltação de Cristo.",
+    "moral": "A pregação toca o coração (“ficaram compungidos”) e leva a uma pergunta prática: “que devemos fazer?”. A resposta é o caminho de toda conversão: arrependimento, batismo, dom do Espírito. A Palavra que acusa (“vós o crucificastes”) é a mesma que oferece o perdão.",
+    "anagogico": "A promessa é “para os que estão longe”: o Espírito é derramado “nos últimos dias”, tempo da Igreja que se abre ao fim da história e à salvação universal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Acontecerá nos últimos dias, diz Deus, que derramarei o meu Espírito sobre toda a carne. Deus ressuscitou este Jesus, do que todos nós somos testemunhas. Saiba, pois, toda a casa de Israel com a maior certeza que Deus constituiu Senhor e Cristo a este Jesus, a quem vós crucificastes. Ao ouvir estas coisas, ficaram compungidos no seu coração e disseram: Que devemos fazer, irmãos? Fazei penitência, e cada um de vós seja baptizado em nome de Jesus Cristo.",
+    "meditatio_perguntas": [
+      "A Palavra de Deus já me “compungiu o coração”?",
+      "Que devo fazer, hoje, para responder ao anúncio de Cristo?",
+      "Sei dizer em poucas palavras o essencial da fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, constituído Senhor e Cristo, toca o meu coração com a tua Palavra. Dá-me a graça da conversão, renova em mim o meu batismo e derrama sobre mim o dom do teu Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus constituiu Senhor e Cristo a este Jesus, a quem vós crucificastes",
+      "ref": "At 2,36"
+    }
+  },
+  "ancoras": {
+    "2:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 2,14.22-33 é a primeira leitura do 3º Domingo da Páscoa, Ano A; At 2,14a.36-41, do 4º Domingo da Páscoa, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Joel 2,28-32 (3,1-5 noutras numerações).",
+        "origem": "ia"
+      }
+    },
+    "2:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sl 15,10 (Vulgata): “não permitirás que o teu santo veja a corrupção”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

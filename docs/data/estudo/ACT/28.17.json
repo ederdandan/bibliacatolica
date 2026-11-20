@@ -1,0 +1,65 @@
+{
+  "id": "ACT.28.17",
+  "livro": "ACT",
+  "titulo": "Paulo em Roma",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 28,17-31",
+  "ini": {
+    "c": 28,
+    "v": 17
+  },
+  "fim": {
+    "c": 28,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Com toda a liberdade, sem impedimento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Roma, Paulo recebe licença para morar à parte, com um soldado que o guarda. Três dias depois convoca os principais judeus: irmãos, nada fiz contra o povo nem contra os costumes dos pais; fui entregue aos romanos, que me queriam soltar; obrigado a apelar para César, é por causa da esperança de Israel que estou com esta cadeia. Respondem que nada receberam contra ele, mas que desejam ouvi-lo, pois sabem que esta seita encontra oposição em toda parte. Num dia marcado, muitos vão à sua casa; desde a manhã até à tarde, Paulo expõe o Reino de Deus e procura convencê-los acerca de Jesus pela Lei de Moisés e pelos Profetas. Uns acreditam, outros não. Ao retirarem-se em desacordo, Paulo cita Isaías: ouvireis com os ouvidos e não entendereis; o coração deste povo endureceu-se. Sabei, pois, que esta salvação de Deus foi enviada aos gentios, e eles a ouvirão. Paulo fica dois anos inteiros numa casa alugada, recebendo todos os que o procuram, anunciando o Reino de Deus e ensinando o que diz respeito ao Senhor Jesus Cristo, com toda a liberdade, sem impedimento.",
+    "alegorico": "O livro termina com o Evangelho no centro do mundo, cumprindo o programa de At 1,8. O final é aberto: Lucas não narra a morte de Paulo, porque a história continua na Igreja de todos os tempos. A última palavra do livro, “sem impedimento”, é a da Palavra que nenhuma cadeia pode prender.",
+    "moral": "Mesmo preso, Paulo evangeliza: recebe todos, ensina da manhã à tarde. As limitações não anulam a missão, transformam-na. A recusa de uns não cancela a oferta a outros. E o modo do anúncio é a parresía, a franqueza corajosa que marca todo o livro.",
+    "anagogico": "O Reino de Deus anunciado em Roma, com toda a liberdade, aponta para o dia em que a Palavra encherá toda a terra. O livro dos Atos continua a ser escrito até à vinda do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "É por causa da esperança de Israel que estou ligado com esta cadeia. Desde a manhã até à tarde lhes explicava o reino de Deus, procurando convencê-los acerca de Jesus, pela lei de Moisés e pelos profetas. Esta salvação de Deus é enviada aos gentios, e eles a ouvirão. Dois anos inteiros permaneceu Paulo num aposento que alugara, pregando o reino de Deus e ensinando o que diz respeito ao Senhor Jesus Cristo, com toda a liberdade, sem proibição.",
+    "meditatio_perguntas": [
+      "Que “cadeias” limitam a minha vida, e como posso anunciar Cristo mesmo nelas?",
+      "Anuncio o Evangelho com franqueza e liberdade?",
+      "Que capítulo dos Atos estou a escrever com a minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, cuja Palavra não está acorrentada, faz de mim continuador dos Atos dos Apóstolos. Que eu anuncie o teu Reino com toda a liberdade, nas minhas cadeias e na minha casa, até que venhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "pregando o reino de Deus e ensinando o que diz respeito ao Senhor Jesus Cristo, com toda a liberdade, sem proibição",
+      "ref": "At 28,31"
+    }
+  },
+  "ancoras": {
+    "28:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Is 6,9-10, também usada por Jesus para explicar as parábolas (Mt 13,14-15).",
+        "origem": "ia"
+      }
+    },
+    "28:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 28,16-20.30-31 é a primeira leitura do sábado da 7ª semana da Páscoa, última leitura dos Atos no Tempo Pascal.",
+        "origem": "ia"
+      }
+    },
+    "28:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Segundo a tradição, Paulo foi decapitado em Roma sob Nero, c. 67, na Via Ostiense.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

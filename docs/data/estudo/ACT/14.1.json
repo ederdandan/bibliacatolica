@@ -1,0 +1,65 @@
+{
+  "id": "ACT.14.1",
+  "livro": "ACT",
+  "titulo": "Icónio, Listra e o regresso a Antioquia",
+  "secao": "A missão aos gentios",
+  "referencia": "At 14,1-27",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "É por muitas tribulações que entraremos no reino de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Icónio, Paulo e Barnabé falam na sinagoga, e grande multidão de judeus e gregos crê; mas os incrédulos excitam os pagãos, e a cidade divide-se. Ficam ali bastante tempo, falando com ousadia, e o Senhor confirma a palavra com sinais; quando se tenta apedrejá-los, fogem para Listra e Derbe. Em Listra, Paulo cura um homem coxo de nascença, que tinha fé para ser curado: levanta-te direito sobre os teus pés! A multidão grita: os deuses desceram até nós em figura humana! Chamam Zeus a Barnabé e Hermes a Paulo, e o sacerdote de Zeus quer oferecer sacrifícios. Os apóstolos rasgam as vestes: homens, que fazeis? Também nós somos homens como vós; anunciamos-vos que vos convertais destas coisas vãs ao Deus vivo, que fez o céu, a terra e o mar; Ele não deixou de dar testemunho de si, fazendo o bem, dando-vos chuvas e estações frutíferas. Pouco depois, judeus vindos de Antioquia e Icónio persuadem a multidão; apedrejam Paulo e arrastam-no para fora da cidade, julgando-o morto; mas ele levanta-se e entra na cidade. Voltam pelas cidades, confirmando os discípulos: é necessário passar por muitas tribulações para entrar no reino de Deus. Constituem presbíteros em cada Igreja, com orações e jejuns, e regressam a Antioquia, onde contam como Deus abrira aos gentios a porta da fé.",
+    "alegorico": "O discurso de Listra é a primeira pregação a pagãos sem formação bíblica: parte da criação e da providência, testemunhos naturais de Deus. A multidão que passa da adoração ao apedrejamento lembra a de Jerusalém, do “Hosana” ao “Crucifica”. A “porta da fé” aberta aos gentios é imagem retomada pela Igreja.",
+    "moral": "Os apóstolos recusam a idolatria do sucesso: “também nós somos homens”. O verdadeiro pregador não se deixa endeusar. A perseverança nas tribulações é condição do Reino, e as Igrejas recém-nascidas recebem presbíteros: a missão não é só anunciar, mas estruturar comunidades duradouras.",
+    "anagogico": "“Por muitas tribulações entraremos no reino de Deus”: as provações não são sinal de abandono, mas o caminho estreito que conduz à glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nós também somos homens de natureza igual à vossa, que vos pregamos que vos convertais destas coisas vãs ao Deus vivo, que fez o céu, a terra, o mar e tudo o que há neles. Tendo evangelizado aquela cidade e feito muitos discípulos, voltaram, confirmando os ânimos dos discípulos: é necessário que passemos por muitas tribulações para entrarmos no reino de Deus. Contaram como Deus abrira aos gentios a porta da fé.",
+    "meditatio_perguntas": [
+      "Deixo-me “endeusar” pelo reconhecimento dos outros?",
+      "Vejo na criação um testemunho de Deus?",
+      "Aceito as tribulações como caminho para o Reino?"
+    ],
+    "oratio_guia": "Deus vivo, criador do céu, da terra e do mar, abre a muitos a porta da fé. Dá-me humildade quando me louvam e perseverança quando me rejeitam, sabendo que por muitas tribulações se entra no teu Reino. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós também somos homens de natureza igual à vossa",
+      "ref": "At 14,15"
+    }
+  },
+  "ancoras": {
+    "14:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 14,21b-27 é a primeira leitura do 5º Domingo da Páscoa, Ano C (numeração usual).",
+        "origem": "ia"
+      }
+    },
+    "14:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma lenda frígia contava que Zeus e Hermes tinham visitado a região disfarçados de homens.",
+        "origem": "ia"
+      }
+    },
+    "14:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Presbíteros (“anciãos”): origem do ministério sacerdotal nas comunidades locais.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
