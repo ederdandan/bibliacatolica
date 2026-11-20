@@ -1,0 +1,52 @@
+{
+  "id": "MAT.12.46",
+  "livro": "MAT",
+  "titulo": "A verdadeira família de Jesus",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 12,46-50",
+  "ini": { "c": 12, "v": 46 },
+  "fim": { "c": 12, "v": 50 },
+  "liturgia": { "tema_central": "Quem faz a vontade do Pai é meu irmão, minha irmã e minha mãe", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Enquanto Jesus fala ao povo, a sua mãe e os seus “irmãos” estão fora e querem falar-lhe. Em hebraico e aramaico, “irmão” designava também primos e parentes próximos (cf. Gn 13,8; 14,14); a Igreja ensina a virgindade perpétua de Maria. Jesus aponta para os discípulos e declara que a sua verdadeira família é formada por quem faz a vontade do Pai. Não renega a mãe, mas revela um parentesco mais profundo, o da fé e da obediência.",
+    "alegorico": "A nova família de Jesus é a Igreja, reunida em torno dele pela fé. Maria é membro eminente dessa família: é mãe segundo a carne e, mais ainda, segundo a fé, pois foi a primeira a fazer perfeitamente a vontade do Pai (“Faça-se em mim”, Lc 1,38). Estar “fora” e estar “dentro” lembra que a pertença a Cristo não depende do sangue, mas da escuta da Palavra.",
+    "moral": "Ninguém deve descuidar a virtude confiando em algum parentesco ou privilégio. A vontade do Pai é o que nos une a Cristo. Fazer a vontade de Deus nos torna irmãos de Jesus e até “mãe”, ao gerá-lo nos outros pela palavra e pelo exemplo.",
+    "anagogico": "A família de Deus, formada na fé, se consumará na casa do Pai, onde todos os que fizeram a sua vontade se reunirão como irmãos do Primogênito."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enquanto Jesus falava às multidões, sua mãe e seus irmãos estavam fora, procurando falar-lhe. Alguém lhe disse: “Tua mãe e teus irmãos estão lá fora e querem falar contigo”. Jesus respondeu: “Quem é minha mãe e quem são meus irmãos?” E, estendendo a mão para os discípulos, disse: “Eis minha mãe e meus irmãos. Pois todo aquele que faz a vontade de meu Pai que está nos céus, esse é meu irmão, minha irmã e minha mãe”.",
+    "meditatio_perguntas": [
+      "Sinto-me parte da família de Jesus? O que me falta para isso?",
+      "Busco e faço a vontade do Pai no concreto do meu dia?",
+      "Como Maria me ensina a unir escuta da Palavra e obediência?"
+    ],
+    "oratio_guia": "Senhor Jesus, que chamas de irmãos os que fazem a vontade do Pai, faz-me parte da tua família. Como Maria, tua mãe, que eu escute e cumpra a tua Palavra. Que a vontade do Pai seja o meu alimento. Amém.",
+    "contemplatio_foco": { "texto": "Todo aquele que fizer a vontade de meu Pai… esse é meu irmão e minha irmã e minha mãe.", "ref": "Mt 12,50" }
+  },
+  "ancoras": {
+    "12:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Contra Helvídio 14 ss.", "catena": "12:46–50#2", "sintese": "Contra Helvídio, que tirava daqui argumento contra a virgindade de Maria: nas Escrituras chamam-se irmãos de quatro modos: por natureza, por nação, por parentesco e por afeto." },
+        { "autor": "Santo Agostinho", "obra": "De Natura et Gratia 36", "catena": "12:46–50#5", "sintese": "Quanto à santa Virgem Maria, pela honra de Cristo, não quero que se levante questão alguma quando se trata de pecados." }
+      ],
+      "nota": { "texto": "A Igreja ensina a virgindade perpétua de Maria. Os “irmãos” de Jesus são parentes próximos; Tiago e José, por exemplo, são filhos de outra Maria (Mt 27,56).", "origem": "ia" }
+    },
+    "12:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:46–50#7", "sintese": "Não disse “vai e dize-lhe: não é minha mãe”, mas continua o discurso dirigindo-se a quem trouxera a notícia." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:46–50#9", "sintese": "Se quisesse renegar a mãe, tê-lo-ia feito quando os judeus lhe lançavam em rosto o seu nascimento." }
+      ],
+      "nota": null
+    },
+    "12:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:46–50#13", "sintese": "Ensina que não devemos descuidar a virtude confiando em parentesco algum: se ser sua mãe nada aproveitaria sem virtude, quem se salvará pelos parentes? Só há uma nobreza: fazer a vontade de Deus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

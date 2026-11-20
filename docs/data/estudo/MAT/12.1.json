@@ -1,0 +1,59 @@
+{
+  "id": "MAT.12.1",
+  "livro": "MAT",
+  "titulo": "As espigas colhidas em dia de sábado",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 12,1-8",
+  "ini": { "c": 12, "v": 1 },
+  "fim": { "c": 12, "v": 8 },
+  "liturgia": { "tema_central": "O Filho do Homem é Senhor do sábado: misericórdia quero, e não sacrifício", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A Lei permitia colher espigas com a mão num campo alheio (Dt 23,26), mas a tradição farisaica considerava isso “colheita”, um dos trabalhos proibidos no sábado. Jesus defende os discípulos famintos com três argumentos: Davi, fugindo de Saul, comeu os pães da proposição reservados aos sacerdotes (1Sm 21,1-7); os sacerdotes “violam” o sábado no Templo com os sacrifícios, sem culpa; e “aqui está alguém maior que o Templo”. Cita de novo Os 6,6 (“misericórdia quero”) e conclui com a afirmação mais forte: o Filho do Homem é Senhor do sábado.",
+    "alegorico": "Cristo é maior que o Templo, pois é o verdadeiro Templo de Deus entre os homens (Jo 2,21). Os pães da proposição, reservados aos sacerdotes, prefiguram o Pão eucarístico, dado ao povo sacerdotal. Como Senhor do sábado, Ele leva o repouso de Deus à plenitude no domingo da Ressurreição.",
+    "moral": "A lei de Deus está a serviço do homem e da misericórdia, não de um legalismo que condena inocentes. Os discípulos, famintos, contentavam-se com espigas: sóbrios nas necessidades do corpo. A observância religiosa deve ser vivida com o coração; o culto sem misericórdia não agrada a Deus.",
+    "anagogico": "O sábado aponta para o repouso eterno em Deus. Cristo, Senhor do sábado, conduz o seu povo a esse descanso definitivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Num sábado, Jesus passava pelas searas, e os discípulos, com fome, começaram a colher espigas e a comer. Os fariseus disseram: “Os teus discípulos fazem o que não é permitido em dia de sábado”. Jesus respondeu: “Não lestes o que fez Davi quando teve fome? Entrou na casa de Deus e comeu os pães da proposição. Eu vos digo: aqui está alguém maior que o Templo. Se soubésseis o que significa: Misericórdia quero, e não sacrifício, não condenaríeis inocentes. Pois o Filho do Homem é Senhor do sábado”.",
+    "meditatio_perguntas": [
+      "Vivo a minha fé como amor ou como legalismo que julga os outros?",
+      "Como santifico o Dia do Senhor?",
+      "Condeno com facilidade os “inocentes” a partir das minhas regras?"
+    ],
+    "oratio_guia": "Senhor Jesus, Senhor do sábado e maior que o Templo, ensina-me a misericórdia que preferes aos sacrifícios. Livra-me do legalismo que condena. Que o teu dia seja para mim descanso em ti e serviço aos irmãos. Amém.",
+    "contemplatio_foco": { "texto": "O Filho do homem é senhor do próprio sábado.", "ref": "Mt 12,8" }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 39", "catena": "12:1–8#2", "sintese": "Conduziu-os pelas searas no sábado porque queria abolir o sábado, mas sem ofender a Lei, alegando uma necessidade natural: a fome." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–8#4", "sintese": "Admira os discípulos, tão moderados: assaltados pela fome, contentam-se com espigas." }
+      ],
+      "nota": { "texto": "A Lei permitia colher espigas à mão no campo do próximo, mas não usar a foice (Dt 23,26). A acusação dos fariseus referia-se ao sábado, não ao furto.", "origem": "ia" }
+    },
+    "12:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–8#7", "sintese": "Aduz o exemplo de Davi, cuja glória de profeta era grande entre os judeus." }
+      ],
+      "nota": null
+    },
+    "12:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–8#9", "sintese": "Davi não transgrediu o sábado: a sabedoria de Cristo aduz um exemplo mais forte que o próprio sábado." }
+      ],
+      "nota": null
+    },
+    "12:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–8#14", "sintese": "Como o que dissera parecia duro, exorta de novo à misericórdia: “se soubésseis o que significa…”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–8#16", "sintese": "Mostra que os discípulos estão acima de qualquer defesa e são realmente sem culpa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

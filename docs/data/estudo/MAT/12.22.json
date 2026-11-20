@@ -1,0 +1,91 @@
+{
+  "id": "MAT.12.22",
+  "livro": "MAT",
+  "titulo": "Jesus e Belzebu; a blasfêmia contra o Espírito",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 12,22-37",
+  "ini": { "c": 12, "v": 22 },
+  "fim": { "c": 12, "v": 37 },
+  "liturgia": { "tema_central": "Se expulso os demônios pelo Espírito de Deus, chegou a vós o Reino", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus cura um endemoninhado cego e mudo. A multidão pergunta se não é o “Filho de Davi”; os fariseus atribuem o poder a Belzebu. Jesus responde com vários argumentos: um reino dividido não subsiste; os “vossos filhos” (exorcistas judeus) vos julgarão; se Ele expulsa demônios pelo Espírito de Deus, o Reino já chegou; ninguém saqueia a casa do “forte” sem antes amarrá-lo. Não há neutralidade: quem não está com Ele está contra Ele. Segue a advertência sobre a blasfêmia contra o Espírito Santo, que não será perdoada: atribuir ao demônio a obra evidente do Espírito é fechar-se à graça. Por fim, a árvore se conhece pelos frutos, a boca fala do que enche o coração, e de toda palavra ociosa se prestará contas.",
+    "alegorico": "Cristo é o “mais forte” que entra na casa do forte (o mundo dominado por Satanás), o amarra pela sua Paixão e liberta os que eram cativos, unindo-os à Igreja. O homem cego, mudo e possesso é imagem de quem não crê: não vê, não confessa, está sujeito ao demônio. A expulsão dos demônios é sinal de que o Reino de Deus está presente na pessoa de Jesus.",
+    "moral": "A blasfêmia contra o Espírito é a impenitência final: recusar obstinadamente, até o fim da vida, a misericórdia que perdoa. Diante de Cristo não há neutralidade. As palavras revelam o coração: devemos ser árvores boas, e a nossa linguagem deve ser útil e verdadeira. Palavra ociosa é a que não edifica nem a quem fala nem a quem ouve.",
+    "anagogico": "“Nem neste século nem no futuro”: a tradição viu aqui uma indicação de que certos pecados podem ser perdoados no século futuro (fundamento do purgatório). No dia do Juízo, seremos justificados ou condenados pelas nossas palavras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Trouxeram a Jesus um endemoninhado cego e mudo, e Ele o curou. As multidões diziam: “Não será este o Filho de Davi?” Os fariseus disseram: “Ele expulsa os demônios por Belzebu”. Jesus respondeu: “Todo reino dividido contra si mesmo será destruído. Se eu expulso os demônios pelo Espírito de Deus, então chegou a vós o Reino de Deus. Quem não está comigo está contra mim; e quem não ajunta comigo, espalha. Todo pecado e blasfêmia será perdoado, mas a blasfêmia contra o Espírito não será perdoada. A boca fala do que está cheio o coração. De toda palavra ociosa os homens darão conta no dia do Juízo”.",
+    "meditatio_perguntas": [
+      "Estou com Cristo de forma decidida, ou tento ficar “neutro”?",
+      "Resisto à ação do Espírito Santo que me chama à conversão?",
+      "O que as minhas palavras revelam sobre o meu coração?"
+    ],
+    "oratio_guia": "Senhor Jesus, mais forte que o maligno, liberta-me de toda escravidão. Não permitas que eu feche o coração ao teu Espírito. Enche o meu coração de bem, para que a minha boca fale palavras de vida. Amém.",
+    "contemplatio_foco": { "texto": "É chegado a vós o reino de Deus.", "ref": "Mt 12,28" }
+  },
+  "ancoras": {
+    "12:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:22–24#3", "sintese": "Três milagres ao mesmo tempo: o cego vê, o mudo fala, o possesso é libertado; o que se fez então na carne cumpre-se agora cada dia nos que creem." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 4", "catena": "12:22–24#5", "sintese": "Quem não crê é verdadeiramente endemoninhado, cego e mudo: sem a fé, não confessa nem louva a Deus." }
+      ],
+      "nota": null
+    },
+    "12:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:25–26#0", "sintese": "O Senhor responde não ao que diziam, mas ao que pensavam, para que fossem obrigados a crer no seu poder." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:25–26#3", "sintese": "As pequenas coisas crescem pela concórdia; as maiores desfazem-se pelas discórdias." }
+      ],
+      "nota": null
+    },
+    "12:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:27–28#5", "sintese": "O Reino de Deus designa-o a Ele mesmo: “o Reino de Deus está no meio de vós”." }
+      ],
+      "nota": null
+    },
+    "12:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "12:29#3", "sintese": "Retinha-nos de modo que não podíamos libertar-nos dele por nossas forças, mas só pela graça de Deus." },
+        { "autor": "Rábano Mauro", "obra": null, "catena": "12:29#4", "sintese": "Saqueou a sua casa, libertando dos laços do diabo os que previu que seriam seus e unindo-os à Igreja." }
+      ],
+      "nota": null
+    },
+    "12:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "12:30#1", "sintese": "Mostra o perigo de pensar mal dele: não estar com Ele é o mesmo que estar contra Ele." }
+      ],
+      "nota": null
+    },
+    "12:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 71, 8", "catena": "12:31–32#9", "sintese": "Em toda a Escritura talvez não haja questão tão grande e difícil: busquemos no Senhor a luz da explicação." },
+        { "autor": "Santo Agostinho", "obra": "Retract. 1, 19", "catena": "12:31–32#8", "sintese": "Devia ter acrescentado: se terminar esta vida nesta ímpia dureza de coração." }
+      ],
+      "nota": { "texto": "A Igreja entende a blasfêmia contra o Espírito como a recusa deliberada da misericórdia de Deus, a impenitência final. Não é que Deus não queira perdoar: é o homem que rejeita o perdão.", "origem": "ia" }
+    },
+    "12:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:33–35#2", "sintese": "A árvore discerne-se pelos frutos: embora seja a causa do fruto, o fruto é a prova da árvore." },
+        { "autor": "Santo Agostinho", "obra": "Serm. 72, 1", "catena": "12:33–35#4", "sintese": "É também advertência para nós: sejamos árvores boas, para produzir bons frutos." }
+      ],
+      "nota": null
+    },
+    "12:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:36–37#4", "sintese": "Palavra ociosa é a que se diz sem proveito de quem fala nem de quem ouve, como fábulas e ninharias frívolas." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:36–37#6", "sintese": "O Juiz sentenciará não pelo que outro disse de ti, mas pelo que tu mesmo disseste." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

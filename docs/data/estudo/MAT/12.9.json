@@ -1,0 +1,87 @@
+{
+  "id": "MAT.12.9",
+  "livro": "MAT",
+  "titulo": "A mão seca; o Servo escolhido",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 12,9-21",
+  "ini": { "c": 12, "v": 9 },
+  "fim": { "c": 12, "v": 21 },
+  "liturgia": { "tema_central": "Não quebrará a cana rachada: o Servo manso em quem o Pai se compraz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Na sinagoga, os fariseus perguntam se é lícito curar no sábado, não para aprender, mas para acusar Jesus. A tradição permitia curar no sábado só em perigo de morte; um homem com a mão atrofiada podia esperar. Jesus argumenta com a ovelha caída na cova, que todos tirariam no sábado: quanto mais vale um homem! Ordena: “Estende a tua mão”, e ela fica sã. Os fariseus tramam a sua morte. Jesus se retira, cura a todos e pede silêncio. Mateus vê aí o cumprimento do primeiro canto do Servo (Is 42,1-4): o escolhido sobre quem repousa o Espírito, que não grita nem quebra a cana rachada, e em cujo nome esperarão as nações.",
+    "alegorico": "Cristo é o Servo amado, sobre quem o Espírito repousou no batismo (3,17). A mão seca é a humanidade incapaz de fazer o bem, que Ele restaura. A cana rachada e o pavio fumegante são os fracos e pecadores, que Ele não esmaga, mas reanima. As nações que esperam no seu nome são a Igreja dos gentios.",
+    "moral": "Fazer o bem não tem dia de descanso. A mansidão de Cristo diante dos que o odeiam é modelo: não se vinga, não discute, não busca o aplauso das praças. Ele trata com delicadeza o que é frágil; assim devemos tratar os fracos e os que estão quase a apagar-se na fé.",
+    "anagogico": "“Até que faça triunfar a justiça”: a mansidão de agora não é eterna tolerância do mal; quando a sua obra estiver concluída, Cristo levará a justiça à vitória e julgará o mundo, e as nações encontrarão nele a sua esperança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus entrou na sinagoga, onde estava um homem com a mão seca. Para acusá-lo, perguntaram-lhe: “É lícito curar em dia de sábado?” Ele respondeu: “Quem de vós, se a sua ovelha cair numa cova em dia de sábado, não a tirará? Quanto mais vale um homem do que uma ovelha! Portanto, é lícito fazer o bem em dia de sábado”. E disse ao homem: “Estende a tua mão”. Ele a estendeu, e ficou sã como a outra. Os fariseus tramaram como fazê-lo morrer. Assim se cumpriu o que disse Isaías: “Eis o meu servo, que escolhi, o meu amado. Porei sobre ele o meu Espírito. Não quebrará a cana rachada, nem apagará o pavio que ainda fumega”.",
+    "meditatio_perguntas": [
+      "Que “mão seca” em mim precisa ser estendida a Jesus para fazer o bem?",
+      "Como trato as “canas rachadas” e os “pavios que fumegam” ao meu redor?",
+      "Imito a mansidão de Cristo diante de quem me hostiliza?"
+    ],
+    "oratio_guia": "Senhor Jesus, Servo amado do Pai, cura a minha mão seca, para que eu faça o bem. Tu não quebras a cana rachada: reanima a minha fé quando fumega. Dá-me a tua mansidão e o teu Espírito. Amém.",
+    "contemplatio_foco": { "texto": "Não quebrará a cana rachada, nem apagará a torcida que fumega.", "ref": "Mt 12,20" }
+  },
+  "ancoras": {
+    "12:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 40", "catena": "12:9–13#4", "sintese": "Não perguntam para aprender, mas para acusá-lo, buscando ocasião também nas suas palavras." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:9–13#5", "sintese": "Se não curasse, o acusariam de crueldade ou impotência; se curasse, de transgredir a Lei." }
+      ],
+      "nota": null
+    },
+    "12:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "12:9–13#9", "sintese": "Depois da comparação da ovelha, conclui que é lícito fazer o bem no sábado." }
+      ],
+      "nota": null
+    },
+    "12:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:9–13#10", "sintese": "Mostra muitas razões; e, como o homem estava incuravelmente doente, passa logo à obra." }
+      ],
+      "nota": null
+    },
+    "12:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#8", "sintese": "Para que não te perturbes com a loucura dos fariseus, aduz as palavras do Profeta, que nem isto omitiram." }
+      ],
+      "nota": null
+    },
+    "12:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#12", "sintese": "Mostra que tudo era conforme ao desígnio do Pai: o amado faz segundo a vontade de quem o ama." }
+      ],
+      "nota": null
+    },
+    "12:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#16", "sintese": "“Não contenderá” mostra a sua humildade: entregou-se voluntariamente nas mãos dos perseguidores." }
+      ],
+      "nota": null
+    },
+    "12:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#23", "sintese": "Era-lhe tão fácil quebrá-los como a uma cana já rachada; e não apagou o pavio da ira acesa deles, que podia extinguir prontamente: grande misericórdia de Cristo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#26", "sintese": "Não será sempre assim: quando a sua obra estiver concluída, fará triunfar a justiça." }
+      ],
+      "nota": null
+    },
+    "12:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:14–21#29", "sintese": "Não só serão punidos os que não creram: Ele atrairá também o mundo a si, e no seu nome esperarão as nações." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "MAT.12.38",
+  "livro": "MAT",
+  "titulo": "O sinal de Jonas",
+  "secao": "O mistério do Reino e a oposição",
+  "referencia": "Mt 12,38-45",
+  "ini": { "c": 12, "v": 38 },
+  "fim": { "c": 12, "v": 45 },
+  "liturgia": { "tema_central": "Aqui está quem é maior que Jonas e maior que Salomão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Escribas e fariseus pedem um sinal, depois de terem atribuído os milagres a Belzebu. Jesus chama-os “geração má e adúltera” (no sentido profético: infiel à aliança com Deus) e anuncia só o sinal de Jonas: três dias e três noites no seio da terra, como Jonas no ventre do peixe (Jn 2,1), alusão à sua morte e ressurreição. Os ninivitas, que se converteram à pregação de Jonas, e a rainha de Sabá, que veio de longe ouvir Salomão (1Rs 10), condenarão esta geração, porque aqui está alguém maior. A parábola do espírito imundo que volta com outros sete à casa vazia mostra o estado de quem foi libertado mas não se encheu de Deus.",
+    "alegorico": "Jonas é figura de Cristo: lançado ao mar para salvar os outros e devolvido à vida no terceiro dia. Os ninivitas e a rainha do Sul representam os gentios que acolhem a pregação e a sabedoria de Cristo, enquanto Israel em grande parte as recusa. A rainha foi lida como figura da Igreja dos gentios, rainha à direita do Rei (Sl 45,10).",
+    "moral": "Os sinais não convencem um coração fechado. A penitência dos ninivitas apaga o pecado; a sabedoria da rainha o evita. Não basta expulsar o mal: a alma purificada deve encher-se de virtudes e de Deus, senão o inimigo volta mais forte. A soberba pelas virtudes adquiridas abre a porta ao adversário.",
+    "anagogico": "“Levantar-se-ão no Juízo”: haverá uma só ressurreição de bons e maus, e o exemplo dos que se converteram julgará os que recusaram. O sinal de Jonas, a Ressurreição, é o sinal definitivo oferecido a todas as gerações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Alguns escribas e fariseus disseram: “Mestre, queremos ver um sinal teu”. Jesus respondeu: “Esta geração má e adúltera pede um sinal, mas não lhe será dado outro sinal senão o do profeta Jonas. Assim como Jonas esteve três dias e três noites no ventre do peixe, assim o Filho do Homem estará três dias e três noites no seio da terra. Os ninivitas se levantarão no Juízo e condenarão esta geração, porque se converteram com a pregação de Jonas; e aqui está quem é maior que Jonas. A rainha do Sul veio dos confins da terra ouvir a sabedoria de Salomão; e aqui está quem é maior que Salomão”.",
+    "meditatio_perguntas": [
+      "Peço “sinais” a Deus em vez de me converter à sua Palavra?",
+      "Depois de libertado de um mal, encho a minha “casa” com Deus e as virtudes?",
+      "Busco a sabedoria de Cristo com o empenho da rainha de Sabá?"
+    ],
+    "oratio_guia": "Senhor Jesus, maior que Jonas e que Salomão, dá-me um coração que se converta à tua Palavra sem exigir sinais. Enche a minha alma com a tua presença, para que o mal não volte. Que eu busque a tua sabedoria acima de tudo. Amém.",
+    "contemplatio_foco": { "texto": "Ora aqui está quem é mais do que Jonas.", "ref": "Mt 12,41" }
+  },
+  "ancoras": {
+    "12:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:38–40#2", "sintese": "Palavras cheias de hipocrisia: há pouco diziam que tinha demônio; agora o lisonjeiam chamando-o Mestre." }
+      ],
+      "nota": null
+    },
+    "12:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:38–40#4", "sintese": "Prova também que é igual ao Pai, se o não crer nele os torna adúlteros." }
+      ],
+      "nota": null
+    },
+    "12:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Trin. 4, 6", "catena": "12:38–40#10", "sintese": "Os três dias não foram completos: o primeiro conta-se pela sua última parte, e o terceiro pela primeira; o segundo, inteiro." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:38–40#11", "sintese": "Não disse abertamente que ressuscitaria, porque o escarneceriam, mas insinuou-o de longe." }
+      ],
+      "nota": null
+    },
+    "12:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Remígio", "obra": null, "catena": "12:41–42#1", "sintese": "Mostra que haverá uma só ressurreição dos bons e dos maus." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "12:41–42#2", "sintese": "Condenarão não por sentença de juízo, mas pela comparação do seu exemplo." }
+      ],
+      "nota": null
+    },
+    "12:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Rábano Mauro", "obra": null, "catena": "12:41–42#5", "sintese": "Os ninivitas figuram os que deixam de pecar; a rainha, os que sabem não pecar: a penitência apaga o pecado, a sabedoria o evita." }
+      ],
+      "nota": null
+    },
+    "12:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 33, 3", "catena": "12:43–45#8", "sintese": "Os lugares áridos são os corações dos justos, secos de todo humor da concupiscência carnal." }
+      ],
+      "nota": null
+    },
+    "12:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 8", "catena": "12:43–45#10", "sintese": "Alguns hão de crer, mas não terão forças para o trabalho da continência e voltarão ao mundo." },
+        { "autor": "São Gregório Magno", "obra": "Moral. 7, 17", "catena": "12:43–45#11", "sintese": "A alma, no princípio do seu progresso, ensoberbece-se das virtudes e assim abre a entrada ao adversário." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
