@@ -1,0 +1,80 @@
+{
+  "id": "MAT.23.1",
+  "livro": "MAT",
+  "titulo": "A cátedra de Moisés e a humildade",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 23,1-12",
+  "ini": { "c": 23, "v": 1 },
+  "fim": { "c": 23, "v": 12 },
+  "liturgia": { "tema_central": "Dizem e não fazem; quem se humilhar será exaltado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus fala às multidões e aos discípulos: os escribas e fariseus sentam-se na cátedra de Moisés (a autoridade de ensinar a Lei; algumas sinagogas tinham uma cadeira de pedra com esse nome). Fazei o que dizem, mas não o que fazem, porque dizem e não fazem. Atam fardos pesados nos ombros dos outros, sem mexer um dedo. Fazem tudo para serem vistos: alargam os filactérios (caixinhas com textos da Lei atadas à fronte e ao braço, cf. Dt 6,8) e as franjas do manto (Nm 15,38), amam os primeiros lugares e o título de “rabi”. Vós não vos façais chamar mestre, pai ou guia: um só é o vosso Mestre, o Cristo, e um só o vosso Pai, o do céu. O maior seja servo; quem se exaltar será humilhado, e quem se humilhar será exaltado.",
+    "alegorico": "A cátedra de Moisés passa à cátedra de Cristo, o único Mestre, cuja autoridade a Igreja exerce em seu nome. Todos os discípulos são irmãos, filhos de um só Pai, renascidos pelo Batismo acima da sua origem terrena.",
+    "moral": "O ensino verdadeiro deve ser acolhido mesmo quando o mestre é incoerente: não há desculpa para a negligência. Mas quem ensina é mais culpado se não pratica, porque o seu exemplo corrompe mais. A vanglória envenena até as obras religiosas. Chamar alguém de pai ou mestre não é proibido, desde que se reconheça que só Deus é Pai e só Cristo é Mestre por natureza; o que se proíbe é o orgulho que busca títulos.",
+    "anagogico": "“Quem se humilhar será exaltado”: a humildade de agora é o caminho da glória, segundo o exemplo de Cristo, que se humilhou e foi exaltado pelo Pai (Fl 2,8-9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus falou às multidões e aos discípulos: “Na cadeira de Moisés sentaram-se os escribas e os fariseus. Observai e fazei tudo o que vos disserem, mas não imiteis as suas obras, porque dizem e não fazem. Atam fardos pesados e insuportáveis e põem-nos aos ombros dos homens, mas eles nem com um dedo os querem mover. Fazem todas as suas obras para serem vistos pelos homens. Vós, porém, não vos façais chamar mestres, porque um só é o vosso Mestre, e vós sois todos irmãos. A ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o que está nos céus. O maior dentre vós será vosso servo. Quem se exaltar será humilhado, e quem se humilhar será exaltado”.",
+    "meditatio_perguntas": [
+      "Pratico o que digo e ensino aos outros?",
+      "Imponho aos outros fardos que eu mesmo não carrego?",
+      "Busco ser visto, os primeiros lugares, os títulos?"
+    ],
+    "oratio_guia": "Senhor Jesus, único Mestre, livra-me da vanglória e da incoerência. Que eu pratique o que ensino, ajude a carregar os fardos dos outros e me faça servo de todos, como tu. Amém.",
+    "contemplatio_foco": { "texto": "O que se exaltar será humilhado, e o que se humilhar será exaltado.", "ref": "Mt 23,12" }
+  },
+  "ancoras": {
+    "23:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 72", "catena": "23:1–4#3", "sintese": "Tira o pretexto de dizer “sou negligente porque o meu mestre é mau”: eles não ensinam o que é seu, mas o que é de Deus por Moisés." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:1–4#6", "sintese": "Quem ensina e transgride é mais culpado: porque transgride, porque devia corrigir e tropeça, e porque o seu exemplo corrompe mais." }
+      ],
+      "nota": null
+    },
+    "23:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "23:1–4#9", "sintese": "Ombros, dedos e fardos têm sentido espiritual: fala contra todos os mestres que mandam coisas grandes e não fazem nem sequer as pequenas." }
+      ],
+      "nota": null
+    },
+    "23:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:5–12#3", "sintese": "Não diz só que fazem obras para serem vistos, mas “todas as suas obras”." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "23:5–12#4", "sintese": "Deus mandou atar os mandamentos na mão, isto é, cumpri-los nas obras; eles os escreviam em pergaminhos e os atavam à fronte." }
+      ],
+      "nota": null
+    },
+    "23:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:5–12#9", "sintese": "A vanglória dominava-os até nas sinagogas, onde entravam para guiar os outros." }
+      ],
+      "nota": null
+    },
+    "23:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "23:5–12#16", "sintese": "Lembrem-se de que são filhos de um só Pai e de que, pelo novo nascimento, ultrapassaram a sua origem terrena." }
+      ],
+      "nota": null
+    },
+    "23:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "23:5–12#22", "sintese": "Uma coisa é ser pai ou mestre por natureza, outra por condescendência: chamamos pai para honrar a idade, mestre pela semelhança com o verdadeiro Mestre." }
+      ],
+      "nota": null
+    },
+    "23:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "23:5–12#23", "sintese": "Não só proíbe buscar a primazia, mas leva ao contrário: o maior será servo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
