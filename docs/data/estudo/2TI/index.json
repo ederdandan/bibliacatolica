@@ -1,0 +1,93 @@
+{
+ "livro": "2TI",
+ "secoes": [
+  "Não te envergonhes do Evangelho",
+  "Perseverar até ao fim"
+ ],
+ "pericopes": [
+  {
+   "id": "2TI.1.1",
+   "titulo": "Reanima a graça de Deus que está em ti",
+   "secao": "Não te envergonhes do Evangelho",
+   "referencia": "2Tm 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "2TI.2.1",
+   "titulo": "Bom soldado de Cristo Jesus",
+   "secao": "Não te envergonhes do Evangelho",
+   "referencia": "2Tm 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "2TI.2.14",
+   "titulo": "O operário que distribui retamente a palavra",
+   "secao": "Não te envergonhes do Evangelho",
+   "referencia": "2Tm 2,14-26",
+   "ini": {
+    "c": 2,
+    "v": 14
+   },
+   "fim": {
+    "c": 2,
+    "v": 26
+   }
+  },
+  {
+   "id": "2TI.3.1",
+   "titulo": "Os tempos perigosos e a Escritura inspirada",
+   "secao": "Perseverar até ao fim",
+   "referencia": "2Tm 3,1-17",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 17
+   }
+  },
+  {
+   "id": "2TI.4.1",
+   "titulo": "Prega a palavra; combati o bom combate",
+   "secao": "Perseverar até ao fim",
+   "referencia": "2Tm 4,1-8",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 8
+   }
+  },
+  {
+   "id": "2TI.4.9",
+   "titulo": "O Senhor assistiu-me e confortou-me",
+   "secao": "Perseverar até ao fim",
+   "referencia": "2Tm 4,9-22",
+   "ini": {
+    "c": 4,
+    "v": 9
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  }
+ ]
+}

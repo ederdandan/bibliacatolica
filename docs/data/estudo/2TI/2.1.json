@@ -1,0 +1,57 @@
+{
+  "id": "2TI.2.1",
+  "livro": "2TI",
+  "titulo": "Bom soldado de Cristo Jesus",
+  "secao": "Não te envergonhes do Evangelho",
+  "referencia": "2Tm 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Se morrermos com Ele, com Ele viveremos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo exorta Timóteo a fortalecer-se na graça de Cristo e a confiar o que ouviu a homens fiéis, capazes de ensinar outros. Usa três imagens: o soldado, que suporta as fadigas e não se enreda em negócios civis para agradar a quem o alistou; o atleta, que só é coroado se competir segundo as regras; o lavrador, que trabalha e é o primeiro a colher os frutos. Pede que se lembre de Jesus Cristo, descendente de David, ressuscitado dos mortos: por esse Evangelho Paulo sofre, preso como malfeitor; mas a palavra de Deus não está presa. Tudo suporta pelos eleitos, para que alcancem a salvação. E cita uma palavra segura, talvez um hino: se morremos com Ele, com Ele viveremos; se perseveramos, com Ele reinaremos; se o negamos, Ele nos negará; se somos infiéis, Ele permanece fiel, pois não pode negar-se a si mesmo.",
+    "alegorico": "O hino batismal resume a vida cristã como participação na Páscoa: morrer com Cristo no batismo e na cruz de cada dia, para viver e reinar com Ele. A palavra de Deus “não está presa”: a Igreja pode ser perseguida, mas o Evangelho corre livre.",
+    "moral": "A transmissão da fé é uma cadeia: Paulo, Timóteo, homens fiéis, outros. O discípulo é soldado concentrado, atleta disciplinado, lavrador paciente. Sofrer pelos outros é forma de amor apostólico. E mesmo as nossas infidelidades não esgotam a fidelidade de Deus.",
+    "anagogico": "“Se perseverarmos, reinaremos também com ele”: a perseverança abre ao reino. A coroa do atleta e a colheita do lavrador são imagens da recompensa eterna, “com a glória eterna”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fortifica-te na graça que está em Jesus Cristo. Suporta os trabalhos como um bom soldado de Jesus Cristo. Lembra-te que o Senhor Jesus Cristo ressuscitou dos mortos. A palavra de Deus não está presa. Palavra segura é esta: se morrermos com ele, também com ele viveremos; se perseverarmos, reinaremos também com ele; se formos infiéis, ele permanecerá fiel, porque não pode negar-se a si mesmo.",
+    "meditatio_perguntas": [
+      "A quem estou a confiar o que recebi da fé?",
+      "Em que me deixo “enredar” e perco o foco de soldado de Cristo?",
+      "Confio na fidelidade de Deus mesmo quando sou infiel?"
+    ],
+    "oratio_guia": "Senhor Jesus, ressuscitado dos mortos, fortalece-me na tua graça. Que eu morra contigo para viver contigo, e persevere para reinar contigo. Quando eu for infiel, permanece fiel, porque não podes negar-te a ti mesmo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se morrermos com ele, também com ele viveremos",
+      "ref": "2Tm 2,11"
+    }
+  },
+  "ancoras": {
+    "2:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O versículo mostra a sucessão no ensino: do apóstolo ao discípulo e deste a outros mestres fiéis.",
+        "origem": "ia"
+      }
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 11-13 têm forma de hino, talvez batismal (cf. Rm 6,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

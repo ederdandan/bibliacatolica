@@ -1,0 +1,57 @@
+{
+  "id": "2TI.3.1",
+  "livro": "2TI",
+  "titulo": "Os tempos perigosos e a Escritura inspirada",
+  "secao": "Perseverar até ao fim",
+  "referencia": "2Tm 3,1-17",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Toda a Escritura divinamente inspirada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos últimos dias virão tempos difíceis: os homens serão egoístas, avarentos, orgulhosos, blasfemos, desobedientes aos pais, ingratos, sem afeto, caluniadores, incontinentes, cruéis, traidores, mais amigos dos prazeres do que de Deus, com aparência de piedade mas negando a sua força. Timóteo deve afastar-se deles. Alguns entram nas casas e seduzem pessoas instáveis, sempre aprendendo e nunca chegando à verdade; resistem à verdade como Janes e Jambres resistiram a Moisés, mas a sua loucura será manifesta. Timóteo, pelo contrário, seguiu a doutrina, a vida, a fé, a paciência e as perseguições de Paulo, de que o Senhor o livrou; todos os que querem viver piedosamente em Cristo serão perseguidos. Persevere no que aprendeu, sabendo de quem aprendeu; desde a infância conhece as Sagradas Letras, que podem dar a sabedoria para a salvação. Toda a Escritura inspirada por Deus é útil para ensinar, repreender, corrigir e formar na justiça.",
+    "alegorico": "A Escritura “divinamente inspirada” (theópneustos, soprada por Deus) é palavra de Deus em palavra humana, que conduz a Cristo: “instruir para a salvação, pela fé que está em Jesus Cristo”. O Antigo Testamento, lido à luz de Cristo, é já Evangelho em figura.",
+    "moral": "A lista de vícios descreve uma sociedade centrada no eu: egoísmo, ganância, prazer acima de Deus, religião de fachada. O antídoto é a Palavra de Deus, que ensina, corrige e forma, e a fidelidade aos mestres verdadeiros. Quem quer viver piedosamente deve contar com a perseguição.",
+    "anagogico": "A Escritura forma o “homem de Deus perfeito”: a sua finalidade última é a santidade plena. Os tempos difíceis não são a última palavra: a loucura dos que resistem à verdade será manifestada, e a verdade prevalecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Haverá homens egoístas, mais amigos dos prazeres do que de Deus, tendo uma aparência de piedade, mas renegando o que faz a força dela. Todos os que querem viver piamente em Jesus Cristo padecerão perseguição. Tu persevera no que aprendeste. Desde a infância tiveste conhecimento das sagradas letras, que te podem instruir para a salvação. Toda a Escritura divinamente inspirada é útil para ensinar, para repreender, para corrigir, para formar na justiça.",
+    "meditatio_perguntas": [
+      "Há em mim “aparência de piedade” sem a sua força?",
+      "Deixo que a Escritura me corrija, e não só que me console?",
+      "Persevero no que aprendi, lembrando-me de quem o aprendi?"
+    ],
+    "oratio_guia": "Senhor, que inspiraste as Sagradas Escrituras, faz que a tua Palavra me ensine, me corrija e me forme na justiça. Livra-me de uma piedade só de fachada e dá-me perseverança nos tempos difíceis. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda a Escritura divinamente inspirada é útil para ensinar, para repreender, para corrigir, para formar na justiça",
+      "ref": "2Tm 3,16"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Janes e Jambres são os nomes que a tradição judaica dava aos magos do faraó que se opuseram a Moisés (Ex 7,11).",
+        "origem": "ia"
+      }
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Divinamente inspirada” traduz theópneustos, “soprada por Deus”; texto clássico sobre a inspiração da Escritura.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

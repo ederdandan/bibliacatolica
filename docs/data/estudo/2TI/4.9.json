@@ -1,0 +1,57 @@
+{
+  "id": "2TI.4.9",
+  "livro": "2TI",
+  "titulo": "O Senhor assistiu-me e confortou-me",
+  "secao": "Perseverar até ao fim",
+  "referencia": "2Tm 4,9-22",
+  "ini": {
+    "c": 4,
+    "v": 9
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O Senhor assistiu-me e confortou-me",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo pede a Timóteo que venha depressa. Demas abandonou-o por amor deste mundo; Crescente foi para a Galácia, Tito para a Dalmácia; só Lucas está com ele. Pede que traga Marcos, útil para o ministério, a capa deixada em Trôade e os livros, sobretudo os pergaminhos. Adverte contra Alexandre, o latoeiro, que lhe fez muito mal. Na sua primeira defesa, ninguém o assistiu; todos o abandonaram: que isso não lhes seja imputado. Mas o Senhor esteve a seu lado e deu-lhe forças, para que por ele a pregação se cumprisse e todos os pagãos a ouvissem; e foi livre da boca do leão. O Senhor o livrará de toda obra má e o salvará para o seu reino celeste: a Ele a glória pelos séculos dos séculos. Seguem saudações a Prisca, Áquila e à família de Onesíforo, e de Êubulo, Pudente, Lino, Cláudia e todos os irmãos.",
+    "alegorico": "Abandonado por todos na hora do julgamento, Paulo revive a solidão de Cristo na Paixão, e como Ele perdoa: “que isto lhes não seja imputado”. O Senhor que está ao seu lado é o mesmo que prometeu estar com os seus até ao fim dos tempos.",
+    "moral": "As últimas linhas de Paulo são profundamente humanas: sente frio, quer os seus livros, sente a falta dos amigos. Há abandonos dolorosos, como o de Demas, e reconciliações bonitas, como com Marcos, antes rejeitado e agora “útil”. Na solidão, Paulo perdoa e encontra a presença do Senhor.",
+    "anagogico": "“O Senhor me salvará, fazendo-me entrar no seu reino celestial”: o apóstolo encara a morte como passagem para o reino. A libertação “da boca do leão” é figura da libertação definitiva de todo mal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Demas abandonou-me, por amor deste século. Só Lucas está comigo. Toma contigo Marcos, porque me é útil para o ministério. Ninguém me assistiu na minha primeira defesa, mas todos me desampararam; que isto lhes não seja imputado. O Senhor, porém, assistiu-me e confortou-me. O Senhor me livrará de toda a obra má e me salvará no seu reino celestial: a ele seja dada glória pelos séculos dos séculos.",
+    "meditatio_perguntas": [
+      "O “amor deste século” está a afastar-me de Cristo, como a Demas?",
+      "Sei perdoar aos que me abandonaram na hora difícil?",
+      "Na solidão, experimento que o Senhor está a meu lado?"
+    ],
+    "oratio_guia": "Senhor, que assististe e confortaste Paulo quando todos o abandonaram, fica comigo nas minhas horas de solidão. Dá-me perdoar a quem me deixou e livra-me de toda obra má, até me salvares no teu reino. A ti a glória para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor, porém, assistiu-me e confortou-me",
+      "ref": "2Tm 4,17"
+    }
+  },
+  "ancoras": {
+    "4:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Marcos é provavelmente João Marcos, que Paulo recusara levar na segunda viagem (At 15,37-39); a tradição atribui-lhe o segundo Evangelho.",
+        "origem": "ia"
+      }
+    },
+    "4:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição identifica Lino com o sucessor de Pedro como bispo de Roma.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

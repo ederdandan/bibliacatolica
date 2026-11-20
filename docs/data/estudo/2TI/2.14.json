@@ -1,0 +1,49 @@
+{
+  "id": "2TI.2.14",
+  "livro": "2TI",
+  "titulo": "O operário que distribui retamente a palavra",
+  "secao": "Não te envergonhes do Evangelho",
+  "referencia": "2Tm 2,14-26",
+  "ini": {
+    "c": 2,
+    "v": 14
+  },
+  "fim": {
+    "c": 2,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "O servo do Senhor seja manso para com todos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Timóteo deve advertir contra as disputas de palavras, que não servem para nada senão para arruinar quem as ouve. Procure apresentar-se a Deus aprovado, como operário que não tem de que se envergonhar, que distribui retamente a palavra da verdade. Evite as conversas vãs e ímpias, que se alastram como gangrena; assim Himeneu e Fileto se desviaram, dizendo que a ressurreição já aconteceu. Mas o fundamento de Deus permanece firme, com este selo: “O Senhor conhece os que são seus” e “Afaste-se da iniquidade quem invoca o nome do Senhor”. Numa casa grande há vasos de ouro e de barro; quem se purificar será vaso de honra, útil ao Senhor. Fuja das paixões da juventude, siga a justiça, a fé, a caridade e a paz. O servo do Senhor não deve brigar, mas ser manso com todos, paciente, corrigindo com mansidão os opositores, na esperança de que Deus lhes dê a conversão.",
+    "alegorico": "A “grande casa” é a Igreja, onde convivem vasos de honra e de uso comum; o “fundamento de Deus” é Cristo, sobre o qual ela se ergue, marcado com o selo do Senhor que conhece os seus. Purificar-se é tornar-se vaso preparado para o uso do Senhor.",
+    "moral": "O texto é um pequeno tratado sobre o diálogo cristão: evitar disputas estéreis, distribuir com retidão a palavra, corrigir com mansidão e esperar a conversão como dom de Deus. A verdade não se impõe com brigas. E a palavra vã é como gangrena: alastra-se e destrói.",
+    "anagogico": "Himeneu e Fileto diziam que a ressurreição já tinha acontecido: o erro elimina a esperança futura. A Igreja confessa que a ressurreição da carne ainda está por vir, e que “o Senhor conhece os que são seus” para esse dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Esforça-te por te apresentares a Deus digno de aprovação, como um operário que não tem de que se envergonhar, que distribui retamente a palavra da verdade. O fundamento de Deus está firme: o Senhor conhece os que são seus. Se algum se purificar, será um vaso de honra, útil ao Senhor. Não convém que o servo do Senhor se ponha a altercar, mas que seja manso para com todos, paciente, que corrija com mansidão os opositores.",
+    "meditatio_perguntas": [
+      "Envolvo-me em discussões que não edificam ninguém?",
+      "Corrijo os outros com mansidão e paciência?",
+      "De que preciso de purificar-me para ser vaso útil ao Senhor?"
+    ],
+    "oratio_guia": "Senhor, que conheces os que são teus, purifica-me para ser vaso de honra, útil e preparado para toda obra boa. Livra-me das disputas vãs e dá-me a mansidão de quem espera a conversão dos outros como dom teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "O senhor conhece os que são seus",
+      "ref": "2Tm 2,19"
+    }
+  },
+  "ancoras": {
+    "2:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Himeneu e Fileto espiritualizavam a ressurreição, reduzindo-a a algo já acontecido no batismo, e negavam a ressurreição futura dos corpos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

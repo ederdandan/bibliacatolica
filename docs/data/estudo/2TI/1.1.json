@@ -1,0 +1,57 @@
+{
+  "id": "2TI.1.1",
+  "livro": "2TI",
+  "titulo": "Reanima a graça de Deus que está em ti",
+  "secao": "Não te envergonhes do Evangelho",
+  "referencia": "2Tm 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Não um espírito de timidez, mas de fortaleza",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo, prisioneiro em Roma e perto do fim, escreve a Timóteo, “caríssimo filho”. Dá graças a Deus, lembra-se dele dia e noite nas orações, recorda as suas lágrimas e deseja revê-lo. Lembra a fé sincera que habitou primeiro na avó Loide e na mãe Eunice, e agora nele. Por isso exorta-o a reavivar o dom de Deus recebido pela imposição das suas mãos, pois Deus não nos deu um espírito de timidez, mas de fortaleza, de caridade e de temperança. Não se envergonhe do testemunho do Senhor nem de Paulo prisioneiro, mas sofra com ele pelo Evangelho, apoiado na força de Deus, que nos salvou por graça, dada em Cristo antes dos séculos e manifestada agora em Jesus, que destruiu a morte e fez brilhar a vida. Paulo sabe em quem confiou. Pede que guarde o bom depósito pelo Espírito; lembra os que o abandonaram e a fidelidade de Onesíforo.",
+    "alegorico": "A graça “dada em Jesus Cristo antes de todos os séculos” e “manifestada pela aparição de nosso Salvador” resume o desígnio eterno de Deus revelado na Encarnação. Cristo “destruiu a morte e fez brilhar a vida”: a Páscoa ilumina toda a história. O dom recebido pela imposição das mãos é a graça sacramental da Ordem.",
+    "moral": "A fé transmite-se em família, de avó para mãe e de mãe para filho: a fé vivida em casa é a primeira catequese. O dom de Deus pode adormecer; é preciso reavivá-lo como se reaviva uma brasa. O cristão não é tímido nem envergonhado do Evangelho: tem o espírito de fortaleza, caridade e domínio de si.",
+    "anagogico": "Paulo confia que o Senhor “é poderoso para guardar o meu depósito até esse dia”. O dia do Senhor é o horizonte: a vida e a imortalidade que Cristo fez brilhar serão plenamente nossas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Trazendo à memória aquela fé que há em ti não fingida, a qual habitou primeiro em tua avó Loide e na tua mãe Eunice. Reanima a graça de Deus que está em ti pela imposição das minhas mãos. Deus não nos deu um espírito de timidez, mas de fortaleza, de caridade e de temperança. Não te envergonhes do testemunho de Nosso Senhor. Sei em quem pus a minha confiança.",
+    "meditatio_perguntas": [
+      "De quem recebi a fé, e a quem a estou a transmitir?",
+      "Que dom de Deus em mim precisa de ser reavivado?",
+      "Envergonho-me de dar testemunho de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que destruíste a morte e fizeste brilhar a vida, reaviva em mim o dom de Deus. Dá-me o espírito de fortaleza, de caridade e de temperança, para que não me envergonhe de ti. Sei em quem pus a minha confiança. Amém.",
+    "contemplatio_foco": {
+      "texto": "sei em quem pus a minha confiança",
+      "ref": "2Tm 1,12"
+    }
+  },
+  "ancoras": {
+    "1:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Reanimes” traduz anazōpyreîn, “reacender”, imagem do fogo que se aviva sob as cinzas.",
+        "origem": "ia"
+      }
+    },
+    "1:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Onesíforo parece já falecido; o voto de misericórdia por ele “naquele dia” (v. 18) foi lido pela tradição como oração pelos defuntos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

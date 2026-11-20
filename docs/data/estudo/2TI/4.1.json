@@ -1,0 +1,57 @@
+{
+  "id": "2TI.4.1",
+  "livro": "2TI",
+  "titulo": "Prega a palavra; combati o bom combate",
+  "secao": "Perseverar até ao fim",
+  "referencia": "2Tm 4,1-8",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Combati o bom combate, guardei a fé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo conjura Timóteo, diante de Deus e de Cristo, que há de julgar os vivos e os mortos, pela sua vinda e pelo seu reino: prega a palavra, insiste a tempo e fora de tempo, repreende, corrige, exorta com toda paciência e doutrina. Virá o tempo em que não suportarão a sã doutrina; com comichão nos ouvidos, buscarão mestres ao gosto das suas paixões e voltar-se-ão para as fábulas. Timóteo, porém, seja vigilante, suporte os sofrimentos, faça a obra de evangelista, cumpra o seu ministério. Quanto a Paulo, já está a ser oferecido em libação, e o tempo da partida chegou. Combateu o bom combate, terminou a corrida, guardou a fé. Agora lhe está reservada a coroa da justiça, que o Senhor, justo juiz, lhe dará naquele dia; e não só a ele, mas a todos os que amam a sua vinda.",
+    "alegorico": "A morte do apóstolo é descrita como “libação”, o vinho derramado sobre o sacrifício: o martírio é participação no sacrifício de Cristo. A coroa da justiça, dada a todos os que amam a vinda do Senhor, mostra a Igreja inteira como noiva que espera o Esposo.",
+    "moral": "O anúncio da Palavra não depende das condições favoráveis: “a tempo e fora de tempo”. O pregador não deve ceder à tentação de agradar aos ouvidos. E Paulo oferece o modelo de uma vida bem terminada: combate, corrida, fé guardada. Ninguém escolhe a hora da partida, mas cada um escolhe como chegar a ela.",
+    "anagogico": "É o testamento espiritual de Paulo: a morte é “partida”, e para além dela está a coroa preparada. A recompensa é prometida “àqueles que esperam com amor a sua vinda”: a esperança cristã é amor que espera."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Prega a palavra, insiste a tempo e fora de tempo, repreende, corrige, admoesta com toda a paciência e doutrina. Tu vigia sobre todas as coisas, faze a obra de evangelista, cumpre o teu ministério. Quanto a mim, estou já oferecido em libação, e o tempo da minha partida avizinha-se. Combati, até ao fim, o bom combate, acabei a minha carreira, guardei a fé. Está-me preparada a coroa da justiça, não só a mim, mas também àqueles que esperam com amor a sua vinda.",
+    "meditatio_perguntas": [
+      "Anuncio a Palavra também “fora de tempo”, quando não é cómodo?",
+      "Procuro mestres que me agradem os ouvidos, ou a verdade?",
+      "Se hoje fosse o fim da minha corrida, poderia dizer que guardei a fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, justo juiz, que virás julgar os vivos e os mortos, dá-me combater o bom combate, acabar a corrida e guardar a fé. Faz-me esperar com amor a tua vinda, para receber de ti a coroa da justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Combati, até ao fim, o bom combate, acabei a minha carreira, guardei a fé.",
+      "ref": "2Tm 4,7"
+    }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Libação” traduz spéndomai: o vinho derramado sobre a vítima no altar; Paulo vê a sua morte próxima como oferenda (cf. Fl 2,17).",
+        "origem": "ia"
+      }
+    },
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Tm 4,6-8.16-18 é lido na solenidade de São Pedro e São Paulo (29 de junho).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
