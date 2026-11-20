@@ -1,0 +1,89 @@
+{
+  "id": "LUK.22.1",
+  "livro": "LUK",
+  "titulo": "A traição de Judas e a preparação da Páscoa",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 22,1-13",
+  "ini": { "c": 22, "v": 1 },
+  "fim": { "c": 22, "v": 13 },
+  "liturgia": { "tema_central": "A Páscoa figurativa cede lugar à verdadeira: Cristo, nossa Páscoa", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Aproxima-se a festa dos Ázimos, chamada Páscoa. Os sumos sacerdotes e os escribas procuram como matar Jesus, mas temem o povo. Satanás entra em Judas Iscariotes, um dos Doze, que vai combinar com os sumos sacerdotes e os oficiais do Templo como lho entregar. Eles alegram-se e prometem-lhe dinheiro; Judas aceita e procura ocasião de o entregar longe da multidão. Chega o dia dos Ázimos, em que se devia imolar o cordeiro pascal. Jesus envia Pedro e João a preparar a Páscoa. Onde? Ao entrar na cidade, encontrarão um homem com uma bilha de água; devem segui-lo até à casa onde entrar e dizer ao dono: “O Mestre pergunta: onde está a sala em que hei de comer a Páscoa com os meus discípulos?”. Ele mostrar-lhes-á uma grande sala mobiliada no andar de cima. Vão, encontram tudo como Jesus dissera, e preparam a Páscoa.",
+    "alegorico": "A Páscoa judaica, memória da passagem do anjo e da libertação do Egito, era sombra: a nossa é a libertação do pecado e das trevas de Satanás pelo Filho de Deus. O Senhor celebra a Páscoa figurativa para a fazer cessar e dar lugar à verdade: “Cristo, nossa Páscoa, foi imolado”. O homem com a bilha de água aponta para o batismo, que substitui o sangue figurativo nas ombreiras. A sala grande e ornada no andar superior é a alma elevada e rica em virtudes, onde o Senhor pode sentar-se com os seus.",
+    "moral": "Satanás não entra à força, mas encontra a porta aberta: Judas esqueceu tudo o que vira e voltou-se para a cobiça, que torna o homem esquecido dos benefícios de Deus. Muitos se horrorizam com Judas e não se guardam dele: trai Cristo quem despreza a verdade e a caridade, sobretudo quando peca não por fraqueza, mas procurando ocasião. Quem vive ocupado com banquetes e cuidados do mundo não sobe à sala superior para celebrar a Páscoa com Jesus.",
+    "anagogico": "A Páscoa terrena aponta para a Páscoa celeste: a passagem definitiva deste mundo ao Pai, no banquete do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aproximava-se a festa dos ázimos, chamada Páscoa. Ora Satanás entrou em Judas, que tinha por sobrenome Iscariotes, um dos doze, o qual foi combinar com os príncipes dos sacerdotes de que modo lho entregaria. Chegou o dia dos ázimos, no qual se devia imolar a Páscoa. Jesus enviou Pedro e João, dizendo: “Ide, preparai-nos a refeição pascal”. E direis ao dono da casa: “O Mestre manda-te dizer: Onde está o aposento em que hei-de comer a Páscoa com os meus discípulos?” Indo eles, encontraram tudo como Jesus lhes dissera; e prepararam a Páscoa.",
+    "meditatio_perguntas": [
+      "Por que portas abertas — cobiça, ressentimento, esquecimento — o mal pode entrar em mim?",
+      "Como preparo a “sala superior” do meu coração para celebrar a Páscoa com Jesus?",
+      "O que significa para mim que Cristo é a minha Páscoa, a minha passagem?"
+    ],
+    "oratio_guia": "Senhor Jesus, nossa Páscoa, fecha em mim as portas por onde o inimigo quer entrar e livra-me da cobiça que fez cair Judas. Prepara no meu coração uma sala ampla e ornada, onde possas comer a Páscoa comigo e com os teus discípulos. Amém.",
+    "contemplatio_foco": { "texto": "Onde está o aposento em que hei-de comer a Páscoa com os meus discípulos?", "ref": "Lc 22,11" }
+  },
+  "ancoras": {
+    "22:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "22:1–2#0", "sintese": "As coisas dos judeus foram sombra das nossas: a nossa Páscoa é a libertação do pecado e de Satanás pelo Filho de Deus." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:1–2#2", "sintese": "Páscoa, “Phase”, significa passagem: o anjo passou adiante ao ver o sangue nas portas dos israelitas." }
+      ],
+      "nota": null
+    },
+    "22:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "22:3–6#1", "sintese": "Satanás entrou em Judas não à força, mas encontrando a porta aberta: esquecido do que vira, voltou-se para a cobiça." }
+      ],
+      "nota": null
+    },
+    "22:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "ut sup.", "catena": "22:3–6#7", "sintese": "A cobiça torna os homens irreligiosos e esquecidos de Deus, apesar de mil benefícios recebidos." }
+      ],
+      "nota": null
+    },
+    "22:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:3–6#9", "sintese": "Trai Cristo quem despreza a verdade e a caridade, sobretudo quando, como Judas, procura a ocasião de pecar." }
+      ],
+      "nota": null
+    },
+    "22:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": null, "catena": "22:7–13#0", "sintese": "Celebrou a Páscoa figurativa para a fazer cessar e deixar-nos uma Páscoa celeste: a verdade no lugar da figura." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:7–13#9", "sintese": "“Cristo, nossa Páscoa, foi imolado”: na noite em que se imolava o cordeiro consagrou o princípio da sua paixão." }
+      ],
+      "nota": null
+    },
+    "22:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:7–13#4", "sintese": "Não tinham morada: o Senhor de todos os lugares não tinha onde reclinar a cabeça." }
+      ],
+      "nota": null
+    },
+    "22:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:7–13#7", "sintese": "Envia-os a um desconhecido para mostrar que padecia voluntariamente; e não o nomeia para que o traidor não indicasse a casa." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:7–13#12", "sintese": "Preparam a Páscoa onde se leva a água: o sangue figurativo dá lugar ao batismo que tira o pecado." }
+      ],
+      "nota": null
+    },
+    "22:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:7–13#14", "sintese": "A sala grande e mobiliada no alto mostra os méritos em que o Senhor se senta, alegrando-se com as virtudes." },
+        { "autor": "Orígenes", "obra": "ut sup.", "catena": "22:7–13#15", "sintese": "Os ocupados com banquetes e cuidados do mundo não sobem à sala superior e não celebram a Páscoa com Jesus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

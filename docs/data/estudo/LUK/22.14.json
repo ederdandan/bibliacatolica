@@ -1,0 +1,141 @@
+{
+  "id": "LUK.22.14",
+  "livro": "LUK",
+  "titulo": "A Última Ceia",
+  "secao": "A Paixão e a Morte do Senhor",
+  "referencia": "Lc 22,14-38",
+  "ini": { "c": 22, "v": 14 },
+  "fim": { "c": 22, "v": 38 },
+  "liturgia": { "tema_central": "“Isto é o meu corpo, dado por vós”: a Eucaristia e o serviço", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Chegada a hora, Jesus põe-se à mesa com os apóstolos: “Desejei ardentemente comer convosco esta Páscoa antes de sofrer”, pois não a comerá mais até que se cumpra no Reino de Deus. Toma um cálice, dá graças e manda reparti-lo. Depois toma o pão, dá graças, parte-o e dá-lho: “Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim”. Do mesmo modo, depois da ceia, o cálice: “Este cálice é a nova Aliança no meu sangue, derramado por vós”. Anuncia que a mão do traidor está com Ele à mesa: o Filho do homem vai segundo o que foi decretado, mas ai daquele por quem é entregue. Os discípulos discutem quem será o maior; Jesus responde que entre eles o maior seja como o menor e quem governa como quem serve: “Eu estou no meio de vós como quem serve”. Aos que permaneceram com Ele nas provações promete o Reino, a sua mesa e tronos para julgar as doze tribos. A Simão diz: Satanás pediu para vos joeirar como trigo, “mas eu roguei por ti, para que a tua fé não desfaleça; e tu, uma vez convertido, confirma os teus irmãos”. Pedro diz-se pronto para a prisão e a morte; Jesus prediz a tríplice negação antes do canto do galo. Por fim, anuncia um tempo diferente: tomem bolsa, alforje e espada, pois cumprir-se-á nele: “Foi contado entre os malfeitores”. “Senhor, eis duas espadas.” — “Basta.”",
+    "alegorico": "Terminados os ritos da antiga Páscoa, Cristo passa à nova: substitui a carne e o sangue do cordeiro pelo sacramento do seu Corpo e Sangue, sob o pão e o vinho, sacerdote segundo a ordem de Melquisedec. O pão consagrado já não é pão comum, mas Corpo de Cristo; e o cálice é a nova Aliança. A mesa do Reino prometida aos discípulos é a glória da vida celeste, onde os que têm fome e sede de justiça serão saciados.",
+    "moral": "Recebamos com fé as palavras do Salvador, que é a Verdade e não mente. Comer o Corpo de Cristo em memória dele é viver não para si, mas para quem morreu e ressuscitou por nós. Ai de quem se aproxima indignamente da mesa, como Judas. A disputa dos discípulos não é desculpa, mas advertência: a verdadeira humildade é servir a muitos, como Cristo que lavou os pés e derramou o seu sangue. A resolução humana não basta sem o auxílio divino; mas a oração de Cristo guarda a raiz da fé mesmo quando caem as folhas, e quem foi levantado deve amparar os irmãos para que não desesperem do perdão.",
+    "anagogico": "“Até que se cumpra no Reino de Deus”: cada Eucaristia antecipa o banquete celeste. A glória do Reino é dada não ao primeiro esforço, mas à perseverança dos que permanecem com Cristo nas provações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Chegada a hora, pôs-se Jesus à mesa com os Apóstolos, e disse-lhes: “Tenho desejado ardentemente comer convosco esta Páscoa, antes de sofrer”. Depois tomou o pão, deu graças, partiu, e deu-lho, dizendo: “Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim”. Tomou da mesma sorte o cálice, depois de cear, dizendo: “Este cálice é a nova Aliança em meu sangue, que é derramado por vós. Eu estou no meio de vós como um que serve. Simão, Simão, eu roguei por ti, para que a tua fé não desfaleça; e tu, uma vez convertido, conforta os teus irmãos”.",
+    "meditatio_perguntas": [
+      "Com que desejo e fé me aproximo da Eucaristia?",
+      "Onde procuro ser o maior, em vez de servir?",
+      "Sei que Jesus reza por mim nas minhas quedas? A quem posso “confortar” hoje?"
+    ],
+    "oratio_guia": "Senhor Jesus, que desejaste ardentemente comer a Páscoa connosco e te deste no pão e no cálice, faz-me receber-te com fé e viver em memória de ti. Ensina-me a servir como tu serves. Roga por mim, para que a minha fé não desfaleça, e faz de mim apoio para os meus irmãos. Amém.",
+    "contemplatio_foco": { "texto": "Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim.", "ref": "Lc 22,19" }
+  },
+  "ancoras": {
+    "22:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:14–18#4", "sintese": "É a última ceia com eles; por isso lhe é tão querida, como as últimas palavras de quem parte aos amigos." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "22:14–18#3", "sintese": "Ocultou a casa e o homem para que o traidor não o entregasse antes de celebrar a Páscoa." }
+      ],
+      "nota": null
+    },
+    "22:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:19–20#0", "sintese": "Da Páscoa antiga passa à nova: o sacramento do seu Corpo e Sangue substitui a carne e o sangue do cordeiro." },
+        { "autor": "São Gregório de Nissa", "obra": "Orat. de Bapt. Christi.", "catena": "22:19–20#1", "sintese": "Antes da consagração é pão comum; consagrado pelo mistério, é e chama-se Corpo de Cristo." },
+        { "autor": "São Cirilo de Alexandria", "obra": "in Luc.", "catena": "22:19–20#2", "sintese": "Não duvides: Ele diz claramente “Isto é o meu Corpo”; recebe com fé a palavra da Verdade, que não mente." },
+        { "autor": "São Basílio", "obra": "Moral. Reg. 21, c. 3; Reg. brev. int. 172.", "catena": "22:19–20#4", "sintese": "Come-se o Corpo de Cristo em memória da sua obediência até a morte, para viver para Ele e não para si." }
+      ],
+      "nota": null
+    },
+    "22:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 46 in Ioann.", "catena": "22:19–20#3", "sintese": "Entrega-se para ser tocado, comido e abraçado: saímos da mesa como leões que respiram fogo, terríveis para o diabo." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 46 in Ioann.", "catena": "22:19–20#9", "sintese": "Este Sangue afugenta os demónios, lavou o mundo e abriu o céu." }
+      ],
+      "nota": null
+    },
+    "22:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 82 in Matth.", "catena": "22:21–23#2", "sintese": "Participou do mistério e não se converteu, nem pelo medo, nem pela gratidão, nem pela reverência." }
+      ],
+      "nota": null
+    },
+    "22:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:21–23#6", "sintese": "Ai também de quem se aproxima indignamente da mesa do Senhor e o entrega aos seus próprios membros pecadores." }
+      ],
+      "nota": null
+    },
+    "22:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "22:24–27#3", "sintese": "A disputa dos discípulos não é desculpa, mas advertência: que nenhuma questão de precedência seja a nossa ruína." }
+      ],
+      "nota": null
+    },
+    "22:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "Reg. fus. int. 30.", "catena": "22:24–27#7", "sintese": "Não se ensoberbeça quem é primeiro: a verdadeira humildade é servir a muitos, como quem cuida de feridos." }
+      ],
+      "nota": null
+    },
+    "22:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:24–27#12", "sintese": "Serviu lavando-lhes os pés e, mais ainda, derramando por nós o seu sangue." }
+      ],
+      "nota": null
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:28–30#1", "sintese": "Não o primeiro esforço, mas a perseverança, coluna de todas as virtudes, recebe a glória do Reino." }
+      ],
+      "nota": null
+    },
+    "22:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:28–30#3", "sintese": "A mesa dos santos é a glória celeste, onde os que têm fome e sede de justiça serão saciados." }
+      ],
+      "nota": null
+    },
+    "22:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:31–34#0", "sintese": "Para que os onze não atribuíssem a si a fidelidade, mostra que sem o socorro do Mestre teriam caído." }
+      ],
+      "nota": null
+    },
+    "22:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 82 in Matth.", "catena": "22:31–34#3", "sintese": "Diz “roguei” por humildade e para mostrar a sua humanidade, Ele que com autoridade deu a Pedro as chaves." },
+        { "autor": "Teofilato", "obra": null, "catena": "22:31–34#4", "sintese": "Mesmo abalado, conservas uma semente de fé: caem as folhas na tentação, mas a raiz permanece." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:31–34#6", "sintese": "Como eu protegi a tua fé, ampara tu os irmãos mais fracos, para que não desesperem do perdão." }
+      ],
+      "nota": null
+    },
+    "22:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "22:31–34#11", "sintese": "A resolução humana não basta sem o auxílio divino: Pedro, com todo o zelo, foi derrubado pelo inimigo." }
+      ],
+      "nota": null
+    },
+    "22:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:35–38#2", "sintese": "Não dá a mesma regra para o tempo de paz e para o de perseguição, quando o pastor e o rebanho são perseguidos." }
+      ],
+      "nota": null
+    },
+    "22:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "22:35–38#12", "sintese": "As duas espadas bastam para testemunhar que padeceu voluntariamente: não lhes era lícito fazer tudo em sua defesa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
