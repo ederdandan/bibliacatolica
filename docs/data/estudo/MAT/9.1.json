@@ -1,0 +1,72 @@
+{
+  "id": "MAT.9.1",
+  "livro": "MAT",
+  "titulo": "A cura do paralítico",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,1-8",
+  "ini": { "c": 9, "v": 1 },
+  "fim": { "c": 9, "v": 8 },
+  "liturgia": { "tema_central": "O Filho do Homem tem poder na terra de perdoar pecados", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "De volta a Cafarnaum, “a sua cidade”, onde morava, Jesus vê a fé dos que trazem o paralítico e, surpreendentemente, começa por perdoar-lhe os pecados. Os escribas pensam: “Blasfema!”, pois só Deus perdoa pecados (Is 43,25). Jesus lê os seus pensamentos e faz uma pergunta: é mais fácil dizer “os teus pecados estão perdoados”, que ninguém pode verificar, ou “levanta-te e anda”, que se verifica logo? A cura visível prova o poder invisível. A multidão glorifica a Deus “por ter dado tal poder aos homens”, expressão que Mateus deixa aberta ao poder transmitido à Igreja.",
+    "alegorico": "O paralítico é a humanidade paralisada pelo pecado, levada a Cristo pela fé dos outros: os Padres viram aí os ministros e intercessores da Igreja. Cristo, verdadeiro Deus e verdadeiro homem, perdoa os pecados; e o poder dado “aos homens” prefigura o sacramento da Penitência confiado aos apóstolos (Jo 20,23).",
+    "moral": "A fé de uns pode obter graça para outros: é a força da intercessão. O pecado é a paralisia mais profunda, e o perdão é a primeira cura. Jesus chama “filho” ao paralítico desprezado: a misericórdia restitui a dignidade. Curado, deve carregar o leito: aquilo que antes o prendia passa a estar sob o seu domínio.",
+    "anagogico": "“Levanta-te” é palavra de ressurreição. Quem recebe o perdão dos pecados encontra o caminho para a “sua casa”, figura da pátria celeste; sem perdão, não há caminho para a casa do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus voltou à sua cidade. Apresentaram-lhe um paralítico deitado num leito. Vendo a fé deles, Jesus disse ao paralítico: “Filho, tem confiança, os teus pecados estão perdoados”. Alguns escribas pensaram: “Este homem blasfema”. Jesus, conhecendo os seus pensamentos, disse: “Para que saibais que o Filho do Homem tem na terra o poder de perdoar pecados: levanta-te, toma o teu leito e vai para casa”. Ele levantou-se e foi para casa. As multidões, cheias de temor, glorificaram a Deus, que deu tal poder aos homens.",
+    "meditatio_perguntas": [
+      "Que paralisia o pecado produz em mim?",
+      "Por quem eu posso ser “maca” e intercessor, levando-o a Jesus?",
+      "Recorro com confiança ao sacramento da Reconciliação?"
+    ],
+    "oratio_guia": "Senhor Jesus, que tens poder de perdoar pecados, olha a minha paralisia e diz-me: “Filho, tem confiança”. Perdoa-me e levanta-me. Que eu leve a ti os irmãos que não conseguem vir sozinhos. Amém.",
+    "contemplatio_foco": { "texto": "Filho, tem confiança, são-te perdoados os teus pecados.", "ref": "Mt 9,2" }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 29", "catena": "9:1–8#2", "sintese": "A sua cidade é Cafarnaum: Belém o recebeu para nascer, Nazaré o criou e Cafarnaum o recebeu para morar." }
+      ],
+      "nota": null
+    },
+    "9:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:1–8#9", "sintese": "Não a fé do doente, mas a dos que o trouxeram." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:1–8#13", "sintese": "Admirável humildade: chama filho a este homem desprezado, que os sacerdotes não se dignavam tocar." }
+      ],
+      "nota": null
+    },
+    "9:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:1–8#15", "sintese": "Lemos no Profeta: “Sou eu que apago as tuas transgressões”; por isso, tomando-o só por homem, acusam-no de blasfêmia." }
+      ],
+      "nota": null
+    },
+    "9:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:1–8#17", "sintese": "Só quem perdoava podia saber se os pecados estavam perdoados; mas todos podiam ver se o homem se levantava e andava." }
+      ],
+      "nota": null
+    },
+    "9:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 23, 24", "catena": "9:1–8#28", "sintese": "O leito é o prazer do corpo: curado, carrega aquilo em que jazia quando doente." }
+      ],
+      "nota": null
+    },
+    "9:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "9:1–8#29", "sintese": "Não há caminho para a casa celeste para aquele cujos pecados não foram perdoados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

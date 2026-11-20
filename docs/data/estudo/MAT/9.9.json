@@ -1,0 +1,60 @@
+{
+  "id": "MAT.9.9",
+  "livro": "MAT",
+  "titulo": "O chamado de Mateus",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,9-13",
+  "ini": { "c": 9, "v": 9 },
+  "fim": { "c": 9, "v": 13 },
+  "liturgia": { "tema_central": "“Misericórdia quero, e não sacrifício”: Jesus chama os pecadores", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus chama Mateus, cobrador de impostos sentado no “telónio” (posto de coleta) de Cafarnaum, na rota comercial. Os publicanos eram desprezados como colaboradores dos romanos ou de Herodes e tidos por desonestos. Mateus segue Jesus imediatamente. Marcos e Lucas chamam-no Levi; o próprio evangelista usa o nome Mateus (“dom de Deus”), assumindo humildemente o seu passado. Num banquete em sua casa, Jesus come com publicanos e pecadores, escandalizando os fariseus, para quem a comunhão de mesa com impuros contaminava. Jesus responde com um provérbio (o médico é para os doentes) e com Os 6,6: Deus quer misericórdia, não sacrifício sem coração.",
+    "alegorico": "Cristo é o Médico divino, que veio curar a humanidade doente do pecado. O banquete com os pecadores anuncia o banquete do Reino e a Eucaristia, mesa a que os pecadores arrependidos são convidados. Mateus, do telónio ao Evangelho, é figura da graça que transforma.",
+    "moral": "Ninguém está longe demais para ser chamado: Jesus arrancou Mateus de um ofício perigoso, como fez com Paulo. A resposta é imediata e total. Os pecadores vêm a Jesus não para permanecer no pecado, mas para a penitência. Ao contrário dos fariseus, o cristão não despreza os pecadores, mas deseja a sua conversão.",
+    "anagogico": "O banquete em casa de Mateus antecipa as núpcias do Cordeiro, onde os pecadores convertidos se sentarão à mesa do Senhor. O chamado “Segue-me” conduz, por fim, à vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus viu um homem chamado Mateus sentado no posto de cobrança e disse-lhe: “Segue-me”. Ele se levantou e o seguiu. Quando Jesus estava à mesa em casa dele, muitos publicanos e pecadores vieram e sentaram-se com Ele e os discípulos. Os fariseus perguntaram aos discípulos: “Por que o vosso Mestre come com publicanos e pecadores?” Jesus ouviu e disse: “Não são os sãos que precisam de médico, mas os doentes. Ide aprender o que significa: Misericórdia quero, e não sacrifício. Pois não vim chamar os justos, mas os pecadores”.",
+    "meditatio_perguntas": [
+      "De que “telónio” Jesus quer me levantar hoje?",
+      "Reconheço-me doente, necessitado do Médico?",
+      "Olho para os pecadores com o desprezo dos fariseus ou com a misericórdia de Jesus?"
+    ],
+    "oratio_guia": "Senhor Jesus, Médico das almas, tu me chamas apesar dos meus pecados. Dá-me a prontidão de Mateus para me levantar e seguir-te. Ensina-me a misericórdia que preferes a todos os sacrifícios. Amém.",
+    "contemplatio_foco": { "texto": "Quero misericórdia e não sacrifício.", "ref": "Mt 9,13" }
+  },
+  "ancoras": {
+    "9:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:9–13#1", "sintese": "Os outros evangelistas, por respeito, chamam-no Levi; ele mesmo se chama Mateus e publicano, acusando-se a si mesmo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:9–13#3", "sintese": "Mostra o poder de quem o chamou: ocupado num ofício perigoso, arrancou-o do mal, como fez com Paulo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:9–13#6", "sintese": "Não o chamou com Pedro e João porque ainda estava endurecido; chamou-o depois de muitos milagres, quando sabia que obedeceria." }
+      ],
+      "nota": { "texto": "Os publicanos cobravam taxas e impostos por contrato, muitas vezes com abusos; eram excluídos da vida religiosa e equiparados aos pecadores públicos.", "origem": "ia" }
+    },
+    "9:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:9–13#15", "sintese": "Viram o publicano passar dos pecados a uma vida melhor, e por isso não desesperam da própria salvação." }
+      ],
+      "nota": null
+    },
+    "9:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:9–13#19", "sintese": "Não vêm a Jesus permanecendo no pecado, como murmuram os fariseus, mas com penitência." }
+      ],
+      "nota": null
+    },
+    "9:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:9–13#22", "sintese": "O texto de Oseias volta-se contra os que, julgando-se justos, recusavam a companhia dos publicanos e pecadores." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "9:9–13#26", "sintese": "Lucas acrescenta “à penitência”: ninguém pense que os pecadores são amados por Cristo por serem pecadores." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

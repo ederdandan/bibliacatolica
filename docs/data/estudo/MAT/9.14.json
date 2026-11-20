@@ -1,0 +1,60 @@
+{
+  "id": "MAT.9.14",
+  "livro": "MAT",
+  "titulo": "A questão do jejum",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,14-17",
+  "ini": { "c": 9, "v": 14 },
+  "fim": { "c": 9, "v": 17 },
+  "liturgia": { "tema_central": "Enquanto o Esposo está com eles; vinho novo em odres novos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os discípulos de João, que jejuavam como os fariseus, perguntam por que os de Jesus não jejuam. Jesus responde com a imagem das núpcias: os “companheiros do esposo” (os amigos do noivo, dispensados de jejuns durante a semana da festa) não podem estar de luto enquanto o esposo está com eles. Mas virão dias em que o esposo lhes será tirado, alusão velada à Paixão, e então jejuarão. Duas imagens do cotidiano completam a resposta: o remendo de pano novo, que encolhe e rasga a veste velha, e o vinho novo, que fermenta e rebenta os odres velhos (de pele) já ressecados.",
+    "alegorico": "Cristo é o Esposo, e a Igreja a Esposa: o Antigo Testamento chamava Deus de esposo de Israel (Os 2,21). A presença do Esposo é tempo de festa; a sua “retirada” na Paixão e Ascensão inaugura o tempo do jejum da Igreja. O vinho novo é o Evangelho e a graça do Espírito, que exigem corações renovados.",
+    "moral": "O jejum cristão não é ostentação nem rito vazio, mas espera amorosa do Esposo. Jejuamos também quando Ele se afasta de nós pelos nossos pecados. A novidade de Cristo não se acomoda a remendos: exige uma conversão que renova toda a vida, adaptando os preceitos à fraqueza dos que começam.",
+    "anagogico": "O jejum de agora prepara as núpcias eternas, quando o Esposo nunca mais será tirado e a alegria será plena. O vinho novo será bebido no Reino do Pai (Mt 26,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os discípulos de João aproximaram-se de Jesus e perguntaram: “Por que nós e os fariseus jejuamos, e os teus discípulos não jejuam?” Jesus respondeu: “Podem os amigos do esposo estar de luto enquanto o esposo está com eles? Mas virão dias em que o esposo lhes será tirado, e então jejuarão. Ninguém põe remendo de pano novo em veste velha. Nem se põe vinho novo em odres velhos; mas põe-se vinho novo em odres novos, e ambos se conservam”.",
+    "meditatio_perguntas": [
+      "Vivo a fé como festa de núpcias, na alegria da presença do Esposo?",
+      "O meu jejum nasce da saudade de Cristo ou de mera obrigação?",
+      "Que “odres velhos” em mim precisam ser renovados para receber o vinho novo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da Igreja, dá-me a alegria da tua presença. Quando te sentir distante, que o jejum desperte em mim o desejo de ti. Renova o meu coração, para que receba o vinho novo do teu Espírito. Amém.",
+    "contemplatio_foco": { "texto": "Deita-se vinho novo em odres novos.", "ref": "Mt 9,17" }
+  },
+  "ancoras": {
+    "9:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:14–17#1", "sintese": "Pergunta arrogante e ostentação de jejum: nem os discípulos de João se desculpam por se unirem aos fariseus, condenados por João." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:14–17#5", "sintese": "Lucas diz fariseus, Mateus discípulos de João: os fariseus os levaram consigo para fazer a pergunta." }
+      ],
+      "nota": null
+    },
+    "9:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:14–17#6", "sintese": "Cristo é o Esposo, e a Igreja a Esposa; os apóstolos não podem estar de luto enquanto veem o Esposo no tálamo com a Esposa." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:14–17#7", "sintese": "O tempo presente é de alegria; e o jejum é penoso sobretudo para os que ainda são fracos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:14–17#19", "sintese": "Quando Ele se afastar de nós por causa dos nossos pecados, então se deve proclamar o jejum e tomar o luto." }
+      ],
+      "nota": null
+    },
+    "9:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "9:14–17#20", "sintese": "Nem as almas nem os corpos, enfraquecidos pelo pecado inveterado, são capazes dos sacramentos da nova graça." }
+      ],
+      "nota": null
+    },
+    "9:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:14–17#14", "sintese": "Os odres velhos são os escribas e fariseus; o vinho novo, os preceitos do Evangelho, que eles não podiam conter." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

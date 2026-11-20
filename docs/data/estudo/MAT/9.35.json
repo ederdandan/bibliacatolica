@@ -1,0 +1,53 @@
+{
+  "id": "MAT.9.35",
+  "livro": "MAT",
+  "titulo": "A messe é grande",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,35-38",
+  "ini": { "c": 9, "v": 35 },
+  "fim": { "c": 9, "v": 38 },
+  "liturgia": { "tema_central": "A compaixão de Jesus e a oração pelos operários da messe", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Este resumo, quase igual a 4,23, encerra a seção de palavras (Sermão) e obras (milagres): Jesus percorre cidades e aldeias, ensinando, pregando e curando. Vendo as multidões “fatigadas e abatidas como ovelhas sem pastor” (imagem de Nm 27,17 e Ez 34), compadece-se delas; o verbo grego evoca as entranhas comovidas. A messe é imagem bíblica do juízo e da colheita final; aqui, das multidões prontas para o Reino. Jesus pede aos discípulos que rezem ao “Senhor da messe” por operários: prepara assim o envio dos Doze no capítulo seguinte.",
+    "alegorico": "Cristo é o Bom Pastor prometido por Ezequiel, que reúne as ovelhas dispersas por causa dos maus pastores. Ele é também o Senhor da messe, que envia os apóstolos a colher o que os profetas semearam. A Igreja continua esta missão através dos seus ministros.",
+    "moral": "A compaixão de Jesus nasce de ver: é preciso olhar as multidões com os olhos dele. A primeira resposta à necessidade de evangelizadores é a oração; é um grande dom poder pregar retamente, e por isso deve ser pedido. Quem reza pelos operários deve estar disposto a ser um deles.",
+    "anagogico": "A messe aponta para a colheita do fim dos tempos, quando o Senhor recolherá o trigo no seu celeiro. Os operários de agora trabalham para essa colheita eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus percorria todas as cidades e aldeias, ensinando nas sinagogas, pregando o Evangelho do Reino e curando toda doença e enfermidade. Vendo as multidões, encheu-se de compaixão por elas, porque estavam cansadas e abatidas, como ovelhas sem pastor. Então disse aos discípulos: “A messe é grande, mas os operários são poucos. Pedi, pois, ao Senhor da messe que mande operários para a sua messe”.",
+    "meditatio_perguntas": [
+      "Olho as multidões de hoje com a compaixão de Jesus?",
+      "Rezo com frequência pelas vocações sacerdotais, religiosas e missionárias?",
+      "Em que parte da messe o Senhor me pede para trabalhar?"
+    ],
+    "oratio_guia": "Senhor da messe, olha com compaixão o teu povo cansado e sem pastor. Envia operários santos à tua messe. E, se quiseres, envia-me também a mim, com o teu coração de Bom Pastor. Amém.",
+    "contemplatio_foco": { "texto": "Rogai pois ao Senhor da messe, que mande operários para a sua messe.", "ref": "Mt 9,38" }
+  },
+  "ancoras": {
+    "9:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:36–38#1", "sintese": "Prega igualmente nas aldeias e nas cidades, não atendendo ao poder dos nobres, mas à salvação dos que creem." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:36–38#4", "sintese": "Primeiro pregou e ensinou, depois curou, para que as obras convencessem os que não criam nas palavras." }
+      ],
+      "nota": null
+    },
+    "9:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:36–38#7", "sintese": "Manifesta o seu cuidado por eles, abrindo-lhes as entranhas da sua misericórdia." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:36–38#10", "sintese": "Acusação contra os chefes dos judeus: sendo pastores, pareciam lobos, e impediam o progresso da multidão." }
+      ],
+      "nota": null
+    },
+    "9:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:36–38#15", "sintese": "Insinua veladamente que Ele é o Senhor da colheita, pois envia os apóstolos a colher o que não semearam." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:36–38#17", "sintese": "É grande dom o poder de pregar retamente, pois manda pedi-lo na oração." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "MAT.9.18",
+  "livro": "MAT",
+  "titulo": "A filha do chefe e a mulher com fluxo de sangue",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,18-26",
+  "ini": { "c": 9, "v": 18 },
+  "fim": { "c": 9, "v": 26 },
+  "liturgia": { "tema_central": "“A menina não está morta, mas dorme”: a fé que toca e é salva", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Mateus narra de forma concisa dois milagres entrelaçados (mais detalhados em Mc 5 e Lc 8). Um chefe da sinagoga pede a Jesus que imponha a mão sobre a filha que acaba de morrer. No caminho, uma mulher com hemorragia havia doze anos (o que a tornava impura segundo Lv 15,25 e contaminava quem tocasse) toca escondida a “fímbria” do manto de Jesus, as franjas que os judeus usavam (Nm 15,38). Jesus a chama “filha” e declara: “a tua fé te salvou”. Na casa, os tocadores de flauta e as carpideiras já faziam o luto. Jesus diz que a menina dorme, é escarnecido, faz sair a multidão e a levanta pela mão.",
+    "alegorico": "Os Padres viram na filha do chefe a Sinagoga, que jaz morta até ser tomada pela mão de Cristo, e na mulher que sangrava a Igreja dos gentios, que, chegando por trás, foi curada antes pela fé. O manto de Cristo é a sua humanidade, pela qual a força divina nos alcança, como nos sacramentos. “Dorme” é a linguagem cristã da morte, à luz da ressurreição.",
+    "moral": "A fé humilde e escondida da mulher é vista e elogiada por Jesus. Ele não deixa a curada ficar oculta, para confirmar a sua fé e a dos outros. Diante da morte, Jesus convida a não se desesperar. Os que escarnecem não são dignos de contemplar o mistério; a fé pede silêncio e intimidade com o Senhor.",
+    "anagogico": "A morte é um sono do qual Cristo nos despertará. A menina tomada pela mão é a imagem da ressurreição final, quando o Senhor chamará de volta as almas e levantará os corpos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um chefe aproximou-se, prostrou-se diante de Jesus e disse: “Minha filha acaba de morrer; mas vem, impõe a tua mão sobre ela, e ela viverá”. Jesus o seguiu. Uma mulher, que sofria de hemorragia havia doze anos, chegou por trás e tocou a orla do seu manto, pensando: “Se eu tocar ao menos o seu manto, ficarei curada”. Jesus voltou-se e disse: “Tem confiança, filha, a tua fé te salvou”. Chegando à casa do chefe, disse: “Retirai-vos, a menina não está morta, mas dorme”. E riam dele. Depois de mandarem sair a multidão, Ele entrou, tomou a menina pela mão, e ela se levantou.",
+    "meditatio_perguntas": [
+      "Que “hemorragia” secreta esgota as minhas forças há muito tempo?",
+      "Aproximo-me de Jesus com a fé simples de quem só quer tocá-lo?",
+      "Como encaro a morte: com o desespero das carpideiras ou com a esperança de Jesus?"
+    ],
+    "oratio_guia": "Senhor Jesus, que curas quem te toca com fé e despertas os mortos, toca a minha vida com o teu poder. Cura as feridas escondidas e toma-me pela mão. Dá-me a esperança da ressurreição para os que amo. Amém.",
+    "contemplatio_foco": { "texto": "Tem confiança, filha, a tua fé te salvou.", "ref": "Mt 9,22" }
+  },
+  "ancoras": {
+    "9:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 31", "catena": "9:18–22#0", "sintese": "O milagre devia confundir os fariseus, porque quem vinha suplicar era o chefe da sinagoga." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:18–22#2", "sintese": "O chefe diz que está morta exagerando a desgraça, como costumam fazer os que suplicam." }
+      ],
+      "nota": null
+    },
+    "9:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:18–22#6", "sintese": "Não se aproximou abertamente, envergonhada da doença e julgando-se impura, pois a Lei a tinha por muito impura." }
+      ],
+      "nota": { "texto": "A “fímbria” eram as franjas (tsitsit) que a Lei mandava pôr nas pontas do manto, para recordar os mandamentos (Nm 15,38-39).", "origem": "ia" }
+    },
+    "9:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:18–22#9", "sintese": "Porque estava com medo, diz-lhe: “Tem confiança”; chama-a filha, pois a sua fé a tornara tal." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:18–22#11", "sintese": "Cristo não quis que ficasse oculta, não por buscar fama: tira-lhe o medo, corrige o erro de pensar que podia ocultar-se e mostra a todos a sua fé, para que a imitem." }
+      ],
+      "nota": null
+    },
+    "9:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:23–26#5", "sintese": "Mostra que lhe é fácil ressuscitar os mortos, como no caso de Lázaro: “O nosso amigo Lázaro dorme”." }
+      ],
+      "nota": null
+    },
+    "9:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:23–26#6", "sintese": "Os que escarneceram daquele que ressuscita não eram dignos de contemplar o mistério da ressurreição." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:23–26#7", "sintese": "Restituiu-a à vida chamando de volta a alma que partira, como que despertando-a do sono." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

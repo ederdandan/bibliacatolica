@@ -1,0 +1,67 @@
+{
+  "id": "MAT.9.27",
+  "livro": "MAT",
+  "titulo": "Dois cegos e um mudo endemoninhado",
+  "secao": "Os milagres do Reino",
+  "referencia": "Mt 9,27-34",
+  "ini": { "c": 9, "v": 27 },
+  "fim": { "c": 9, "v": 34 },
+  "liturgia": { "tema_central": "“Credes que posso fazer isto?” — “Sim, Senhor”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Dois cegos seguem Jesus gritando “Filho de Davi”, título messiânico. Jesus os faz entrar em casa e pergunta pela fé deles: “Credes que posso fazer isto?” Tocando-lhes os olhos, cura-os “segundo a vossa fé” e lhes ordena severamente o silêncio, que não guardam. Depois, um mudo possuído é libertado e fala. A multidão exclama: “Nunca se viu coisa assim em Israel”. Os fariseus, ao contrário, atribuem os exorcismos ao príncipe dos demônios. Com isso se fecha o ciclo de dez milagres: a reação a Jesus divide-se entre admiração e hostilidade.",
+    "alegorico": "Os cegos que veem e o mudo que fala realizam a profecia messiânica de Isaías: “Então se abrirão os olhos dos cegos… e a língua do mudo cantará” (Is 35,5-6). A luz dada aos cegos é figura da fé; a língua solta do mudo, da confissão de Cristo. A admiração da multidão prefigura a fé das nações; a calúnia dos fariseus, a incredulidade.",
+    "moral": "Jesus quer ser rogado e pede a fé, para que se veja que a cura é dom e resposta. Cura à parte, longe da multidão, ensinando a fugir da fama. Os cegos que creram só pelo ouvir acusam os que viam e não queriam crer. Também nós precisamos que Cristo nos dê olhos para ver e voz para confessá-lo.",
+    "anagogico": "Na glória, os olhos curados verão a Deus face a face, e a língua liberta cantará eternamente os seus louvores."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dois cegos seguiram Jesus gritando: “Tem piedade de nós, Filho de Davi!” Quando entrou em casa, Jesus lhes perguntou: “Credes que posso fazer isto?” Responderam: “Sim, Senhor”. Então tocou-lhes os olhos, dizendo: “Seja-vos feito segundo a vossa fé”. E os olhos deles se abriram. Depois, apresentaram-lhe um mudo endemoninhado. Expulso o demônio, o mudo falou. As multidões admiravam-se: “Nunca se viu coisa assim em Israel!” Mas os fariseus diziam: “É pelo príncipe dos demônios que ele expulsa os demônios”.",
+    "meditatio_perguntas": [
+      "Que cegueira minha precisa da luz de Cristo?",
+      "Respondo com convicção à pergunta: “Credes que posso fazer isto?”",
+      "A minha língua está livre para confessar e louvar o Senhor?"
+    ],
+    "oratio_guia": "Filho de Davi, tem piedade de mim! Sim, Senhor, eu creio que podes fazer isto. Abre os meus olhos para ver-te e solta a minha língua para te anunciar. Seja-me feito segundo a minha fé, e aumenta-a. Amém.",
+    "contemplatio_foco": { "texto": "Credes que posso fazer isto? Sim, Senhor.", "ref": "Mt 9,28" }
+  },
+  "ancoras": {
+    "9:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 32", "catena": "9:27–31#1", "sintese": "É acusação aos judeus que estes, privados da vista, creiam só pelo ouvido, enquanto os que viam não queriam crer nos milagres." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:27–31#3", "sintese": "Ouçam os hereges que mutilam o Antigo Testamento: o Salvador é chamado Filho de Davi; se não nasceu na carne, como é Filho de Davi?" }
+      ],
+      "nota": null
+    },
+    "9:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:27–31#4", "sintese": "Muitas vezes quis ser rogado para curar, para que ninguém pensasse que buscava ocasião de se exibir." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:27–31#6", "sintese": "Ensina a rejeitar o desejo de fama: leva-os a uma casa para curá-los à parte." }
+      ],
+      "nota": null
+    },
+    "9:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:32–35#2", "sintese": "Não era defeito natural, mas obra do demônio; por isso precisava ser trazido por outros, não podendo pedir por si mesmo." }
+      ],
+      "nota": null
+    },
+    "9:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "9:32–35#3", "sintese": "Conserva-se a ordem natural: primeiro é expulso o demônio, e então seguem-se as funções dos membros." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "9:32–35#11", "sintese": "A língua do mudo solta-se para confessar aquele a quem antes negava; a admiração da multidão é a confissão das nações." }
+      ],
+      "nota": null
+    },
+    "9:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "9:32–35#6", "sintese": "Que há de mais insensato? Não se pode imaginar que um demônio expulse outro; antes consentem nas ações uns dos outros." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
