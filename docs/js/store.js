@@ -14,7 +14,7 @@ export const DEFAULT_SETTINGS = {
   verseNumbers: true,
   justify: false,
   immersive: true, // esconde as barras ao rolar para baixo
-  nightMode: 'off', // off | auto (19h–6h) | on: leitura noturna em tons quentes
+  readMode: 'off', // off | sepia | night | auto (sépia de dia, noturno das 19h às 6h)
   keepAwake: false,
   ttsRate: 1,
   ttsVoice: '',
@@ -54,6 +54,11 @@ function normalize(data) {
   if (legacy[out.settings.theme]) out.settings.theme = legacy[out.settings.theme];
   // "Padrão do estilo" saiu das opções: passa a seguir o tempo litúrgico.
   if (out.settings.color === 'style') out.settings.color = 'liturgical';
+  // "Leitura noturna" (1.7) virou "Modo leitura".
+  if ('nightMode' in out.settings) {
+    if (out.settings.readMode === 'off') out.settings.readMode = { on: 'night', auto: 'auto' }[out.settings.nightMode] || 'off';
+    delete out.settings.nightMode;
+  }
   for (const k of ['highlights', 'bookmarks', 'notes', 'read', 'plans']) {
     if (!out[k] || typeof out[k] !== 'object' || Array.isArray(out[k])) out[k] = {};
   }
