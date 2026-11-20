@@ -1,0 +1,36 @@
+{
+ "livro": "JUD",
+ "secoes": [
+  "Carta de São Judas"
+ ],
+ "pericopes": [
+  {
+   "id": "JUD.1.1",
+   "titulo": "Combater pela fé contra os ímpios",
+   "secao": "Carta de São Judas",
+   "referencia": "Jd 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "JUD.1.17",
+   "titulo": "Conservai-vos no amor de Deus; doxologia",
+   "secao": "Carta de São Judas",
+   "referencia": "Jd 1,17-25",
+   "ini": {
+    "c": 1,
+    "v": 17
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  }
+ ]
+}

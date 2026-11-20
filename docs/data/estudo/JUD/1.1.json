@@ -1,0 +1,57 @@
+{
+  "id": "JUD.1.1",
+  "livro": "JUD",
+  "titulo": "Combater pela fé contra os ímpios",
+  "secao": "Carta de São Judas",
+  "referencia": "Jd 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Combater pela fé dada uma vez por todas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas, servo de Jesus Cristo e irmão de Tiago, escreve aos eleitos, amados pelo Pai e guardados por Cristo. Queria falar da salvação comum, mas sente necessidade de exortá-los a combater pela fé transmitida aos santos uma vez por todas, porque se infiltraram homens ímpios que transformam a graça em libertinagem e negam o único Senhor, Jesus Cristo. Recorda três exemplos de castigo: o povo salvo do Egito e depois destruído pela incredulidade, os anjos que abandonaram o seu posto, e Sodoma e Gomorra. Estes intrusos contaminam a carne e desprezam a autoridade, enquanto o próprio arcanjo Miguel não ousou injuriar o demónio. Seguem Caim, Balaão e Coré; são nuvens sem água, árvores sem fruto, ondas furiosas, estrelas errantes, contra os quais profetizou Henoch o juízo do Senhor.",
+    "alegorico": "A fé “dada aos santos, uma vez por todas” é o depósito da Revelação, confiado à Igreja para ser guardado e transmitido, não reinventado. Os exemplos do Êxodo, dos anjos e de Sodoma mostram que a graça recebida não dispensa a fidelidade. Miguel, que diz “Reprima-te o Senhor”, é figura da Igreja que vence o mal não com injúrias, mas confiando o juízo a Deus.",
+    "moral": "A carta denuncia a perversão da liberdade cristã: fazer da graça pretexto para o pecado. As imagens da natureza descrevem a vida sem frutos de quem promete muito e nada dá. Combater pela fé não é agressividade: o próprio arcanjo não insulta. O cristão guarda a doutrina e a pureza de vida, sem desprezar a autoridade nem servir o próprio interesse.",
+    "anagogico": "O texto lembra que haverá juízo: o Senhor virá “com as suas santas miríades”. As trevas reservadas às estrelas errantes contrastam com a glória prometida aos fiéis. A história do povo no deserto é aviso: só entra na terra prometida quem persevera na fé."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aos eleitos, amados por Deus Pai e guardados por Jesus Cristo. Tive necessidade de vos exortar a combater pela fé, que foi dada aos santos, uma vez por todas. Introduziram-se entre vós homens ímpios, que trocam a graça do nosso Deus em luxúria e negam a Jesus Cristo, nosso único Senhor. Eis que vem o Senhor, com as suas santas miríades, a fazer juízo contra todos.",
+    "meditatio_perguntas": [
+      "Guardo a fé recebida “uma vez por todas”, ou ajusto-a ao meu gosto?",
+      "Uso alguma vez a misericórdia de Deus como desculpa para continuar no pecado?",
+      "Na minha vida há fruto, ou sou “nuvem sem água” que promete e não dá?"
+    ],
+    "oratio_guia": "Senhor Jesus, único Senhor e Dominador, que me amas e me guardas, dá-me firmeza para combater pela fé com humildade e caridade. Não permitas que eu transforme a tua graça em ocasião de pecado. Faz-me dar fruto no teu tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "combater pela fé, que foi dada aos santos, uma vez por todas",
+      "ref": "Jd 1,3"
+    }
+  },
+  "ancoras": {
+    "1:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A disputa de Miguel sobre o corpo de Moisés não está no Antigo Testamento; segundo Orígenes, vinha de um apócrifo, a “Assunção de Moisés”.",
+        "origem": "ia"
+      }
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A profecia de Henoch é citada do livro apócrifo de Henoch (1Hen 1,9). Citar um escrito não o torna canónico; Judas usa um texto conhecido dos seus leitores.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

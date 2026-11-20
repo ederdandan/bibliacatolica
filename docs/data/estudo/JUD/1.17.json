@@ -1,0 +1,49 @@
+{
+  "id": "JUD.1.17",
+  "livro": "JUD",
+  "titulo": "Conservai-vos no amor de Deus; doxologia",
+  "secao": "Carta de São Judas",
+  "referencia": "Jd 1,17-25",
+  "ini": {
+    "c": 1,
+    "v": 17
+  },
+  "fim": {
+    "c": 1,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Conservai-vos no amor de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas lembra aos fiéis que os Apóstolos predisseram a chegada, nos últimos tempos, de zombadores que seguem as próprias paixões, provocam divisões e não têm o Espírito. Os cristãos, pelo contrário, devem edificar-se sobre a santíssima fé, orar no Espírito Santo e conservar-se no amor de Deus, à espera da misericórdia de Jesus Cristo para a vida eterna. Para com os outros, pede uma caridade diferenciada: convencer os que hesitam, arrancar do fogo os que podem ser salvos, e ter compaixão dos demais com temor, odiando até a túnica manchada pela carne. Termina com uma solene doxologia ao Deus único, Salvador, que pode guardar-nos sem pecado e apresentar-nos imaculados e cheios de alegria diante da sua glória.",
+    "alegorico": "A fórmula “orando no Espírito Santo… no amor de Deus… a misericórdia de Nosso Senhor Jesus Cristo” deixa entrever a Trindade agindo na vida do fiel. A doxologia final, que a Igreja ainda reza, é já liturgia: glória a Deus “antes de todos os tempos, e agora e por todos os séculos”.",
+    "moral": "O antídoto contra a divisão é quádruplo: edificar-se na fé, orar no Espírito, permanecer no amor de Deus, esperar a misericórdia. Diante dos que vacilam ou caem, Judas pede discernimento pastoral: paciência com uns, urgência com outros, compaixão com todos, mas sem complacência com o pecado.",
+    "anagogico": "O fim de tudo é ser apresentado “imaculado e cheio de alegria diante da sua glória”. Não somos nós que nos guardamos: é Deus “poderoso para vos conservar sem pecado”. A esperança cristã é a de chegar à glória pela misericórdia de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vós, porém, caríssimos, edificando-vos sobre o fundamento da vossa santíssima fé, orando no Espírito Santo, conservai-vos no amor de Deus, esperando a misericórdia de Nosso Senhor Jesus Cristo para a vida eterna. Àquele que é poderoso para vos conservar sem pecado e para vos apresentar imaculados e cheios de alegria diante da sua glória, seja dada glória, agora e por todos os séculos.",
+    "meditatio_perguntas": [
+      "O que faço, concretamente, para “me conservar no amor de Deus”?",
+      "Há alguém hesitante na fé a quem eu deva ajudar com paciência?",
+      "Confio mais no meu esforço ou no poder de Deus para me guardar?"
+    ],
+    "oratio_guia": "Deus único, nosso Salvador, que podes guardar-me sem pecado, conserva-me no teu amor. Ensina-me a orar no Espírito Santo e a esperar a misericórdia de Jesus Cristo. A ti a glória, agora e por todos os séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "conservai-vos no amor de Deus",
+      "ref": "Jd 1,21"
+    }
+  },
+  "ancoras": {
+    "1:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto grego dos vv. 22–23 tem variantes, com duas ou três categorias de pessoas; a Vulgata e Matos Soares distinguem os hesitantes, os que se podem arrancar ao fogo e os demais.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
