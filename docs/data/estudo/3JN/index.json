@@ -1,0 +1,22 @@
+{
+ "livro": "3JN",
+ "secoes": [
+  "Terceira carta de São João"
+ ],
+ "pericopes": [
+  {
+   "id": "3JN.1.1",
+   "titulo": "Cooperadores da verdade: Gaio, Diótrefes e Demétrio",
+   "secao": "Terceira carta de São João",
+   "referencia": "3Jo 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# Divisão em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Terceira carta de São João
+1:1-1:14 | Cooperadores da verdade: Gaio, Diótrefes e Demétrio

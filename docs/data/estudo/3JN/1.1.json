@@ -1,0 +1,57 @@
+{
+  "id": "3JN.1.1",
+  "livro": "3JN",
+  "titulo": "Cooperadores da verdade: Gaio, Diótrefes e Demétrio",
+  "secao": "Terceira carta de São João",
+  "referencia": "3Jo 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A hospitalidade que coopera com a verdade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Ancião escreve ao caríssimo Gaio, desejando-lhe saúde e prosperidade como a da sua alma. Alegra-se com o testemunho dos irmãos sobre o modo como Gaio anda na verdade: não há maior alegria do que saber que os filhos andam na verdade. Louva a fidelidade com que acolhe os irmãos, mesmo estrangeiros, que partiram pelo Nome sem nada receber dos pagãos, e pede que os ajude dignamente: acolhê-los é cooperar com a verdade. Contrasta com Diótrefes, que gosta de ter a primazia, não recebe o Ancião, fala mal dele, recusa hospedagem aos irmãos e expulsa da Igreja quem os acolhe. Exorta a imitar o bem e não o mal, e recomenda Demétrio, de quem todos dão bom testemunho. Termina com a esperança de uma visita e a paz.",
+    "alegorico": "Os missionários que partem “pelo Nome” sem nada receber figuram a Igreja que anuncia gratuitamente o Evangelho; acolhê-los é acolher Cristo, que se faz presente nos seus enviados. Diótrefes é a imagem do pastor que se apodera do rebanho em vez de servi-lo.",
+    "moral": "A carta põe lado a lado dois modelos: Gaio, hospitaleiro e fiel, e Diótrefes, ambicioso e fechado. A ambição de primazia destrói a comunhão; a hospitalidade a constrói. Quem sustenta os que anunciam o Evangelho torna-se “cooperador da verdade”. “Quem faz o bem é de Deus”: a fé verifica-se nas obras.",
+    "anagogico": "A maior alegria do Ancião — ver os filhos andarem na verdade — reflete a alegria de Deus pelos seus filhos e antecipa a festa do céu, onde o encontro “de viva voz” será definitivo e a paz não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu não tenho maior alegria do que ouvir dizer que os meus filhos andam no caminho da verdade. Tu procedes fielmente em tudo o que fazes com os irmãos, e particularmente com os estrangeiros. Devemos receber estes tais, para cooperarmos com eles na verdade. Não imites o mal, mas o bem. Quem faz o bem, é de Deus.",
+    "meditatio_perguntas": [
+      "Ajudo, com o que tenho, os que anunciam o Evangelho?",
+      "Há em mim algo de Diótrefes: desejo de primazia, que fecha portas aos outros?",
+      "Que bom testemunho dariam de mim os irmãos?"
+    ],
+    "oratio_guia": "Senhor, que enviaste os teus discípulos pelo teu Nome, faz-me cooperador da verdade. Dá-me um coração hospitaleiro como o de Gaio e livra-me da ambição que divide. Que eu faça o bem e seja teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem faz o bem, é de Deus",
+      "ref": "3Jo 1,11"
+    }
+  },
+  "ancoras": {
+    "1:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pelo Nome”: expressão absoluta para o nome de Jesus, motivo da missão (cf. At 5,41). Os missionários não aceitavam ajuda dos pagãos, para não parecerem vendedores de doutrina.",
+        "origem": "ia"
+      }
+    },
+    "1:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Diótrefes parece ser o chefe de uma comunidade local que recusava a autoridade do Ancião; a carta mostra as tensões da Igreja nascente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
