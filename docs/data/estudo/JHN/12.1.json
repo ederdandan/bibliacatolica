@@ -1,0 +1,67 @@
+{
+  "id": "JHN.12.1",
+  "livro": "JHN",
+  "titulo": "A unção em Betânia",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 12,1-11",
+  "ini": { "c": 12, "v": 1 },
+  "fim": { "c": 12, "v": 11 },
+  "liturgia": { "tema_central": "“A casa ficou cheia do perfume do bálsamo”: o amor que se derrama sem medida", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Seis dias antes da Páscoa, Jesus vai a Betânia, onde está Lázaro, que Ele ressuscitara. Dão-lhe uma ceia: Marta serve, e Lázaro está à mesa com Ele. Maria toma uma libra de bálsamo de nardo puro, de grande preço, unge os pés de Jesus e enxuga-os com os cabelos; a casa enche-se do perfume. Judas Iscariotes, que o havia de entregar, protesta: por que não se vendeu o bálsamo por trezentos denários para dar aos pobres? Dizia-o não por se importar com os pobres, mas porque era ladrão e, tendo a bolsa, roubava o que nela se lançava. Jesus responde: “Deixa-a; ela reservou este perfume para o dia da minha sepultura; os pobres sempre os tereis convosco, mas a mim não me tereis sempre”. Uma grande multidão vem a Betânia, não só por causa de Jesus, mas para ver Lázaro. Os chefes dos sacerdotes decidem matar também Lázaro, porque por causa dele muitos creem em Jesus.",
+    "alegorico": "O bálsamo é a justiça, e por isso é uma libra; é de nardo “pístico”, e pistis quer dizer fé: o justo vive da fé. Ungir os pés de Jesus é seguir os seus passos com uma vida reta; enxugá-los com os cabelos é pôr ao serviço dos pobres, membros de Cristo, o que temos de supérfluo. A casa cheia de perfume é o mundo cheio da boa fama do Evangelho. A unção antecipa a sepultura: o corpo de Cristo é ungido para a morte que dá vida.",
+    "moral": "Maria não se ocupa dos convidados, mas só do Senhor, tratando-o como Deus. O perfume do Evangelho é, para uns, odor de vida; para outros, de morte. Judas não se perdeu ao receber o dinheiro dos judeus: já era ladrão e seguia o Senhor com o corpo, não com o coração. Cristo tolera-o com longanimidade, ensinando-nos a tolerar os maus para não dividir o corpo de Cristo. Cuidar dos pobres não se opõe a honrar o Senhor; mas quem usa os pobres como pretexto rouba a ambos.",
+    "anagogico": "“A mim não me tereis sempre”: a presença corporal de Cristo passaria, mas a sua presença de majestade e graça fica até ao fim do mundo. O perfume derramado para a sepultura anuncia a ressurreição, e Lázaro à mesa com o Senhor é figura do banquete dos ressuscitados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deram-lhe lá uma ceia. Marta servia, e Lázaro era um dos que estavam à mesa com ele. Então tomou Maria uma libra de bálsamo feito de nardo puro de grande preço, ungiu os pés de Jesus e enxugou-lhos com os seus cabelos; e a casa ficou cheia de perfume do bálsamo. Mas Jesus respondeu: “Deixa-a; ela reservou este perfume para o dia da minha sepultura”.",
+    "meditatio_perguntas": [
+      "O que tenho de “precioso” que posso derramar inteiramente aos pés de Jesus?",
+      "Há em mim algo de Judas, que calcula e se serve do bem como pretexto?",
+      "A minha vida espalha o perfume de Cristo à minha volta?"
+    ],
+    "oratio_guia": "Senhor Jesus, recebe o pouco que tenho como Maria derramou o seu perfume aos teus pés. Livra-me do cálculo de Judas e dá-me um amor sem medida. Que a minha vida encha a casa com o perfume da tua presença. Amém.",
+    "contemplatio_foco": { "texto": "e a casa ficou cheia de perfume do bálsamo.", "ref": "Jo 12,3" }
+  },
+  "ancoras": {
+    "12:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:1–11#2", "sintese": "Lázaro vivia, falava, comia: a verdade ficava comprovada e a incredulidade confundida." }
+      ],
+      "nota": null
+    },
+    "12:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–11#3", "sintese": "Maria dedica toda a atenção ao Senhor, tratando-o não como simples homem, mas como Deus." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:1–11#21", "sintese": "O bálsamo é a justiça, “pístico” é fé: unge os pés de Jesus com vida reta e segue os seus passos." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:1–11#23", "sintese": "A casa encheu-se de perfume: o mundo encheu-se da sua boa fama." }
+      ],
+      "nota": { "texto": "Uma libra romana tinha cerca de 327 g. Trezentos denários equivaliam a quase um ano de salário de um trabalhador.", "origem": "ia" }
+    },
+    "12:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:1–11#10", "sintese": "Judas já estava perdido antes: seguia o Senhor com o corpo, não com o coração; aprendamos a tolerar os maus para não dividir o corpo de Cristo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–11#13", "sintese": "Com grande longanimidade não o repreende pelos roubos, para lhe tirar toda a desculpa de o entregar." }
+      ],
+      "nota": null
+    },
+    "12:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:1–11#16", "sintese": "Fala da presença corporal; pela majestade e pela graça, está connosco todos os dias até ao fim do mundo." }
+      ],
+      "nota": null
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:1–11#19", "sintese": "Nenhum milagre provocou tanta ira como este, de tão público e admirável." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

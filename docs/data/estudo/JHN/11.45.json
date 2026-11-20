@@ -1,0 +1,80 @@
+{
+  "id": "JHN.11.45",
+  "livro": "JHN",
+  "titulo": "A decisão de matar Jesus",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 11,45-57",
+  "ini": { "c": 11, "v": 45 },
+  "fim": { "c": 11, "v": 57 },
+  "liturgia": { "tema_central": "“Convém que morra um homem pelo povo”: a profecia involuntária de Caifás", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Muitos dos judeus que tinham vindo visitar Maria e Marta, vendo o que Jesus fizera, creem nele; mas alguns vão contar aos fariseus. Os pontífices e fariseus reúnem o conselho: este homem faz muitos sinais; se o deixarmos, todos crerão nele, e os romanos virão destruir o lugar e a nação. Caifás, o pontífice daquele ano, diz-lhes: “Vós não sabeis nada; convém que morra um homem pelo povo e não pereça toda a nação”. Não o disse por si, mas, sendo pontífice, profetizou que Jesus havia de morrer pela nação, e não só por ela, mas para reunir num só corpo os filhos de Deus dispersos. Desde esse dia resolvem matá-lo. Jesus já não anda publicamente entre os judeus e retira-se para Efraim, perto do deserto, com os discípulos. Aproxima-se a Páscoa; muitos sobem a Jerusalém para se purificarem e procuram Jesus no Templo, perguntando se virá à festa. Os chefes tinham ordenado que quem soubesse onde Ele estava o denunciasse.",
+    "alegorico": "O Espírito serve-se da boca de um ímpio para anunciar o mistério: um morre por todos. Caifás pensava só na nação judaica; mas o evangelista sabe que há outras ovelhas a reunir, e que a morte de Cristo junta num só corpo os filhos de Deus dispersos. A Páscoa que se aproxima é chamada “dos judeus”, porque a eles servia de ocasião para a cilada; mas dela nascerá a Páscoa do Senhor.",
+    "moral": "Um milagre como a ressurreição de Lázaro devia suscitar louvor; em corações endurecidos suscita conselhos de morte. O medo de perder o lugar e o poder cega mais do que a ignorância. Até os maus podem dizer verdades que não entendem: não basta pronunciar palavras de Deus, é preciso deixá-las converter o coração. Procuram Jesus com má intenção; procuremo-lo nós no templo de Deus, orando para que venha à nossa festa e nos santifique.",
+    "anagogico": "“Para unir num só corpo os filhos de Deus dispersos”: a morte de Cristo começa a reunir a humanidade que o pecado dispersou, e essa reunião consuma-se na assembleia dos santos, onde todos os povos formarão um só rebanho em torno do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muitos dos Judeus, vendo o que Jesus fizera, creram nele. Os pontífices e os fariseus reuniram-se então em conselho, e diziam: “Que fazemos nós? Este homem faz muitos milagres”. Caifás disse-lhes: “Convém que morra um homem pelo povo, e que não pereça toda a nação”. Profetizou que Jesus devia morrer pela nação, e não somente pela nação, mas também para unir num só corpo os filhos de Deus dispersos.",
+    "meditatio_perguntas": [
+      "Que medos de perder posição ou segurança me fecham à verdade de Cristo?",
+      "Vejo a morte de Jesus como entrega por mim e por todos os dispersos?",
+      "Com que intenção procuro Jesus: para o encontrar, ou para outros fins?"
+    ],
+    "oratio_guia": "Senhor Jesus, que morreste não só pela nação, mas para reunir os filhos de Deus dispersos, reúne-me contigo e com os meus irmãos. Livra-me do medo que fecha o coração. Que eu te procure com reta intenção e venhas à minha festa para me santificar. Amém.",
+    "contemplatio_foco": { "texto": "para unir num só corpo os filhos de Deus dispersos.", "ref": "Jo 11,52" }
+  },
+  "ancoras": {
+    "11:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:41–46#24", "sintese": "Os que vão contar aos fariseus figuram os que, vendo as boas obras dos servos de Deus, por isso mesmo os odeiam, perseguem e caluniam." }
+      ],
+      "nota": null
+    },
+    "11:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "11:47–53#0", "sintese": "Um milagre como este devia suscitar admiração e louvor; fazem dele motivo de conspiração." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:47–53#1", "sintese": "Não pensavam em crer: só deliberavam como o prejudicar." }
+      ],
+      "nota": null
+    },
+    "11:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "11:47–53#9", "sintese": "Segundo Josefo, Caifás comprou o sacerdócio por um ano." }
+      ],
+      "nota": { "texto": "Caifás foi sumo sacerdote de cerca de 18 a 36 d.C. “Daquele ano” sublinha que era ele o pontífice no ano decisivo da morte de Jesus.", "origem": "ia" }
+    },
+    "11:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "11:47–53#11", "sintese": "Disse-o com má intenção, mas o Espírito Santo serviu-se da sua boca." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:47–53#13", "sintese": "Até os maus podem predizer o futuro pelo espírito de profecia; aqui, por mistério divino ligado ao pontificado." }
+      ],
+      "nota": null
+    },
+    "11:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:47–53#15", "sintese": "Caifás profetizou da nação; o evangelista sabe das outras ovelhas a reunir num só redil." }
+      ],
+      "nota": null
+    },
+    "11:54": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:54–57#1", "sintese": "Não lhe faltava poder para andar às claras; retira-se para mostrar que os fiéis não pecam ao esconder-se dos perseguidores." }
+      ],
+      "nota": null
+    },
+    "11:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "11:54–57#9", "sintese": "Procuravam-no com má intenção; procuremo-lo nós no templo de Deus, orando para que venha à nossa festa." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

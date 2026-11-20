@@ -1,0 +1,58 @@
+{
+  "id": "JHN.12.12",
+  "livro": "JHN",
+  "titulo": "A entrada em Jerusalém",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 12,12-19",
+  "ini": { "c": 12, "v": 12 },
+  "fim": { "c": 12, "v": 19 },
+  "liturgia": { "tema_central": "“Hosana! Bendito o que vem em nome do Senhor”: o Rei manso sobre o jumentinho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No dia seguinte, a grande multidão que viera à festa, sabendo que Jesus vem a Jerusalém, toma ramos de palmeira, sai ao seu encontro e clama: “Hosana! Bendito o que vem em nome do Senhor, o rei de Israel”. Jesus encontra um jumentinho e monta-o, como está escrito: “Não temas, filha de Sião; eis que o teu Rei vem montado sobre um jumentinho”. Os discípulos não compreendem isto a princípio; só quando Jesus foi glorificado se lembram de que estava escrito dele e de que eles mesmos o tinham cumprido. A multidão que estivera com Ele quando chamou Lázaro do sepulcro dá testemunho, e por isso muitos lhe saem ao encontro. Os fariseus dizem entre si: “Vedes que nada conseguis? Eis que todo o mundo vai atrás dele”.",
+    "alegorico": "Cristo não era rei de Israel para cobrar tributos e comandar exércitos, mas para governar as almas e conduzi-las ao Reino dos céus: ser rei de Israel foi para Ele condescendência, não elevação. O jumentinho figura os gentios, antes impuros, que se submetem ao Evangelho. As palmas são sinal de vitória: o Rei entra na cidade para vencer a morte pela cruz.",
+    "moral": "“Hosana” exprime mais um afeto do que um conceito: é o clamor de quem pede salvação. O Rei vem manso, sem cavalos de guerra: quem o acolhe não deve temer. Muitos discípulos só compreendem depois: a luz da ressurreição dá sentido ao que vivemos sem entender. A multidão perturbou a multidão: o mundo vai atrás daquele por quem foi feito, e a inveja dos fariseus não o pode impedir.",
+    "anagogico": "A multidão com palmas antecipa a multidão inumerável do Apocalipse, vestida de branco e com palmas nas mãos diante do trono e do Cordeiro (Ap 7,9). O Rei que entra em Jerusalém montado num jumentinho entrará um dia na Jerusalém celeste com todos os seus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tomou ramos de palmas, saiu ao seu encontro e clamava: “Hosana! Bendito o que vem em nome do Senhor, o rei de Israel”. Jesus encontrou um jumentinho, e montou em cima dele, segundo está escrito: Não temas, filha de Sião; eis que o teu Rei vem montado sobre um jumentinho. A princípio, os seus discípulos não compreenderam estas coisas, mas quando Jesus foi glorificado, então lembraram-se.",
+    "meditatio_perguntas": [
+      "Que tipo de rei espero de Jesus: um que me dê vitórias, ou o rei manso que governa a alma?",
+      "O meu “Hosana” de domingo mantém-se quando chega a cruz?",
+      "Que acontecimentos da minha vida só compreendi depois, à luz da ressurreição?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei manso e humilde, entra na cidade da minha alma. Hosana: salva-me! Que eu te aclame não só com palmas, mas com a vida, e te siga até à cruz e à glória. Amém.",
+    "contemplatio_foco": { "texto": "Hosana! Bendito o que vem em nome do Senhor, o rei de Israel.", "ref": "Jo 12,13" }
+  },
+  "ancoras": {
+    "12:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:12–19#3", "sintese": "“Hosana” é exclamação que exprime mais um afeto da alma do que um sentido determinado." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:12–19#6", "sintese": "Não era rei para cobrar tributos e comandar exércitos, mas para governar as almas: condescendência, não elevação." }
+      ],
+      "nota": { "texto": "“Hosana” vem do hebraico hôshî‘āh nā’, “salva, pois!” (Sl 117[118],25). As palmas eram usadas na festa dos Tabernáculos e símbolo de vitória.", "origem": "ia" }
+    },
+    "12:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:12–19#9", "sintese": "Figurava profeticamente os gentios impuros submetendo-se ao Evangelho, e cumpria a profecia." }
+      ],
+      "nota": null
+    },
+    "12:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:12–19#12", "sintese": "Quando manifestou o poder da ressurreição, lembraram-se de que estas coisas estavam escritas dele." }
+      ],
+      "nota": null
+    },
+    "12:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "12:12–19#15", "sintese": "A multidão perturbou a multidão: por que se ressente de que o mundo vá atrás daquele por quem foi feito?" }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

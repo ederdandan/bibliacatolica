@@ -1,0 +1,130 @@
+{
+  "id": "JHN.11.1",
+  "livro": "JHN",
+  "titulo": "A ressurreição de Lázaro",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 11,1-44",
+  "ini": { "c": 11, "v": 1 },
+  "fim": { "c": 11, "v": 44 },
+  "liturgia": { "tema_central": "“Eu sou a ressurreição e a vida”: Jesus chora o amigo e chama-o do sepulcro", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lázaro, de Betânia, irmão de Marta e de Maria, está doente. As irmãs mandam dizer a Jesus: “Senhor, aquele que amas está enfermo”. Jesus diz que esta doença não é para a morte, mas para a glória de Deus. Amava Marta, Maria e Lázaro, e ainda assim fica dois dias onde está. Depois decide voltar à Judeia, apesar do perigo: quem caminha de dia não tropeça. “Lázaro dorme; vou despertá-lo.” Como não entendem, diz claramente: “Lázaro morreu”. Tomé exclama: “Vamos também nós, para morrer com ele”. Ao chegar, Lázaro está há quatro dias no sepulcro. Marta vai ao encontro de Jesus: “Se tu estivesses cá, meu irmão não teria morrido”. Jesus: “Teu irmão há de ressuscitar… Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá. Crês isto?”. Ela confessa: “Tu és o Cristo, o Filho de Deus”. Maria vem, cai-lhe aos pés e chora; Jesus comove-se profundamente, pergunta onde o puseram e chora. Junto ao sepulcro manda tirar a pedra; Marta objeta que já cheira mal. “Não te disse que, se creres, verás a glória de Deus?” Jesus dá graças ao Pai e brada: “Lázaro, sai para fora”. O morto sai, ligado com faixas, e Jesus manda desligá-lo e deixá-lo ir.",
+    "alegorico": "Lázaro no sepulcro é a alma morta pelo pecado: os quatro dias são os graus do pecado, deleite, consentimento, ação e hábito, que já cheira mal. A pedra sobre o sepulcro é a Lei gravada em pedra, sob a qual jazem os culpados; tirá-la é anunciar a graça. Cristo estremece, chora e clama: dificilmente se levanta quem está oprimido pelo hábito. “Sai para fora” é a confissão: quem desprezava jazia morto; quem confessa, sai. Cristo dá a vida por dentro; os discípulos desatam, pelo ministério da Igreja que absolve.",
+    "moral": "As irmãs não dizem “vem e cura-o”: basta que Ele saiba, porque não é dos que amam e abandonam. Ninguém se escandalize se a doença atinge os amigos de Deus. Marta crê, mas ainda pouco; Maria levanta-se depressa e não deixa que a dor a detenha. Jesus chora para nos ensinar a chorar: a fé não suprime o luto, mas enche-o de esperança. Estremece tu também em ti mesmo, se queres ressuscitar para uma vida nova.",
+    "anagogico": "A voz que chama Lázaro é figura da trombeta da ressurreição geral. “Quem crê em mim, ainda que esteja morto, viverá”: a fé é a vida da alma até que a carne ressuscite para não mais morrer. Para o Senhor, a morte é sono; Ele desperta-nos com a facilidade com que se acorda quem dorme."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mandaram, pois, suas irmãs dizer a Jesus: “Senhor, aquele que amas está enfermo”. Jesus disse-lhe: “Eu sou a ressurreição e a vida; o que crê em mim, ainda que esteja morto, viverá; e todo o que vive e crê em mim, não morrerá eternamente. Crês isto?” Ela respondeu: “Sim, Senhor, eu creio que tu és o Cristo, o Filho de Deus”. Jesus chorou. Bradou em alta voz: “Lázaro, sai para fora”. E saiu o que estivera morto.",
+    "meditatio_perguntas": [
+      "Que parte de mim jaz no sepulcro há “quatro dias”, presa ao hábito?",
+      "Respondo à pergunta de Jesus, “Crês isto?”, com a confissão de Marta?",
+      "Deixo-me desatar pela Igreja, no sacramento da Penitência, depois de ouvir a voz que me chama?"
+    ],
+    "oratio_guia": "Senhor Jesus, ressurreição e vida, aquele que amas está enfermo. Tu choraste junto ao sepulcro do teu amigo: chora também por mim e chama-me para fora. Tira a pedra que me esmaga, desata as faixas que me prendem e dá-me viver para ti. Creio que és o Cristo, o Filho de Deus. Amém.",
+    "contemplatio_foco": { "texto": "Eu sou a ressurreição e a vida", "ref": "Jo 11,25" }
+  },
+  "ancoras": {
+    "11:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:1–5#6", "sintese": "Não dizem “vem e cura-o”: basta que o saibas; não és dos que amam e abandonam quem amam." }
+      ],
+      "nota": null
+    },
+    "11:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:1–5#11", "sintese": "Ele está doente, elas tristes, e todos amados: por isso esperavam no Consolador e Médico." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:1–5#12", "sintese": "Não nos entristeçamos quando a doença atinge homens bons e amigos de Deus." }
+      ],
+      "nota": null
+    },
+    "11:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:11–16#1", "sintese": "Para o Senhor dormia; despertou-o do sepulcro com a facilidade com que se acorda alguém na cama." }
+      ],
+      "nota": null
+    },
+    "11:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "11:17–27#3", "sintese": "Quatro graus do pecado: deleite do coração, consentimento, ação e hábito." }
+      ],
+      "nota": { "texto": "Segundo uma crença judaica da época, a alma rondava o corpo durante três dias; ao quarto dia a morte era tida por definitiva.", "origem": "ia" }
+    },
+    "11:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:17–27#17", "sintese": "Ainda que morra a carne, a alma vive, pois a fé é a vida da alma, até que a carne ressuscite para não mais morrer." }
+      ],
+      "nota": null
+    },
+    "11:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:17–27#20", "sintese": "Ao crer que eras o Filho de Deus, cri que eras a ressurreição e a vida." }
+      ],
+      "nota": null
+    },
+    "11:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:28–32#5", "sintese": "Sem deixar que a dor a detivesse, levantou-se logo para ir ao encontro do Mestre." }
+      ],
+      "nota": null
+    },
+    "11:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:33–41#1", "sintese": "Perturbou-se porque quis: o Verbo assumiu a natureza humana inteira, e os seus afetos estavam no seu poder." }
+      ],
+      "nota": null
+    },
+    "11:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:33–41#9", "sintese": "Por que chorou Cristo, senão para ensinar os homens a chorar?" }
+      ],
+      "nota": null
+    },
+    "11:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:33–41#13", "sintese": "Estremece tu também, se queres ressuscitar; os mortos debaixo da pedra são os culpados sob a Lei gravada em pedra." }
+      ],
+      "nota": null
+    },
+    "11:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:33–41#24", "sintese": "A glória de Deus está em restituir à vida quem já cheira mal e está morto há quatro dias." }
+      ],
+      "nota": null
+    },
+    "11:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "11:41–46#3", "sintese": "Não precisava de orar: orou por nós, para que soubéssemos que é o Filho; a oração aproveitou à nossa fé." }
+      ],
+      "nota": null
+    },
+    "11:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "11:41–46#6", "sintese": "Fala ao morto como a um vivo: as palavras mostram humildade, os atos poder." },
+        { "autor": "Teofilato", "obra": null, "catena": "11:41–46#7", "sintese": "A voz que despertou Lázaro é símbolo da trombeta da ressurreição geral." }
+      ],
+      "nota": null
+    },
+    "11:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "11:41–46#22", "sintese": "Quando desprezas, jazes morto; quando confessas, sais para fora; mas só confessas se Deus te chamar com grande graça." },
+        { "autor": "Alcuíno", "obra": null, "catena": "11:41–46#23", "sintese": "Cristo desperta por dentro; os discípulos desatam, pelo ministério sacerdotal que absolve os vivificados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
