@@ -1,0 +1,57 @@
+{
+  "id": "TIT.2.1",
+  "livro": "TIT",
+  "titulo": "A graça de Deus manifestou-se",
+  "secao": "Carta a Tito",
+  "referencia": "Tt 2,1-15",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A graça de Deus manifestou-se para todos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tito deve ensinar o que convém à sã doutrina, a cada estado de vida: os anciãos sejam sóbrios, dignos e sãos na fé, na caridade e na paciência; as mulheres idosas, de conduta santa, sem calúnias nem vinho, ensinem as jovens a amar maridos e filhos e a cuidar da casa, para que a Palavra de Deus não seja difamada; os jovens sejam moderados. Tito mesmo seja modelo de boas obras e de palavra sã, para que os adversários nada tenham a dizer. Os servos sejam fiéis, para honrar em tudo a doutrina de Deus. O fundamento de tudo: manifestou-se a graça de Deus, salvadora para todos os homens, que nos ensina a renunciar à impiedade e a viver sóbria, justa e piamente, aguardando a vinda gloriosa do nosso grande Deus e Salvador, Jesus Cristo, que se entregou por nós para formar um povo seu, zeloso das boas obras.",
+    "alegorico": "A graça que “se manifestou” é o próprio Cristo, vindo na carne; a Igreja lê este texto na Missa da Noite de Natal. A “vinda gloriosa” é a segunda manifestação. Entre as duas epifanias vive o povo que Cristo resgatou e purificou para si.",
+    "moral": "A graça não é só perdão: é mestra que educa. Ensina a dizer “não” à impiedade e às paixões mundanas e a viver com sobriedade (para consigo), justiça (para com os outros) e piedade (para com Deus). Cada idade e estado tem a sua forma de santidade, e o testemunho da vida diária torna a doutrina atraente.",
+    "anagogico": "O cristão vive “aguardando a esperança bem-aventurada”. O texto chama Jesus Cristo “nosso grande Deus e Salvador”, e a sua vinda gloriosa é o horizonte que dá sentido à vida sóbria e justa de agora."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A graça de Deus, fonte de salvação para todos os homens, manifestou-se, ensinando-nos que, renunciando à impiedade e aos desejos do século, vivamos neste século sóbria, justa e piamente, aguardando a esperança bem-aventurada e a vinda gloriosa do nosso grande Deus e Salvador, Jesus Cristo, que se deu a si mesmo por nós, a fim de purificar para si um povo que seja seu, zeloso pelas boas obras.",
+    "meditatio_perguntas": [
+      "Deixo que a graça me eduque, ou apenas peço que me perdoe?",
+      "Como vivo a sobriedade, a justiça e a piedade no meu estado de vida?",
+      "A minha conduta honra ou difama a Palavra de Deus?"
+    ],
+    "oratio_guia": "Jesus Cristo, nosso grande Deus e Salvador, que te deste a ti mesmo por nós, educa-me pela tua graça. Ensina-me a renunciar ao que é ímpio e a viver sóbria, justa e piamente, aguardando a tua vinda. Faz de mim membro zeloso do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "a graça de Deus, fonte de salvação para todos os homens, manifestou-se",
+      "ref": "Tt 2,11"
+    }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Nosso grande Deus e Salvador, Jesus Cristo”: a construção grega aplica ambos os títulos a Cristo; é um dos textos mais claros do NT sobre a divindade de Jesus.",
+        "origem": "ia"
+      }
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tt 2,11-14 é a segunda leitura da Missa da Noite de Natal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "TIT.3.1",
+  "livro": "TIT",
+  "titulo": "O batismo de regeneração e as boas obras",
+  "secao": "Carta a Tito",
+  "referencia": "Tt 3,1-15",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Salvos pelo banho da regeneração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tito deve lembrar aos fiéis que obedeçam às autoridades, estejam prontos para toda boa obra, não falem mal de ninguém, sejam pacíficos e mansos com todos. Também nós éramos insensatos, rebeldes, escravos das paixões, vivendo na malícia e na inveja. Mas quando se manifestou a bondade de Deus nosso Salvador e o seu amor pelos homens, Ele nos salvou não por obras de justiça que tivéssemos feito, mas pela sua misericórdia, mediante o banho da regeneração e da renovação do Espírito Santo, derramado abundantemente por Jesus Cristo, para que, justificados pela graça, sejamos herdeiros da vida eterna. Quem crê deve dedicar-se às boas obras. Tito evite discussões inúteis e, depois de duas advertências, afaste-se do herege. Seguem recados pessoais e a saudação final.",
+    "alegorico": "O “batismo de regeneração e de renovação do Espírito Santo” é o sacramento pelo qual nascemos de novo (cf. Jo 3,5). Nesta passagem a Trindade aparece salvando: a bondade de Deus Pai, o Espírito derramado, por Jesus Cristo Salvador.",
+    "moral": "Recordar o que éramos antes da graça gera mansidão para com todos: não temos de que nos gloriar. A salvação é dom gratuito, mas quem o recebeu deve ser “o primeiro nas boas obras”. A caridade evita polémicas estéreis, mas não confunde paciência com indiferença diante do erro obstinado.",
+    "anagogico": "Justificados pela graça, somos “herdeiros da vida eterna, segundo a esperança”. O batismo é o início de uma herança que só se possuirá plenamente no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Também nós outrora éramos insensatos, rebeldes, escravos de paixões. Mas, quando se manifestou a bondade de Deus, nosso Salvador, e o seu amor pelos homens, não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o batismo de regeneração e de renovação do Espírito Santo, a fim de que, justificados pela sua graça, sejamos herdeiros da vida eterna.",
+    "meditatio_perguntas": [
+      "Lembro-me do que era antes da graça, e isso me torna manso com os outros?",
+      "Vivo o meu batismo como novo nascimento e renovação diária?",
+      "Sou “dos primeiros nas boas obras”?"
+    ],
+    "oratio_guia": "Deus, nosso Salvador, que pela tua bondade e misericórdia me regeneraste no batismo, renova em mim o Espírito Santo. Torna-me manso com todos e generoso nas boas obras, até receber a herança da vida eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "quando se manifestou a bondade de Deus, nosso Salvador, e o seu amor pelos homens",
+      "ref": "Tt 3,4"
+    }
+  },
+  "ancoras": {
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Amor pelos homens” traduz philanthrōpía; Tt 3,4-7 é lido na Missa da Aurora do Natal.",
+        "origem": "ia"
+      }
+    },
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nicópolis é provavelmente a cidade do Epiro, na costa ocidental da Grécia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

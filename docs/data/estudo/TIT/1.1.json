@@ -1,0 +1,57 @@
+{
+  "id": "TIT.1.1",
+  "livro": "TIT",
+  "titulo": "Os presbíteros de Creta e os falsos mestres",
+  "secao": "Carta a Tito",
+  "referencia": "Tt 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O bispo, despenseiro de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo apresenta-se como servo de Deus e apóstolo de Cristo, a serviço da fé dos eleitos e da verdade conforme a piedade, na esperança da vida eterna prometida por Deus, que não mente, antes dos tempos e agora manifestada pela pregação. Escreve a Tito, seu verdadeiro filho na fé, que deixou em Creta para organizar a Igreja e estabelecer presbíteros em cada cidade. Descreve o candidato: irrepreensível, casado uma só vez, com filhos fiéis; como despenseiro de Deus, o bispo não deve ser soberbo, iracundo, dado ao vinho, violento ou ganancioso, mas hospitaleiro, amigo do bem, ponderado, justo, santo, continente e firme na doutrina, para exortar e refutar. Há muitos faladores e sedutores, sobretudo judaizantes, que transtornam famílias por lucro; Tito deve repreendê-los com firmeza.",
+    "alegorico": "O bispo “despenseiro de Deus” administra os bens da casa do Senhor: a Palavra e os sacramentos. A Igreja de Creta, organizada com presbíteros em cada cidade, é imagem da Igreja apostólica, que se transmite por sucessão e cuida de cada comunidade local.",
+    "moral": "A lista de virtudes pedidas aos pastores é, antes de tudo, humana: domínio de si, mansidão, hospitalidade, justiça. Não basta saber: a sã doutrina deve ser acompanhada de vida coerente. “Para os puros todas as coisas são puras”: a pureza do coração ilumina o olhar; quem diz conhecer a Deus e o nega com as obras desmente a sua fé.",
+    "anagogico": "Tudo se apoia na “esperança da vida eterna, que Deus, que não mente, prometeu antes do começo dos séculos”. A missão da Igreja no tempo serve a uma promessa eterna, que Deus cumprirá porque é fiel."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Paulo, servo de Deus, na esperança da vida eterna, que Deus, que não mente, prometeu antes do começo dos séculos. Deixei-te em Creta para que estabeleças presbíteros nas cidades. É preciso que o bispo seja sem crime, como despenseiro de Deus, hospitaleiro, amigo do bem, ponderado, justo, santo. Para os puros todas as coisas são puras. Confessam que conhecem a Deus, mas negam-no com as obras.",
+    "meditatio_perguntas": [
+      "Rezo pelos bispos e presbíteros, para que sejam fiéis despenseiros de Deus?",
+      "As minhas obras confirmam ou negam a fé que confesso?",
+      "Como está a pureza do meu olhar sobre as coisas e as pessoas?"
+    ],
+    "oratio_guia": "Deus, que não mentes e prometeste a vida eterna, dá à tua Igreja pastores santos e fiéis. Purifica o meu coração, para que eu veja todas as coisas com olhos puros e confesse a tua fé com as minhas obras. Amém.",
+    "contemplatio_foco": {
+      "texto": "Para os puros todas as coisas são puras",
+      "ref": "Tt 1,15"
+    }
+  },
+  "ancoras": {
+    "1:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os termos presbítero (v. 5) e bispo (v. 7) parecem ainda designar o mesmo ministério; a distinção de graus se fixará pouco depois, já clara em Santo Inácio de Antioquia.",
+        "origem": "ia"
+      }
+    },
+    "1:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O verso sobre os cretenses é atribuído ao poeta Epiménides de Cnossos (séc. VI a.C.), tido pelos cretenses como profeta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,50 @@
+{
+ "livro": "TIT",
+ "secoes": [
+  "Carta a Tito"
+ ],
+ "pericopes": [
+  {
+   "id": "TIT.1.1",
+   "titulo": "Os presbíteros de Creta e os falsos mestres",
+   "secao": "Carta a Tito",
+   "referencia": "Tt 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "TIT.2.1",
+   "titulo": "A graça de Deus manifestou-se",
+   "secao": "Carta a Tito",
+   "referencia": "Tt 2,1-15",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 15
+   }
+  },
+  {
+   "id": "TIT.3.1",
+   "titulo": "O batismo de regeneração e as boas obras",
+   "secao": "Carta a Tito",
+   "referencia": "Tt 3,1-15",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 15
+   }
+  }
+ ]
+}
