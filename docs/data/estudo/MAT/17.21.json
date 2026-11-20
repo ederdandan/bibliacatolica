@@ -1,0 +1,38 @@
+{
+  "id": "MAT.17.21",
+  "livro": "MAT",
+  "titulo": "Segundo anúncio da Paixão",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 17,21-22",
+  "ini": { "c": 17, "v": 21 },
+  "fim": { "c": 17, "v": 22 },
+  "liturgia": { "tema_central": "O Filho do Homem entregue e ressuscitado", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Pela Galileia, Jesus anuncia pela segunda vez a Paixão: o Filho do Homem será entregue nas mãos dos homens, eles o matarão, e ao terceiro dia ressuscitará. Os discípulos ficam muito tristes. O verbo “entregar” atravessa toda a Paixão: a traição de Judas, a entrega aos pagãos e, mais fundo, a entrega do Filho pelo Pai e de si mesmo por amor. (Na numeração moderna, Mt 17,22-23.)",
+    "alegorico": "Cristo é o Servo entregue pelos pecados do povo (Is 53,6.12). A morte e a ressurreição são anunciadas juntas: a Cruz não é a última palavra. O terceiro dia evoca as Escrituras (Os 6,2; Jn 2,1).",
+    "moral": "A tristeza dos discípulos nasce do amor, mas ainda não compreende o desígnio de Deus. Jesus mistura sempre o anúncio da dor com o da alegria, ensinando-nos a olhar a cruz à luz da ressurreição.",
+    "anagogico": "“Ao terceiro dia ressuscitará”: a esperança da ressurreição sustenta o cristão nas tribulações, à espera da vitória final sobre a morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Enquanto andavam pela Galileia, Jesus disse-lhes: “O Filho do Homem será entregue às mãos dos homens, eles lhe darão a morte, e ao terceiro dia ressuscitará”. E eles ficaram muito tristes.",
+    "meditatio_perguntas": [
+      "Como reajo quando a cruz se apresenta no meu caminho?",
+      "Ouço também a promessa “ao terceiro dia ressuscitará”?",
+      "A minha tristeza diante da Paixão se transforma em amor e gratidão?"
+    ],
+    "oratio_guia": "Senhor Jesus, entregue nas mãos dos homens por amor de nós, dá-me olhar a tua cruz e a minha à luz da tua ressurreição. Transforma a minha tristeza em esperança. Amém.",
+    "contemplatio_foco": { "texto": "Ressuscitará ao terceiro dia.", "ref": "Mt 17,22" }
+  },
+  "ancoras": {
+    "17:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:22–23#2", "sintese": "Mistura sempre o alegre ao triste: se se entristecem pela morte, alegrem-se ao ouvir que ressuscitará ao terceiro dia." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:22–23#3", "sintese": "Não fala de longa permanência na morte quando diz que ressuscitará ao terceiro dia." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:22–23#5", "sintese": "A tristeza não vinha da falta de fé, mas do amor ao Mestre, que não suportava ouvir falar de injúria contra Ele." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

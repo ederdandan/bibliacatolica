@@ -1,0 +1,54 @@
+{
+  "id": "MAT.17.23",
+  "livro": "MAT",
+  "titulo": "O tributo do Templo",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 17,23-26",
+  "ini": { "c": 17, "v": 23 },
+  "fim": { "c": 17, "v": 26 },
+  "liturgia": { "tema_central": "Os filhos são livres; pagar “por mim e por ti” para não escandalizar", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Em Cafarnaum, os cobradores do didracma (imposto anual de meio siclo, ou dois denários, pago por todo israelita adulto para o Templo, cf. Ex 30,13) perguntam a Pedro se o Mestre o paga. Pedro diz que sim. Em casa, Jesus antecipa-se: os reis da terra cobram tributo dos estranhos, não dos filhos; logo os filhos estão isentos. Ele, o Filho, não deve tributo à casa do seu Pai. Contudo, para não escandalizar, manda Pedro pescar: no primeiro peixe achará um estáter (moeda de quatro dracmas, o valor de dois didracmas), a pagar “por mim e por ti”. (Na numeração moderna, Mt 17,24-27.)",
+    "alegorico": "Jesus revela-se Filho do Rei, Senhor do Templo, livre do tributo. Ao pagar mesmo assim, assume a condição humana e a humildade da Encarnação. Pedro é associado ao Senhor no pagamento: “por mim e por ti”. Os Padres veem nele o lugar singular de Pedro entre os discípulos e, no primeiro peixe, as almas que Pedro, pescador de homens, há de apanhar.",
+    "moral": "A liberdade cristã não se impõe à custa da caridade: Jesus renuncia ao seu direito para não escandalizar. Devemos evitar escandalizar o próximo sempre que o possamos sem pecado; mas, se o escândalo nasce da verdade, é melhor permitir o escândalo que abandonar a verdade. A obediência de Pedro numa ordem tão estranha é recompensada.",
+    "anagogico": "Os filhos são livres: pela graça de Cristo, somos filhos na casa do Pai, já não estranhos. Essa liberdade se consumará na herança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em Cafarnaum, os cobradores do didracma perguntaram a Pedro: “Vosso Mestre não paga o didracma?” Ele respondeu: “Sim”. Em casa, Jesus antecipou-se: “Que te parece, Simão? De quem recebem os reis da terra o tributo: de seus filhos ou dos estranhos?” Ele respondeu: “Dos estranhos”. Jesus disse: “Logo os filhos estão isentos. Todavia, para que não os escandalizemos, vai ao mar, lança o anzol e, no primeiro peixe que subir, acharás um estáter. Toma-o e dá-o por mim e por ti”.",
+    "meditatio_perguntas": [
+      "Sei renunciar aos meus direitos por amor, para não ferir os outros?",
+      "Vivo como filho na casa do Pai, ou como estranho?",
+      "Obedeço a Jesus mesmo quando a sua palavra me parece estranha?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho do Rei, que te fizeste humilde e pagaste por mim e por Pedro, ensina-me a liberdade dos filhos de Deus, vivida na caridade. Que eu nunca seja ocasião de escândalo, nem abandone a verdade. Amém.",
+    "contemplatio_foco": { "texto": "Dá-lho por mim e por ti.", "ref": "Mt 17,26" }
+  },
+  "ancoras": {
+    "17:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "17:24–27#1", "sintese": "A Lei mandava que todo Israel pagasse a didracma pela redenção do corpo e da alma e pelo sustento dos ministros do templo." }
+      ],
+      "nota": null
+    },
+    "17:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:24–27#10", "sintese": "Era filho de rei segundo a carne, pela descendência de Davi, e segundo o espírito, como Verbo do Pai: não devia tributo algum." }
+      ],
+      "nota": null
+    },
+    "17:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:24–27#13", "sintese": "Embora livre, tendo assumido a humildade da carne, devia cumprir toda a justiça." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:24–27#18", "sintese": "Primeiro prova que está isento por direito e depois manda pagar: o pagamento evita escandalizar os cobradores; a prova da isenção, os discípulos." },
+        { "autor": "São Gregório Magno", "obra": "Hom. sobre Ezequiel 7, 4", "catena": "17:24–27#19", "sintese": "Devemos evitar escandalizar o próximo quando possível sem pecado; mas, se o escândalo nasce da verdade, é melhor permiti-lo do que abandonar a verdade." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:24–27#20", "sintese": "Em recompensa da sua fé, Pedro foi associado ao seu Senhor no pagamento: honra abundante!" },
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:24–27#26", "sintese": "Pagava-se resgate por Pedro, como pecador, mas o Senhor não tinha pecado; mostra-se aqui a semelhança da carne." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

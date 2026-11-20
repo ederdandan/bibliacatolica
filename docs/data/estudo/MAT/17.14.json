@@ -1,0 +1,82 @@
+{
+  "id": "MAT.17.14",
+  "livro": "MAT",
+  "titulo": "A cura do jovem lunático",
+  "secao": "A formação dos discípulos",
+  "referencia": "Mt 17,14-20",
+  "ini": { "c": 17, "v": 14 },
+  "fim": { "c": 17, "v": 20 },
+  "liturgia": { "tema_central": "A fé como um grão de mostarda; a oração e o jejum", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Ao descer do monte, Jesus encontra a multidão. Um pai ajoelha-se e pede por seu filho “lunático” (termo antigo que ligava ao ciclo da lua os ataques, aqui atribuídos a um demônio), que muitas vezes cai no fogo e na água. Os discípulos não o puderam curar. Jesus lamenta a “geração incrédula e perversa”, ameaça o demônio, e o jovem fica curado. Em particular, explica aos discípulos que falharam pela falta de fé: com fé como um grão de mostarda, moveriam montes. Esta espécie de demônios só se expulsa com a oração e o jejum. (Na numeração moderna, este trecho corresponde a Mt 17,14-21.)",
+    "alegorico": "Do monte da glória Jesus desce ao vale do sofrimento humano: a Transfiguração não o afasta da miséria dos homens. O jovem lançado ao fogo e à água figura o pecador arrastado pelas paixões, a ira que sobe como fogo e a concupiscência que escorre como água. Cristo, mais forte que o demônio, liberta a humanidade que a Lei e os seus ministros não puderam curar.",
+    "moral": "Quando a oração não é atendida, a falha não está em quem dá, mas em quem pede. A fé “como um grão de mostarda” não é uma fé pequena, mas viva, que cresce e revela a sua força quando é provada. Contra certos males é preciso unir à fé a oração e o jejum, que fortalecem a alma e vencem as potências do mal.",
+    "anagogico": "A vitória de Cristo sobre o demônio antecipa a libertação definitiva da criação. A fé que move montes prepara para o Reino, onde nada será impossível aos que creem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um homem lançou-se de joelhos diante de Jesus: “Senhor, tem piedade de meu filho, que é lunático e sofre muito; muitas vezes cai no fogo e muitas na água. Apresentei-o a teus discípulos, e não o puderam curar”. Jesus respondeu: “Ó geração incrédula e perversa, até quando hei de estar convosco? Trazei-mo cá”. Jesus ameaçou o demônio, e o jovem ficou curado. Os discípulos perguntaram: “Por que não pudemos expulsá-lo?” Jesus disse: “Por causa da vossa falta de fé. Se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá, e ele passará, e nada vos será impossível. Esta espécie não se expulsa senão pela oração e pelo jejum”.",
+    "meditatio_perguntas": [
+      "Que “monte” na minha vida parece impossível de remover?",
+      "Peço com fé ou com desconfiança?",
+      "Que lugar ocupam a oração e o jejum na minha luta contra o mal?"
+    ],
+    "oratio_guia": "Senhor Jesus, tem piedade de nós e dos que amamos, atormentados pelo mal. Aumenta a minha fé, pequena como um grão de mostarda, para que cresça e se fortaleça na prova. Ensina-me a orar e a jejuar. Amém.",
+    "contemplatio_foco": { "texto": "Se tiverdes fé como um grão de mostarda… nada vos será impossível.", "ref": "Mt 17,19" }
+  },
+  "ancoras": {
+    "17:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:14–18#1", "sintese": "Se Deus não contivesse os demônios que o lançavam ao fogo e à água, já o teriam matado: a Providência o protegia." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 22", "catena": "17:14–18#12", "sintese": "O fogo pertence à ira, que tende para o alto; a água, às concupiscências da carne." }
+      ],
+      "nota": null
+    },
+    "17:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:14–18#2", "sintese": "Acusa veladamente os apóstolos, quando às vezes a cura falha não pela falta de poder de quem cura, mas pela falta de fé de quem será curado." }
+      ],
+      "nota": null
+    },
+    "17:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:14–18#6", "sintese": "Não fala por ira, mas como o médico diante do enfermo que age contra as suas prescrições: irado contra o pecado, não contra o homem." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:14–18#7", "sintese": "Depois de defender os discípulos, leva o pai à esperança e dispõe-no a crer no milagre." }
+      ],
+      "nota": null
+    },
+    "17:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:14–18#8", "sintese": "Repreendeu não o enfermo, mas o demônio." }
+      ],
+      "nota": null
+    },
+    "17:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "17:19–21#1", "sintese": "Os apóstolos criam, mas com fé imperfeita: enquanto o Senhor estava no monte, a sua fé arrefecera." }
+      ],
+      "nota": null
+    },
+    "17:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:19–21#3", "sintese": "Quando não recebemos, não é fraqueza de quem dá, mas culpa de quem pede." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "17:19–21#5", "sintese": "A fé comparada ao grão de mostarda não é pequena, mas grande: é a fé que transporta montanhas." },
+        { "autor": "São Gregório Magno", "obra": "Moral., Prefácio 2", "catena": "17:19–21#6", "sintese": "O grão de mostarda só mostra a sua força quando triturado; assim o santo, na perseguição, acende-se em fervor de virtude." }
+      ],
+      "nota": null
+    },
+    "17:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "17:19–21#15", "sintese": "O jejum torna o homem semelhante a um anjo e vence as potências invisíveis; mas a oração é ainda mais necessária." }
+      ],
+      "nota": { "texto": "Este versículo (Mt 17,21 na numeração moderna) falta em alguns manuscritos gregos antigos, mas está na Vulgata e na tradução de Matos Soares.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}
