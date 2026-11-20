@@ -1,0 +1,57 @@
+{
+  "id": "ROM.13.8",
+  "livro": "ROM",
+  "titulo": "O amor é o complemento da lei; revesti-vos de Cristo",
+  "secao": "A vida cristã",
+  "referencia": "Rm 13,8-14",
+  "ini": {
+    "c": 13,
+    "v": 8
+  },
+  "fim": {
+    "c": 13,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O amor é o pleno cumprimento da lei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Não fiqueis a dever nada a ninguém, a não ser o amor mútuo, porque quem ama o próximo cumpriu a lei. Os mandamentos “não cometerás adultério, não matarás, não furtarás, não dirás falso testemunho, não cobiçarás” e qualquer outro resumem-se nesta palavra: amarás o teu próximo como a ti mesmo. A caridade não faz mal ao próximo; o amor é a plenitude da lei. E Paulo acrescenta a urgência: sabeis em que tempo estamos; é hora de despertar do sono, pois a salvação está agora mais perto do que quando abraçámos a fé. A noite vai adiantada, o dia aproxima-se. Deixemos as obras das trevas e vistamos as armas da luz. Caminhemos honestamente, como de dia: não em comezainas e embriaguez, não em desonestidades, não em contendas e invejas; mas revesti-vos do Senhor Jesus Cristo e não cuideis da carne nas suas concupiscências.",
+    "alegorico": "A noite que passa é o tempo presente; o dia que se aproxima é a vinda de Cristo, Sol nascente. O batizado “revestiu-se” de Cristo como de uma veste branca: as armas da luz são as virtudes que brotam dessa veste.",
+    "moral": "O amor é uma dívida que nunca se acaba de pagar. E não é sentimento vago: concretiza-se no respeito pelo outro (não matar, não roubar, não mentir). A segunda parte pede despertar: há uma forma de sono espiritual, a vida dispersa nos excessos, de que é preciso levantar-se.",
+    "anagogico": "“A salvação está mais perto”: cada dia aproxima o crente do encontro com o Senhor. O cristão vive como quem já vê a aurora e caminha para o dia sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ninguém devais coisa alguma, a não ser o amor mútuo, porque aquele que ama o próximo, cumpriu a lei. O amor é o complemento da lei. É já hora de sair do sono. A noite está quase passada e o dia aproxima-se. Deixemos as obras das trevas, e revistamo-nos das armas da luz. Revesti-vos do Senhor Jesus Cristo.",
+    "meditatio_perguntas": [
+      "A quem estou a “dever” amor neste momento?",
+      "Em que área da minha vida estou espiritualmente adormecido?",
+      "O que significa, hoje, “revestir-me do Senhor Jesus Cristo”?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz que se aproxima, desperta-me do sono. Reveste-me de ti, para que eu deixe as obras das trevas e pague a todos a dívida do amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "revesti-vos do Senhor Jesus Cristo",
+      "ref": "Rm 13,14"
+    }
+  },
+  "ancoras": {
+    "13:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ao ler estes versículos em Milão (Tolle, lege), Santo Agostinho decidiu-se pela conversão (Confissões VIII,12).",
+        "origem": "ia"
+      }
+    },
+    "13:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 13,11-14 é a segunda leitura do 1º Domingo do Advento, Ano A; Rm 13,8-10, do 23º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

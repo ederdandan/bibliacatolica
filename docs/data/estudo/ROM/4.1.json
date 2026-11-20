@@ -1,0 +1,65 @@
+{
+  "id": "ROM.4.1",
+  "livro": "ROM",
+  "titulo": "Abraão, pai de todos os crentes",
+  "secao": "A justificação pela fé",
+  "referencia": "Rm 4,1-25",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Abraão creu, esperando contra toda a esperança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo mostra na Escritura o caso de Abraão. O que diz ela? Abraão creu em Deus e isso lhe foi imputado como justiça. Ao que trabalha, o salário não é graça mas dívida; ao que crê naquele que justifica o ímpio, a fé é contada como justiça, como David proclama no Salmo 31. E essa justiça foi-lhe imputada antes da circuncisão, que veio depois como selo: assim Abraão é pai de todos os crentes, circuncisos ou não. A promessa de herdar o mundo veio pela justiça da fé, para ser gratuita e certa. Abraão, esperando contra toda a esperança, não considerou o seu corpo amortecido nem o seio estéril de Sara, mas deu glória a Deus, certo de que Ele é poderoso para cumprir o que promete. Isto foi escrito também para nós, que cremos naquele que ressuscitou Jesus, entregue pelos nossos pecados e ressuscitado para nossa justificação.",
+    "alegorico": "A fé de Abraão em Deus “que dá vida aos mortos” prefigura a fé pascal: do corpo amortecido de Abraão e do seio estéril de Sara nasce Isaac, como do sepulcro nasce a vida do Ressuscitado. Abraão é pai de um povo que nasce da fé, a Igreja.",
+    "moral": "A fé de Abraão é concreta: olha de frente as impossibilidades (o corpo velho, o seio estéril) e, mesmo assim, confia. Crer não é ignorar os obstáculos, mas dar glória a Deus apesar deles. Também nós somos chamados a seguir “as pisadas da fé” de Abraão.",
+    "anagogico": "Abraão é herdeiro do mundo pela fé; os seus filhos esperam a mesma herança. A ressurreição de Cristo, “para nossa justificação”, garante que também os nossos corpos mortais receberão a vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Abraão creu em Deus, e lhe foi tido em conta para a justiça. Esperando contra toda a esperança, teve fé e tornou-se pai de muitas gentes. Não hesitou nem teve falta de fé perante a promessa de Deus, mas firmou-se na fé, dando glória a Deus, plenamente convencido de que é poderoso para cumprir tudo o que prometeu. Jesus foi entregue pelos nossos pecados e ressuscitou para nossa justificação.",
+    "meditatio_perguntas": [
+      "Que “impossibilidade” na minha vida pede uma fé como a de Abraão?",
+      "Dou glória a Deus antes de ver a promessa cumprida?",
+      "Sigo “as pisadas da fé” de Abraão, ou só herdo o nome?"
+    ],
+    "oratio_guia": "Deus de Abraão, que dás vida aos mortos e chamas à existência o que não existe, dá-me esperar contra toda a esperança. Firma-me na fé, para que te dê glória mesmo antes de ver as tuas promessas cumpridas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esperando contra toda a esperança, teve fé",
+      "ref": "Rm 4,18"
+    }
+  },
+  "ancoras": {
+    "4:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Gn 15,6, texto-chave também em Gl 3,6 e Tg 2,23 (onde se acrescenta que a fé de Abraão operou com as obras).",
+        "origem": "ia"
+      }
+    },
+    "4:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 4,18-25 é a segunda leitura do 10º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "4:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula de fé muito antiga: a morte de Cristo pelos pecados e a ressurreição para a justificação formam um único mistério pascal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

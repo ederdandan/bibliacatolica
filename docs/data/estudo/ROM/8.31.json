@@ -1,0 +1,57 @@
+{
+  "id": "ROM.8.31",
+  "livro": "ROM",
+  "titulo": "Quem nos separará do amor de Cristo?",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 8,31-39",
+  "ini": {
+    "c": 8,
+    "v": 31
+  },
+  "fim": {
+    "c": 8,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Nada nos poderá separar do amor de Deus em Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Que diremos diante disto? Se Deus é por nós, quem será contra nós? Aquele que não poupou o próprio Filho, mas o entregou por todos nós, como não nos dará com Ele todas as coisas? Quem acusará os escolhidos de Deus? É Deus quem justifica. Quem condenará? Cristo Jesus, que morreu, ressuscitou, está à direita de Deus e intercede por nós. Quem nos separará do amor de Cristo? Tribulação, angústia, perseguição, fome, nudez, perigo, espada? Como está escrito, somos entregues à morte todo o dia, como ovelhas para o matadouro. Mas em tudo isso somos mais que vencedores por Aquele que nos amou. Nem morte, nem vida, nem anjos, nem principados, nem presente, nem futuro, nem altura, nem profundidade, nem outra criatura nos poderá separar do amor de Deus manifestado em Cristo Jesus, Nosso Senhor.",
+    "alegorico": "“Não poupou o seu próprio Filho” evoca Abraão, que não poupou Isaac (Gn 22,16): o sacrifício do monte Moriá é figura do Calvário, onde o Pai entrega o Filho único. As ovelhas para o matadouro são os mártires, unidos ao Cordeiro.",
+    "moral": "Este hino é a resposta cristã ao medo. Não promete ausência de tribulações (a lista é concreta: fome, nudez, espada), mas garante que nenhuma delas pode romper o vínculo do amor. A segurança do cristão não está nas circunstâncias, mas na fidelidade de Deus.",
+    "anagogico": "Nem a morte nos separa: ela própria é vencida. O amor de Deus em Cristo acompanha o crente para além de todas as potências, até à comunhão eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se Deus é por nós, quem será contra nós? O que não poupou nem o seu próprio Filho, mas por nós todos o entregou, como não nos dará também com ele todas as coisas? Quem nos separará, pois, do amor de Cristo? De todas estas coisas saímos mais que vencedores por aquele que nos amou. Nem a morte, nem a vida, nem nenhuma outra criatura nos poderá separar do amor que Deus nos manifesta em Jesus Cristo Nosso Senhor.",
+    "meditatio_perguntas": [
+      "Que medo concreto preciso entregar à certeza de que Deus é por mim?",
+      "Já experimentei ser “mais que vencedor” numa tribulação?",
+      "Acredito que nada, nem a morte, me separa do amor de Cristo?"
+    ],
+    "oratio_guia": "Pai, que não poupaste o teu Filho, mas o entregaste por nós, dá-me a certeza de que nada me separará do teu amor em Cristo. Nas tribulações, faz-me mais que vencedor por Aquele que me amou. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se Deus é por nós, quem será contra nós?",
+      "ref": "Rm 8,31"
+    }
+  },
+  "ancoras": {
+    "8:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 8,31b-34 é a segunda leitura do 2º Domingo da Quaresma, Ano B (lido com o sacrifício de Isaac); Rm 8,35.37-39, do 18º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "8:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação do Sl 43 (44), 23, aplicada aos que sofrem por causa da fé.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

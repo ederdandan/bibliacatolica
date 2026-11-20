@@ -1,0 +1,57 @@
+{
+  "id": "ROM.5.12",
+  "livro": "ROM",
+  "titulo": "Adão e Cristo: onde abundou o pecado, superabundou a graça",
+  "secao": "A justificação pela fé",
+  "referencia": "Rm 5,12-21",
+  "ini": {
+    "c": 5,
+    "v": 12
+  },
+  "fim": {
+    "c": 5,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Onde abundou o pecado, superabundou a graça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Como por um só homem o pecado entrou no mundo e pelo pecado a morte, que passou a todos os homens, assim também se dá, e muito mais, com o dom da graça. Antes da lei o pecado já estava no mundo, e a morte reinou de Adão a Moisés. Adão é figura daquele que havia de vir. Mas o dom não é como o delito: se pela falta de um só morreram muitos, muito mais a graça de Deus e o dom de um só homem, Jesus Cristo, se derramaram sobre muitos. Pela desobediência de um, muitos foram constituídos pecadores; pela obediência de um, muitos serão constituídos justos. A lei sobreveio para que o pecado abundasse; mas onde abundou o pecado, superabundou a graça, para reinar pela justiça para a vida eterna.",
+    "alegorico": "Adão é tipo de Cristo, o novo Adão. Ao primeiro pai, que desobedece junto da árvore, corresponde o segundo, que obedece até à morte na árvore da Cruz. Os Padres viram ainda Maria como nova Eva junto do novo Adão.",
+    "moral": "O texto ilumina a solidariedade humana: estamos ligados uns aos outros no mal e no bem. Ninguém é ilha. A obediência de Cristo reverte a desobediência de Adão; por isso a obediência confiante a Deus é o caminho da cura. E nenhum pecado é maior do que a graça oferecida.",
+    "anagogico": "O reinado da morte é substituído pelo reinado da graça “para a vida eterna”. O fim da história humana não é o túmulo herdado de Adão, mas a vida recebida de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Assim como por um só homem entrou o pecado neste mundo, e pelo pecado a morte, muito mais a graça de Deus e o dom pela graça de um só homem, Jesus Cristo, são abundantemente espalhados sobre todos. Assim como pela desobediência de um só homem todos se tornaram pecadores, assim pela obediência de um só todos virão a ser justos. Onde abundou o pecado, superabundou a graça.",
+    "meditatio_perguntas": [
+      "Acredito que a graça de Cristo é maior do que o meu pecado?",
+      "Em que a minha obediência a Deus pode reparar desobediências?",
+      "Como o meu bem e o meu mal afetam os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, novo Adão, pela tua obediência fomos feitos justos. Onde em mim abundou o pecado, faz superabundar a tua graça, e reina na minha vida pela justiça, para a vida eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "onde abundou o pecado, superabundou a graça",
+      "ref": "Rm 5,20"
+    }
+  },
+  "ancoras": {
+    "5:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto fundamental da doutrina do pecado original, definida pelo Concílio de Trento. Rm 5,12-19 é a segunda leitura do 1º Domingo da Quaresma, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "5:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Figura” (týpos): Adão prefigura Cristo por contraste; daí o título de “novo Adão” (cf. 1Cor 15,45).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

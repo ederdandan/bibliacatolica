@@ -1,0 +1,49 @@
+{
+  "id": "ROM.6.15",
+  "livro": "ROM",
+  "titulo": "Servos da justiça para a santificação",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 6,15-23",
+  "ini": {
+    "c": 6,
+    "v": 15
+  },
+  "fim": {
+    "c": 6,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "O salário do pecado e o dom de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pecaremos porque não estamos sob a lei, mas sob a graça? De modo nenhum. Quem se entrega a alguém para lhe obedecer torna-se seu escravo: do pecado, que leva à morte, ou da obediência, que leva à justiça. Graças a Deus, os romanos, outrora escravos do pecado, obedeceram de coração à doutrina recebida e, libertados do pecado, fizeram-se servos da justiça. Paulo fala à maneira humana: como antes ofereceram os membros à impureza, ofereçam-nos agora à justiça para a santificação. Que fruto tiraram das coisas de que agora se envergonham? A morte. Agora, livres e servos de Deus, têm por fruto a santificação e por fim a vida eterna. Porque o salário do pecado é a morte, mas o dom de Deus é a vida eterna em Cristo Jesus.",
+    "alegorico": "A imagem da passagem da escravidão à liberdade evoca o Êxodo: como Israel saiu do Egito para servir a Deus no deserto, o batizado sai do domínio do pecado para servir ao Senhor. A verdadeira liberdade é pertencer a Deus.",
+    "moral": "Não existe neutralidade: todos servem a algum senhor. A liberdade cristã não é licença para pecar, mas libertação para o bem. Paulo propõe um exame realista: “que fruto tirastes?”. O pecado promete muito e paga com a morte; Deus não paga salário, dá de presente a vida.",
+    "anagogico": "O contraste entre “salário” e “dom” resume a escatologia cristã: a morte é a consequência merecida do pecado; a vida eterna é sempre graça. A santificação de agora é o caminho que desemboca nela."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não sabeis que, se vos entregais a alguém como escravos para lhe obedecer, ficais escravos daquele a quem obedeceis? Libertados do pecado, tornastes-vos servos da justiça. Agora, que estais livres do pecado e feitos servos de Deus, tendes por vosso fruto a santificação, e por fim a vida eterna. O salário do pecado é a morte, ao passo que o dom de Deus é a vida eterna em Nosso Senhor Jesus Cristo.",
+    "meditatio_perguntas": [
+      "A quem obedeço, de facto, nas minhas escolhas diárias?",
+      "Que fruto me deixaram os pecados de que hoje me envergonho?",
+      "Vivo a vida eterna como dom ou como prémio a conquistar?"
+    ],
+    "oratio_guia": "Senhor, que me libertaste da escravidão do pecado, faz-me teu servo de coração. Que eu ofereça os meus membros à justiça e dê fruto de santificação, à espera do teu dom, a vida eterna em Cristo Jesus. Amém.",
+    "contemplatio_foco": {
+      "texto": "o salário do pecado é a morte, ao passo que o dom de Deus é a vida eterna em Nosso Senhor Jesus Cristo",
+      "ref": "Rm 6,23"
+    }
+  },
+  "ancoras": {
+    "6:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Salário” (opsónia) era o soldo pago ao soldado; “dom” (chárisma) é presente gratuito. A antítese sublinha que a vida eterna nunca é paga merecida em sentido estrito, mas graça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

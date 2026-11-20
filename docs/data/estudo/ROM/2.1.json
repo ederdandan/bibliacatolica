@@ -1,0 +1,49 @@
+{
+  "id": "ROM.2.1",
+  "livro": "ROM",
+  "titulo": "O justo juízo de Deus",
+  "secao": "Todos pecaram",
+  "referencia": "Rm 2,1-16",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Deus dará a cada um segundo as suas obras",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo volta-se agora para quem julga os outros e se considera fora da condenação: ao julgar, condena-se a si mesmo, porque faz o mesmo. O juízo de Deus é segundo a verdade. Desprezar as riquezas da sua bondade e paciência é ignorar que a bondade de Deus convida à penitência; o coração endurecido acumula ira para o dia do justo juízo. Deus dará a cada um segundo as suas obras: vida eterna aos que perseveram no bem, ira aos que obedecem à injustiça, judeu ou grego, porque não há acepção de pessoas. Os gentios sem lei escrita mostram a lei inscrita nos corações, com a consciência a acusar ou defender, até ao dia em que Deus julgar os segredos por Jesus Cristo.",
+    "alegorico": "A lei escrita no coração dos gentios antecipa a nova aliança anunciada pelos profetas, em que Deus escreverá a sua lei nos corações. O juiz do último dia é Jesus Cristo: Aquele que salva é também Aquele que julga.",
+    "moral": "É fácil apontar os pecados alheios e esquecer os próprios. A paciência de Deus não é indiferença, mas convite à conversão. A consciência é testemunha interior: ouvi-la e formá-la é responsabilidade de cada um. E o juízo de Deus olha as obras, não o rótulo religioso.",
+    "anagogico": "O dia do juízo revelará “as coisas ocultas dos homens”. Aos que buscam a glória, a honra e a imortalidade pela perseverança no bem, está reservada a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó homem que julgas, naquilo mesmo em que julgas a outro, a ti mesmo te condenas. Ignoras que a bondade de Deus te convida à penitência? Deus há-de dar a cada um segundo as suas obras: a vida eterna aos que, perseverando na prática do bem, buscam a glória, a honra e a imortalidade. Diante de Deus não há acepção de pessoas.",
+    "meditatio_perguntas": [
+      "Julgo nos outros aquilo que eu mesmo faço?",
+      "Como respondo à paciência de Deus comigo: com conversão ou com adiamento?",
+      "Escuto a minha consciência quando ela me acusa?"
+    ],
+    "oratio_guia": "Deus de bondade e de paciência, não permitas que eu despreze a tua misericórdia. Converte o meu coração duro, para que eu persevere no bem e, no dia do juízo, encontre em Cristo um juiz misericordioso. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ignoras que a bondade de Deus te convida à penitência?",
+      "ref": "Rm 2,4"
+    }
+  },
+  "ancoras": {
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lei natural: o que a lei ordena “está escrito nos seus corações”, e a consciência dá testemunho. Base da doutrina moral sobre a lei natural acessível a todos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ROM.15.1",
+  "livro": "ROM",
+  "titulo": "Acolhei-vos uns aos outros",
+  "secao": "A vida cristã",
+  "referencia": "Rm 15,1-13",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O Deus da esperança vos encha de alegria e de paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os fortes devem suportar as fraquezas dos débeis, sem procurar agradar a si mesmos; cada um procure agradar ao próximo para edificação, porque Cristo não procurou agradar a si mesmo, mas sobre Ele caíram os ultrajes, como diz o Salmo. Tudo o que foi escrito foi escrito para nosso ensino, para que pela paciência e consolação das Escrituras tenhamos esperança. Que o Deus da paciência e da consolação vos conceda os mesmos sentimentos segundo Cristo Jesus, para glorificardes a Deus a uma só voz. Acolhei-vos uns aos outros, como Cristo vos acolheu. Cristo fez-se servidor dos circuncidados, para cumprir as promessas aos pais, e para que os gentios glorifiquem a Deus pela sua misericórdia, como anunciam a lei, os salmos e os profetas: nele esperarão as nações. O Deus da esperança vos encha de toda a alegria e paz na fé, para abundardes na esperança pela virtude do Espírito Santo.",
+    "alegorico": "Cristo, que carregou os ultrajes, é o modelo de quem suporta os fracos. O rebento de Jessé que se levanta para governar as nações é o Messias, em quem judeus e gentios se tornam um só povo a louvar a uma só voz.",
+    "moral": "O critério é Cristo: acolher como Ele acolheu. Nas comunidades, a unidade não é uniformidade, mas mesmos sentimentos segundo Cristo. As Escrituras, lidas com paciência, alimentam a esperança: a leitura orante da Bíblia não é ornamento, mas fonte de consolação.",
+    "anagogico": "A Igreja de judeus e gentios que louva a uma só voz antecipa a liturgia celeste. A esperança, que o Espírito faz abundar, é o modo cristão de habitar o tempo até à plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nós, que somos mais fortes, devemos suportar as fraquezas dos débeis. Tudo o que foi escrito para nosso ensino foi escrito, a fim de que, pela paciência e consolação das Escrituras, tenhamos esperança. Acolhei-vos uns aos outros, como também Cristo vos acolheu para glória de Deus. O Deus da esperança vos encha de todo o gozo e de paz na vossa fé, para que abundeis na esperança pela virtude do Espírito Santo.",
+    "meditatio_perguntas": [
+      "Suporto as fraquezas dos outros ou só as minhas me interessam?",
+      "As Escrituras são para mim fonte de esperança?",
+      "Quem preciso acolher como Cristo me acolheu?"
+    ],
+    "oratio_guia": "Deus da esperança, enche-me de toda a alegria e paz na fé. Que eu acolha os irmãos como Cristo me acolheu, suporte as suas fraquezas, e, consolado pelas Escrituras, abunde na esperança pela força do Espírito Santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Deus, pois, da esperança vos encha de todo o gozo e de paz na fé",
+      "ref": "Rm 15,13"
+    }
+  },
+  "ancoras": {
+    "15:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 15,4-9 é a segunda leitura do 2º Domingo do Advento, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "15:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Is 11,10, a profecia do rebento de Jessé, muito presente na liturgia do Advento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

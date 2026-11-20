@@ -1,0 +1,49 @@
+{
+  "id": "ROM.12.9",
+  "livro": "ROM",
+  "titulo": "O amor seja sem fingimento",
+  "secao": "A vida cristã",
+  "referencia": "Rm 12,9-21",
+  "ini": {
+    "c": 12,
+    "v": 9
+  },
+  "fim": {
+    "c": 12,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Vence o mal com o bem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo enumera as expressões do amor sem fingimento: aborrecer o mal e aderir ao bem; amar-se com afeto fraterno, antecipando-se na estima mútua; não ser preguiçoso no zelo, ser fervoroso de espírito, servir ao Senhor; alegres na esperança, pacientes na tribulação, perseverantes na oração; socorrer as necessidades dos santos, praticar a hospitalidade. Abençoai os que vos perseguem e não os amaldiçoeis. Alegrai-vos com os que se alegram, chorai com os que choram. Tende os mesmos sentimentos, não aspireis a grandezas, acomodai-vos às coisas humildes. Não pagueis mal por mal; vivei em paz com todos, quanto depender de vós. Não vos vingueis: a vingança pertence a Deus. Se o teu inimigo tem fome, dá-lhe de comer; assim amontoarás brasas sobre a sua cabeça. Não te deixes vencer pelo mal, mas vence o mal com o bem.",
+    "alegorico": "O retrato do amor descrito por Paulo é o retrato do próprio Cristo, que abençoou os que o perseguiam e venceu o mal com o bem na Cruz. A comunidade que vive assim torna-se ícone visível do Senhor.",
+    "moral": "É um programa de vida em pequenas frases, todas praticáveis no dia a dia: honrar o outro, perseverar na oração, partilhar a alegria e a dor, não retribuir o mal. A frase final é a mais exigente: não basta não fazer o mal; é preciso vencê-lo com o bem.",
+    "anagogico": "“Alegres na esperança”: a esperança da glória sustenta a paciência no presente. A vingança, entregue a Deus, deixa ao crente a liberdade de amar à espera do juízo justo e misericordioso do último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O amor seja sem fingimento. Aborrecei o mal, aderi ao bem. Amai-vos reciprocamente com caridade fraternal. Alegres na esperança; pacientes na tribulação; perseverantes na oração. Abençoai os que vos perseguem. Alegrai-vos com os que estão alegres, chorai com os que choram. Não torneis mal por mal a ninguém. Não te deixes vencer do mal, mas vence o mal com o bem.",
+    "meditatio_perguntas": [
+      "O meu amor tem alguma dose de fingimento?",
+      "A quem preciso abençoar em vez de amaldiçoar?",
+      "Que mal concreto posso vencer hoje com um bem?"
+    ],
+    "oratio_guia": "Senhor Jesus, que venceste o mal com o bem, dá-me um amor sem fingimento. Faz-me alegre na esperança, paciente na tribulação, perseverante na oração, e capaz de abençoar quem me fere. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não te deixes vencer do mal, mas vence o mal com o bem",
+      "ref": "Rm 12,21"
+    }
+  },
+  "ancoras": {
+    "12:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Pr 25,21-22. As “brasas vivas” significam a vergonha salutar que leva o inimigo ao arrependimento, segundo a interpretação de Santo Agostinho e outros Padres.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

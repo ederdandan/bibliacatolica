@@ -1,0 +1,65 @@
+{
+  "id": "ROM.9.1",
+  "livro": "ROM",
+  "titulo": "A tristeza de Paulo e a liberdade da escolha divina",
+  "secao": "Israel no desígnio de Deus",
+  "referencia": "Rm 9,1-18",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Não depende do que quer, mas de Deus que usa de misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo confessa, diante de Cristo e da consciência iluminada pelo Espírito, uma grande tristeza: desejaria ser anátema, separado de Cristo, pelos seus irmãos segundo a carne, os israelitas, a quem pertencem a adoção, a glória, as alianças, a lei, o culto, as promessas e os patriarcas, e de quem procede Cristo segundo a carne, que é Deus bendito pelos séculos. Não falhou a palavra de Deus: nem todos os de Israel são Israel. Os filhos da promessa é que são contados como descendência: Isaac e não Ismael; Jacob e não Esaú, escolhido antes de nascerem, não pelas obras mas por Aquele que chama. Há injustiça em Deus? De modo nenhum. Ele disse a Moisés: “terei misericórdia de quem quiser”. Não depende de quem quer ou corre, mas de Deus que usa de misericórdia.",
+    "alegorico": "A escolha de Jacob, o mais novo, e a de Isaac, filho da promessa, prefiguram a eleição da Igreja, nascida não da carne mas da Palavra de Deus. Mas o amor de Paulo por Israel, que deseja até ser anátema por ele, é imagem de Cristo, que se fez maldição por nós.",
+    "moral": "A tristeza de Paulo pelos seus irmãos é modelo de caridade missionária: quem conhece Cristo sofre pelos que não o conhecem. E a soberania de Deus ensina humildade: a salvação não é propriedade de ninguém, nem fruto de corrida própria; nasce da misericórdia.",
+    "anagogico": "A palavra de Deus não falha: as promessas a Israel e à Igreja chegarão ao seu cumprimento. A misericórdia que escolhe é a mesma que, no fim, se revelará maior do que todos os juízos humanos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tenho grande tristeza e contínua dor no meu coração. Eu mesmo desejava ser anátema separado de Cristo, por amor de meus irmãos, que são israelitas, os quais possuem a adopção de filhos, a glória, as alianças, a lei, o culto e as promessas, e dos quais é o Cristo, segundo a carne, que está sobre todas as coisas, Deus bendito por todos os séculos. Não depende do que quer, nem do que corre, mas de Deus, que usa de misericórdia.",
+    "meditatio_perguntas": [
+      "Sofro, como Paulo, pelos que não conhecem Cristo?",
+      "Reconheço os dons que Deus deu a Israel e que a Igreja herdou?",
+      "Atribuo a minha fé à misericórdia de Deus ou ao meu esforço?"
+    ],
+    "oratio_guia": "Deus de misericórdia, que escolheste Israel e lhe deste as alianças e as promessas, enche o meu coração do amor de Paulo pelos seus irmãos. Que eu nunca me julgue dono da salvação, mas a receba sempre da tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "não depende do que quer, nem do que corre, mas de Deus, que usa de misericórdia",
+      "ref": "Rm 9,16"
+    }
+  },
+  "ancoras": {
+    "9:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Um dos textos do NT em que Cristo é chamado “Deus”, segundo a leitura tradicional da pontuação, seguida pelos Padres.",
+        "origem": "ia"
+      }
+    },
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 9,1-5 é a segunda leitura do 19º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "9:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Ml 1,2-3; “aborreci” é um semitismo para “preferi menos”, referido aos povos e ao papel na história da salvação, não à condenação eterna de Esaú.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ROM.12.1",
+  "livro": "ROM",
+  "titulo": "Hóstia viva; um só corpo em Cristo",
+  "secao": "A vida cristã",
+  "referencia": "Rm 12,1-8",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "O culto espiritual: os vossos corpos como hóstia viva",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a parte exortativa da carta. Paulo roga, pela misericórdia de Deus, que os cristãos ofereçam os seus corpos como hóstia viva, santa, agradável a Deus: é este o culto racional. Não se conformem com este mundo, mas transformem-se pela renovação do espírito, para discernirem a vontade de Deus, o que é bom, agradável e perfeito. Ninguém tenha de si estima maior do que convém, mas pense com sobriedade, segundo a medida da fé que Deus deu a cada um. Como num corpo há muitos membros com funções diversas, assim nós, sendo muitos, somos um só corpo em Cristo e membros uns dos outros. Os dons diferem segundo a graça: profecia, ministério, ensino, exortação, partilha com simplicidade, presidência com solicitude, misericórdia com alegria.",
+    "alegorico": "A “hóstia viva” é a vida cristã unida ao sacrifício de Cristo, a Hóstia por excelência. A Igreja é o corpo de Cristo: a Eucaristia, sacramento do corpo do Senhor, faz da comunidade um só corpo.",
+    "moral": "O culto que Deus quer não se limita ao templo: abraça o corpo, isto é, a vida concreta inteira. Não se conformar com o mundo exige discernimento constante. E na comunidade cada um tem um dom: ninguém o tem todo, ninguém está sem nenhum. O dom vive-se com humildade e para os outros.",
+    "anagogico": "A transformação pela renovação da mente começa a configuração final à imagem de Cristo. A oferta da vida como hóstia prepara a liturgia eterna, onde todo o ser será louvor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Rogo-vos, pela misericórdia de Deus, que ofereçais os vossos corpos como uma hóstia viva, santa, agradável a Deus. Não vos conformeis com este mundo, mas reformai-vos com o renovamento do vosso espírito, para que reconheçais qual é a vontade de Deus. Somos um só corpo em Cristo, e todos membros uns dos outros. Temos dons diferentes, segundo a graça que nos foi dada.",
+    "meditatio_perguntas": [
+      "Ofereço a Deus a vida concreta, o corpo e o tempo, ou só alguns momentos de oração?",
+      "Em que me conformo com a mentalidade do mundo sem discernir?",
+      "Que dom recebi para o bem do corpo de Cristo, e como o uso?"
+    ],
+    "oratio_guia": "Pai de misericórdia, recebe a minha vida como hóstia viva, unida à oferta do teu Filho. Renova o meu espírito para que eu discirna a tua vontade, e faz-me servir os irmãos com o dom que me deste. Amém.",
+    "contemplatio_foco": {
+      "texto": "ofereçais os vossos corpos como uma hóstia viva, santa, agradável a Deus",
+      "ref": "Rm 12,1"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Culto que a razão exige” (logiké latreía): culto espiritual, conforme ao Logos, em oposição aos sacrifícios de animais. Rm 12,1-2 é a segunda leitura do 22º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

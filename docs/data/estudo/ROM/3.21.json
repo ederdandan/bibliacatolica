@@ -1,0 +1,65 @@
+{
+  "id": "ROM.3.21",
+  "livro": "ROM",
+  "titulo": "Justificados gratuitamente pela sua graça",
+  "secao": "A justificação pela fé",
+  "referencia": "Rm 3,21-31",
+  "ini": {
+    "c": 3,
+    "v": 21
+  },
+  "fim": {
+    "c": 3,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Justificados gratuitamente pela fé em Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Agora, porém, sem a lei, manifestou-se a justiça de Deus, atestada pela lei e pelos profetas: a justiça que vem pela fé em Jesus Cristo para todos os que creem, sem distinção. Todos pecaram e estão privados da glória de Deus; e são justificados gratuitamente pela sua graça, por meio da redenção que está em Cristo Jesus. Deus o apresentou como instrumento de propiciação, pelo seu sangue, mediante a fé, para manifestar a sua justiça: Deus é justo e justifica quem tem fé em Jesus. Onde fica a glória humana? Excluída, pela lei da fé. O homem é justificado pela fé, sem as obras da lei, pois Deus é o Deus de judeus e gentios. E a fé não anula a lei, antes a confirma.",
+    "alegorico": "A palavra “propiciação” (hilastérion) evoca o propiciatório da Arca da Aliança, aspergido com sangue no Dia da Expiação. Cristo é o novo propiciatório: nele, e no seu sangue, Deus e o homem se encontram e o pecado é coberto.",
+    "moral": "“Gratuitamente”: a salvação não se compra nem se merece primeiro; recebe-se. Isso exclui toda vanglória e fundamenta a humildade. Mas a fé que justifica não dispensa a lei: confirma-a, porque a graça dá a força de viver o que a lei mandava.",
+    "anagogico": "Todos estão “privados da glória de Deus”, mas a redenção restitui ao homem o caminho para ela. A justificação no tempo é o começo da glorificação na eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Agora manifestou-se sem a lei a justiça de Deus pela fé de Jesus Cristo em todos os que crêem nele, porque todos pecaram e estão privados da glória de Deus, e são justificados gratuitamente pela sua graça, por meio da redenção que está em Jesus Cristo. Sustentamos que o homem é justificado pela fé, sem as obras da lei.",
+    "meditatio_perguntas": [
+      "Vivo a fé como dom gratuito ou como algo que conquisto?",
+      "Em que ainda me glorio diante de Deus?",
+      "O sangue de Cristo é para mim realidade concreta de reconciliação?"
+    ],
+    "oratio_guia": "Senhor Jesus, em quem fomos justificados gratuitamente, recebo de ti a redenção que não mereço. Tira de mim toda vanglória, e que a tua graça me faça cumprir com amor a lei do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "são justificados gratuitamente pela sua graça, por meio da redenção, que está em Jesus Cristo",
+      "ref": "Rm 3,24"
+    }
+  },
+  "ancoras": {
+    "3:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Meio de propiciação”: no grego hilastérion, o nome da tampa da Arca (propiciatório, Ex 25,17-22; Lv 16,14-15).",
+        "origem": "ia"
+      }
+    },
+    "3:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Obras da lei”: as prescrições da lei mosaica. O Concílio de Trento ensina que nada que precede a justificação, nem fé nem obras, a merece; a fé é o seu início e fundamento.",
+        "origem": "ia"
+      }
+    },
+    "3:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 3,21-25.28 é a segunda leitura do 9º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

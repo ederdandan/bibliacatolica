@@ -1,0 +1,49 @@
+{
+  "id": "ROM.1.8",
+  "livro": "ROM",
+  "titulo": "Não me envergonho do Evangelho",
+  "secao": "Saudação e tema da carta",
+  "referencia": "Rm 1,8-17",
+  "ini": {
+    "c": 1,
+    "v": 8
+  },
+  "fim": {
+    "c": 1,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O Evangelho é a virtude de Deus para a salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dá graças porque a fé dos romanos é conhecida no mundo inteiro, e garante, com Deus por testemunha, que reza incessantemente por eles. Deseja visitá-los para lhes comunicar algum dom espiritual e ser também consolado pela fé comum; muitas vezes o tentou, mas foi impedido. Sente-se devedor a gregos e bárbaros, sábios e ignorantes. Daí o enunciado do tema da carta: não se envergonha do Evangelho, porque é força de Deus para a salvação de todo o que crê, primeiro do judeu e depois do grego. Nele se revela a justiça de Deus, de fé em fé, como está escrito: o justo vive da fé.",
+    "alegorico": "O Evangelho é chamado “virtude”, isto é, poder de Deus: não apenas uma mensagem, mas a própria força criadora que age na pregação. A ordem “primeiro ao judeu, depois ao grego” desenha a história da salvação, que parte de Israel e se abre à Igreja das nações.",
+    "moral": "Paulo não se envergonha do Evangelho, numa capital onde a cruz parecia loucura. A tentação de calar a fé por respeito humano é antiga. Ele também se sente “devedor”: quem recebeu a graça tem dívida de anunciá-la. E a missão começa pela oração e pelo desejo de partilhar dons e consolação mútua.",
+    "anagogico": "“O justo vive da fé”: a fé é já semente da vida eterna. De fé em fé, o crente avança até que a fé ceda lugar à visão, quando a justiça de Deus se manifestar plenamente na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dou graças ao meu Deus, por Jesus Cristo, porque a vossa fé é celebrada em todo o mundo. Desejo ver-vos, a fim de vos comunicar alguma graça espiritual. Eu sou devedor aos Gregos e aos bárbaros. Eu não me envergonho do Evangelho, porque é a virtude de Deus para dar a salvação a todo o crente. A justiça de Deus manifesta-se nele, indo da fé para a fé: o justo vive da fé.",
+    "meditatio_perguntas": [
+      "Há ambientes onde me envergonho do Evangelho?",
+      "Sinto-me “devedor” da fé que recebi?",
+      "Rezo pelos irmãos na fé como Paulo rezava pelos romanos?"
+    ],
+    "oratio_guia": "Senhor, não permitas que eu me envergonhe do teu Evangelho. Que ele seja em mim força de salvação, e que eu viva da fé, de fé em fé, até te ver face a face. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu não me envergonho do Evangelho, porque é a virtude de Deus para dar a salvação a todo o crente",
+      "ref": "Rm 1,16"
+    }
+  },
+  "ancoras": {
+    "1:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Habacuc 2,4. “Justiça de Deus” designa a fidelidade salvadora de Deus, que torna justo o que crê, e não apenas o atributo pelo qual castiga.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

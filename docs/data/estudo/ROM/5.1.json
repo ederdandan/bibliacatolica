@@ -1,0 +1,57 @@
+{
+  "id": "ROM.5.1",
+  "livro": "ROM",
+  "titulo": "Justificados pela fé, temos paz com Deus",
+  "secao": "A justificação pela fé",
+  "referencia": "Rm 5,1-11",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O amor de Deus derramado em nossos corações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Justificados pela fé, temos paz com Deus por meio de Nosso Senhor Jesus Cristo, que nos deu acesso à graça em que estamos firmes, e gloriamo-nos na esperança da glória de Deus. Gloriamo-nos também nas tribulações: a tribulação produz a paciência, a paciência a virtude provada, a virtude provada a esperança; e a esperança não engana, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo. A prova desse amor: Cristo morreu pelos ímpios quando ainda éramos fracos e pecadores, o que dificilmente se faz até por um justo. Se, inimigos, fomos reconciliados pela sua morte, muito mais, reconciliados, seremos salvos pela sua vida.",
+    "alegorico": "O Espírito “derramado” evoca a água do lado aberto de Cristo e o Pentecostes: o amor do Pai chega ao coração humano como torrente que o inunda. A Cruz é a medida do amor divino, oferecido aos inimigos.",
+    "moral": "A tribulação, que parece contrária à esperança, torna-se escola dela: ensina a paciência e prova a virtude. O cristão não procura o sofrimento, mas não o vive como absurdo. E a certeza de ser amado “quando ainda éramos pecadores” liberta do medo de não merecer o amor.",
+    "anagogico": "“A esperança não traz engano”: aquilo que esperamos já está, em penhor, no Espírito dado. O “muito mais” de Paulo aponta para a salvação plena que nos espera pela vida do Ressuscitado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Justificados pela fé, tenhamos paz com Deus, por meio de Nosso Senhor Jesus Cristo. Gloriamo-nos nas tribulações, sabendo que a tribulação produz a paciência, a paciência a virtude provada, a virtude provada a esperança, e a esperança não traz engano, porque a caridade de Deus está derramada em nossos corações pelo Espírito Santo. Deus manifesta a sua caridade para connosco, porque, quando ainda éramos pecadores, morreu Cristo por nós.",
+    "meditatio_perguntas": [
+      "Vivo em paz com Deus ou ainda sob o medo?",
+      "Que tribulação atual pode tornar-se em mim escola de esperança?",
+      "Acredito que Deus me amou primeiro, quando eu ainda era pecador?"
+    ],
+    "oratio_guia": "Pai, que derramaste em nossos corações o teu amor pelo Espírito Santo, dá-me a paz da reconciliação. Que eu me glorie até nas tribulações, sabendo que a esperança não engana, porque Cristo morreu por mim quando eu ainda era pecador. Amém.",
+    "contemplatio_foco": {
+      "texto": "a caridade de Deus está derramada em nossos corações pelo Espírito Santo, que nos foi dado",
+      "ref": "Rm 5,5"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 5,1-2.5-8 é a segunda leitura do 3º Domingo da Quaresma, Ano A (a samaritana); Rm 5,6-11, do 11º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "5:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Caridade de Deus”: o amor com que Deus nos ama e que, dado pelo Espírito, se torna também em nós princípio de amor a Ele.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

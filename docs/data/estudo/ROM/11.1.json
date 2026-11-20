@@ -1,0 +1,57 @@
+{
+  "id": "ROM.11.1",
+  "livro": "ROM",
+  "titulo": "A oliveira e os ramos enxertados",
+  "secao": "Israel no desígnio de Deus",
+  "referencia": "Rm 11,1-24",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A raiz santa e os ramos enxertados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Rejeitou Deus o seu povo? De modo nenhum: o próprio Paulo é israelita. Como no tempo de Elias Deus reservou sete mil que não dobraram o joelho a Baal, também agora há um resto escolhido pela graça; e, se é pela graça, não é pelas obras. Os outros endureceram-se, como predisseram as Escrituras. Mas a queda de Israel não é definitiva: pelo seu tropeço a salvação chegou aos gentios, para lhe despertar santa emulação; e, se a sua falta foi riqueza para o mundo, que será a sua plenitude? Paulo usa a imagem da oliveira: alguns ramos naturais foram cortados e o zambujeiro foi enxertado no seu lugar, participando da seiva da raiz. Que o gentio não se envaideça: não é ele que sustenta a raiz, mas a raiz a ele. Considere a bondade e a severidade de Deus; e Deus é poderoso para enxertar de novo os ramos naturais.",
+    "alegorico": "A oliveira é o povo de Deus, cuja raiz são os patriarcas e as promessas. A Igreja dos gentios é o zambujeiro enxertado: vive da seiva de Israel. Cristo, rebento da raiz de Jessé, é a vida que corre em toda a árvore.",
+    "moral": "O texto proíbe ao cristão todo o desprezo e todo o antijudaísmo: “não te vanglories contra os ramos”. A fé é dom, não mérito, e por isso pede temor e gratidão: “permanece na bondade, doutra maneira também serás cortado”. A eleição é responsabilidade.",
+    "anagogico": "A reintegração de Israel será “uma ressurreição dentre os mortos”. A história da salvação caminha para a plenitude em que a oliveira inteira, ramos naturais e enxertados, frutificará em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus não rejeitou o seu povo, que conheceu na sua presciência. Existem aqueles que foram reservados segundo a escolha da graça. Se a raiz é santa, também o são os ramos. Se tu, sendo um zambujeiro, foste enxertado e participante da seiva da raiz da oliveira, não te vanglories contra os ramos: não és tu que sustentas a raiz, mas a raiz a ti. Considera, pois, a bondade e a severidade de Deus.",
+    "meditatio_perguntas": [
+      "Reconheço que a minha fé vive da raiz de Israel?",
+      "Há em mim algum desprezo por quem não crê como eu?",
+      "Permaneço na bondade de Deus com temor e gratidão?"
+    ],
+    "oratio_guia": "Deus de Abraão, de Isaac e de Jacob, obrigado por me enxertares na oliveira santa. Guarda-me na tua bondade, livra-me da soberba, e realiza a tua promessa de plenitude para o teu povo Israel. Amém.",
+    "contemplatio_foco": {
+      "texto": "não és tu que sustentas a raiz, mas a raiz a ti",
+      "ref": "Rm 11,18"
+    }
+  },
+  "ancoras": {
+    "11:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 11,13-15.29-32 é a segunda leitura do 20º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "11:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O enxerto de zambujeiro (oliveira brava) em oliveira cultivada era contrário à prática agrícola; Paulo sublinha que é “contra a natureza”, obra da graça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

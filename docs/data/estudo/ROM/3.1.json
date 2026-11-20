@@ -1,0 +1,57 @@
+{
+  "id": "ROM.3.1",
+  "livro": "ROM",
+  "titulo": "Não há nenhum justo",
+  "secao": "Todos pecaram",
+  "referencia": "Rm 3,1-20",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Todos estão sob o pecado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Que vantagem tem então o judeu? Muita: a ele foram confiados os oráculos de Deus. A incredulidade de alguns não anula a fidelidade de Deus; Deus é verdadeiro, ainda que todo homem seja mentiroso. Mas a injustiça humana, que faz brilhar a justiça divina, não torna Deus injusto ao castigar, nem autoriza a fazer o mal para que venha o bem, calúnia atribuída a Paulo. Conclusão: judeus e gregos estão todos sob o pecado. Uma cadeia de citações dos Salmos e de Isaías o confirma: não há nenhum justo, nem um sequer. A lei fala para que toda boca se cale; pelas obras da lei ninguém será justificado, pois a lei dá o conhecimento do pecado.",
+    "alegorico": "A humanidade inteira aparece como num tribunal onde todas as bocas se calam: é o silêncio que prepara a escuta da Boa Nova. A fidelidade de Deus, que permanece apesar da infidelidade humana, é figura da aliança que Cristo cumprirá com o seu sangue.",
+    "moral": "Paulo rejeita a lógica de “fazer o mal para que venham bens”: o fim não justifica os meios. E a constatação “não há nenhum justo” não é para desanimar, mas para destruir a presunção. O primeiro passo da salvação é reconhecer-se necessitado dela.",
+    "anagogico": "Diante de Deus, todo o mundo é réu. Mas o silêncio de toda boca abre espaço para a palavra de Deus que justifica. O fim desta história não é a condenação, mas a misericórdia oferecida a todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Porventura a sua incredulidade destruirá a fidelidade de Deus? Não, certamente. Deus é verdadeiro, e todo o homem é mentiroso. Judeus e Gregos estão todos sob o pecado, como está escrito: não há nenhum justo, não há quem busque a Deus. Pelas obras da lei não será justificado nenhum homem diante dele; pela lei vem o conhecimento do pecado.",
+    "meditatio_perguntas": [
+      "Considero-me, no fundo, melhor do que os outros diante de Deus?",
+      "Já justifiquei um mal pelo bem que dele poderia vir?",
+      "Confio na fidelidade de Deus mesmo quando sou infiel?"
+    ],
+    "oratio_guia": "Deus fiel e verdadeiro, reconheço que não sou justo diante de ti. Cala em mim toda presunção e abre-me à tua graça. Que a minha infidelidade nunca me faça duvidar da tua fidelidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é verdadeiro, e todo o homem é mentiroso",
+      "ref": "Rm 3,4"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Princípio moral: não é lícito fazer o mal para que dele resulte um bem. Paulo considera justa a condenação de quem o afirma.",
+        "origem": "ia"
+      }
+    },
+    "3:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Florilégio de Salmos (13, 5, 140, 10, 35) e de Is 59,7-8, na numeração da Vulgata: a universalidade do pecado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

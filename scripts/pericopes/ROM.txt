@@ -1,0 +1,39 @@
+# Divisão de Romanos em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Saudação e tema da carta
+1:1-1:7 | Paulo, servo de Jesus Cristo, chamado ao apostolado
+1:8-1:17 | Não me envergonho do Evangelho
+## Todos pecaram
+1:18-1:32 | A ira de Deus contra a impiedade dos homens
+2:1-2:16 | O justo juízo de Deus
+2:17-2:29 | A verdadeira circuncisão é a do coração
+3:1-3:20 | Não há nenhum justo
+## A justificação pela fé
+3:21-3:31 | Justificados gratuitamente pela sua graça
+4:1-4:25 | Abraão, pai de todos os crentes
+5:1-5:11 | Justificados pela fé, temos paz com Deus
+5:12-5:21 | Adão e Cristo: onde abundou o pecado, superabundou a graça
+## A vida nova em Cristo
+6:1-6:14 | Sepultados com Cristo pelo baptismo
+6:15-6:23 | Servos da justiça para a santificação
+7:1-7:6 | Mortos para a lei pelo corpo de Cristo
+7:7-7:25 | Infeliz de mim! Quem me livrará deste corpo de morte?
+8:1-8:17 | A vida segundo o Espírito; filhos e herdeiros
+8:18-8:30 | A criação geme à espera da glória
+8:31-8:39 | Quem nos separará do amor de Cristo?
+## Israel no desígnio de Deus
+9:1-9:18 | A tristeza de Paulo e a liberdade da escolha divina
+9:19-9:33 | O oleiro e o barro
+10:1-10:21 | Se confessares com a tua boca o Senhor Jesus
+11:1-11:24 | A oliveira e os ramos enxertados
+11:25-11:36 | Todo o Israel se salvará; ó profundidade das riquezas!
+## A vida cristã
+12:1-12:8 | Hóstia viva; um só corpo em Cristo
+12:9-12:21 | O amor seja sem fingimento
+13:1-13:7 | Sujeição às autoridades
+13:8-13:14 | O amor é o complemento da lei; revesti-vos de Cristo
+14:1-14:23 | Ninguém vive para si mesmo
+15:1-15:13 | Acolhei-vos uns aos outros
+## Conclusão
+15:14-15:33 | O ministério de Paulo entre os gentios
+16:1-16:27 | Saudações e doxologia final

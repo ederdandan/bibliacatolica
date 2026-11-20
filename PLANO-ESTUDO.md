@@ -3,7 +3,7 @@
 > Documento de continuidade. Se a conversa com o Claude for limpa (`/clear`), comece por:
 > **"Leia PLANO-ESTUDO.md e continue da próxima fase pendente."**
 
-Última atualização: 2026-11-20 (Lotes 2 e 3 do NT concluídos)
+Última atualização: 2026-11-20 (Lote 4 do NT em andamento)
 
 ---
 
@@ -106,7 +106,8 @@ Regra: commit + push ao fechar cada livro do lote.
 Progresso: Marcos ✅ 75 · Mateus ✅ 107 · Lucas ✅ 78 · João ✅ 48. **Os quatro Evangelhos estão completos: 308 perícopes.**
 Lote 1: Filipenses ✅ 10 · Efésios ✅ 12 · Colossenses ✅ 8 · 1 Tessalonicenses ✅ 8 · Tiago ✅ 9 · 1 Pedro ✅ 9 · 1 João ✅ 10. **Lote 1 concluído: 66 perícopes.**
 Lote 2: Filémon ✅ 2 · 2 João ✅ 1 · 3 João ✅ 1 · Judas ✅ 2 · 2 Tessalonicenses ✅ 4 · Tito ✅ 3 · 2 Pedro ✅ 5. **Lote 2 concluído: 18 perícopes.**
-Lote 3: Gálatas ✅ 11 · 1 Timóteo ✅ 10 · 2 Timóteo ✅ 6. **Lote 3 concluído: 27 perícopes.** Próximo: Lote 4 (Romanos ROM).
+Lote 3: Gálatas ✅ 11 · 1 Timóteo ✅ 10 · 2 Timóteo ✅ 6. **Lote 3 concluído: 27 perícopes.**
+Lote 4: Romanos ✅ 30. Próximo: 1 Coríntios (1CO).
 Fluxo fora dos Evangelhos: criar `scripts/pericopes/{ID}.txt` → `index {ID}` → escrever o conteúdo num módulo `{ID}.mjs` (array de `{k, tema, literal, alegorico, moral, anagogico, lectio, perguntas, oratio, foco:[texto, ref], notas:{"c:v": texto}}`) → `node scripts/gen-estudo.mjs {ID} <caminho>/{ID}.mjs` (o módulo fica no scratchpad; o gerador preenche id/título/seção/ref/ini/fim do índice, `padres: []`, `cic: []`, `origem: "ia"`) → `check {ID}`. Nas notas, não citar números do CIC (fica para a fase 1.2). `estudo.mjs` agora tira as abreviaturas de `docs/data/index.json`.
 Fora dos Evangelhos não há Catena. **Decisão:** nesses livros, `padres` fica `[]`; as âncoras levam só `nota` (IA) quando houver algo útil.
 
@@ -209,7 +210,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
    **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
    **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
-   **NT em lotes (ver Fase 4): Lotes 1, 2 e 3 ✅. Próximo: Lote 4, começando por Romanos (ROM).** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`. Salmos (PSA) vem depois do NT (um salmo por perícope, ou divisões nos longos como o 118).
+   **NT em lotes (ver Fase 4): Lotes 1, 2 e 3 ✅; Lote 4 em andamento (ver progresso na Fase 4).** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`. Salmos (PSA) vem depois do NT (um salmo por perícope, ou divisões nos longos como o 118).
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).

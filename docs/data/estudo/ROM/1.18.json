@@ -1,0 +1,57 @@
+{
+  "id": "ROM.1.18",
+  "livro": "ROM",
+  "titulo": "A ira de Deus contra a impiedade dos homens",
+  "secao": "Todos pecaram",
+  "referencia": "Rm 1,18-32",
+  "ini": {
+    "c": 1,
+    "v": 18
+  },
+  "fim": {
+    "c": 1,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A recusa de glorificar a Deus e as suas consequências",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A ira de Deus revela-se contra a impiedade dos que aprisionam a verdade na injustiça. O que se pode conhecer de Deus é-lhes manifesto: desde a criação, o seu poder eterno e a sua divindade tornam-se visíveis através das coisas feitas, de modo que não têm desculpa. Conhecendo a Deus, não o glorificaram nem lhe deram graças; dizendo-se sábios, tornaram-se estultos e trocaram a glória do Deus incorruptível por imagens de homens e de animais. Por isso Deus entregou-os aos desejos do coração, a paixões degradantes, a um sentimento depravado, de onde brota um longo catálogo de vícios. E, conhecendo o juízo de Deus, não só praticam o mal como aprovam quem o pratica.",
+    "alegorico": "A troca da glória de Deus pela imagem da criatura repete a queda das origens e é o contrário da obra de Cristo, imagem perfeita do Pai, que vem restaurar no homem a semelhança perdida. A idolatria é a raiz; os vícios são os frutos.",
+    "moral": "O ponto de partida do pecado não é a ignorância, mas a ingratidão: “não lhe deram graças”. Quando se recusa a Deus o louvor, o coração escurece e acaba por servir as criaturas. A “ira” de Deus aparece primeiro como abandono: Deus entrega o homem àquilo que ele escolheu. A gratidão diária é proteção contra esse desvio.",
+    "anagogico": "O texto mostra a situação de onde Deus quer tirar a humanidade: a criação, que fala do Criador, prepara o homem para o ver um dia sem véus. Quem aprende a ler as coisas feitas como sinal caminha para a visão do Deus invisível."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O que se pode conhecer de Deus é-lhes manifesto. As coisas invisíveis dele, o seu poder eterno e a sua divindade, compreendendo-se pelas coisas feitas, tornaram-se visíveis. Tendo conhecido a Deus, não o glorificaram como Deus, nem lhe deram graças, e obscureceu-se o seu coração insensato. Trocaram a verdade de Deus pela mentira e serviram a criatura de preferência ao Criador.",
+    "meditatio_perguntas": [
+      "A beleza da criação conduz-me ao louvor do Criador?",
+      "Que “ídolos” ocupam em mim o lugar de Deus?",
+      "Dou graças a Deus todos os dias, ou só peço?"
+    ],
+    "oratio_guia": "Deus eterno, cujo poder se lê nas coisas criadas, livra-me da ingratidão que escurece o coração. Que eu te glorifique e te dê graças, e nunca troque a tua verdade pela mentira. Amém.",
+    "contemplatio_foco": {
+      "texto": "tendo conhecido a Deus, não o glorificaram como Deus, nem lhe deram graças",
+      "ref": "Rm 1,21"
+    }
+  },
+  "ancoras": {
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto clássico sobre o conhecimento natural de Deus pela razão a partir das criaturas, retomado pelo Concílio Vaticano I.",
+        "origem": "ia"
+      }
+    },
+    "1:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Deus os abandonou”: a ira divina manifesta-se aqui como permissão de que o pecado produza os seus próprios frutos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ROM.1.1",
+  "livro": "ROM",
+  "titulo": "Paulo, servo de Jesus Cristo, chamado ao apostolado",
+  "secao": "Saudação e tema da carta",
+  "referencia": "Rm 1,1-7",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "O Evangelho de Deus acerca do seu Filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo apresenta-se a uma comunidade que ainda não conhece: servo de Jesus Cristo, chamado a apóstolo, separado para o Evangelho de Deus. Esse Evangelho não é novidade sem raízes: Deus o prometera pelos profetas nas Santas Escrituras. O seu conteúdo é uma pessoa, o Filho, nascido da descendência de David segundo a carne e constituído Filho de Deus em poder pela ressurreição dentre os mortos. Por Ele Paulo recebeu a graça e o apostolado, para conduzir todos os gentios à obediência da fé. Entre eles estão os cristãos de Roma, amados de Deus e chamados a ser santos, a quem deseja graça e paz.",
+    "alegorico": "A dupla origem do Filho, da linhagem de David segundo a carne e manifestado Filho de Deus em poder pela ressurreição, resume o mistério da Encarnação e da Páscoa. Cristo é o rei davídico prometido, mas o seu trono é a glória do Pai, e o seu reino reúne judeus e gentios.",
+    "moral": "Paulo define-se como servo e chamado: a identidade cristã começa por uma vocação recebida, não por um projeto próprio. Também os romanos são “chamados a ser santos”. A santidade não é privilégio de poucos, mas o nome comum de todos os batizados, e a fé pede obediência, isto é, escuta que se faz vida.",
+    "anagogico": "A ressurreição de Cristo inaugura o poder que um dia transformará também os que lhe pertencem. A graça e a paz desejadas na saudação são antecipação daquela paz plena que Deus dará aos seus santos na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Paulo, servo de Jesus Cristo, chamado ao apostolado, escolhido para o Evangelho de Deus, que Deus tinha prometido pelos seus profetas, acerca do seu Filho, que nasceu da posteridade de David segundo a carne, estabelecido no seu poder de Filho de Deus a partir da sua ressurreição. A todos os que estão em Roma, queridos de Deus, chamados a ser santos: graça e paz.",
+    "meditatio_perguntas": [
+      "Reconheço-me “chamado a ser santo”, ou acho que a santidade é para outros?",
+      "O Evangelho, para mim, é uma doutrina ou a pessoa de Jesus Cristo?",
+      "A minha fé é “obediência”, escuta que muda a vida?"
+    ],
+    "oratio_guia": "Pai, que prometeste pelos profetas e cumpriste no teu Filho, nascido de David e ressuscitado em poder, faz de mim um servo do Evangelho. Que eu responda ao chamado à santidade com a obediência da fé. Amém.",
+    "contemplatio_foco": {
+      "texto": "a todos os que estão em Roma, queridos de Deus, chamados a ser santos",
+      "ref": "Rm 1,7"
+    }
+  },
+  "ancoras": {
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Estabelecido” (horisthéntos): não que Cristo se torne Filho na ressurreição, mas que nela é manifestado e entronizado como Filho de Deus em poder, também na sua humanidade.",
+        "origem": "ia"
+      }
+    },
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 1,1-7 é a segunda leitura do 4º Domingo do Advento, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

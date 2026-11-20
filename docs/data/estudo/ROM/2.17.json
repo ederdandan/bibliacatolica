@@ -1,0 +1,49 @@
+{
+  "id": "ROM.2.17",
+  "livro": "ROM",
+  "titulo": "A verdadeira circuncisão é a do coração",
+  "secao": "Todos pecaram",
+  "referencia": "Rm 2,17-29",
+  "ini": {
+    "c": 2,
+    "v": 17
+  },
+  "fim": {
+    "c": 2,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "A circuncisão do coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo interpela o judeu que repousa na lei, se gloria em Deus e se apresenta como guia de cegos e luz dos que estão nas trevas. Ensinas os outros e não te ensinas a ti mesmo? Pregas que não se deve furtar e furtas? Por causa de tal conduta, o nome de Deus é blasfemado entre os gentios, como diz a Escritura. A circuncisão aproveita se a lei for observada; transgredida, torna-se incircuncisão. E o incircunciso que guarda os preceitos será tido por circunciso. Pois o verdadeiro judeu não é o que o é exteriormente, nem a verdadeira circuncisão a que aparece na carne: é a do coração, segundo o espírito e não segundo a letra, e o seu louvor vem de Deus.",
+    "alegorico": "A circuncisão do coração anuncia o batismo, que o Novo Testamento chama “circuncisão de Cristo” (Cl 2,11). O verdadeiro Israel é o povo dos corações transformados pelo Espírito, a Igreja de judeus e gentios.",
+    "moral": "O aviso vale para todo o cristão: possuir a verdade e ensiná-la não basta, se a vida a desmente. A incoerência dos crentes faz blasfemar o nome de Deus. Os sinais exteriores (batismo, prática religiosa) têm valor quando correspondem à conversão interior.",
+    "anagogico": "O louvor do verdadeiro fiel “não vem dos homens, mas de Deus”. No juízo final, só contará o que Deus viu no íntimo; aí receberão o louvor os que foram fiéis no segredo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tu, que ensinas os outros, não te ensinas a ti mesmo! O nome de Deus por causa de vós é blasfemado entre as gentes. Não é judeu o que o é apenas externamente, nem é circuncisão a que aparece na carne, mas é verdadeiro judeu aquele que o é no interior, e a verdadeira circuncisão é a do coração, segundo o espírito e não segundo a letra.",
+    "meditatio_perguntas": [
+      "A minha vida confirma ou desmente aquilo que digo crer?",
+      "Procuro o louvor dos homens ou o de Deus?",
+      "Que parte do meu coração ainda precisa da “circuncisão” do Espírito?"
+    ],
+    "oratio_guia": "Senhor, que olhas o coração, circuncida o meu interior com o teu Espírito. Que eu não seja apenas mestre dos outros, mas discípulo coerente, e que o teu nome seja glorificado e não blasfemado por causa de mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "a circuncisão é a do coração, segundo o espírito e não segundo a letra",
+      "ref": "Rm 2,29"
+    }
+  },
+  "ancoras": {
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Isaías 52,5 (cf. Ez 36,20-23): a infidelidade do povo de Deus desonra o seu nome diante das nações.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ROM.16.1",
+  "livro": "ROM",
+  "titulo": "Saudações e doxologia final",
+  "secao": "Conclusão",
+  "referencia": "Rm 16,1-27",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Ao Deus único e sábio, glória por Jesus Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo recomenda Febe, diaconisa da Igreja de Cencreia, que ajudou a muitos. Saúda Prisca e Áquila, que arriscaram a vida por ele, e a Igreja que se reúne em sua casa; e uma longa lista de homens e mulheres: Epeneto, Maria, Andronico e Júnia, Ampliato, Urbano, Rufo e sua mãe, que é como mãe de Paulo, Trifena, Trifosa, Pérside e muitos outros que trabalharam no Senhor. Pede que se saúdem com o ósculo santo. Adverte contra os que causam divisões e escândalos, servindo o ventre com palavras doces; quer os romanos sábios para o bem e simples para o mal: o Deus da paz esmagará depressa Satanás debaixo dos seus pés. Saúdam-nos Timóteo, Tércio (que escreveu a carta), Caio e Erasto. A carta fecha com uma doxologia ao Deus que pode confirmar segundo o Evangelho e a revelação do mistério escondido desde a eternidade, agora manifestado a todas as nações.",
+    "alegorico": "“O Deus de paz esmagará Satanás debaixo de vossos pés” ecoa a promessa de Gn 3,15: a descendência da mulher esmagará a cabeça da serpente. A Igreja, unida a Cristo vencedor, participa dessa vitória.",
+    "moral": "A lista de nomes mostra que o Evangelho avança por pessoas concretas, homens e mulheres, casas que acolhem, colaboradores esquecidos pela história. Cada um conta. E a vigilância contra quem divide é parte do amor à comunidade: “sábios no bem e simples no mal”.",
+    "anagogico": "O “mistério encoberto desde toda a eternidade, mas agora manifestado” caminha para a sua revelação plena. A glória dada a Deus por Jesus Cristo “pelos séculos dos séculos” é a nota final da carta e da história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Recomendo-vos a nossa irmã Febe. Saudai Prisca e Aquila, meus cooperadores em Jesus Cristo, e a Igreja que está em sua casa. Quero que sejais sábios no bem e simples no mal. O Deus de paz esmagará logo a Satanás debaixo de vossos pés. A Deus, único sábio, seja dada honra e glória por Jesus Cristo, pelos séculos dos séculos.",
+    "meditatio_perguntas": [
+      "Quem são, na minha vida, os “cooperadores” do Evangelho a quem devo gratidão?",
+      "Sou sábio no bem e simples no mal?",
+      "A minha casa é, de algum modo, lugar de Igreja?"
+    ],
+    "oratio_guia": "Deus único e sábio, obrigado pelos irmãos e irmãs que trabalham no Senhor e me ajudaram na fé. Dá-me ser sábio no bem e simples no mal, e esmaga depressa debaixo dos nossos pés o inimigo. A ti a glória por Jesus Cristo, pelos séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "quero que sejais sábios no bem e simples no mal",
+      "ref": "Rm 16,19"
+    }
+  },
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Diaconisa” (diákonos): Febe servia a Igreja de Cencreia, porto de Corinto, e provavelmente levou a carta a Roma.",
+        "origem": "ia"
+      }
+    },
+    "16:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 16,25-27 é a segunda leitura do 4º Domingo do Advento, Ano B.",
+        "origem": "ia"
+      }
+    },
+    "16:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tércio é o secretário que escreveu a carta ditada por Paulo; prática comum na Antiguidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ROM.6.1",
+  "livro": "ROM",
+  "titulo": "Sepultados com Cristo pelo baptismo",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 6,1-14",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Mortos para o pecado, vivos para Deus em Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Permaneceremos no pecado para que abunde a graça? De modo nenhum: mortos para o pecado, como viver ainda nele? Todos os batizados em Cristo Jesus foram batizados na sua morte; sepultados com Ele pelo batismo, para que, como Cristo ressuscitou pela glória do Pai, também nós vivamos uma vida nova. Unidos a Ele por uma morte semelhante, sê-lo-emos também por uma ressurreição semelhante. O homem velho foi crucificado com Ele, para que o corpo do pecado fosse destruído. Cristo ressuscitado não morre mais. Assim também vós, considerai-vos mortos para o pecado e vivos para Deus em Cristo Jesus. Não reine o pecado no corpo mortal; oferecei os membros a Deus como armas de justiça, pois já não estais sob a lei, mas sob a graça.",
+    "alegorico": "A imersão batismal é sepultura com Cristo; a saída da água, ressurreição. Por isso a Igreja lê esta página na Vigília Pascal, antes do Aleluia, e por isso os antigos batistérios tinham forma de túmulo e de seio materno.",
+    "moral": "O batismo não é apenas rito passado; é uma morte para o pecado que se torna programa de vida. “Considerai-vos”: o cristão precisa crer no que é para viver de acordo. O corpo não é inimigo, mas instrumento: os membros podem servir à iniquidade ou à justiça.",
+    "anagogico": "“Por uma ressurreição semelhante”: o batizado traz em si o germe da ressurreição. A vida nova começada na fonte batismal terá a sua plenitude quando a morte não tiver mais domínio sobre nós, como já não o tem sobre Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não sabeis que todos os que fomos baptizados em Jesus Cristo, fomos baptizados na sua morte? Fomos sepultados com ele pelo baptismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova. Se morremos com Cristo, creiamos que viveremos também juntamente com ele. Considerai-vos como estando mortos para o pecado, mas vivos para Deus, em Jesus Cristo.",
+    "meditatio_perguntas": [
+      "Que lugar tem o meu batismo na consciência de quem eu sou?",
+      "Que “homem velho” em mim ainda resiste a ser crucificado com Cristo?",
+      "Ofereço os meus membros a Deus como armas de justiça?"
+    ],
+    "oratio_guia": "Senhor Jesus, em cuja morte fui batizado, dá-me viver uma vida nova. Que eu me considere morto para o pecado e vivo para Deus em ti, e que, unido à tua morte, participe também da tua ressurreição. Amém.",
+    "contemplatio_foco": {
+      "texto": "considerai-vos como estando mortos para o pecado, mas vivos para Deus, em Jesus Cristo",
+      "ref": "Rm 6,11"
+    }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 6,3-11 é a epístola da Vigília Pascal; Rm 6,3-4.8-11, a segunda leitura do 13º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    },
+    "6:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O verbo “batizar” significa imergir: o simbolismo da sepultura e da ressurreição supõe o batismo por imersão, praticado na Igreja antiga.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

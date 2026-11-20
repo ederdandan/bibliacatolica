@@ -1,0 +1,57 @@
+{
+  "id": "ROM.8.18",
+  "livro": "ROM",
+  "titulo": "A criação geme à espera da glória",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 8,18-30",
+  "ini": {
+    "c": 8,
+    "v": 18
+  },
+  "fim": {
+    "c": 8,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A criação geme à espera da glória dos filhos de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os sofrimentos do tempo presente não têm proporção com a glória que há de manifestar-se em nós. A própria criação espera ansiosamente a revelação dos filhos de Deus: sujeita à vaidade, não por vontade própria, mas com esperança, será libertada da corrupção para participar da liberdade gloriosa dos filhos de Deus. Toda a criação geme como em dores de parto, e também nós, que temos as primícias do Espírito, gememos esperando a adoção, a redenção do corpo. Na esperança fomos salvos. O Espírito vem em auxílio da nossa fraqueza: não sabemos o que pedir, mas Ele intercede por nós com gemidos inefáveis. Sabemos que tudo concorre para o bem dos que amam a Deus, chamados segundo o seu desígnio: predestinados a ser conformes à imagem do Filho, primogénito de muitos irmãos, chamados, justificados e glorificados.",
+    "alegorico": "As “dores de parto” da criação fazem do mundo um seio onde se está a gerar a nova criação. Cristo, primogénito entre muitos irmãos, é o primeiro fruto desse parto; a Igreja, que geme com o Espírito, é a mãe que espera dar à luz os filhos de Deus.",
+    "moral": "A criação participa do destino do homem: o pecado sujeitou-a à vaidade, e a redenção também a alcança. Daí o cuidado responsável com o mundo. Na oração, reconhecer que “não sabemos pedir como convém” é o começo de deixar o Espírito rezar em nós. E, para quem ama a Deus, nada é inútil.",
+    "anagogico": "A esperança cristã é cósmica: não só a alma, mas o corpo e o universo serão libertados da corrupção. A cadeia “predestinou, chamou, justificou, glorificou” termina na glória, já certa nos desígnios de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os sofrimentos do tempo presente não têm proporção com a glória vindoura que se manifestará em nós. Todas as criaturas gemem e estão como que com dores de parto até agora. O Espírito ajuda a nossa fraqueza, porque não sabemos o que havemos de pedir, mas o mesmo Espírito ora por nós com gemidos inefáveis. Todas as coisas concorrem para o bem daqueles que amam a Deus.",
+    "meditatio_perguntas": [
+      "Consigo olhar os sofrimentos presentes à luz da glória futura?",
+      "Deixo o Espírito rezar em mim quando não sei o que pedir?",
+      "Creio que tudo, mesmo o que não entendo, concorre para o bem de quem ama a Deus?"
+    ],
+    "oratio_guia": "Espírito Santo, que oras em nós com gemidos inefáveis, vem em auxílio da minha fraqueza. Ensina-me a esperar, com toda a criação, a glória dos filhos de Deus, e a crer que tudo concorre para o bem dos que amam o Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "todas as coisas concorrem para o bem daqueles que amam a Deus",
+      "ref": "Rm 8,28"
+    }
+  },
+  "ancoras": {
+    "8:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 8,18-23 é a segunda leitura do 15º Domingo do Tempo Comum, Ano A; Rm 8,26-27, do 16º, e Rm 8,28-30, do 17º (Ano A). Rm 8,22-27 lê-se na Vigília de Pentecostes.",
+        "origem": "ia"
+      }
+    },
+    "8:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Predestinou”: a Igreja ensina que Deus predestina à glória sem anular a liberdade humana; ninguém é predestinado ao mal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ROM.10.1",
+  "livro": "ROM",
+  "titulo": "Se confessares com a tua boca o Senhor Jesus",
+  "secao": "Israel no desígnio de Deus",
+  "referencia": "Rm 10,1-21",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A fé vem pela pregação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo reza pela salvação de Israel: tem zelo de Deus, mas sem conhecimento, e, procurando estabelecer a sua própria justiça, não se submeteu à de Deus. Ora o fim da lei é Cristo, para justificação de todo o que crê. A justiça da fé não exige subir ao céu nem descer ao abismo para buscar Cristo: a palavra está perto, na boca e no coração. Se confessares com a boca que Jesus é o Senhor e creres no coração que Deus o ressuscitou dos mortos, serás salvo. Não há distinção entre judeu e grego: todo aquele que invocar o nome do Senhor será salvo. Mas como invocarão sem crer, crerão sem ouvir, ouvirão sem quem pregue, pregarão sem ser enviados? Que formosos os pés dos que anunciam a felicidade! A fé vem pela pregação, e a pregação pela palavra de Cristo; e a voz dos enviados chegou aos confins da terra.",
+    "alegorico": "Os “pés formosos” dos mensageiros que Isaías via chegar sobre os montes a Jerusalém são os apóstolos e todos os enviados da Igreja. A palavra próxima, “na tua boca e no teu coração”, é o Verbo que se fez próximo na Encarnação.",
+    "moral": "A fé tem dois movimentos: crer com o coração e confessar com a boca. Não basta uma fé íntima que nunca se diz. E a cadeia “enviados, pregação, escuta, fé, invocação” mostra que cada cristão tem um elo a cumprir: ninguém crê sem que alguém lhe tenha anunciado.",
+    "anagogico": "“Serás salvo”: a confissão da fé no Senhor ressuscitado é já caminho de salvação plena. A voz que chegou aos confins da terra prepara a assembleia universal dos que invocam o nome do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O fim da lei é Cristo, para a justificação de todo o que crê. Perto de ti está a palavra, na tua boca e no teu coração. Se confessares com a tua boca o Senhor Jesus e creres no teu coração que Deus o ressuscitou dos mortos, serás salvo. Todo aquele que invocar o nome do Senhor será salvo. Que formosos são os pés dos que anunciam a felicidade! Logo a fé vem pela pregação, e a pregação pela palavra de Cristo.",
+    "meditatio_perguntas": [
+      "Confesso com a boca o que creio no coração?",
+      "Quem foram os “pés formosos” que me trouxeram a fé?",
+      "De quem eu posso ser o elo que leva à fé?"
+    ],
+    "oratio_guia": "Senhor Jesus, creio no meu coração que o Pai te ressuscitou e confesso com a minha boca que és o Senhor. Faz de mim um enviado, para que outros ouçam, creiam e invoquem o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "se confessares com a tua boca o Senhor Jesus e creres no teu coração que Deus o ressuscitou dos mortos, serás salvo",
+      "ref": "Rm 10,9"
+    }
+  },
+  "ancoras": {
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Fim” (télos): Cristo é termo e finalidade da lei, para a qual a lei conduzia (cf. Gl 3,24).",
+        "origem": "ia"
+      }
+    },
+    "10:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 10,8-13 é a segunda leitura do 1º Domingo da Quaresma, Ano C.",
+        "origem": "ia"
+      }
+    },
+    "10:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fides ex auditu: a fé nasce da escuta da Palavra anunciada pela Igreja.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

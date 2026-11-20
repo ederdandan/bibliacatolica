@@ -1,0 +1,434 @@
+{
+ "livro": "ROM",
+ "secoes": [
+  "Saudação e tema da carta",
+  "Todos pecaram",
+  "A justificação pela fé",
+  "A vida nova em Cristo",
+  "Israel no desígnio de Deus",
+  "A vida cristã",
+  "Conclusão"
+ ],
+ "pericopes": [
+  {
+   "id": "ROM.1.1",
+   "titulo": "Paulo, servo de Jesus Cristo, chamado ao apostolado",
+   "secao": "Saudação e tema da carta",
+   "referencia": "Rm 1,1-7",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 7
+   }
+  },
+  {
+   "id": "ROM.1.8",
+   "titulo": "Não me envergonho do Evangelho",
+   "secao": "Saudação e tema da carta",
+   "referencia": "Rm 1,8-17",
+   "ini": {
+    "c": 1,
+    "v": 8
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "ROM.1.18",
+   "titulo": "A ira de Deus contra a impiedade dos homens",
+   "secao": "Todos pecaram",
+   "referencia": "Rm 1,18-32",
+   "ini": {
+    "c": 1,
+    "v": 18
+   },
+   "fim": {
+    "c": 1,
+    "v": 32
+   }
+  },
+  {
+   "id": "ROM.2.1",
+   "titulo": "O justo juízo de Deus",
+   "secao": "Todos pecaram",
+   "referencia": "Rm 2,1-16",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 16
+   }
+  },
+  {
+   "id": "ROM.2.17",
+   "titulo": "A verdadeira circuncisão é a do coração",
+   "secao": "Todos pecaram",
+   "referencia": "Rm 2,17-29",
+   "ini": {
+    "c": 2,
+    "v": 17
+   },
+   "fim": {
+    "c": 2,
+    "v": 29
+   }
+  },
+  {
+   "id": "ROM.3.1",
+   "titulo": "Não há nenhum justo",
+   "secao": "Todos pecaram",
+   "referencia": "Rm 3,1-20",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 20
+   }
+  },
+  {
+   "id": "ROM.3.21",
+   "titulo": "Justificados gratuitamente pela sua graça",
+   "secao": "A justificação pela fé",
+   "referencia": "Rm 3,21-31",
+   "ini": {
+    "c": 3,
+    "v": 21
+   },
+   "fim": {
+    "c": 3,
+    "v": 31
+   }
+  },
+  {
+   "id": "ROM.4.1",
+   "titulo": "Abraão, pai de todos os crentes",
+   "secao": "A justificação pela fé",
+   "referencia": "Rm 4,1-25",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 25
+   }
+  },
+  {
+   "id": "ROM.5.1",
+   "titulo": "Justificados pela fé, temos paz com Deus",
+   "secao": "A justificação pela fé",
+   "referencia": "Rm 5,1-11",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 11
+   }
+  },
+  {
+   "id": "ROM.5.12",
+   "titulo": "Adão e Cristo: onde abundou o pecado, superabundou a graça",
+   "secao": "A justificação pela fé",
+   "referencia": "Rm 5,12-21",
+   "ini": {
+    "c": 5,
+    "v": 12
+   },
+   "fim": {
+    "c": 5,
+    "v": 21
+   }
+  },
+  {
+   "id": "ROM.6.1",
+   "titulo": "Sepultados com Cristo pelo baptismo",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 6,1-14",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 14
+   }
+  },
+  {
+   "id": "ROM.6.15",
+   "titulo": "Servos da justiça para a santificação",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 6,15-23",
+   "ini": {
+    "c": 6,
+    "v": 15
+   },
+   "fim": {
+    "c": 6,
+    "v": 23
+   }
+  },
+  {
+   "id": "ROM.7.1",
+   "titulo": "Mortos para a lei pelo corpo de Cristo",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 7,1-6",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 6
+   }
+  },
+  {
+   "id": "ROM.7.7",
+   "titulo": "Infeliz de mim! Quem me livrará deste corpo de morte?",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 7,7-25",
+   "ini": {
+    "c": 7,
+    "v": 7
+   },
+   "fim": {
+    "c": 7,
+    "v": 25
+   }
+  },
+  {
+   "id": "ROM.8.1",
+   "titulo": "A vida segundo o Espírito; filhos e herdeiros",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 8,1-17",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 17
+   }
+  },
+  {
+   "id": "ROM.8.18",
+   "titulo": "A criação geme à espera da glória",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 8,18-30",
+   "ini": {
+    "c": 8,
+    "v": 18
+   },
+   "fim": {
+    "c": 8,
+    "v": 30
+   }
+  },
+  {
+   "id": "ROM.8.31",
+   "titulo": "Quem nos separará do amor de Cristo?",
+   "secao": "A vida nova em Cristo",
+   "referencia": "Rm 8,31-39",
+   "ini": {
+    "c": 8,
+    "v": 31
+   },
+   "fim": {
+    "c": 8,
+    "v": 39
+   }
+  },
+  {
+   "id": "ROM.9.1",
+   "titulo": "A tristeza de Paulo e a liberdade da escolha divina",
+   "secao": "Israel no desígnio de Deus",
+   "referencia": "Rm 9,1-18",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 18
+   }
+  },
+  {
+   "id": "ROM.9.19",
+   "titulo": "O oleiro e o barro",
+   "secao": "Israel no desígnio de Deus",
+   "referencia": "Rm 9,19-33",
+   "ini": {
+    "c": 9,
+    "v": 19
+   },
+   "fim": {
+    "c": 9,
+    "v": 33
+   }
+  },
+  {
+   "id": "ROM.10.1",
+   "titulo": "Se confessares com a tua boca o Senhor Jesus",
+   "secao": "Israel no desígnio de Deus",
+   "referencia": "Rm 10,1-21",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 21
+   }
+  },
+  {
+   "id": "ROM.11.1",
+   "titulo": "A oliveira e os ramos enxertados",
+   "secao": "Israel no desígnio de Deus",
+   "referencia": "Rm 11,1-24",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 24
+   }
+  },
+  {
+   "id": "ROM.11.25",
+   "titulo": "Todo o Israel se salvará; ó profundidade das riquezas!",
+   "secao": "Israel no desígnio de Deus",
+   "referencia": "Rm 11,25-36",
+   "ini": {
+    "c": 11,
+    "v": 25
+   },
+   "fim": {
+    "c": 11,
+    "v": 36
+   }
+  },
+  {
+   "id": "ROM.12.1",
+   "titulo": "Hóstia viva; um só corpo em Cristo",
+   "secao": "A vida cristã",
+   "referencia": "Rm 12,1-8",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 8
+   }
+  },
+  {
+   "id": "ROM.12.9",
+   "titulo": "O amor seja sem fingimento",
+   "secao": "A vida cristã",
+   "referencia": "Rm 12,9-21",
+   "ini": {
+    "c": 12,
+    "v": 9
+   },
+   "fim": {
+    "c": 12,
+    "v": 21
+   }
+  },
+  {
+   "id": "ROM.13.1",
+   "titulo": "Sujeição às autoridades",
+   "secao": "A vida cristã",
+   "referencia": "Rm 13,1-7",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 7
+   }
+  },
+  {
+   "id": "ROM.13.8",
+   "titulo": "O amor é o complemento da lei; revesti-vos de Cristo",
+   "secao": "A vida cristã",
+   "referencia": "Rm 13,8-14",
+   "ini": {
+    "c": 13,
+    "v": 8
+   },
+   "fim": {
+    "c": 13,
+    "v": 14
+   }
+  },
+  {
+   "id": "ROM.14.1",
+   "titulo": "Ninguém vive para si mesmo",
+   "secao": "A vida cristã",
+   "referencia": "Rm 14,1-23",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 23
+   }
+  },
+  {
+   "id": "ROM.15.1",
+   "titulo": "Acolhei-vos uns aos outros",
+   "secao": "A vida cristã",
+   "referencia": "Rm 15,1-13",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 13
+   }
+  },
+  {
+   "id": "ROM.15.14",
+   "titulo": "O ministério de Paulo entre os gentios",
+   "secao": "Conclusão",
+   "referencia": "Rm 15,14-33",
+   "ini": {
+    "c": 15,
+    "v": 14
+   },
+   "fim": {
+    "c": 15,
+    "v": 33
+   }
+  },
+  {
+   "id": "ROM.16.1",
+   "titulo": "Saudações e doxologia final",
+   "secao": "Conclusão",
+   "referencia": "Rm 16,1-27",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 27
+   }
+  }
+ ]
+}

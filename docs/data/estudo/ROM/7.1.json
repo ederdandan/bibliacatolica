@@ -1,0 +1,49 @@
+{
+  "id": "ROM.7.1",
+  "livro": "ROM",
+  "titulo": "Mortos para a lei pelo corpo de Cristo",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 7,1-6",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Pertencer a Cristo ressuscitado e dar fruto para Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo dirige-se a quem conhece a lei: ela só tem domínio sobre o homem enquanto ele vive. A mulher casada está ligada ao marido enquanto este vive; morto o marido, fica livre e pode unir-se a outro sem ser adúltera. Assim os cristãos morreram para a lei pelo corpo de Cristo, para pertencer a outro, Àquele que ressuscitou dos mortos, e dar fruto para Deus. Enquanto viviam na carne, as paixões pecaminosas, excitadas pela lei, produziam frutos de morte. Agora estão livres da lei, mortos para aquilo que os mantinha cativos, para servirem segundo o espírito novo e não segundo a letra antiga.",
+    "alegorico": "A imagem nupcial é transparente: a alma, antes ligada à lei, é agora esposa de Cristo ressuscitado, e o fruto dessa união são as obras feitas para Deus. A Igreja é a esposa, e a sua fecundidade é espiritual.",
+    "moral": "A vida cristã não é apenas observância de normas exteriores, mas pertença a uma Pessoa. O serviço “segundo o espírito novo” nasce do amor, não do medo. Quem se sabe desposado por Cristo produz frutos não por obrigação, mas por união.",
+    "anagogico": "A união com Cristo ressuscitado prepara as núpcias eternas do Cordeiro. A fecundidade de agora é penhor da plenitude daquela comunhão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Também vós estais mortos à lei pelo corpo de Cristo, para que sejais de outro, daquele que ressuscitou dos mortos, a fim de que demos frutos para Deus. Agora estamos livres da lei, a fim de que sirvamos a Deus segundo o novo espírito e não segundo a antiga letra.",
+    "meditatio_perguntas": [
+      "A minha fé é cumprimento de regras ou pertença a Cristo?",
+      "Que frutos para Deus nascem da minha união com Ele?",
+      "Sirvo segundo o espírito novo ou ainda segundo a letra?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, a quem pertenço, une-me a ti de tal modo que a minha vida dê frutos para Deus. Livra-me do serviço da letra e faz-me servir na novidade do Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que sejais de outro, daquele que ressuscitou dos mortos, a fim de que demos frutos para Deus",
+      "ref": "Rm 7,4"
+    }
+  },
+  "ancoras": {
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Espírito” e “letra”: a lei exterior, escrita em pedra, e a lei nova, que é a graça do Espírito Santo dada interiormente (cf. 2Cor 3,6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

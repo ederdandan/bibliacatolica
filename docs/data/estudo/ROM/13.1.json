@@ -1,0 +1,49 @@
+{
+  "id": "ROM.13.1",
+  "livro": "ROM",
+  "titulo": "Sujeição às autoridades",
+  "secao": "A vida cristã",
+  "referencia": "Rm 13,1-7",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "A autoridade é ministra de Deus para o bem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Toda a pessoa esteja sujeita às autoridades superiores, pois não há autoridade que não venha de Deus, e as existentes foram por Ele instituídas. Quem resiste à autoridade resiste à ordenação de Deus. Os governantes não são para temer pelas boas ações, mas pelas más: quem faz o bem recebe o seu louvor. A autoridade é ministra de Deus para o bem; não é em vão que traz a espada, para punir quem faz o mal. Por isso é preciso submeter-se, não só por temor do castigo, mas por motivo de consciência. É também por isso que se pagam os tributos. Dai a cada um o que lhe é devido: imposto, taxa, respeito, honra.",
+    "alegorico": "A ordem política é vista como participação na ordem de Deus, que governa o mundo pela sua providência. Cristo, Rei do universo, é a fonte última de toda autoridade legítima, e diante dele todo poder humano responderá.",
+    "moral": "O cristão é cidadão responsável: cumpre deveres, paga impostos, respeita a autoridade “por consciência”. Mas a autoridade é ministra “para o bem”; quando manda o mal, vale o princípio apostólico: importa obedecer antes a Deus que aos homens (At 5,29). Obediência não é servilismo.",
+    "anagogico": "Toda autoridade terrena é provisória e responde a Deus. No reino definitivo, Cristo será tudo em todos, e a justiça que os governantes deviam servir será plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Toda a alma esteja sujeita às autoridades superiores, porque não há autoridade que não venha de Deus. O príncipe é ministro de Deus para teu bem. É necessário que lhe estejais sujeitos, não sòmente pelo temor da ira, mas também por motivo de consciência. Pagai a todos o que lhes é devido: a quem o imposto, o imposto; a quem a honra, a honra.",
+    "meditatio_perguntas": [
+      "Cumpro os meus deveres de cidadão como parte da minha fé?",
+      "Rezo pelos que governam?",
+      "Sei discernir quando a obediência a Deus deve vir antes da obediência aos homens?"
+    ],
+    "oratio_guia": "Senhor, de quem procede toda autoridade, ilumina os que governam para que sirvam o bem comum. Dá-me ser cidadão justo e fiel, que dá a cada um o que lhe é devido e a ti o primeiro lugar. Amém.",
+    "contemplatio_foco": {
+      "texto": "é ministro de Deus para teu bem",
+      "ref": "Rm 13,4"
+    }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo escreve sob Nero, antes das perseguições; a doutrina não legitima a tirania, mas afirma a origem divina da ordem política. Cf. Mt 22,21 e 1Pd 2,13-17.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ROM.8.1",
+  "livro": "ROM",
+  "titulo": "A vida segundo o Espírito; filhos e herdeiros",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 8,1-17",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O Espírito de adoção: Abba, Pai",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Não há nenhuma condenação para os que estão em Cristo Jesus: a lei do Espírito da vida libertou-os da lei do pecado e da morte. O que a lei, enfraquecida pela carne, não podia, Deus fê-lo enviando o seu Filho numa carne semelhante à do pecado, para que a justiça da lei se cumpra em nós, que andamos segundo o Espírito. A aspiração da carne é morte; a do Espírito, vida e paz. Se o Espírito de Deus habita em vós, pertenceis a Cristo, e Aquele que ressuscitou Jesus dará vida também aos vossos corpos mortais. Se, pelo Espírito, fizerdes morrer as obras da carne, vivereis. Os que são conduzidos pelo Espírito são filhos de Deus: não receberam espírito de escravidão, mas de adoção, pelo qual clamamos “Abba, Pai”. Filhos, herdeiros de Deus e co-herdeiros de Cristo, se sofremos com Ele para com Ele sermos glorificados.",
+    "alegorico": "O Espírito que habita no cristão é o mesmo que ressuscitou Jesus: a Igreja é templo onde o Pai, por meio do Filho, faz morar o seu Espírito. O clamor “Abba” é a própria oração de Jesus no Getsêmani, agora posta nos lábios dos filhos adotivos.",
+    "moral": "Viver “segundo o Espírito” implica combate: “fazer morrer as obras da carne”. Mas a motivação não é o medo do escravo, e sim a confiança do filho. A oração cristã nasce desta consciência filial: chamar a Deus “Pai” é já obra do Espírito em nós.",
+    "anagogico": "Filhos, logo herdeiros: a herança é a glória de Cristo. O Espírito que hoje dá testemunho da nossa filiação é o mesmo que vivificará os nossos corpos mortais na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não há nenhuma condenação para os que estão em Jesus Cristo. Se o Espírito daquele que ressuscitou a Jesus dos mortos habita em vós, também dará vida aos vossos corpos mortais. Todos aqueles que são conduzidos pelo Espírito de Deus são filhos de Deus. Recebestes o espírito de adopção, mercê do qual clamamos: Abba, Pai. Se somos filhos, também somos herdeiros: herdeiros de Deus e co-herdeiros de Cristo.",
+    "meditatio_perguntas": [
+      "Deixo-me conduzir pelo Espírito, ou pelos apetites da carne?",
+      "Rezo a Deus como filho que diz “Abba”, ou como escravo com medo?",
+      "Que “obras da carne” preciso fazer morrer, com a ajuda do Espírito?"
+    ],
+    "oratio_guia": "Abba, Pai, envia sobre mim o Espírito de adoção, para que eu viva como teu filho e não como escravo. Que Ele conduza os meus passos, faça morrer em mim as obras da carne e me prepare para a herança com Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "recebestes o espírito de adopção, mercê do qual clamamos: Abba, Pai",
+      "ref": "Rm 8,15"
+    }
+  },
+  "ancoras": {
+    "8:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Abba”, palavra aramaica de intimidade filial, usada por Jesus (Mc 14,36) e conservada na oração das primeiras comunidades (cf. Gl 4,6).",
+        "origem": "ia"
+      }
+    },
+    "8:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 8,14-17 é a segunda leitura da Santíssima Trindade, Ano B; Rm 8,8-11, do 5º Domingo da Quaresma, Ano A; Rm 8,9.11-13, do 14º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

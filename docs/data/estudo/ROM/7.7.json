@@ -1,0 +1,57 @@
+{
+  "id": "ROM.7.7",
+  "livro": "ROM",
+  "titulo": "Infeliz de mim! Quem me livrará deste corpo de morte?",
+  "secao": "A vida nova em Cristo",
+  "referencia": "Rm 7,7-25",
+  "ini": {
+    "c": 7,
+    "v": 7
+  },
+  "fim": {
+    "c": 7,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O combate interior e a graça de Cristo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Será a lei pecado? De modo nenhum; mas foi pela lei que conheci o pecado: não conheceria a cobiça se a lei não dissesse “não cobiçarás”. O pecado, aproveitando o mandamento, despertou toda a cobiça; o mandamento, dado para a vida, tornou-se ocasião de morte. A lei é santa, e o mandamento santo, justo e bom; o culpado é o pecado. A lei é espiritual, mas eu sou carnal. Não faço o bem que quero, mas o mal que não quero; já não sou eu que o faço, mas o pecado que habita em mim. Comprazo-me na lei de Deus segundo o homem interior, mas vejo nos meus membros outra lei que me faz cativo. Infeliz de mim! Quem me livrará deste corpo de morte? Graças a Deus, por Jesus Cristo Nosso Senhor.",
+    "alegorico": "O “eu” de Paulo dá voz à humanidade de Adão, dividida desde a queda, e também a Israel diante da lei. O grito “quem me livrará?” encontra resposta só em Cristo, que vem libertar o homem dividido e reunificá-lo em si.",
+    "moral": "Todos conhecemos esta divisão: querer o bem e não o realizar. Paulo não a esconde nem a justifica, mas leva-a a Deus. A lucidez sobre a própria fraqueza não deve levar ao desespero, mas à ação de graças por Aquele que liberta. O combate espiritual é normal na vida cristã.",
+    "anagogico": "O “corpo de morte” será um dia transformado. Enquanto peregrinamos, a concupiscência permanece como campo de luta; na glória, o homem será inteiramente unificado, sem lei nos membros contrária à lei de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A lei é santa, e o mandamento é santo, justo e bom. Não faço o bem que quero, mas faço o mal que não quero. Deleito-me na lei de Deus, segundo o homem interior, mas vejo nos meus membros uma outra lei, que se opõe à lei do meu espírito. Infeliz de mim! Quem me livrará deste corpo de morte? Sejam dadas graças a Deus, por Jesus Cristo Nosso Senhor.",
+    "meditatio_perguntas": [
+      "Onde experimento em mim a divisão entre o bem que quero e o mal que faço?",
+      "Levo essa fraqueza a Deus ou escondo-a?",
+      "O meu grito “quem me livrará?” termina em ação de graças?"
+    ],
+    "oratio_guia": "Senhor Jesus, conheces a minha fraqueza: quero o bem e não o faço. Livra-me deste corpo de morte, unifica o meu coração e faz que eu te dê graças pela tua vitória em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Infeliz de mim! Quem me livrará deste corpo de morte",
+      "ref": "Rm 7,24"
+    }
+  },
+  "ancoras": {
+    "7:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Concílio de Trento chama “pecado” a esta concupiscência apenas porque vem do pecado e a ele inclina; nos batizados não é pecado em sentido próprio.",
+        "origem": "ia"
+      }
+    },
+    "7:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres discutiram se o “eu” é Paulo antes da conversão ou o cristão em luta; Santo Agostinho acabou por aplicá-lo também ao justo, que ainda combate a concupiscência.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

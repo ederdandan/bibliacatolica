@@ -1,0 +1,57 @@
+{
+  "id": "ROM.9.19",
+  "livro": "ROM",
+  "titulo": "O oleiro e o barro",
+  "secao": "Israel no desígnio de Deus",
+  "referencia": "Rm 9,19-33",
+  "ini": {
+    "c": 9,
+    "v": 19
+  },
+  "fim": {
+    "c": 9,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Vasos de misericórdia chamados de judeus e gentios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alguém objetará: de que se queixa Deus, se ninguém resiste à sua vontade? Paulo responde: ó homem, quem és tu para replicar a Deus? Pode o vaso dizer ao oleiro “por que me fizeste assim”? O oleiro é senhor do barro. E se Deus suportou com muita paciência os vasos de ira, preparados para a perdição, a fim de mostrar as riquezas da sua glória nos vasos de misericórdia, que preparou para a glória? Esses somos nós, chamados não só dentre os judeus, mas também dentre os gentios, como diz Oseias: “chamarei meu povo ao que não era meu povo”. Isaías anuncia que só um resto de Israel será salvo. Os gentios, que não buscavam a justiça, alcançaram a justiça da fé; Israel, que buscava uma lei de justiça, tropeçou na pedra de tropeço, mas quem nela crer não será confundido.",
+    "alegorico": "A pedra de tropeço e de escândalo é Cristo, que para uns é queda e para outros fundamento. O povo “não meu” que se torna “meu povo” é a Igreja dos gentios, enxertada na promessa feita a Israel.",
+    "moral": "A imagem do oleiro convida à humildade diante do mistério de Deus, mas Paulo sublinha a paciência divina: Deus “suportou com muita paciência”. Os vasos de ira são preparados “por sua culpa”, como nota Matos Soares: Deus não cria ninguém para a perdição. A fé simples encontra o que a autossuficiência religiosa perde.",
+    "anagogico": "Deus prepara vasos de misericórdia “para a glória”. A história da eleição caminha para uma glória que se manifestará quando o desígnio do oleiro estiver completo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó homem, quem és tu, para replicares a Deus? Porventura não é o oleiro senhor do barro? Deus suportou com muita paciência os vasos de ira, a fim de mostrar as riquezas da sua glória sobre os vasos de misericórdia, que preparou para a glória: nós, a quem ele também chamou, não só dos Judeus, mas ainda dos gentios. Todo aquele que crê nele não será confundido.",
+    "meditatio_perguntas": [
+      "Aceito ser barro nas mãos de Deus, ou discuto com o oleiro?",
+      "Reconheço-me “vaso de misericórdia”, chamado sem mérito?",
+      "Cristo é para mim pedra de fundamento ou de tropeço?"
+    ],
+    "oratio_guia": "Deus, oleiro paciente, molda-me segundo o teu desígnio. Que eu seja vaso de misericórdia, preparado para a glória, e que nunca tropece em Cristo, mas sobre Ele edifique a minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "todo aquele que crê nele, não será confundido",
+      "ref": "Rm 9,33"
+    }
+  },
+  "ancoras": {
+    "9:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem tomada de Jr 18,1-6 e Is 29,16; 45,9. Fala do papel de povos na história da salvação, não de predestinação individual à condenação.",
+        "origem": "ia"
+      }
+    },
+    "9:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fusão de Is 8,14 e Is 28,16, aplicada a Cristo também em 1Pd 2,6-8.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

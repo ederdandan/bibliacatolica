@@ -1,0 +1,57 @@
+{
+  "id": "ROM.14.1",
+  "livro": "ROM",
+  "titulo": "Ninguém vive para si mesmo",
+  "secao": "A vida cristã",
+  "referencia": "Rm 14,1-23",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Quer vivamos, quer morramos, somos do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo trata dos conflitos entre “fortes” e “fracos” na fé, sobre alimentos e dias. Acolhei o fraco sem discutir opiniões. Quem come de tudo não despreze quem só come legumes; quem não come não julgue quem come, pois Deus acolheu a ambos. Quem és tu para julgar o servo alheio? Cada um aja segundo a sua convicção, para o Senhor. Ninguém vive para si nem morre para si: se vivemos, vivemos para o Senhor; se morremos, morremos para o Senhor; vivos ou mortos, somos do Senhor. Para isso Cristo morreu e ressuscitou. Todos compareceremos diante do tribunal de Deus. Não ponhamos tropeço ao irmão; nada é impuro em si, mas não destruas, por um alimento, aquele por quem Cristo morreu. O reino de Deus não é comida nem bebida, mas justiça, paz e gozo no Espírito Santo. Busquemos o que contribui para a paz e a edificação mútua.",
+    "alegorico": "O irmão fraco é aquele “por quem Cristo morreu”: no rosto do outro está o preço do sangue do Senhor. A Igreja, com as suas diversidades, é uma só casa onde o único Senhor acolhe a todos.",
+    "moral": "Nas questões discutíveis, a caridade vale mais do que ter razão. A liberdade do “forte” limita-se pelo bem do irmão. E o critério supremo é a pertença ao Senhor: vivo para Ele. A pergunta não é só “é permitido?”, mas “edifica o meu irmão?”.",
+    "anagogico": "“Somos do Senhor” na vida e na morte: a morte não rompe essa pertença. Cristo, Senhor dos mortos e dos vivos, reinará sobre todos, e todos lhe daremos contas diante do seu tribunal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nenhum de nós vive para si mesmo e nenhum de nós morre para si mesmo. Se vivemos, vivemos para o Senhor; se morremos, morremos para o Senhor. Logo, ou vivamos ou morramos, somos do Senhor. Não percas, por causa do teu alimento, aquele por quem Cristo morreu. O reino de Deus não é comida nem bebida, mas justiça, paz e gozo no Espírito Santo.",
+    "meditatio_perguntas": [
+      "Para quem vivo, de facto?",
+      "Em que questões secundárias julgo ou desprezo os irmãos?",
+      "A minha liberdade já foi tropeço para alguém mais frágil?"
+    ],
+    "oratio_guia": "Senhor Jesus, Senhor dos vivos e dos mortos, quero viver e morrer para ti. Dá-me acolher o irmão fraco sem o julgar e procurar sempre a paz e a edificação, porque o teu reino é justiça, paz e alegria no Espírito Santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "ou vivamos ou morramos, somos do Senhor",
+      "ref": "Rm 14,8"
+    }
+  },
+  "ancoras": {
+    "14:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 14,7-9 é a segunda leitura do 24º Domingo do Tempo Comum, Ano A; também se usa nas Missas de defuntos.",
+        "origem": "ia"
+      }
+    },
+    "14:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Convicção” traduz pístis: aqui, a consciência segura de que se age bem. Agir contra a própria consciência é pecado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

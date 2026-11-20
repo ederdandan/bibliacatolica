@@ -1,0 +1,57 @@
+{
+  "id": "ROM.11.25",
+  "livro": "ROM",
+  "titulo": "Todo o Israel se salvará; ó profundidade das riquezas!",
+  "secao": "Israel no desígnio de Deus",
+  "referencia": "Rm 11,25-36",
+  "ini": {
+    "c": 11,
+    "v": 25
+  },
+  "fim": {
+    "c": 11,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Os dons e a vocação de Deus são sem arrependimento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo revela um mistério, para que os gentios não se julguem sábios: o endurecimento de uma parte de Israel durará até que entre a plenitude das nações, e assim todo o Israel será salvo, como está escrito: de Sião virá o libertador e afastará de Jacob a impiedade. Quanto ao Evangelho, são inimigos por causa dos gentios; quanto à eleição, são amados por causa dos pais, porque os dons e a vocação de Deus são irrevogáveis. Como os gentios, outrora desobedientes, alcançaram misericórdia, assim também Israel a alcançará: Deus encerrou todos na desobediência para usar com todos de misericórdia. E Paulo prorrompe num hino: ó profundidade das riquezas, da sabedoria e da ciência de Deus! Quem conheceu o pensamento do Senhor? Dele, por Ele e para Ele são todas as coisas. A Ele a glória pelos séculos.",
+    "alegorico": "O “mistério” desenha a história como obra de misericórdia: a infidelidade de uns abre a porta aos outros, e todos regressam pela mesma porta da graça. O libertador que vem de Sião é Cristo, que reunirá judeus e gentios num só povo.",
+    "moral": "A doxologia final ensina a atitude certa diante dos mistérios que não compreendemos: adoração, não arrogância. A fidelidade de Deus às suas promessas a Israel dá-nos confiança na fidelidade dele connosco. Ninguém está fora do alcance da misericórdia.",
+    "anagogico": "“Dele, por ele e para ele são todas as coisas”: tudo vem de Deus e tudo volta a Ele. O fim da história é a glória de Deus, quando a misericórdia tiver alcançado a todos os que a acolhem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Uma parte de Israel caiu na cegueira até que tenha entrado a plenitude dos gentios, e assim todo o Israel se salvará. Os dons e a vocação de Deus são sem arrependimento. Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia. Ó profundidade das riquezas da sabedoria e da ciência de Deus! Quão incompreensíveis são os seus juízos! Dele, por ele e para ele são todas as coisas.",
+    "meditatio_perguntas": [
+      "Diante do que não entendo dos caminhos de Deus, reajo com revolta ou com adoração?",
+      "Creio que os dons de Deus para mim são irrevogáveis?",
+      "Vejo a minha própria desobediência como lugar onde a misericórdia me alcançou?"
+    ],
+    "oratio_guia": "Ó profundidade das riquezas da tua sabedoria, Senhor! Os teus juízos são incompreensíveis, e eu adoro-te. Tudo vem de ti, tudo é por ti e para ti: a ti a glória pelos séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "dele, por ele e para ele são todas as coisas",
+      "ref": "Rm 11,36"
+    }
+  },
+  "ancoras": {
+    "11:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto citado pelo Concílio Vaticano II (Nostra Aetate 4) sobre a permanência da aliança de Deus com o povo judeu.",
+        "origem": "ia"
+      }
+    },
+    "11:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rm 11,33-36 é a segunda leitura do 21º Domingo do Tempo Comum, Ano A; também se lê na solenidade da Santíssima Trindade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

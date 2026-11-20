@@ -1,0 +1,57 @@
+{
+  "id": "ROM.15.14",
+  "livro": "ROM",
+  "titulo": "O ministério de Paulo entre os gentios",
+  "secao": "Conclusão",
+  "referencia": "Rm 15,14-33",
+  "ini": {
+    "c": 15,
+    "v": 14
+  },
+  "fim": {
+    "c": 15,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Ministro de Cristo Jesus entre os gentios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Paulo reconhece a bondade e o conhecimento dos romanos, mas escreveu-lhes com certa ousadia, para lhes avivar a memória, por causa da graça recebida: ser ministro de Cristo Jesus entre os gentios, exercendo o serviço sagrado do Evangelho, para que a oblação dos gentios seja aceite, santificada pelo Espírito Santo. Gloria-se em Cristo só daquilo que Cristo fez por meio dele, pela palavra, pelas obras e pelo poder do Espírito: de Jerusalém até à Ilíria anunciou o Evangelho, sem edificar sobre fundamento alheio. Agora projeta ir a Espanha, passando por Roma, mas antes deve levar a Jerusalém a coleta da Macedónia e da Acaia para os pobres: os gentios, participantes dos bens espirituais, devem ajudar com os materiais. Pede orações para ser livre dos incrédulos da Judeia e para que a sua oferta seja bem recebida.",
+    "alegorico": "Paulo descreve a missão em linguagem sacerdotal: é liturgo do Evangelho, e os povos convertidos são a oferenda que ele apresenta a Deus, santificada pelo Espírito. A coleta dos gentios para Jerusalém é sinal da unidade da Igreja.",
+    "moral": "O apóstolo não se gloria de si, mas do que Cristo realiza por ele. Planeja, mas submete os planos à vontade de Deus. E pede orações: até o maior missionário precisa do apoio orante da comunidade. A partilha material entre Igrejas é também comunhão espiritual.",
+    "anagogico": "A oferta dos gentios santificada pelo Espírito antecipa a reunião final de todos os povos diante de Deus. Paulo caminha sempre “mais além”, figura da Igreja peregrina até aos confins."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Por causa da graça que me foi dada por Deus, sou ministro de Jesus Cristo entre os gentios, exercendo o serviço sagrado do Evangelho de Deus, para que seja aceite a oblação dos gentios, santificados pelo Espírito Santo. Eu não ousaria falar de coisas que Cristo não tivesse operado por mim. Rogo-vos, irmãos, que me ajudeis nas minhas lutas com as vossas orações por mim a Deus.",
+    "meditatio_perguntas": [
+      "Vejo o meu serviço como “oferta” apresentada a Deus?",
+      "Gloro-me do que Cristo faz por mim, ou do que eu faço?",
+      "Rezo pelos missionários e pelos que anunciam o Evangelho?"
+    ],
+    "oratio_guia": "Senhor, que fizeste de Paulo ministro do Evangelho entre as nações, faz da minha vida uma oferta santificada pelo Espírito. Sustenta com as nossas orações os que anunciam a tua Palavra até aos confins da terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "me ajudeis nas minhas lutas com as vossas orações por mim a Deus",
+      "ref": "Rm 15,30"
+    }
+  },
+  "ancoras": {
+    "15:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Vocabulário cultual: “ministro” (leitourgós), “exercer o serviço sagrado” (hierourgéo), “oblação” (prosphorá).",
+        "origem": "ia"
+      }
+    },
+    "15:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não há certeza de que Paulo tenha chegado a Espanha; Clemente Romano fala de ter ido “até aos confins do Ocidente”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
