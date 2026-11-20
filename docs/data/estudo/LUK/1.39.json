@@ -1,0 +1,134 @@
+{
+  "id": "LUK.1.39",
+  "livro": "LUK",
+  "titulo": "A Visitação e o Magnificat",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 1,39-56",
+  "ini": { "c": 1, "v": 39 },
+  "fim": { "c": 1, "v": 56 },
+  "liturgia": { "tema_central": "“A minha alma glorifica o Senhor”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Maria parte com pressa para as montanhas de Judá (cerca de 130 km de Nazaré; a tradição situa a casa de Zacarias em Ain Karim, perto de Jerusalém). Ao ouvir a sua saudação, o menino salta no seio de Isabel, que, cheia do Espírito Santo, exclama: “Bendita és tu entre todas as mulheres, e bendito é o fruto do teu ventre. Donde a mim esta dita, que a mãe do meu Senhor venha ter comigo?” e proclama bem-aventurada a que acreditou. Maria responde com o Magnificat, cântico tecido de palavras do Antigo Testamento (sobretudo o cântico de Ana, 1Sm 2,1-10): engrandece a Deus que olhou para a pequenez da sua serva, dispersa os soberbos, derruba os poderosos, exalta os humildes, sacia os famintos e cumpre as promessas feitas a Abraão. Maria fica cerca de três meses com Isabel.",
+    "alegorico": "Maria, que leva Cristo no seio, é a Arca da Nova Aliança: como Davi dançou diante da Arca (2Sm 6), João exulta diante do Senhor oculto em Maria. A palavra de Isabel repete a do anjo, para mostrar que Maria deve ser venerada por anjos e homens. O Magnificat é o cântico da Igreja, que vê em Maria o modelo da alma que acolhe a Deus.",
+    "moral": "A caridade é pronta: a graça do Espírito Santo não conhece demoras. Maria, elevada à dignidade de Mãe de Deus, vai servir a parenta idosa. Assim como a morte entrou no mundo pela soberba dos primeiros pais, pela humildade de Maria se abriu a entrada para a vida. Deus derruba os soberbos e exalta os humildes: a verdadeira grandeza está em deixar Deus agir.",
+    "anagogico": "“Todas as gerações me chamarão bem-aventurada”: a glória de Maria antecipa a dos que creem. A misericórdia de Deus estende-se de geração em geração, até a plenitude do Reino, cumprindo as promessas feitas a Abraão e à sua posteridade para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Naqueles dias, levantando-se Maria, foi com pressa às montanhas, a uma cidade de Judá. Entrou em casa de Zacarias, e saudou Isabel. Apenas Isabel ouviu a saudação de Maria, o menino saltou no seu ventre, e Isabel ficou cheia do Espírito Santo; e exclamou em alta voz: “Bendita és tu entre todas as mulheres, e bendito é o fruto do teu ventre. Donde a mim esta dita, que a mãe do meu Senhor venha ter comigo? Bem-aventurada a que acreditou”. Então Maria disse: “A minha alma glorifica o Senhor; e o meu espírito exulta em Deus meu Salvador, porque lançou os olhos para a baixeza da sua serva. Porque o Todo-poderoso fez em mim grandes coisas, o seu nome é santo. Depôs do trono os poderosos, e elevou os humildes”.",
+    "meditatio_perguntas": [
+      "Levo Cristo aos outros com a prontidão e o serviço de Maria?",
+      "Que “grandes coisas” Deus fez em mim, pelas quais devo louvá-lo?",
+      "Deixo que Deus “olhe para a minha pequenez”, ou confio na minha grandeza?"
+    ],
+    "oratio_guia": "A minha alma glorifica o Senhor, e o meu espírito exulta em Deus meu Salvador. Maria, Mãe do meu Senhor, ensina-me a levar Jesus aos outros com pressa e alegria, e a cantar com humildade as grandes coisas que o Todo-poderoso faz. Amém.",
+    "contemplatio_foco": { "texto": "A minha alma glorifica o Senhor; e o meu espírito exulta em Deus meu Salvador.", "ref": "Lc 1,46-47" }
+  },
+  "ancoras": {
+    "1:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:39–45#1", "sintese": "Jesus, que estava no seu ventre, tinha pressa de santificar João, ainda no ventre de sua mãe." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:39–45#2", "sintese": "A graça do Espírito Santo não conhece demoras." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:39–45#4", "sintese": "Nem o pudor, nem as montanhas escarpadas, nem o cansaço a detiveram no cumprimento do seu dever." }
+      ],
+      "nota": null
+    },
+    "1:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:39–45#7", "sintese": "Logo se manifestam os benditos frutos da chegada de Maria e da presença do Senhor." }
+      ],
+      "nota": null
+    },
+    "1:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:39–45#11", "sintese": "É bendita por Isabel com as mesmas palavras de Gabriel: deve ser venerada por homens e anjos." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:39–45#15", "sintese": "Este é o fruto prometido a Davi: “do fruto do teu ventre porei sobre o teu trono”." }
+      ],
+      "nota": null
+    },
+    "1:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:39–45#18", "sintese": "Está em sintonia com o filho: também João se sentiu indigno de que o Senhor viesse a ele." }
+      ],
+      "nota": { "texto": "Isabel chama Maria “mãe do meu Senhor”: fundamento bíblico do título Theotókos, Mãe de Deus, definido no Concílio de Éfeso (431).", "origem": "ia" }
+    },
+    "1:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:39–45#21", "sintese": "Maria não duvidou, mas creu, e por isso alcançou o fruto da fé." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:39–45#23", "sintese": "Bem-aventurados também vós que crestes: toda alma que crê concebe e gera o Verbo de Deus." },
+        { "autor": "São Gregório Magno", "obra": "super Ezech. lib. i. Hom. i. 8.", "catena": "1:39–45#25", "sintese": "Isabel foi tocada pelo espírito de profecia quanto ao passado, ao presente e ao futuro." }
+      ],
+      "nota": null
+    },
+    "1:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:46#0", "sintese": "Assim como o mal entrou no mundo por uma mulher, também o bem foi introduzido por mulheres." },
+        { "autor": "Orígenes", "obra": null, "catena": "1:46#3", "sintese": "A alma, imagem da Imagem, engrandece o Senhor quando torna maior em si essa imagem pelas obras." }
+      ],
+      "nota": null
+    },
+    "1:47": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "ubi sup.", "catena": "1:47#0", "sintese": "As primícias do Espírito são a paz e a alegria; por isso o seu espírito exulta." },
+        { "autor": "Orígenes", "obra": null, "catena": "1:47#5", "sintese": "Primeiro a alma engrandece o Senhor, depois exulta: se antes não crermos, não poderemos exultar." }
+      ],
+      "nota": null
+    },
+    "1:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:48#6", "sintese": "Como pela soberba dos primeiros pais entrou a morte, pela humildade de Maria abriu-se a entrada para a vida." }
+      ],
+      "nota": null
+    },
+    "1:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "in Ps. 33.", "catena": "1:49#5", "sintese": "O nome de Deus é santo porque, sob qualquer aspecto que o consideremos, revela santidade." }
+      ],
+      "nota": null
+    },
+    "1:50": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:50#1", "sintese": "A misericórdia de Deus não se limita a uma geração, mas estende-se por toda a eternidade." }
+      ],
+      "nota": null
+    },
+    "1:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "1:52#1", "sintese": "Derrubou os espíritos malignos e os sábios soberbos, e exaltou os que se humilharam sob a mão de Deus." }
+      ],
+      "nota": null
+    },
+    "1:53": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Basílio", "obra": "ubi sup.", "catena": "1:53#1", "sintese": "Ensina a instabilidade dos bens mundanos, que duram pouco." }
+      ],
+      "nota": null
+    },
+    "1:55": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:54–55#4", "sintese": "A descendência de Abraão são os que seguem os passos da sua fé, não tanto os gerados segundo a carne." }
+      ],
+      "nota": null
+    },
+    "1:56": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:56#2", "sintese": "Ficou não só por amizade, mas para proveito de tão grande profeta, que progredia com a presença da Virgem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

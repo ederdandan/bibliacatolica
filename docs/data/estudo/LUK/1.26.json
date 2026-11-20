@@ -1,0 +1,122 @@
+{
+  "id": "LUK.1.26",
+  "livro": "LUK",
+  "titulo": "A Anunciação",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 1,26-38",
+  "ini": { "c": 1, "v": 26 },
+  "fim": { "c": 1, "v": 38 },
+  "liturgia": { "tema_central": "“Eis aqui a serva do Senhor, faça-se em mim a tua palavra”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No sexto mês da gravidez de Isabel, o anjo Gabriel é enviado a Nazaré, pequena aldeia da Galileia, a uma virgem desposada com José, da casa de Davi; o seu nome é Maria. Os esponsais judaicos já constituíam um vínculo jurídico de matrimônio, mas os esposos ainda não coabitavam. O anjo saúda-a: “Deus te salve, cheia de graça; o Senhor é contigo”. Maria perturba-se. O anjo anuncia que conceberá e dará à luz um filho, Jesus, que será chamado Filho do Altíssimo e reinará para sempre sobre o trono de Davi. Maria pergunta: “Como se fará isso, pois eu não conheço varão?” O Espírito Santo descerá sobre ela e a virtude do Altíssimo a cobrirá com a sua sombra; por isso o Santo que nascer será chamado Filho de Deus. Como sinal, Isabel concebeu na velhice, pois a Deus nada é impossível. Maria responde: “Eis aqui a serva do Senhor, faça-se em mim a tua palavra”.",
+    "alegorico": "Assim como a perdição começou quando o anjo caído falou a Eva, a restauração começa quando o anjo de Deus fala a uma virgem: Maria é a nova Eva, e o seu “sim” desfaz o “não” da primeira. A “sombra” do Altíssimo evoca a nuvem que cobria a Tenda da Aliança (Ex 40,34-35): Maria é a nova Arca, morada de Deus. Cristo nasce de uma virgem para significar que os seus membros nascerão, segundo o espírito, de uma Igreja virgem.",
+    "moral": "Maria acolhe o anúncio com pudor, reflexão e fé: não recusa crédito ao anjo, nem aceita levianamente; pergunta como, e depois entrega-se. Escolhida para ser Mãe, declara-se serva: a humildade é o caminho da graça. Também nós somos chamados a conceber Cristo pela fé e a dizer “faça-se” à vontade de Deus.",
+    "anagogico": "O reino do Filho de Maria “não terá fim”: a Encarnação abre o caminho da glória eterna. O Verbo que se faz carne no seio da Virgem eleva a natureza humana à comunhão com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foi enviado por Deus o anjo Gabriel a uma cidade da Galileia, chamada Nazaré, a uma virgem desposada com um varão, chamado José, da casa de David; o nome da virgem era Maria. Entrando o anjo onde ela estava, disse-lhe: “Deus te salve, cheia de graça; o Senhor é contigo”. Ela perturbou-se. O anjo disse-lhe: “Não temas, Maria, pois achaste graça diante de Deus; eis que conceberás no teu ventre, e darás à luz um filho, a quem porás o nome de Jesus”. Maria disse ao anjo: “Como se fará isso, pois eu não conheço varão?” O anjo respondeu-lhe: “O Espírito Santo descerá sobre ti, e a virtude do Altíssimo te cobrirá com a sua sombra; porque a Deus nada é impossível”. Então Maria disse: “Eis aqui a serva do Senhor, faça-se em mim a tua palavra”.",
+    "meditatio_perguntas": [
+      "Como acolho a palavra de Deus quando ela me perturba ou me supera?",
+      "Que “faça-se” Deus me pede hoje?",
+      "Acredito de verdade que a Deus nada é impossível?"
+    ],
+    "oratio_guia": "Deus te salve, Maria, cheia de graça, o Senhor é contigo. Ensina-me a escutar a Palavra como tu, a perguntar com humildade e a entregar-me com confiança. Que também em mim se faça segundo a palavra do Senhor. Amém.",
+    "contemplatio_foco": { "texto": "Eis aqui a serva do Senhor, faça-se em mim a tua palavra.", "ref": "Lc 1,38" }
+  },
+  "ancoras": {
+    "1:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. 34 in Evang.", "catena": "1:26–27#2", "sintese": "Não foi enviado um anjo qualquer, mas Gabriel, “fortaleza de Deus”, pois trazia a mais elevada de todas as notícias." },
+        { "autor": "São Beda, o Venerável", "obra": "Hom. in fest. Annunt.", "catena": "1:26–27#4", "sintese": "Começo apropriado da restauração: um anjo enviado a uma virgem, como a perdição começara pela serpente enviada a uma mulher." }
+      ],
+      "nota": null
+    },
+    "1:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de sancta Virg. cap. vi.", "catena": "1:26–27#5", "sintese": "A Cabeça devia nascer de uma virgem para significar que os membros nasceriam, segundo o espírito, de uma Igreja virgem." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:26–27#8", "sintese": "Desposada e virgem: o Senhor preferiu que alguns duvidassem da sua origem a que duvidassem da pureza de sua mãe." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:26–27#12", "sintese": "Maria significa “estrela do mar” e, em siríaco, “Senhora”: mereceu ser mãe do Senhor do mundo." }
+      ],
+      "nota": null
+    },
+    "1:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:28–29#0", "sintese": "Reconhece a virgem pelos costumes: sozinha no seu aposento, oculta aos homens, encontrada apenas por um anjo." },
+        { "autor": "São Gregório de Nissa", "obra": "Orat. in Diem Nat. Christi.", "catena": "1:28–29#1", "sintese": "À mulher fora dita a sentença das dores; à Virgem anuncia-se a alegria: “Ave”, isto é, “alegra-te”." }
+      ],
+      "nota": { "texto": "“Cheia de graça” traduz o grego kecharitōménē, “aquela que foi e permanece agraciada”. A Igreja vê aqui um fundamento do dogma da Imaculada Conceição (Pio IX, Ineffabilis Deus, 1854).", "origem": "ia" }
+    },
+    "1:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:28–29#8", "sintese": "Admirou-se da forma nova da bênção, nunca antes ouvida, reservada somente a Maria." }
+      ],
+      "nota": null
+    },
+    "1:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:30–33#1", "sintese": "Quem alcança graça aos olhos de Deus nada tem a temer." }
+      ],
+      "nota": null
+    },
+    "1:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:30–33#8", "sintese": "Jesus significa Salvador ou Salutar." }
+      ],
+      "nota": null
+    },
+    "1:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:30–33#12", "sintese": "Também de João se disse que seria grande, mas como de um grande homem; de Cristo, como do grande Deus." },
+        { "autor": "São Basílio", "obra": "Epist. 236. ad Amphil.", "catena": "1:30–33#18", "sintese": "Não se sentou no trono terreno de Davi: o seu trono é o reino indestrutível que estabeleceu." }
+      ],
+      "nota": null
+    },
+    "1:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:30–33#20", "sintese": "Pela casa de Jacó entende-se toda a Igreja, nascida da boa raiz ou enxertada na oliveira boa." }
+      ],
+      "nota": null
+    },
+    "1:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:34–35#0", "sintese": "Convinha não negar crédito ao anjo nem acolher com pressa demasiada: quão moderada é a sua resposta!" },
+        { "autor": "São Gregório de Nissa", "obra": "sup.", "catena": "1:34–35#3", "sintese": "Se fosse desposada em vista da união conjugal, por que se surpreenderia? A pergunta revela o propósito de virgindade que meditava no coração." }
+      ],
+      "nota": null
+    },
+    "1:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "18 Moral. c. 20. super Jó 27:21.", "catena": "1:34–35#9", "sintese": "A sombra forma-se pela luz e por um corpo: significa as duas naturezas do Deus encarnado." },
+        { "autor": "São Gregório Magno", "obra": "18 Moral. c. 52. super Jó 28:19.", "catena": "1:34–35#14", "sintese": "Nós, ainda que santificados, não nascemos santos; só Ele é verdadeiramente santo, porque não foi concebido por união carnal." }
+      ],
+      "nota": null
+    },
+    "1:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:36–38#2", "sintese": "Recebe o exemplo de uma mulher idosa e estéril para aprender que tudo é possível a Deus." }
+      ],
+      "nota": null
+    },
+    "1:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:36–38#5", "sintese": "Escolhida para ser sua mãe, declara-se sua serva: tão longe estava de envaidecer-se com a promessa." },
+        { "autor": "São Gregório Magno", "obra": "sup.", "catena": "1:36–38#7", "sintese": "Por um sacramento inefável, a mesma Virgem foi serva e mãe do Senhor." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:36–38#8", "sintese": "Obtido o consentimento da Virgem, o anjo logo volta para o céu." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
