@@ -1,0 +1,58 @@
+{
+  "id": "MAT.7.13",
+  "livro": "MAT",
+  "titulo": "A porta estreita e os falsos profetas",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 7,13-20",
+  "ini": { "c": 7, "v": 13 },
+  "fim": { "c": 7, "v": 20 },
+  "liturgia": { "tema_central": "Entrai pela porta estreita; pelos frutos os conhecereis", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "A conclusão do Sermão apresenta escolhas decisivas, em pares: dois caminhos, duas árvores, duas casas. A imagem dos dois caminhos é tradicional (Dt 30,15; Sl 1): o largo, fácil e frequentado, leva à perdição; o estreito, que poucos encontram, leva à vida. Depois, a advertência contra os falsos profetas: aparência de ovelha (talvez alusão ao manto de pele dos profetas), interior de lobo. O critério para discerni-los são os frutos, isto é, a vida e as obras: espinhos não dão uvas, e a árvore má será cortada e lançada ao fogo, como já anunciara o Batista (3,10).",
+    "alegorico": "A porta estreita é o próprio Cristo (“Eu sou a porta”, Jo 10,9) e o caminho apertado é a Cruz. Os falsos profetas em pele de ovelha são os hereges e os pastores corrompidos que ameaçam o rebanho de Cristo, o Bom Pastor. A árvore boa lembra a árvore da Cruz, que dá o fruto da vida.",
+    "moral": "O caminho largo não precisa ser buscado: apresenta-se por si; o estreito precisa ser procurado e escolhido. Ainda assim, o jugo de Cristo é suave para quem ama. É preciso discernir os mestres pela vida, não pelas palavras: o hipócrita foge do trabalho do caminho estreito. E examinar os próprios frutos: a fé verdadeira se mostra nas obras.",
+    "anagogico": "O caminho estreito conduz à vida eterna; a árvore estéril será lançada ao fogo. A escolha de cada dia antecipa o destino final: o Juízo revelará os frutos de cada vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Entrai pela porta estreita, porque larga é a porta e espaçoso o caminho que conduz à perdição, e muitos entram por ela. Como é estreita a porta e apertado o caminho que conduz à vida, e poucos o encontram! Guardai-vos dos falsos profetas, que vêm a vós vestidos de ovelhas, mas por dentro são lobos vorazes. Pelos seus frutos os conhecereis. Toda árvore boa dá bons frutos, e toda árvore má dá maus frutos. Toda árvore que não dá bom fruto será cortada e lançada ao fogo”.",
+    "meditatio_perguntas": [
+      "Escolho o caminho fácil ou o caminho do Evangelho nas minhas decisões?",
+      "Que critérios uso para discernir em quem confio espiritualmente?",
+      "Que frutos a minha vida está dando?"
+    ],
+    "oratio_guia": "Senhor Jesus, porta das ovelhas e caminho da vida, dá-me coragem para entrar pela porta estreita. Guarda-me dos falsos mestres e faz de mim uma árvore boa, que dê frutos de santidade. Amém.",
+    "contemplatio_foco": { "texto": "Pelos seus frutos os conhecereis.", "ref": "Mt 7,16" }
+  },
+  "ancoras": {
+    "7:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "7:13–14#5", "sintese": "Muitos andam pelo caminho largo, poucos encontram o estreito: o largo não precisa ser buscado nem encontrado, apresenta-se por si mesmo." }
+      ],
+      "nota": null
+    },
+    "7:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:13–14#4", "sintese": "Como é estreito o caminho, se o seu jugo é suave e o fardo leve? Também aqui ensina que é leve e suave." }
+      ],
+      "nota": null
+    },
+    "7:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:15–20#2", "sintese": "Como há muitos que pervertem o caminho que leva à porta estreita, prossegue: guardai-vos dos falsos profetas." }
+      ],
+      "nota": null
+    },
+    "7:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:15–20#4", "sintese": "Visa não tanto os hereges quanto os que, de vida corrompida, mostram aparência de virtude: por isso, “pelos seus frutos os conhecereis”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:15–20#10", "sintese": "O hipócrita discerne-se facilmente, pois o caminho mandado é difícil, e o hipócrita foge do trabalho." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

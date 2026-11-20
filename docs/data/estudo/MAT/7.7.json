@@ -1,0 +1,60 @@
+{
+  "id": "MAT.7.7",
+  "livro": "MAT",
+  "titulo": "Pedi e recebereis; a regra de ouro",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 7,7-12",
+  "ini": { "c": 7, "v": 7 },
+  "fim": { "c": 7, "v": 12 },
+  "liturgia": { "tema_central": "Pedi, buscai, batei: o Pai dá coisas boas aos que lhe pedem", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Três imperativos em crescendo (pedir, buscar, bater) exortam à oração perseverante, com a promessa de ser atendido. O argumento vai “do menor ao maior”: se um pai humano não dá uma pedra (parecida com os pães redondos) ao filho que pede pão, nem uma serpente (parecida com certos peixes do lago) a quem pede peixe, quanto mais o Pai do céu dará coisas boas. Lucas diz “o Espírito Santo” (Lc 11,13). Segue a “regra de ouro”: fazer aos outros o que queremos que nos façam. Formulada positivamente, ela resume “a Lei e os Profetas” e fecha o corpo do Sermão iniciado em 5,17.",
+    "alegorico": "O Pai dá aos filhos o pão verdadeiro, Cristo, e não a pedra; o peixe (em grego ichthys, acróstico de “Jesus Cristo, Filho de Deus, Salvador”) e não a serpente antiga. A “coisa boa” por excelência é o Espírito Santo. A porta a que batemos é Cristo, que se abre a quem persevera.",
+    "moral": "Pedir com insistência e pedir o que convém, sobretudo os bens espirituais. Buscar exige afastar a mente de tudo o mais; bater exige ardor. Mas a oração não dispensa o esforço próprio: por isso vem logo a regra de ouro. Ninguém pode alegar ignorância, pois todos sabemos o que queremos para nós.",
+    "anagogico": "A porta que se abre a quem bate é, enfim, a porta do Reino. A oração perseverante desta vida prepara a posse plena dos bens que o Pai reserva aos seus filhos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pedi, e vos será dado; buscai, e achareis; batei, e vos será aberto. Pois todo aquele que pede recebe, quem busca acha, e a quem bate se abrirá. Qual de vós dará uma pedra ao filho que lhe pede pão? Ou uma serpente, se lhe pedir peixe? Se vós, sendo maus, sabeis dar coisas boas aos vossos filhos, quanto mais o vosso Pai celeste dará coisas boas aos que lhas pedirem! Tudo o que quereis que os homens vos façam, fazei-o também vós a eles: esta é a Lei e os Profetas”.",
+    "meditatio_perguntas": [
+      "Persevero na oração, ou desisto quando não sou atendido logo?",
+      "Peço ao Pai sobretudo as “coisas boas” do Espírito?",
+      "Em que situação concreta posso aplicar hoje a regra de ouro?"
+    ],
+    "oratio_guia": "Pai do céu, que dás coisas boas aos teus filhos, ensina-me a pedir, a buscar e a bater com perseverança. Dá-me o teu Espírito Santo. E que eu trate os outros como desejo ser tratado. Amém.",
+    "contemplatio_foco": { "texto": "Pedi, e vos será dado; buscai, e achareis; batei, e abrir-se-vos-á.", "ref": "Mt 7,7" }
+  },
+  "ancoras": {
+    "7:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 21", "catena": "7:7–8#4", "sintese": "Pedir refere-se a obter a saúde da alma para cumprir o mandado; buscar, à descoberta da verdade; bater, à posse, que só se abre a quem bate." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:7–8#6", "sintese": "Quem busca afasta da mente todas as outras coisas; quem bate vem com veemência e ânimo ardente." }
+      ],
+      "nota": null
+    },
+    "7:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 21", "catena": "7:9–11#0", "sintese": "Como com as aves e os lírios, faz a nossa esperança subir do menor ao maior." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:9–11#2", "sintese": "Duas coisas convêm a quem ora: pedir com insistência e pedir o que convém, isto é, as coisas espirituais, como Salomão." }
+      ],
+      "nota": null
+    },
+    "7:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:9–11#7", "sintese": "Não deprecia a natureza humana: chama mau o amor paterno só em comparação com a sua própria bondade." }
+      ],
+      "nota": { "texto": "No lugar paralelo, Lucas diz: “o Pai celeste dará o Espírito Santo aos que lho pedirem” (Lc 11,13).", "origem": "ia" }
+    },
+    "7:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:12#3", "sintese": "Devemos pedir o auxílio do alto, mas contribuir com o que está ao nosso alcance; por isso, depois do “pedi”, ensina como tratar os outros." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:12#10", "sintese": "É claro o que devemos fazer, pois sabemos o que nos convém: não podemos refugiar-nos na ignorância." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

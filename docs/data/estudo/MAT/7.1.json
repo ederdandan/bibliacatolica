@@ -1,0 +1,59 @@
+{
+  "id": "MAT.7.1",
+  "livro": "MAT",
+  "titulo": "Não julgueis",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 7,1-6",
+  "ini": { "c": 7, "v": 1 },
+  "fim": { "c": 7, "v": 6 },
+  "liturgia": { "tema_central": "Tira primeiro a trave do teu olho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus proíbe o juízo temerário e condenatório sobre o próximo: a medida usada para os outros será usada para nós, no juízo de Deus. A hipérbole da “aresta” (cisco) e da “trave” denuncia quem vê os pequenos defeitos alheios e ignora os próprios, grandes. Não se proíbe a correção fraterna, mas exige-se começar pela própria conversão. O v. 6 equilibra: não dar o que é santo aos cães nem pérolas aos porcos (animais impuros para os judeus), isto é, não expor as coisas sagradas a quem as despreza e profana.",
+    "alegorico": "Só Cristo, o Juiz sem pecado, pode julgar os corações; e Ele veio para salvar, não para condenar. O “santo” e as “pérolas” são os mistérios da fé e os sacramentos, que a Igreja antiga guardava com a “disciplina do arcano”, não os expondo aos que zombariam deles.",
+    "moral": "Não julgar não significa não discernir, mas não ser juiz amargo: corrigir o irmão como médico que aplica remédio, não como inimigo em busca de vingança. A proibição atinge sobretudo os que, cheios de grandes males, julgam os outros por males pequenos. A severidade connosco e a indulgência com os outros é o caminho do Evangelho. A prudência sabe também calar diante de quem só quer zombar.",
+    "anagogico": "A medida com que medimos será usada no Juízo final: a misericórdia para com os irmãos prepara a misericórdia de Deus para nós. Quem não julga os outros encontrará o Juiz como Salvador."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não julgueis, para não serdes julgados. Pois com o juízo com que julgardes sereis julgados, e com a medida com que medirdes vos medirão. Por que olhas o cisco no olho do teu irmão e não reparas na trave que está no teu? Hipócrita, tira primeiro a trave do teu olho, e então verás bem para tirar o cisco do olho do teu irmão. Não deis aos cães o que é santo, nem lanceis aos porcos as vossas pérolas”.",
+    "meditatio_perguntas": [
+      "Sou rápido em julgar os outros e lento em examinar a mim mesmo?",
+      "Qual é a “trave” no meu olho que não quero ver?",
+      "Quando corrijo alguém, faço-o como médico ou como juiz amargo?"
+    ],
+    "oratio_guia": "Senhor Jesus, único Juiz justo e misericordioso, arranca do meu coração o juízo temerário. Mostra-me a trave do meu olho e dá-me humildade para me converter. Que eu corrija os irmãos com amor, como tu me corriges. Amém.",
+    "contemplatio_foco": { "texto": "Tira primeiro a trave do teu olho.", "ref": "Mt 7,5" }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:1–2#4", "sintese": "Não diz “não façais cessar o pecador”, mas “não sejais juízes amargos”: corrigi como médico que aplica o remédio, não como inimigo em busca de vingança." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:1–2#6", "sintese": "A proibição atinge os que, cheios de grandes males, julgam os outros por males muito pequenos." }
+      ],
+      "nota": null
+    },
+    "7:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:3–5#3", "sintese": "Muitos acusam amargamente um monge por uma veste supérflua ou uma refeição farta, quando eles mesmos roubam, devoram e se arruínam na bebida." }
+      ],
+      "nota": null
+    },
+    "7:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:3–5#10", "sintese": "Sempre que quer repreender um grande pecado, começa por um epíteto de censura: “Hipócrita, tira primeiro”." }
+      ],
+      "nota": null
+    },
+    "7:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "7:6#0", "sintese": "Para que a simplicidade não leve a pensar que é igualmente mau ocultar a verdade e dizer a falsidade, acrescenta: não deis aos cães o que é santo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:6#12", "sintese": "“Para que não se voltem”: fingem mansidão para aprender e, depois de aprenderem, atacam." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

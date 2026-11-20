@@ -1,0 +1,72 @@
+{
+  "id": "MAT.7.21",
+  "livro": "MAT",
+  "titulo": "Os verdadeiros discípulos; a casa sobre a rocha",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 7,21-29",
+  "ini": { "c": 7, "v": 21 },
+  "fim": { "c": 7, "v": 29 },
+  "liturgia": { "tema_central": "Quem ouve e pratica a Palavra edifica sobre a rocha", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Não basta dizer “Senhor, Senhor”, nem fazer prodígios em nome de Jesus: entra no Reino quem faz a vontade do Pai. “Naquele dia” (o dia do Juízo), Jesus se apresenta como o Juiz que dirá: “Nunca vos conheci”. A parábola final das duas casas contrapõe quem ouve e pratica a quem ouve e não pratica. Na Palestina, as chuvas de inverno transformavam os leitos secos (uádis) em torrentes que arrastavam as casas construídas na areia. A multidão fica admirada porque Jesus ensina com autoridade própria (“Eu, porém, vos digo”), e não como os escribas, que se apoiavam nas tradições dos mestres.",
+    "alegorico": "A rocha é Cristo (1Cor 10,4), fundamento sobre o qual se edifica a vida e a Igreja. A areia, solta e incapaz de formar um só bloco, é imagem da doutrina dos hereges, destinada a cair. A tempestade é a provação e, por fim, o Juízo. Jesus revela-se aqui veladamente como Senhor e Juiz.",
+    "moral": "A fé que não se traduz em obras é uma casa sobre a areia. Os próprios carismas (profecia, exorcismos, milagres) não salvam sem a caridade e a obediência. Ouvir a Palavra é necessário, mas não basta: é preciso praticá-la. As provações virão para todos; resiste quem está fundado em Cristo.",
+    "anagogico": "“Naquele dia” o Senhor reconhecerá os seus pelos frutos de obediência ao Pai. A casa fundada na rocha atravessa a tempestade do Juízo e permanece para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nem todo aquele que me diz ‘Senhor, Senhor’ entrará no Reino dos Céus, mas aquele que faz a vontade de meu Pai que está nos céus. Muitos me dirão naquele dia: ‘Senhor, não profetizamos em teu nome?’ E eu lhes direi: ‘Nunca vos conheci; afastai-vos de mim, vós que praticais a iniquidade’. Todo aquele que ouve estas minhas palavras e as pratica será como o homem prudente que edificou a sua casa sobre a rocha. Caiu a chuva, vieram as torrentes, sopraram os ventos, e ela não caiu, porque estava fundada na rocha”. As multidões ficaram admiradas, porque Ele ensinava como quem tem autoridade.",
+    "meditatio_perguntas": [
+      "A minha fé fica nas palavras (“Senhor, Senhor”) ou chega às obras?",
+      "Sobre o que estou edificando a minha vida: rocha ou areia?",
+      "Que palavra do Sermão da Montanha preciso começar a praticar?"
+    ],
+    "oratio_guia": "Senhor Jesus, rocha firme, não quero só dizer “Senhor, Senhor”, mas fazer a vontade do Pai. Dá-me ouvir e praticar a tua Palavra, para que a minha casa resista às tempestades. Reconhece-me como teu naquele dia. Amém.",
+    "contemplatio_foco": { "texto": "Edificou a sua casa sobre rocha.", "ref": "Mt 7,24" }
+  },
+  "ancoras": {
+    "7:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 24", "catena": "7:21–23#1", "sintese": "Parece referir-se sobretudo aos judeus, que punham tudo nos dogmas, como Paulo censura: “tu te chamas judeu e repousas na Lei”." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:21–23#9", "sintese": "Não disse “a minha vontade”, mas “a de meu Pai”, acomodando-se à fraqueza deles; mas a vontade do Filho não é outra senão a do Pai." }
+      ],
+      "nota": null
+    },
+    "7:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:21–23#11", "sintese": "No fim do sermão mostra-se veladamente como Juiz: revela quem é Aquele que há de punir." }
+      ],
+      "nota": null
+    },
+    "7:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "7:24–27#0", "sintese": "Como alguns admirariam as suas palavras sem acrescentar as obras, ameaça-os antecipadamente com a parábola das duas casas." }
+      ],
+      "nota": null
+    },
+    "7:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 2, 25, no fim", "catena": "7:24–27#5", "sintese": "A chuva são as trevas da superstição; os ventos, os rumores dos homens; a torrente, a concupiscência da carne." }
+      ],
+      "nota": null
+    },
+    "7:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "7:24–27#3", "sintese": "Sobre a areia, solta e incapaz de formar um só bloco, está edificada toda a doutrina dos hereges, para que caia." }
+      ],
+      "nota": null
+    },
+    "7:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 25", "catena": "7:28–29#4", "sintese": "A causa da admiração: ensinava como quem tem autoridade, e não como os escribas e fariseus." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
