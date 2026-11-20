@@ -1,0 +1,115 @@
+{
+  "id": "JHN.15.1",
+  "livro": "JHN",
+  "titulo": "A videira e os ramos",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 15,1-17",
+  "ini": { "c": 15, "v": 1 },
+  "fim": { "c": 15, "v": 17 },
+  "liturgia": { "tema_central": "“Permanecei em mim”: sem Cristo nada podemos fazer", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "“Eu sou a verdadeira vide, e meu Pai é o vinhateiro.” A vara que não dá fruto, o Pai corta-a; a que dá fruto, poda-a para que dê mais. Os discípulos já estão puros pela palavra que Ele lhes anunciou. “Permanecei em mim, e eu permanecerei em vós”: como a vara não dá fruto se não permanecer na videira, assim eles, se não permanecerem nele. Ele é a videira, eles as varas; quem permanece nele dá muito fruto, porque sem Ele nada podem fazer. Quem não permanece é lançado fora, seca e é lançado ao fogo. Se permanecerem nele e as suas palavras neles, pedirão o que quiserem e ser-lhes-á concedido. O Pai é glorificado em darem muito fruto e serem seus discípulos. Como o Pai o amou, assim os amou; permaneçam no seu amor, guardando os seus preceitos, como Ele guardou os do Pai. Disse-o para que a sua alegria esteja neles e seja completa. O seu preceito: amarem-se como Ele os amou; não há maior amor do que dar a vida pelos amigos. São seus amigos, se fizerem o que manda; já não os chama servos, mas amigos, porque lhes deu a conhecer tudo o que ouviu do Pai. Não foram eles que o escolheram: foi Ele que os escolheu e destinou a ir e dar fruto que permaneça.",
+    "alegorico": "Cristo fala como Cabeça da Igreja, enquanto homem, pois a videira e os ramos são da mesma natureza. Nós cultuamos a Deus, e Deus cultiva-nos: o seu cultivo arranca do coração as sementes da maldade e torna-nos melhores. Os ramos nada dão à videira; recebem dela tudo. Num de dois lugares há de estar o ramo: ou na videira, ou no fogo. O fruto é o amor, que agora existe como desejo e um dia em plenitude.",
+    "moral": "“Sem mim nada podeis fazer”: não diz “pouco”, mas “nada”. Até os limpos precisam de ser podados, porque ninguém neste mundo está tão puro que não possa purificar-se mais. As palavras de Cristo permanecem em nós quando fazemos o que manda e amamos o que promete; se ficam só na memória e não na vida, o ramo está seco. O amor precede a observância dos mandamentos, e esta mostra se o amor é verdadeiro. A maior prova de amor é amar o adversário, como Cristo na cruz. Não escolhe os bons, mas torna bons os que escolhe.",
+    "anagogico": "A alegria de Cristo em nós é que se digna alegrar-se por nossa causa; a nossa alegria será completa quando tivermos plena comunhão com Ele. Amou-nos para que reinássemos com Ele: o fruto que permanece é o amor consumado na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu sou a verdadeira vide, e meu Pai é o vinhateiro. Permanecei em mim, e eu permanecerei em vós. Eu sou a videira, vós as varas. O que permanece em mim e eu nele, esse dá muito fruto, porque, sem mim, nada podeis fazer. Como o Pai me amou, assim eu vos amei. Permanecei no meu amor. Não há maior amor do que dar a própria vida pelos seus amigos.",
+    "meditatio_perguntas": [
+      "Onde tento dar fruto sozinho, longe da videira?",
+      "Que “poda” o Pai está a fazer na minha vida, e como a acolho?",
+      "Vivo como servo que cumpre ordens, ou como amigo a quem Jesus confiou o que ouviu do Pai?"
+    ],
+    "oratio_guia": "Senhor Jesus, verdadeira videira, faz-me permanecer em ti, porque sem ti nada posso. Pai, vinhateiro, poda em mim o que não dá fruto. Que o teu amor permaneça em mim e a tua alegria seja completa. Amém.",
+    "contemplatio_foco": { "texto": "Permanecei em mim, e eu permanecerei em vós.", "ref": "Jo 15,4" }
+  },
+  "ancoras": {
+    "15:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:1–3#1", "sintese": "Fala como Cabeça da Igreja, enquanto homem: a videira e os ramos são da mesma natureza." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:1–3#3", "sintese": "Nós cultuamos a Deus, Deus cultiva-nos: o seu cultivo arranca as sementes da maldade e torna-nos melhores." }
+      ],
+      "nota": { "texto": "Israel era a vinha de Deus (Is 5,1-7; Sl 79[80],9-17). Jesus apresenta-se como a “verdadeira” videira, que dá o fruto que a antiga não deu.", "origem": "ia" }
+    },
+    "15:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:1–3#7", "sintese": "Ninguém neste mundo é tão limpo que não possa purificar-se mais: o Pai poda os que dão fruto." }
+      ],
+      "nota": null
+    },
+    "15:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:4–7#1", "sintese": "Os ramos nada dão à videira; recebem dela o sustento: permanecer em Cristo aproveita a nós, não a Ele." }
+      ],
+      "nota": null
+    },
+    "15:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:4–7#3", "sintese": "Não diz “pouco podeis fazer”, mas “nada”: sem a raiz, o ramo não dá fruto algum." }
+      ],
+      "nota": null
+    },
+    "15:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:4–7#6", "sintese": "Num de dois lugares há de estar o ramo: ou na videira, ou no fogo." }
+      ],
+      "nota": null
+    },
+    "15:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:4–7#8", "sintese": "As palavras permanecem em nós quando fazemos o que manda e amamos o que promete, não só na memória." }
+      ],
+      "nota": null
+    },
+    "15:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:8–11#4", "sintese": "O amor precede a observância; esta não diz de onde nasce o amor, mas como se manifesta." }
+      ],
+      "nota": null
+    },
+    "15:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:8–11#7", "sintese": "A alegria de Cristo é alegrar-se por nós; a nossa, completa, é ter comunhão com Ele." }
+      ],
+      "nota": null
+    },
+    "15:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:12–16#2", "sintese": "Onde há amor, que pode faltar? Onde não há, que pode aproveitar? Amou-nos para que reinássemos com Ele." }
+      ],
+      "nota": null
+    },
+    "15:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:12–16#3", "sintese": "A maior prova de amor é amar o adversário, como a Verdade na cruz: “Pai, perdoa-lhes”." }
+      ],
+      "nota": null
+    },
+    "15:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:12–16#7", "sintese": "O amigo é como guardião da alma: quem guarda os mandamentos de Deus é com razão seu amigo." }
+      ],
+      "nota": null
+    },
+    "15:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:12–16#16", "sintese": "Não escolhe os bons, mas torna bons os que escolheu." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:12–16#18", "sintese": "O fruto é o amor, que agora existe como desejo e ainda não em plenitude." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

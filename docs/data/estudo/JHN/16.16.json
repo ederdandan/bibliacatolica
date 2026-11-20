@@ -1,0 +1,81 @@
+{
+  "id": "JHN.16.16",
+  "livro": "JHN",
+  "titulo": "A tristeza convertida em alegria",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 16,16-33",
+  "ini": { "c": 16, "v": 16 },
+  "fim": { "c": 16, "v": 33 },
+  "liturgia": { "tema_central": "“A vossa tristeza há de converter-se em alegria”: tende confiança, eu venci o mundo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "“Um pouco, e já não me vereis; outra vez um pouco, e ver-me-eis.” Os discípulos perguntam entre si o que significa. Jesus, conhecendo-lhes a pergunta, diz: haveis de chorar e gemer, e o mundo alegrar-se-á; estareis tristes, mas a tristeza converter-se-á em alegria. A mulher que dá à luz sofre porque chegou a sua hora, mas, nascido o filho, esquece a aflição pela alegria de ter vindo um homem ao mundo. Assim eles: estão tristes, mas Ele os verá de novo, o coração alegrar-se-á, e ninguém lhes tirará essa alegria. Naquele dia nada lhe perguntarão; o que pedirem ao Pai em seu nome, Ele lho dará: “pedi e recebereis, para que o vosso gozo seja completo”. Falou-lhes em parábolas, mas virá a hora de lhes falar abertamente do Pai. O próprio Pai os ama, porque o amaram e creram que saiu de Deus. “Saí do Pai e vim ao mundo; deixo o mundo e vou para o Pai.” Os discípulos dizem que agora fala claramente e creem que saiu de Deus. Jesus: “Credes agora? Vem a hora em que sereis dispersos e me deixareis só; mas não estou só, porque o Pai está comigo”. Disse-lhes isto para que tenham paz nele: no mundo terão aflições, mas tenham confiança: Ele venceu o mundo.",
+    "alegorico": "A mulher em trabalho de parto é a santa Igreja, que, entre tentações e aflições do mundo, gera filhos espirituais para Deus. O filho que nasce é a contemplação, para a qual existe toda a vida ativa: agora a Igreja deseja-a em dores, depois a gozará. Cristo saiu do Pai porque dele procede; veio ao mundo mostrando-se no corpo; deixou-o pela ascensão, sem deixar de o governar.",
+    "moral": "Enquanto os justos choram, o mundo alegra-se, porque, sem esperança do futuro, põe todo o gozo no presente. Mas nem no nosso parto estamos sem alegria: estamos “alegres na esperança”. O Pai ama-nos porque amamos o Filho; mas amamo-lo porque Ele nos amou primeiro. Tende Cristo dentro de vós para vos consolar, porque fora o mundo estará contra vós. Se o Mestre venceu, os discípulos não devem desanimar.",
+    "anagogico": "“Ninguém vos tirará a vossa alegria”: a alegria completa, maior do que a qual nada há, é gozar de Deus Trindade, à cuja imagem fomos feitos. Cristo não teria vencido o mundo se o mundo vencesse os seus membros: pela força do Espírito, a vitória da Cabeça é também a do corpo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Haveis de estar tristes, mas a vossa tristeza há-de converter-se em alegria. A mulher, quando dá à luz, está em sofrimento, mas, depois que deu à luz um menino, já se não lembra da sua aflição. Hei-de ver-vos de novo, e o vosso coração se alegrará, e ninguém vos tirará a vossa alegria. Haveis de ter aflições no mundo; mas tende confiança, eu venci o mundo.",
+    "meditatio_perguntas": [
+      "Que tristeza minha está, talvez, em “trabalho de parto” de uma alegria maior?",
+      "Peço ao Pai em nome de Jesus o que diz respeito à alegria completa?",
+      "Nas aflições, onde ponho a minha confiança: em mim, ou na vitória de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que venceste o mundo, converte a minha tristeza em alegria. Nas aflições, dá-me a tua paz; na espera, a alegria da esperança. Que ninguém me tire a alegria de te ver de novo. Amém.",
+    "contemplatio_foco": { "texto": "tende confiança, eu venci o mundo.", "ref": "Jo 16,33" }
+  },
+  "ancoras": {
+    "16:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "16:16–22#8", "sintese": "Os justos choram e o mundo alegra-se, porque, sem esperança do futuro, põe todo o gozo no presente." }
+      ],
+      "nota": null
+    },
+    "16:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "16:16–22#13", "sintese": "A mulher é a santa Igreja, que, entre tentações e aflições, gera para Deus filhos espirituais." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:16–22#14", "sintese": "Nem no nosso parto estamos sem alegria: estamos alegres na esperança." }
+      ],
+      "nota": { "texto": "A imagem das dores de parto evoca os profetas (Is 26,17-19; 66,7-14), onde anunciam o nascimento de um povo novo e a era messiânica.", "origem": "ia" }
+    },
+    "16:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:16–22#18", "sintese": "A Igreja deseja agora em dores o fruto da contemplação; depois o gozará." }
+      ],
+      "nota": null
+    },
+    "16:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:23–28#12", "sintese": "Alegria completa, maior do que a qual nada há: gozar de Deus Trindade, à cuja imagem fomos feitos." }
+      ],
+      "nota": null
+    },
+    "16:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:23–28#6", "sintese": "O Pai ama-nos porque amamos o Filho; mas amamo-lo porque Ele nos amou primeiro." }
+      ],
+      "nota": null
+    },
+    "16:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:23–28#9", "sintese": "Saiu do Pai, procedendo dele; deixou o mundo pela ascensão, mas não deixou de o governar." }
+      ],
+      "nota": null
+    },
+    "16:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "16:29–33#11", "sintese": "Tende-me dentro de vós para vos consolar, porque fora o mundo estará contra vós." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "16:29–33#13", "sintese": "Se o Mestre é vitorioso, os discípulos não devem desanimar." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:29–33#14", "sintese": "Não teria vencido o mundo se o mundo vencesse os seus membros: pelo Espírito, foram vitoriosos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

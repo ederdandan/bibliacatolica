@@ -1,0 +1,72 @@
+{
+  "id": "JHN.16.5",
+  "livro": "JHN",
+  "titulo": "A obra do Espírito Santo",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 16,5-15",
+  "ini": { "c": 16, "v": 5 },
+  "fim": { "c": 16, "v": 15 },
+  "liturgia": { "tema_central": "“Ele vos guiará para a verdade integral”: o Espírito que convence o mundo e glorifica o Filho", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vai para aquele que o enviou, e nenhum pergunta para onde vai; a tristeza encheu-lhes o coração. Mas diz-lhes a verdade: convém-lhes que Ele vá, porque, se não for, o Defensor não virá; se for, enviá-lo-á. Quando vier, convencerá o mundo quanto ao pecado, à justiça e ao juízo: ao pecado, porque não creem nele; à justiça, porque vai para o Pai e já não o verão; ao juízo, porque o príncipe deste mundo já está julgado. Tem ainda muitas coisas a dizer-lhes, mas agora não as podem compreender. Quando vier o Espírito da verdade, guiá-los-á para a verdade integral: não falará de si mesmo, mas dirá o que ouvir e anunciará as coisas que hão de vir. Glorificará o Filho, porque receberá do que é seu e lho anunciará. Tudo o que o Pai tem é do Filho; por isso disse que o Espírito receberá do que é seu.",
+    "alegorico": "Se Cristo não subtrair o seu corpo aos olhos, não pode levá-los, pelo Espírito, à compreensão do invisível. Retirada a forma de servo dos olhos da carne, o Espírito revela ao olhar purificado da mente a forma de Deus, em que o Filho é igual ao Pai. Tudo o que o Pai tem é do Filho, até o Espírito do Pai, que recebe do que é do Filho: não posse, mas a mesma substância. O “ouvir” do Espírito é eterno, como eterno é o seu conhecimento.",
+    "moral": "A tristeza dos discípulos é natural, mas a verdade que Jesus diz pede que a ouçamos com fé: perder a presença sensível pode ser ganho. O mundo é convencido de pecado por não crer em Cristo, e de justiça pelo contraste com os que creem sem ver. O príncipe deste mundo já está julgado, e o mundo é julgado com ele quando o imita na soberba. O Espírito derrama o amor nos corações, expulsa o medo e torna os discípulos ousados para anunciar Cristo.",
+    "anagogico": "“Anunciar-vos-á as coisas que estão para vir”: o Espírito conduz a Igreja, passo a passo, para a verdade inteira, que só será plena na visão. Ele glorifica o Filho até ao dia em que todos verão, sem véu, o que o Pai e o Filho têm em comum."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A vós convém que eu vá porque, se não for, o Defensor não virá a vós; mas, se for, eu vo-lo enviarei. Tenho ainda muitas coisas a dizer-vos, mas não as podeis compreender agora. Quando vier, porém, o Espírito de verdade, ele vos guiará no caminho da verdade integral. Ele me glorificará, porque receberá do que é meu e vo-lo anunciará.",
+    "meditatio_perguntas": [
+      "Que “ausências” de Deus na minha vida podem ser, afinal, caminho para uma fé mais profunda?",
+      "Deixo-me conduzir pelo Espírito para a verdade inteira, ou fico só com o que já compreendo?",
+      "O Espírito encontra em mim um coração livre do medo para anunciar Cristo?"
+    ],
+    "oratio_guia": "Vem, Espírito da verdade, Defensor prometido. Convence-me do meu pecado, mostra-me a justiça de Cristo e liberta-me do príncipe deste mundo. Guia-me para a verdade inteira e glorifica em mim o Filho. Amém.",
+    "contemplatio_foco": { "texto": "ele vos guiará no caminho da verdade integral", "ref": "Jo 16,13" }
+  },
+  "ancoras": {
+    "16:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": null, "catena": "16:5–11#5", "sintese": "Se não subtrair o corpo aos vossos olhos, não vos posso levar, pelo Espírito, à compreensão do invisível." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:5–11#6", "sintese": "Retirada a forma de servo, o Espírito mostra ao olhar purificado a forma de Deus, igual ao Pai." }
+      ],
+      "nota": null
+    },
+    "16:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:5–11#10", "sintese": "Convencido de pecado por não crer, e de justiça pelo contraste com os que creem." }
+      ],
+      "nota": null
+    },
+    "16:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:5–11#12", "sintese": "O mundo é julgado com o seu príncipe, o soberbo a quem imita: creiam em Cristo para não serem condenados." }
+      ],
+      "nota": null
+    },
+    "16:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:12–15#7", "sintese": "Não te perturbe o futuro “ouvirá”: esse ouvir é eterno, como o seu conhecimento." }
+      ],
+      "nota": null
+    },
+    "16:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:12–15#11", "sintese": "Glorifica-o derramando o amor, que torna os fiéis espirituais e os faz ousados para o anunciar." }
+      ],
+      "nota": null
+    },
+    "16:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Dídimo", "obra": null, "catena": "16:12–15#15", "sintese": "Até o Espírito do Pai é meu e recebe do que é meu; não posse, mas a mesma substância." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

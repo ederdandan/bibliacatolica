@@ -1,0 +1,73 @@
+{
+  "id": "JHN.15.18",
+  "livro": "JHN",
+  "titulo": "O ódio do mundo",
+  "secao": "O Livro da Glória: a última Ceia",
+  "referencia": "Jo 15,18–16,4",
+  "ini": { "c": 15, "v": 18 },
+  "fim": { "c": 16, "v": 4 },
+  "liturgia": { "tema_central": "“Primeiro do que a vós, me aborreceu a mim”: o discípulo partilha a sorte do Mestre", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Se o mundo os odeia, saibam que primeiro odiou a Jesus. Se fossem do mundo, o mundo amaria o que é seu; mas, porque Ele os escolheu do meio do mundo, o mundo odeia-os. O servo não é maior que o senhor: se o perseguiram, também os perseguirão; se guardaram a sua palavra, guardarão a deles. Fá-lo-ão por causa do seu nome, porque não conhecem quem o enviou. Se Ele não tivesse vindo e falado, não teriam culpa; agora não têm desculpa. Quem o odeia, odeia também o Pai. Se não tivesse feito entre eles obras que nenhum outro fez, não teriam culpa; mas viram e odiaram-no a Ele e ao Pai, para que se cumprisse: “Odiaram-me sem motivo”. Quando vier o Paráclito, que Ele enviará da parte do Pai, o Espírito da verdade que procede do Pai, dará testemunho dele; e também eles darão testemunho, porque estão com Ele desde o princípio. Disse-lhes isto para que não se escandalizem: expulsá-los-ão das sinagogas, e virá a hora em que quem os matar julgará prestar culto a Deus, porque não conheceram o Pai nem a Ele. Diz-lho agora, para que se lembrem quando chegar essa hora.",
+    "alegorico": "O Espírito da verdade procede propriamente de Deus enquanto Pai; e o Pai e o Filho juntos o enviam. O testemunho do Espírito e o dos apóstolos são um só: Ele inspira os corações, e eles proclamam com a voz. Assim, os que não viram Cristo crerão nele pelo testemunho da Igreja. A Lei que Cristo cita é a “deles”, porque lhes foi dada; e nela já estava escrito o ódio sem motivo ao Justo.",
+    "moral": "Por que haveriam os membros de se exaltar acima da cabeça? Recusa estar no corpo quem não quer suportar com a cabeça o ódio do mundo. O desprezo dos perversos é o nosso louvor: ninguém pode agradar com o mesmo ato a Deus e aos inimigos de Deus. Uma coisa é não fazer o bem por fraqueza, outra odiar quem o ensina: pecar de propósito é nem fazer nem amar o bem. As provações caem com mais força sobre os desprevenidos; por isso Cristo as anuncia de antemão.",
+    "anagogico": "A hora das trevas passa; o testemunho permanece. O discípulo que partilha o ódio do mundo com a Cabeça partilhará com ela a glória, e o Espírito, testemunha fiel, sustém a Igreja até ao fim no meio das perseguições."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se o mundo vos aborrece, sabei que, primeiro do que a vós, me aborreceu a mim. Se fosseis do mundo, o mundo amaria o que era seu; mas, porque não sois do mundo, antes eu vos escolhi do meio do mundo, por isso o mundo vos aborrece. Quando, porém, vier o Paráclito, o Espírito da verdade, que procede do Pai, ele dará testemunho de mim. E vós também dareis testemunho.",
+    "meditatio_perguntas": [
+      "Procuro agradar ao mundo a ponto de calar o Evangelho?",
+      "Como reajo quando sou incompreendido por causa da fé?",
+      "Deixo o Espírito dar testemunho de Cristo através da minha voz e da minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, odiado sem motivo, dá-me não temer o desprezo do mundo, mas partilhar contigo a sorte do teu corpo. Envia-me o Espírito da verdade, para que eu dê testemunho de ti com coragem e paciência. Amém.",
+    "contemplatio_foco": { "texto": "Se o mundo vos aborrece, sabei que, primeiro do que a vós, me aborreceu a mim.", "ref": "Jo 15,18" }
+  },
+  "ancoras": {
+    "15:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:17–21#2", "sintese": "Recusa estar no corpo quem não quer suportar com a cabeça o ódio do mundo." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:17–21#5", "sintese": "O desprezo dos perversos é o nosso louvor: ninguém agrada ao mesmo tempo a Deus e aos seus inimigos." }
+      ],
+      "nota": null
+    },
+    "15:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:22–25#6", "sintese": "O pecado é não crer nele, apesar da doutrina e dos milagres." },
+        { "autor": "São Gregório Magno", "obra": null, "catena": "15:22–25#10", "sintese": "Uma coisa é não fazer o bem por fraqueza; outra, odiar quem o ensina, pecando de propósito." }
+      ],
+      "nota": null
+    },
+    "15:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "Dídimo", "obra": null, "catena": "15:26–27#4", "sintese": "Procede propriamente de Deus enquanto Pai; o Pai e o Filho juntos o enviam." }
+      ],
+      "nota": { "texto": "Este versículo está na base do artigo do Credo: “que procede do Pai”. A tradição latina acrescentou “e do Filho” (Filioque), apoiada também em 15,26a e 16,14-15.", "origem": "ia" }
+    },
+    "15:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "15:26–27#1", "sintese": "O Espírito inspirará os vossos corações, e vós proclamareis com a vossa voz." }
+      ],
+      "nota": null
+    },
+    "16:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:1–4#2", "sintese": "Expulsos das sinagogas, mostrariam que os judeus não o recebiam, e eles não o abandonariam." }
+      ],
+      "nota": null
+    },
+    "16:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "16:1–4#4", "sintese": "Anuncia-as de antemão porque as provações esmagam os despreparados." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
