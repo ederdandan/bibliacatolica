@@ -1,0 +1,685 @@
+{
+ "livro": "JHN",
+ "secoes": [
+  "O Prólogo",
+  "O testemunho inicial",
+  "O Livro dos Sinais",
+  "O Livro da Glória: a última Ceia",
+  "A Paixão",
+  "A Ressurreição"
+ ],
+ "pericopes": [
+  {
+   "id": "JHN.1.1",
+   "titulo": "O Verbo se fez carne",
+   "secao": "O Prólogo",
+   "referencia": "Jo 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "JHN.1.19",
+   "titulo": "O testemunho de João Batista",
+   "secao": "O testemunho inicial",
+   "referencia": "Jo 1,19-34",
+   "ini": {
+    "c": 1,
+    "v": 19
+   },
+   "fim": {
+    "c": 1,
+    "v": 34
+   }
+  },
+  {
+   "id": "JHN.1.35",
+   "titulo": "Os primeiros discípulos",
+   "secao": "O testemunho inicial",
+   "referencia": "Jo 1,35-51",
+   "ini": {
+    "c": 1,
+    "v": 35
+   },
+   "fim": {
+    "c": 1,
+    "v": 51
+   }
+  },
+  {
+   "id": "JHN.2.1",
+   "titulo": "As bodas de Caná",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 2,1-12",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 12
+   }
+  },
+  {
+   "id": "JHN.2.13",
+   "titulo": "A purificação do Templo",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 2,13-25",
+   "ini": {
+    "c": 2,
+    "v": 13
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "JHN.3.1",
+   "titulo": "Jesus e Nicodemos",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 3,1-21",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 21
+   }
+  },
+  {
+   "id": "JHN.3.22",
+   "titulo": "O último testemunho de João Batista",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 3,22-36",
+   "ini": {
+    "c": 3,
+    "v": 22
+   },
+   "fim": {
+    "c": 3,
+    "v": 36
+   }
+  },
+  {
+   "id": "JHN.4.1",
+   "titulo": "Jesus e a samaritana",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 4,1-42",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 42
+   }
+  },
+  {
+   "id": "JHN.4.43",
+   "titulo": "A cura do filho do oficial do rei",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 4,43-54",
+   "ini": {
+    "c": 4,
+    "v": 43
+   },
+   "fim": {
+    "c": 4,
+    "v": 54
+   }
+  },
+  {
+   "id": "JHN.5.1",
+   "titulo": "A cura do paralítico de Betesda",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 5,1-18",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 18
+   }
+  },
+  {
+   "id": "JHN.5.19",
+   "titulo": "O Filho dá a vida e julga",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 5,19-47",
+   "ini": {
+    "c": 5,
+    "v": 19
+   },
+   "fim": {
+    "c": 5,
+    "v": 47
+   }
+  },
+  {
+   "id": "JHN.6.1",
+   "titulo": "A multiplicação dos pães",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 6,1-15",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 15
+   }
+  },
+  {
+   "id": "JHN.6.16",
+   "titulo": "Jesus caminha sobre as águas",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 6,16-21",
+   "ini": {
+    "c": 6,
+    "v": 16
+   },
+   "fim": {
+    "c": 6,
+    "v": 21
+   }
+  },
+  {
+   "id": "JHN.6.22",
+   "titulo": "O pão da vida",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 6,22-40",
+   "ini": {
+    "c": 6,
+    "v": 22
+   },
+   "fim": {
+    "c": 6,
+    "v": 40
+   }
+  },
+  {
+   "id": "JHN.6.41",
+   "titulo": "A minha carne é verdadeiramente comida",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 6,41-59",
+   "ini": {
+    "c": 6,
+    "v": 41
+   },
+   "fim": {
+    "c": 6,
+    "v": 59
+   }
+  },
+  {
+   "id": "JHN.6.60",
+   "titulo": "Palavras de vida eterna",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 6,60-72",
+   "ini": {
+    "c": 6,
+    "v": 60
+   },
+   "fim": {
+    "c": 6,
+    "v": 72
+   }
+  },
+  {
+   "id": "JHN.7.1",
+   "titulo": "Jesus e seus irmãos; a festa dos Tabernáculos",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 7,1-13",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 13
+   }
+  },
+  {
+   "id": "JHN.7.14",
+   "titulo": "Jesus ensina no Templo",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 7,14-36",
+   "ini": {
+    "c": 7,
+    "v": 14
+   },
+   "fim": {
+    "c": 7,
+    "v": 36
+   }
+  },
+  {
+   "id": "JHN.7.37",
+   "titulo": "Rios de água viva",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 7,37-53",
+   "ini": {
+    "c": 7,
+    "v": 37
+   },
+   "fim": {
+    "c": 7,
+    "v": 53
+   }
+  },
+  {
+   "id": "JHN.8.1",
+   "titulo": "A mulher adúltera",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 8,1-11",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 11
+   }
+  },
+  {
+   "id": "JHN.8.12",
+   "titulo": "Eu sou a luz do mundo",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 8,12-30",
+   "ini": {
+    "c": 8,
+    "v": 12
+   },
+   "fim": {
+    "c": 8,
+    "v": 30
+   }
+  },
+  {
+   "id": "JHN.8.31",
+   "titulo": "A verdade vos fará livres; antes que Abraão existisse, Eu sou",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 8,31-59",
+   "ini": {
+    "c": 8,
+    "v": 31
+   },
+   "fim": {
+    "c": 8,
+    "v": 59
+   }
+  },
+  {
+   "id": "JHN.9.1",
+   "titulo": "A cura do cego de nascença",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 9,1-41",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 41
+   }
+  },
+  {
+   "id": "JHN.10.1",
+   "titulo": "O Bom Pastor",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 10,1-21",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 21
+   }
+  },
+  {
+   "id": "JHN.10.22",
+   "titulo": "Eu e o Pai somos um",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 10,22-42",
+   "ini": {
+    "c": 10,
+    "v": 22
+   },
+   "fim": {
+    "c": 10,
+    "v": 42
+   }
+  },
+  {
+   "id": "JHN.11.1",
+   "titulo": "A ressurreição de Lázaro",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 11,1-44",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 44
+   }
+  },
+  {
+   "id": "JHN.11.45",
+   "titulo": "A decisão de matar Jesus",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 11,45-57",
+   "ini": {
+    "c": 11,
+    "v": 45
+   },
+   "fim": {
+    "c": 11,
+    "v": 57
+   }
+  },
+  {
+   "id": "JHN.12.1",
+   "titulo": "A unção em Betânia",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 12,1-11",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 11
+   }
+  },
+  {
+   "id": "JHN.12.12",
+   "titulo": "A entrada em Jerusalém",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 12,12-19",
+   "ini": {
+    "c": 12,
+    "v": 12
+   },
+   "fim": {
+    "c": 12,
+    "v": 19
+   }
+  },
+  {
+   "id": "JHN.12.20",
+   "titulo": "O grão de trigo; a hora da glorificação",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 12,20-36",
+   "ini": {
+    "c": 12,
+    "v": 20
+   },
+   "fim": {
+    "c": 12,
+    "v": 36
+   }
+  },
+  {
+   "id": "JHN.12.37",
+   "titulo": "A incredulidade e o juízo",
+   "secao": "O Livro dos Sinais",
+   "referencia": "Jo 12,37-50",
+   "ini": {
+    "c": 12,
+    "v": 37
+   },
+   "fim": {
+    "c": 12,
+    "v": 50
+   }
+  },
+  {
+   "id": "JHN.13.1",
+   "titulo": "O lava-pés",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 13,1-20",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 20
+   }
+  },
+  {
+   "id": "JHN.13.21",
+   "titulo": "O anúncio da traição; o mandamento novo",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 13,21-38",
+   "ini": {
+    "c": 13,
+    "v": 21
+   },
+   "fim": {
+    "c": 13,
+    "v": 38
+   }
+  },
+  {
+   "id": "JHN.14.1",
+   "titulo": "Eu sou o caminho, a verdade e a vida",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 14,1-14",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 14
+   }
+  },
+  {
+   "id": "JHN.14.15",
+   "titulo": "A promessa do Paráclito; a paz de Cristo",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 14,15-31",
+   "ini": {
+    "c": 14,
+    "v": 15
+   },
+   "fim": {
+    "c": 14,
+    "v": 31
+   }
+  },
+  {
+   "id": "JHN.15.1",
+   "titulo": "A videira e os ramos",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 15,1-17",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 17
+   }
+  },
+  {
+   "id": "JHN.15.18",
+   "titulo": "O ódio do mundo",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 15,18–16,4",
+   "ini": {
+    "c": 15,
+    "v": 18
+   },
+   "fim": {
+    "c": 16,
+    "v": 4
+   }
+  },
+  {
+   "id": "JHN.16.5",
+   "titulo": "A obra do Espírito Santo",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 16,5-15",
+   "ini": {
+    "c": 16,
+    "v": 5
+   },
+   "fim": {
+    "c": 16,
+    "v": 15
+   }
+  },
+  {
+   "id": "JHN.16.16",
+   "titulo": "A tristeza convertida em alegria",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 16,16-33",
+   "ini": {
+    "c": 16,
+    "v": 16
+   },
+   "fim": {
+    "c": 16,
+    "v": 33
+   }
+  },
+  {
+   "id": "JHN.17.1",
+   "titulo": "A oração sacerdotal",
+   "secao": "O Livro da Glória: a última Ceia",
+   "referencia": "Jo 17,1-26",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 26
+   }
+  },
+  {
+   "id": "JHN.18.1",
+   "titulo": "A prisão de Jesus; Anás e as negações de Pedro",
+   "secao": "A Paixão",
+   "referencia": "Jo 18,1-27",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 27
+   }
+  },
+  {
+   "id": "JHN.18.28",
+   "titulo": "Jesus diante de Pilatos",
+   "secao": "A Paixão",
+   "referencia": "Jo 18,28–19,16",
+   "ini": {
+    "c": 18,
+    "v": 28
+   },
+   "fim": {
+    "c": 19,
+    "v": 16
+   }
+  },
+  {
+   "id": "JHN.19.17",
+   "titulo": "A crucifixão e morte de Jesus",
+   "secao": "A Paixão",
+   "referencia": "Jo 19,17-30",
+   "ini": {
+    "c": 19,
+    "v": 17
+   },
+   "fim": {
+    "c": 19,
+    "v": 30
+   }
+  },
+  {
+   "id": "JHN.19.31",
+   "titulo": "O lado traspassado e a sepultura",
+   "secao": "A Paixão",
+   "referencia": "Jo 19,31-42",
+   "ini": {
+    "c": 19,
+    "v": 31
+   },
+   "fim": {
+    "c": 19,
+    "v": 42
+   }
+  },
+  {
+   "id": "JHN.20.1",
+   "titulo": "O sepulcro vazio; Maria Madalena",
+   "secao": "A Ressurreição",
+   "referencia": "Jo 20,1-18",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 18
+   }
+  },
+  {
+   "id": "JHN.20.19",
+   "titulo": "As aparições aos discípulos; Tomé",
+   "secao": "A Ressurreição",
+   "referencia": "Jo 20,19-31",
+   "ini": {
+    "c": 20,
+    "v": 19
+   },
+   "fim": {
+    "c": 20,
+    "v": 31
+   }
+  },
+  {
+   "id": "JHN.21.1",
+   "titulo": "A aparição junto ao lago de Tiberíades",
+   "secao": "A Ressurreição",
+   "referencia": "Jo 21,1-14",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 14
+   }
+  },
+  {
+   "id": "JHN.21.15",
+   "titulo": "Pedro, apascenta as minhas ovelhas; o discípulo amado",
+   "secao": "A Ressurreição",
+   "referencia": "Jo 21,15-25",
+   "ini": {
+    "c": 21,
+    "v": 15
+   },
+   "fim": {
+    "c": 21,
+    "v": 25
+   }
+  }
+ ]
+}

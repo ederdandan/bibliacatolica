@@ -1,0 +1,84 @@
+{
+  "id": "JHN.1.35",
+  "livro": "JHN",
+  "titulo": "Os primeiros discípulos",
+  "secao": "O testemunho inicial",
+  "referencia": "Jo 1,35-51",
+  "ini": { "c": 1, "v": 35 },
+  "fim": { "c": 1, "v": 51 },
+  "liturgia": { "tema_central": "“Que buscais?” — “Vinde ver”: o encontro que gera discípulos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No dia seguinte, João está com dois dos seus discípulos e, vendo Jesus passar, diz: “Eis o Cordeiro de Deus”. Os dois seguem Jesus. Ele volta-se e pergunta: “Que buscais vós?”. Respondem: “Rabi, onde habitas?”. “Vinde ver”, diz Jesus; foram, viram onde morava e ficaram com Ele aquele dia, pela hora décima. Um deles era André, que vai logo ao irmão Simão: “Encontramos o Messias”, e leva-o a Jesus. Jesus fixa nele o olhar: “Tu és Simão, filho de João; serás chamado Cefas”, isto é, Pedra. No dia seguinte, Jesus encontra Filipe, de Betsaida, e diz-lhe: “Segue-me”. Filipe encontra Natanael e anuncia-lhe aquele de quem escreveram Moisés e os profetas, Jesus de Nazaré. Natanael duvida: “De Nazaré pode sair coisa boa?”. “Vem ver.” Jesus chama-o verdadeiro israelita, sem dolo, e diz que o viu debaixo da figueira antes de Filipe o chamar. Natanael confessa: “Tu és o Filho de Deus, tu és o rei de Israel”. Jesus promete coisas maiores: verão o céu aberto e os anjos subindo e descendo sobre o Filho do homem.",
+    "alegorico": "O testemunho passa de boca em boca: João aponta, André chama Pedro, Filipe chama Natanael; assim cresce a Igreja. A mudança do nome de Simão mostra que é o mesmo Deus que chamou Abrão Abraão e Jacó Israel; Pedro será a pedra. A escada de Jacó (Gn 28,12) cumpre-se no Filho do homem: Ele é a ponte viva entre céu e terra, por quem os anjos sobem e descem.",
+    "moral": "A primeira palavra de Jesus neste Evangelho é uma pergunta: “Que buscais?”. Antes de dar respostas, Ele purifica o desejo. Não descreve a casa: leva consigo. A fé não se transmite por argumentos, mas por convite: “Vinde ver”. André não guardou para si o que encontrou, mas correu ao irmão. João Batista, amigo do Esposo, deixa os discípulos partirem: quem serve a Cristo não prende ninguém a si.",
+    "anagogico": "“Vereis o céu aberto”: a promessa feita a Natanael aponta para a visão final, quando o céu, fechado pelo pecado, se abrirá plenamente aos que seguiram o Cordeiro. Ficar com Ele “aquele dia” é figura do dia sem ocaso em que habitaremos para sempre onde Ele habita."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vendo Jesus que ia passando, disse: “Eis o Cordeiro de Deus”. Jesus, voltando-se para trás, e vendo que o seguiam, disse-lhes: “Que buscais vós?” Eles disseram-lhe: “Rabi, onde habitas?” Jesus disse-lhes: “Vinde ver”. Foram, viram onde habitava, e ficaram com ele aquele dia. André encontrou primeiro seu irmão Simão, e disse-lhe: “Encontramos o Messias”. Levou-o a Jesus.",
+    "meditatio_perguntas": [
+      "Se Jesus se voltasse hoje para mim e perguntasse “Que buscais?”, o que eu responderia?",
+      "A quem posso dizer “Vem ver”, como André e Filipe?",
+      "Que preconceitos, como o de Natanael sobre Nazaré, me impedem de reconhecer Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, quero saber onde habitas e ficar contigo. Purifica o que busco e leva-me contigo. Dá-me a alegria de André, que correu a anunciar-te ao irmão, e a coragem de dizer a outros: vem ver. Amém.",
+    "contemplatio_foco": { "texto": "Jesus disse-lhes: \"Vinde ver.\"", "ref": "Jo 1,39" }
+  },
+  "ancoras": {
+    "1:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. vii. c. 8", "catena": "1:35–36#4", "sintese": "Amigo do Esposo, João não buscava a própria glória: não reteve os discípulos, mas mostrou-lhes a quem seguir." }
+      ],
+      "nota": null
+    },
+    "1:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xviii. in Joan. sparsim", "catena": "1:37–40#5", "sintese": "Além de o seguirem, a sua pergunta mostrava amor: chamam-no Mestre antes de terem aprendido dele." }
+      ],
+      "nota": null
+    },
+    "1:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xviii. [al. xvii.] 3", "catena": "1:37–40#9", "sintese": "Não descreve a casa nem adia o encontro: leva-os consigo e fala-lhes com familiaridade, como a velhos amigos." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xviii. 3", "catena": "1:37–40#12", "sintese": "Mostraram grande desejo de o ouvir, pois nem ao entardecer se afastaram dele." }
+      ],
+      "nota": { "texto": "A “hora décima”, contada desde o nascer do sol, corresponde a cerca das quatro da tarde. O evangelista guarda a hora exata, como quem recorda o momento que lhe mudou a vida.", "origem": "ia" }
+    },
+    "1:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xix. 1", "catena": "1:41–42#0", "sintese": "André não guardou para si as palavras do Senhor, mas correu ao irmão a comunicar-lhe a boa-nova." }
+      ],
+      "nota": null
+    },
+    "1:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xix. [al. xviii. 2]", "catena": "1:41–42#7", "sintese": "Muda-lhe o nome para mostrar que é o mesmo que no Antigo Testamento chamou Abrão Abraão e Jacó Israel." }
+      ],
+      "nota": { "texto": "Cefas é o aramaico kêfa, “pedra”, traduzido em grego por Petros. O nome anuncia a missão de Pedro (cf. Mt 16,18).", "origem": "ia" }
+    },
+    "1:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xx. 1", "catena": "1:43–46#4", "sintese": "O poder de Cristo colhe frutos em terra estéril: da Galileia, de onde não surgia profeta, tira os discípulos mais ilustres." }
+      ],
+      "nota": null
+    },
+    "1:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xx", "catena": "1:47–51#7", "sintese": "Ver-se conhecido por dentro e louvado na sua hesitação provou a Natanael que Jesus era o Cristo esperado." }
+      ],
+      "nota": null
+    },
+    "1:51": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "Alusão à escada de Jacó em Betel (Gn 28,12): o próprio Filho do homem é agora o lugar do encontro entre o céu e a terra.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

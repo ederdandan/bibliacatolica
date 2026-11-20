@@ -1,0 +1,102 @@
+{
+  "id": "JHN.3.1",
+  "livro": "JHN",
+  "titulo": "Jesus e Nicodemos",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 3,1-21",
+  "ini": { "c": 3, "v": 1 },
+  "fim": { "c": 3, "v": 21 },
+  "liturgia": { "tema_central": "Nascer da água e do Espírito: “Deus amou de tal modo o mundo, que lhe deu seu Filho unigênito”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Nicodemos, fariseu e um dos chefes dos judeus, vem ter com Jesus de noite e reconhece-o como mestre vindo de Deus, por causa dos milagres. Jesus responde que ninguém pode ver o reino de Deus se não nascer de novo. Nicodemos pensa num segundo nascimento carnal: como pode um velho voltar ao ventre da mãe? Jesus explica: quem não renascer da água e do Espírito Santo não pode entrar no reino; o que nasce da carne é carne, o que nasce do Espírito é espírito. O vento sopra onde quer, ouve-se a sua voz, mas não se sabe de onde vem nem para onde vai: assim é quem nasceu do Espírito. Nicodemos não entende, e Jesus estranha que um mestre em Israel ignore estas coisas. Ninguém subiu ao céu senão o Filho do homem que desceu do céu. Como Moisés levantou a serpente no deserto, assim deve ser levantado o Filho do homem, para que quem nele crê tenha a vida eterna. Deus amou tanto o mundo que deu o seu Filho unigênito, não para condenar, mas para salvar. Quem crê não é condenado; quem não crê já está condenado, porque os homens amaram mais as trevas do que a luz.",
+    "alegorico": "A noite em que Nicodemos chega é a da ignorância, de quem já crê mas ainda não renasceu. A água e o Espírito anunciam o Batismo: como no princípio a terra foi matéria e o Criador modelou Adão, agora a água é matéria e o Espírito realiza toda a obra. A serpente de bronze tinha a forma do animal, mas não o veneno: assim Cristo veio em semelhança da carne de pecado, sem pecado, e, levantado na cruz, cura os que o olham com fé, livrando não da morte temporal, mas da eterna.",
+    "moral": "A fé que se apoia só em milagres ainda vem de noite; é preciso nascer de novo e passar à luz. Quem pratica o mal odeia a luz que o descobre: ama o esplendor da verdade, mas foge do seu juízo. O médico cura quanto depende dele; se o doente despreza o remédio, perde-se por si. Não abusemos da misericórdia: Deus enviou o Filho para salvar, mas a recusa da luz já é condenação. Quem age segundo a verdade não teme a luz, porque reconhece que as suas boas obras foram feitas em Deus.",
+    "anagogico": "O Filho do homem que desceu do céu sobe ao céu levando-nos consigo: unidos a Ele, voltamos em Ele ao lugar de onde Ele veio. A vida eterna prometida a quem crê começa no Batismo e consuma-se na glória, quando os nascidos do Espírito entrarem plenamente no reino de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Este foi ter com Jesus, de noite. Jesus respondeu-lhe: “Em verdade, em verdade te digo que quem não renascer da água e do Espírito Santo, não pode entrar no reino de Deus”. O vento sopra onde quer, e tu ouves a sua voz, mas não sabes donde ele vem, nem para onde vai. E como Moisés levantou no deserto a serpente, assim também importa que seja levantado o Filho do homem. Porque Deus amou de tal modo o mundo, que lhe deu seu Filho unigênito, para que todo o que crê nele não pereça, mas tenha a vida eterna.",
+    "meditatio_perguntas": [
+      "Em que áreas da minha vida ainda vou ter com Jesus “de noite”, às escondidas?",
+      "Vivo como quem renasceu da água e do Espírito, deixando o Espírito soprar onde quer?",
+      "Olho para o Crucificado como os israelitas olhavam para a serpente, à espera de cura?"
+    ],
+    "oratio_guia": "Pai, que amaste de tal modo o mundo que nos deste o teu Filho, faz-me renascer cada dia da água e do Espírito. Tira-me das trevas que amo e leva-me à luz. Ao olhar para o teu Filho levantado na cruz, cura-me e dá-me a vida eterna. Amém.",
+    "contemplatio_foco": { "texto": "Porque Deus amou de tal modo o mundo, que lhe deu seu Filho unigênito", "ref": "Jo 3,16" }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xi. c. 3, 4", "catena": "3:1–3#3", "sintese": "Nicodemos já crera, mas ainda não renascera; por isso veio de noite. Os renascidos ouvem: “Agora sois luz no Senhor”." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxiv. 1", "catena": "3:1–3#2", "sintese": "Retinha-o ainda a fraqueza judaica: veio de noite por medo de vir de dia." }
+      ],
+      "nota": null
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxv. 1", "catena": "3:4–8#6", "sintese": "Como Adão foi modelado da terra, assim agora a água é a matéria, mas toda a obra é do Espírito da graça; antes o paraíso, agora o céu." }
+      ],
+      "nota": { "texto": "A Igreja leu sempre este versículo como referência ao Batismo. “Renascer” traduz o grego anōthen, que significa ao mesmo tempo “de novo” e “do alto”.", "origem": "ia" }
+    },
+    "3:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "Hom. in Invent. S. Cruc.", "catena": "3:4–8#11", "sintese": "O Espírito Santo sopra onde quer: está em seu poder escolher que coração visitar com a sua graça." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xii. c. 5", "catena": "3:4–8#12", "sintese": "Soa o Salmo, soa o Evangelho: é a voz do Espírito, presente invisivelmente na palavra e no sacramento." }
+      ],
+      "nota": { "texto": "Em grego, pneuma significa tanto “vento” como “espírito”: Jesus joga com os dois sentidos.", "origem": "ia" }
+    },
+    "3:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "xxvii. Mor. c. 8", "catena": "3:13#1", "sintese": "Feitos um só com Ele, para onde veio sozinho em si mesmo, volta sozinho em nós: sobe ao céu todos os dias." }
+      ],
+      "nota": null
+    },
+    "3:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:14–15#3", "sintese": "A imagem da serpente tem a forma do animal, mas não o veneno: Cristo veio em semelhança da carne de pecado, sem pecado." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xii. c. 11", "catena": "3:14–15#7", "sintese": "A figura livrava da morte temporal; a realidade, da morte eterna." }
+      ],
+      "nota": { "texto": "Alusão a Nm 21,8-9. “Ser levantado” é, em João, ao mesmo tempo a elevação na cruz e a exaltação na glória (cf. Jo 8,28; 12,32).", "origem": "ia" }
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": "vi. de Trin. c. 40", "catena": "3:16–18#1", "sintese": "As coisas preciosas provam o amor: Deus deu não um filho adotivo, mas o seu próprio Unigénito." }
+      ],
+      "nota": null
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xii. c. 12", "catena": "3:16–18#5", "sintese": "O médico, quanto depende dele, cura; se o doente despreza o remédio, é ele mesmo que se perde." }
+      ],
+      "nota": null
+    },
+    "3:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxviii. 1", "catena": "3:16–18#9", "sintese": "A própria incredulidade já é o castigo: estar sem luz é por si mesmo o maior dos castigos." }
+      ],
+      "nota": null
+    },
+    "3:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Conf. l. x. c. xxiii.", "catena": "3:19–21#5", "sintese": "Amam a luz quando ela se mostra, odeiam-na quando os mostra a eles: amam o esplendor da verdade, mas não o seu juízo." }
+      ],
+      "nota": null
+    },
+    "3:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Pecc. mer. et Remiss. l. i. c. 33", "catena": "3:19–21#9", "sintese": "As obras de quem vem para a luz são feitas em Deus: a sua justificação não se atribui aos próprios méritos." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

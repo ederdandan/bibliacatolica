@@ -1,0 +1,77 @@
+{
+  "id": "JHN.1.19",
+  "livro": "JHN",
+  "titulo": "O testemunho de João Batista",
+  "secao": "O testemunho inicial",
+  "referencia": "Jo 1,19-34",
+  "ini": { "c": 1, "v": 19 },
+  "fim": { "c": 1, "v": 34 },
+  "liturgia": { "tema_central": "“Eis o Cordeiro de Deus, eis o que tira o pecado do mundo”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Os judeus de Jerusalém enviam sacerdotes e levitas a perguntar a João quem ele é. João confessa sem rodeios: não é o Cristo, nem Elias, nem o profeta. É “a voz do que clama no deserto: Endireitai o caminho do Senhor”, como disse Isaías. Os enviados, que eram fariseus, perguntam por que batiza então. João responde que batiza em água, mas no meio deles está alguém que não conhecem, de quem não é digno de desatar a correia das sandálias. Isto passa-se em Betânia, além do Jordão. No dia seguinte, vendo Jesus vir ao seu encontro, João diz: “Eis o Cordeiro de Deus, eis o que tira o pecado do mundo”. É aquele que, vindo depois, era antes dele. João não o conhecia, mas veio batizar para que Ele fosse manifestado a Israel. Viu o Espírito descer do céu como pomba e repousar sobre Ele, sinal que lhe fora dado para reconhecer quem batiza no Espírito Santo. E dá testemunho: Ele é o Filho de Deus.",
+    "alegorico": "João é a voz; Cristo é o Verbo. A voz passa, a Palavra permanece. O Cordeiro de Deus é o cordeiro pascal e o servo levado ao matadouro: só Ele, concebido sem pecado de uma virgem, é inocente e pode tirar o pecado do mundo. O Espírito em forma de pomba não vem suprir uma falta em Cristo, mas manifestá-lo; e o batismo de água de João anuncia outro batismo, no Espírito, que só o Cordeiro dá.",
+    "moral": "João tinha fama e poderia ter recebido a honra de ser tido por Cristo; preferiu dizer “não sou”. A humildade verdadeira não diminui a verdade, mas diminui-se a si mesma diante dela. Quem tira o pecado é Cristo, não a santidade do ministro: ninguém presuma ser a fonte da graça que distribui. E Cristo está “no meio de vós”, confundido com o povo; cabe-nos aprender a reconhecê-lo onde não o esperamos.",
+    "anagogico": "O Cordeiro que João aponta junto ao Jordão é o Cordeiro que o Apocalipse mostra de pé no trono, adorado pela multidão dos remidos. O testemunho começado no deserto termina na liturgia do céu, onde os que foram lavados no seu sangue o seguem para onde quer que vá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ele confessou a verdade, não a negou; e confessou: “Eu não sou o Cristo”. Disse-lhes então: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor. No meio de vós está quem vós não conheceis. No dia seguinte João viu Jesus, que vinha ter com ele, e disse: “Eis o Cordeiro de Deus, eis o que tira o pecado do mundo”. Eu o vi, e dei testemunho de que ele é o Filho de Deus.",
+    "meditatio_perguntas": [
+      "Sei dizer “não sou” para não ocupar o lugar que é de Cristo?",
+      "Quem está “no meio de nós” e eu ainda não reconheço?",
+      "Como respondo, na Missa, quando ouço: “Eis o Cordeiro de Deus”?"
+    ],
+    "oratio_guia": "Senhor Jesus, Cordeiro de Deus que tiras o pecado do mundo, tem piedade de mim. Faz de mim uma voz que prepara o teu caminho, humilde como João, e dá-me reconhecer-te no meio de nós e testemunhar que és o Filho de Deus. Amém.",
+    "contemplatio_foco": { "texto": "Eis o Cordeiro de Deus, eis o que tira o pecado do mundo.", "ref": "Jo 1,29" }
+  },
+  "ancoras": {
+    "1:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. 4. c. 3", "catena": "1:19–23#4", "sintese": "Não o teriam enviado se não estivessem impressionados com a autoridade que mostrava ao ousar batizar." }
+      ],
+      "nota": null
+    },
+    "1:21": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "“O profeta” é o profeta semelhante a Moisés prometido em Dt 18,15. João nega ser Elias em pessoa, embora venha “com o espírito e o poder de Elias” (Lc 1,17).", "origem": "ia" }
+    },
+    "1:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "xvi. 3", "catena": "1:24–28#5", "sintese": "Cristo mistura-se com o povo, um entre muitos, mostrando em tudo a sua humildade; não o conhecem quanto a quem é e de onde vem." }
+      ],
+      "nota": null
+    },
+    "1:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xvi. [al. xv.] 3", "catena": "1:24–28#11", "sintese": "Não se trata de comparação: a superioridade de Cristo está acima de toda medida, e João nem de desatar a sandália é digno." }
+      ],
+      "nota": null
+    },
+    "1:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. iv. c. 10", "catena": "1:29–31#2", "sintese": "Todos nasceram na iniquidade; só Ele, concebido e dado à luz por uma virgem, é o Cordeiro sem pecado." },
+        { "autor": "Santo Agostinho", "obra": "Tr. iv. c. 10, 11", "catena": "1:29–31#8", "sintese": "Quem não assumiu o pecado é quem tira o nosso: não presumam os ministros que são eles que tiram os pecados." }
+      ],
+      "nota": { "texto": "O “Cordeiro” evoca o cordeiro pascal (Ex 12) e o servo sofredor “como cordeiro levado ao matadouro” (Is 53,7). A Missa repete estas palavras antes da comunhão.", "origem": "ia" }
+    },
+    "1:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xvii. [al. xvi.] 2", "catena": "1:29–31#14", "sintese": "Diz “eu não o conhecia” para que não parecesse testemunhar por amizade ou parentesco segundo a carne." }
+      ],
+      "nota": null
+    },
+    "1:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xvii [al. xvi.] 2. in Joan.", "catena": "1:32–34#5", "sintese": "Cristo não precisava do Espírito como nós: a descida do Espírito deu-se para o manifestar." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

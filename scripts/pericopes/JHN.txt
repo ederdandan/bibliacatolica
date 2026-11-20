@@ -1,0 +1,56 @@
+# Divisão de João em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O Prólogo
+1:1-1:18 | O Verbo se fez carne
+## O testemunho inicial
+1:19-1:34 | O testemunho de João Batista
+1:35-1:51 | Os primeiros discípulos
+## O Livro dos Sinais
+2:1-2:12 | As bodas de Caná
+2:13-2:25 | A purificação do Templo
+3:1-3:21 | Jesus e Nicodemos
+3:22-3:36 | O último testemunho de João Batista
+4:1-4:42 | Jesus e a samaritana
+4:43-4:54 | A cura do filho do oficial do rei
+5:1-5:18 | A cura do paralítico de Betesda
+5:19-5:47 | O Filho dá a vida e julga
+6:1-6:15 | A multiplicação dos pães
+6:16-6:21 | Jesus caminha sobre as águas
+6:22-6:40 | O pão da vida
+6:41-6:59 | A minha carne é verdadeiramente comida
+6:60-6:72 | Palavras de vida eterna
+7:1-7:13 | Jesus e seus irmãos; a festa dos Tabernáculos
+7:14-7:36 | Jesus ensina no Templo
+7:37-7:53 | Rios de água viva
+8:1-8:11 | A mulher adúltera
+8:12-8:30 | Eu sou a luz do mundo
+8:31-8:59 | A verdade vos fará livres; antes que Abraão existisse, Eu sou
+9:1-9:41 | A cura do cego de nascença
+10:1-10:21 | O Bom Pastor
+10:22-10:42 | Eu e o Pai somos um
+11:1-11:44 | A ressurreição de Lázaro
+11:45-11:57 | A decisão de matar Jesus
+12:1-12:11 | A unção em Betânia
+12:12-12:19 | A entrada em Jerusalém
+12:20-12:36 | O grão de trigo; a hora da glorificação
+12:37-12:50 | A incredulidade e o juízo
+## O Livro da Glória: a última Ceia
+13:1-13:20 | O lava-pés
+13:21-13:38 | O anúncio da traição; o mandamento novo
+14:1-14:14 | Eu sou o caminho, a verdade e a vida
+14:15-14:31 | A promessa do Paráclito; a paz de Cristo
+15:1-15:17 | A videira e os ramos
+15:18-16:4 | O ódio do mundo
+16:5-16:15 | A obra do Espírito Santo
+16:16-16:33 | A tristeza convertida em alegria
+17:1-17:26 | A oração sacerdotal
+## A Paixão
+18:1-18:27 | A prisão de Jesus; Anás e as negações de Pedro
+18:28-19:16 | Jesus diante de Pilatos
+19:17-19:30 | A crucifixão e morte de Jesus
+19:31-19:42 | O lado traspassado e a sepultura
+## A Ressurreição
+20:1-20:18 | O sepulcro vazio; Maria Madalena
+20:19-20:31 | As aparições aos discípulos; Tomé
+21:1-21:14 | A aparição junto ao lago de Tiberíades
+21:15-21:25 | Pedro, apascenta as minhas ovelhas; o discípulo amado

@@ -1,0 +1,119 @@
+{
+  "id": "JHN.1.1",
+  "livro": "JHN",
+  "titulo": "O Verbo se fez carne",
+  "secao": "O Prólogo",
+  "referencia": "Jo 1,1-18",
+  "ini": { "c": 1, "v": 1 },
+  "fim": { "c": 1, "v": 18 },
+  "liturgia": { "tema_central": "O Verbo eterno, luz e vida, faz-se carne e dá-nos o poder de sermos filhos de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "João começa antes do tempo: no princípio existia o Verbo, que estava junto de Deus e era Deus. Por Ele todas as coisas foram feitas; nele estava a vida, e a vida era a luz dos homens, luz que resplandece nas trevas sem ser vencida. Surge um homem enviado por Deus, João, não como a luz, mas como testemunha da luz, para que todos cressem. O Verbo, luz verdadeira que ilumina todo o homem, estava no mundo, e o mundo não o conheceu; veio para os seus, e os seus não o receberam. Aos que o receberam deu o poder de se tornarem filhos de Deus, nascidos não do sangue nem da vontade da carne, mas de Deus. E o Verbo se fez carne e habitou entre nós, cheio de graça e de verdade. Da sua plenitude todos recebemos graça sobre graça: a lei veio por Moisés, a graça e a verdade por Jesus Cristo. O Filho Unigénito, que está no seio do Pai, é quem o deu a conhecer.",
+    "alegorico": "Enquanto os outros evangelistas começam pela Encarnação, João sobe como águia à geração eterna do Filho. O Verbo não foi feito, pois tudo foi feito por Ele; é coeterno com o Pai e distinto dele, estando “junto de Deus”. A luz que os corações cegos pelo pecado não podiam ver vem em carne, para que, vendo o homem, conhecessem a Deus. Ao fazer-se filho do homem, o Filho de Deus fez dos homens filhos de Deus: o Verbo habitou entre nós sem mudar a sua natureza, como quem habita uma tenda.",
+    "moral": "Ser filho de Deus é um poder que se recebe, não um prémio que se possui: é preciso muito cuidado para conservar imaculada a imagem formada no batismo. A graça é dom de Deus, mas a adesão da fé cabe ao homem, por isso se diz “aos que creem no seu nome”. Não basta estar perto da luz: é preciso recebê-la. O mundo que não conheceu o Verbo são os que amam o mundo; quem ama a Deus abre-lhe a casa.",
+    "anagogico": "Ninguém jamais viu a Deus; só o Filho, que está no seio do Pai, o conhece plenamente e o revela. A glória que os apóstolos viram velada na carne será contemplada face a face, quando a graça sobre graça desabrochar em glória, e os filhos nascidos de Deus virem o Pai no Filho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No princípio existia o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus. Nele estava a vida, e a vida era a luz dos homens. Veio para o que era seu, e os seus não o receberam. Mas a todos os que o receberam, deu poder de se tornarem filhos de Deus. E o Verbo se fez carne, e habitou entre nós; e nós vimos a sua glória. Todos nós participamos da sua plenitude, e recebemos graça sobre graça.",
+    "meditatio_perguntas": [
+      "Recebo o Verbo na minha casa, ou deixo-o à porta como os seus que não o receberam?",
+      "Como vivo o poder de ser filho de Deus que recebi no batismo?",
+      "Onde as trevas da minha vida precisam da luz que nelas resplandece?"
+    ],
+    "oratio_guia": "Verbo eterno do Pai, que te fizeste carne e habitaste entre nós, ilumina as minhas trevas com a tua luz. Dá-me receber-te com fé, para viver como filho de Deus, e da tua plenitude concede-me graça sobre graça. Amém.",
+    "contemplatio_foco": { "texto": "E o Verbo se fez carne, e habitou entre nós", "ref": "Jo 1,14" }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. iv. [iii.] in Joan.", "catena": "1:1#0", "sintese": "Os outros evangelistas começam pela Encarnação; João, omitindo concepção e infância, fala logo da geração eterna." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. i", "catena": "1:1#14", "sintese": "Como em alto-mar desaparecem portos e cidades, assim João leva a mente além de todo o tempo, sem onde fixar o olhar." }
+      ],
+      "nota": { "texto": "“Verbo” traduz o grego Logos (latim Verbum): Palavra e Razão de Deus. O versículo ecoa Gn 1,1, “No princípio”, e apresenta o Filho como Deus, distinto do Pai.", "origem": "ia" }
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "1:2#4", "sintese": "Usa o verbo “era” para mostrar que o Verbo, coeterno com o Pai, existia antes de todos os tempos." }
+      ],
+      "nota": null
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "in Joan. Tr. i. c. 11", "catena": "1:3#4", "sintese": "Se Deus fez tudo pelo Verbo, o Verbo não foi feito: se o fosse, por que outro verbo teria sido feito?" }
+      ],
+      "nota": null
+    },
+    "1:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "in Joan. Tr. i. c. 18", "catena": "1:4#7", "sintese": "A vida ilumina os homens, não os animais: só o homem, feito à imagem de Deus, tem alma racional para discernir a sabedoria." }
+      ],
+      "nota": null
+    },
+    "1:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. i. c. 19", "catena": "1:5#0", "sintese": "Os corações carregados de pecado não veem a luz; a luz, porém, continua presente, como o sol diante do cego." },
+        { "autor": "Santo Agostinho", "obra": "de Civit. Dei, l. x. c. 29", "catena": "1:5#7", "sintese": "Um platónico disse que o início deste Evangelho devia ser escrito em letras de ouro no lugar mais visível das igrejas." }
+      ],
+      "nota": null
+    },
+    "1:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. vi. [v.] in Joan. c. 1", "catena": "1:6–8#8", "sintese": "A Luz não precisava de testemunho; João veio por causa de nós, “para que todos cressem por meio dele”." }
+      ],
+      "nota": null
+    },
+    "1:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. ii. in Joan. §. 7", "catena": "1:9#2", "sintese": "Também o homem iluminado se chama luz; mas a luz verdadeira é a que ilumina." }
+      ],
+      "nota": null
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. in Joan. ii. c. 11", "catena": "1:10#5", "sintese": "Mundo são também os que amam o mundo: esses não conheceram o seu Criador." }
+      ],
+      "nota": null
+    },
+    "1:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. x. [ix.] 2", "catena": "1:11–13#7", "sintese": "Não diz que os fez filhos, mas que lhes deu poder de o serem: é preciso cuidado para conservar imaculada a imagem recebida." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. x. 2", "catena": "1:11–13#9", "sintese": "A concessão da graça cabe a Deus, a adesão da fé ao homem: por isso acrescenta “aos que creem no seu nome”." }
+      ],
+      "nota": null
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xi. [x.] 1", "catena": "1:14#1", "sintese": "A causa da nossa honra é esta: o Filho de Deus fez-se filho do homem para fazer dos homens filhos de Deus." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. in Joan. xi. [x.] 2", "catena": "1:14#11", "sintese": "“Habitou entre nós” afasta a ideia de mudança: quem habita não se converte na morada." }
+      ],
+      "nota": { "texto": "“Habitou” traduz o grego eskēnōsen, “armou a sua tenda”, evocando a tenda do encontro e a glória (shekiná) que habitava no meio de Israel.", "origem": "ia" }
+    },
+    "1:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "in Joan. Tr. iii. c. 8", "catena": "1:16–17#2", "sintese": "Recebemos da sua plenitude e, depois, graça por graça: a fé é graça, e a vida eterna é dada como graça em troca dessa graça." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xiv. [xiii.]", "catena": "1:16–17#3", "sintese": "Ou graça por graça: a nova em lugar da antiga, como há uma adoção e outra adoção, uma circuncisão e outra." }
+      ],
+      "nota": null
+    },
+    "1:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xv. [xiv.] 1", "catena": "1:18#13", "sintese": "Em sentido pleno, só o Filho e o Espírito veem o Pai: a natureza criada não pode ver o incriado." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. xv. [xiv.] 2", "catena": "1:18#15", "sintese": "Estar no seio do Pai é mais do que ver: indica intimidade e conhecimento perfeito." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

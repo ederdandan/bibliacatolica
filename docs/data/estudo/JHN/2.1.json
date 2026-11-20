@@ -1,0 +1,88 @@
+{
+  "id": "JHN.2.1",
+  "livro": "JHN",
+  "titulo": "As bodas de Caná",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 2,1-12",
+  "ini": { "c": 2, "v": 1 },
+  "fim": { "c": 2, "v": 12 },
+  "liturgia": { "tema_central": "“Fazei tudo o que ele vos disser”: o primeiro sinal e o vinho novo do Esposo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Três dias depois, há umas bodas em Caná da Galileia; a Mãe de Jesus está lá, e Jesus é também convidado com os discípulos. Faltando o vinho, a Mãe diz-lhe: “Não têm vinho”. Jesus responde: “Mulher, que nos importa a mim e a ti isso? Ainda não chegou a minha hora”. Ela diz aos serventes: “Fazei tudo o que ele vos disser”. Havia ali seis talhas de pedra para a purificação dos judeus, de duas a três metretas cada uma. Jesus manda enchê-las de água, e enchem-nas até cima; depois manda tirar e levar ao arquitriclino. Este prova a água feita vinho, sem saber de onde viera, embora os serventes o soubessem, e chama o esposo: todos servem primeiro o bom vinho e depois o inferior, “tu guardaste o bom vinho até agora”. Foi este o primeiro milagre de Jesus, em Caná; manifestou a sua glória, e os discípulos creram nele. Depois desce a Cafarnaum com a Mãe, os irmãos e os discípulos.",
+    "alegorico": "Quem veio ao mundo para umas bodas vai a uma boda: o Verbo é o Esposo, a carne humana a esposa, e o seio da Virgem o seu tálamo. A água das talhas de purificação é a Lei e as antigas Escrituras; Cristo não a derrama, mas converte-a em vinho, mostrando que o Antigo Testamento vinha dele e que só tem sabor quando nele se compreende Cristo. O bom vinho guardado até agora é o Evangelho; a “hora” que ainda não chegou é a da cruz, onde Maria estará de novo e onde o vinho se fará sangue.",
+    "moral": "Maria vê a necessidade antes que os noivos a sintam, e não exige: apresenta-a ao Filho e deixa-lhe a decisão. Depois aponta aos serventes o único caminho: “Fazei tudo o que ele vos disser”. Os serventes obedecem a uma ordem que parece inútil e enchem as talhas até cima; por isso sabem o que o mestre-sala ignora. A obediência generosa nas coisas pequenas é o lugar onde se vê o milagre.",
+    "anagogico": "As bodas de Caná anunciam as bodas do Cordeiro (Ap 19,9). O melhor vinho é guardado para o fim: a alegria do Reino supera tudo o que agora provamos, e quem foi fiel no pouco será convidado à mesa onde o Esposo serve o vinho novo para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Celebraram-se umas bodas em Caná da Galileia, e encontrava-se lá a Mãe de Jesus. Faltando o vinho, a Mãe de Jesus disse-lhe: “Não têm vinho”. Disse sua Mãe aos que serviam: “Fazei tudo o que ele vos disser”. Jesus disse-lhes: Enchei as talhas de água. Encheram-nas até cima. Tu, ao contrário, tiveste o bom vinho guardado até agora. Assim manifestou a sua glória, e os seus discípulos creram nele.",
+    "meditatio_perguntas": [
+      "Onde falta o vinho na minha vida, na minha família, na minha comunidade?",
+      "Encho “até cima” as talhas que o Senhor me manda encher, ou obedeço pela metade?",
+      "Deixo Maria apresentar ao Filho as minhas necessidades?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da Igreja, Tu vês onde falta o vinho da alegria e do amor. Pela intercessão da tua Mãe, transforma a água da minha pobreza no teu vinho novo. Ensina-me a fazer tudo o que me disseres. Amém.",
+    "contemplatio_foco": { "texto": "Fazei tudo o que ele vos disser.", "ref": "Jo 2,5" }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:1–4#6", "sintese": "Não é sem mistério que as bodas se dão ao terceiro dia: aludem à terceira época do mundo, a da graça." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:1–4#5", "sintese": "Veio ao mundo para umas bodas: o Verbo é o Esposo, a carne humana a esposa, e o seio da Virgem o tálamo." }
+      ],
+      "nota": null
+    },
+    "2:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:1–4#3", "sintese": "Envergonhe-se o soberbo ao ver a humildade de Deus: o Filho da Virgem vai a um casamento." }
+      ],
+      "nota": null
+    },
+    "2:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxi. [al. xx.] 2", "catena": "2:1–4#10", "sintese": "Venerava muito a sua mãe e era-lhe submisso; mas aos pais obedece-se enquanto não afastam das coisas de Deus." },
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:1–4#11", "sintese": "“Mulher, que tenho eu contigo?” marca a distinção: segundo a humanidade era submisso; segundo a divindade, soberano." }
+      ],
+      "nota": { "texto": "“Mulher” não é tratamento frio: Jesus volta a usá-lo na cruz (Jo 19,26) e evoca a mulher de Gn 3,15. A “hora” é, em João, a hora da paixão e glorificação.", "origem": "ia" }
+    },
+    "2:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxii. [al. xxi.] 2.", "catena": "2:5–11#3", "sintese": "Na Palestina seca enchiam talhas para a purificação; ninguém podia dizer que nelas houvera antes resto de vinho." }
+      ],
+      "nota": { "texto": "Uma metreta valia cerca de 40 litros: as seis talhas somavam entre 480 e 700 litros. Abundância própria dos tempos messiânicos (Am 9,13).", "origem": "ia" }
+    },
+    "2:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "2:5–11#8", "sintese": "Quem tira pensa tirar água; quem serve vê derramar-se vinho. Não houve mistura, mas criação." }
+      ],
+      "nota": null
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:5–11#17", "sintese": "Não derramou a água: converteu-a, mostrando que o Antigo Testamento vinha dele; e as Escrituras não têm sabor sem Cristo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:5–11#16", "sintese": "Quando Cristo veio, o sabor de vinho da Lei estava enfraquecido pelas interpretações carnais dos fariseus." }
+      ],
+      "nota": null
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:5–11#11", "sintese": "O mesmo que fez vinho nas talhas faz todos os anos vinho na videira; reserva prodígios para despertar os homens à adoração." }
+      ],
+      "nota": null
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. x. in Joan. 1, 2", "catena": "2:12–13#1", "sintese": "Excelso para nos criar e humilde para nos recriar, caminha entre os homens ocultando o divino: tem mãe e irmãos." }
+      ],
+      "nota": { "texto": "“Irmãos” designa, no uso hebraico e aramaico, parentes próximos, como primos (cf. Gn 13,8; Mt 13,55; 27,56).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

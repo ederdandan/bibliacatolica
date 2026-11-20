@@ -1,0 +1,138 @@
+{
+  "id": "JHN.4.1",
+  "livro": "JHN",
+  "titulo": "Jesus e a samaritana",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 4,1-42",
+  "ini": { "c": 4, "v": 1 },
+  "fim": { "c": 4, "v": 42 },
+  "liturgia": { "tema_central": "“Dá-me de beber”: Cristo tem sede da nossa fé e dá a água viva", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus deixa a Judeia e, de caminho para a Galileia, passa pela Samaria. Chega a Sicar, junto ao poço de Jacó, e, cansado, senta-se na borda pela hora sexta. Uma samaritana vem tirar água, e Ele pede-lhe: “Dá-me de beber”. Ela estranha que um judeu fale a uma samaritana. Jesus responde que, se ela conhecesse o dom de Deus, seria ela a pedir, e Ele lhe daria água viva: quem beber dela nunca mais terá sede, pois será nele fonte que jorra para a vida eterna. Ela pede essa água; Jesus manda-a chamar o marido e revela que teve cinco e que o atual não é seu. Ela reconhece um profeta e pergunta onde se deve adorar. Jesus anuncia a hora em que os verdadeiros adoradores adorarão o Pai em espírito e verdade, pois Deus é espírito. Quando ela fala do Messias, Ele diz: “Sou eu, que falo contigo”. A mulher deixa o cântaro e corre à cidade: “Vinde ver um homem que me disse tudo o que tenho feito”. Aos discípulos que insistem para que coma, Jesus diz que o seu alimento é fazer a vontade do Pai, e que os campos já estão brancos para a ceifa. Muitos samaritanos creem, primeiro pela palavra da mulher, depois por o terem ouvido: Ele é verdadeiramente o Salvador do mundo.",
+    "alegorico": "Jesus cansado é o Verbo feito carne: forte porque era Deus, fraco porque se fez homem; a sua caminhada é a assunção da nossa carne. Chega à hora sexta, figura da sexta idade do mundo. A mulher é figura da Igreja vinda dos gentios, ainda não justificada mas prestes a sê-lo. O poço é o prazer do mundo, tirado com o cântaro das paixões; a água viva é a graça do Espírito, que nunca seca. Ao deixar o cântaro, a samaritana deixa a concupiscência e corre a anunciar a verdade.",
+    "moral": "Cristo tem sede da fé daqueles por quem derramou o sangue; pede para poder dar. A mulher não se ofende com a verdade sobre a sua vida, antes cresce em fé: quem se deixa conhecer por Cristo torna-se testemunha. Aprendam os que querem pregar que devem primeiro deixar o cântaro junto ao poço. O alimento de Cristo é a salvação dos homens; o nosso deve ser a vontade do Pai. A graça é semente: Deus dá o princípio do bem, e nós cultivamo-lo.",
+    "anagogico": "A água que Cristo dá torna-se fonte que jorra para a vida eterna: começa agora no coração e desemboca na visão de Deus. Na hora que já chegou, a adoração em espírito e verdade antecipa a liturgia do céu, onde não haverá monte nem templo, mas o Pai adorado face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Fatigado da viagem, Jesus sentou-se sobre a borda do poço. Veio uma mulher da Samaria tirar água. Jesus disse-lhe: “Dá-me de beber”. Se tu conheceras o dom de Deus, e quem é que te diz: Dá-me de beber, certamente lhe pedirias, e ele te daria de uma água viva. A água que eu lhe der, virá a ser nele uma fonte de água que salte para a vida eterna. Os verdadeiros adoradores adorarão o Pai em espírito e verdade. A mulher, então, deixou o seu cântaro, foi à cidade e disse: “Vinde ver um homem, que me disse tudo o que eu tenho feito”.",
+    "meditatio_perguntas": [
+      "Que cântaro, que poço de prazeres passageiros, ainda trago para matar a minha sede?",
+      "Deixo Jesus dizer-me “tudo o que tenho feito”, sem fugir da verdade?",
+      "Como posso, como a samaritana, levar outros a “vir ver”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te sentaste cansado junto ao poço à minha espera, tens sede da minha fé. Dá-me da tua água viva, para que eu não tenha mais sede das coisas que passam. Ensina-me a adorar o Pai em espírito e verdade e a deixar o meu cântaro para te anunciar. Amém.",
+    "contemplatio_foco": { "texto": "Se tu conheceras o dom de Deus", "ref": "Jo 4,10" }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xv, c. 6", "catena": "4:1–6#14", "sintese": "Jesus é forte e fraco: forte porque era o Verbo, fraco porque o Verbo se fez carne; por isso se senta cansado." },
+        { "autor": "Santo Agostinho", "obra": "1. lxxxiii. Quæst. qu. 64", "catena": "4:1–6#19", "sintese": "Chega na hora sexta, figura da sexta idade do género humano, a velhice do homem velho de que nos devemos despojar." }
+      ],
+      "nota": { "texto": "A “hora sexta” corresponde ao meio-dia. Também é na hora sexta que Pilatos apresenta Jesus ao povo (Jo 19,14).", "origem": "ia" }
+    },
+    "4:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "1. lxxxiii. Quæst. qu. 64", "catena": "4:7–12#3", "sintese": "Jesus tinha sede da fé daquela mulher: tem sede da fé daqueles por quem derramou o sangue." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 10", "catena": "4:7–12#1", "sintese": "A mulher é figura da Igreja, ainda não justificada, mas prestes a sê-lo." }
+      ],
+      "nota": null
+    },
+    "4:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "tom. xiv. in Joan.", "catena": "4:7–12#8", "sintese": "Ninguém recebe um dom divino sem o pedir: até o Salvador é mandado pelo Pai pedir." },
+        { "autor": "Teofilato", "obra": null, "catena": "4:7–12#12", "sintese": "Água viva é a graça do Espírito Santo: vivificante, refrescante, que põe em movimento." }
+      ],
+      "nota": null
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": "t. xiii. 6", "catena": "4:7–12#19", "sintese": "Em sentido místico, o poço de Jacó são as Escrituras: os doutos bebem dele como Jacó e os filhos." }
+      ],
+      "nota": null
+    },
+    "4:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 16", "catena": "4:13–18#1", "sintese": "A água do poço é o prazer do mundo, tirado com o cântaro das paixões: quem a bebe volta a ter sede." },
+        { "autor": "Teofilato", "obra": null, "catena": "4:13–18#3", "sintese": "A água de Cristo multiplica-se: os santos recebem a semente do bem pela graça e fazem-na crescer pelo seu cultivo." }
+      ],
+      "nota": null
+    },
+    "4:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 20", "catena": "4:13–18#7", "sintese": "A mulher não tinha marido legítimo, mas vivia numa união irregular." }
+      ],
+      "nota": { "texto": "Alguns intérpretes veem nos cinco maridos uma alusão aos cultos introduzidos na Samaria pelos colonos de cinco povos (2Rs 17,24-41).", "origem": "ia" }
+    },
+    "4:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxii", "catena": "4:19–24#0", "sintese": "Não se ofende com a repreensão nem se vai embora: cresce a sua admiração." }
+      ],
+      "nota": null
+    },
+    "4:20": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "“Esta montanha” é o Garizim, onde os samaritanos tinham tido templo próprio, destruído por João Hircano no século II a.C.", "origem": "ia" }
+    },
+    "4:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxii. 2", "catena": "4:19–24#18", "sintese": "Deus é incorpóreo: deve ser adorado não com purificações do corpo, mas com a alma e uma mente pura." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 25", "catena": "4:19–24#22", "sintese": "Procuras um monte alto para orar? Deus habita nas alturas, mas olha para os humildes: desce, para subires." }
+      ],
+      "nota": null
+    },
+    "4:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxiii. 2", "catena": "4:25–26#5", "sintese": "Cristo revela-se agora à mulher, já preparada para receber a revelação." }
+      ],
+      "nota": null
+    },
+    "4:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "4:27–30#10", "sintese": "O cântaro é a concupiscência com que se tira o prazer do poço escuro desta vida: quem crê em Cristo deixa-o." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 30", "catena": "4:27–30#11", "sintese": "Aprendam os que querem pregar o Evangelho a deixar primeiro o cântaro junto ao poço." }
+      ],
+      "nota": null
+    },
+    "4:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxiv. 1", "catena": "4:27–30#7", "sintese": "A vergonha não a impediu de anunciar: a alma acesa pelo fogo divino já não olha para coisas terrenas." }
+      ],
+      "nota": null
+    },
+    "4:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxxiv. 1", "catena": "4:31–34#4", "sintese": "Chama alimento à salvação dos homens: deseja-a como nós desejamos a comida." }
+      ],
+      "nota": null
+    },
+    "4:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 32", "catena": "4:35–38#7", "sintese": "Enviou ceifeiros, não semeadores: os profetas semearam, e os Apóstolos colheram onde eles tinham pregado." }
+      ],
+      "nota": null
+    },
+    "4:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xv. c. 33", "catena": "4:39–42#6", "sintese": "Conhecem Cristo primeiro pelo relato da mulher, depois pela sua presença: assim vêm hoje os de fora, pela Igreja." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "JHN.3.22",
+  "livro": "JHN",
+  "titulo": "O último testemunho de João Batista",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 3,22-36",
+  "ini": { "c": 3, "v": 22 },
+  "fim": { "c": 3, "v": 36 },
+  "liturgia": { "tema_central": "“Convém que ele cresça e eu diminua”: a alegria do amigo do Esposo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus vai com os discípulos para a Judeia, fica com eles e batiza. João também batiza em Enon, junto a Salim, onde há muita água, pois ainda não fora preso. Surge uma discussão sobre a purificação, e os discípulos de João vêm queixar-se: aquele de quem ele deu testemunho está a batizar, e todos vão ter com ele. João responde que o homem nada pode receber se não lhe for dado do céu. Recorda que disse não ser o Cristo, mas o enviado à sua frente. Quem tem a esposa é o esposo; o amigo do esposo, que está de pé e o ouve, enche-se de alegria com a sua voz: essa alegria está completa. “Convém que ele cresça e eu diminua.” Quem vem do alto está acima de todos; quem vem da terra fala da terra. Ele testemunha o que viu e ouviu, e quem aceita o seu testemunho confirma que Deus é verdadeiro. Deus não lhe dá o Espírito por medida; o Pai ama o Filho e pôs tudo nas suas mãos. Quem crê no Filho tem a vida eterna; quem não crê não verá a vida, e a ira de Deus permanece sobre ele.",
+    "alegorico": "Cristo é o Esposo de cada alma: as núpcias são o Batismo, o lugar delas a Igreja, o penhor a remissão dos pecados e o dom do Espírito, a consumação a vida eterna. Os pregadores são apenas amigos do Esposo, a quem Ele confiou a esposa para a guardarem não para si, mas para Ele. João diminui como a estrela que se apaga ao nascer do sol: não é extinta, mas ofuscada por uma luz maior. O batismo de João, como a instrução dos catecúmenos, preparava o de Cristo.",
+    "moral": "A vanglória rói a alma como o verme a madeira, e é vício obstinado: os discípulos de João sentem ciúmes por ele. João responde sem rancor: tudo o que temos é recebido do céu. O amigo do Esposo está “de pé” porque não cai, firmado na humildade. Antes de Cristo os homens gloriavam-se em si; Ele veio para que a glória do homem diminua e a de Deus cresça. A fé que dá a vida não é só de palavras, mas traduz-se em obras.",
+    "anagogico": "A alegria completa do amigo do Esposo antecipa a alegria das bodas eternas. O Pai pôs todas as coisas nas mãos do Filho, também a vida eterna: quem crê já a possui em germe, e verá a vida em plenitude quando o Esposo vier buscar a sua Igreja."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "João respondeu: O homem não pode receber coisa alguma, se lhe não for dada do céu. O que tem a esposa é o esposo, mas o amigo do esposo, que está de pé e o ouve, enche-se de gozo com a voz do esposo. Esta é a minha alegria, e ela é perfeita. Convém que ele cresça e eu diminua. O Pai ama o Filho, e pôs todas as coisas na sua mão. O que crê no Filho, tem a vida eterna.",
+    "meditatio_perguntas": [
+      "Sinto ciúmes quando outros fazem o bem que eu gostaria de fazer?",
+      "O que precisa de diminuir em mim para que Cristo cresça?",
+      "Reconheço que tudo o que tenho me foi dado do céu?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da minha alma, dá-me a alegria do amigo que está de pé e ouve a tua voz. Livra-me da vanglória e da inveja. Que tu cresças em mim, e eu diminua, até que só tu sejas a minha glória. Amém.",
+    "contemplatio_foco": { "texto": "Convém que ele cresça e eu diminua.", "ref": "Jo 3,30" }
+  },
+  "ancoras": {
+    "3:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xiii. c. 4", "catena": "3:22–26#4", "sintese": "Foi batizado por um servo para nos ensinar humildade; mas batizava como Senhor, com o seu próprio batismo." }
+      ],
+      "nota": { "texto": "Jo 4,2 precisa que não era Jesus em pessoa que batizava, mas os seus discípulos, por sua autoridade.", "origem": "ia" }
+    },
+    "3:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "3:22–26#5", "sintese": "João continua a batizar porque a sombra deve durar até que a verdade se manifeste; Enon significa “água”." }
+      ],
+      "nota": null
+    },
+    "3:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xiii. c. 9", "catena": "3:27–30#1", "sintese": "Talvez fale de si: sou um simples homem e recebi tudo do céu; não penseis que o que me foi dado é meu." }
+      ],
+      "nota": null
+    },
+    "3:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "3:27–30#4", "sintese": "Cristo é o Esposo de cada alma; as núpcias são o batismo, o lugar a Igreja, a consumação a vida eterna; os mestres são só amigos do Esposo." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xiii", "catena": "3:27–30#8", "sintese": "Está de pé porque não cai, firmado na humildade: permanece na graça recebida e ouve a voz com que se alegra." }
+      ],
+      "nota": null
+    },
+    "3:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xiv. c. 4, 5", "catena": "3:27–30#14", "sintese": "Deus não cresce nem diminui: Cristo veio para que a glória do homem diminuísse e a de Deus fosse exaltada." },
+        { "autor": "Teofilato", "obra": null, "catena": "3:27–30#15", "sintese": "Ao nascer do sol os astros parecem apagar-se, mas são só ofuscados: assim diminui o Precursor." }
+      ],
+      "nota": { "texto": "A tradição relacionou este versículo com as datas das festas: o nascimento de João (24 de junho) cai quando os dias começam a diminuir; o de Jesus (25 de dezembro), quando começam a crescer.", "origem": "ia" }
+    },
+    "3:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxx. 1", "catena": "3:31–32#0", "sintese": "A vanglória destrói a alma como o verme rói a madeira; João mal consegue vencê-la nos seus discípulos." }
+      ],
+      "nota": null
+    },
+    "3:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxx. 2", "catena": "3:32–36#5", "sintese": "Todos recebemos por medida a ação do Espírito; Cristo contém em si toda a ação do Espírito." }
+      ],
+      "nota": null
+    },
+    "3:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "3:32–36#9", "sintese": "Entende-se não uma fé só de palavras, mas uma fé que se traduz em obras." },
+        { "autor": "Santo Agostinho", "obra": "Tr. xiv. c. 13", "catena": "3:32–36#11", "sintese": "Não diz que a ira “vem”, mas que “permanece”: todos nascem sob a ira de Adão, e só a fé no Filho dela liberta." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

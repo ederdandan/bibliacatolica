@@ -1,0 +1,93 @@
+{
+  "id": "JHN.2.13",
+  "livro": "JHN",
+  "titulo": "A purificação do Templo",
+  "secao": "O Livro dos Sinais",
+  "referencia": "Jo 2,13-25",
+  "ini": { "c": 2, "v": 13 },
+  "fim": { "c": 2, "v": 25 },
+  "liturgia": { "tema_central": "“O zelo da tua casa devorou-me”: o verdadeiro templo é o corpo de Cristo", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Perto da Páscoa, Jesus sobe a Jerusalém e encontra no templo vendedores de bois, ovelhas e pombas e os cambistas sentados às mesas. Faz um azorrague de cordas, expulsa-os a todos com as ovelhas e os bois, espalha o dinheiro e derruba as mesas. Aos que vendem pombas diz: “Não façais da casa de meu Pai casa de negócio”. Os discípulos recordam o Salmo: “O zelo da tua casa devorou-me”. Os judeus pedem um sinal que mostre a sua autoridade. Jesus responde: “Destruí este templo, e o reedificarei em três dias”. Objetam que o templo levou quarenta e seis anos a construir. Ele, porém, falava do templo do seu corpo; e, depois da ressurreição, os discípulos lembraram-se disto e creram na Escritura e na sua palavra. Em Jerusalém, pela Páscoa, muitos creem ao ver os seus milagres, mas Jesus não se fia neles, porque conhece a todos e sabe o que há em cada homem.",
+    "alegorico": "O templo de pedra era figura; o verdadeiro templo é o corpo de Cristo, onde habita a plenitude da divindade. Destruído na cruz, Ele mesmo o levanta ao terceiro dia. Esse corpo é também a Igreja, edificada com pedras vivas: ainda que pareça desfeita pelas tribulações, será reerguida na grande ressurreição. A alma em que habita o Verbo é ainda templo, que Cristo purifica das afeições terrenas.",
+    "moral": "Vendem pombas na Igreja os que distribuem por preço ou por favor a graça que receberam de graça. É devorado pelo zelo da casa de Deus quem deseja corrigir o que nela está errado e, se não pode, suporta e geme; cada um faça o que puder, segundo a sua posição. Jesus não se fia numa fé que só se apoia em prodígios: o Criador sabe melhor do que nós o que há em nós.",
+    "anagogico": "Na Jerusalém celeste já não há templo, porque o seu templo é o Senhor Deus e o Cordeiro (Ap 21,22). O corpo ressuscitado de Cristo é o lugar definitivo do encontro com Deus, e nele seremos pedras vivas de um santuário que nunca mais será destruído."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Encontrou no templo vendedores de bois, ovelhas e pombas, e os cambistas sentados às suas mesas. Aos que vendiam pombas, disse: “Tirai daqui isto, não façais da casa de meu Pai casa de negócio”. Então lembraram-se seus discípulos do que está escrito: O zelo da tua casa devorou-me. Jesus respondeu-lhes: “Destruí este templo, e o reedificarei em três dias”. Ora ele falava do templo de seu corpo.",
+    "meditatio_perguntas": [
+      "Que “mesas de negócio” Cristo precisa de derrubar no templo da minha alma?",
+      "Trato a casa de Deus e a liturgia como lugar de oração ou de interesse?",
+      "A minha fé apoia-se em prodígios ou na palavra de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que purificaste o templo com zelo pela casa do Pai, entra no templo da minha alma e expulsa dele tudo o que não é teu. Tu conheces o que há em mim: torna-me morada digna do teu Espírito. Amém.",
+    "contemplatio_foco": { "texto": "Destruí este templo, e o reedificarei em três dias.", "ref": "Jo 2,19" }
+  },
+  "ancoras": {
+    "2:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:14–17#0", "sintese": "Ao chegar a Jerusalém entra logo no Templo para orar: aonde formos, a primeira visita seja à casa de Deus." }
+      ],
+      "nota": null
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. x. c. 5", "catena": "2:14–17#3", "sintese": "Aquele que havia de ser flagelado por eles foi o primeiro a flagelar." }
+      ],
+      "nota": null
+    },
+    "2:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:14–17#18", "sintese": "Vendem pombas os que distribuem por preço ou por favor a graça do Espírito que receberam de graça." }
+      ],
+      "nota": null
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": null, "catena": "2:14–17#14", "sintese": "É devorado pelo zelo quem deseja corrigir o que vê de errado na casa de Deus e, se não pode, suporta e geme." }
+      ],
+      "nota": null
+    },
+    "2:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxiii. 3", "catena": "2:18–22#5", "sintese": "Dá-lhes o sinal da ressurreição, a maior prova de que não era mero homem, pois vencia a morte." },
+        { "autor": "Orígenes", "obra": null, "catena": "2:18–22#6", "sintese": "O corpo de Jesus e o Templo figuram a Igreja de pedras vivas: parece desfeita pelas tribulações, mas será reerguida." }
+      ],
+      "nota": null
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Alcuíno", "obra": null, "catena": "2:18–22#8", "sintese": "Aludem não ao Templo de Salomão, mas ao reconstruído desde o tempo de Zorobabel." }
+      ],
+      "nota": { "texto": "Herodes começou a remodelar o Templo por volta de 20/19 a.C.; quarenta e seis anos depois situa esta cena por volta de 27/28 d.C. As obras só terminaram em 63/64 d.C.", "origem": "ia" }
+    },
+    "2:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "2:18–22#14", "sintese": "O corpo do Senhor chama-se templo porque, como o Templo continha a glória de Deus, também ele a contém." }
+      ],
+      "nota": null
+    },
+    "2:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xxiv. 1", "catena": "2:23–25#2", "sintese": "Mais sábios foram os discípulos atraídos pela doutrina do que os que só se deixam atrair pelos milagres." }
+      ],
+      "nota": null
+    },
+    "2:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Tr. xi. c. 2", "catena": "2:23–25#6", "sintese": "O Criador sabia melhor o que havia na obra do que ela mesma: Pedro prometia segui-lo até à morte, e o Senhor previa a negação." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
