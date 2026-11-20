@@ -1,0 +1,142 @@
+{
+  "id": "LUK.1.57",
+  "livro": "LUK",
+  "titulo": "O nascimento de João Batista e o Benedictus",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 1,57-80",
+  "ini": { "c": 1, "v": 57 },
+  "fim": { "c": 1, "v": 80 },
+  "liturgia": { "tema_central": "“Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Isabel dá à luz um filho, e vizinhos e parentes alegram-se com ela pela misericórdia do Senhor. No oitavo dia, na circuncisão, querem chamá-lo Zacarias, como o pai; Isabel diz: “Será chamado João”. Consultado por acenos, Zacarias escreve numa tabuinha: “O seu nome é João”, e logo recupera a fala, bendizendo a Deus. Todos se perguntam: “Quem virá a ser este menino?” Cheio do Espírito Santo, Zacarias profetiza o Benedictus: Deus visitou e resgatou o seu povo, suscitou uma força de salvação na casa de Davi, lembrou-se da aliança e do juramento feito a Abraão, para que o sirvamos sem temor, em santidade e justiça. E o menino será o profeta do Altíssimo, que preparará os caminhos do Senhor, dando a conhecer a salvação pela remissão dos pecados, graças à misericórdia de Deus, que nos visitará como sol nascente. O menino cresce e vive nos desertos até a sua manifestação a Israel.",
+    "alegorico": "O nome “João”, que rompe com a tradição familiar, assinala o início da graça da Nova Aliança. A língua de Zacarias, presa pela incredulidade, solta-se pela fé: com o nascimento da Voz, o sacerdócio antigo volta a falar para anunciar Cristo. O “sol nascente” é Cristo, luz que dissipa as trevas e a sombra da morte.",
+    "moral": "O nascimento de um justo é alegria pública, porque a justiça é bem comum. Zacarias aprende pela obediência: o que a incredulidade atou, a fé desatou. Servir a Deus “sem temor, em santidade e justiça” não é tarefa de um dia, mas de “todos os dias da nossa vida”. Quem prega a conversão prepara no coração dos outros o caminho da sabedoria.",
+    "anagogico": "A salvação anunciada não é temporal, mas consiste na remissão dos pecados e conduz ao caminho da paz. O Sol que nasce do alto ilumina os que estavam sentados nas trevas, sem esperança, e guia-os à luz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Completou-se para Isabel o tempo de dar à luz, e deu à luz um filho. Ao oitavo dia, foram circuncidar o menino, e chamavam-lhe Zacarias do nome de seu pai. Porém, interveio sua mãe, e disse: “De nenhuma sorte, mas será chamado João”. O pai, pedindo uma tabuinha, escreveu: “O seu nome é João”. E logo se abriu a sua boca, e falava, bendizendo a Deus. Zacarias, seu pai, foi cheio do Espírito Santo, e profetizou, dizendo: “Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo. E tu, menino, serás chamado o profeta do Altíssimo, porque irás adiante da face do Senhor, a preparar os seus caminhos, graças à terna misericórdia do nosso Deus, que nos trará do alto a visita do sol nascente, para alumiar os que jazem nas trevas e na sombra da morte; para dirigir os nossos pés no caminho da paz”.",
+    "meditatio_perguntas": [
+      "Em que área da minha vida a falta de fé me deixou “mudo” para louvar a Deus?",
+      "Sirvo a Deus “sem temor, em santidade e justiça”, todos os dias?",
+      "Que trevas em mim precisam da luz do Sol que nasce do alto?"
+    ],
+    "oratio_guia": "Bendito sejas, Senhor, Deus de Israel, porque visitaste e resgataste o teu povo. Abre os meus lábios para o teu louvor, ilumina as minhas trevas com Cristo, Sol nascente, e dirige os meus passos no caminho da paz. Amém.",
+    "contemplatio_foco": { "texto": "Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo.", "ref": "Lc 1,68" }
+  },
+  "ancoras": {
+    "1:57": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:57–58#0", "sintese": "A palavra que significa plenitude só se usa no nascimento dos justos, porque a vida do justo tem plenitude." }
+      ],
+      "nota": null
+    },
+    "1:58": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:57–58#2", "sintese": "O nascimento dos santos alegra a muitos, porque é um bem comum: a justiça é uma virtude pública." }
+      ],
+      "nota": null
+    },
+    "1:60": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:59–64#1", "sintese": "Não que algum nome da parentela desagradasse à mãe: foi o Espírito Santo que lhe inspirou o nome anunciado pelo anjo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:59–64#3", "sintese": "João significa “graça de Deus”: gravaram no nome a memória do benefício recebido." }
+      ],
+      "nota": null
+    },
+    "1:64": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nazianzo", "obra": "Orat. vi.", "catena": "1:59–64#5", "sintese": "Manifestada a voz do Verbo, não era razoável que o pai permanecesse mudo." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:59–64#6", "sintese": "O que a incredulidade atara, a fé desatou: creiamos, para que a nossa língua se solte." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:59–64#7", "sintese": "Em sentido alegórico, o nascimento de João foi o início da graça da Nova Aliança." }
+      ],
+      "nota": null
+    },
+    "1:66": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:65–66#1", "sintese": "Os sinais precursores preparam o caminho ao precursor da verdade: a mão do Senhor estava com ele." }
+      ],
+      "nota": null
+    },
+    "1:68": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:67–68#2", "sintese": "Zacarias profere duas profecias: a primeira a respeito de Cristo, a segunda a respeito de João." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:67–68#4", "sintese": "Visitou o povo que definhava por longa enfermidade e, pelo sangue do Filho, redimiu os vendidos ao pecado." }
+      ],
+      "nota": null
+    },
+    "1:69": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Serm. de Anna. IV.", "catena": "1:69#2", "sintese": "O “chifre” significa poder, glória e honra, metáfora tirada dos animais armados de chifres." }
+      ],
+      "nota": { "texto": "Matos Soares traduz “uma força para nos salvar”; o original diz literalmente “um chifre de salvação”, imagem bíblica do poder (Sl 18,3; 132,17), comentada pelos Padres.", "origem": "ia" }
+    },
+    "1:70": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:70#2", "sintese": "Todas as Escrituras do Antigo Testamento foram uma profecia contínua de Cristo." }
+      ],
+      "nota": null
+    },
+    "1:71": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:71#1", "sintese": "Não se trata de inimigos corporais, mas espirituais: Cristo veio poderoso na batalha para nos livrar das suas ciladas." }
+      ],
+      "nota": null
+    },
+    "1:75": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:75#0", "sintese": "Servi-lo com confiança, não segundo a carne com sangue de vítimas, mas segundo o espírito, com boas obras." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:75#1", "sintese": "Quem se afasta do serviço de Deus antes de morrer, ou busca ser justo só diante dos homens, ainda não o serve em plena liberdade." }
+      ],
+      "nota": null
+    },
+    "1:76": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:76#4", "sintese": "Como os escudeiros estão perto do rei, João, amigo do Esposo, precedeu de perto a sua vinda." },
+        { "autor": "São Gregório Magno", "obra": "xix. Mor. sup. Jó 28:23.", "catena": "1:76#5", "sintese": "Quem pela pregação purifica os corações prepara o caminho para a vinda da sabedoria." }
+      ],
+      "nota": null
+    },
+    "1:77": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:77#1", "sintese": "Para que não se pensasse numa salvação temporal, acrescenta: pela remissão dos pecados." }
+      ],
+      "nota": null
+    },
+    "1:78": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. xiv in Matth.", "catena": "1:78#1", "sintese": "Essa misericórdia não a encontramos pela nossa busca: foi Deus que do alto se nos manifestou." }
+      ],
+      "nota": null
+    },
+    "1:79": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:79#0", "sintese": "Cristo é chamado Sol nascente porque nos revelou o nascer da verdadeira luz." },
+        { "autor": "São João Crisóstomo", "obra": "ut sup.", "catena": "1:79#4", "sintese": "Diz “sentados”, porque estávamos nas trevas como quem não tem esperança de libertação." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 33 in Evang.", "catena": "1:79#6", "sintese": "Andamos no caminho da paz quando a nossa conduta não nos afasta da graça do Criador." }
+      ],
+      "nota": null
+    },
+    "1:80": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:80#0", "sintese": "O futuro pregador da penitência passa a primeira parte da vida no deserto, para afastar com mais autoridade das seduções do mundo." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
