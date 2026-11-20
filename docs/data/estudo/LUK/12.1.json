@@ -1,0 +1,109 @@
+{
+  "id": "LUK.12.1",
+  "livro": "LUK",
+  "titulo": "O fermento dos fariseus; confessar a Cristo",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 12,1-12",
+  "ini": { "c": 12, "v": 1 },
+  "fim": { "c": 12, "v": 12 },
+  "liturgia": { "tema_central": "Não temais: confessar Cristo com a força do Espírito", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Diante de uma multidão de milhares, Jesus fala primeiro aos discípulos: guardai-vos do fermento dos fariseus, que é a hipocrisia. Nada há escondido que não venha a ser revelado; o dito ao ouvido será proclamado sobre os telhados. “A vós, meus amigos”: não temais os que matam o corpo e nada mais podem fazer; temei aquele que pode lançar no inferno. Cinco pardais vendem-se por dois asses, e nenhum é esquecido por Deus; até os cabelos da cabeça estão contados: valeis mais que muitos pardais. Quem confessar Jesus diante dos homens será confessado pelo Filho do homem diante dos anjos de Deus; quem o negar será negado. A palavra contra o Filho do homem será perdoada, não a blasfêmia contra o Espírito Santo. Diante de sinagogas e autoridades, não vos preocupeis com a defesa: o Espírito Santo vos ensinará o que dizer.",
+    "alegorico": "O fermento que leveda toda a massa figura a hipocrisia que corrompe a pureza das virtudes. O que os apóstolos sofreram nas trevas das prisões é hoje proclamado sobre os telhados, quando a Igreja é conhecida no mundo. O Verbo dará testemunho no juízo daquele que o confessou, habitando nele e enchendo-o de luz.",
+    "moral": "Guardar a simplicidade: não fazer uma coisa e fingir outra, porque no último dia os segredos serão revelados. Não temer a morte, pela qual se adquire a imortalidade. Deus, que não esquece um pardal, não despreza o coração dos fiéis. A fé interior pede a confissão exterior; e nega-se a Cristo também com as obras, com o descuido dos seus e com a cobiça. Diante dos juízes, oferecemos a nossa vontade; o Espírito supre o resto.",
+    "anagogico": "O Filho do homem confessará diante dos anjos de Deus quem o confessou na terra: o juízo final revelará tudo e dará a glória aos que não tiveram vergonha de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Começou ele a dizer aos seus discípulos: “Guardai-vos do fermento dos fariseus, que é a hipocrisia. Nada há oculto que não venha a descobrir-se. A vós, pois, meus amigos, vos digo: não tenhais medo daqueles que matam o corpo, e depois nada mais podem fazer. Não se vendem cinco passarinhos por dois asses? Entretanto nem um só deles está em esquecimento diante de Deus. Até os cabelos da vossa cabeça estão todos contados. Não temais pois; vós valeis mais que muitos passarinhos. Todo aquele que me confessar diante dos homens, também o Filho do homem o confessará diante dos anjos de Deus. O Espírito Santo vos ensinará, naquele mesmo momento, o que deveis dizer”.",
+    "meditatio_perguntas": [
+      "Onde há em mim um fermento de hipocrisia, uma distância entre o que mostro e o que sou?",
+      "Que medo me impede de confessar Cristo diante dos outros?",
+      "Creio que valho para Deus mais que muitos pardais?"
+    ],
+    "oratio_guia": "Senhor Jesus, que me chamas teu amigo, livra-me da hipocrisia e de todo medo dos homens. Que eu confie no Pai, que conta os cabelos da minha cabeça, e te confesse com palavras e obras. Espírito Santo, ensina-me o que dizer quando for preciso dar testemunho. Amém.",
+    "contemplatio_foco": { "texto": "Não temais pois; vós valeis mais que muitos passarinhos.", "ref": "Lc 12,7" }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:1–3#4", "sintese": "Como um pouco de fermento leveda toda a massa, a hipocrisia rouba à mente toda a pureza das virtudes." }
+      ],
+      "nota": null
+    },
+    "12:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:1–3#5", "sintese": "Argumento para a simplicidade: não fazer uma coisa e fingir outra, porque no último dia os segredos da mente serão revelados." }
+      ],
+      "nota": null
+    },
+    "12:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:1–3#8", "sintese": "O que os apóstolos sofreram nas trevas das prisões é agora proclamado; os telhados planos da Palestina eram lugar de vida pública." }
+      ],
+      "nota": null
+    },
+    "12:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:4–7#2", "sintese": "Não é terrível a morte pela qual se adquire, com muito maior lucro, a imortalidade." }
+      ],
+      "nota": null
+    },
+    "12:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 22 in Matth.", "catena": "12:4–7#5", "sintese": "Torna os discípulos superiores a tudo, exortando-os a desprezar a morte, e dá provas da imortalidade da alma." }
+      ],
+      "nota": null
+    },
+    "12:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "12:4–7#12", "sintese": "A providência chega às coisas mínimas; misticamente, os cinco pardais são os sentidos espirituais que percebem as coisas celestes." }
+      ],
+      "nota": null
+    },
+    "12:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:4–7#16", "sintese": "Os cabelos “contados” significam o conhecimento de Deus: contamos as coisas que queremos conservar." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "12:4–7#19", "sintese": "Se nem um pardal escapa a Deus, quão indigno é pensar que Ele ignore ou despreze o coração dos fiéis!" }
+      ],
+      "nota": null
+    },
+    "12:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 34 in Matth.", "catena": "12:8–12#2", "sintese": "Não se contenta com a fé interior: exige a confissão exterior, para maior confiança e amor." },
+        { "autor": "Eusébio", "obra": null, "catena": "12:8–12#4", "sintese": "Que maior glória que o Verbo testemunhar por nós no juízo, habitando em nós e enchendo-nos de luz?" }
+      ],
+      "nota": null
+    },
+    "12:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "12:8–12#8", "sintese": "Nega-se a Deus também com as obras, com o descuido dos seus e com a cobiça; e há tantos modos de confissão quantos de negação." }
+      ],
+      "nota": null
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 71.", "catena": "12:8–12#17", "sintese": "Não se trata de qualquer blasfêmia contra o Espírito, mas daquela que exclui para sempre o perdão." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:8–12#14", "sintese": "Quem atribui a Belzebu as obras do Espírito não chega, pelos seus deméritos, aos frutos de uma penitência digna." }
+      ],
+      "nota": { "texto": "A Igreja entende a blasfêmia contra o Espírito como a recusa deliberada de acolher a misericórdia de Deus pelo arrependimento: não é Deus que recusa o perdão, é o homem que o rejeita.", "origem": "ia" }
+    },
+    "12:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "12:8–12#20", "sintese": "Diante dos juízes oferecemos só a nossa vontade por Cristo; o Espírito Santo supre a resposta." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

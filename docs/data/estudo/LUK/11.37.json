@@ -1,0 +1,114 @@
+{
+  "id": "LUK.11.37",
+  "livro": "LUK",
+  "titulo": "Contra os fariseus e os doutores da Lei",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 11,37-54",
+  "ini": { "c": 11, "v": 37 },
+  "fim": { "c": 11, "v": 54 },
+  "liturgia": { "tema_central": "A pureza do coração, a justiça e o amor de Deus", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um fariseu convida Jesus para jantar e estranha que ele não se lave antes de comer. Jesus responde: limpais o exterior do copo e do prato, mas o vosso interior está cheio de rapina e maldade; quem fez o de fora não fez também o de dentro? Dai esmola, e tudo será puro. Seguem-se três “ais” contra os fariseus: pagam o dízimo das ervas e desprezam a justiça e o amor de Deus; gostam dos primeiros lugares e das saudações; são como sepulcros escondidos, sobre os quais se anda sem saber. Um doutor da Lei sente-se ofendido, e Jesus dirige três “ais” aos doutores: impõem fardos que nem com um dedo tocam; constroem túmulos aos profetas que os pais mataram; tiraram a chave da ciência e não entram nem deixam entrar. Será pedida conta do sangue dos profetas, de Abel a Zacarias. Os fariseus e doutores começam então a pressioná-lo e a armar-lhe ciladas.",
+    "alegorico": "Cristo, Sabedoria de Deus, envia profetas e apóstolos; o sangue dos justos, de Abel a Zacarias, culmina no sangue do próprio Cristo. A chave da ciência é a Lei, sombra de Cristo, e é sobretudo a humildade de Cristo, que abre o Reino; quem a rejeita fecha a porta a si e aos outros.",
+    "moral": "A purificação é interior: o batismo purifica pela fé, que é coisa do coração. Deus fez corpo e alma e quer ambos puros; não se desprezem os pecados do espírito. A esmola verdadeira é livre de toda injustiça. Não se omita a justiça e o amor de Deus por causa das práticas exteriores, nem estas por causa daqueles. Quem ensina sem praticar torna os fardos pesados; quem foi feito templo de Deus não se torne sepulcro.",
+    "anagogico": "Será pedida conta do sangue dos justos: o juízo revelará o que os sepulcros escondem. Só quem entra pela porta da humildade de Cristo chega ao Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um fariseu convidou-o a ir jantar com ele, e estranhou que ele não se tivesse lavado antes de comer. Mas o Senhor disse-lhe: “Vós os fariseus limpais o que está por fora do vaso e do prato; mas o vosso interior está cheio de rapina e de iniquidade. Néscios, quem fez o que está de fora, não fez também o que está por dentro? Ai de vós, fariseus, que pagais o dízimo da hortelã, e desprezais a justiça e o amor de Deus! Ai de vós também, doutores da lei, porque carregais os homens de pesos que não podem suportar, e vós nem com um dedo vosso lhe tocais a carga! Ai de vós, que usurpastes a chave da ciência, e nem entrastes vós, nem deixastes entrar os que queriam entrar!”",
+    "meditatio_perguntas": [
+      "Cuido mais da aparência exterior do que da pureza do coração?",
+      "Que fardos imponho aos outros sem eu mesmo os tocar?",
+      "Quando a Palavra me repreende, sinto-me ofendido ou deixo-me corrigir?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vês o interior, purifica o meu coração e não só o exterior. Dá-me praticar a justiça e o amor de Deus, sem desprezar as pequenas fidelidades. Livra-me da vaidade dos primeiros lugares e faz que eu entre pela porta da tua humildade e ajude outros a entrar. Amém.",
+    "contemplatio_foco": { "texto": "quem fez o que está de fora, não fez também o que está por dentro?", "ref": "Lc 11,40" }
+  },
+  "ancoras": {
+    "11:38": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 106.", "catena": "11:37–44#5", "sintese": "Os fariseus lavavam-se diariamente como se a água purificasse o coração; o fariseu pensava sem falar, mas o Senhor ouviu o seu coração." }
+      ],
+      "nota": { "texto": "Trata-se da ablução ritual das mãos antes das refeições, prescrita pela tradição dos fariseus (cf. Mc 7,3-4), não pela Lei de Moisés.", "origem": "ia" }
+    },
+    "11:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 106.", "catena": "11:37–44#8", "sintese": "Poupou o anfitrião repreendendo-o, para poupá-lo no juízo; o batismo purifica pela fé, que é interior." }
+      ],
+      "nota": null
+    },
+    "11:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:37–44#9", "sintese": "Quem fez as duas naturezas do homem quer ambas purificadas; nem os pecados do espírito são leves." }
+      ],
+      "nota": null
+    },
+    "11:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 72 in Ioann.", "catena": "11:37–44#12", "sintese": "Não diz “cometei injustiça e depois dai esmola”: esmola é a que está livre de toda injustiça; ela ilumina a alma e afasta do pecado." }
+      ],
+      "nota": null
+    },
+    "11:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "11:37–44#19", "sintese": "Para não nos fazer zelosos da fé com descuido das obras, resume a perfeição: praticar estas coisas sem omitir aquelas." }
+      ],
+      "nota": null
+    },
+    "11:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:37–44#22", "sintese": "Quer-nos livres da ambição e do desejo da aparência: saudações e domínio podem tê-los até os que não são bons." }
+      ],
+      "nota": null
+    },
+    "11:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 73 in Matth.", "catena": "11:37–44#24", "sintese": "Se nós, feitos templos de Deus, nos tornarmos túmulos cheios de podridão, essa é a pior miséria." }
+      ],
+      "nota": { "texto": "Tocar um sepulcro tornava a pessoa impura (Nm 19,16); quem andava sobre um túmulo escondido contraía impureza sem o saber.", "origem": "ia" }
+    },
+    "11:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:45–54#1", "sintese": "Grave é a consciência que, ouvindo a palavra de Deus, a toma por ofensa e reconhece nela a sua própria condenação." }
+      ],
+      "nota": null
+    },
+    "11:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Teofilato", "obra": null, "catena": "11:45–54#4", "sintese": "O mestre que faz o que ensina alivia o fardo pelo exemplo; quem nada faz torna-o pesado." },
+        { "autor": "São Gregório de Nissa", "obra": null, "catena": "11:45–54#6", "sintese": "Há muitos juízes severos dos pecadores, mas fracos combatentes; legisladores rigorosos que não tocam o rigor da vida." }
+      ],
+      "nota": null
+    },
+    "11:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "11:45–54#10", "sintese": "A Sabedoria de Deus que envia profetas e apóstolos é o próprio Cristo, como mostra o paralelo de Mateus." }
+      ],
+      "nota": null
+    },
+    "11:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:45–54#17", "sintese": "De Abel a Zacarias: um pastor morto no campo, um sacerdote no átrio do templo, mártires de toda condição." }
+      ],
+      "nota": { "texto": "Abel é o primeiro assassinado da Bíblia (Gn 4) e Zacarias, filho de Joiada, o último em 2Cr 24,20-22, último livro da Bíblia hebraica: toda a Escritura.", "origem": "ia" }
+    },
+    "11:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 23.", "catena": "11:45–54#22", "sintese": "A chave da ciência é a humildade de Cristo, que nem queriam compreender nem deixavam compreender." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

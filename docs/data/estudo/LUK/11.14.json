@@ -1,0 +1,124 @@
+{
+  "id": "LUK.11.14",
+  "livro": "LUK",
+  "titulo": "Jesus e Belzebu; o sinal de Jonas",
+  "secao": "A caminho de Jerusalém",
+  "referencia": "Lc 11,14-36",
+  "ini": { "c": 11, "v": 14 },
+  "fim": { "c": 11, "v": 36 },
+  "liturgia": { "tema_central": "O dedo de Deus vence o forte; felizes os que ouvem e guardam a Palavra", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus expulsa um demônio mudo, e o mudo fala. Alguns acusam-no de expulsar demônios por Belzebu; outros pedem um sinal do céu. Jesus responde: um reino dividido contra si mesmo cai; se expulsa os demônios pelo dedo de Deus, o reino de Deus chegou. O homem forte armado guarda o seu palácio até que venha um mais forte, que o vence, lhe tira as armas e reparte os despojos. Quem não está com Ele está contra Ele. O espírito impuro que sai de um homem volta com sete piores e encontra a casa varrida e enfeitada, e o último estado fica pior que o primeiro. Uma mulher exclama: “Bem-aventurado o ventre que te trouxe”; Jesus responde: “Antes bem-aventurados os que ouvem a palavra de Deus e a põem em prática”. A esta geração só será dado o sinal de Jonas; a rainha do Sul e os ninivitas a condenarão, pois aqui está quem é mais que Salomão e Jonas. Segue-se o dito sobre a lâmpada e o olho, lâmpada do corpo.",
+    "alegorico": "O forte é o diabo, cujo domínio veio da nossa fraqueza; o mais forte é o Verbo feito homem, que o desarma e reparte os despojos, os homens libertados. O “dedo de Deus” é o Espírito Santo, que distribui os dons. Jonas, que sai do ventre do peixe, figura a ressurreição; a rainha do Sul, vinda de longe, figura a Igreja dos gentios que vem a Cristo.",
+    "moral": "Quem foi libertado do mal e não enche a casa com Deus fica exposto a uma recaída pior; não basta varrer, é preciso habitar. Ninguém é neutro diante de Cristo: quem não recolhe com Ele dispersa. Maria é bem-aventurada sobretudo por ter guardado a Palavra; de nada nos aproveitam parentes santos se nós mesmos formos alheios à virtude. A reta intenção é o olho que ilumina todas as obras.",
+    "anagogico": "O sinal de Jonas aponta para a ressurreição e para o juízo, onde a fé dos pagãos condenará a incredulidade dos que viram mais. O corpo inteiramente luminoso antecipa a glória dos que viverão na luz de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus estava expelindo um demônio, que era mudo; e o mudo falou. Alguns disseram: “Ele expele os demônios por virtude de Belzebu”. Ele disse-lhes: “Se eu, pelo dedo de Deus, lanço fora os demônios, certamente chegou a vós o reino de Deus. Quem não é comigo, é contra mim”. Uma mulher disse-lhe: “Bem-aventurado o ventre que te trouxe”. Porém ele disse: “Antes bem-aventurados aqueles que ouvem a palavra de Deus, e a põem em prática”. “Esta geração pede um sinal, mas não lhe será dado outro sinal, senão o sinal do profeta Jonas. O teu olho é a lucerna do teu corpo. Vê, pois, que a luz que está em ti não seja trevas.”",
+    "meditatio_perguntas": [
+      "Depois de libertado de algum mal, encho a “casa” com Deus ou deixo-a vazia?",
+      "Em que ponto tento ficar neutro diante de Jesus?",
+      "A minha intenção é simples, ou a luz em mim está a tornar-se trevas?"
+    ],
+    "oratio_guia": "Senhor Jesus, mais forte que o inimigo, liberta-me de todo mal e habita em mim pelo teu Espírito, para que a minha casa não fique vazia. Como Maria, quero ouvir a tua palavra e guardá-la. Purifica o olhar do meu coração, para que todo eu seja luminoso. Amém.",
+    "contemplatio_foco": { "texto": "Antes bem-aventurados aqueles que ouvem a palavra de Deus, e a põem em prática.", "ref": "Lc 11,28" }
+  },
+  "ancoras": {
+    "11:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Tito de Bostra", "obra": "in Matth.", "catena": "11:14–16#2", "sintese": "O demônio embota o ouvido da alma para que não se ouça a palavra; Cristo expulsa-o para que possamos ouvir a verdade." }
+      ],
+      "nota": null
+    },
+    "11:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:17–20#1", "sintese": "Responde aos pensamentos, não às palavras, para que ao menos cressem no poder de quem vê os segredos do coração." }
+      ],
+      "nota": null
+    },
+    "11:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "de Quæst. Ev. l. ii. q. 17.", "catena": "11:17–20#11", "sintese": "O Espírito Santo é o dedo de Deus pela distribuição dos dons: em nenhum membro a divisão aparece mais do que nos dedos." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 41 in Matth.", "catena": "11:17–20#16", "sintese": "Diz “a vós” para atraí-los: se a felicidade chegou até vós, por que desprezais os vossos próprios bens?" }
+      ],
+      "nota": { "texto": "“Dedo de Deus” evoca Ex 8,15, quando os magos do Egito reconhecem a ação divina; Mateus diz “Espírito de Deus” (Mt 12,28).", "origem": "ia" }
+    },
+    "11:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 41 in Matth.", "catena": "11:21–23#1", "sintese": "Chama forte ao diabo não por natureza, mas pelo antigo domínio, de que a nossa fraqueza foi causa." }
+      ],
+      "nota": null
+    },
+    "11:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:21–23#5", "sintese": "Logo que o Verbo do Altíssimo se fez homem, atacou-o e tirou-lhe as armas." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:21–23#6", "sintese": "As armas do forte são os ardis da maldade; os despojos, os homens que ele enganara." }
+      ],
+      "nota": null
+    },
+    "11:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "11:21–23#11", "sintese": "Vim reunir os filhos de Deus que ele dispersou: como me daria poder aquele a quem resisto?" }
+      ],
+      "nota": null
+    },
+    "11:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:24–26#6", "sintese": "Pode entender-se do mau católico, de quem o espírito maligno saíra no batismo e que procura voltar." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 43 in Matth.", "catena": "11:24–26#7", "sintese": "Dito também a nós: se, iluminados e libertados, voltarmos ao caminho da maldade, castigo mais pesado nos aguarda." }
+      ],
+      "nota": null
+    },
+    "11:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:27–28#0", "sintese": "Enquanto os fariseus blasfemavam, uma mulher confessou com ousadia a encarnação." }
+      ],
+      "nota": null
+    },
+    "11:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "11:27–28#2", "sintese": "Maria, Mãe de Deus, é bem-aventurada como ministra da encarnação, mas muito mais como guardiã eterna do Verbo." },
+        { "autor": "São João Crisóstomo", "obra": "Hom. 44 in Matth.", "catena": "11:27–28#1", "sintese": "Não renega a mãe; mas, se a Maria não aproveitaria o parto sem a fé, menos nos aproveitam parentes virtuosos se formos alheios à virtude." }
+      ],
+      "nota": null
+    },
+    "11:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "11:29–32#3", "sintese": "O sinal de Jonas figura a paixão e anuncia castigo e remédio: nem os judeus devem desesperar do perdão, se fizerem penitência." }
+      ],
+      "nota": null
+    },
+    "11:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Hom. 7 in Cant.", "catena": "11:29–32#8", "sintese": "A rainha vinda de longe é a Igreja dos gentios, que vem a Cristo e lhe oferece o ouro do conhecimento e as pedras da obediência." }
+      ],
+      "nota": null
+    },
+    "11:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "11:33–36#2", "sintese": "A lâmpada é a fé, palavra de Deus; mas só brilha se receber a luz de outro." }
+      ],
+      "nota": null
+    },
+    "11:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Moral. 28, c. 12.", "catena": "11:33–36#10", "sintese": "O olho é a intenção, o corpo é a ação: pela reta intenção e simplicidade de coração as obras recebem luz." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
