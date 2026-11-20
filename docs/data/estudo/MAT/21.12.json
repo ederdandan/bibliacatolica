@@ -1,0 +1,88 @@
+{
+  "id": "MAT.21.12",
+  "livro": "MAT",
+  "titulo": "A purificação do Templo e a figueira estéril",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 21,12-22",
+  "ini": { "c": 21, "v": 12 },
+  "fim": { "c": 21, "v": 22 },
+  "liturgia": { "tema_central": "“A minha casa será chamada casa de oração”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus entra no Templo e expulsa os que vendiam e compravam, derruba as mesas dos cambistas (que trocavam moedas pagãs pela moeda do Templo) e as cadeiras dos vendedores de pombas (oferta dos pobres). Cita Is 56,7 e Jr 7,11: a casa de oração tornou-se covil de ladrões. No Templo cura cegos e coxos, e as crianças aclamam: “Hosana ao Filho de Davi”. Os sumos sacerdotes se indignam; Jesus cita Sl 8,3: da boca dos pequeninos tiraste o louvor. Passa a noite em Betânia. De manhã, com fome, procura frutos numa figueira cheia de folhas e não acha; amaldiçoa-a, e ela seca. Aos discípulos admirados ensina o poder da fé e da oração.",
+    "alegorico": "A purificação é sinal profético: o Templo de pedra dá lugar ao novo Templo, o Corpo de Cristo (Jo 2,21). A figueira cheia de folhas e sem frutos é a sinagoga, que tinha a Lei, mas não creu em Cristo, o Caminho; o gesto é parábola em ação do juízo sobre a religião sem frutos. As crianças que louvam figuram os gentios e os simples, que reconhecem o que os doutos rejeitam.",
+    "moral": "Faz do templo um covil de ladrões quem tira lucro da religião. O lugar de oração deve servir só à oração, e também o nosso coração, templo de Deus, precisa ser purificado. Não bastam as folhas da aparência religiosa: Deus procura frutos. A fé e a oração confiante removem os montes, também o monte da soberba.",
+    "anagogico": "O Templo purificado aponta para a Jerusalém celeste, onde não haverá templo, porque o Senhor e o Cordeiro são o seu Templo (Ap 21,22). O louvor das crianças antecipa a liturgia eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus entrou no Templo e expulsou todos os que vendiam e compravam; derrubou as mesas dos cambistas e as cadeiras dos que vendiam pombas, e disse-lhes: “Está escrito: A minha casa será chamada casa de oração; mas vós fizestes dela um covil de ladrões”. Aproximaram-se dele cegos e coxos no Templo, e Ele os curou. De manhã, voltando à cidade, teve fome. Vendo uma figueira à beira do caminho, foi a ela e não achou senão folhas. Disse-lhe: “Nunca mais nasça fruto de ti”. E a figueira secou. Jesus disse aos discípulos: “Se tiverdes fé e não duvidardes… tudo o que pedirdes na oração com fé, recebereis”.",
+    "meditatio_perguntas": [
+      "O que precisa ser expulso do templo do meu coração?",
+      "Há na minha vida muitas “folhas” e poucos frutos?",
+      "Peço na oração com fé, sem duvidar?"
+    ],
+    "oratio_guia": "Senhor Jesus, zeloso da casa do Pai, purifica o templo do meu coração de tudo o que não é oração e amor. Não me deixes ser figueira só de folhas: dá-me frutos de vida nova e uma fé que não duvida. Amém.",
+    "contemplatio_foco": { "texto": "A minha casa será chamada casa de oração.", "ref": "Mt 21,13" }
+  },
+  "ancoras": {
+    "21:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:10–16#9", "sintese": "De todos os seus milagres, este me parece o mais admirável: que um só homem, então desprezado, expulsasse tamanha multidão." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 68", "catena": "21:10–16#10", "sintese": "O Senhor fez isto duas vezes: a primeira narrada por João, a segunda pelos outros três." }
+      ],
+      "nota": null
+    },
+    "21:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Regula ad Servos Dei 3", "catena": "21:10–16#8", "sintese": "Ninguém faça no oratório outra coisa senão aquilo para que foi feito e de onde lhe vem o nome." }
+      ],
+      "nota": null
+    },
+    "21:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:10–16#18", "sintese": "Se não tivesse derrubado as mesas dos cambistas, os cegos e coxos não teriam merecido recobrar no Templo a vista e o andar." }
+      ],
+      "nota": null
+    },
+    "21:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:10–16#22", "sintese": "Resposta prudente: não diz o que os escribas queriam ouvir, mas cita o Salmo." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:10–16#24", "sintese": "Figura dos gentios e conforto para os apóstolos: se as crianças louvam, também eles, sem instrução, poderão pregar." }
+      ],
+      "nota": null
+    },
+    "21:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:17–22#1", "sintese": "Era tão pobre e alheio à lisonja que não achou pousada na cidade, mas hospedou-se em Betânia, na casa de Lázaro." }
+      ],
+      "nota": null
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:17–22#6", "sintese": "Sempre fazia o bem; convinha dar também uma prova do seu poder de castigar, mas numa planta, não num homem." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:17–22#19", "sintese": "A árvore à beira do caminho é a sinagoga: estava junto ao caminho porque tinha a Lei, mas não creu no Caminho, que é Cristo." }
+      ],
+      "nota": null
+    },
+    "21:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 29", "catena": "21:17–22#25", "sintese": "Todo servo de Deus deve dizê-lo do monte da soberba, para expulsá-lo de si." }
+      ],
+      "nota": null
+    },
+    "21:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:17–22#13", "sintese": "O que o Senhor diz atribui-o à oração e à fé: tudo o que pedirdes com fé, recebereis." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

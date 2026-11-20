@@ -1,0 +1,67 @@
+{
+  "id": "MAT.21.23",
+  "livro": "MAT",
+  "titulo": "A autoridade de Jesus e a parábola dos dois filhos",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 21,23-32",
+  "ini": { "c": 21, "v": 23 },
+  "fim": { "c": 21, "v": 32 },
+  "liturgia": { "tema_central": "Não basta dizer “sim”: é preciso fazer a vontade do Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No Templo, os sumos sacerdotes e anciãos (autoridades do Sinédrio) perguntam com que autoridade Jesus faz estas coisas, referindo-se à purificação do Templo. Jesus responde com outra pergunta: o batismo de João era do céu ou dos homens? Presos no dilema (se do céu, por que não creram?; se dos homens, temem o povo), dizem “não sabemos”; Jesus não lhes revela a sua autoridade. Conta então a parábola dos dois filhos: um diz “não” ao pai, mas depois se arrepende e vai à vinha; o outro diz “sim, senhor”, mas não vai. Os publicanos e as prostitutas, que creram em João, precedem os chefes no Reino.",
+    "alegorico": "O primeiro filho, que recusa e depois se arrepende, figura os gentios e os pecadores que, convertidos, trabalham na vinha; o segundo, que diz sim e não vai, os que receberam a Lei e não a cumpriram. A autoridade de Jesus é a mesma do Pai, que João anunciou; quem rejeita o precursor não pode reconhecer o Messias.",
+    "moral": "Deus não olha as palavras piedosas, mas a obediência efetiva. O arrependimento sincero vale mais do que um “sim” vazio. Ninguém está excluído da conversão: publicanos e prostitutas chegaram primeiro porque creram. Quem pergunta sem querer a verdade não a encontra.",
+    "anagogico": "O Reino será dos que, no fim, fizeram a vontade do Pai, ainda que tenham começado longe. A última palavra é a da conversão, não a do primeiro “não”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os sumos sacerdotes e anciãos perguntaram a Jesus: “Com que autoridade fazes estas coisas?” Jesus respondeu: “O batismo de João donde era: do céu ou dos homens?” Eles disseram: “Não sabemos”. Jesus disse: “Nem eu vos digo com que autoridade faço estas coisas. Que vos parece? Um homem tinha dois filhos. Disse ao primeiro: Filho, vai hoje trabalhar na minha vinha. Ele respondeu: Não quero; mas depois, arrependido, foi. Disse o mesmo ao segundo, que respondeu: Vou, senhor; mas não foi. Qual dos dois fez a vontade do pai?” Disseram: “O primeiro”. Jesus disse: “Em verdade vos digo que os publicanos e as meretrizes vos precedem no Reino de Deus”.",
+    "meditatio_perguntas": [
+      "Sou mais o filho do “sim” sem obras ou o do “não” que se converte?",
+      "Há um “não” que eu disse a Deus e que hoje posso transformar em obediência?",
+      "Pergunto a Deus para conhecer a verdade, ou para me justificar?"
+    ],
+    "oratio_guia": "Pai, que me chamas a trabalhar na tua vinha, perdoa os meus “sins” vazios e os meus “nãos” obstinados. Dá-me um coração que se arrependa e faça a tua vontade. Amém.",
+    "contemplatio_foco": { "texto": "Arrependido, foi.", "ref": "Mt 21,29" }
+  },
+  "ancoras": {
+    "21:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:23–27#1", "sintese": "Não podendo desacreditar os milagres, censuram-no por ter proibido o comércio no Templo." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:23–27#3", "sintese": "Renovam a calúnia de antes, quando diziam que expulsava os demônios por Belzebu." }
+      ],
+      "nota": null
+    },
+    "21:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "In Ioann. Tract. 5, 4", "catena": "21:23–27#5", "sintese": "João recebeu o poder de batizar daquele a quem depois batizou; só ele recebeu tal dom." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:23–27#6", "sintese": "Se respondessem “do céu”, seguia-se: por que não crestes nele?" }
+      ],
+      "nota": null
+    },
+    "21:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:28–32#0", "sintese": "Propõe a parábola para convencê-los da sua impiedade e mostrar que o Reino passaria aos gentios." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:28–32#2", "sintese": "Fala primeiro ao povo gentio pela lei natural: não faças a outro o que não queres que te façam; e ele responde: não quero." }
+      ],
+      "nota": null
+    },
+    "21:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:28–32#4", "sintese": "Na vinda do Salvador, o povo gentio fez penitência e trabalhou na vinha, reparando a recusa." }
+      ],
+      "nota": null
+    },
+    "21:31": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:28–32#14", "sintese": "Outros entendem a parábola simplesmente dos justos e dos pecadores, que, recusando antes, depois se convertem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

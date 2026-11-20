@@ -1,0 +1,74 @@
+{
+  "id": "MAT.21.1",
+  "livro": "MAT",
+  "titulo": "A entrada messiânica em Jerusalém",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 21,1-11",
+  "ini": { "c": 21, "v": 1 },
+  "fim": { "c": 21, "v": 11 },
+  "liturgia": { "tema_central": "“Hosana ao Filho de Davi! Bendito o que vem em nome do Senhor”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Perto de Jerusalém, em Betfagé, junto ao monte das Oliveiras, Jesus manda buscar uma jumenta e o seu jumentinho, cumprindo Zc 9,9: “Eis que o teu Rei vem a ti, manso, montado numa jumenta”. A multidão estende os mantos no caminho (gesto de entronização real, cf. 2Rs 9,13) e corta ramos, aclamando: “Hosana ao Filho de Davi! Bendito o que vem em nome do Senhor!” (Sl 118,25-26; “Hosana”, “salva, pois”, tornara-se aclamação de louvor). Ao entrar, toda a cidade se agita: “Quem é este?” A multidão responde: “É Jesus, o profeta de Nazaré da Galileia”.",
+    "alegorico": "Cristo entra como Rei messiânico, mas manso e pacífico, não como conquistador a cavalo. Os Padres viram na jumenta, que já levara o jugo, a sinagoga, e no jumentinho indomado o povo gentio, ambos conduzidos a Cristo. As multidões que vão à frente e as que seguem são os justos de antes e de depois do Evangelho, que aclamam o mesmo Senhor. A entrada antecipa a Páscoa: o Rei vai a Jerusalém para ser coroado na Cruz.",
+    "moral": "A realeza de Cristo é mansidão e humildade: basta-nos um jumento, não um cavalo de luxo. Estender os mantos é entregar-lhe o que temos e somos. As mesmas multidões que aclamam “Hosana” gritarão “crucifica-o”: o louvor dos lábios deve tornar-se fidelidade da vida.",
+    "anagogico": "“Bendito o que vem”: a Igreja repete esta aclamação em cada Missa, no Sanctus, saudando o Senhor que vem na Eucaristia e que virá na glória. A entrada em Jerusalém anuncia a entrada definitiva na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aproximando-se de Jerusalém, Jesus enviou dois discípulos: “Ide à aldeia; achareis uma jumenta presa e com ela um jumentinho; desprendei-os e trazei-mos”. Isto aconteceu para se cumprir o que disse o profeta: “Dizei à filha de Sião: Eis que o teu Rei vem a ti, manso, montado numa jumenta”. Grande multidão estendia os seus mantos pelo caminho; outros cortavam ramos das árvores. E as multidões gritavam: “Hosana ao Filho de Davi! Bendito o que vem em nome do Senhor! Hosana nas alturas!” Entrando em Jerusalém, toda a cidade se alvoroçou: “Quem é este?” E as multidões diziam: “Este é Jesus, o profeta de Nazaré da Galileia”.",
+    "meditatio_perguntas": [
+      "Como acolho Jesus, Rei manso e humilde, na minha vida?",
+      "Que “mantos” posso estender diante dele?",
+      "O meu “Hosana” é só de palavras, ou se mantém quando vem a cruz?"
+    ],
+    "oratio_guia": "Hosana ao Filho de Davi! Senhor Jesus, Rei manso e humilde, entra na minha vida como entraste em Jerusalém. Que o meu louvor não seja passageiro, mas fiel até a cruz. Bendito o que vem em nome do Senhor! Amém.",
+    "contemplatio_foco": { "texto": "Bendito o que vem em nome do Senhor!", "ref": "Mt 21,9" }
+  },
+  "ancoras": {
+    "21:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:1–9#3", "sintese": "Quem moveu os donos a entregar os animais? Mostra que poderia ter contido os judeus, mas não quis." }
+      ],
+      "nota": null
+    },
+    "21:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:1–9#12", "sintese": "Montou numa jumenta para nos ensinar que não é preciso cavalo: basta um jumento, contentando-nos com o necessário." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:1–9#25", "sintese": "A jumenta que levara o jugo é a sinagoga; o jumentinho livre e indomado, o povo gentio." }
+      ],
+      "nota": null
+    },
+    "21:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:1–9#13", "sintese": "As multidões que vieram de Jericó estenderam as vestes e cobriram o caminho de ramos." }
+      ],
+      "nota": null
+    },
+    "21:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:1–9#18", "sintese": "“Hosana nas alturas”: a vinda de Cristo é salvação de todo o mundo, unindo a terra ao céu." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "21:1–9#21", "sintese": "Chamando-o Filho de Davi, reconhecem o seu direito hereditário ao reino." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:1–9#33", "sintese": "Os que iam à frente e os que seguiam: os dois povos, de antes e de depois do Evangelho, louvam a Jesus com voz concorde." }
+      ],
+      "nota": null
+    },
+    "21:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:10–16#0", "sintese": "Toda a cidade se comoveu, admirada da multidão e ignorando a verdade." }
+      ],
+      "nota": null
+    },
+    "21:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:10–16#3", "sintese": "Enquanto outros duvidavam, o povo simples o confessava, começando pelo menor para chegar ao maior." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "MAT.21.33",
+  "livro": "MAT",
+  "titulo": "A parábola dos vinhateiros homicidas",
+  "secao": "O ministério em Jerusalém",
+  "referencia": "Mt 21,33-46",
+  "ini": { "c": 21, "v": 33 },
+  "fim": { "c": 21, "v": 46 },
+  "liturgia": { "tema_central": "A pedra rejeitada tornou-se pedra angular", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um pai de família planta uma vinha, cerca-a, cava um lagar, ergue uma torre (imagem tirada do Cântico da vinha, Is 5,1-7) e arrenda-a a vinhateiros. No tempo da colheita, envia servos para receber os frutos; os vinhateiros espancam, matam e apedrejam. Envia outros, mais numerosos, e fazem o mesmo. Por fim, envia o filho: “respeitarão o meu filho”. Mas eles o lançam fora da vinha e o matam, para ficar com a herança. Os ouvintes sentenciam: o senhor fará perecer os maus e dará a vinha a outros. Jesus cita o Sl 118,22: a pedra rejeitada pelos construtores tornou-se pedra angular. O Reino será tirado deles e dado a um povo que produza frutos. Os chefes entendem que fala deles, mas temem o povo.",
+    "alegorico": "A vinha é Israel; os servos, os profetas maltratados; o filho, Cristo, morto fora de Jerusalém, como fora da vinha. A pedra angular é Cristo ressuscitado, que une os dois muros, a Lei e os gentios, num só edifício, a Igreja. O “povo que produza frutos” é a Igreja de judeus e gentios.",
+    "moral": "Deus é paciente: envia muitas vezes os seus mensageiros antes do juízo, para que os culpados se acusem e se convertam. A vinha nos é confiada para dar frutos, não para dela nos apossarmos. Rejeitar Cristo é tropeçar e despedaçar-se; mas quem, pecador, cai sobre a pedra crendo nela, é conservado para a salvação.",
+    "anagogico": "A pedra que cai do alto é Cristo que virá julgar. O Reino passa aos que dão fruto, e a pedra rejeitada é o fundamento da Jerusalém eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Um pai de família plantou uma vinha, arrendou-a a uns lavradores e partiu. No tempo dos frutos, enviou os seus servos; mas os lavradores espancaram um, mataram outro e apedrejaram outro. Por fim, enviou o seu filho, dizendo: “Respeitarão o meu filho”. Mas eles disseram: “Este é o herdeiro; vinde, matemo-lo”. E, lançando-o fora da vinha, mataram-no. Jesus disse: “Nunca lestes nas Escrituras: A pedra que os construtores rejeitaram tornou-se pedra angular; isto foi feito pelo Senhor, e é admirável aos nossos olhos? Por isso vos digo que vos será tirado o Reino de Deus e será dado a um povo que produza os seus frutos”.",
+    "meditatio_perguntas": [
+      "Que frutos estou dando na vinha que Deus me confiou?",
+      "Como acolho os “servos” que Deus me envia para me chamar à conversão?",
+      "Cristo é de fato a pedra angular da minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, pedra rejeitada e feita pedra angular, edifica sobre ti a minha vida. Que eu não me aposse da vinha do Pai, mas lhe dê os frutos a seu tempo, acolhendo os que me envias. Amém.",
+    "contemplatio_foco": { "texto": "A pedra que os edificadores rejeitaram, essa foi posta por pedra angular.", "ref": "Mt 21,42" }
+  },
+  "ancoras": {
+    "21:33": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#3", "sintese": "É a vinha de Isaías, a casa de Israel; cercou-a com o muro da cidade ou com a guarda dos anjos." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#9", "sintese": "A torre é o Templo, a “torre do rebanho” de que fala Miqueias." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#12", "sintese": "Parte não por mudança de lugar, pois Deus está em toda parte, mas para deixar aos vinhateiros a liberdade de agir." }
+      ],
+      "nota": null
+    },
+    "21:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#17", "sintese": "Espancaram uns, como Jeremias; mataram outros, como Isaías; apedrejaram outros, como Nabot e Zacarias." }
+      ],
+      "nota": null
+    },
+    "21:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:33–44#22", "sintese": "Não enviou logo o Filho, para que, pelo que fizeram aos outros, se acusassem e o reverenciassem quando viesse." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#24", "sintese": "“Respeitarão” não é dito por ignorância: Deus é apresentado como hesitante para que se respeite a liberdade do homem." }
+      ],
+      "nota": null
+    },
+    "21:39": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "21:33–44#32", "sintese": "Cristo foi lançado fora de Jerusalém, como fora da vinha, para a execução da sentença." }
+      ],
+      "nota": null
+    },
+    "21:41": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:33–44#42", "sintese": "Propõe a parábola para que, não a entendendo, pronunciassem sentença contra si mesmos, como fez Natã com Davi." }
+      ],
+      "nota": null
+    },
+    "21:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "21:33–44#46", "sintese": "Cristo é a pedra; os construtores são os mestres dos judeus, que o rejeitaram." },
+        { "autor": "Santo Hilário", "obra": null, "catena": "21:33–44#48", "sintese": "Tornou-se cabeça do ângulo porque é a junção dos dois lados, a Lei e os gentios." }
+      ],
+      "nota": null
+    },
+    "21:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:33–44#54", "sintese": "Quem peca, mas crê nele, cai sobre a pedra e despedaça-se, mas não é esmagado: conserva-se para a salvação." },
+        { "autor": "Santo Agostinho", "obra": "Quaest. Evang. 1, 30", "catena": "21:33–44#57", "sintese": "Sobre os que o desprezam cairá quando vier do alto a julgar." }
+      ],
+      "nota": null
+    },
+    "21:45": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "21:45–46#0", "sintese": "Por mais duros que fossem, perceberam que a sentença do Senhor se dirigia contra eles." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
