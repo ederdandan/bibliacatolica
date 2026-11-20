@@ -1,0 +1,57 @@
+{
+  "id": "JAS.2.1",
+  "livro": "JAS",
+  "titulo": "Não fazer acepção de pessoas",
+  "secao": "Fé e obras",
+  "referencia": "Tg 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A misericórdia triunfa do juízo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tiago adverte: não misturem a fé em Nosso Senhor Jesus Cristo glorioso com a acepção de pessoas. Se entra na assembleia um homem com anel de ouro e roupa luxuosa, e entra também um pobre malvestido, e se dá ao rico o lugar de honra e ao pobre se diz “fica aí de pé” ou “senta-te no chão”, não estão fazendo distinções e julgando com critérios perversos? Deus não escolheu os pobres do mundo para serem ricos na fé e herdeiros do Reino prometido aos que o amam? E eles desprezam o pobre, enquanto são os ricos que os oprimem e arrastam aos tribunais e blasfemam o nome invocado sobre eles. Cumprir a lei régia, “amarás o teu próximo como a ti mesmo”, é bom; fazer acepção de pessoas é pecado. Quem guarda toda a lei e falha num só ponto torna-se culpado de tudo. Falem e ajam como quem será julgado pela lei da liberdade: o juízo será sem misericórdia para quem não usou de misericórdia; mas a misericórdia triunfa do juízo.",
+    "alegorico": "A assembleia (literalmente “sinagoga”) é a reunião litúrgica cristã: o lugar dado ao pobre revela se a Igreja reconhece nele o próprio Cristo, que se fez pobre. Deus escolheu os pobres como herdeiros do Reino, como Cristo proclamou nas bem-aventuranças. A “lei régia” é o mandamento do amor, lei do Rei.",
+    "moral": "A acepção de pessoas é pecado, e frequentemente se esconde nos espaços religiosos: honras ao rico, indiferença ao pobre. A lei de Deus é una: não se pode escolher apenas os mandamentos convenientes. A medida do juízo será a misericórdia que tivermos usado: quem é misericordioso não teme o juízo.",
+    "anagogico": "Os pobres são “herdeiros do reino prometido”, e o juízo final terá por critério a misericórdia (cf. Mt 25). “A misericórdia triunfa do juízo”: na eternidade, prevalecerá o amor praticado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não mistureis a fé de Nosso Senhor Jesus Cristo com a acepção de pessoas. Acaso não escolheu Deus os pobres segundo este mundo para serem ricos na fé e herdeiros do reino? Amarás o teu próximo como a ti mesmo. O juízo será sem misericórdia para aquele que não usou de misericórdia; mas a misericórdia triunfa do juízo.",
+    "meditatio_perguntas": [
+      "Trato as pessoas de modo diferente conforme a sua aparência ou posição?",
+      "Como acolho o pobre na minha comunidade?",
+      "Que misericórdia preciso usar hoje para não temer o juízo?"
+    ],
+    "oratio_guia": "Senhor Jesus glorioso, que te fizeste pobre, livra-me da acepção de pessoas. Dá-me ver-te no pobre que entra na minha vida e acolhê-lo com honra. Ensina-me a usar de misericórdia, para que a tua misericórdia triunfe sobre o meu juízo. Amém.",
+    "contemplatio_foco": {
+      "texto": "A misericórdia triunfa do juízo.",
+      "ref": "Tg 2,13"
+    }
+  },
+  "ancoras": {
+    "2:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Assembleia” traduz synagōgḗ: uma das raras vezes no NT em que a reunião cristã é chamada assim, sinal da origem judaico-cristã da carta.",
+        "origem": "ia"
+      }
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A unidade da lei: quem viola um mandamento ofende o mesmo Legislador. Não significa que todos os pecados sejam iguais em gravidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

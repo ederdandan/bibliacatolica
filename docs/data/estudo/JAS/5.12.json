@@ -1,0 +1,65 @@
+{
+  "id": "JAS.5.12",
+  "livro": "JAS",
+  "titulo": "A unção dos enfermos e a oração do justo",
+  "secao": "Paciência e oração",
+  "referencia": "Tg 5,12-20",
+  "ini": {
+    "c": 5,
+    "v": 12
+  },
+  "fim": {
+    "c": 5,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A oração da fé salvará o enfermo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sobretudo, não jurem, nem pelo céu, nem pela terra, nem por outra coisa: o sim seja sim e o não seja não. Está alguém aflito? Reze. Está alegre? Cante salmos. Está alguém doente? Chame os presbíteros da Igreja, e estes rezem sobre ele, ungindo-o com óleo em nome do Senhor; a oração da fé salvará o enfermo, o Senhor o aliviará, e, se tiver cometido pecados, ser-lhe-ão perdoados. Confessem, pois, os pecados uns aos outros e rezem uns pelos outros, para serem curados: a oração fervorosa do justo pode muito. Elias era homem como nós; rezou para que não chovesse, e não choveu durante três anos e meio; rezou de novo, e o céu deu chuva e a terra o seu fruto. Por fim: se alguém se desviar da verdade e outro o reconduzir, saiba que quem converte um pecador do seu caminho errado salvará a sua alma da morte e cobrirá uma multidão de pecados.",
+    "alegorico": "A unção dos enfermos pelos presbíteros, com óleo e oração, em nome do Senhor, é o rito que a Igreja reconhece como sacramento: Cristo médico continua a tocar os doentes pela mão dos seus ministros. A confissão dos pecados e a oração mútua mostram a Igreja como comunidade de cura. Elias, que fecha e abre o céu pela oração, é figura do poder da intercessão dos santos.",
+    "moral": "A verdade simples dispensa juramentos. Em toda situação, tristeza, alegria ou doença, a resposta cristã é a oração. Ninguém deve sofrer a doença sozinho: chama-se a Igreja. A confissão dos pecados cura. E a caridade mais alta é reconduzir quem se afastou da verdade: é obra que salva uma alma e cobre muitos pecados.",
+    "anagogico": "“O Senhor o aliviará” (literalmente, “o levantará”): o verbo da ressurreição. A unção prepara o enfermo também para a passagem final, e a alma reconduzida da morte é salva para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Está aflito algum de vós? Faça oração. Está alegre? Cante salmos. Está entre vós algum enfermo? Chame os sacerdotes da Igreja, e estes façam orações sobre ele, ungindo-o com óleo em nome do Senhor; a oração da fé salvará o enfermo. Orai uns pelos outros, porque a oração fervorosa do justo pode muito.",
+    "meditatio_perguntas": [
+      "Rezo na aflição e canto na alegria, ou esqueço Deus em ambas?",
+      "Conheço e valorizo o sacramento da Unção dos Enfermos para mim e para os meus?",
+      "Há alguém afastado da fé que eu possa ajudar a reconduzir?"
+    ],
+    "oratio_guia": "Senhor Jesus, médico das almas e dos corpos, alivia os enfermos pela unção e pela oração da tua Igreja. Dá-me rezar em todas as circunstâncias e interceder pelos irmãos com fervor. Faz de mim instrumento para reconduzir a ti os que se afastaram. Amém.",
+    "contemplatio_foco": {
+      "texto": "A oração fervorosa do justo pode muito.",
+      "ref": "Tg 5,16"
+    }
+  },
+  "ancoras": {
+    "5:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sacerdotes” traduz presbýteroi. O Concílio de Trento (sessão XIV) ensina que neste texto o sacramento da Unção dos Enfermos é “promulgado” por Tiago, tendo sido instituído por Cristo (cf. Mc 6,13).",
+        "origem": "ia"
+      }
+    },
+    "5:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Trento vê aqui também um apoio à prática da confissão, embora o texto fale de confissão mútua e oração na comunidade.",
+        "origem": "ia"
+      }
+    },
+    "5:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os três anos e meio vêm da tradição judaica (cf. Lc 4,25); 1Rs 18,1 fala do “terceiro ano”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

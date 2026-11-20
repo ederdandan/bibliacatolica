@@ -1,0 +1,49 @@
+{
+  "id": "JAS.1.19",
+  "livro": "JAS",
+  "titulo": "Realizadores da palavra, e não ouvintes somente",
+  "secao": "Provação e Palavra",
+  "referencia": "Tg 1,19-27",
+  "ini": {
+    "c": 1,
+    "v": 19
+  },
+  "fim": {
+    "c": 1,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Sede realizadores da palavra, e não ouvintes somente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todo homem seja pronto para ouvir, lento para falar e lento para se irar, pois a ira do homem não realiza a justiça de Deus. Por isso, rejeitando toda impureza e excesso de malícia, recebam com mansidão a palavra plantada neles, que pode salvar as suas almas. Sejam realizadores da palavra, e não apenas ouvintes, enganando a si mesmos. Quem ouve e não pratica é como o homem que olha o rosto no espelho e, ao sair, esquece como era. Mas quem fixa o olhar na lei perfeita da liberdade e nela persevera, não como ouvinte esquecido, mas como executor, será feliz no que fizer. Se alguém se julga religioso e não refreia a língua, engana o próprio coração e a sua religião é vã. A religião pura e sem mancha diante de Deus Pai é esta: visitar os órfãos e as viúvas nas suas aflições e guardar-se puro da corrupção do mundo.",
+    "alegorico": "A palavra “enxertada” (ou “plantada”) é semente divina no coração, eco da parábola do semeador. A “lei perfeita da liberdade” é o Evangelho, lei nova do Espírito que liberta, não escraviza. A Escritura é espelho onde o homem vê o seu verdadeiro rosto, criado à imagem de Deus.",
+    "moral": "Ouvir mais, falar menos, irar-se pouco: regra simples e exigente. Ouvir a Palavra sem praticá-la é autoengano. A religião autêntica mede-se pela língua dominada, pela caridade concreta com os mais frágeis (órfãos e viúvas eram o símbolo dos desamparados) e pela pureza diante do mundo.",
+    "anagogico": "A palavra recebida “pode salvar as vossas almas”: a escuta obediente tem horizonte eterno. A bem-aventurança de quem pratica a palavra começa agora e se completa na vida futura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar. Recebei com mansidão a palavra enxertada em vós, a qual pode salvar as vossas almas. Sede realizadores da palavra, e não ouvintes somente. A religião pura e sem mácula é esta: visitar os órfãos e as viúvas nas suas tribulações.",
+    "meditatio_perguntas": [
+      "Sou mais pronto para falar ou para ouvir?",
+      "Que palavra de Deus já ouvi muitas vezes e ainda não pus em prática?",
+      "Quem são os “órfãos e viúvas” que eu deveria visitar?"
+    ],
+    "oratio_guia": "Senhor, dá-me ser pronto para ouvir e lento para falar e para me irar. Que a tua palavra, plantada em mim, dê fruto em obras. Livra-me de uma religião vã e faz-me servir os desamparados e guardar-me puro do mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sede, pois, realizadores da palavra, e não ouvintes somente.",
+      "ref": "Tg 1,22"
+    }
+  },
+  "ancoras": {
+    "1:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “lei da liberdade” (cf. 2,12): a lei do Evangelho, interior, que Santo Tomás chama “lei nova”, cuja essência é a graça do Espírito Santo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

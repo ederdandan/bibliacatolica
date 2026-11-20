@@ -1,0 +1,57 @@
+{
+  "id": "JAS.2.14",
+  "livro": "JAS",
+  "titulo": "A fé sem obras é morta",
+  "secao": "Fé e obras",
+  "referencia": "Tg 2,14-26",
+  "ini": {
+    "c": 2,
+    "v": 14
+  },
+  "fim": {
+    "c": 2,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A fé sem obras é morta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "De que serve alguém dizer que tem fé, se não tem obras? Poderá essa fé salvá-lo? Se um irmão ou irmã não têm roupa nem alimento diário, e alguém lhes diz “ide em paz, aquecei-vos e saciai-vos”, sem lhes dar o necessário, de que adianta? Assim a fé, se não tiver obras, é morta em si mesma. Alguém dirá: “tu tens fé, eu tenho obras”. Mostra-me a tua fé sem obras, e eu te mostrarei a minha fé pelas obras. Crês que há um só Deus? Fazes bem; também os demônios creem, e tremem. Abraão, nosso pai, não foi justificado pelas obras ao oferecer Isaac sobre o altar? A fé cooperava com as obras, e pelas obras a fé se tornou perfeita; cumpriu-se a Escritura: “Abraão creu em Deus e isso lhe foi imputado como justiça”, e foi chamado amigo de Deus. O homem é justificado pelas obras e não só pela fé. Também Raab foi justificada pelas obras. Como o corpo sem espírito é morto, assim a fé sem obras é morta.",
+    "alegorico": "Abraão oferecendo Isaac é figura do Pai que oferece o Filho; a sua fé obediente prefigura a obediência de Cristo. Raab, a estrangeira que acolhe os mensageiros, é figura da Igreja dos gentios que acolhe o Evangelho. A fé viva, animada pela caridade, é como o corpo animado pela alma: a caridade é a alma da fé.",
+    "moral": "A fé que não age é cadáver. A caridade concreta, vestir e alimentar, é o teste da fé. Saber as verdades de fé não basta: os demônios também as sabem. A fé verdadeira coopera com as obras e se aperfeiçoa nelas. Não há contradição com Paulo: ele exclui as obras da Lei como causa da justificação; Tiago exige as obras da caridade como fruto e prova da fé viva.",
+    "anagogico": "Abraão foi chamado “amigo de Deus”: a fé que opera pela caridade leva à amizade com Deus, que se consuma na visão eterna. As obras feitas na graça acompanham o fiel até o juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Que aproveitará, irmãos meus, se alguém diz que tem fé e não tem obras? Se um irmão ou uma irmã estiverem nus e precisarem do alimento quotidiano. A fé, se não tiver obras, é morta em si mesma. Mostra-me a tua fé sem obras, e eu te mostrarei a minha fé pelas minhas obras. Assim como o corpo sem espírito é morto, assim também a fé sem obras é morta.",
+    "meditatio_perguntas": [
+      "Minha fé se mostra em obras concretas, ou só em palavras?",
+      "A quem tenho dito “ide em paz” sem ajudar de fato?",
+      "Minha fé é como a dos demônios, que sabem, ou como a de Abraão, que obedece?"
+    ],
+    "oratio_guia": "Senhor, não permitas que a minha fé seja morta. Que ela se mostre em obras de caridade, no pão e na roupa partilhados. Dá-me a fé obediente de Abraão, para ser chamado teu amigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "A fé, se não tiver obras, é morta em si mesma.",
+      "ref": "Tg 2,17"
+    }
+  },
+  "ancoras": {
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Concílio de Trento (sessão VI, cap. 10) cita este versículo: a justiça recebida cresce pelas boas obras, unidas à fé. Paulo (Rm 3,28) e Tiago combatem erros diferentes e se completam.",
+        "origem": "ia"
+      }
+    },
+    "2:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição escolástica fala de “fé informe” (sem caridade) e “fé formada” pela caridade, a partir deste versículo e de Gl 5,6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

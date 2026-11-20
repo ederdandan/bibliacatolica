@@ -1,0 +1,57 @@
+{
+  "id": "JAS.1.1",
+  "livro": "JAS",
+  "titulo": "A prova da fé e o dom que vem do alto",
+  "secao": "Provação e Palavra",
+  "referencia": "Tg 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "A prova da fé produz a constância; todo dom perfeito vem do alto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tiago, servo de Deus e do Senhor Jesus Cristo, saúda as doze tribos da Dispersão. Pede que considerem motivo de grande alegria as várias provações, porque a prova da fé produz a constância, e a constância leva a obra à perfeição. Quem tem falta de sabedoria, peça-a a Deus, que dá a todos generosamente sem censurar, mas peça com fé, sem hesitar: quem hesita é como a onda do mar levada pelo vento, homem de alma dividida, inconstante em tudo. O irmão humilde glorie-se da sua elevação; o rico, da sua humilhação, pois passará como a flor da erva que o sol seca. Feliz o homem que suporta a provação: depois de provado receberá a coroa da vida. Ninguém diga que é tentado por Deus: Deus não tenta ninguém; cada um é tentado pela própria concupiscência, que concebe o pecado, e o pecado consumado gera a morte. Todo dom perfeito desce do Pai das luzes, em quem não há mudança; por sua vontade nos gerou pela palavra da verdade, como primícias das suas criaturas.",
+    "alegorico": "As “doze tribos da Dispersão” são a Igreja, novo Israel espalhado pelo mundo, peregrina longe da pátria. O “Pai das luzes”, sem sombra de mudança, contrasta com os astros que variam: Deus é luz estável. A geração “pela palavra da verdade” é o novo nascimento batismal, que faz dos cristãos as primícias da nova criação.",
+    "moral": "A provação, vivida na fé, amadurece. A sabedoria para atravessá-la deve ser pedida com confiança, sem a duplicidade de quem reza mas não confia. A origem da tentação está na concupiscência, não em Deus: o pecado tem uma genealogia (desejo, consentimento, pecado, morte), e é melhor cortá-lo na raiz. Os bens deste mundo passam como a flor do campo.",
+    "anagogico": "A “coroa da vida” prometida aos que amam a Deus é a vida eterna. Os cristãos, primícias das criaturas, antecipam a renovação de toda a criação, que será plena quando o Pai das luzes for tudo para todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tende por um motivo da maior alegria toda a espécie de tribulações, sabendo que a prova da vossa fé produz a constância. Se algum de vós necessita de sabedoria, peça-a a Deus, que a todos dá liberalmente. Bem-aventurado o homem que sofre a provação, porque receberá a coroa da vida. Todo o dom perfeito vem do alto e desce do Pai das luzes.",
+    "meditatio_perguntas": [
+      "Como vivo as provações: com revolta ou como ocasião de amadurecer?",
+      "Peço sabedoria a Deus com fé, ou com a alma dividida?",
+      "Reconheço que todo bem que tenho vem do Pai das luzes?"
+    ],
+    "oratio_guia": "Pai das luzes, de quem vem todo dom perfeito, dá-me sabedoria para viver as provações com constância e alegria. Livra-me da alma dividida e da concupiscência que gera o pecado. Que eu, gerado pela tua palavra, receba um dia a coroa da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todo o dom perfeito vem do alto e desce do Pai das luzes.",
+      "ref": "Tg 1,17"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição atribui a carta a Tiago, “irmão do Senhor” (parente de Jesus) e chefe da Igreja de Jerusalém (At 15; Gl 1,19), identificado pela tradição latina com Tiago, filho de Alfeu.",
+        "origem": "ia"
+      }
+    },
+    "1:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tentar” e “provar” traduzem o mesmo verbo grego (peirázō). Deus prova para fazer crescer; nunca induz ao mal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

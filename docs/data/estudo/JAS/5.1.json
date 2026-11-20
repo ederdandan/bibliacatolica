@@ -1,0 +1,57 @@
+{
+  "id": "JAS.5.1",
+  "livro": "JAS",
+  "titulo": "Aviso aos ricos; paciência até a vinda do Senhor",
+  "secao": "Paciência e oração",
+  "referencia": "Tg 5,1-11",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Sede pacientes: a vinda do Senhor está próxima",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tiago dirige-se aos ricos: chorem e gritem pelas desgraças que virão. As suas riquezas apodreceram, as vestes foram comidas pela traça, o ouro e a prata enferrujaram, e a ferrugem testemunhará contra eles e devorará a sua carne como fogo: acumularam tesouros nos últimos dias. O salário dos trabalhadores que ceifaram os seus campos, retido por eles, clama, e o clamor dos ceifeiros chegou aos ouvidos do Senhor dos exércitos. Viveram em delícias, engordaram para o dia da matança, condenaram e mataram o justo, que não resiste. Depois, aos irmãos: sejam pacientes até a vinda do Senhor, como o lavrador espera o fruto da terra, com paciência, até as chuvas do outono e da primavera. Fortaleçam os corações, porque a vinda do Senhor está próxima. Não se queixem uns dos outros, para não serem julgados: o juiz está à porta. Tomem como modelo de paciência os profetas; proclamamos felizes os que perseveraram. Ouviram da paciência de Jó e viram o fim que o Senhor lhe deu, porque o Senhor é misericordioso e compassivo.",
+    "alegorico": "O “justo” condenado e morto, que não resiste, foi lido pelos Padres como figura de Cristo, Servo silencioso, e de todos os justos oprimidos. O lavrador que espera as chuvas é imagem da Igreja que semeia e espera a colheita final; Jó, provado e restaurado, prefigura a Paixão e a glória.",
+    "moral": "O juízo sobre os ricos injustos é severo: reter o salário do trabalhador é pecado que “clama ao céu”. A riqueza acumulada sem partilha apodrece e acusa. Aos oprimidos, Tiago pede paciência ativa, como a do lavrador, e que não se queixem uns dos outros. A paciência cristã apoia-se na misericórdia de Deus e na proximidade do Senhor.",
+    "anagogico": "“O juiz está à porta”: a vinda do Senhor dá sentido à paciência e à justiça. Então os injustos serão confundidos e os pacientes, como Jó, verão “o desígnio do Senhor”, misericordioso e compassivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O salário dos trabalhadores, o qual foi defraudado por vós, clama, e o clamor dos ceifeiros subiu até aos ouvidos do Senhor dos exércitos. Sede, pois, pacientes, irmãos, até à vinda do Senhor. Vede como o lavrador espera o precioso fruto da terra. Fortalecei os vossos corações, porque a vinda do Senhor está próxima. O Senhor é misericordioso e compassivo.",
+    "meditatio_perguntas": [
+      "Pago com justiça quem trabalha para mim? Partilho o que tenho?",
+      "Sei esperar com a paciência do lavrador?",
+      "Queixo-me dos irmãos em vez de fortalecer o meu coração?"
+    ],
+    "oratio_guia": "Senhor misericordioso e compassivo, livra-me da riqueza que apodrece e da injustiça que clama ao céu. Dá-me a paciência do lavrador e a constância de Jó, e fortalece o meu coração, porque a tua vinda está próxima. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sede pacientes também vós e fortalecei os vossos corações, porque a vinda do Senhor está próxima.",
+      "ref": "Tg 5,8"
+    }
+  },
+  "ancoras": {
+    "5:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição catequética conta a defraudação do salário entre os “pecados que clamam ao céu”, junto com o homicídio (Gn 4,10), o pecado de Sodoma e a opressão do pobre (Ex 3,7).",
+        "origem": "ia"
+      }
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As chuvas “do outono e da primavera” (temporãs e serôdias) marcam o ciclo agrícola da Palestina. Leitura do 3º Domingo do Advento, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

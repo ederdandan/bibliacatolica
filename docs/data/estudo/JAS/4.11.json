@@ -1,0 +1,49 @@
+{
+  "id": "JAS.4.11",
+  "livro": "JAS",
+  "titulo": "Se o Senhor quiser",
+  "secao": "A língua e a sabedoria",
+  "referencia": "Tg 4,11-17",
+  "ini": {
+    "c": 4,
+    "v": 11
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Se o Senhor quiser",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tiago pede que não falem mal uns dos outros: quem fala mal do irmão ou o julga, fala mal da lei e a julga, e então já não é observador da lei, mas juiz. Só há um legislador e juiz, que pode salvar e perder; quem és tu para julgar o próximo? Depois volta-se aos que dizem: “Hoje ou amanhã iremos a tal cidade, passaremos lá um ano, negociaremos e teremos lucro”, sem saber o que será amanhã. Que é a vossa vida? Um vapor que aparece por um instante e logo se desfaz. Em vez disso, deveriam dizer: “Se o Senhor quiser, viveremos e faremos isto ou aquilo.” Mas gloriam-se na sua presunção, e toda jactância assim é má. Por fim, quem sabe fazer o bem e não o faz, peca.",
+    "alegorico": "Deus é o único Legislador e Juiz: quem julga o irmão usurpa o lugar de Cristo, a quem o Pai entregou o juízo. A vida como “vapor” lembra o Eclesiastes: tudo é sopro, e só Deus permanece. O “se o Senhor quiser” é a forma cristã da oração de Jesus: “seja feita a tua vontade”.",
+    "moral": "Falar mal do irmão e julgá-lo é pecado contra a caridade e contra Deus. Os planos humanos, mesmo legítimos, devem ser feitos com humildade e abandono à Providência. A presunção que dispõe do futuro esquece a fragilidade da vida. E há pecados de omissão: saber o bem e não fazê-lo também é pecado.",
+    "anagogico": "A brevidade da vida aponta para o que não passa. Diante do único Juiz, que “pode salvar ou perder”, todos compareceremos; viver com o “se o Senhor quiser” é preparar-se para esse encontro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Irmãos, não digais mal uns dos outros. Não há mais que um legislador e um juiz. Quem és tu, que julgas o próximo? O que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece. Devíeis dizer: Se o Senhor quiser, viveremos e faremos esta ou aquela coisa. Aquele que conhece o bem que deve fazer e não o faz, peca.",
+    "meditatio_perguntas": [
+      "De quem tenho falado mal ou a quem tenho julgado?",
+      "Faço os meus planos com abandono à vontade de Deus?",
+      "Que bem eu sei que devo fazer e estou adiando?"
+    ],
+    "oratio_guia": "Senhor, único juiz, livra-me de julgar e falar mal dos meus irmãos. Ensina-me a fazer os meus planos dizendo “se o Senhor quiser”, consciente de que a minha vida é um sopro. E dá-me fazer hoje o bem que conheço. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se o Senhor quiser, viveremos e faremos esta ou aquela coisa.",
+      "ref": "Tg 4,15"
+    }
+  },
+  "ancoras": {
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daqui vem a expressão latina “Deo volente” (D.V.), usada por cristãos ao anunciar planos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

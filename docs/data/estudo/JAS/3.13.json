@@ -1,0 +1,57 @@
+{
+  "id": "JAS.3.13",
+  "livro": "JAS",
+  "titulo": "A sabedoria que vem do alto",
+  "secao": "A língua e a sabedoria",
+  "referencia": "Tg 3,13–4,10",
+  "ini": {
+    "c": 3,
+    "v": 13
+  },
+  "fim": {
+    "c": 4,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Aproximai-vos de Deus, e Ele se aproximará de vós",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quem é sábio e inteligente? Mostre pelas obras, numa boa conduta, com mansidão e sabedoria. Mas se há no coração inveja amarga e espírito de rivalidade, não se gloriem nem mintam contra a verdade: essa sabedoria não vem do alto, é terrena, carnal, diabólica; onde há inveja e rivalidade, há desordem e toda obra má. A sabedoria do alto é primeiro pura, depois pacífica, indulgente, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade nem hipocrisia; e o fruto da justiça semeia-se na paz para os que fazem a paz. De onde vêm as guerras e contendas? Das paixões que combatem nos membros: cobiçam e não têm, invejam e não alcançam, lutam e brigam; não têm porque não pedem, ou pedem mal, para satisfazer paixões. A amizade com o mundo é inimizade com Deus. Deus resiste aos soberbos e dá a graça aos humildes. Submetam-se a Deus, resistam ao diabo, e ele fugirá. Aproximem-se de Deus, e Ele se aproximará; purifiquem as mãos e o coração, chorem a sua miséria; humilhem-se diante do Senhor, e Ele os exaltará.",
+    "alegorico": "A sabedoria “do alto” é, na leitura cristã, o próprio Cristo, Sabedoria de Deus, e o seu Espírito; os seus traços (pura, pacífica, misericordiosa) são o retrato de Jesus. O “ciúme” de Deus pelo espírito que fez habitar em nós é o amor do Esposo que não aceita partilhar a alma com o mundo: a infidelidade é chamada adultério.",
+    "moral": "As guerras exteriores nascem das paixões interiores: a paz começa no coração. A oração falha quando pede mal, por egoísmo. A soberba fecha a porta à graça; a humildade a abre. O caminho é concreto: submeter-se a Deus, resistir ao demônio, aproximar-se de Deus, purificar as mãos (as obras) e o coração (as intenções). Deus responde a cada passo nosso com um passo seu.",
+    "anagogico": "“Humilhai-vos... e ele vos exaltará”: a lei do Reino, vivida por Cristo, que se humilhou e foi exaltado. A exaltação plena dos humildes acontecerá na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A sabedoria que vem do alto primeiramente é pura, depois pacífica, indulgente, cheia de misericórdia e de bons frutos. O fruto da justiça é semeado na paz por aqueles que praticam a paz. Deus resiste aos soberbos e dá a sua graça aos humildes. Aproximai-vos de Deus, e ele se aproximará de vós. Humilhai-vos na presença do Senhor, e ele vos exaltará.",
+    "meditatio_perguntas": [
+      "Minha “sabedoria” é pacífica e misericordiosa, ou amarga e competitiva?",
+      "De que paixões nascem as minhas contendas?",
+      "Que passo concreto posso dar hoje para me aproximar de Deus?"
+    ],
+    "oratio_guia": "Deus que dás a graça aos humildes, dá-me a sabedoria do alto, pura, pacífica e misericordiosa. Arranca do meu coração a inveja e a rivalidade. Quero aproximar-me de ti: aproxima-te de mim, purifica as minhas mãos e o meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aproximai-vos de Deus, e ele se aproximará de vós.",
+      "ref": "Tg 4,8"
+    }
+  },
+  "ancoras": {
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo difícil: a citação não corresponde a nenhum texto conhecido do AT. Matos Soares segue a leitura de que Deus ama “até ao ciúme” o espírito que pôs em nós.",
+        "origem": "ia"
+      }
+    },
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Pv 3,34 (Septuaginta), retomada também em 1Pd 5,5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

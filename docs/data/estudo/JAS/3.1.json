@@ -1,0 +1,40 @@
+{
+  "id": "JAS.3.1",
+  "livro": "JAS",
+  "titulo": "Domar a língua",
+  "secao": "A língua e a sabedoria",
+  "referencia": "Tg 3,1-12",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Da mesma boca procede a bênção e a maldição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tiago adverte que não sejam muitos a quererem ser mestres, pois estes serão julgados com mais severidade. Todos tropeçamos em muitas coisas; quem não tropeça no falar é homem perfeito, capaz de refrear o corpo inteiro. Pomos freio na boca dos cavalos e dirigimos o seu corpo; os navios, mesmo grandes e impelidos por ventos fortes, são guiados por um pequeno leme. Assim a língua é membro pequeno, mas se gaba de grandes coisas: uma pequena chama incendeia uma grande floresta. A língua é fogo, um mundo de iniquidade, contamina o corpo inteiro e incendeia o curso da vida, inflamada pelo inferno. Toda espécie de animal pode ser domada pelo homem, mas a língua ninguém a pode domar: é mal incessante, cheia de veneno mortal. Com ela bendizemos o Senhor e Pai, e com ela amaldiçoamos os homens feitos à semelhança de Deus. Não deve ser assim. Uma fonte dá água doce e amarga? Uma figueira dá azeitonas, ou a videira figos?",
+    "alegorico": "A língua que bendiz a Deus e amaldiçoa o homem feito à sua imagem revela a contradição do coração dividido. O fogo da língua “inflamado pelo inferno” contrasta com as línguas de fogo do Pentecostes, inflamadas pelo Espírito Santo: a mesma palavra humana pode ser instrumento do inferno ou do céu.",
+    "moral": "Os pecados da língua (maledicência, mentira, ira, adulação, murmuração) são os mais frequentes e subestimados. Quem governa a língua governa o corpo inteiro. Ninguém a doma sozinho: é preciso a graça. Não se pode louvar a Deus e ferir quem é a sua imagem; a coerência entre oração e palavra ao próximo é exigência de santidade.",
+    "anagogico": "Quem é mestre será julgado com mais rigor: cada palavra terá o seu peso no juízo (cf. Mt 12,36). A língua purificada é chamada a unir-se, na eternidade, ao louvor sem fim dos santos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se alguém não peca em qualquer palavra, este é um homem perfeito. A língua é um pequeno membro, mas pode gloriar-se de grandes coisas. Vede como um pouco de fogo incendeia um grande bosque! Com ela bendizemos o Senhor nosso Pai, e com ela amaldiçoamos os homens, que foram feitos à semelhança de Deus. Não convém, meus irmãos, que isto seja assim.",
+    "meditatio_perguntas": [
+      "Que incêndios a minha língua já provocou?",
+      "Minha boca, que louva a Deus, também fere quem é sua imagem?",
+      "Peço a graça de Deus para governar a minha língua?"
+    ],
+    "oratio_guia": "Senhor, põe guarda à minha boca. Que a língua com que te bendigo nunca amaldiçoe os meus irmãos, feitos à tua imagem. Inflama-a com o fogo do teu Espírito, e não com o do mal, para que só fale o que edifica. Amém.",
+    "contemplatio_foco": {
+      "texto": "Da mesma boca procede a bênção e a maldição. Não convém, meus irmãos, que isto seja assim.",
+      "ref": "Tg 3,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

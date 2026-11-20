@@ -1,0 +1,137 @@
+{
+ "livro": "JAS",
+ "secoes": [
+  "Provação e Palavra",
+  "Fé e obras",
+  "A língua e a sabedoria",
+  "Paciência e oração"
+ ],
+ "pericopes": [
+  {
+   "id": "JAS.1.1",
+   "titulo": "A prova da fé e o dom que vem do alto",
+   "secao": "Provação e Palavra",
+   "referencia": "Tg 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "JAS.1.19",
+   "titulo": "Realizadores da palavra, e não ouvintes somente",
+   "secao": "Provação e Palavra",
+   "referencia": "Tg 1,19-27",
+   "ini": {
+    "c": 1,
+    "v": 19
+   },
+   "fim": {
+    "c": 1,
+    "v": 27
+   }
+  },
+  {
+   "id": "JAS.2.1",
+   "titulo": "Não fazer acepção de pessoas",
+   "secao": "Fé e obras",
+   "referencia": "Tg 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "JAS.2.14",
+   "titulo": "A fé sem obras é morta",
+   "secao": "Fé e obras",
+   "referencia": "Tg 2,14-26",
+   "ini": {
+    "c": 2,
+    "v": 14
+   },
+   "fim": {
+    "c": 2,
+    "v": 26
+   }
+  },
+  {
+   "id": "JAS.3.1",
+   "titulo": "Domar a língua",
+   "secao": "A língua e a sabedoria",
+   "referencia": "Tg 3,1-12",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 12
+   }
+  },
+  {
+   "id": "JAS.3.13",
+   "titulo": "A sabedoria que vem do alto",
+   "secao": "A língua e a sabedoria",
+   "referencia": "Tg 3,13–4,10",
+   "ini": {
+    "c": 3,
+    "v": 13
+   },
+   "fim": {
+    "c": 4,
+    "v": 10
+   }
+  },
+  {
+   "id": "JAS.4.11",
+   "titulo": "Se o Senhor quiser",
+   "secao": "A língua e a sabedoria",
+   "referencia": "Tg 4,11-17",
+   "ini": {
+    "c": 4,
+    "v": 11
+   },
+   "fim": {
+    "c": 4,
+    "v": 17
+   }
+  },
+  {
+   "id": "JAS.5.1",
+   "titulo": "Aviso aos ricos; paciência até a vinda do Senhor",
+   "secao": "Paciência e oração",
+   "referencia": "Tg 5,1-11",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 11
+   }
+  },
+  {
+   "id": "JAS.5.12",
+   "titulo": "A unção dos enfermos e a oração do justo",
+   "secao": "Paciência e oração",
+   "referencia": "Tg 5,12-20",
+   "ini": {
+    "c": 5,
+    "v": 12
+   },
+   "fim": {
+    "c": 5,
+    "v": 20
+   }
+  }
+ ]
+}
