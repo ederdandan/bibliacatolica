@@ -1,0 +1,134 @@
+{
+  "id": "LUK.1.5",
+  "livro": "LUK",
+  "titulo": "O anúncio do nascimento de João Batista",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 1,5-25",
+  "ini": { "c": 1, "v": 5 },
+  "fim": { "c": 1, "v": 25 },
+  "liturgia": { "tema_central": "“Foi ouvida a tua oração”: Deus prepara o caminho do Senhor", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No tempo de Herodes, o Grande (rei da Judeia de 37 a 4 a.C.), o sacerdote Zacarias, da turma de Abias (uma das 24 classes sacerdotais que serviam no Templo por turnos), e a sua mulher Isabel, ambos justos, não tinham filhos: Isabel era estéril e os dois eram idosos. Quando Zacarias, sorteado, oferece o incenso no santuário, aparece-lhe o anjo Gabriel junto ao altar: a sua oração foi ouvida, Isabel lhe dará um filho, que se chamará João. Será grande diante do Senhor, não beberá vinho, será cheio do Espírito Santo desde o seio materno e irá adiante do Senhor com o espírito e a fortaleza de Elias (Ml 4,5-6). Zacarias duvida e pede um sinal; por não ter crido, fica mudo até o cumprimento. Isabel concebe e esconde-se cinco meses, louvando a Deus que lhe tirou o opróbrio.",
+    "alegorico": "Zacarias e Isabel representam o sacerdócio e a Lei antigos, justos mas estéreis, que pela graça geram o Precursor. O nascimento de João, de pais idosos e estéreis, prepara o nascimento maior, de uma Virgem. O sacerdote escolhido por sorte anuncia o verdadeiro Sumo Sacerdote, que não é escolhido por sorte, mas por Deus. “João” significa “graça de Deus”: a graça começa a manifestar-se.",
+    "moral": "Ser justo “diante de Deus”, e não só aos olhos dos homens, é o que importa. Deus ouve as orações, ainda que no seu tempo. A dúvida de Zacarias ensina que é preciso crer na palavra de Deus mesmo quando parece impossível: quem falou com incredulidade aprende a crer pelo silêncio. A esterilidade, tida por desonra, torna-se lugar da ação de Deus.",
+    "anagogico": "João prepara para o Senhor um povo bem disposto; também hoje o espírito de João deve vir sobre a alma antes que ela creia plenamente em Cristo. A alegria pelo nascimento do Precursor antecipa a alegria do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Houve no tempo de Herodes, rei da Judeia, um sacerdote chamado Zacarias, e sua mulher chamava-se Isabel. Ambos eram justos diante de Deus. Não tinham filhos, porque Isabel era estéril, e ambos se achavam em idade avançada. Tocou a Zacarias por sorte entrar no templo do Senhor a oferecer o incenso. Apareceu-lhe um anjo do Senhor, e o anjo disse-lhe: “Não temas, Zacarias, porque foi ouvida a tua oração; tua mulher Isabel te dará um filho, ao qual porás o nome de João. Ele será grande diante do Senhor; será cheio do Espírito Santo desde o ventre de sua mãe”. Zacarias disse ao anjo: “Como conhecerei isso?” O anjo respondeu-lhe: “Eu sou Gabriel, que assisto diante de Deus. Eis que ficarás mudo, visto que não acreditaste nas minhas palavras”. Alguns dias depois, Isabel concebeu.",
+    "meditatio_perguntas": [
+      "Que oração minha, talvez antiga, Deus está ouvindo no seu tempo?",
+      "Sou justo “diante de Deus” ou apenas diante dos homens?",
+      "Onde a minha falta de fé me torna “mudo” para anunciar as obras de Deus?"
+    ],
+    "oratio_guia": "Senhor, que ouviste a oração de Zacarias e tiraste o opróbrio de Isabel, aumenta a minha fé nas tuas promessas. Que eu não duvide da tua palavra, mas prepare o meu coração, como João, para acolher o teu Filho. Amém.",
+    "contemplatio_foco": { "texto": "Não temas, Zacarias, porque foi ouvida a tua oração.", "ref": "Lc 1,13" }
+  },
+  "ancoras": {
+    "1:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "1:5–7#0", "sintese": "Lucas começa por Zacarias e o nascimento de João, narrando o prodígio menor antes do maior." },
+        { "autor": "São Beda, o Venerável", "obra": "in Luc. Evang.", "catena": "1:5–7#1", "sintese": "O tempo de um rei estrangeiro atesta a vinda do Senhor: “o cetro não se arredará de Judá”." },
+        { "autor": "São Beda, o Venerável", "obra": "Hom. in Vigil. S. Joan. Bapt.", "catena": "1:5–7#3", "sintese": "A João foi dada estirpe sacerdotal para anunciar com maior autoridade a mudança do sacerdócio." }
+      ],
+      "nota": null
+    },
+    "1:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:5–7#8", "sintese": "Diz bem “diante de Deus”: quem busca o favor popular pode parecer justo aos homens e não sê-lo diante de Deus." }
+      ],
+      "nota": null
+    },
+    "1:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "ex Hom. 49 in Gen.", "catena": "1:5–7#9", "sintese": "Também Sara, Rebeca e Raquel foram estéreis; essa esterilidade não era consequência de pecado." }
+      ],
+      "nota": null
+    },
+    "1:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:8–10#3", "sintese": "Era escolhido por sorte porque o verdadeiro Sumo Sacerdote ainda não era conhecido." }
+      ],
+      "nota": null
+    },
+    "1:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:11–14#6", "sintese": "O anjo aparece no templo porque já se anunciava a vinda do verdadeiro Sumo Sacerdote e se preparava o sacrifício celeste." }
+      ],
+      "nota": null
+    },
+    "1:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "de Inc. Dei Nat.", "catena": "1:11–14#7", "sintese": "Nem o mais justo pode contemplar um anjo sem temor; por isso Zacarias se perturba." }
+      ],
+      "nota": null
+    },
+    "1:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:11–14#10", "sintese": "O anjo não só acalma os seus temores, mas alegra-o com a boa notícia." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:11–14#17", "sintese": "João interpreta-se “graça de Deus”: por esse nome se declara a graça concedida aos pais e ao povo." }
+      ],
+      "nota": null
+    },
+    "1:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:15–17#2", "sintese": "Não dilatou impérios; mas, pregando no deserto, venceu com a grandeza da sua virtude." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:15–17#4", "sintese": "Ainda no ventre materno, cheio do Espírito, deu testemunho do Senhor." }
+      ],
+      "nota": null
+    },
+    "1:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:15–17#9", "sintese": "Não diz “na alma de Elias”, mas “no espírito e no poder”: o espírito que estava em Elias veio sobre João." },
+        { "autor": "Orígenes", "obra": null, "catena": "1:15–17#15", "sintese": "Ainda hoje o espírito e o poder de João devem vir sobre a alma antes que ela creia em Cristo." }
+      ],
+      "nota": null
+    },
+    "1:18": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:18–22#1", "sintese": "Se um homem prometesse tais prodígios, poder-se-ia pedir um sinal; mas, quando promete um anjo, não é lícito duvidar." }
+      ],
+      "nota": null
+    },
+    "1:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. xxxiv in Evang.", "catena": "1:18–22#4", "sintese": "Os anjos cumprem fora o seu ministério sem nunca se afastarem interiormente da contemplação de Deus." }
+      ],
+      "nota": null
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:18–22#5", "sintese": "Dá-lhe o sinal pedido, para que, tendo falado com incredulidade, aprenda a crer pelo silêncio." },
+        { "autor": "São João Crisóstomo", "obra": "sup.", "catena": "1:18–22#8", "sintese": "Misericórdia de Deus: o castigo dura só “até o dia em que estas coisas acontecerem”." }
+      ],
+      "nota": null
+    },
+    "1:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "1:23–25#2", "sintese": "Cinco meses, até que Maria concebesse e o filho de Isabel, saltando de alegria, profetizasse." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "1:23–25#7", "sintese": "Em sentido místico, Zacarias é o sacerdócio judaico e Isabel a Lei, que deveria gerar filhos espirituais." }
+      ],
+      "nota": null
+    },
+    "1:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:23–25#8", "sintese": "Num só homem emudeceu a voz do povo; mas a Palavra de Deus passou para nós, e em nós não se cala." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

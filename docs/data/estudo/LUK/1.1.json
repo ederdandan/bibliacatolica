@@ -1,0 +1,61 @@
+{
+  "id": "LUK.1.1",
+  "livro": "LUK",
+  "titulo": "O prólogo",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 1,1-4",
+  "ini": { "c": 1, "v": 1 },
+  "fim": { "c": 1, "v": 4 },
+  "liturgia": { "tema_central": "A solidez dos ensinamentos recebidos", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Lucas, médico e companheiro de Paulo, abre o Evangelho com um prólogo ao modo dos historiadores gregos. Muitos já tinham tentado narrar os acontecimentos cumpridos entre nós, segundo a tradição dos que foram, desde o princípio, testemunhas oculares e ministros da palavra. Também ele, depois de investigar tudo cuidadosamente desde as origens, decidiu escrever uma narração ordenada ao “excelentíssimo Teófilo”, para que este reconheça a solidez dos ensinamentos que recebeu.",
+    "alegorico": "Teófilo significa “amigo de Deus”: todo leitor que ama a Deus pode receber este Evangelho como escrito para si. Os apóstolos são chamados testemunhas e ministros “da palavra”: viram o Verbo feito carne, como diz João, e não apenas um homem. A fé repousa sobre o testemunho apostólico, transmitido na Igreja.",
+    "moral": "A fé não é credulidade: apoia-se em testemunhas que viram e em uma tradição cuidadosamente verificada. O cristão é chamado a conhecer melhor aquilo que crê, para firmar a fé na verdade. Ser ministro da palavra significa não só ouvi-la, mas servi-la com a vida.",
+    "anagogico": "O conhecimento da fé tende à visão: os apóstolos “viram” a Palavra, e nós a veremos face a face. A escuta do Evangelho prepara a contemplação eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Visto que muitos já empreenderam pôr em ordem a narração das coisas que entre nós se cumpriram, como no-las referiram os que, desde o princípio, as viram, e foram ministros da palavra, pareceu-me bom também a mim, depois de ter investigado diligentemente tudo desde o princípio, escrever-te por ordem a sua narração, excelentíssimo Teófilo, para que conheças a solidez dos ensinamentos que recebeste.",
+    "meditatio_perguntas": [
+      "Procuro conhecer melhor aquilo em que creio?",
+      "Recebo o Evangelho como escrito para mim, “amigo de Deus”?",
+      "Sou também, de algum modo, “ministro da palavra” para os outros?"
+    ],
+    "oratio_guia": "Senhor, que inspiraste a São Lucas a escrever o teu Evangelho, firma a minha fé na solidez da tua palavra. Faz-me teu amigo, e dá-me ouvir e servir a tua palavra todos os dias. Amém.",
+    "contemplatio_foco": { "texto": "Para que conheças a solidez dos ensinamentos que recebeste.", "ref": "Lc 1,4" }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": "Expos. Ev. Luc. l. i.", "catena": "1:1–4#1", "sintese": "Como entre os judeus houve verdadeiros e falsos profetas, assim muitos tentaram escrever evangelhos que o bom cambista rejeita como moeda falsa." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:1–4#3", "sintese": "Os que tentaram com as próprias forças não levaram a termo a obra: os dons de Deus vêm sem esforço humano." }
+      ],
+      "nota": null
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "sup.", "catena": "1:1–4#8", "sintese": "Diz “testemunhas oculares”: o fundamento principal da fé é recebê-la dos que viram com os próprios olhos." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "1:1–4#11", "sintese": "Testemunhas da Palavra: concorda com João, “o Verbo se fez carne… e nós vimos a sua glória”." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:1–4#12", "sintese": "Não viram o Senhor apenas no corpo, mas também como Verbo, como os que contemplaram a sua glória com Moisés e Elias." }
+      ],
+      "nota": null
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "1:1–4#17", "sintese": "“Pareceu-me bom” não nega que tenha parecido bem a Deus, pois é Deus quem predispõe a vontade dos homens." },
+        { "autor": "São Beda, o Venerável", "obra": "sup.", "catena": "1:1–4#19", "sintese": "Teófilo significa “amigo de Deus”: quem ama a Deus pense que este Evangelho foi escrito para si." }
+      ],
+      "nota": null
+    },
+    "1:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "sup.", "catena": "1:1–4#20", "sintese": "Para que tenhas plena certeza da verdade do que ouviste, agora que o vês por escrito." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
