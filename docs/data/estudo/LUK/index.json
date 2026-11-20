@@ -1,0 +1,1106 @@
+{
+ "livro": "LUK",
+ "secoes": [
+  "O Evangelho da infância",
+  "A preparação do ministério",
+  "O ministério na Galileia",
+  "A caminho de Jerusalém",
+  "O ministério em Jerusalém",
+  "A Paixão e a Morte do Senhor",
+  "A Ressurreição"
+ ],
+ "pericopes": [
+  {
+   "id": "LUK.1.1",
+   "titulo": "O prólogo",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 1,1-4",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 4
+   }
+  },
+  {
+   "id": "LUK.1.5",
+   "titulo": "O anúncio do nascimento de João Batista",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 1,5-25",
+   "ini": {
+    "c": 1,
+    "v": 5
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  },
+  {
+   "id": "LUK.1.26",
+   "titulo": "A Anunciação",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 1,26-38",
+   "ini": {
+    "c": 1,
+    "v": 26
+   },
+   "fim": {
+    "c": 1,
+    "v": 38
+   }
+  },
+  {
+   "id": "LUK.1.39",
+   "titulo": "A Visitação e o Magnificat",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 1,39-56",
+   "ini": {
+    "c": 1,
+    "v": 39
+   },
+   "fim": {
+    "c": 1,
+    "v": 56
+   }
+  },
+  {
+   "id": "LUK.1.57",
+   "titulo": "O nascimento de João Batista e o Benedictus",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 1,57-80",
+   "ini": {
+    "c": 1,
+    "v": 57
+   },
+   "fim": {
+    "c": 1,
+    "v": 80
+   }
+  },
+  {
+   "id": "LUK.2.1",
+   "titulo": "O nascimento de Jesus e a adoração dos pastores",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 2,1-20",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 20
+   }
+  },
+  {
+   "id": "LUK.2.21",
+   "titulo": "A circuncisão e a apresentação no Templo",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 2,21-40",
+   "ini": {
+    "c": 2,
+    "v": 21
+   },
+   "fim": {
+    "c": 2,
+    "v": 40
+   }
+  },
+  {
+   "id": "LUK.2.41",
+   "titulo": "Jesus entre os doutores no Templo",
+   "secao": "O Evangelho da infância",
+   "referencia": "Lc 2,41-52",
+   "ini": {
+    "c": 2,
+    "v": 41
+   },
+   "fim": {
+    "c": 2,
+    "v": 52
+   }
+  },
+  {
+   "id": "LUK.3.1",
+   "titulo": "A pregação de João Batista",
+   "secao": "A preparação do ministério",
+   "referencia": "Lc 3,1-20",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 20
+   }
+  },
+  {
+   "id": "LUK.3.21",
+   "titulo": "O batismo de Jesus e a sua genealogia",
+   "secao": "A preparação do ministério",
+   "referencia": "Lc 3,21-38",
+   "ini": {
+    "c": 3,
+    "v": 21
+   },
+   "fim": {
+    "c": 3,
+    "v": 38
+   }
+  },
+  {
+   "id": "LUK.4.1",
+   "titulo": "As tentações no deserto",
+   "secao": "A preparação do ministério",
+   "referencia": "Lc 4,1-13",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 13
+   }
+  },
+  {
+   "id": "LUK.4.14",
+   "titulo": "Jesus na sinagoga de Nazaré",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 4,14-30",
+   "ini": {
+    "c": 4,
+    "v": 14
+   },
+   "fim": {
+    "c": 4,
+    "v": 30
+   }
+  },
+  {
+   "id": "LUK.4.31",
+   "titulo": "Jesus em Cafarnaum",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 4,31-44",
+   "ini": {
+    "c": 4,
+    "v": 31
+   },
+   "fim": {
+    "c": 4,
+    "v": 44
+   }
+  },
+  {
+   "id": "LUK.5.1",
+   "titulo": "A pesca milagrosa e o chamado de Pedro",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 5,1-11",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 11
+   }
+  },
+  {
+   "id": "LUK.5.12",
+   "titulo": "A cura de um leproso",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 5,12-16",
+   "ini": {
+    "c": 5,
+    "v": 12
+   },
+   "fim": {
+    "c": 5,
+    "v": 16
+   }
+  },
+  {
+   "id": "LUK.5.17",
+   "titulo": "A cura do paralítico",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 5,17-26",
+   "ini": {
+    "c": 5,
+    "v": 17
+   },
+   "fim": {
+    "c": 5,
+    "v": 26
+   }
+  },
+  {
+   "id": "LUK.5.27",
+   "titulo": "O chamado de Levi; a questão do jejum",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 5,27-39",
+   "ini": {
+    "c": 5,
+    "v": 27
+   },
+   "fim": {
+    "c": 5,
+    "v": 39
+   }
+  },
+  {
+   "id": "LUK.6.1",
+   "titulo": "O Senhor do sábado",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 6,1-11",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 11
+   }
+  },
+  {
+   "id": "LUK.6.12",
+   "titulo": "A escolha dos Doze",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 6,12-19",
+   "ini": {
+    "c": 6,
+    "v": 12
+   },
+   "fim": {
+    "c": 6,
+    "v": 19
+   }
+  },
+  {
+   "id": "LUK.6.20",
+   "titulo": "As bem-aventuranças e as maldições",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 6,20-26",
+   "ini": {
+    "c": 6,
+    "v": 20
+   },
+   "fim": {
+    "c": 6,
+    "v": 26
+   }
+  },
+  {
+   "id": "LUK.6.27",
+   "titulo": "O amor aos inimigos",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 6,27-38",
+   "ini": {
+    "c": 6,
+    "v": 27
+   },
+   "fim": {
+    "c": 6,
+    "v": 38
+   }
+  },
+  {
+   "id": "LUK.6.39",
+   "titulo": "A árvore e os frutos; a casa sobre a rocha",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 6,39-49",
+   "ini": {
+    "c": 6,
+    "v": 39
+   },
+   "fim": {
+    "c": 6,
+    "v": 49
+   }
+  },
+  {
+   "id": "LUK.7.1",
+   "titulo": "A cura do servo do centurião",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 7,1-10",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 10
+   }
+  },
+  {
+   "id": "LUK.7.11",
+   "titulo": "O filho da viúva de Naim",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 7,11-17",
+   "ini": {
+    "c": 7,
+    "v": 11
+   },
+   "fim": {
+    "c": 7,
+    "v": 17
+   }
+  },
+  {
+   "id": "LUK.7.18",
+   "titulo": "Jesus e João Batista",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 7,18-35",
+   "ini": {
+    "c": 7,
+    "v": 18
+   },
+   "fim": {
+    "c": 7,
+    "v": 35
+   }
+  },
+  {
+   "id": "LUK.7.36",
+   "titulo": "A pecadora perdoada",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 7,36-50",
+   "ini": {
+    "c": 7,
+    "v": 36
+   },
+   "fim": {
+    "c": 7,
+    "v": 50
+   }
+  },
+  {
+   "id": "LUK.8.1",
+   "titulo": "As mulheres que seguiam Jesus",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 8,1-3",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 3
+   }
+  },
+  {
+   "id": "LUK.8.4",
+   "titulo": "A parábola do semeador; a verdadeira família de Jesus",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 8,4-21",
+   "ini": {
+    "c": 8,
+    "v": 4
+   },
+   "fim": {
+    "c": 8,
+    "v": 21
+   }
+  },
+  {
+   "id": "LUK.8.22",
+   "titulo": "A tempestade acalmada e o endemoninhado geraseno",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 8,22-39",
+   "ini": {
+    "c": 8,
+    "v": 22
+   },
+   "fim": {
+    "c": 8,
+    "v": 39
+   }
+  },
+  {
+   "id": "LUK.8.40",
+   "titulo": "A filha de Jairo e a mulher com fluxo de sangue",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 8,40-56",
+   "ini": {
+    "c": 8,
+    "v": 40
+   },
+   "fim": {
+    "c": 8,
+    "v": 56
+   }
+  },
+  {
+   "id": "LUK.9.1",
+   "titulo": "A missão dos Doze; a perplexidade de Herodes",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 9,1-9",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 9
+   }
+  },
+  {
+   "id": "LUK.9.10",
+   "titulo": "A multiplicação dos pães",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 9,10-17",
+   "ini": {
+    "c": 9,
+    "v": 10
+   },
+   "fim": {
+    "c": 9,
+    "v": 17
+   }
+  },
+  {
+   "id": "LUK.9.18",
+   "titulo": "A confissão de Pedro e o anúncio da Paixão",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 9,18-27",
+   "ini": {
+    "c": 9,
+    "v": 18
+   },
+   "fim": {
+    "c": 9,
+    "v": 27
+   }
+  },
+  {
+   "id": "LUK.9.28",
+   "titulo": "A Transfiguração",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 9,28-36",
+   "ini": {
+    "c": 9,
+    "v": 28
+   },
+   "fim": {
+    "c": 9,
+    "v": 36
+   }
+  },
+  {
+   "id": "LUK.9.37",
+   "titulo": "O menino possesso; quem é o maior",
+   "secao": "O ministério na Galileia",
+   "referencia": "Lc 9,37-50",
+   "ini": {
+    "c": 9,
+    "v": 37
+   },
+   "fim": {
+    "c": 9,
+    "v": 50
+   }
+  },
+  {
+   "id": "LUK.9.51",
+   "titulo": "A recusa dos samaritanos; as exigências do seguimento",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 9,51-62",
+   "ini": {
+    "c": 9,
+    "v": 51
+   },
+   "fim": {
+    "c": 9,
+    "v": 62
+   }
+  },
+  {
+   "id": "LUK.10.1",
+   "titulo": "A missão dos setenta e dois discípulos",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 10,1-24",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 24
+   }
+  },
+  {
+   "id": "LUK.10.25",
+   "titulo": "O bom samaritano",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 10,25-37",
+   "ini": {
+    "c": 10,
+    "v": 25
+   },
+   "fim": {
+    "c": 10,
+    "v": 37
+   }
+  },
+  {
+   "id": "LUK.10.38",
+   "titulo": "Marta e Maria",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 10,38-42",
+   "ini": {
+    "c": 10,
+    "v": 38
+   },
+   "fim": {
+    "c": 10,
+    "v": 42
+   }
+  },
+  {
+   "id": "LUK.11.1",
+   "titulo": "O Pai-nosso e a perseverança na oração",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 11,1-13",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 13
+   }
+  },
+  {
+   "id": "LUK.11.14",
+   "titulo": "Jesus e Belzebu; o sinal de Jonas",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 11,14-36",
+   "ini": {
+    "c": 11,
+    "v": 14
+   },
+   "fim": {
+    "c": 11,
+    "v": 36
+   }
+  },
+  {
+   "id": "LUK.11.37",
+   "titulo": "Contra os fariseus e os doutores da Lei",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 11,37-54",
+   "ini": {
+    "c": 11,
+    "v": 37
+   },
+   "fim": {
+    "c": 11,
+    "v": 54
+   }
+  },
+  {
+   "id": "LUK.12.1",
+   "titulo": "O fermento dos fariseus; confessar a Cristo",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 12,1-12",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 12
+   }
+  },
+  {
+   "id": "LUK.12.13",
+   "titulo": "O rico insensato e a confiança na Providência",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 12,13-34",
+   "ini": {
+    "c": 12,
+    "v": 13
+   },
+   "fim": {
+    "c": 12,
+    "v": 34
+   }
+  },
+  {
+   "id": "LUK.12.35",
+   "titulo": "A vigilância e o servo fiel",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 12,35-48",
+   "ini": {
+    "c": 12,
+    "v": 35
+   },
+   "fim": {
+    "c": 12,
+    "v": 48
+   }
+  },
+  {
+   "id": "LUK.12.49",
+   "titulo": "Jesus, sinal de divisão; os sinais dos tempos",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 12,49-59",
+   "ini": {
+    "c": 12,
+    "v": 49
+   },
+   "fim": {
+    "c": 12,
+    "v": 59
+   }
+  },
+  {
+   "id": "LUK.13.1",
+   "titulo": "O apelo à conversão; a figueira estéril",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 13,1-9",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 9
+   }
+  },
+  {
+   "id": "LUK.13.10",
+   "titulo": "A cura da mulher encurvada; o grão de mostarda e o fermento",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 13,10-21",
+   "ini": {
+    "c": 13,
+    "v": 10
+   },
+   "fim": {
+    "c": 13,
+    "v": 21
+   }
+  },
+  {
+   "id": "LUK.13.22",
+   "titulo": "A porta estreita; o lamento sobre Jerusalém",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 13,22-35",
+   "ini": {
+    "c": 13,
+    "v": 22
+   },
+   "fim": {
+    "c": 13,
+    "v": 35
+   }
+  },
+  {
+   "id": "LUK.14.1",
+   "titulo": "Jesus à mesa de um fariseu; a parábola do grande banquete",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 14,1-24",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 24
+   }
+  },
+  {
+   "id": "LUK.14.25",
+   "titulo": "As condições para ser discípulo",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 14,25-35",
+   "ini": {
+    "c": 14,
+    "v": 25
+   },
+   "fim": {
+    "c": 14,
+    "v": 35
+   }
+  },
+  {
+   "id": "LUK.15.1",
+   "titulo": "A ovelha e a dracma perdidas",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 15,1-10",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 10
+   }
+  },
+  {
+   "id": "LUK.15.11",
+   "titulo": "O filho pródigo",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 15,11-32",
+   "ini": {
+    "c": 15,
+    "v": 11
+   },
+   "fim": {
+    "c": 15,
+    "v": 32
+   }
+  },
+  {
+   "id": "LUK.16.1",
+   "titulo": "O administrador infiel; o bom uso dos bens",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 16,1-18",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 18
+   }
+  },
+  {
+   "id": "LUK.16.19",
+   "titulo": "O rico e Lázaro",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 16,19-31",
+   "ini": {
+    "c": 16,
+    "v": 19
+   },
+   "fim": {
+    "c": 16,
+    "v": 31
+   }
+  },
+  {
+   "id": "LUK.17.1",
+   "titulo": "O escândalo, o perdão e a fé",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 17,1-10",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 10
+   }
+  },
+  {
+   "id": "LUK.17.11",
+   "titulo": "Os dez leprosos",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 17,11-19",
+   "ini": {
+    "c": 17,
+    "v": 11
+   },
+   "fim": {
+    "c": 17,
+    "v": 19
+   }
+  },
+  {
+   "id": "LUK.17.20",
+   "titulo": "A vinda do Reino e o dia do Filho do Homem",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 17,20-37",
+   "ini": {
+    "c": 17,
+    "v": 20
+   },
+   "fim": {
+    "c": 17,
+    "v": 37
+   }
+  },
+  {
+   "id": "LUK.18.1",
+   "titulo": "O juiz iníquo; o fariseu e o publicano",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 18,1-14",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 14
+   }
+  },
+  {
+   "id": "LUK.18.15",
+   "titulo": "Jesus e as crianças; o jovem rico",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 18,15-30",
+   "ini": {
+    "c": 18,
+    "v": 15
+   },
+   "fim": {
+    "c": 18,
+    "v": 30
+   }
+  },
+  {
+   "id": "LUK.18.31",
+   "titulo": "O terceiro anúncio da Paixão; o cego de Jericó",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 18,31-43",
+   "ini": {
+    "c": 18,
+    "v": 31
+   },
+   "fim": {
+    "c": 18,
+    "v": 43
+   }
+  },
+  {
+   "id": "LUK.19.1",
+   "titulo": "Zaqueu",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 19,1-10",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 10
+   }
+  },
+  {
+   "id": "LUK.19.11",
+   "titulo": "A parábola das minas",
+   "secao": "A caminho de Jerusalém",
+   "referencia": "Lc 19,11-27",
+   "ini": {
+    "c": 19,
+    "v": 11
+   },
+   "fim": {
+    "c": 19,
+    "v": 27
+   }
+  },
+  {
+   "id": "LUK.19.28",
+   "titulo": "A entrada em Jerusalém e a purificação do Templo",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Lc 19,28-48",
+   "ini": {
+    "c": 19,
+    "v": 28
+   },
+   "fim": {
+    "c": 19,
+    "v": 48
+   }
+  },
+  {
+   "id": "LUK.20.1",
+   "titulo": "A autoridade de Jesus; os vinhateiros homicidas",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Lc 20,1-19",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 19
+   }
+  },
+  {
+   "id": "LUK.20.20",
+   "titulo": "O tributo a César, a ressurreição e o Filho de Davi",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Lc 20,20-47",
+   "ini": {
+    "c": 20,
+    "v": 20
+   },
+   "fim": {
+    "c": 20,
+    "v": 47
+   }
+  },
+  {
+   "id": "LUK.21.1",
+   "titulo": "A oferta da viúva",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Lc 21,1-4",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 4
+   }
+  },
+  {
+   "id": "LUK.21.5",
+   "titulo": "O discurso escatológico",
+   "secao": "O ministério em Jerusalém",
+   "referencia": "Lc 21,5-38",
+   "ini": {
+    "c": 21,
+    "v": 5
+   },
+   "fim": {
+    "c": 21,
+    "v": 38
+   }
+  },
+  {
+   "id": "LUK.22.1",
+   "titulo": "A traição de Judas e a preparação da Páscoa",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 22,1-13",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 13
+   }
+  },
+  {
+   "id": "LUK.22.14",
+   "titulo": "A Última Ceia",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 22,14-38",
+   "ini": {
+    "c": 22,
+    "v": 14
+   },
+   "fim": {
+    "c": 22,
+    "v": 38
+   }
+  },
+  {
+   "id": "LUK.22.39",
+   "titulo": "A agonia no monte das Oliveiras e a prisão",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 22,39-53",
+   "ini": {
+    "c": 22,
+    "v": 39
+   },
+   "fim": {
+    "c": 22,
+    "v": 53
+   }
+  },
+  {
+   "id": "LUK.22.54",
+   "titulo": "As negações de Pedro e Jesus diante do Sinédrio",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 22,54-71",
+   "ini": {
+    "c": 22,
+    "v": 54
+   },
+   "fim": {
+    "c": 22,
+    "v": 71
+   }
+  },
+  {
+   "id": "LUK.23.1",
+   "titulo": "Jesus diante de Pilatos e de Herodes",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 23,1-25",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 25
+   }
+  },
+  {
+   "id": "LUK.23.26",
+   "titulo": "O caminho da cruz e a crucifixão",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 23,26-43",
+   "ini": {
+    "c": 23,
+    "v": 26
+   },
+   "fim": {
+    "c": 23,
+    "v": 43
+   }
+  },
+  {
+   "id": "LUK.23.44",
+   "titulo": "A morte e a sepultura de Jesus",
+   "secao": "A Paixão e a Morte do Senhor",
+   "referencia": "Lc 23,44-56",
+   "ini": {
+    "c": 23,
+    "v": 44
+   },
+   "fim": {
+    "c": 23,
+    "v": 56
+   }
+  },
+  {
+   "id": "LUK.24.1",
+   "titulo": "O sepulcro vazio",
+   "secao": "A Ressurreição",
+   "referencia": "Lc 24,1-12",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 12
+   }
+  },
+  {
+   "id": "LUK.24.13",
+   "titulo": "Os discípulos de Emaús",
+   "secao": "A Ressurreição",
+   "referencia": "Lc 24,13-35",
+   "ini": {
+    "c": 24,
+    "v": 13
+   },
+   "fim": {
+    "c": 24,
+    "v": 35
+   }
+  },
+  {
+   "id": "LUK.24.36",
+   "titulo": "A aparição aos apóstolos e a Ascensão",
+   "secao": "A Ressurreição",
+   "referencia": "Lc 24,36-53",
+   "ini": {
+    "c": 24,
+    "v": 36
+   },
+   "fim": {
+    "c": 24,
+    "v": 53
+   }
+  }
+ ]
+}
