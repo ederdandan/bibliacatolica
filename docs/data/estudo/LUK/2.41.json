@@ -1,0 +1,89 @@
+{
+  "id": "LUK.2.41",
+  "livro": "LUK",
+  "titulo": "Jesus entre os doutores no Templo",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 2,41-52",
+  "ini": { "c": 2, "v": 41 },
+  "fim": { "c": 2, "v": 52 },
+  "liturgia": { "tema_central": "“Não sabíeis que devo ocupar-me nas coisas de meu Pai?”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Maria e José sobem todos os anos a Jerusalém para a Páscoa. Quando Jesus tem doze anos (às portas da maioridade religiosa judaica), fica em Jerusalém sem que os pais o percebam; supondo-o na caravana, caminham um dia e depois o procuram entre parentes e conhecidos. Voltam a Jerusalém e, três dias depois, encontram-no no Templo, sentado entre os doutores, ouvindo-os e interrogando-os; todos admiram a sua inteligência e as suas respostas. Maria diz: “Filho, porque procedeste assim connosco? Teu pai e eu te procurávamos cheios de aflição”. Jesus responde: “Não sabíeis que devo ocupar-me nas coisas de meu Pai?” Eles não entendem. Jesus desce com eles a Nazaré e é-lhes submisso. Maria guarda tudo no coração, e Jesus cresce em sabedoria, estatura e graça.",
+    "alegorico": "Os três dias de busca e o encontro no Templo prefiguram os três dias da Paixão e a Ressurreição: aquele que se julgava perdido aparece vivo. A primeira palavra de Jesus nos Evangelhos revela a sua filiação divina: “meu Pai”. Há nele duas gerações, a do Pai, eterna, e a da mãe, no tempo, para nosso proveito.",
+    "moral": "Jesus não é encontrado entre parentes e conhecidos segundo a carne, mas na casa do Pai: procura-se a Deus na oração e na sua palavra. Para mostrar que era homem, ouvia humildemente os mestres. A submissão de Jesus a Maria e José ensina a obediência aos pais: não é fraqueza, mas piedade filial. Maria, mesmo sem compreender tudo, guarda e medita.",
+    "anagogico": "As “coisas do Pai” são o destino último de Jesus e o nosso: a casa do Pai. O crescimento de Jesus em sabedoria e graça é o modelo do nosso crescimento até a estatura de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Seus pais iam todos os anos a Jerusalém, pela festa da Páscoa. Quando chegou aos doze anos, acabados os dias da festa, ficou o Menino Jesus em Jerusalém, sem que seus pais o advertissem. Não o encontrando, voltaram a Jerusalém em busca dele. Três dias depois, o encontraram no templo sentado no meio dos doutores, ouvindo-os e interrogando-os. E sua mãe disse-lhe: “Filho, porque procedeste assim connosco? Eis que teu pai e eu te procurávamos cheios de aflição”. Ele disse-lhes: “Para que me buscáveis? Não sabíeis que devo ocupar-me nas coisas de meu Pai?” Depois desceu com eles, e foi a Nazaré; e era-lhes submisso. Sua mãe conservava todas estas coisas no seu coração. Jesus crescia em sabedoria, em estatura e em graça diante de Deus e dos homens.",
+    "meditatio_perguntas": [
+      "Quando “perco” Jesus, onde o procuro?",
+      "Ocupo-me “nas coisas do Pai” no meu dia a dia?",
+      "Sei guardar no coração o que ainda não compreendo, como Maria?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te ocupaste das coisas do teu Pai e foste submisso a Maria e José em Nazaré, ensina-me a procurar-te com perseverança, a obedecer com humildade e a crescer em sabedoria e graça diante de Deus e dos homens. Amém.",
+    "contemplatio_foco": { "texto": "Não sabíeis que devo ocupar-me nas coisas de meu Pai?", "ref": "Lc 2,49" }
+  },
+  "ancoras": {
+    "2:42": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "Hom. post Epiph.", "catena": "2:42–50#4", "sintese": "Subir todos os anos a Jerusalém na Páscoa mostra a sua humildade como homem." }
+      ],
+      "nota": null
+    },
+    "2:43": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:42–50#7", "sintese": "Nas caravanas das festas, homens e mulheres caminhavam separados, e as crianças podiam ir com um ou outro grupo." }
+      ],
+      "nota": null
+    },
+    "2:44": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "2:42–50#10", "sintese": "Não é encontrado entre os parentes segundo a carne, mas no templo: busca-o na Igreja." }
+      ],
+      "nota": null
+    },
+    "2:46": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:42–50#11", "sintese": "É encontrado três dias depois no Templo, sinal de que, depois de três dias de paixão, aquele que se julgava morto apareceria vivo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:42–50#14", "sintese": "Para mostrar que era homem, ouvia humildemente os mestres; para provar que era Deus, respondia divinamente." }
+      ],
+      "nota": null
+    },
+    "2:48": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "2:42–50#19", "sintese": "A Virgem sabia que Ele não era filho de José, mas chama-o pai segundo a opinião comum." }
+      ],
+      "nota": null
+    },
+    "2:49": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:42–50#22", "sintese": "Não os censura por o procurarem, mas leva-os a erguer os olhos ao Pai de quem era Filho eterno." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:42–50#23", "sintese": "Há em Cristo duas gerações: a do Pai, mais divina, e a da mãe, pela qual desceu para nosso proveito." }
+      ],
+      "nota": null
+    },
+    "2:51": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:51–52#3", "sintese": "Que mestre de virtude seria, se não cumprisse o seu dever para com os pais?" },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:51–52#7", "sintese": "A sua submissão não é sinal de fraqueza, mas de piedade filial." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:51–52#8", "sintese": "Quer compreendesse, quer não, a Virgem guardava tudo no coração para refletir com diligência." }
+      ],
+      "nota": null
+    },
+    "2:52": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório de Nissa", "obra": "Hom. 3 in Cant.", "catena": "2:51–52#13", "sintese": "Também o Verbo cresce em graus diversos naqueles que o recebem." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

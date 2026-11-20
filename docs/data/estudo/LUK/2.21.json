@@ -1,0 +1,142 @@
+{
+  "id": "LUK.2.21",
+  "livro": "LUK",
+  "titulo": "A circuncisão e a apresentação no Templo",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 2,21-40",
+  "ini": { "c": 2, "v": 21 },
+  "fim": { "c": 2, "v": 40 },
+  "liturgia": { "tema_central": "“Os meus olhos viram a tua salvação”: luz das nações", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "No oitavo dia o Menino é circuncidado e recebe o nome de Jesus, dado pelo anjo. Quarenta dias depois do parto (Lv 12), Maria e José sobem ao Templo para a purificação da mãe e para apresentar o primogênito ao Senhor (Ex 13,2), oferecendo um par de rolas ou dois pombinhos, a oferta dos pobres. Simeão, homem justo que esperava a consolação de Israel, toma o Menino nos braços e bendiz a Deus: “Agora, Senhor, podes deixar partir o teu servo em paz… porque os meus olhos viram a tua salvação… luz para iluminar as nações, e glória de Israel”. Anuncia a Maria que o Menino será para ruína e ressurgimento de muitos e sinal de contradição, e que uma espada lhe trespassará a alma. A profetisa Ana, viúva idosa que servia a Deus no Templo com jejuns e orações, fala do Menino a todos os que esperavam a redenção. A família volta a Nazaré, e o Menino cresce cheio de sabedoria e graça.",
+    "alegorico": "Cristo, nascido sob a Lei, cumpre-a para resgatar os que estavam sob a Lei. O Senhor do Templo entra no seu Templo (Ml 3,1). A rola e a pomba significam a castidade e a simplicidade, ou a vida contemplativa e a ativa. Simeão, o justo da Lei, recebe nos braços o Menino: a justiça antiga abraça a graça. A espada que trespassa a alma de Maria é a dor da Paixão do Filho.",
+    "moral": "Aquele que é rico fez-se pobre, oferecendo o sacrifício dos pobres. Cristo submete-se à Lei para nos ensinar a obediência. Quem quer tomar Jesus nos braços deve ter, como Simeão, o Espírito por guia e vir ao templo de Deus. Ana mostra o valor da perseverança na oração e no jejum. Cristo é sinal de contradição: diante dele se revelam os pensamentos do coração; ressurgimento é tornar-se casto o sensual e misericordioso o avarento.",
+    "anagogico": "Simeão parte em paz depois de ver a salvação: feliz verá a morte da carne quem antes tiver visto Cristo com os olhos do coração. A luz das nações conduz à glória eterna, quando a plenitude dos povos tiver entrado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Depois que se completaram os oito dias para ser circuncidado o Menino, foi-lhe posto o nome de Jesus. Depois que se completaram os dias da purificação de Maria, levaram-no a Jerusalém para o apresentar ao Senhor. Havia então em Jerusalém um homem chamado Simeão, justo e piedoso; esperava a consolação de Israel, e o Espírito Santo estava nele. Ele tomou o Menino em seus braços, e louvou a Deus, dizendo: “Agora, Senhor, podes deixar partir o teu servo em paz, segundo a tua palavra; porque os meus olhos viram a tua salvação, a qual preparaste em favor de todos os povos; luz para iluminar as nações, e glória de Israel, teu povo”. E disse a Maria, sua mãe: “Eis que este Menino está posto para ruína e ressurgimento de muitos em Israel, e para ser alvo de contradição. E uma espada trespassará a tua alma!” O Menino crescia e se fortificava cheio de sabedoria, e a graça de Deus era com ele.",
+    "meditatio_perguntas": [
+      "Espero o Senhor com a fidelidade de Simeão e Ana?",
+      "Jesus é para mim luz, ou “sinal de contradição” que evito?",
+      "Que espada de dor posso unir à de Maria, junto de Jesus?"
+    ],
+    "oratio_guia": "Senhor, agora podes deixar partir o teu servo em paz, porque os meus olhos viram a tua salvação. Jesus, luz das nações, ilumina o meu coração; e tu, Maria, cuja alma foi trespassada pela espada, ensina-me a oferecer a minha vida a Deus. Amém.",
+    "contemplatio_foco": { "texto": "Os meus olhos viram a tua salvação.", "ref": "Lc 2,30" }
+  },
+  "ancoras": {
+    "2:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:21#1", "sintese": "É o Menino de quem foi dito “um menino nos nasceu”: nasceu sujeito à Lei, para resgatar os que estavam sob a Lei." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:21#5", "sintese": "Foi circuncidado para nos recomendar com o seu exemplo a virtude da obediência." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "2:21#9", "sintese": "No mesmo dia recebeu o nome de Jesus, que se interpreta Salvador." }
+      ],
+      "nota": null
+    },
+    "2:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:22–24#1", "sintese": "A Mãe de Deus, livre de toda união com homem, estava também isenta da lei da purificação." }
+      ],
+      "nota": null
+    },
+    "2:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:22–24#10", "sintese": "Entre os nascidos de mulher, só o Senhor Jesus é santo em tudo, sem o contágio da corrupção." }
+      ],
+      "nota": null
+    },
+    "2:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "Hom. Purif.", "catena": "2:22–24#12", "sintese": "Era o sacrifício dos pobres: o Senhor, sendo rico, fez-se pobre para nos enriquecer." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:22–24#17", "sintese": "A pomba, que voa em bandos, figura a vida ativa; a rola, que ama a solidão, a vida contemplativa." }
+      ],
+      "nota": null
+    },
+    "2:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:25–28#1", "sintese": "Justo é quem não buscou o próprio bem, mas o do seu povo: esperava a consolação de Israel." }
+      ],
+      "nota": null
+    },
+    "2:26": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:25–28#5", "sintese": "Feliz verá a morte da carne quem antes tiver visto com os olhos do coração o Cristo Senhor." }
+      ],
+      "nota": null
+    },
+    "2:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Orígenes", "obra": null, "catena": "2:25–28#6", "sintese": "Se queres tomar Jesus nos braços, tem o Espírito como guia e vem ao templo de Deus." }
+      ],
+      "nota": null
+    },
+    "2:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:25–28#8", "sintese": "O justo da Lei recebe o Menino nos braços: a justiça das obras havia de ser trocada pela graça humilde e salutar da fé evangélica." }
+      ],
+      "nota": null
+    },
+    "2:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:28–32#4", "sintese": "O justo, como que encerrado na prisão do corpo, anseia por ser solto para estar com Cristo." },
+        { "autor": "São Gregório de Nissa", "obra": "ubi sup.", "catena": "2:28–32#6", "sintese": "Desde que Cristo destruiu o pecado e nos reconciliou com o Pai, a partida dos santos é em paz." }
+      ],
+      "nota": null
+    },
+    "2:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": "ubi sup.", "catena": "2:28–32#15", "sintese": "A vinda de Cristo tornou-se luz para os que estavam nas trevas, oprimidos pelo poder do diabo." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:28–32#18", "sintese": "A iluminação das nações vem antes da glória de Israel: quando entrar a plenitude das nações, todo Israel será salvo." }
+      ],
+      "nota": null
+    },
+    "2:34": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:33–35#8", "sintese": "Como a luz continua luz ainda que ofenda os olhos fracos, o Salvador permanece Salvador ainda que muitos caiam." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:33–35#16", "sintese": "Ressurreição é vida nova: quando o sensual se torna casto, o avarento misericordioso, o cruel manso." },
+        { "autor": "São Basílio", "obra": "ep. 260. ad Opt.", "catena": "2:33–35#17", "sintese": "O sinal de contradição é, nas Escrituras, a cruz." }
+      ],
+      "nota": null
+    },
+    "2:35": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:33–35#22", "sintese": "A espada não é morte corporal, mas a dor pela paixão do Senhor, que traspassou a alma de Maria." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:33–35#26", "sintese": "Até o fim dos tempos, a espada da tribulação traspassa a alma da Igreja." }
+      ],
+      "nota": null
+    },
+    "2:36": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:36–38#0", "sintese": "Profetizaram o casado, a virgem e agora a viúva, para que não faltasse nenhum estado de vida." }
+      ],
+      "nota": null
+    },
+    "2:37": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:36–38#8", "sintese": "Em sentido místico, Ana significa a Igreja, que agora é viúva pela morte do seu Esposo." }
+      ],
+      "nota": null
+    },
+    "2:40": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:39–41#9", "sintese": "Verdadeiramente “sabedoria”, porque nele habita corporalmente toda a plenitude da divindade." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

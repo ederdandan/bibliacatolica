@@ -1,0 +1,108 @@
+{
+  "id": "LUK.2.1",
+  "livro": "LUK",
+  "titulo": "O nascimento de Jesus e a adoração dos pastores",
+  "secao": "O Evangelho da infância",
+  "referencia": "Lc 2,1-20",
+  "ini": { "c": 2, "v": 1 },
+  "fim": { "c": 2, "v": 20 },
+  "liturgia": { "tema_central": "“Nasceu-vos hoje um Salvador, que é o Cristo, o Senhor”", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Um édito de César Augusto (imperador de 27 a.C. a 14 d.C.) ordena o recenseamento do império, e cada um vai à cidade de origem. José, da casa de Davi, sobe de Nazaré a Belém com Maria, grávida. Ali ela dá à luz o filho primogênito, envolve-o em panos e deita-o numa manjedoura, porque não havia lugar para eles na estalagem. Pastores que guardavam o rebanho à noite (gente pobre e pouco considerada) recebem de um anjo, envolto na glória do Senhor, a boa nova: “Nasceu-vos hoje na cidade de David um Salvador, que é o Cristo, o Senhor”; o sinal é um menino em panos, numa manjedoura. Uma multidão de anjos canta: “Glória a Deus no mais alto dos céus, e paz na terra aos homens”. Os pastores vão depressa, encontram Maria, José e o Menino e contam o que ouviram. Maria conserva tudo, meditando-o no seu coração.",
+    "alegorico": "Belém significa “casa do pão”: ali nasce aquele que é o Pão vivo descido do céu. Posto na manjedoura, onde os animais comem, oferece-se como alimento ao homem, que se tornara semelhante aos animais pelas paixões. O recenseamento do mundo inteiro anuncia o recenseamento espiritual dos eleitos, inscritos não no livro de César, mas no do Rei do céu. Os pastores vigilantes são figura dos pastores da Igreja.",
+    "moral": "Aquele que é rico fez-se pobre por nós: o Rei do céu não encontra lugar na hospedaria, para nos preparar lugar na casa do Pai. A paz é para os “homens de boa vontade”, os que acolhem o Cristo. Os pastores vão com pressa e anunciam o que viram: quem encontra Cristo torna-se testemunha. Maria ensina a guardar e meditar a palavra no silêncio do coração.",
+    "anagogico": "A glória cantada pelos anjos une o céu e a terra: o céu tornou-se terra quando o Senhor desceu, e a terra tornou-se céu. Depois de celebrarmos a encarnação do Verbo, somos levados a contemplar a sua glória eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "José foi da Galileia, da cidade de Nazaré, à cidade de David, que se chamava Belém, para se recensear juntamente com Maria, sua esposa, que estava grávida. Estando ali, deu à luz o seu filho primogénito, e o enfaixou, e o reclinou numa manjedoura, porque não havia lugar para eles na estalagem. Naquela mesma região, havia uns pastores que velavam e faziam de noite a guarda ao seu rebanho. O anjo disse-lhes: “Não temais, porque eis que vos anuncio uma boa nova, que será de grande alegria para todo o povo: Nasceu-vos hoje na cidade de David um Salvador, que é o Cristo, o Senhor”. E subitamente apareceu com o anjo uma multidão da milícia celeste, louvando a Deus: “Glória a Deus no mais alto dos céus, e paz na terra aos homens”. Os pastores foram a toda a pressa, e encontraram Maria, José, e o Menino deitado na manjedoura. Maria conservava todas estas coisas, meditando-as no seu coração.",
+    "meditatio_perguntas": [
+      "Há lugar para Jesus na “estalagem” do meu coração e da minha vida?",
+      "Vou ao encontro de Cristo com a pressa e a simplicidade dos pastores?",
+      "Guardo e medito, como Maria, aquilo que Deus faz em minha vida?"
+    ],
+    "oratio_guia": "Menino Jesus, Pão vivo nascido em Belém, que te fizeste pobre por meu amor, vem habitar no meu coração. Com os anjos, canto: glória a Deus no mais alto dos céus. Com Maria, quero guardar e meditar o teu mistério. Amém.",
+    "contemplatio_foco": { "texto": "Nasceu-vos hoje na cidade de David um Salvador, que é o Cristo, o Senhor.", "ref": "Lc 2,11" }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "in diem natal. Christi.", "catena": "2:1–5#5", "sintese": "Foi o Senhor quem moveu Augusto a dar o decreto, para servir à vinda do Unigênito, levando a mãe a Belém." },
+        { "autor": "São Gregório Magno", "obra": "Hom. 8 in Ev.", "catena": "2:1–5#8", "sintese": "O recenseamento tinha sentido místico: aparecia na carne aquele que inscreveria os seus eleitos na eternidade." },
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:1–5#9", "sintese": "O recenseamento secular indica um recenseamento espiritual, apresentado não ao rei da terra, mas ao Rei do céu." }
+      ],
+      "nota": null
+    },
+    "2:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:1–5#15", "sintese": "A nossa cidade e pátria é o repouso dos bem-aventurados, para o qual devemos caminhar crescendo em virtude." }
+      ],
+      "nota": null
+    },
+    "2:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "Hom. viii in Ev.", "catena": "2:6–7#3", "sintese": "Belém significa “casa do pão”: ali havia de aparecer na carne o Pão vivo que sacia as almas dos eleitos." }
+      ],
+      "nota": null
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:6–7#6", "sintese": "Unigênito na substância da divindade, primogênito na assunção da humanidade." },
+        { "autor": "São Jerônimo", "obra": "ubi sup.", "catena": "2:6–7#7", "sintese": "Não houve parteira: ela mesma o envolveu em panos, sendo ao mesmo tempo mãe e parteira." },
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "2:6–7#12", "sintese": "Posto na manjedoura, no lugar do alimento, para que participemos não do feno, mas do pão celeste, o corpo que dá a vida." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:6–7#13", "sintese": "Quem está à direita do Pai não encontra lugar na hospedaria, para nos preparar muitas moradas na casa do Pai." }
+      ],
+      "nota": { "texto": "“Primogênito” é título legal do filho que abre o seio materno (Ex 13,2) e não implica outros filhos depois; são Jerônimo o mostra contra Helvídio.", "origem": "ia" }
+    },
+    "2:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Gregório Magno", "obra": "ubi sup.", "catena": "2:8–12#8", "sintese": "O anjo aparece aos pastores que vigiam: são dignos de ver as coisas do alto os que velam sobre o rebanho." },
+        { "autor": "São Beda, o Venerável", "obra": "Hom. ubi sup.", "catena": "2:8–12#9", "sintese": "Em sentido místico, os pastores e os rebanhos significam os mestres e guias das almas fiéis." }
+      ],
+      "nota": null
+    },
+    "2:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:6–7#15", "sintese": "Por ti é fraco, em si mesmo é forte; por ti é pobre, em si mesmo é rico: reconhece que foste redimido." }
+      ],
+      "nota": null
+    },
+    "2:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Cirilo de Alexandria", "obra": null, "catena": "2:13–14#4", "sintese": "Esta paz foi feita por Cristo, que nos reconciliou por si mesmo com Deus Pai." },
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:13–14#5", "sintese": "Paz aos homens de boa vontade, aos que acolhem o Cristo recém-nascido: não há paz para os ímpios." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "2:13–14#8", "sintese": "Primeiro faz descer os anjos até os homens, depois eleva os homens ao céu." }
+      ],
+      "nota": null
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": null, "catena": "2:15–20#1", "sintese": "Não dizem “vejamos o menino”, mas “vejamos esta palavra que aconteceu”: o Verbo feito carne." }
+      ],
+      "nota": null
+    },
+    "2:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": null, "catena": "2:15–20#7", "sintese": "Não desprezes as palavras dos pastores: a partir delas Maria aumentou a sua fé." },
+        { "autor": "São Beda, o Venerável", "obra": "Hom. ubi sup.", "catena": "2:15–20#8", "sintese": "Comparando o que lera na profecia com o que via cumprido, não o proferia, mas conservava-o calada no coração." }
+      ],
+      "nota": null
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Beda, o Venerável", "obra": "Hom. ubi sup.", "catena": "2:15–20#15", "sintese": "Os pastores não ocultaram o que souberam: para isso foram constituídos os pastores da Igreja." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
