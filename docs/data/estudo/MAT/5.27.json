@@ -1,0 +1,67 @@
+{
+  "id": "MAT.5.27",
+  "livro": "MAT",
+  "titulo": "O adultério e o divórcio",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,27-32",
+  "ini": { "c": 5, "v": 27 },
+  "fim": { "c": 5, "v": 32 },
+  "liturgia": { "tema_central": "A pureza do coração e a fidelidade do matrimônio", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Segunda e terceira antíteses. Jesus leva o sexto mandamento ao coração: quem olha uma mulher para desejá-la já adulterou interiormente. Com hipérboles orientais (“arranca o olho”, “corta a mão”), exige cortar radicalmente as ocasiões de pecado. Sobre o divórcio, a Lei permitia ao marido despedir a mulher com um “libelo de repúdio” (Dt 24,1), e as escolas rabínicas discutiam os motivos. Jesus restaura a indissolubilidade original: quem repudia a mulher a expõe ao adultério, e quem casa com a repudiada adultera. A cláusula “a não ser por fornicação” (porneia) é entendida pela Igreja como referência a uniões ilegítimas desde o início, que não eram verdadeiro matrimônio.",
+    "alegorico": "A fidelidade conjugal é imagem da aliança de Cristo com a Igreja, que Ele nunca repudia (Ef 5,25-32). O olho e a mão que devem ser cortados foram lidos pelos Padres como os afetos e as amizades que nos afastam de Deus, ainda que queridos como os próprios olhos.",
+    "moral": "A castidade começa no olhar e no pensamento: quem se permite contemplar com frequência o que excita a concupiscência acabará vencido. É preciso cortar as ocasiões, mesmo as que custam. A fidelidade vale igualmente para o homem e a mulher: o marido deve preceder a esposa na virtude. O matrimônio é uma aliança que a vontade humana não pode romper.",
+    "anagogico": "A pureza de coração prepara para ver a Deus. Perder um membro é melhor do que perder o corpo inteiro: a seriedade das escolhas presentes mostra o valor infinito da vida eterna. As núpcias fiéis anunciam as núpcias do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvistes que foi dito: Não cometerás adultério. Eu, porém, vos digo: todo aquele que olhar para uma mulher, desejando-a, já cometeu adultério com ela no seu coração. Se o teu olho direito é para ti ocasião de queda, arranca-o e lança-o para longe; é melhor perder um dos teus membros do que todo o teu corpo ser lançado na geena. Também foi dito: Quem repudiar a sua mulher, dê-lhe libelo de repúdio. Eu, porém, vos digo: quem repudiar a sua mulher, a não ser por fornicação, expõe-na ao adultério; e quem casar com a repudiada comete adultério”.",
+    "meditatio_perguntas": [
+      "Guardo os meus olhos e os meus pensamentos com pureza?",
+      "Que “ocasiões” eu deveria cortar com decisão na minha vida?",
+      "Como vivo (ou apoio) a fidelidade no matrimônio e nos compromissos assumidos?"
+    ],
+    "oratio_guia": "Senhor Jesus, dá-me um coração puro e um olhar limpo. Ajuda-me a cortar com decisão tudo o que me afasta de ti. Fortalece os esposos na fidelidade, à imagem do teu amor pela Igreja. Amém.",
+    "contemplatio_foco": { "texto": "Já cometeu adultério com ela no seu coração.", "ref": "Mt 5,28" }
+  },
+  "ancoras": {
+    "5:27": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Serm. 9, 3 e 10", "catena": "5:27–28#1", "sintese": "Se exiges fidelidade da tua esposa, deves dar o mesmo, pois o marido deve preceder a esposa na virtude." }
+      ],
+      "nota": null
+    },
+    "5:28": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. 19, 23", "catena": "5:27–28#2", "sintese": "Corrige o erro dos fariseus, que entendiam o “não cobiçarás a mulher do próximo” como proibição de tomá-la, e não de desejá-la." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:27–28#6", "sintese": "Se te permitires contemplar com frequência rostos belos, serás vencido, ainda que resistas duas ou três vezes, pois não estás acima da natureza." }
+      ],
+      "nota": null
+    },
+    "5:29": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "5:29–30#2", "sintese": "O olho e a mão direitos são os afetos de irmãos, esposos e parentes; se nos impedem de contemplar a verdadeira luz, devemos cortá-los." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 13", "catena": "5:29–30#3", "sintese": "O olho designa a contemplação, a mão a ação: são o amigo mais querido e o que ajuda nas obras." }
+      ],
+      "nota": null
+    },
+    "5:30": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Hilário", "obra": null, "catena": "5:29–30#5", "sintese": "Indica um grau mais elevado de inocência: manter-nos livres não só do pecado, mas daquilo que nos pode tocar de fora." }
+      ],
+      "nota": null
+    },
+    "5:32": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "Contra Faust. 19, 26", "catena": "5:31–32#4", "sintese": "A ordem de não repudiar não contraria a Lei: a Lei não mandava repudiar, apenas dificultava o repúdio." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:31–32#8", "sintese": "Mesmo repudiada, ela continua a ser esposa daquele que a repudiou." }
+      ],
+      "nota": { "texto": "Sobre a cláusula da “porneia”, a Igreja ensina a indissolubilidade do matrimônio válido. A exceção é lida como referência a uniões ilegítimas, que não eram verdadeiro matrimônio (cf. 19,9).", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

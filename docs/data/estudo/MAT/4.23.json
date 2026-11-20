@@ -1,0 +1,45 @@
+{
+  "id": "MAT.4.23",
+  "livro": "MAT",
+  "titulo": "Jesus ensina, prega e cura",
+  "secao": "O início do ministério na Galileia",
+  "referencia": "Mt 4,23-25",
+  "ini": { "c": 4, "v": 23 },
+  "fim": { "c": 4, "v": 25 },
+  "liturgia": { "tema_central": "Jesus anuncia o Evangelho do Reino e cura toda enfermidade", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Este sumário apresenta o ministério de Jesus em três verbos: ensinar nas sinagogas, pregar o Evangelho do Reino e curar todas as enfermidades. A sua fama chega à Síria, e trazem-lhe doentes de todo tipo: possessos, “lunáticos” (epilépticos), paralíticos. Multidões o seguem da Galileia, da Decápole (cidades helenísticas a leste), de Jerusalém, da Judeia e da Transjordânia. O texto, repetido quase igual em 9,35, emoldura o Sermão da Montanha (5-7) e os milagres (8-9): Jesus é o Messias da palavra e da ação.",
+    "alegorico": "Os milagres são sinais do Reino: as curas do corpo anunciam a cura da alma e a vitória sobre Satanás. As multidões vindas de todas as regiões, inclusive pagãs, prefiguram a Igreja reunida de todos os povos. Cristo, médico das almas e dos corpos, restaura a criação ferida.",
+    "moral": "Palavra e caridade andam juntas: Jesus ensina e cura. A Igreja continua essa missão evangelizando e servindo os doentes e sofredores. Os que traziam os enfermos de longe mostravam não pouca fé: a intercessão pelos outros é obra de fé e de amor.",
+    "anagogico": "As curas de Jesus antecipam o mundo novo em que não haverá mais dor, nem doença, nem morte. A multidão que o segue é imagem da multidão incontável dos redimidos diante do trono do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Jesus percorria toda a Galileia, ensinando nas sinagogas, pregando o Evangelho do Reino e curando todas as enfermidades do povo. A sua fama espalhou-se por toda a Síria, e traziam-lhe todos os doentes, atormentados por várias enfermidades e dores, possessos, lunáticos e paralíticos, e Ele os curava. Grandes multidões o seguiam, vindas da Galileia, da Decápole, de Jerusalém, da Judeia e do outro lado do Jordão.",
+    "meditatio_perguntas": [
+      "Que enfermidade da alma ou do corpo levo hoje a Jesus?",
+      "Quem eu poderia “trazer” a Jesus pela minha oração e pela minha caridade?",
+      "Sigo Jesus só pelos benefícios ou pela sua Palavra?"
+    ],
+    "oratio_guia": "Senhor Jesus, que percorrias a Galileia ensinando e curando, eu te apresento as minhas feridas e as dos que amo. Cura-nos no corpo e na alma. Faz-me instrumento da tua palavra e da tua caridade. Amém.",
+    "contemplatio_foco": { "texto": "Pregando o Evangelho do reino, e curando todas as enfermidades entre o povo.", "ref": "Mt 4,23" }
+  },
+  "ancoras": {
+    "4:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:23–25#4", "sintese": "Ensinando nas sinagogas, mostrou aos judeus que não vinha como inimigo de Deus nem como sedutor, mas em pleno acordo com o Pai." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:23–25#9", "sintese": "Quando introduz uma nova ordem de vida, Deus costuma realizar milagres, dando garantias do seu poder aos que hão de receber as suas leis." }
+      ],
+      "nota": null
+    },
+    "4:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:23–25#12", "sintese": "Observa a sobriedade do evangelista: condensa numa breve frase uma abundância de milagres." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:23–25#20", "sintese": "Não lhes exige profissão de fé explícita: ao trazerem os enfermos de longe, mostravam não pouca fé." }
+      ],
+      "nota": { "texto": "“Lunáticos” traduz um termo grego ligado à lua; descreve provavelmente a epilepsia, que se julgava influenciada pelas fases lunares.", "origem": "ia" }
+    }
+  },
+  "revisado": false
+}

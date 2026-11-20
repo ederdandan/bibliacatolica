@@ -1,0 +1,115 @@
+{
+  "id": "MAT.5.1",
+  "livro": "MAT",
+  "titulo": "As bem-aventuranças",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,1-12",
+  "ini": { "c": 5, "v": 1 },
+  "fim": { "c": 5, "v": 12 },
+  "liturgia": { "tema_central": "As bem-aventuranças: o retrato de Cristo e o caminho do Reino", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Jesus sobe ao monte, senta-se como mestre e ensina os discípulos diante da multidão. É o início do Sermão da Montanha, o primeiro dos cinco grandes discursos de Mateus. Como Moisés recebeu a Lei no Sinai, Jesus proclama a lei nova do Reino. As oito bem-aventuranças (com a nona, dirigida diretamente aos discípulos) declaram felizes os pobres de espírito, os mansos, os que choram, os famintos de justiça, os misericordiosos, os puros de coração, os pacíficos e os perseguidos. A primeira e a oitava prometem o mesmo “Reino dos Céus”, emoldurando o conjunto. Na numeração de Matos Soares, que segue a Vulgata, os mansos (v. 4) vêm antes dos que choram (v. 5).",
+    "alegorico": "As bem-aventuranças são o retrato de Cristo: Ele é o pobre, o manso, o que chora sobre Jerusalém, o faminto da vontade do Pai, o misericordioso, o puro, o Príncipe da paz e o perseguido. O monte é o novo Sinai; Cristo é o novo Moisés e, mais que isso, o próprio Legislador. Santo Agostinho lê as bem-aventuranças como degraus de perfeição, ligados aos sete dons do Espírito Santo.",
+    "moral": "Jesus inverte os valores do mundo: a felicidade não está na riqueza, no poder ou no prazer, mas na humildade, na mansidão, na misericórdia e na pureza. A pobreza de espírito é a humildade escolhida livremente. A mansidão vence o mal com o bem. A misericórdia abrange não só a esmola, mas carregar os fardos uns dos outros. O pacífico reconcilia os que estão em discórdia, imitando o Filho.",
+    "anagogico": "Todas as bem-aventuranças prometem, sob diversas imagens (Reino, terra, consolo, saciedade, misericórdia, visão de Deus, filiação), a mesma realidade: a vida eterna. Ver a Deus é a recompensa da fé, reservada aos puros de coração. A alegria prometida aos perseguidos é já penhor da recompensa nos céus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vendo as multidões, Jesus subiu ao monte e, sentando-se, ensinava os discípulos: “Bem-aventurados os pobres de espírito, porque deles é o Reino dos Céus. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que choram, porque serão consolados. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os pacíficos, porque serão chamados filhos de Deus. Bem-aventurados os perseguidos por causa da justiça, porque deles é o Reino dos Céus. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus”.",
+    "meditatio_perguntas": [
+      "Qual bem-aventurança mais me falta viver, e qual mais me consola?",
+      "Onde busco a felicidade: nos valores do mundo ou nos do Reino?",
+      "Como posso ser hoje misericordioso e pacífico em uma situação concreta?"
+    ],
+    "oratio_guia": "Senhor Jesus, Mestre do monte, tu és o pobre, o manso e o misericordioso. Dá-me um coração pobre e puro, faminto de justiça, artífice da paz. Que eu encontre a minha alegria em ti, mesmo na perseguição, à espera da recompensa do Céu. Amém.",
+    "contemplatio_foco": { "texto": "Bem-aventurados os puros de coração, porque verão a Deus.", "ref": "Mt 5,8" }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 15", "catena": "5:1–3#2", "sintese": "Escolhendo por cátedra um monte no deserto, e não a praça, ensinou-nos a nada fazer por ostentação e a afastar-nos das multidões para tratar das coisas divinas." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:1–3#5", "sintese": "Subiu ao monte para mostrar que quem ensina e quem ouve a justiça de Deus deve permanecer no alto das virtudes." }
+      ],
+      "nota": null
+    },
+    "5:3": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:1–3#19", "sintese": "A bem-aventurança é para os que se humilham por livre escolha, e não para os humildes forçados pela condição exterior; começa pela raiz, a humildade." }
+      ],
+      "nota": null
+    },
+    "5:4": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Ambrósio", "obra": "Sobre Lucas, cap. 5, 20", "catena": "5:5#0", "sintese": "De que me adianta estar sem as coisas do mundo se não tiver um espírito manso? Depois da pobreza, governar o coração." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 2", "catena": "5:5#1", "sintese": "Os mansos são os que cedem às injúrias e não resistem ao mal, mas vencem o mal com o bem." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:5#3", "sintese": "Possuirão a terra de que não serão arrancados: a terra dos viventes." }
+      ],
+      "nota": { "texto": "Na Vulgata e em Matos Soares, os mansos (5,4) vêm antes dos que choram (5,5); nas edições modernas, a ordem é a inversa.", "origem": "ia" }
+    },
+    "5:5": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "5:4#3", "sintese": "Não se trata do pranto pelos mortos segundo a natureza, mas pelos mortos em pecados, como Samuel chorou por Saul." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:4#5", "sintese": "As misericórdias de Deus são sempre maiores que as nossas aflições: dá consolações aqui e na vida futura." }
+      ],
+      "nota": null
+    },
+    "5:6": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "5:6#1", "sintese": "Não basta desejar a justiça: é preciso ter fome dela, pois nunca somos suficientemente justos." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:6#6", "sintese": "Já agora são saciados com o alimento de que o Senhor disse: “O meu alimento é fazer a vontade do Pai”." }
+      ],
+      "nota": null
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "5:7#2", "sintese": "A misericórdia não se entende só das esmolas, mas de todo pecado do irmão, se levarmos os fardos uns dos outros." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:7#5", "sintese": "A recompensa parece igual ao que se dá, mas é muito maior: a misericórdia humana e a divina não se comparam." }
+      ],
+      "nota": null
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 2", "catena": "5:8#5", "sintese": "São insensatos os que procuram ver a Deus com os olhos do corpo: Ele só é visto pelo coração simples, que é o coração puro." },
+        { "autor": "Santo Agostinho", "obra": "De Trin. 1, 8", "catena": "5:8#7", "sintese": "Ver a Deus é a recompensa da fé; para isso os corações são purificados pela fé." }
+      ],
+      "nota": null
+    },
+    "5:9": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Civ. Dei 19, 13", "catena": "5:9#1", "sintese": "A paz é a tranquilidade da ordem; e não há ninguém que não queira ter paz." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:9#7", "sintese": "Os que reconciliam os que estão em discórdia são chamados filhos de Deus, pois esta foi a obra do Unigênito: reunir o que estava separado." }
+      ],
+      "nota": null
+    },
+    "5:10": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:10#5", "sintese": "A oitava volta ao princípio, nomeando de novo o Reino dos Céus: as sete primeiras levam à perfeição, a oitava a manifesta e prova." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:10#7", "sintese": "Em todas as bem-aventuranças se subentende o Reino dos Céus, para que não procures nada de sensível." }
+      ],
+      "nota": null
+    },
+    "5:11": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 5", "catena": "5:11–12#3", "sintese": "“Falsamente” e “por minha causa” excluem os que querem gloriar-se da má fama das suas próprias torpezas." }
+      ],
+      "nota": null
+    },
+    "5:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:11–12#12", "sintese": "Indica a sua igualdade com o Pai: assim como os profetas sofreram pelo Pai, vós sofrereis por mim." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

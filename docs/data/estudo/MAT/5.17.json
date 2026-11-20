@@ -1,0 +1,57 @@
+{
+  "id": "MAT.5.17",
+  "livro": "MAT",
+  "titulo": "Jesus e o cumprimento da Lei",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,17-20",
+  "ini": { "c": 5, "v": 17 },
+  "fim": { "c": 5, "v": 20 },
+  "liturgia": { "tema_central": "Cristo não vem abolir a Lei, mas levá-la à plenitude", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Este é o princípio que governa todo o Sermão: Jesus não veio abolir a Lei e os Profetas, mas “cumpri-los”, isto é, levá-los à plenitude. Nem um “jota” (yod, a menor letra hebraica) nem um “ápice” (o pequeno traço que distingue letras) passará até que tudo se cumpra. Quem violar e ensinar a violar o menor mandamento será o menor no Reino. A justiça dos discípulos deve “exceder” a dos escribas e fariseus, mestres reconhecidos da observância: não por mais regras, mas por uma fidelidade interior que atinge o coração, como mostrarão as antíteses seguintes.",
+    "alegorico": "Cristo é a plenitude da Lei: cumpriu os Profetas realizando o que estava predito a seu respeito, e cumpriu a Lei observando-a sem falha e justificando pela fé, o que a letra não podia fazer. As figuras do Antigo Testamento (sacrifícios, Templo, sacerdócio) encontram nele a sua realidade. Na Igreja, a Lei não é destruída, mas transfigurada pela graça.",
+    "moral": "A fé cristã não despreza os mandamentos, nem mesmo os “pequenos”. Exige uma justiça maior: não basta a observância exterior, é preciso a conversão do coração. Ensinar e viver andam juntos: é grande quem pratica e ensina. A graça não dispensa a lei moral; dá a força para cumpri-la por amor.",
+    "anagogico": "“Até que tudo se cumpra”: a história caminha para o cumprimento total da Palavra de Deus no Reino. Ali a justiça será perfeita, e a Lei estará escrita plenamente nos corações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não penseis que vim abolir a Lei ou os Profetas; não vim abolir, mas cumprir. Em verdade vos digo: antes que passem o céu e a terra, não passará da Lei um só jota ou um só traço, sem que tudo se cumpra. Quem violar um destes mandamentos, mesmo dos menores, e ensinar assim aos homens, será o menor no Reino dos Céus; mas quem os praticar e ensinar será grande no Reino dos Céus. Se a vossa justiça não exceder a dos escribas e fariseus, não entrareis no Reino dos Céus”.",
+    "meditatio_perguntas": [
+      "Desprezo algum mandamento por julgá-lo “pequeno”?",
+      "A minha justiça é só exterior, ou nasce de um coração convertido?",
+      "Ensino com a vida aquilo que professo com a boca?"
+    ],
+    "oratio_guia": "Senhor Jesus, plenitude da Lei e dos Profetas, escreve a tua lei no meu coração. Dá-me uma justiça que vá além das aparências, nascida do amor. Que eu pratique e ensine os teus mandamentos, para ser teu discípulo no Reino. Amém.",
+    "contemplatio_foco": { "texto": "Não vim (para os) abolir, mas sim (para os) cumprir.", "ref": "Mt 5,17" }
+  },
+  "ancoras": {
+    "5:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 16", "catena": "5:17–19#4", "sintese": "Cumpriu os Profetas realizando o que estava predito; e a Lei, não transgredindo nenhum preceito e justificando pela fé, o que a letra não podia fazer." },
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 8", "catena": "5:17–19#3", "sintese": "Cumprir a Lei tem duplo sentido: acrescentar-lhe o que não tinha, ou fazer o que ela manda." }
+      ],
+      "nota": null
+    },
+    "5:18": {
+      "cic": [],
+      "padres": [],
+      "nota": { "texto": "O jota (yod) é a menor letra do alfabeto hebraico; o “ápice” é o pequeno traço que distingue letras semelhantes.", "origem": "ia" }
+    },
+    "5:19": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:17–19#14", "sintese": "Chama “mínimos” os preceitos que ia promulgar, embora fossem grandes, falando deles com a mesma humildade com que falava de si." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:17–19#18", "sintese": "“O menor no Reino” pode entender-se do castigo: muitas vezes “Reino” designa também o tempo da ressurreição e da vinda de Cristo." }
+      ],
+      "nota": null
+    },
+    "5:20": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:20–22#1", "sintese": "Por justiça entende-se a virtude universal; a força da graça exige de discípulos ainda não instruídos que sejam melhores que os mestres do Antigo Testamento." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

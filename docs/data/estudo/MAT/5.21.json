@@ -1,0 +1,67 @@
+{
+  "id": "MAT.5.21",
+  "livro": "MAT",
+  "titulo": "O homicídio e a reconciliação",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,21-26",
+  "ini": { "c": 5, "v": 21 },
+  "fim": { "c": 5, "v": 26 },
+  "liturgia": { "tema_central": "Vai primeiro reconciliar-te com o teu irmão", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Primeira das seis “antíteses” (“Ouvistes que foi dito… Eu, porém, vos digo”): Jesus fala com uma autoridade que nenhum rabino ousava, aprofundando o quinto mandamento. Não só o homicídio, mas a ira contra o irmão, o insulto “raca” (aramaico: “cabeça oca”) e o “louco” (que na Bíblia significa ímpio) merecem juízo, em gradação: tribunal local, Sinédrio, geena (o vale de Hinom, lixão em chamas fora de Jerusalém, imagem do inferno). Por isso, a reconciliação tem prioridade sobre o próprio culto: deixa a oferta no altar e vai reconciliar-te. E com o adversário, entra em acordo enquanto há tempo, antes do juiz.",
+    "alegorico": "Cristo, que reconciliou o mundo com o Pai pelo seu sangue, faz da reconciliação a condição do culto verdadeiro. O altar é figura do altar eucarístico, onde só se apresenta dignamente quem está em paz com o irmão. O “caminho” com o adversário é esta vida; o juiz é Cristo; a prisão e o “último quadrante” lembram a purificação exigida antes de entrar na glória.",
+    "moral": "O homicídio começa no coração: a ira guardada, o desprezo, o insulto. Se não é lícito irar-se contra o irmão nem insultá-lo, muito menos guardar na memória o que converte a ira em ódio. Deus prefere a reconciliação ao sacrifício: o culto sem caridade é incompleto. Devemos procurar a paz sem demora, enquanto há tempo.",
+    "anagogico": "A vida é o caminho em que ainda podemos reconciliar-nos com Deus e com os irmãos. Depois vem o Juízo, e é preciso pagar “até o último quadrante”: a tradição viu aqui uma alusão à purificação depois da morte. Quem se reconcilia agora entra na paz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvistes que foi dito aos antigos: Não matarás. Eu, porém, vos digo: todo aquele que se irar contra o seu irmão será réu de juízo; quem lhe chamar ‘raca’ será réu diante do Sinédrio; e quem lhe chamar ‘louco’ será réu do fogo da geena. Se estás para apresentar a tua oferta no altar e te lembrares de que o teu irmão tem alguma coisa contra ti, deixa a tua oferta diante do altar, vai primeiro reconciliar-te com o teu irmão, e depois vem apresentar a tua oferta. Entra em acordo sem demora com o teu adversário, enquanto estás a caminho com ele”.",
+    "meditatio_perguntas": [
+      "Há alguma ira ou desprezo que guardo no coração contra alguém?",
+      "Quem eu precisaria procurar para me reconciliar antes de ir ao altar?",
+      "Adio a reconciliação, achando que sempre haverá tempo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que nos reconciliaste com o Pai, arranca do meu coração a ira, o desprezo e o rancor. Dá-me a humildade de procurar a paz com o meu irmão. Que eu me apresente ao teu altar com um coração reconciliado. Amém.",
+    "contemplatio_foco": { "texto": "Vai reconciliar-te primeiro com teu irmão, e depois vem fazer a tua oferta.", "ref": "Mt 5,24" }
+  },
+  "ancoras": {
+    "5:21": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:20–22#9", "sintese": "“Foi dito aos antigos” mostra que havia muito tinham recebido o preceito; di-lo para estimular os ouvintes a avançar para preceitos mais sublimes." }
+      ],
+      "nota": null
+    },
+    "5:22": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:20–22#18", "sintese": "Raca exprime desprezo; o Senhor desce às menores minúcias do nosso comportamento." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:20–22#25", "sintese": "É a primeira menção do inferno: o Reino vem do amor de Deus; a condenação, da nossa negligência." }
+      ],
+      "nota": { "texto": "A geena era o vale de Hinom, ao sul de Jerusalém, lugar de antigos sacrifícios idolátricos (Jr 7,31), que se tornou imagem do castigo eterno.", "origem": "ia" }
+    },
+    "5:23": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "De Serm. Dom. in Monte 1, 10", "catena": "5:23–24#0", "sintese": "Se não é lícito irar-se contra o irmão nem insultá-lo, muito menos guardar na memória o que pode converter a ira em ódio." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:23–24#2", "sintese": "Ele tem algo contra nós quando o ofendemos; quando ele nos ofendeu, basta perdoá-lo, como queremos que o Senhor nos perdoe." }
+      ],
+      "nota": null
+    },
+    "5:24": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:23–24#4", "sintese": "Se o amor não basta para nos levar à reconciliação, leve-nos ao menos o desejo de que a nossa oferta não fique imperfeita, sobretudo no lugar santo." }
+      ],
+      "nota": null
+    },
+    "5:25": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:25–26#6", "sintese": "Talvez o adversário seja Deus, de quem nos afastamos pelo pecado; quem nesta vida não se reconciliar com Ele pela morte do seu Filho será entregue ao Juiz." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:25–26#18", "sintese": "Fala também dos juízes e prisões deste mundo, usando motivos presentes, que nos impressionam mais." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

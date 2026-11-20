@@ -1,0 +1,60 @@
+{
+  "id": "MAT.5.13",
+  "livro": "MAT",
+  "titulo": "Sal da terra e luz do mundo",
+  "secao": "O Sermão da Montanha",
+  "referencia": "Mt 5,13-16",
+  "ini": { "c": 5, "v": 13 },
+  "fim": { "c": 5, "v": 16 },
+  "liturgia": { "tema_central": "Os discípulos são sal da terra e luz do mundo, para a glória do Pai", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Logo após as bem-aventuranças, Jesus diz aos discípulos quem eles são: sal da terra e luz do mundo. O sal conservava os alimentos, dava-lhes sabor e selava as alianças (Lv 2,13). O sal da Palestina, retirado do mar Morto e misturado a impurezas, podia perder a força e então era jogado na rua. A luz da lâmpada de azeite, posta no candelabro, iluminava toda a casa de um só cômodo. A cidade sobre o monte, visível de longe, lembra a Jerusalém da profecia (Is 2,2). O fim de tudo não é a glória dos discípulos, mas que os homens glorifiquem o Pai.",
+    "alegorico": "Cristo é a Luz verdadeira, e os discípulos brilham com luz recebida, como a lua reflete o sol. A cidade sobre o monte é a Igreja, edificada sobre Cristo, que não pode esconder-se. Os apóstolos são o sal pelo qual todo o gênero humano é temperado e preservado da corrupção do pecado.",
+    "moral": "O cristão não pode ser insípido nem escondido: a fé deve dar sabor e luz à vida dos outros. O sal perde a força quando, por medo das perseguições, se cede ao mundo; é então “calcado pelos homens”. Não é pisado quem sofre perseguição, mas quem cai por medo dela. As boas obras devem ser vistas, não para a nossa vaidade, mas para a glória do Pai.",
+    "anagogico": "A cidade sobre o monte prefigura a Jerusalém celeste, cuja luz é o Cordeiro. Os que agora brilham como luz no mundo resplandecerão como o sol no Reino do Pai (Mt 13,43)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós sois o sal da terra. Se o sal perder a força, com que se há de salgar? Não serve para mais nada senão para ser lançado fora e pisado pelos homens. Vós sois a luz do mundo. Não se pode esconder uma cidade situada sobre um monte, nem se acende uma lâmpada para pô-la debaixo do alqueire, mas sobre o candelabro, para iluminar todos os que estão em casa. Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai que está nos céus”.",
+    "meditatio_perguntas": [
+      "A minha fé dá “sabor” à vida dos que convivem comigo?",
+      "Escondo a minha fé “debaixo do alqueire” por vergonha ou medo?",
+      "As minhas boas obras levam os outros a glorificar a Deus ou a mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, luz do mundo, faz de mim sal e luz para os meus irmãos. Livra-me do medo que me torna insípido e da vaidade que busca a minha glória. Que as minhas obras façam glorificar o Pai que está nos céus. Amém.",
+    "contemplatio_foco": { "texto": "Vós sois a luz do mundo.", "ref": "Mt 5,14" }
+  },
+  "ancoras": {
+    "5:13": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:13#0", "sintese": "Depois de preceitos tão sublimes, acalma o temor dos apóstolos misturando louvores às instruções: “Vós sois o sal da terra”." },
+        { "autor": "São Jerônimo", "obra": null, "catena": "5:13#4", "sintese": "Pelos apóstolos é temperado todo o gênero humano." },
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:13#14", "sintese": "Não é pisado quem sofre perseguição, mas quem cai por medo dela: não está abaixo de nós quem tem o coração fixo no céu." }
+      ],
+      "nota": { "texto": "O sal do mar Morto vinha misturado a outros minerais; dissolvido o cloreto, restava um resíduo sem sabor, usado para pavimentar caminhos.", "origem": "ia" }
+    },
+    "5:14": {
+      "cic": [],
+      "padres": [
+        { "autor": "Santo Agostinho", "obra": "ubi sup.", "catena": "5:14–16#2", "sintese": "Por mundo não se entendem o céu e a terra, mas os homens, para cuja iluminação os apóstolos foram enviados." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:14–16#5", "sintese": "Prometeu a homens desconhecidos fama até os confins da terra; as perseguições não diminuíram a sua luz, mas a tornaram mais visível." }
+      ],
+      "nota": null
+    },
+    "5:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:14–16#13", "sintese": "“Eu acendi a lâmpada, mas cabe a vós cuidar que continue a arder”: exorta-os a pregar com ousadia." }
+      ],
+      "nota": null
+    },
+    "5:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "5:14–16#7", "sintese": "Deviam velar pelo próprio modo de viver, pois estavam à vista de todos, como cidade sobre o monte ou lâmpada no candelabro." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}

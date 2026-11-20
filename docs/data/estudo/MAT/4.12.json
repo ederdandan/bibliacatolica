@@ -1,0 +1,59 @@
+{
+  "id": "MAT.4.12",
+  "livro": "MAT",
+  "titulo": "Jesus começa a pregar na Galileia",
+  "secao": "O início do ministério na Galileia",
+  "referencia": "Mt 4,12-17",
+  "ini": { "c": 4, "v": 12 },
+  "fim": { "c": 4, "v": 17 },
+  "liturgia": { "tema_central": "O povo que jazia nas trevas viu uma grande luz", "usos": [] },
+  "quatro_sentidos": {
+    "literal": "Depois da prisão de João, Jesus se retira para a Galileia e passa a morar em Cafarnaum, junto ao lago, no território das antigas tribos de Zabulon e Neftali. Mateus vê nisso o cumprimento de Is 8,23–9,1: essa região, a primeira a ser devastada pelos assírios (732 a.C.) e chamada “Galileia dos gentios” pela população mista, seria a primeira a ver a luz do Messias. Daí em diante Jesus começa a pregar com as mesmas palavras de João: “Fazei penitência, porque está próximo o Reino dos Céus”. O ministério público começa na periferia, não em Jerusalém.",
+    "alegorico": "Cristo é a grande Luz que se levanta sobre os que jaziam na sombra da morte, a luz verdadeira que ilumina todo homem. Quando a Lei cessou, começou o Evangelho: João é entregue, e Cristo começa a pregar. A “Galileia dos gentios” anuncia a missão universal: a luz começa entre os povos misturados e chegará a todas as nações.",
+    "moral": "A luz de Cristo não é conquistada por nós; ela surge e brilha sobre nós por graça. Mas pede resposta: a conversão. Jesus começa sem dureza, com um convite. Ele se retira diante do perigo sem fugir da missão: repreensível não é evitar o perigo, mas não suportá-lo com coragem quando chega.",
+    "anagogico": "A luz que surge na Galileia é a aurora do dia sem ocaso. Os que agora passam das trevas para a luz da fé caminham para a luz plena da glória, onde já não haverá noite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ao saber que João fora preso, Jesus retirou-se para a Galileia. Deixando Nazaré, foi morar em Cafarnaum, junto ao mar, no território de Zabulon e Neftali, para cumprir o que dissera Isaías: “Terra de Zabulon e de Neftali, Galileia dos gentios! O povo que jazia nas trevas viu uma grande luz; para os que jaziam na sombra da morte, uma luz se levantou”. Desde então Jesus começou a pregar: “Fazei penitência, porque está próximo o Reino dos Céus”.",
+    "meditatio_perguntas": [
+      "Que regiões de “trevas” na minha vida precisam da luz de Cristo?",
+      "Acolho o convite à penitência como uma boa notícia?",
+      "Sou luz para os que estão à minha volta, especialmente os mais afastados?"
+    ],
+    "oratio_guia": "Senhor Jesus, grande Luz que brilhou sobre a Galileia, ilumina as minhas trevas e a sombra da morte que há em mim. Dá-me um coração convertido, para acolher o teu Reino. Faz-me levar a tua luz a quem jaz nas trevas. Amém.",
+    "contemplatio_foco": { "texto": "Este povo, que jazia nas trevas, viu uma grande luz.", "ref": "Mt 4,16" }
+  },
+  "ancoras": {
+    "4:12": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": "Hom. 14", "catena": "4:12–16#2", "sintese": "Repreensível não é evitar o perigo, mas não suportá-lo com coragem; partiu para abrandar os judeus, cumprir a profecia e pescar os futuros mestres do mundo na Galileia." },
+        { "autor": "Santo Agostinho", "obra": "De Cons. Evang. 2, 17", "catena": "4:12–16#13", "sintese": "João narra fatos anteriores a esta partida para a Galileia, que os outros evangelistas omitiram." }
+      ],
+      "nota": null
+    },
+    "4:15": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": "Comentário sobre Is 8,23", "catena": "4:12–16#6", "sintese": "Foram aliviados primeiro do peso do pecado porque foi no seu território que o Salvador pregou primeiro o Evangelho." }
+      ],
+      "nota": { "texto": "Zabulon e Neftali foram as primeiras tribos deportadas pelos assírios (2Rs 15,29). A região tinha forte presença pagã.", "origem": "ia" }
+    },
+    "4:16": {
+      "cic": [],
+      "padres": [
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:12–16#11", "sintese": "Chama-a grande luz, a luz verdadeira; e “surgiu” mostra que não a encontraram por si mesmos, mas que ela brilhou sobre eles." }
+      ],
+      "nota": null
+    },
+    "4:17": {
+      "cic": [],
+      "padres": [
+        { "autor": "São Jerônimo", "obra": null, "catena": "4:17#8", "sintese": "Cristo começa a pregar assim que João é entregue, porque, quando a Lei cessou, começou o Evangelho." },
+        { "autor": "São João Crisóstomo", "obra": null, "catena": "4:17#7", "sintese": "No primeiro discurso nada diz abertamente de si mesmo nem nada de severo, como o machado de João." }
+      ],
+      "nota": null
+    }
+  },
+  "revisado": false
+}
