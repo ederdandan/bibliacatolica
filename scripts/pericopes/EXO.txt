@@ -1,33 +1,64 @@
 # Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
 # Linhas "## " abrem uma seção.
-## A opressão e a vocação de Moisés
-1:1-1:22 | A opressão de Israel no Egito
-2:1-2:25 | O nascimento e a fuga de Moisés
-3:1-3:22 | A sarça ardente: Eu sou o que sou
-4:1-4:31 | Os sinais e a volta de Moisés ao Egito
-5:1-6:30 | Faraó endurece; Deus renova a promessa
-## As pragas e a Páscoa
-7:1-8:32 | As primeiras pragas: o dedo de Deus
-9:1-10:29 | Peste, úlceras, granizo, gafanhotos e trevas
-11:1-12:51 | A Páscoa do Senhor
-13:1-13:22 | Os primogênitos consagrados; a coluna de nuvem e de fogo
-14:1-14:31 | A passagem do mar Vermelho
-15:1-15:27 | O cântico de Moisés
-## No deserto
-16:1-16:36 | O maná, pão do céu
-17:1-17:16 | A água da rocha e as mãos erguidas de Moisés
-18:1-18:27 | Jetro e a organização do povo
-## A aliança do Sinai
-19:1-19:25 | Sereis para mim um reino sacerdotal e uma nação santa
-20:1-20:26 | Os dez mandamentos
-21:1-23:33 | O código da aliança
-24:1-24:18 | O sangue da aliança
-## O santuário e o sacerdócio
-25:1-27:21 | A arca, a mesa, o candelabro e o tabernáculo
-28:1-29:46 | As vestes e a consagração dos sacerdotes
-30:1-31:18 | O altar do incenso, o sábado e as tábuas da lei
+## No Egito
+1:1-1:22 | A opressão; as parteiras
+2:1-2:10 | O nascimento de Moisés
+2:11-2:25 | A fuga para Madiã; Deus ouve o clamor
+3:1-3:15 | A sarça ardente: Eu sou o que sou
+3:16-4:17 | A missão e os sinais; Aarão
+4:18-4:31 | O retorno ao Egito
+5:1-5:23 | O Faraó endurece a opressão
+6:1-6:13 | A promessa renovada
+6:14-6:30 | A genealogia de Moisés e Aarão
+7:1-7:13 | O cajado que vira serpente
+7:14-7:25 | A água em sangue
+8:1-8:15 | As rãs
+8:16-8:19 | Os mosquitos: o dedo de Deus
+8:20-8:32 | As moscas
+9:1-9:12 | A peste e as úlceras
+9:13-9:35 | O granizo
+10:1-10:20 | Os gafanhotos
+10:21-10:29 | As trevas
+11:1-11:10 | O anúncio da última praga
+12:1-12:28 | A instituição da Páscoa
+12:29-12:42 | A morte dos primogênitos e a saída
+12:43-13:16 | As leis da Páscoa e dos primogênitos
+## Do mar ao Sinai
+13:17-13:22 | A coluna de nuvem e de fogo
+14:1-14:14 | O Senhor combaterá por vós
+14:15-14:31 | A passagem do mar
+15:1-15:21 | O cântico de Moisés e de Maria
+15:22-15:27 | As águas de Mara
+16:1-16:36 | O maná
+17:1-17:7 | A água da rocha
+17:8-17:16 | As mãos erguidas contra Amalec
+18:1-18:12 | A visita de Jetro
+18:13-18:27 | O conselho de Jetro
+## A aliança no Sinai
+19:1-19:25 | O Sinai: povo sacerdotal
+20:1-20:17 | Os dez mandamentos
+20:18-20:26 | O temor do povo; o altar
+21:1-21:36 | As leis sobre servos e violência
+22:1-22:31 | As leis sobre propriedade e os fracos
+23:1-23:19 | A justiça, o sábado e as festas
+23:20-23:33 | O anjo que vai adiante
+24:1-24:11 | O sangue da aliança
+24:12-24:18 | Moisés sobe à nuvem
+## O santuário
+25:1-25:40 | A arca, a mesa e o candelabro
+26:1-27:21 | O tabernáculo e o átrio
+28:1-28:43 | As vestes sacerdotais
+29:1-29:46 | A consagração dos sacerdotes
+30:1-30:38 | O incenso, a bacia e o óleo
+31:1-31:18 | Os artesãos, o sábado e as tábuas
 ## Pecado e renovação da aliança
-32:1-32:35 | O bezerro de ouro e a intercessão de Moisés
-33:1-33:23 | Face a face, como um amigo: mostra-me a tua glória
-34:1-34:35 | Deus misericordioso e clemente: a aliança renovada
-35:1-40:36 | A construção do tabernáculo e a glória que o enche
+32:1-32:14 | O bezerro de ouro e a intercessão
+32:15-32:35 | Moisés desce: risca-me do teu livro
+33:1-33:11 | A tenda: face a face, como um amigo
+33:12-33:23 | Mostra-me a tua glória
+34:1-34:9 | O nome: Deus misericordioso
+34:10-34:35 | A aliança renovada; o rosto radiante
+## A construção do santuário
+35:1-36:7 | As ofertas generosas
+36:8-39:43 | A execução da obra
+40:1-40:36 | O tabernáculo erguido e cheio da glória
