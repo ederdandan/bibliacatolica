@@ -108,7 +108,7 @@ Lote 1: Filipenses ✅ 10 · Efésios ✅ 12 · Colossenses ✅ 8 · 1 Tessaloni
 Lote 2: Filémon ✅ 2 · 2 João ✅ 1 · 3 João ✅ 1 · Judas ✅ 2 · 2 Tessalonicenses ✅ 4 · Tito ✅ 3 · 2 Pedro ✅ 5. **Lote 2 concluído: 18 perícopes.**
 Lote 3: Gálatas ✅ 11 · 1 Timóteo ✅ 10 · 2 Timóteo ✅ 6. **Lote 3 concluído: 27 perícopes.**
 Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios ✅ 16 · Apocalipse ✅ 22 · Atos ✅ 31. **Lote 4 concluído: 142 perícopes.**
-**Novo Testamento completo: 27 livros, 561 perícopes** (Evangelhos 308 + Lote 1 66 + Lote 2 18 + Lote 3 27 + Lote 4 142). Próximo: Salmos (PSA).
+**Novo Testamento completo: 27 livros, 561 perícopes** (Evangelhos 308 + Lote 1 66 + Lote 2 18 + Lote 3 27 + Lote 4 142). AT em andamento: Lotes 5 e 6 ✅ (211 perícopes).
 
 **Antigo Testamento em lotes** (aprovado em 2026-11-21; contagens estimadas). Regra: ao fechar cada lote, atualizar este .md + commit + push.
 - **Lote 5** Salmos PSA: um salmo por perícope; Sl 118 (Vulgata) dividido nas 22 estrofes — ✅ **171 perícopes** em 5 seções (Livros I–V do Saltério)
@@ -227,7 +227,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
    **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
    **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
-   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40. Próximo: Lote 7 (profetas menores).** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`. Salmos (PSA) vem depois do NT (um salmo por perícope, ou divisões nos longos como o 118).
+   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40. Próximo: Lote 7 (profetas menores).** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).
