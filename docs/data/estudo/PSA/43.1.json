@@ -1,0 +1,57 @@
+{
+  "id": "PSA.43.1",
+  "livro": "PSA",
+  "titulo": "Lamento do povo derrotado",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 43,1-27",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Por que dormes, Senhor? Desperta!",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento nacional depois de uma derrota. O povo recorda o que os pais contaram: Deus deu a terra a Israel não pela espada, mas pelo seu braço e pela luz do seu rosto. Agora, porém, Deus os rejeitou: fugiram diante do inimigo, foram vendidos a preço vil, tornaram-se zombaria das nações. E o povo protesta a sua fidelidade: não esqueceu a aliança nem se voltou para deuses estranhos. “Por tua causa somos mortos todos os dias.” Termina com o grito: “Desperta! Por que dormes, Senhor? Levanta-te em nosso auxílio”.",
+    "alegorico": "S. Paulo cita o v. 23 (Rm 8,36) sobre os cristãos perseguidos, concluindo que nada pode separá-los do amor de Cristo. Os Padres viram no “Senhor que dorme” o Cristo adormecido na barca, que os discípulos acordam na tempestade (Mc 4,38).",
+    "moral": "O salmo ensina a rezar com franqueza nas crises de fé, quando a fidelidade parece não ser recompensada. Também lembra que as vitórias vêm de Deus, não das nossas armas. A Igreja perseguida reza estes versículos com os mártires.",
+    "anagogico": "O povo humilhado “até o pó” espera o dia em que o Senhor se levantará definitivamente; o martírio é semente de ressurreição e de glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, os nossos pais nos contaram a obra que fizeste. Não foi a sua espada que conquistou a terra, mas a tua direita e a luz do teu rosto. Agora nos rejeitaste. Por tua causa somos mortos todos os dias. Desperta! Por que dormes, Senhor? Levanta-te em nosso auxílio.",
+    "meditatio_perguntas": [
+      "Já senti que Deus “dormia” enquanto eu sofria? Como rezei?",
+      "Mantenho-me fiel mesmo quando a fidelidade não parece recompensada?",
+      "Rezo pelos cristãos perseguidos hoje?"
+    ],
+    "oratio_guia": "Senhor, há tempestades em que pareces dormir. Desperta e levanta-te em nosso auxílio. Não nos rejeites para sempre. Fortalece os cristãos perseguidos e guarda-nos fiéis à tua aliança, porque nada pode separar-nos do teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te, Senhor, em nosso auxílio, e livra-nos pela tua misericórdia.",
+      "ref": "Sl 43,27"
+    }
+  },
+  "ancoras": {
+    "43:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por S. Paulo em Rm 8,36, num dos textos mais fortes sobre o amor de Cristo que vence a perseguição.",
+        "origem": "ia"
+      }
+    },
+    "43:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Deus não dorme (Sl 120,4); a expressão é uma ousadia da oração, que interpela o silêncio de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

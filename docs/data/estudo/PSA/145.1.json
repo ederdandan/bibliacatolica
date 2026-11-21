@@ -1,0 +1,40 @@
+{
+  "id": "PSA.145.1",
+  "livro": "PSA",
+  "titulo": "Feliz quem espera no Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 145,1-10",
+  "ini": {
+    "c": 145,
+    "v": 1
+  },
+  "fim": {
+    "c": 145,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Feliz quem espera no Senhor: ele faz justiça aos oprimidos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Início dos salmos “Aleluia” finais. O salmista louvará o Senhor enquanto viver. Adverte: não confieis nos príncipes, em homens que não podem salvar; quando o sopro sai, voltam ao pó e os seus projetos perecem. Feliz quem tem por auxílio o Deus de Jacó, criador do céu e da terra, fiel para sempre. Ele faz justiça aos oprimidos, dá pão aos famintos, liberta os cativos, abre os olhos aos cegos, levanta os curvados, ama os justos, protege o estrangeiro, sustenta o órfão e a viúva. O Senhor reinará para sempre.",
+    "alegorico": "Jesus realiza exatamente estas obras (Lc 4,18; 7,22): dá vista aos cegos, liberta os cativos, cura os encurvados (Lc 13,11-13). Ele é o Rei que reina para sempre.",
+    "moral": "O salmo é um programa de confiança e de ação: não depositar a esperança nos poderosos, e imitar Deus no cuidado dos pobres, estrangeiros, órfãos e viúvas.",
+    "anagogico": "“O Senhor reinará para sempre”: o Reino de Deus, onde os pobres são saciados e os cegos veem, é a meta da história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louva, ó minha alma, o Senhor; louvarei o Senhor toda a minha vida. Não confieis nos príncipes. Feliz aquele que tem por auxílio o Deus de Jacó. Ele faz justiça aos oprimidos, dá pão aos famintos, liberta os cativos, abre os olhos aos cegos, levanta os curvados. O Senhor reinará para sempre.",
+    "meditatio_perguntas": [
+      "Em que “príncipes” ponho a minha esperança?",
+      "Qual destas obras de Deus posso imitar esta semana?",
+      "Louvo o Senhor “enquanto vivo”, em todas as fases?"
+    ],
+    "oratio_guia": "Senhor, quero louvar-te toda a minha vida. Não quero confiar nos poderosos, mas em ti. Faz-me instrumento da tua justiça para os oprimidos, os famintos e os estrangeiros. Reina para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor endireita os encurvados, o Senhor ama os justos.",
+      "ref": "Sl 145,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

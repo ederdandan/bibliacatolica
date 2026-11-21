@@ -1,0 +1,49 @@
+{
+  "id": "PSA.107.1",
+  "livro": "PSA",
+  "titulo": "O meu coração está firme, ó Deus",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 107,1-14",
+  "ini": {
+    "c": 107,
+    "v": 1
+  },
+  "fim": {
+    "c": 107,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O meu coração está firme, ó Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo composto de duas partes de outros salmos: Sl 56,8-12 e Sl 59,7-14. Começa com o canto do coração firme que desperta a aurora e louva a Deus entre os povos, porque a sua misericórdia chega aos céus. Pede que Deus se eleve acima dos céus e salve os seus amados. Segue o oráculo divino sobre a posse da terra: Siquém, Sucot, Galaad, Efraim e Judá pertencem a Deus, que domina Moab, Edom e a Filisteia. O salmo termina com a confiança: “Com Deus faremos proezas”.",
+    "alegorico": "O louvor ao amanhecer e a vitória com Deus são lidos pela Igreja como canto do Ressuscitado e da sua vitória sobre todos os poderes. A combinação dos dois salmos mostra como a comunidade reutilizava orações antigas para novas situações.",
+    "moral": "A Igreja também reutiliza e reza os salmos em situações sempre novas. Um coração firme em Deus pode começar o dia louvando, mesmo antes de ver a vitória, sabendo que o socorro humano é vão.",
+    "anagogico": "A glória de Deus acima dos céus e sobre toda a terra será plenamente manifestada no fim, quando Deus reinar sobre todos os povos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O meu coração está firme, ó Deus; vou cantar e salmodiar. Desperta, minha alma; eu despertarei a aurora. Louvar-te-ei entre os povos, Senhor. A tua misericórdia é maior que os céus. Dá-nos auxílio contra o inimigo, porque vão é o socorro do homem. Com Deus faremos proezas.",
+    "meditatio_perguntas": [
+      "O meu coração está firme em Deus ou disperso?",
+      "Começo o dia com louvor?",
+      "Onde estou buscando um “socorro humano” que é vão?"
+    ],
+    "oratio_guia": "Ó Deus, firma o meu coração em ti. Quero despertar a aurora com o teu louvor. A tua misericórdia é maior que os céus. Contigo farei proezas. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu coração, ó Deus, está firme, o meu coração está firme; vou cantar e entoar salmos.",
+      "ref": "Sl 107,2"
+    }
+  },
+  "ancoras": {
+    "107:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 2-6 = Sl 56,8-12; os vv. 7-14 = Sl 59,7-14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

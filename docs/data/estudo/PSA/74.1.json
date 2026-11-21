@@ -1,0 +1,49 @@
+{
+  "id": "PSA.74.1",
+  "livro": "PSA",
+  "titulo": "Deus, juiz de toda a terra",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 74,1-11",
+  "ini": {
+    "c": 74,
+    "v": 1
+  },
+  "fim": {
+    "c": 74,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Deus é o juiz: humilha um e exalta outro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças e oráculo divino. O povo louva e narra as maravilhas de Deus. Deus fala: no tempo marcado julgará com retidão; mesmo quando a terra treme, é ele que firma as suas colunas. Adverte os arrogantes a não levantarem a fronte contra o Altíssimo. Nem do oriente nem do ocidente vem o socorro: só Deus é juiz, que humilha um e exalta outro. Na mão do Senhor há um cálice de vinho espumante que os ímpios beberão até a borra. O salmista cantará ao Deus de Jacó.",
+    "alegorico": "O cálice da ira, que os ímpios deveriam beber, Cristo o tomou sobre si no Getsêmani (Mt 26,39). O Deus que “humilha e exalta” é cantado por Maria no Magnificat (Lc 1,52).",
+    "moral": "O salmo é antídoto contra a arrogância: ninguém se ergue diante de Deus. Também consola os humildes: a última palavra é de Deus, que exalta os pequenos no tempo certo.",
+    "anagogico": "“Quando eu fixar o tempo, julgarei com retidão”: o juízo final, momento escolhido por Deus, revelará a sua justiça sobre todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nós te louvamos, ó Deus, narramos as tuas maravilhas. Quando eu fixar o tempo, julgarei com retidão. Fui eu que firmei as colunas da terra. Não levanteis a fronte contra o Altíssimo. Deus é o juiz: a um humilha, a outro exalta.",
+    "meditatio_perguntas": [
+      "Em que áreas eu “levanto a fronte” com arrogância?",
+      "Confio que Deus agirá no tempo certo?",
+      "Contemplo Cristo que bebeu o cálice por mim?"
+    ],
+    "oratio_guia": "Senhor, juiz justo, livra-me da arrogância. Tu firmas a terra quando ela treme. No tempo que fixaste, exalta os humildes. Obrigado, Jesus, por teres bebido o cálice que era nosso. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é que é o juiz: a este humilha, e àquele exalta.",
+      "ref": "Sl 74,8"
+    }
+  },
+  "ancoras": {
+    "74:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cálice é imagem bíblica do juízo de Deus (Is 51,17; Jr 25,15; Ap 14,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

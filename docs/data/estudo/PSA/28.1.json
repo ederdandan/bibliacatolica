@@ -1,0 +1,57 @@
+{
+  "id": "PSA.28.1",
+  "livro": "PSA",
+  "titulo": "A voz do Senhor na tempestade",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 28,1-11",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A voz do Senhor sobre as águas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino a Deus revelado na tempestade. Os “filhos de Deus”, os seres celestes, são convidados a dar glória ao Senhor. Sete vezes ressoa “a voz do Senhor”: sobre as águas, poderosa, quebra os cedros do Líbano, faz saltar os montes como bezerros, lança chamas de fogo, sacode o deserto, contorce os carvalhos. No templo, todos dizem: “Glória!”. O Senhor reina acima do dilúvio para sempre e abençoa o seu povo com a paz.",
+    "alegorico": "A liturgia usa este salmo na festa do Batismo do Senhor: no Jordão, “a voz do Senhor sobre as águas” se fez ouvir: “Este é o meu Filho amado” (Mt 3,17). As sete vozes foram lidas pelos Padres como os sete dons do Espírito, e as águas como o Batismo.",
+    "moral": "A força da natureza, que tanto nos assusta, é apenas um eco da majestade de Deus. O salmo ensina a reconhecer a sua voz e a responder com adoração. E lembra que o fruto final da sua força é a paz.",
+    "anagogico": "“O Senhor sentar-se-á como rei para sempre”: acima de todo caos e de todo dilúvio, Deus reinará definitivamente e dará ao seu povo a paz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dai ao Senhor, filhos de Deus, glória e poder. A voz do Senhor está sobre as águas; o Deus da glória trovejou. A voz do Senhor com poder, a voz do Senhor com majestade. No seu templo todos dizem: Glória! O Senhor abençoará o seu povo com a paz.",
+    "meditatio_perguntas": [
+      "Onde escuto a “voz do Senhor” na minha vida?",
+      "Diante das tempestades, consigo dizer “Glória!”?",
+      "Que relação vejo entre o meu Batismo e esta voz sobre as águas?"
+    ],
+    "oratio_guia": "Senhor, Deus da glória, a tua voz ressoa sobre as águas e sobre a minha vida. Dá-me ouvir-te e adorar-te. Tu que reinas acima de todo dilúvio, fortalece o teu povo e abençoa-nos com a paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "A voz do Senhor está sobre as águas!",
+      "ref": "Sl 28,3"
+    }
+  },
+  "ancoras": {
+    "28:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A expressão “a voz do Senhor” se repete sete vezes, número da plenitude; na Bíblia, o trovão é chamado “voz de Deus”.",
+        "origem": "ia"
+      }
+    },
+    "28:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sarião” é o nome fenício do monte Hermon (Dt 3,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

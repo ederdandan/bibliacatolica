@@ -1,0 +1,57 @@
+{
+  "id": "PSA.34.1",
+  "livro": "PSA",
+  "titulo": "Súplica do justo contra os acusadores",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 34,1-28",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Diz à minha alma: Eu sou a tua salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica de um justo perseguido por inimigos ingratos e falsas testemunhas. Pede que Deus lute por ele como guerreiro e diga à sua alma: “Eu sou a tua salvação”. Os inimigos o pagam mal por bem: quando estavam doentes, ele jejuava e rezava por eles como por irmãos; agora que ele tropeçou, zombam e rangem os dentes. Pede que Deus não se cale e o julgue segundo a sua justiça. Promete louvar a Deus na grande assembleia.",
+    "alegorico": "Jesus aplicou a si o v. 19: “Odiaram-me sem motivo” (Jo 15,25). Cristo é o justo que fez o bem a todos e foi pago com o mal, rodeado de falsas testemunhas na Paixão (Mt 26,59-61).",
+    "moral": "O salmista é modelo de quem reza pelos inimigos quando estes sofrem (vv. 13-14), antecipando o mandamento de Jesus. Ao mesmo tempo, mostra que é legítimo pedir justiça a Deus e deixar com ele a defesa da própria causa.",
+    "anagogico": "A “grande assembleia” onde o justo louvará a Deus é a Igreja e, no fim, a assembleia dos santos no céu, onde toda injustiça será reparada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Combate, Senhor, contra os que me combatem. Diz à minha alma: “Eu sou a tua salvação”. Pagam-me o mal pelo bem. Eu, quando estavam doentes, jejuava e rezava. Até quando, Senhor, ficarás olhando? Não te cales, não te afastes de mim. A minha língua proclamará a tua justiça.",
+    "meditatio_perguntas": [
+      "Como reajo quando sou pago com o mal pelo bem que fiz?",
+      "Rezo pelos que me fazem mal, especialmente quando estão sofrendo?",
+      "Preciso ouvir hoje Deus dizer à minha alma: “Eu sou a tua salvação”?"
+    ],
+    "oratio_guia": "Senhor, diz à minha alma: “Eu sou a tua salvação”. Defende a minha causa e não te cales. Livra-me do rancor e dá-me um coração que reza pelos que me ferem, como Jesus. A minha língua proclamará a tua justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "diz à minha alma: \"Eu sou a tua salvação.\"",
+      "ref": "Sl 34,3"
+    }
+  },
+  "ancoras": {
+    "34:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesus cita “odiaram-me sem motivo” em Jo 15,25 (cf. também Sl 68,5).",
+        "origem": "ia"
+      }
+    },
+    "34:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O jejum e o cilício pelos doentes mostram uma caridade que se estende até os adversários.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

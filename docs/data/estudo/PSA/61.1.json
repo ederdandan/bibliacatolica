@@ -1,0 +1,49 @@
+{
+  "id": "PSA.61.1",
+  "livro": "PSA",
+  "titulo": "Só em Deus repousa a minha alma",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 61,1-13",
+  "ini": {
+    "c": 61,
+    "v": 1
+  },
+  "fim": {
+    "c": 61,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Só em Deus repousa a minha alma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo de confiança serena. O refrão afirma: só em Deus a alma encontra repouso; só ele é rocha, salvação e fortaleza. Os inimigos tentam derrubar o salmista como a um muro inclinado; bendizem com a boca e maldizem no coração. O salmista exorta o povo a confiar em Deus em todo tempo e a derramar diante dele o coração. Os homens são um sopro, mais leves que um sopro na balança. Não confieis na violência nem na rapina; se as riquezas aumentarem, não prendais a elas o coração. Deus disse: o poder e a misericórdia pertencem a ele.",
+    "alegorico": "Cristo é a rocha em que a alma repousa (Mt 11,28-29: “achareis repouso para as vossas almas”). Nele, o poder e a misericórdia de Deus se uniram: o Onipotente se fez misericórdia encarnada.",
+    "moral": "O salmo é escola de desapego e de silêncio interior: repousar em Deus em vez de agitar-se. Adverte contra o apego às riquezas e convida a abrir o coração a Deus na oração, sem reservas.",
+    "anagogico": "Deus “retribuirá a cada um segundo as suas obras” (citado em Rm 2,6 e Mt 16,27): o repouso definitivo da alma em Deus é o sábado eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Só em Deus repousa a minha alma; dele vem a minha salvação. Só ele é a minha rocha, não vacilarei. Espera nele, ó povo, em todo tempo; derramai diante dele os vossos corações. Se as riquezas aumentarem, não prendais a elas o coração. O poder é de Deus, e tua, Senhor, é a misericórdia.",
+    "meditatio_perguntas": [
+      "Onde a minha alma procura repouso fora de Deus?",
+      "Derramo diante de Deus o meu coração, ou rezo só com palavras feitas?",
+      "A que bens o meu coração está preso?"
+    ],
+    "oratio_guia": "Senhor, só em ti a minha alma repousa. Tu és a minha rocha e a minha salvação. Desprende o meu coração das riquezas e acalma a minha agitação. Derramo diante de ti o meu coração: tu és poder e misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Só em Deus repousa a minha alma, dele vem a minha salvação.",
+      "ref": "Sl 61,2"
+    }
+  },
+  "ancoras": {
+    "61:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Uma coisa disse Deus, duas coisas ouvi”: recurso sapiencial (provérbio numérico) para destacar dois atributos divinos inseparáveis, poder e misericórdia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

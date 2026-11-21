@@ -1,0 +1,40 @@
+{
+  "id": "PSA.121.1",
+  "livro": "PSA",
+  "titulo": "Que alegria quando me disseram: “Vamos à casa do Senhor”",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 121,1-9",
+  "ini": {
+    "c": 121,
+    "v": 1
+  },
+  "fim": {
+    "c": 121,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Que alegria quando me disseram: Vamos à casa do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico de chegada a Jerusalém. O peregrino se alegra com o convite “Vamos à casa do Senhor” e já tem os pés nas portas da cidade. Jerusalém é cidade bem unida, para onde sobem as tribos para louvar o Senhor; ali estão os tronos da justiça da casa de Davi. Convida a pedir a paz para Jerusalém: “Haja paz dentro dos teus muros”. Por amor dos irmãos e da casa de Deus, deseja-lhe todo bem.",
+    "alegorico": "Jerusalém é figura da Igreja, “cidade bem compacta” na unidade da fé, e da Jerusalém celeste (Ap 21). A liturgia usa o salmo no 1º domingo do Advento e na dedicação das igrejas.",
+    "moral": "A alegria de ir à igreja e à Missa com os irmãos é sinal de fé viva. O salmo convida a rezar pela paz e pela unidade da Igreja e da cidade, por amor aos irmãos.",
+    "anagogico": "A peregrinação termina na Jerusalém do alto, onde os pés estarão para sempre nas suas portas, na paz plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Que alegria quando me disseram: “Vamos à casa do Senhor!” Os nossos pés já pisam as tuas portas, Jerusalém. Para lá sobem as tribos do Senhor, para louvar o seu nome. Pedi a paz para Jerusalém. Por amor dos meus irmãos, direi: a paz esteja contigo.",
+    "meditatio_perguntas": [
+      "Vou à Missa com alegria ou por obrigação?",
+      "Rezo pela unidade e pela paz da Igreja?",
+      "Convido outros a “ir à casa do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, que alegria ir à tua casa! Dá paz à tua Igreja e à minha cidade. Por amor dos meus irmãos, peço-te todo bem. Conduz-me um dia às portas da Jerusalém celeste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu me alegrei, porque me disseram: \"Iremos à casa do Senhor.\"",
+      "ref": "Sl 121,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

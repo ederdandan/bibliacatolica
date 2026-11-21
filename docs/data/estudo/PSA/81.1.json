@@ -1,0 +1,49 @@
+{
+  "id": "PSA.81.1",
+  "livro": "PSA",
+  "titulo": "Deus julga os juízes",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 81,1-8",
+  "ini": {
+    "c": 81,
+    "v": 1
+  },
+  "fim": {
+    "c": 81,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Deus julga os juízes: defendei o pobre e o órfão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cena de tribunal celeste: Deus se levanta na assembleia divina e julga os “deuses”, isto é, os juízes e poderosos da terra. Acusa-os: até quando julgareis injustamente e favorecereis os ímpios? Ordena: defendei o fraco e o órfão, fazei justiça ao humilde e ao pobre, libertai o indigente. Mas eles não entendem e andam nas trevas, e os fundamentos da terra vacilam. “Eu disse: Sois deuses, todos filhos do Altíssimo; mas morrereis como qualquer homem.” O salmista conclui: “Levanta-te, ó Deus, julga a terra”.",
+    "alegorico": "Jesus cita o v. 6 (Jo 10,34-36) para defender o seu título de Filho de Deus: se a Escritura chama “deuses” aos que receberam a palavra de Deus, quanto mais ele, que o Pai santificou e enviou. Os Padres viram aqui também a vocação do homem à divinização pela graça.",
+    "moral": "Toda autoridade vem de Deus e será julgada por ele, sobretudo pelo modo como trata os pobres. O salmo é exame para quem tem qualquer poder sobre os outros: a injustiça abala “os fundamentos da terra”.",
+    "anagogico": "“Levanta-te, ó Deus, julga a terra, pois todas as nações te pertencem”: o salmo aponta para o juízo de Cristo sobre todos os poderes, e para o Reino onde a justiça será plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus se levanta na assembleia divina, julga no meio dos deuses. Até quando julgareis injustamente? Defendei o oprimido e o órfão, fazei justiça ao humilde e ao pobre. Eu disse: Sois deuses, todos filhos do Altíssimo. Levanta-te, ó Deus, julga a terra.",
+    "meditatio_perguntas": [
+      "Como uso a autoridade que tenho sobre outras pessoas?",
+      "Defendo os fracos, ou favoreço os mais fortes por conveniência?",
+      "Vivo a dignidade de “filho do Altíssimo” que recebi no Batismo?"
+    ],
+    "oratio_guia": "Senhor, juiz de toda a terra, faz-me justo com os pequenos e com os pobres. Livra-me de favorecer o injusto por medo ou interesse. Tu me fizeste teu filho: dá-me viver com essa dignidade. Levanta-te e julga a terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te, ó Deus, julga a terra, pois de direito são tuas todas as gentes.",
+      "ref": "Sl 81,8"
+    }
+  },
+  "ancoras": {
+    "81:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus em Jo 10,34. “Deuses” designa aqui os juízes, que exerciam uma função divina (cf. Ex 22,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.149.1",
+  "livro": "PSA",
+  "titulo": "Cântico novo dos fiéis",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 149,1-9",
+  "ini": {
+    "c": 149,
+    "v": 1
+  },
+  "fim": {
+    "c": 149,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Cantai ao Senhor um cântico novo: ele ama o seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino da comunidade dos fiéis (hassidim). Convida a cantar um cântico novo na assembleia dos santos; Israel se alegra no seu Criador, os filhos de Sião no seu Rei, com danças, tamborins e cítaras, porque o Senhor ama o seu povo e coroa os humildes com a salvação. Os fiéis exultem, até no leito. Com os louvores de Deus na boca e espadas de dois gumes nas mãos, executarão o juízo sobre as nações e os seus reis: é a glória de todos os seus fiéis.",
+    "alegorico": "O cântico novo é o canto da Igreja redimida. A “espada de dois gumes” foi lida pelos Padres como a Palavra de Deus (Hb 4,12; Ap 1,16), com a qual a Igreja vence o mal: não a guerra, mas o anúncio.",
+    "moral": "O louvor cristão é alegre, comunitário e corporal (danças e música). Lembra que Deus ama o seu povo e exalta os humildes. A luta do cristão é espiritual, com a Palavra.",
+    "anagogico": "O juízo final, em que os santos participam com Cristo (1Cor 6,2), estabelecerá a justiça; o cântico novo é o canto eterno dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cantai ao Senhor um cântico novo, o seu louvor na assembleia dos fiéis. Alegre-se Israel no seu Criador, exultem os filhos de Sião no seu Rei. Porque o Senhor ama o seu povo e coroa os humildes com a vitória. Exultem os fiéis na glória.",
+    "meditatio_perguntas": [
+      "Celebro a fé com alegria na assembleia?",
+      "Uso a “espada” da Palavra de Deus na luta contra o mal em mim?",
+      "Acredito que o Senhor me ama e coroa os humildes?"
+    ],
+    "oratio_guia": "Senhor, tu amas o teu povo e coroas os humildes. Quero cantar-te um cântico novo com toda a Igreja. Arma-me com a tua Palavra para vencer o mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque o Senhor ama o seu povo e glorifica os humildes com a vitória.",
+      "ref": "Sl 149,4"
+    }
+  },
+  "ancoras": {
+    "149:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres interpretaram a espada como a Palavra de Deus (cf. Ef 6,17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

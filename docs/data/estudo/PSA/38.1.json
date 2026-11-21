@@ -1,0 +1,57 @@
+{
+  "id": "PSA.38.1",
+  "livro": "PSA",
+  "titulo": "Brevidade da vida: o homem passa como sombra",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 38,1-14",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O homem passa como sombra; a minha esperança está em ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmista decidiu calar diante do ímpio para não pecar com a língua, mas o silêncio fez crescer a dor, até que o fogo interior o fez falar. Pede a Deus que lhe ensine a medida dos seus dias: a vida é um palmo, um sopro; o homem passa como sombra, amontoa e não sabe quem recolherá. “Que posso esperar? A minha esperança está em ti.” Pede perdão, reconhece o castigo e suplica com lágrimas, lembrando que é hóspede e peregrino na terra, como os seus pais.",
+    "alegorico": "Cristo assumiu a fragilidade humana e calou-se diante dos acusadores (Mt 26,63). Hb 11,13 aplica aos patriarcas a condição de “peregrinos e hóspedes na terra”: a Igreja vive como peregrina, a caminho da pátria.",
+    "moral": "Lembrar a brevidade da vida não é pessimismo, mas sabedoria: liberta da ânsia de acumular e reorienta a esperança para Deus. O salmo também educa no uso da língua: há silêncios que evitam o pecado e há palavras que devem ser ditas a Deus.",
+    "anagogico": "Somos hóspedes e peregrinos: a nossa cidadania está nos céus (Fl 3,20). A esperança posta em Deus não decepciona quando a sombra desta vida passar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu disse: vigiarei os meus caminhos para não pecar com a língua. Faz-me conhecer, Senhor, o meu fim e o número dos meus dias. Todo homem não passa de um sopro, passa como sombra. E agora, Senhor, que posso esperar? A minha esperança está em ti. Sou diante de ti um hóspede, um peregrino.",
+    "meditatio_perguntas": [
+      "Vivo como se fosse ficar para sempre nesta terra?",
+      "Que bens acumulo sem saber para quem ficarão?",
+      "Em quem está, de fato, a minha esperança?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a contar os meus dias. A minha vida é um sopro diante de ti, mas a minha esperança está em ti. Guarda a minha língua, perdoa os meus pecados e faz-me viver como peregrino a caminho da tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "E agora. Senhor, que posso eu esperar? A minha confiança está em ti.",
+      "ref": "Sl 38,8"
+    }
+  },
+  "ancoras": {
+    "38:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Idithun era um dos chefes dos cantores do Templo (1Cr 16,41).",
+        "origem": "ia"
+      }
+    },
+    "38:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lv 25,23: “a terra é minha, e vós sois para mim estrangeiros e hóspedes”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

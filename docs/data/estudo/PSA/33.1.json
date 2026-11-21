@@ -1,0 +1,57 @@
+{
+  "id": "PSA.33.1",
+  "livro": "PSA",
+  "titulo": "Provai e vede como o Senhor é bom",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 33,1-23",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Provai e vede como o Senhor é bom",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo alfabético de ação de graças, atribuído a Davi quando escapou do rei de Gat fingindo-se louco. O salmista bendiz o Senhor em todo tempo e convida os humildes a engrandecê-lo com ele: buscou o Senhor e foi libertado de todos os temores. O anjo do Senhor acampa ao redor dos que o temem. “Provai e vede como o Senhor é bom.” Depois, como mestre, ensina o temor de Deus: guardar a língua, evitar o mal, fazer o bem e buscar a paz. O Senhor está perto dos corações contritos e guarda os ossos do justo.",
+    "alegorico": "A Igreja antiga cantava o v. 9 durante a Comunhão: “Provai e vede” é convite à Eucaristia (cf. 1Pd 2,3). Jo 19,36 vê cumprido o v. 21 no Crucificado: nenhum osso lhe foi quebrado.",
+    "moral": "O salmo é uma escola de vida: o louvor constante, a confiança nas tribulações e um programa concreto: guardar a língua da mentira, afastar-se do mal, fazer o bem, buscar e perseguir a paz (citado em 1Pd 3,10-12). Deus está especialmente perto dos que têm o coração ferido.",
+    "anagogico": "“Os que buscam o Senhor não terão falta de bem algum”: a plenitude desta promessa é a vida eterna, onde os santos saborearão para sempre a bondade de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendirei o Senhor em todo tempo; o seu louvor estará sempre na minha boca. Busquei o Senhor, e ele me ouviu. O anjo do Senhor acampa ao redor dos que o temem. Provai e vede como o Senhor é bom. O Senhor está perto dos que têm o coração contrito.",
+    "meditatio_perguntas": [
+      "Bendigo a Deus “em todo tempo”, ou só quando as coisas vão bem?",
+      "Que experiência concreta da bondade de Deus posso “provar” hoje?",
+      "Como guardo a minha língua e busco a paz no meu ambiente?"
+    ],
+    "oratio_guia": "Senhor, quero bendizer-te em todo tempo. Faz-me provar e ver como és bom, especialmente na Eucaristia. Guarda a minha língua do mal, ensina-me a buscar a paz e fica perto do meu coração quando estiver ferido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Gostai e vede como o Senhor é bom",
+      "ref": "Sl 33,9"
+    }
+  },
+  "ancoras": {
+    "33:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 21,11-16. O título chama o rei de “Abimeleque”, provavelmente título dinástico dos reis filisteus; em 1Sm o nome é Aquis.",
+        "origem": "ia"
+      }
+    },
+    "33:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Jo 19,36 junto com Ex 12,46 (o cordeiro pascal): nenhum osso do Crucificado foi quebrado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

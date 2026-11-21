@@ -1,0 +1,57 @@
+{
+  "id": "PSA.36.1",
+  "livro": "PSA",
+  "titulo": "Não invejes os maus: a herança dos mansos",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 36,1-40",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Entrega ao Senhor o teu caminho: os mansos possuirão a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo sapiencial alfabético, sobre o escândalo da prosperidade dos maus. O ancião aconselha: não te irrites nem invejes os malfeitores, que murcharão como a erva. Confia no Senhor e faz o bem; põe nele as tuas delícias e ele realizará os desejos do teu coração; entrega-lhe o teu caminho e ele agirá. Os mansos possuirão a terra; o pouco do justo vale mais que as riquezas dos ímpios. O justo, se cair, não fica prostrado, porque o Senhor o segura pela mão. A salvação dos justos vem do Senhor.",
+    "alegorico": "Jesus cita o v. 11 na bem-aventurança: “Felizes os mansos, porque possuirão a terra” (Mt 5,5). A terra prometida torna-se o Reino dos céus, e o justo manso é Cristo, que não se irritou contra os que o oprimiam.",
+    "moral": "O salmo é remédio contra a inveja e a irritação diante da injustiça. Propõe paciência, confiança e prática do bem, sem pressa de ver a punição dos maus. Destaca a generosidade (“o justo é compassivo e dá”) e a interioridade: “a lei de Deus está no seu coração”.",
+    "anagogico": "“A herança dos justos será eterna”: a terra que os mansos possuirão é o novo céu e a nova terra, onde habita a justiça (2Pd 3,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Não te irrites por causa dos malfeitores. Confia no Senhor e faz o bem. Põe as tuas delícias no Senhor, e ele te dará o que deseja o teu coração. Entrega ao Senhor o teu caminho, confia nele, e ele agirá. Os mansos possuirão a terra. Ainda que caia, não ficará prostrado, porque o Senhor o segura pela mão.",
+    "meditatio_perguntas": [
+      "Tenho inveja de quem prospera fazendo o mal?",
+      "Que “caminho” preciso entregar ao Senhor neste momento?",
+      "O que significa para mim ser “manso” no dia a dia?"
+    ],
+    "oratio_guia": "Senhor, entrego-te o meu caminho. Livra-me da irritação e da inveja. Dá-me pôr em ti as minhas delícias e fazer o bem com paciência. Quando eu cair, segura-me pela mão. Faz-me manso, para possuir a tua terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Encomenda ao Senhor o teu caminho, espera nele, e ele agirá.",
+      "ref": "Sl 36,5"
+    }
+  },
+  "ancoras": {
+    "36:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus em Mt 5,5. “Mansos” traduz ‘anawim, os pobres e humildes que confiam em Deus.",
+        "origem": "ia"
+      }
+    },
+    "36:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Afirmação de sabedoria tradicional; o livro de Jó e o Sl 72 mostram que a experiência pode ser mais complexa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

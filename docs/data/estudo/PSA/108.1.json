@@ -1,0 +1,57 @@
+{
+  "id": "PSA.108.1",
+  "livro": "PSA",
+  "titulo": "Súplica contra o acusador",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 108,1-31",
+  "ini": {
+    "c": 108,
+    "v": 1
+  },
+  "fim": {
+    "c": 108,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Em troca do meu amor, acusam-me; eu, porém, rezo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica de um inocente atacado por acusadores mentirosos, a quem amou e por quem rezou: “em troca do meu amor, me acusam; eu, porém, oro”. A parte central (vv. 6-20) é uma longa série de maldições contra o acusador — talvez as palavras que os inimigos dizem contra o salmista, ou as que ele lança contra eles: que seja condenado, que outro ocupe o seu cargo, que os filhos fiquem órfãos. A razão: não se lembrou de praticar a misericórdia e perseguiu o pobre. Depois o salmista volta-se para Deus: pobre e ferido, como sombra que declina, pede salvação. “Que eles amaldiçoem, mas tu abençoa.” Deus põe-se à direita do pobre para salvá-lo.",
+    "alegorico": "S. Pedro aplica o v. 8 a Judas: “que outro ocupe o seu cargo” (At 1,20), base da eleição de Matias. Cristo é o justo que respondeu ao ódio com a oração (Lc 23,34). A Liturgia das Horas omite os versículos imprecatórios na oração pública.",
+    "moral": "O salmo mostra a profundidade da dor de quem é traído e caluniado. A resposta cristã está no v. 4: “eu, porém, oro”, e no v. 28: “eles amaldiçoem, tu abençoa”. As imprecações, lidas à luz do Evangelho, tornam-se rejeição do mal e confiança de que Deus fará justiça; não autorizam a maldição pessoal.",
+    "anagogico": "Deus “se põe à direita do pobre”: no juízo, o Senhor defenderá os pequenos contra os falsos acusadores, e o acusador por excelência, Satanás, será lançado fora (Ap 12,10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, meu louvor, não te cales. Abriram contra mim uma boca enganadora. Em troca do meu amor, acusam-me; eu, porém, oro. Salva-me, pois sou pobre e o meu coração está ferido. Que eles amaldiçoem, mas tu abençoa. Ele se põe à direita do pobre.",
+    "meditatio_perguntas": [
+      "Como respondo quando o meu bem é pago com o mal?",
+      "Consigo rezar pelos que me acusam injustamente?",
+      "Já pronunciei, mesmo interiormente, maldições contra alguém?"
+    ],
+    "oratio_guia": "Senhor, quando me pagam o amor com ódio, dá-me continuar rezando. Que eles amaldiçoem; tu abençoa. Põe-te à minha direita, pois sou pobre e o meu coração está ferido. Ensina-me a abençoar os que me fazem mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em paga do meu amor, acusavam-me; eu porém orava.",
+      "ref": "Sl 108,4"
+    }
+  },
+  "ancoras": {
+    "108:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em At 1,20 a respeito de Judas.",
+        "origem": "ia"
+      }
+    },
+    "108:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Muitos estudiosos entendem os vv. 6-19 como a maldição que os inimigos lançam contra o salmista, citada por ele.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

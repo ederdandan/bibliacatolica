@@ -1,0 +1,49 @@
+{
+  "id": "PSA.116.1",
+  "livro": "PSA",
+  "titulo": "Louvai o Senhor, todas as nações",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 116,1-2",
+  "ini": {
+    "c": 116,
+    "v": 1
+  },
+  "fim": {
+    "c": 116,
+    "v": 2
+  },
+  "liturgia": {
+    "tema_central": "Louvai o Senhor, todas as nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo mais curto do Saltério: apenas dois versículos. Todas as nações e todos os povos são convidados a louvar o Senhor, porque é forte a sua misericórdia para conosco, e a sua fidelidade permanece para sempre.",
+    "alegorico": "S. Paulo cita o v. 1 (Rm 15,11) para mostrar que, em Cristo, os gentios louvam a Deus pela sua misericórdia. A misericórdia confirmada sobre Israel transborda para todos os povos na Igreja.",
+    "moral": "Brevíssimo, o salmo pode ser uma oração do dia inteiro. Lembra que a fé é universal e que a misericórdia recebida deve ser anunciada a todos.",
+    "anagogico": "A fidelidade do Senhor que permanece “eternamente” garante o louvor final de todas as nações reunidas diante de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Nações, louvai todas o Senhor; povos todos, glorificai-o. Porque sobre nós foi confirmada a sua misericórdia, e a fidelidade do Senhor permanece eternamente.",
+    "meditatio_perguntas": [
+      "Rezo pela evangelização de todos os povos?",
+      "Onde experimento hoje a misericórdia “forte” de Deus?",
+      "Confio na fidelidade de Deus que permanece?"
+    ],
+    "oratio_guia": "Senhor, que todos os povos te louvem! A tua misericórdia é forte para conosco e a tua fidelidade permanece para sempre. Faz de mim testemunha dela. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nações, louvai todas o Senhor, ó povos todos glorificai-o",
+      "ref": "Sl 116,1"
+    }
+  },
+  "ancoras": {
+    "116:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 15,11. É o capítulo central da Bíblia em muitas contagens.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

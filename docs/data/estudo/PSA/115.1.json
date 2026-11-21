@@ -1,0 +1,57 @@
+{
+  "id": "PSA.115.1",
+  "livro": "PSA",
+  "titulo": "Que darei ao Senhor? O cálice da salvação",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 115,1-10",
+  "ini": {
+    "c": 115,
+    "v": 1
+  },
+  "fim": {
+    "c": 115,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Que darei ao Senhor? Tomarei o cálice da salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Continuação da ação de graças anterior. O salmista manteve a fé mesmo quando dizia “estou muito aflito” e “todo homem é mentiroso”. Agora pergunta: “Que darei ao Senhor por todos os benefícios que me fez?” Responde: “Tomarei o cálice da salvação e invocarei o nome do Senhor”, cumprirei os votos diante do povo. “É preciosa aos olhos do Senhor a morte dos seus santos.” Declara-se servo, filho da serva, e agradece porque Deus quebrou as suas cadeias; oferecerá um sacrifício de louvor no Templo.",
+    "alegorico": "Este salmo foi cantado por Jesus na Última Ceia (Hallel), quando tomou o cálice da nova Aliança. O sacerdote, na forma antiga da Missa, rezava os vv. 3-4 antes de comungar o Sangue de Cristo. O v. 6 é cantado nas festas dos mártires: a sua morte é preciosa porque unida à de Cristo.",
+    "moral": "A gratidão verdadeira não paga a Deus: recebe ainda mais (“tomarei o cálice”). Retribuir é invocar o nome do Senhor e cumprir os compromissos. O salmo também consola diante da morte dos fiéis: ela é preciosa para Deus.",
+    "anagogico": "A morte dos santos, preciosa aos olhos de Deus, é passagem para a vida; o sacrifício de louvor continua na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Que darei ao Senhor por todos os benefícios que me fez? Tomarei o cálice da salvação e invocarei o nome do Senhor. É preciosa aos olhos do Senhor a morte dos seus santos. Senhor, sou teu servo; quebraste as minhas cadeias. Oferecer-te-ei um sacrifício de louvor.",
+    "meditatio_perguntas": [
+      "Como respondo aos benefícios de Deus?",
+      "Vivo a Eucaristia como o “cálice da salvação” que recebo em gratidão?",
+      "Que cadeias o Senhor já quebrou em mim?"
+    ],
+    "oratio_guia": "Senhor, que te darei por tudo o que me deste? Tomo o cálice da salvação e invoco o teu nome. Sou teu servo: quebraste as minhas cadeias. Aceita o meu sacrifício de louvor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tomarei o cálice da salvação, e invocarei o nome do Senhor.",
+      "ref": "Sl 115,4"
+    }
+  },
+  "ancoras": {
+    "115:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "S. Paulo cita o v. 1 (grego: “cri, por isso falei”) em 2Cor 4,13.",
+        "origem": "ia"
+      }
+    },
+    "115:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Usado nas missas dos mártires.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

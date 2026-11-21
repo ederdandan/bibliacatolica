@@ -1,0 +1,49 @@
+{
+  "id": "PSA.49.1",
+  "livro": "PSA",
+  "titulo": "O verdadeiro culto: sacrifício de louvor",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 49,1-23",
+  "ini": {
+    "c": 49,
+    "v": 1
+  },
+  "fim": {
+    "c": 49,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Oferece a Deus um sacrifício de louvor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus, resplandecendo desde Sião, convoca céus e terra para julgar o seu povo. Não o repreende pela falta de sacrifícios: todos os animais já são seus; não come carne de touros. O que ele quer é um sacrifício de louvor, o cumprimento dos votos e a oração confiante: “invoca-me no dia da angústia, e eu te livrarei”. Ao pecador que recita os mandamentos mas vive com ladrões e adúlteros e calunia o irmão, Deus diz: “Pensaste que eu era como tu?”. Quem oferece louvor e anda reto verá a salvação de Deus.",
+    "alegorico": "Cristo é o único sacrifício agradável ao Pai, e por ele oferecemos “sem cessar a Deus um sacrifício de louvor” (Hb 13,15). A Eucaristia, “ação de graças”, é o sacrifício de louvor da nova Aliança.",
+    "moral": "O salmo critica um culto formal que não muda a vida: recitar a lei com a boca e trair o irmão com a língua. Deus não precisa de nada; quer gratidão, fidelidade e coerência. É um exame sobre a relação entre a Missa e a semana.",
+    "anagogico": "O Deus que vem e “não ficará em silêncio” é o Juiz que virá na glória. Ao que caminha com retidão será mostrada a salvação plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus, o Senhor, falou e convocou a terra. Ouve, meu povo: não te repreendo pelos teus sacrifícios. Porventura comerei a carne dos touros? Oferece a Deus um sacrifício de louvor. Invoca-me no dia da angústia: eu te livrarei, e tu me glorificarás.",
+    "meditatio_perguntas": [
+      "O meu culto a Deus muda a minha maneira de viver?",
+      "Agradeço a Deus, ou só peço?",
+      "Falo mal do meu irmão enquanto professo a fé com a boca?"
+    ],
+    "oratio_guia": "Senhor, tu não precisas dos meus dons, mas desejas o meu coração agradecido. Aceita o meu sacrifício de louvor, unido ao de Cristo. Que a minha vida seja coerente com o que celebro. No dia da angústia, livra-me. Amém.",
+    "contemplatio_foco": {
+      "texto": "Oferece a Deus um sacrifício de louvor, e paga ao Altíssimo os teus votos.",
+      "ref": "Sl 49,14"
+    }
+  },
+  "ancoras": {
+    "49:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “sacrifício de louvor” (todah) era oferta de ação de graças; a expressão é retomada em Hb 13,15 e na Oração Eucarística I (“sacrificium laudis”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

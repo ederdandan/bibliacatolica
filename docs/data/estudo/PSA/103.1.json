@@ -1,0 +1,57 @@
+{
+  "id": "PSA.103.1",
+  "livro": "PSA",
+  "titulo": "Hino ao Criador",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 103,1-35",
+  "ini": {
+    "c": 103,
+    "v": 1
+  },
+  "fim": {
+    "c": 103,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Envias o teu espírito e renovas a face da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Grande hino ao Criador, paralelo ao relato de Gênesis 1. Deus está vestido de luz, estende os céus como tenda, cavalga as nuvens, faz dos ventos mensageiros. Fundou a terra, pôs limites às águas, faz brotar fontes onde bebem os animais e cantam as aves. Faz crescer a erva para o gado e as plantas para o homem: o pão que fortalece, o vinho que alegra, o azeite que faz brilhar o rosto. Criou a lua e o sol; à noite saem as feras, de dia o homem vai ao trabalho. “Quão numerosas são as tuas obras! Tudo fizeste com sabedoria.” Todas as criaturas esperam de Deus o alimento; se ele retira o sopro, morrem; “envias o teu espírito, e são criados, e renovas a face da terra”.",
+    "alegorico": "A liturgia canta os vv. 30-31 em Pentecostes: o Espírito Santo é o Criador e renovador de todas as coisas. O pão, o vinho e o azeite são os elementos dos sacramentos (Eucaristia, Unção). Hb 1,7 cita o v. 4 a respeito dos anjos.",
+    "moral": "O salmo educa o olhar contemplativo diante da criação e a responsabilidade ecológica: tudo depende de Deus e foi feito com sabedoria. O trabalho humano tem o seu lugar no ritmo do mundo. Convida a cantar a Deus “enquanto eu existir”.",
+    "anagogico": "“Renovas a face da terra”: o Espírito que criou também fará novas todas as coisas (Ap 21,5), na nova criação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendiz, ó minha alma, o Senhor! Senhor, meu Deus, como és grande! Envolto em luz como num manto. Fazes brotar o pão da terra e o vinho que alegra o coração do homem. Quão numerosas são as tuas obras, Senhor! Tudo fizeste com sabedoria. Envias o teu espírito, e são criados, e renovas a face da terra.",
+    "meditatio_perguntas": [
+      "Contemplo a sabedoria de Deus nas suas obras?",
+      "Como cuido da criação que depende do sopro de Deus?",
+      "Em que área da minha vida peço que o Espírito “renove a face”?"
+    ],
+    "oratio_guia": "Senhor, meu Deus, como és grande! Tudo fizeste com sabedoria. Obrigado pelo pão, pelo vinho e pela beleza do mundo. Envia o teu Espírito e renova a face da terra e o meu coração. Cantarei a ti enquanto eu existir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se envias o teu espírito, são criados, e renovas a face da terra.",
+      "ref": "Sl 103,30"
+    }
+  },
+  "ancoras": {
+    "103:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 1,7 segundo a versão grega: “faz dos seus anjos ventos”.",
+        "origem": "ia"
+      }
+    },
+    "103:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmo responsorial de Pentecostes; inspira a oração “Vinde, Espírito Santo... e renovareis a face da terra”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

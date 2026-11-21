@@ -1,0 +1,57 @@
+{
+  "id": "PSA.37.1",
+  "livro": "PSA",
+  "titulo": "Súplica do pecador na doença",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 37,1-23",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Senhor, não me abandones: confissão do pecador doente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Terceiro salmo penitencial. Um homem gravemente doente reconhece que o seu sofrimento está ligado ao pecado: as setas de Deus o atingiram, as culpas passam acima da cabeça como um fardo pesado, as chagas apodrecem por causa da sua loucura. Anda curvado e triste, o coração palpita, falta-lhe a luz dos olhos. Amigos e parentes se afastam; os inimigos armam ciladas. Ele se cala como um surdo-mudo e espera só em Deus. Confessa a culpa e suplica: “Não me abandones, Senhor; vem depressa em meu socorro”.",
+    "alegorico": "Os Padres viram aqui Cristo que carregou os nossos pecados, “ferido por Deus e humilhado” (Is 53,4), abandonado pelos amigos (Lc 23,49) e calado diante dos acusadores como um mudo (Mt 26,63).",
+    "moral": "O salmo ensina a assumir a responsabilidade pelo pecado sem cair no desespero. Mostra também a solidão que o sofrimento pode trazer e o valor do silêncio confiante diante das acusações. A última palavra é uma súplica cheia de esperança.",
+    "anagogico": "O Senhor, “salvação minha”, é aquele que libertará definitivamente o homem do pecado e da doença, quando já não houver luto, nem pranto, nem dor (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, não me repreendas na tua ira. As minhas culpas passam acima da minha cabeça como um fardo pesado. Senhor, diante de ti está todo o meu desejo, e o meu gemido não te é oculto. Eu confesso a minha culpa. Não me abandones, Senhor; vem depressa em meu socorro.",
+    "meditatio_perguntas": [
+      "Que “fardos” de culpa ainda carrego sem entregá-los a Deus?",
+      "Como vivo a solidão quando os outros se afastam no meu sofrimento?",
+      "Acredito que o meu gemido não é oculto para Deus?"
+    ],
+    "oratio_guia": "Senhor, diante de ti está todo o meu desejo e o meu gemido. Confesso o meu pecado e não escondo a minha fraqueza. Não me abandones, meu Deus, não fiques longe de mim. Vem depressa em meu socorro, Senhor, minha salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não me desampares, Senhor! Deus meu, não te apartes de mim!",
+      "ref": "Sl 37,22"
+    }
+  },
+  "ancoras": {
+    "37:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Para memória”: talvez um salmo usado com a oferta memorial (azkarah) de Lv 2,2; ou para “lembrar” a Deus a súplica.",
+        "origem": "ia"
+      }
+    },
+    "37:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 23,49: os conhecidos de Jesus “ficaram de longe” durante a crucifixão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

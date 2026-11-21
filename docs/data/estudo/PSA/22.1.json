@@ -1,0 +1,57 @@
+{
+  "id": "PSA.22.1",
+  "livro": "PSA",
+  "titulo": "O Senhor é o meu pastor",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 22,1-6",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é o meu pastor, nada me faltará",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo mais conhecido do Saltério descreve Deus com duas imagens. Primeiro, o pastor: conduz a ovelha a pastos verdes e águas tranquilas, reconforta-a, guia-a por caminhos retos e a acompanha no vale escuro com o cajado. Depois, o anfitrião: prepara a mesa diante dos inimigos, unge a cabeça com óleo, enche o cálice até transbordar. O fiel conclui que a bondade e a graça o seguirão todos os dias, e que habitará na casa do Senhor.",
+    "alegorico": "Jesus é o bom Pastor (Jo 10,11). Os Padres viram no salmo um itinerário batismal: as águas tranquilas são o Batismo, o óleo é a Crisma, a mesa preparada e o cálice transbordante são a Eucaristia. Por isso o salmo era cantado pelos neófitos na Vigília Pascal, a caminho do altar.",
+    "moral": "“Nada me falta”: o salmo convida a uma confiança que liberta da ansiedade. Mesmo no vale tenebroso da doença, da culpa ou do luto, a presença do Pastor consola. Pede-nos também que nos deixemos conduzir, sem querer controlar cada passo.",
+    "anagogico": "“Habitarei na casa do Senhor” para sempre: é a meta da peregrinação, o banquete eterno. O Cordeiro será o Pastor que conduz às fontes da água da vida (Ap 7,17). O salmo é muito usado nas exéquias."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor é o meu pastor, nada me falta. Em verdes pastos me faz descansar, conduz-me às águas tranquilas. Ainda que eu ande pelo vale tenebroso, não temerei mal algum, porque tu estás comigo. Preparas a mesa para mim; o meu cálice transborda. Habitarei na casa do Senhor.",
+    "meditatio_perguntas": [
+      "Em que área da minha vida tenho medo de que algo “me falte”?",
+      "Qual é o “vale tenebroso” que atravesso agora, e como sinto a presença do Pastor nele?",
+      "Como vivo a mesa e o cálice da Eucaristia?"
+    ],
+    "oratio_guia": "Senhor Jesus, bom Pastor, conduz-me aos teus pastos e às tuas águas. No vale escuro, fica comigo. Alimenta-me na tua mesa e enche o meu cálice. Que a tua bondade me acompanhe todos os dias, até que eu habite para sempre na tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor me apascenta: nada me falta",
+      "ref": "Sl 22,1"
+    }
+  },
+  "ancoras": {
+    "22:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “vara” afasta os animais selvagens; o “báculo” (cajado) guia e sustenta a ovelha. Daí o báculo dos bispos, sinal do pastoreio.",
+        "origem": "ia"
+      }
+    },
+    "22:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A unção da cabeça era gesto de hospitalidade honrosa (cf. Lc 7,46). Os Padres viram aqui a Crisma.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

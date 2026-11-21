@@ -1,0 +1,57 @@
+{
+  "id": "PSA.91.1",
+  "livro": "PSA",
+  "titulo": "É bom louvar o Senhor: cântico para o sábado",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 91,1-16",
+  "ini": {
+    "c": 91,
+    "v": 1
+  },
+  "fim": {
+    "c": 91,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "É bom louvar o Senhor: o justo florescerá como a palmeira",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico para o sábado. É bom louvar o Senhor, anunciar de manhã a sua misericórdia e de noite a sua fidelidade, com instrumentos. As obras de Deus alegram o salmista; os seus pensamentos são profundos, e o insensato não os entende. Os ímpios brotam como a erva, mas serão destruídos; Deus é excelso para sempre. O justo florescerá como a palmeira e crescerá como o cedro do Líbano; plantado na casa do Senhor, dará frutos até na velhice, cheio de seiva, para anunciar que o Senhor é reto.",
+    "alegorico": "O sábado cumpre-se no domingo, dia da Ressurreição, quando a Igreja louva de manhã e à tarde. Cristo é a palmeira da vitória e o cedro incorruptível; os Padres viram na palmeira, que dá fruto doce, a Cruz.",
+    "moral": "O louvor é um bem para quem o pratica. O salmo convida a viver plantado na casa de Deus para dar fruto em todas as idades, inclusive na velhice, que pode ser fecunda e cheia de seiva espiritual.",
+    "anagogico": "A palmeira é símbolo da vitória dos mártires no céu (Ap 7,9). O sábado eterno será o louvor sem fim dos justos plantados para sempre nos átrios de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "É bom louvar o Senhor e cantar ao teu nome, ó Altíssimo; anunciar de manhã a tua misericórdia e de noite a tua fidelidade. Tu me alegras, Senhor, com as tuas obras. O justo florescerá como a palmeira, crescerá como o cedro do Líbano. Darão fruto mesmo na velhice.",
+    "meditatio_perguntas": [
+      "Vivo o domingo como dia de louvor?",
+      "Estou “plantado” na casa de Deus ou apenas de passagem?",
+      "Que frutos posso dar na idade e fase em que estou?"
+    ],
+    "oratio_guia": "Senhor, é bom louvar-te de manhã e de noite. Alegra-me com as tuas obras. Planta-me na tua casa, para que eu floresça como a palmeira e dê frutos em todas as idades, anunciando que tu és reto. Amém.",
+    "contemplatio_foco": {
+      "texto": "O justo florescerá como a palma, como o cedro do Líbano crescerá.",
+      "ref": "Sl 91,13"
+    }
+  },
+  "ancoras": {
+    "91:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No Templo, este salmo era cantado no sábado (Mishná, Tamid 7,4).",
+        "origem": "ia"
+      }
+    },
+    "91:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A palmeira e o cedro eram imagens de vitalidade e longevidade; a palmeira dá fruto por mais de cem anos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

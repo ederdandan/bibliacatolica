@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.49",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Zain: a tua palavra é o meu consolo",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,49-56",
+  "ini": {
+    "c": 118,
+    "v": 49
+  },
+  "fim": {
+    "c": 118,
+    "v": 56
+  },
+  "liturgia": {
+    "tema_central": "A tua palavra é o meu consolo na aflição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Zain. O salmista pede que Deus se lembre da palavra dada ao seu servo, que lhe deu esperança: ela o consola na aflição e lhe dá vida. Os soberbos zombam dele, mas ele não se afasta da lei. Lembra-se dos juízos antigos de Deus e se consola; os estatutos divinos são os seus cânticos no lugar do exílio; à noite recorda o nome do Senhor.",
+    "alegorico": "As promessas de Deus encontram o seu “sim” em Cristo (2Cor 1,20). Os cânticos “no lugar da peregrinação” são os salmos que a Igreja canta enquanto caminha para a pátria.",
+    "moral": "A Palavra de Deus é fonte de consolo real, não apenas de dever. Lembrar as promessas e cantá-las sustenta no exílio, nas noites e diante do desprezo.",
+    "anagogico": "Os cânticos do exílio se tornarão cântico eterno na pátria; a esperança dada pela Palavra não será confundida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Lembra-te da palavra dada ao teu servo, com a qual me deste esperança. Isto me consola na aflição: a tua palavra me dá vida. Os teus estatutos são os meus cânticos no lugar da minha peregrinação. De noite lembro-me do teu nome, Senhor.",
+    "meditatio_perguntas": [
+      "Que palavra de Deus me consola nas aflições?",
+      "Lembro-me do nome do Senhor à noite?",
+      "Que promessa de Deus quero recordar a ele na oração?"
+    ],
+    "oratio_guia": "Senhor, lembra-te da palavra que me deste e que me dá esperança. Que ela me console na aflição e seja o meu cântico na peregrinação. À noite me lembrarei do teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Isto me consola na minha aflição, que a tua palavra me dá vida.",
+      "ref": "Sl 118,50"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

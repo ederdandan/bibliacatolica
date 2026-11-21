@@ -1,0 +1,49 @@
+{
+  "id": "PSA.14.1",
+  "livro": "PSA",
+  "titulo": "Quem habitará na tua tenda?",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 14,1-5",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Quem habitará no teu santo monte?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Liturgia de entrada no Templo. O peregrino pergunta: “Senhor, quem morará no teu tabernáculo?”. A resposta é um retrato moral: quem anda sem mancha, pratica a justiça, pensa retamente no coração, não calunia, não faz mal ao próximo, despreza o malvado e honra os que temem a Deus, cumpre os juramentos mesmo com prejuízo, não empresta com usura nem aceita suborno contra o inocente. Quem assim vive jamais vacilará.",
+    "alegorico": "Só Cristo cumpre perfeitamente este retrato; ele é o justo que sobe ao monte santo e entra no santuário do céu. Unidos a ele pela fé e pelos sacramentos, os cristãos são feitos morada de Deus e caminham para o monte de Sião celeste (Hb 12,22).",
+    "moral": "O culto verdadeiro é inseparável da vida moral: não se entra na presença de Deus com a língua caluniadora, o dinheiro injusto ou a palavra quebrada. O salmo é um exame de consciência prático sobre a verdade, a justiça e a palavra dada.",
+    "anagogico": "A tenda e o monte santo figuram a morada eterna, onde só entram os puros (Ap 21,27). Quem pratica estas coisas “não será jamais abalado”: a sua estabilidade é eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, quem morará na tua tenda? Quem habitará no teu monte santo? Quem anda sem mancha e pratica a justiça, quem pensa o que é reto no coração e não calunia com a língua. Quem faz estas coisas jamais vacilará.",
+    "meditatio_perguntas": [
+      "Penso o que é reto no meu coração, ou alimento juízos e rancores?",
+      "Cumpro a palavra dada, mesmo quando me prejudica?",
+      "Como uso o meu dinheiro em relação aos mais fracos?"
+    ],
+    "oratio_guia": "Senhor, desejo habitar na tua casa. Purifica o meu coração, a minha língua e as minhas mãos. Dá-me ser fiel à palavra dada e justo com o próximo, para que eu permaneça firme e um dia habite no teu monte santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, quem terá a sua morada no teu tabernáculo?",
+      "ref": "Sl 14,1"
+    }
+  },
+  "ancoras": {
+    "14:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei proibia o empréstimo com juros a um israelita pobre (Ex 22,25; Lv 25,36-37). O suborno contra o inocente é condenado em Ex 23,8.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

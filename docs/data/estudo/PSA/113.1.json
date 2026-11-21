@@ -1,0 +1,57 @@
+{
+  "id": "PSA.113.1",
+  "livro": "PSA",
+  "titulo": "Quando Israel saiu do Egito; não a nós, Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 113,1-26",
+  "ini": {
+    "c": 113,
+    "v": 1
+  },
+  "fim": {
+    "c": 113,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Quando Israel saiu do Egito; não a nós, Senhor, mas ao teu nome dá glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na Vulgata, une dois salmos hebraicos (114 e 115). A primeira parte celebra o Êxodo com imagens vivas: quando Israel saiu do Egito, o mar viu e fugiu, o Jordão recuou, os montes saltaram como carneiros; a terra treme diante do Deus que transforma a rocha em fonte. A segunda parte (v. 9 em diante): “Não a nós, Senhor, mas ao teu nome dá glória”. Os pagãos perguntam “onde está o vosso Deus?”: o nosso Deus está no céu e faz o que quer, enquanto os ídolos de prata e ouro têm boca e não falam, olhos e não veem; quem os faz torna-se como eles. Israel, os sacerdotes e os que temem o Senhor confiam nele; ele os abençoará, pequenos e grandes.",
+    "alegorico": "A saída do Egito é a figura da Páscoa de Cristo e do Batismo; Dante põe este salmo nos lábios das almas que chegam ao Purgatório, saídas do “Egito” deste mundo. A rocha que se torna fonte é Cristo (1Cor 10,4).",
+    "moral": "“Não a nós, Senhor”: o salmo é o antídoto contra a vanglória. E desmascara a idolatria: tornamo-nos semelhantes àquilo que adoramos. Quem adora ídolos mudos torna-se insensível; quem adora o Deus vivo torna-se vivo.",
+    "anagogico": "“Nós bendiremos o Senhor desde agora e para sempre”: os vivos em Deus o louvarão eternamente; o êxodo final é a passagem desta vida para a terra prometida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando Israel saiu do Egito, o mar viu e fugiu, o Jordão voltou para trás. Treme, ó terra, diante do Senhor, que muda a rocha em fonte. Não a nós, Senhor, não a nós, mas ao teu nome dá a glória. Os ídolos têm boca e não falam. Os que temem o Senhor, confiam no Senhor. Nós bendiremos o Senhor desde agora e para sempre.",
+    "meditatio_perguntas": [
+      "Busco a glória para mim ou para Deus?",
+      "A que ídolos me estou tornando semelhante?",
+      "Que “Egito” Deus me pede para deixar?"
+    ],
+    "oratio_guia": "Não a nós, Senhor, não a nós, mas ao teu nome dá a glória. Livra-me dos ídolos que me tornam surdo e cego. Tira-me do Egito do pecado e transforma a rocha do meu coração em fonte. Bendirei o teu nome para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não a nós, Senhor, não a nós, mas ao teu nome dá (toda) a glória",
+      "ref": "Sl 113,9"
+    }
+  },
+  "ancoras": {
+    "113:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aqui começa o Sl 115 hebraico; os números entre parênteses no texto indicam essa numeração.",
+        "origem": "ia"
+      }
+    },
+    "113:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Serão semelhantes a eles os que os fazem”: princípio bíblico — o homem se transforma naquilo que adora.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

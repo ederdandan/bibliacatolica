@@ -1,0 +1,57 @@
+{
+  "id": "PSA.23.1",
+  "livro": "PSA",
+  "titulo": "Entrada do Rei da glória",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 23,1-10",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Abri-vos, portas: entra o Rei da glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Liturgia de procissão, talvez da entrada da Arca no Templo. Começa proclamando que a terra e tudo o que nela existe pertence ao Senhor, que a fundou sobre os mares. Pergunta-se quem pode subir ao monte do Senhor: o de mãos inocentes e coração puro, que não se entrega à vaidade nem jura falsamente. Na segunda parte, o coro ordena às portas antigas que se levantem para a entrada do Rei da glória; um diálogo pergunta quem ele é: o Senhor forte e poderoso, o Senhor dos exércitos.",
+    "alegorico": "Os Padres leram aqui a Ascensão: Cristo, vencedor da morte, sobe ao céu e os anjos abrem as portas eternas ao Rei da glória com a sua humanidade. Leram também a descida aos infernos, quando Cristo rompe as portas da morte. A liturgia usa o salmo no Domingo de Ramos e na Apresentação do Senhor.",
+    "moral": "Para subir ao monte do Senhor é preciso “mãos inocentes e coração puro”: a pureza de intenção e a retidão das obras. O salmo nos pede também que abramos as “portas” do coração ao Rei da glória, sem resistência.",
+    "anagogico": "As portas que se levantam anunciam a entrada dos redimidos, com Cristo, no santuário celeste. A “geração dos que buscam a face de Deus” será um dia admitida a vê-la."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Do Senhor é a terra e tudo o que ela contém. Quem subirá ao monte do Senhor? O de mãos inocentes e coração puro. Esta é a geração dos que buscam a face de Deus. Levantai, ó portas, os vossos dintéis, para que entre o Rei da glória!",
+    "meditatio_perguntas": [
+      "As minhas mãos e o meu coração estão puros para subir ao monte do Senhor?",
+      "Que portas do meu coração ainda estão fechadas ao Rei da glória?",
+      "Busco de verdade a face de Deus?"
+    ],
+    "oratio_guia": "Senhor, Rei da glória, abro-te as portas do meu coração. Purifica as minhas mãos e o meu coração, para que eu suba ao teu monte. Tu que subiste ao céu, leva-me contigo à casa do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levantai, ó portas, os vossos dintéís; levantai-vos, ó pórticos antigos, para que entre o Rei da glória!",
+      "ref": "Sl 23,7"
+    }
+  },
+  "ancoras": {
+    "23:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 5,8: “Felizes os puros de coração, porque verão a Deus”.",
+        "origem": "ia"
+      }
+    },
+    "23:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição antiga cantava estes versículos na Ascensão e na dedicação das igrejas, batendo à porta com o báculo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.33",
+  "livro": "PSA",
+  "titulo": "Sl 118 · He: ensina-me o caminho dos teus preceitos",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,33-40",
+  "ini": {
+    "c": 118,
+    "v": 33
+  },
+  "fim": {
+    "c": 118,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Ensina-me, Senhor, o caminho dos teus preceitos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe He. Série de pedidos: mostra-me o caminho, dá-me inteligência para guardar a tua lei de todo o coração, guia-me pela senda dos mandamentos. Pede que Deus incline o seu coração para os preceitos e não para a avareza, e desvie os seus olhos de olhar a vaidade. Pede que Deus cumpra a promessa ao seu servo.",
+    "alegorico": "Cristo é o Mestre que ensina o caminho (Mt 22,16) e o próprio Caminho. O Espírito Santo inclina o coração do cristão para a lei do amor.",
+    "moral": "A estrofe nomeia dois grandes obstáculos: a avareza do coração e a vaidade dos olhos. Pede-se a Deus que oriente o coração e guarde o olhar, reconhecendo que sozinhos não conseguimos.",
+    "anagogico": "A promessa feita aos que temem a Deus é a vida eterna; caminhar na senda dos mandamentos conduz a ela."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mostra-me, Senhor, o caminho dos teus estatutos, e eu o seguirei. Dá-me inteligência, e guardarei a tua lei de todo o coração. Inclina o meu coração para os teus preceitos, e não para a avareza. Desvia os meus olhos da vaidade.",
+    "meditatio_perguntas": [
+      "Para onde o meu coração está inclinado: para Deus ou para a avareza?",
+      "Que “vaidades” prendem os meus olhos?",
+      "Peço a Deus que guie o meu caminho?"
+    ],
+    "oratio_guia": "Senhor, mostra-me o teu caminho e inclina o meu coração para ti, não para a avareza. Desvia os meus olhos da vaidade e faz-me viver no teu caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Inclina o meu coração para os teus preceitos, e não para a avareza.",
+      "ref": "Sl 118,36"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

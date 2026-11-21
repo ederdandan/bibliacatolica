@@ -1,0 +1,40 @@
+{
+  "id": "PSA.124.1",
+  "livro": "PSA",
+  "titulo": "Os que confiam no Senhor são como o monte Sião",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 124,1-5",
+  "ini": {
+    "c": 124,
+    "v": 1
+  },
+  "fim": {
+    "c": 124,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Os que confiam no Senhor são como o monte Sião",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os que confiam no Senhor são firmes como o monte Sião, que não se abala. Como os montes cercam Jerusalém, assim o Senhor cerca o seu povo, agora e sempre. O cetro dos ímpios não permanecerá sobre a herança dos justos, para que estes não estendam as mãos ao mal. O salmista pede que Deus faça o bem aos bons e afaste os tortuosos. “A paz esteja sobre Israel.”",
+    "alegorico": "A Igreja, edificada sobre a rocha (Mt 16,18), é firme como Sião. Cristo cerca o seu povo com a sua presença até o fim dos tempos (Mt 28,20).",
+    "moral": "A estabilidade do cristão não vem do temperamento, mas da confiança em Deus. O salmo também alerta: quando o mal domina por muito tempo, os bons podem ser tentados a imitá-lo; Deus os protege dessa tentação.",
+    "anagogico": "A paz sobre Israel e a firmeza eterna de Sião anunciam a estabilidade definitiva dos justos no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os que confiam no Senhor são como o monte Sião: não se abala, permanece para sempre. Como os montes cercam Jerusalém, assim o Senhor cerca o seu povo, agora e para sempre. Faz o bem, Senhor, aos bons e aos retos de coração. A paz esteja sobre Israel!",
+    "meditatio_perguntas": [
+      "Sou firme em Deus ou me abalo com qualquer vento?",
+      "Sinto-me “cercado” pela proteção do Senhor?",
+      "Já fui tentado a imitar o mal por vê-lo prosperar?"
+    ],
+    "oratio_guia": "Senhor, faz-me firme como o monte Sião, confiando em ti. Cerca-me com a tua proteção e guarda-me da tentação de estender a mão ao mal. Dá paz ao teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os que confiam no Senhor são (firmes) como o monte de Sião, que não é abalado, que permanece para sempre.",
+      "ref": "Sl 124,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

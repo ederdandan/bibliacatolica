@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.57",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Het: a minha porção é o Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,57-64",
+  "ini": {
+    "c": 118,
+    "v": 57
+  },
+  "fim": {
+    "c": 118,
+    "v": 64
+  },
+  "liturgia": {
+    "tema_central": "A minha porção é o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Het. O salmista declara que a sua porção é guardar a palavra do Senhor. Implora de todo o coração o favor de Deus. Examinou os seus caminhos e voltou os passos para os preceitos divinos, apressando-se sem demora. Mesmo preso nas redes dos ímpios, não esquece a lei. Levanta-se à meia-noite para louvar; é amigo de todos os que temem a Deus. “A terra está cheia da tua misericórdia.”",
+    "alegorico": "A oração da meia-noite inspirou a vigília monástica (Matinas). Paulo e Silas, presos, cantavam hinos à meia-noite (At 16,25). Cristo é a porção e a herança dos seus discípulos.",
+    "moral": "A conversão começa por examinar os próprios caminhos e voltar sem demora. O salmo valoriza também a amizade espiritual com os que temem a Deus. Escolher Deus como “porção” é a raiz da vocação.",
+    "anagogico": "A herança dos fiéis é o próprio Deus para sempre; a terra cheia da sua misericórdia antecipa o céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A minha porção, Senhor, eu o disse, é guardar as tuas palavras. Examinei os meus caminhos e voltei os meus passos para os teus preceitos. Apressei-me, sem demora. À meia-noite me levanto para te louvar. A terra está cheia, Senhor, da tua misericórdia.",
+    "meditatio_perguntas": [
+      "Examino os meus caminhos com sinceridade?",
+      "Adio a conversão, ou volto “sem demora”?",
+      "Quem são os meus amigos que temem a Deus?"
+    ],
+    "oratio_guia": "Senhor, tu és a minha porção. Examino os meus caminhos e volto para ti sem demora. Dá-me amigos que te temem e um coração que te louva até à meia-noite. Amém.",
+    "contemplatio_foco": {
+      "texto": "Considerei os meus caminhos, e voltei aos meus passos para os teus preceitos.",
+      "ref": "Sl 118,59"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

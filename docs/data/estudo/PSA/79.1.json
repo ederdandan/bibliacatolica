@@ -1,0 +1,57 @@
+{
+  "id": "PSA.79.1",
+  "livro": "PSA",
+  "titulo": "Pastor de Israel, vem visitar a tua vinha",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 79,1-20",
+  "ini": {
+    "c": 79,
+    "v": 1
+  },
+  "fim": {
+    "c": 79,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Pastor de Israel, restaura-nos: visita esta vinha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica do povo do norte (Efraim, Benjamim, Manassés) a Deus, Pastor de Israel sentado sobre os querubins. Um refrão crescente se repete: “Restaura-nos, ó Deus, faz brilhar o teu rosto e seremos salvos”. Deus alimentou o povo com pão de lágrimas. Segue a alegoria da vinha: Deus a trouxe do Egito, expulsou as nações e a plantou; ela cobriu os montes e chegou ao mar e ao rio. Por que derrubaste a sua cerca, para que todos a saqueiem e o javali a devaste? “Volta-te, olha do céu e visita esta vinha.” Pede que a mão de Deus esteja sobre “o filho do homem” que ele fortaleceu.",
+    "alegorico": "Cristo é a verdadeira videira (Jo 15,1), e nós os ramos. O “filho do homem” à direita de Deus é o próprio Jesus, que assumiu este título. A Igreja canta o salmo no Advento: “Desperta o teu poder e vem salvar-nos”.",
+    "moral": "O salmo ensina a pedir a restauração (“faz-nos voltar”) e a reconhecer que sem a cerca de Deus a vinha fica exposta. Pede-nos guardar a vinha da nossa vida com fidelidade: “não nos afastaremos mais de ti”.",
+    "anagogico": "A vinha que estende os ramos até os confins anuncia a Igreja universal, e a face de Deus que brilha é a visão final que salva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Pastor de Israel, escuta. Desperta o teu poder e vem salvar-nos. Ó Deus, restaura-nos, faz brilhar o teu rosto e seremos salvos. Trouxeste uma vinha do Egito e a plantaste. Deus dos exércitos, volta-te, olha do céu e vê, visita esta vinha. Não nos afastaremos mais de ti.",
+    "meditatio_perguntas": [
+      "Que partes da “vinha” da minha vida estão sem cerca, expostas?",
+      "Peço a Deus que me restaure, que me faça voltar a ele?",
+      "Como vivo a união com Cristo, a verdadeira videira?"
+    ],
+    "oratio_guia": "Pastor de Israel, desperta o teu poder e vem salvar-nos. Restaura-nos, faz brilhar o teu rosto. Visita a vinha da minha vida e da tua Igreja; protege o que plantaste. Não nos afastaremos mais de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó Deus, restaura-nos e mostra-nos sempre o teu rosto, para que sejamos salvos.",
+      "ref": "Sl 79,4"
+    }
+  },
+  "ancoras": {
+    "79:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sentado sobre os querubins”: os querubins sobre a Arca eram o trono invisível de Deus (Ex 25,22).",
+        "origem": "ia"
+      }
+    },
+    "79:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Israel como vinha: cf. Is 5,1-7; Jr 2,21; Mt 21,33-43.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

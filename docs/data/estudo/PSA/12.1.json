@@ -1,0 +1,49 @@
+{
+  "id": "PSA.12.1",
+  "livro": "PSA",
+  "titulo": "Até quando, Senhor?",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 12,1-6",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Até quando, Senhor? Da angústia à confiança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quatro vezes o salmista grita “até quando?”: até quando Deus o esquecerá, esconderá a face, até quando a tristeza o roerá e o inimigo prevalecerá. Pede que Deus o olhe e ilumine os seus olhos, para que não adormeça na morte e o inimigo não cante vitória. De repente, sem mudança exterior, a súplica vira confiança: o coração exulta com o auxílio de Deus, e ele canta ao Senhor que o cumulou de bens.",
+    "alegorico": "O grito “até quando?” é o grito dos mártires sob o altar (Ap 6,10) e de toda a Igreja que espera a vinda do Senhor. Cristo, que experimentou o silêncio do Pai na Cruz, transforma essa noite em ação de graças pela Ressurreição.",
+    "moral": "O salmo legitima a oração de lamento: podemos dizer a Deus a nossa impaciência e a nossa dor. Mas ensina também a passar do “até quando” ao “confiei na tua misericórdia”, mesmo antes de ver a solução. A confiança é uma decisão do coração.",
+    "anagogico": "“Ilumina os meus olhos para que não adormeça na morte”: o cristão pede a luz que vence a morte, a do Cristo ressuscitado, que dará aos fiéis o despertar eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Até quando, Senhor, me esquecerás? Até quando esconderás a tua face? Olha para mim, responde-me, ilumina os meus olhos. Eu confiei na tua misericórdia; o meu coração exulte com o teu auxílio, e cantarei ao Senhor.",
+    "meditatio_perguntas": [
+      "Qual é o meu “até quando” diante de Deus neste momento?",
+      "Tenho coragem de lamentar diante de Deus com sinceridade?",
+      "Posso já agradecer, antes de ver a resposta?"
+    ],
+    "oratio_guia": "Senhor, até quando? Tu conheces a minha espera e a minha tristeza. Olha para mim e ilumina os meus olhos. Mesmo sem ver ainda a tua resposta, confio na tua misericórdia e canto a ti, que me cumulaste de bens. Amém.",
+    "contemplatio_foco": {
+      "texto": "Olha para mim, ouve-me, Senhor Deus meu!",
+      "ref": "Sl 12,4"
+    }
+  },
+  "ancoras": {
+    "12:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A repetição de “até quando” (quatro vezes) é típica do lamento bíblico e exprime uma espera que parece não ter fim.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

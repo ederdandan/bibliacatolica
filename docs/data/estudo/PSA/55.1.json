@@ -1,0 +1,57 @@
+{
+  "id": "PSA.55.1",
+  "livro": "PSA",
+  "titulo": "Em Deus confio, nada temerei",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 55,1-13",
+  "ini": {
+    "c": 55,
+    "v": 1
+  },
+  "fim": {
+    "c": 55,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Em Deus confio, nada temerei: as minhas lágrimas no teu odre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza quando os filisteus o prenderam em Gat. Oprimido e difamado todo dia, declara: “Quando o temor me invadir, porei em ti a minha confiança”. Um refrão volta duas vezes: “Em Deus confio, não temerei: que me pode fazer o homem?”. Deus contou os passos do seu exílio, guardou as suas lágrimas no seu odre e as escreveu no seu livro. O salmista promete cumprir os votos, porque Deus o livrou da morte para andar diante dele na luz dos vivos.",
+    "alegorico": "Hb 13,6 retoma o refrão: “O Senhor é o meu auxílio, não temerei; que me pode fazer o homem?”. Cristo, cujas lágrimas o Pai recolheu no Getsêmani, foi tirado da morte para viver na luz da Ressurreição.",
+    "moral": "O salmo não nega o medo, mas mostra o que fazer com ele: transformá-lo em ato de confiança. Nenhuma lágrima se perde diante de Deus; ele conhece cada passo do nosso desterro.",
+    "anagogico": "“Andar na presença de Deus à luz dos viventes”: a vida eterna é caminhar para sempre na luz do rosto de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tem piedade de mim, ó Deus. Quando o temor me invadir, porei em ti a minha confiança. Em Deus confio, não temerei: que me pode fazer o homem? Tu contaste os passos do meu desterro, recolheste as minhas lágrimas no teu odre. Livraste a minha alma da morte, para que eu ande na presença de Deus.",
+    "meditatio_perguntas": [
+      "Qual é o meu maior medo neste momento? Posso transformá-lo em confiança?",
+      "Acredito que Deus guarda cada uma das minhas lágrimas?",
+      "Como ando “na presença de Deus” no meu dia a dia?"
+    ],
+    "oratio_guia": "Senhor, quando o medo me invadir, confiarei em ti. Tu conheces cada passo do meu caminho e recolhes cada lágrima minha. Livra-me da morte e do medo, e faz-me andar diante de ti na luz dos vivos. Amém.",
+    "contemplatio_foco": {
+      "texto": "quando o temor me invadir, eu porei a minha confiança em ti.",
+      "ref": "Sl 55,4"
+    }
+  },
+  "ancoras": {
+    "55:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O odre era o recipiente de couro para líquidos preciosos; a imagem diz que Deus guarda cada lágrima como um tesouro.",
+        "origem": "ia"
+      }
+    },
+    "55:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 21,11-16 (ver também o título do Sl 33).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.112.1",
+  "livro": "PSA",
+  "titulo": "Louvai, servos do Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 112,1-9",
+  "ini": {
+    "c": 112,
+    "v": 1
+  },
+  "fim": {
+    "c": 112,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Ele levanta do pó o fraco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro salmo do Hallel egípcio (112–117 na Vulgata), cantado nas grandes festas e na ceia pascal. Os servos do Senhor são convidados a louvar o seu nome, agora e sempre, do nascer ao pôr do sol. O Senhor está acima de todas as nações e dos céus; mas quem é como ele, que se senta nas alturas e se inclina para olhar a terra? Levanta do pó o fraco, tira do lixo o pobre para fazê-lo sentar com os príncipes; dá à mulher estéril uma casa, mãe feliz de filhos.",
+    "alegorico": "O Magnificat de Maria ecoa este salmo (Lc 1,48-53): Deus olhou para a humildade da sua serva e exaltou os humildes. A estéril que se torna mãe evoca Ana (1Sm 2,8), Isabel e a Igreja, mãe de muitos filhos. Cristo, o Altíssimo, desceu até o pó para nos levantar.",
+    "moral": "A grandeza de Deus se mostra em inclinar-se para os pequenos. O salmo pede que olhemos os pobres com os olhos de Deus e os levantemos. E consola os que se sentem no pó: Deus os vê.",
+    "anagogico": "O pobre sentado entre os príncipes anuncia o banquete do Reino, onde os últimos serão os primeiros (Lc 14,10-11)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai, servos do Senhor, louvai o nome do Senhor. Do nascer ao pôr do sol, seja louvado o nome do Senhor. Quem é como o Senhor nosso Deus, que se inclina para olhar o céu e a terra? Levanta do pó o fraco, tira do lixo o pobre, para fazê-lo sentar com os príncipes.",
+    "meditatio_perguntas": [
+      "Em que “pó” me sinto e preciso que Deus me levante?",
+      "Olho para os pobres como Deus os olha?",
+      "Louvo a Deus do nascer ao pôr do sol?"
+    ],
+    "oratio_guia": "Senhor altíssimo, tu te inclinas para os pequenos. Levanta-me do pó e faz-me sentar contigo. Dá-me o teu olhar sobre os pobres, para que eu também os levante. Seja bendito o teu nome desde agora e para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta do pó o desvalido, tira da imundície o pobre",
+      "ref": "Sl 112,7"
+    }
+  },
+  "ancoras": {
+    "112:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Hallel (Sl 112–117) era cantado na ceia pascal; os Evangelhos dizem que Jesus e os discípulos, depois de cantar os hinos, saíram para o monte das Oliveiras (Mt 26,30).",
+        "origem": "ia"
+      }
+    },
+    "112:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Quase idêntico ao cântico de Ana (1Sm 2,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.97.1",
+  "livro": "PSA",
+  "titulo": "O Senhor manifestou a sua salvação",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 97,1-9",
+  "ini": {
+    "c": 97,
+    "v": 1
+  },
+  "fim": {
+    "c": 97,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O Senhor manifestou a sua salvação aos olhos das nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino de vitória. Cantai ao Senhor um cântico novo, porque fez maravilhas; a sua direita e o seu braço santo lhe deram a vitória. O Senhor manifestou a sua salvação e revelou a sua justiça às nações; lembrou-se da sua fidelidade à casa de Israel. “Todos os confins da terra viram a salvação do nosso Deus.” Toda a terra deve aclamar com cítara, trombetas e cornetas; o mar ressoe, os rios batam palmas e os montes exultem diante do Senhor, porque ele vem julgar a terra.",
+    "alegorico": "Salmo da Missa do dia de Natal: em Cristo, a salvação de Deus foi vista por todos os confins da terra. Ecoa no cântico de Simeão: “os meus olhos viram a tua salvação” (Lc 2,30-32) e no Magnificat (Lc 1,54: “lembrou-se da sua misericórdia”).",
+    "moral": "A alegria cristã nasce de ter visto a salvação de Deus. O salmo convida a celebrá-la com todo o ser e a envolver toda a criação no louvor. Também lembra que a fidelidade de Deus a Israel é a raiz da nossa salvação.",
+    "anagogico": "Os rios que batem palmas e os montes que exultam anunciam a criação renovada no dia em que o Senhor vier julgar a terra com equidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cantai ao Senhor um cântico novo, porque fez maravilhas. O Senhor manifestou a sua salvação; revelou a sua justiça aos olhos das nações. Lembrou-se da sua bondade e fidelidade. Todos os confins da terra viram a salvação do nosso Deus. Aclamai o Senhor, terra inteira.",
+    "meditatio_perguntas": [
+      "Que “maravilhas” Deus fez recentemente na minha vida?",
+      "Como os outros podem ver em mim a salvação de Deus?",
+      "Celebro a minha fé com alegria visível?"
+    ],
+    "oratio_guia": "Senhor, os meus olhos viram a tua salvação em Jesus Cristo. Cantarei um cântico novo pelas tuas maravilhas. Que todos os confins da terra conheçam o teu amor fiel. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todos os confins da terra viram a salvação do nosso Deus.",
+      "ref": "Sl 97,3"
+    }
+  },
+  "ancoras": {
+    "97:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este salmo inspirou o hino “Joy to the World” de Isaac Watts.",
+        "origem": "ia"
+      }
+    },
+    "97:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retoma Is 52,10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

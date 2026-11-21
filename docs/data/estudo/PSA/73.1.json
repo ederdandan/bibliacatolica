@@ -1,0 +1,57 @@
+{
+  "id": "PSA.73.1",
+  "livro": "PSA",
+  "titulo": "Lamento pelo santuário devastado",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 73,1-23",
+  "ini": {
+    "c": 73,
+    "v": 1
+  },
+  "fim": {
+    "c": 73,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Lembra-te do teu povo: lamento pelo santuário devastado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento comunitário após a destruição do Templo pelos babilônios (587 a.C.). O povo pergunta por que Deus o rejeitou para sempre e pede que se lembre da sua comunidade e do monte Sião. Descreve os inimigos derrubando a madeira do santuário a machadadas e ateando fogo; não há mais sinais nem profeta. “Até quando o inimigo blasfemará o teu nome?” Recorda o poder criador e salvador de Deus: abriu o mar, esmagou o Leviatã, fez o dia e a noite, as estações. Pede que não entregue às feras “a vida da tua rola” e que não esqueça os pobres. “Levanta-te, ó Deus, defende a tua causa.”",
+    "alegorico": "A devastação do santuário evoca a Paixão de Cristo, verdadeiro Templo destruído e reconstruído em três dias (Jo 2,19). A Igreja reza este salmo nas perseguições e profanações, confiando que Deus defenderá a sua causa.",
+    "moral": "O salmo ensina a rezar diante das ruínas — da Igreja, da família, da própria vida — com memória das obras de Deus. Lembrar o que Deus fez na criação e na história alimenta a esperança quando “não há mais sinais”.",
+    "anagogico": "A vitória de Deus sobre o Leviatã e o caos antecipa a vitória final sobre o dragão (Ap 12; 20,2) e a construção do santuário definitivo, que nenhum inimigo poderá destruir."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Por que, ó Deus, nos rejeitaste para sempre? Lembra-te do teu povo, que adquiriste desde os tempos antigos. Atearam fogo ao teu santuário. Deus, porém, é o meu rei desde os tempos antigos. Teu é o dia e tua é a noite. Não abandones à fera a vida da tua rola. Levanta-te, ó Deus, defende a tua causa.",
+    "meditatio_perguntas": [
+      "Que “ruínas” vejo hoje na Igreja ou na minha vida?",
+      "Como a memória das obras de Deus me sustenta nas crises?",
+      "Rezo pela Igreja perseguida e profanada?"
+    ],
+    "oratio_guia": "Senhor, rei desde os tempos antigos, lembra-te do teu povo. Olha para as ruínas e reconstrói. Não abandones a tua rola às feras nem esqueças os teus pobres. Levanta-te e defende a tua causa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não abandones ao abutre a vida da tua rola, e não esqueças para sempre as vidas dos teus pobres.",
+      "ref": "Sl 73,19"
+    }
+  },
+  "ancoras": {
+    "73:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leviatã: monstro marinho, símbolo do caos e das potências hostis (cf. Jó 40,25; Is 27,1). Talvez também alusão ao Egito no mar Vermelho.",
+        "origem": "ia"
+      }
+    },
+    "73:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Depois do exílio, a ausência de profecia era sentida como um silêncio de Deus (cf. 1Mc 4,46).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

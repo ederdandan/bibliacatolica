@@ -1,0 +1,40 @@
+{
+  "id": "PSA.130.1",
+  "livro": "PSA",
+  "titulo": "Como criança no colo da mãe",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 130,1-3",
+  "ini": {
+    "c": 130,
+    "v": 1
+  },
+  "fim": {
+    "c": 130,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Como criança no colo da mãe",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um dos salmos mais breves e ternos. O salmista declara não ter coração orgulhoso nem olhar altivo, não buscar grandezas acima das suas forças. Ao contrário, acalmou e silenciou a alma, como uma criança desmamada no colo da mãe: assim está a sua alma. Convida Israel a esperar no Senhor, agora e sempre.",
+    "alegorico": "Jesus convida a ser como crianças para entrar no Reino (Mt 18,3). Cristo, manso e humilde de coração (Mt 11,29), repousava no Pai. Maria, que guardava tudo no coração, é modelo desta alma serena.",
+    "moral": "O salmo propõe a humildade concreta: não querer ser mais do que se é, renunciar à ambição desmedida e ao controle. A paz interior nasce de aceitar ser pequeno diante de Deus, como criança que não exige, mas confia.",
+    "anagogico": "O repouso da criança no colo da mãe antecipa o repouso eterno em Deus, que nos consola “como uma mãe consola o seu filho” (Is 66,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, o meu coração não se ensoberbece, nem os meus olhos são altivos. Não ando atrás de grandezas que me ultrapassam. Acalmei e serenei a minha alma, como criança no colo da sua mãe. Espera, Israel, no Senhor, desde agora e para sempre.",
+    "meditatio_perguntas": [
+      "Busco grandezas que estão acima de mim?",
+      "A minha alma está serena ou agitada diante de Deus?",
+      "Consigo descansar em Deus como criança no colo da mãe?"
+    ],
+    "oratio_guia": "Senhor, livra-me do orgulho e da ambição. Acalma a minha alma, como uma criança no colo da mãe. Quero esperar em ti, agora e sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "acalmei e apaziguei a minha alma, como um menino no regaço de sua mãe",
+      "ref": "Sl 130,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

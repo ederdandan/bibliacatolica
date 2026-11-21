@@ -1,0 +1,57 @@
+{
+  "id": "PSA.101.1",
+  "livro": "PSA",
+  "titulo": "Oração do aflito: o Senhor reconstruirá Sião",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 101,1-29",
+  "ini": {
+    "c": 101,
+    "v": 1
+  },
+  "fim": {
+    "c": 101,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Oração do aflito: tu, Senhor, permaneces para sempre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quinto salmo penitencial. Um aflito derrama a angústia diante de Deus: os dias se desfazem como fumaça, os ossos ardem, o coração seca como erva, esquece até de comer. É como o pelicano do deserto, a coruja das ruínas, o pássaro solitário no telhado. Come cinza como pão e mistura lágrimas à bebida. Mas contrapõe à sua fragilidade a eternidade de Deus: “Tu, Senhor, permaneces para sempre”. Deus terá piedade de Sião e a reconstruirá; ouvirá o gemido dos cativos. Os céus e a terra envelhecerão como roupa, mas Deus é sempre o mesmo, e os seus anos não acabam.",
+    "alegorico": "Hb 1,10-12 aplica os vv. 26-28 a Cristo, o Filho eterno, por quem foram feitos céus e terra e que permanece o mesmo. O pelicano, que segundo a lenda alimentava os filhos com o próprio sangue, tornou-se símbolo de Cristo na Eucaristia (“Pie pellicane”, no Adoro te devote).",
+    "moral": "O salmo dá voz à solidão e à depressão sem vergonha de as dizer a Deus. Ensina a olhar para além da própria fragilidade, para a eternidade e fidelidade de Deus. Também lembra que as dores pessoais se inserem na esperança do povo.",
+    "anagogico": "Céus e terra passarão como uma veste trocada, mas Deus permanece: a criação será renovada, e os filhos dos seus servos habitarão seguros diante dele para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, ouve a minha oração, chegue a ti o meu clamor. Os meus dias se desfazem como fumaça. Sou como um pássaro solitário no telhado. Tu, porém, Senhor, permaneces para sempre. Levanta-te e tem piedade de Sião. O Senhor olhou do céu para ouvir o gemido dos cativos. Tu és sempre o mesmo, e os teus anos não têm fim.",
+    "meditatio_perguntas": [
+      "Em que momentos me senti “pássaro solitário no telhado”?",
+      "Como a eternidade de Deus consola a minha fragilidade?",
+      "Que “cativos” Deus me pede para ouvir e visitar?"
+    ],
+    "oratio_guia": "Senhor, os meus dias passam como sombra, mas tu permaneces para sempre. Ouve o meu clamor na solidão e na angústia. Tem piedade de mim e da tua Igreja. Tu és sempre o mesmo: em ti me apoio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ao contrário, tu, Senhor, permaneces para sempre, e o teu nome por toda as gerações.",
+      "ref": "Sl 101,13"
+    }
+  },
+  "ancoras": {
+    "101:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “pelicano do deserto” talvez seja uma ave noturna; a tradição cristã fez do pelicano um símbolo eucarístico.",
+        "origem": "ia"
+      }
+    },
+    "101:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 1,10-12 a respeito do Filho.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.129.1",
+  "livro": "PSA",
+  "titulo": "Do profundo abismo clamo a ti, Senhor (De profundis)",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 129,1-8",
+  "ini": {
+    "c": 129,
+    "v": 1
+  },
+  "fim": {
+    "c": 129,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Do profundo abismo clamo a ti, Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O “De profundis”, sexto salmo penitencial. Das profundezas do abismo o salmista clama ao Senhor e pede que escute. “Se guardares a lembrança das culpas, Senhor, quem poderá subsistir?” Mas em Deus está o perdão, para que seja temido com reverência. A alma espera no Senhor e na sua palavra, mais que a sentinela espera a aurora. Israel espere no Senhor, porque nele está a misericórdia e abundante redenção; ele redimirá Israel de todas as culpas.",
+    "alegorico": "A Igreja reza este salmo pelos defuntos e nas Vésperas do Natal: Cristo é a abundante redenção, a aurora esperada pela sentinela. Do abismo da morte, Cristo ressuscitou e nos tirou com ele.",
+    "moral": "O salmo une o reconhecimento do pecado à certeza do perdão: Deus não guarda registro das culpas. O perdão gera temor reverente, não medo. A espera da sentinela ensina a vigilância paciente na oração.",
+    "anagogico": "A redenção “de todas as iniquidades” e a aurora esperada anunciam a ressurreição e a luz eterna para os que morreram no Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Do profundo abismo clamo a ti, Senhor; Senhor, ouve a minha voz. Se guardares a lembrança das culpas, quem poderá subsistir? Mas em ti está o perdão. Espero no Senhor, a minha alma espera na sua palavra, mais que a sentinela pela aurora. No Senhor está a misericórdia e abundante redenção.",
+    "meditatio_perguntas": [
+      "De que “abismo” clamo a Deus hoje?",
+      "Acredito que Deus não guarda registro das minhas culpas perdoadas?",
+      "Espero a Deus como a sentinela espera a aurora?"
+    ],
+    "oratio_guia": "Do profundo abismo clamo a ti, Senhor. Não guardes a lembrança das minhas culpas. Em ti está o perdão e a abundante redenção. Espero em ti mais que a sentinela pela aurora. Dá o descanso eterno aos que morreram. Amém.",
+    "contemplatio_foco": {
+      "texto": "Desde o mais profundo clamo a ti, Senhor",
+      "ref": "Sl 129,1"
+    }
+  },
+  "ancoras": {
+    "129:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “De profundis” é a oração tradicional pelos fiéis defuntos.",
+        "origem": "ia"
+      }
+    },
+    "129:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 1,68: “visitou e redimiu o seu povo”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

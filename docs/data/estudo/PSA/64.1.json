@@ -1,0 +1,57 @@
+{
+  "id": "PSA.64.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças pela colheita",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 64,1-14",
+  "ini": {
+    "c": 64,
+    "v": 1
+  },
+  "fim": {
+    "c": 64,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Visitaste a terra e a regaste: coroaste o ano com a tua bondade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino de ação de graças, talvez para a festa da colheita. Em Sião é devido louvor a Deus, que ouve a oração e perdoa os pecados que nos oprimem. Feliz quem Deus escolhe para habitar nos seus átrios. Deus é esperança dos confins da terra: firma os montes, acalma o rugido do mar e o tumulto dos povos. Depois, um quadro da natureza abençoada: Deus visita a terra, rega-a, enche o rio de Deus, prepara o trigo, amolece os sulcos com as chuvas, coroa o ano com a sua bondade; as colinas se cingem de alegria, os prados se cobrem de rebanhos e os vales de trigo: tudo canta.",
+    "alegorico": "O “rio de Deus cheio de água” evoca o Espírito Santo e a graça; o trigo preparado prefigura o Pão eucarístico. A terra visitada e fecundada é Maria e a Igreja, visitadas pelo Verbo.",
+    "moral": "O salmo ensina a gratidão pela criação e pelos frutos do trabalho, que são dom de Deus. Também une o louvor ao perdão: antes da colheita, a purificação dos pecados. Convida a cuidar da terra que Deus abençoa.",
+    "anagogico": "O ano coroado de bondade e a terra que exulta antecipam a criação renovada, onde toda criatura cantará a Deus (Rm 8,21)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ti, ó Deus, é devido o louvor em Sião. Os nossos delitos nos oprimem, mas tu os perdoas. Visitaste a terra e a regaste, encheste-a de riquezas. Coroaste o ano com a tua bondade. As colinas se cingem de alegria, os vales se cobrem de trigo: tudo aclama e canta.",
+    "meditatio_perguntas": [
+      "Agradeço a Deus pelo alimento e pelos frutos do meu trabalho?",
+      "Vejo na beleza da natureza a “visita” de Deus?",
+      "Como cuido da terra que Deus abençoa?"
+    ],
+    "oratio_guia": "Senhor, tu ouves a oração e perdoas os pecados. Obrigado por visitares a terra e coroares o ano com a tua bondade. Rega também o meu coração com a tua graça, para que dê fruto e cante a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Coroaste o ano com a tua bondade e os teus caminhos ressumam fertilidade.",
+      "ref": "Sl 64,12"
+    }
+  },
+  "ancoras": {
+    "64:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Rio de Deus”: a chuva, imaginada como vinda de um reservatório celeste.",
+        "origem": "ia"
+      }
+    },
+    "64:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmo usado em celebrações de ação de graças pelas colheitas e nas Rogações.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

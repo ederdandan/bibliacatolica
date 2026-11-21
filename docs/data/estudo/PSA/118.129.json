@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.129",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Pe: maravilhosos são os teus testemunhos",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,129-136",
+  "ini": {
+    "c": 118,
+    "v": 129
+  },
+  "fim": {
+    "c": 118,
+    "v": 136
+  },
+  "liturgia": {
+    "tema_central": "A explicação das tuas palavras ilumina",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Pe. Os testemunhos de Deus são maravilhosos; por isso a alma os guarda. “A explicação das tuas palavras ilumina e dá inteligência aos simples.” O salmista abre a boca e aspira com desejo dos mandamentos. Pede que Deus olhe para ele com compaixão, firme os seus passos, o livre da opressão e faça brilhar o rosto sobre ele. Chora rios de lágrimas porque não guardam a lei.",
+    "alegorico": "Cristo explicava as Escrituras aos discípulos de Emaús e o coração deles ardia (Lc 24,32). A Igreja continua essa explicação na homilia e na catequese, para iluminar os simples.",
+    "moral": "O salmo valoriza a escuta da Palavra explicada e o desejo intenso dela (“abro a boca e aspiro”). Também ensina a chorar pelos pecados do mundo, não só pelos próprios.",
+    "anagogico": "O rosto de Deus que brilha sobre o servo é a visão final; agora a Palavra ilumina, depois veremos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Maravilhosos são os teus testemunhos. A explicação das tuas palavras ilumina e dá inteligência aos simples. Abro a boca e aspiro, porque desejo os teus mandamentos. Faz brilhar o teu rosto sobre o teu servo. Rios de lágrimas correm dos meus olhos, porque não guardam a tua lei.",
+    "meditatio_perguntas": [
+      "Procuro ouvir e estudar a explicação da Palavra (homilias, catequese)?",
+      "Tenho “sede” da Palavra?",
+      "Choro pelo mal do mundo ou apenas o critico?"
+    ],
+    "oratio_guia": "Senhor, a tua palavra ilumina os simples. Dá-me sede dela e faz brilhar o teu rosto sobre mim. Ensina-me a chorar pelo pecado do mundo e a rezar pela conversão de todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A explicação das tuas palavras ilumina, ensina os inexperientes.",
+      "ref": "Sl 118,130"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

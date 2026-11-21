@@ -1,0 +1,40 @@
+{
+  "id": "PSA.142.1",
+  "livro": "PSA",
+  "titulo": "Não entres em juízo com o teu servo",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 142,1-12",
+  "ini": {
+    "c": 142,
+    "v": 1
+  },
+  "fim": {
+    "c": 142,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Não entres em juízo com o teu servo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sétimo e último salmo penitencial. O salmista pede que Deus o ouça pela sua fidelidade e justiça, e suplica: “Não entres em juízo com o teu servo, porque nenhum vivente é justo diante de ti”. O inimigo o lançou nas trevas como os mortos antigos; o espírito desfalece. Então recorda os dias antigos e as obras de Deus; estende as mãos, a alma tem sede como terra seca. Pede resposta rápida: “Faz-me sentir de manhã a tua bondade; mostra-me o caminho; ensina-me a fazer a tua vontade, porque és o meu Deus; que o teu bom espírito me conduza por terra plana”.",
+    "alegorico": "S. Paulo ecoa o v. 2 (Rm 3,20; Gl 2,16): ninguém é justificado pelas obras, mas pela graça em Cristo. O “bom espírito” que conduz é o Espírito Santo.",
+    "moral": "O salmo une humildade (ninguém é justo diante de Deus) e confiança. Mostra o caminho para sair da depressão espiritual: recordar as obras de Deus, estender as mãos, pedir para conhecer e fazer a sua vontade. “Ensina-me a fazer a tua vontade” é uma oração para cada manhã.",
+    "anagogico": "O juízo que tememos é atravessado pela misericórdia de Cristo; o Espírito conduz por “terra plana” até a pátria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, ouve a minha oração. Não entres em juízo com o teu servo, porque nenhum vivente é justo diante de ti. Lembro-me dos dias antigos. Estendo as minhas mãos para ti; a minha alma tem sede de ti como terra seca. Ensina-me a fazer a tua vontade, porque tu és o meu Deus.",
+    "meditatio_perguntas": [
+      "Apresento-me diante de Deus pela minha justiça ou pela sua misericórdia?",
+      "Peço todos os dias “ensina-me a fazer a tua vontade”?",
+      "Que obras antigas de Deus posso recordar quando me sinto nas trevas?"
+    ],
+    "oratio_guia": "Senhor, não entres em juízo comigo, porque ninguém é justo diante de ti. Faz-me sentir de manhã a tua bondade. Ensina-me a fazer a tua vontade; que o teu bom Espírito me conduza. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ensina-me a fazer a tua vontade, porque tu és o meu Deus.",
+      "ref": "Sl 142,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

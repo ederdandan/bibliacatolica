@@ -1,0 +1,49 @@
+{
+  "id": "PSA.10.1",
+  "livro": "PSA",
+  "titulo": "Confiança no Senhor: o justo não foge",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 10,1-8",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "No Senhor me refugio: os retos verão a sua face",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amigos assustados aconselham o justo a fugir como um pássaro para os montes, porque os ímpios já armam o arco e os próprios fundamentos da sociedade desabam. Mas ele responde com fé: o Senhor está no seu santo templo, o seu trono está no céu, e os seus olhos examinam os homens. Deus prova o justo e o ímpio, ama a justiça e castigará os maus como castigou Sodoma. Os retos verão a sua face.",
+    "alegorico": "Jesus não fugiu diante da ameaça de Herodes (Lc 13,31-33), mas seguiu firme para Jerusalém, confiando no Pai que está no céu. O verdadeiro templo onde Deus habita é o seu Corpo, e por ele os retos têm acesso à visão da face de Deus.",
+    "moral": "Quando “os fundamentos desabam” – crises de valores, perseguições, injustiças – a tentação é fugir ou desanimar. O salmo convida a permanecer, apoiado em Deus, que vê tudo. A fidelidade não depende de as coisas irem bem.",
+    "anagogico": "“Os homens retos verão a sua face”: é a promessa da visão beatífica, a felicidade eterna dos puros de coração (Mt 5,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No Senhor me refugio; como dizeis: “Foge para o monte como a ave”? Quando desabam os fundamentos, que pode o justo fazer? O Senhor está no seu santo templo, o seu trono está no céu. O Senhor é justo, e os retos verão a sua face.",
+    "meditatio_perguntas": [
+      "Diante de que ameaças sou tentado a “fugir para o monte”?",
+      "Onde me apoio quando os “fundamentos” parecem desabar?",
+      "Desejo realmente ver a face de Deus?"
+    ],
+    "oratio_guia": "Senhor, em ti me refugio. Quando tudo parece desabar, firma-me na certeza de que reinas no céu e vês todas as coisas. Dá-me um coração reto, para que um dia eu veja a tua face. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor é justo e ama a justiça; os homens rectos verão a sua face.",
+      "ref": "Sl 10,8"
+    }
+  },
+  "ancoras": {
+    "10:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão à destruição de Sodoma e Gomorra (Gn 19,24). O “cálice” é imagem bíblica do destino que Deus reserva a cada um.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.13.1",
+  "livro": "PSA",
+  "titulo": "O insensato diz: “Não há Deus”",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 13,1-7",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "O insensato diz: não há Deus; Deus olha do céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O insensato diz no coração: “Não há Deus”, e por isso os homens se corrompem e praticam abominações. O Senhor olha do céu para ver se há alguém sensato que o busque, mas todos se desviaram; não há quem faça o bem. Os malfeitores devoram o povo como quem come pão, mas tremerão, porque Deus está com os justos e é o refúgio do pobre. O salmo termina com o anseio de que de Sião venha a salvação de Israel.",
+    "alegorico": "S. Paulo cita este salmo (Rm 3,10-12) para mostrar que todos, judeus e gentios, estão sob o pecado e precisam da justiça que vem da fé em Cristo. A salvação que sai de Sião é Jesus, o Salvador de Israel e das nações.",
+    "moral": "A insensatez bíblica não é falta de inteligência, mas de sabedoria: viver como se Deus não existisse. Quando Deus é esquecido, a ética desmorona e o próximo é “devorado”. O salmo convida a buscar a Deus e a reconhecer humildemente a própria necessidade de salvação.",
+    "anagogico": "“Quando o Senhor mudar a sorte do seu povo” aponta para a restauração final, a alegria de Jacó e de Israel na plenitude do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Diz o insensato no seu coração: “Não há Deus”. O Senhor olha do céu para ver se há quem busque a Deus. Todos se desviaram. Mas o Senhor é refúgio do pobre. Oh, venha de Sião a salvação de Israel!",
+    "meditatio_perguntas": [
+      "Em que decisões concretas vivo como se Deus não existisse?",
+      "Busco a Deus ou apenas espero que ele me sirva?",
+      "Reconheço que também eu preciso de salvação?"
+    ],
+    "oratio_guia": "Senhor, olha do céu e encontra em mim um coração que te busca. Livra-me da insensatez de viver sem ti. Venha a mim a salvação que nasce de Sião, Jesus Cristo, teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor olha do céu para os filhos dos homens, para ver se há quem entenda e busque a Deus.",
+      "ref": "Sl 13,2"
+    }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O mesmo salmo aparece, com pequenas variantes, como Sl 52. Em Rm 3,10-18, S. Paulo cita a versão grega ampliada deste salmo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

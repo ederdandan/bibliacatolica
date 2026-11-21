@@ -1,0 +1,57 @@
+{
+  "id": "PSA.18.1",
+  "livro": "PSA",
+  "titulo": "Os céus narram a glória de Deus; a lei do Senhor é perfeita",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 18,1-15",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Os céus narram a glória de Deus; a lei do Senhor é perfeita",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo em dois painéis. No primeiro, os céus e o firmamento proclamam, sem palavras, a glória do Criador; a mensagem passa de dia a dia e chega aos confins da terra. O sol sai como um esposo do quarto nupcial e percorre o céu como um herói. No segundo painel, a lei do Senhor é exaltada: é perfeita, restaura a alma, ilumina os olhos, é mais desejável que o ouro e mais doce que o mel. O salmista pede perdão das faltas ocultas e preservação do orgulho, e oferece a Deus as palavras da boca e a meditação do coração.",
+    "alegorico": "S. Paulo aplica o v. 5 à pregação dos Apóstolos, cuja voz chegou a toda a terra (Rm 10,18). Os Padres viram no sol que sai “como esposo do tálamo” o Verbo encarnado, que sai do seio virginal de Maria para percorrer o caminho da salvação. Cristo é o Sol de justiça e a Lei viva do Pai.",
+    "moral": "As duas revelações de Deus, a criação e a Palavra, pedem do homem admiração e obediência. A lei não é peso, mas luz e doçura. Ao mesmo tempo, o salmista reconhece que não vê todos os seus erros e pede: “purifica-me das faltas ocultas”. É a oração humilde de quem conhece os limites do próprio exame de consciência.",
+    "anagogico": "Os céus que narram a glória de Deus antecipam o céu novo, onde a glória de Deus será a única luz (Ap 21,23). A lei, mais doce que o mel, será então inscrita plenamente nos corações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os céus narram a glória de Deus, e o firmamento anuncia a obra das suas mãos. A lei do Senhor é perfeita, restaura a alma; os preceitos do Senhor alegram o coração, mais doces que o mel. Purifica-me das faltas ocultas. Sejam agradáveis as palavras da minha boca diante de ti, Senhor, minha Rocha e meu Redentor.",
+    "meditatio_perguntas": [
+      "Deixo a beleza da criação falar-me de Deus?",
+      "A Palavra de Deus é para mim “mais doce que o mel” ou um dever pesado?",
+      "Que faltas ocultas peço ao Senhor que me revele e purifique?"
+    ],
+    "oratio_guia": "Senhor, minha Rocha e meu Redentor, os céus contam a tua glória e a tua lei ilumina os meus olhos. Purifica-me das faltas que não vejo e preserva-me do orgulho. Sejam agradáveis a ti as palavras da minha boca e a meditação do meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os céus publicam a glória de Deus, e o firmamento anuncia a obra das suas mãos.",
+      "ref": "Sl 18,2"
+    }
+  },
+  "ancoras": {
+    "18:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres aplicaram este versículo ao Natal: Cristo, Esposo, sai do “tálamo” do seio virginal. O versículo era cantado no Advento.",
+        "origem": "ia"
+      }
+    },
+    "18:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Muitos pregadores rezam este versículo antes da homilia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

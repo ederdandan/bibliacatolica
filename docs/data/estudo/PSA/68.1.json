@@ -1,0 +1,65 @@
+{
+  "id": "PSA.68.1",
+  "livro": "PSA",
+  "titulo": "O zelo da tua casa me devora",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 68,1-37",
+  "ini": {
+    "c": 68,
+    "v": 1
+  },
+  "fim": {
+    "c": 68,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Salva-me, ó Deus: o zelo da tua casa me devora",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento de um justo que se afoga: as águas chegam ao pescoço, está atolado no lodo, rouco de gritar. Os que o odeiam sem razão são mais que os cabelos da cabeça. Reconhece as suas faltas, mas sofre também por causa de Deus: tornou-se estranho para os irmãos por zelo pela casa de Deus, e os insultos contra Deus caíram sobre ele. Esperou consolo e não encontrou; deram-lhe fel por comida e vinagre na sede. Segue uma série de imprecações contra os perseguidores. No fim, volta o louvor: Deus ouve os pobres e não despreza os seus cativos; salvará Sião.",
+    "alegorico": "É um dos salmos mais citados no Novo Testamento a respeito de Cristo: o zelo pela casa de Deus (Jo 2,17), o ódio sem motivo (Jo 15,25), os ultrajes (Rm 15,3), o vinagre na Cruz (Mt 27,34.48; Jo 19,28-29). As imprecações são aplicadas a Judas (At 1,20) e ao endurecimento (Rm 11,9-10).",
+    "moral": "O salmo consola quem sofre por fidelidade a Deus e é incompreendido até pelos seus. Também ensina humildade: o justo reconhece “tu conheces a minha insensatez”. O louvor agrada a Deus mais que os sacrifícios. As imprecações exprimem a dor; o cristão as entrega a Deus e reza pelos que o ferem.",
+    "anagogico": "Deus “salvará Sião” e os que amam o seu nome habitarão nela: a cidade de Deus definitiva acolherá os que sofreram por causa dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Salva-me, ó Deus, porque as águas me chegam ao pescoço. Estou cansado de gritar. Por tua causa suporto afrontas; o zelo pela tua casa me devora. Esperei quem se compadecesse, e não houve. Deram-me fel por comida e vinagre na minha sede. Vede, ó humildes, e alegrai-vos: o Senhor ouve os pobres.",
+    "meditatio_perguntas": [
+      "Já me senti afogando nas águas da tribulação? Como rezei?",
+      "Sofro alguma incompreensão por ser fiel a Deus?",
+      "Contemplo Cristo que bebeu o vinagre por mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, que suportaste ultrajes por zelo pela casa do Pai e bebeste o vinagre na Cruz, salva-me quando as águas me chegam ao pescoço. Ouve-me segundo a tua grande bondade. Faz-me suportar com amor as incompreensões por tua causa. Amém.",
+    "contemplatio_foco": {
+      "texto": "ouve-me segundo a tua grande bondade, segundo o teu auxílio fiel.",
+      "ref": "Sl 68,14"
+    }
+  },
+  "ancoras": {
+    "68:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os discípulos recordaram este versículo quando Jesus expulsou os vendilhões do Templo (Jo 2,17). A frase completa do hebraico é: “o zelo da tua casa me devora”.",
+        "origem": "ia"
+      }
+    },
+    "68:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumprido na Paixão (Mt 27,34.48; Jo 19,29).",
+        "origem": "ia"
+      }
+    },
+    "68:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aplicado a Judas em At 1,20.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

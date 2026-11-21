@@ -1,0 +1,65 @@
+{
+  "id": "PSA.105.1",
+  "livro": "PSA",
+  "titulo": "Confissão dos pecados do povo",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 105,1-48",
+  "ini": {
+    "c": 105,
+    "v": 1
+  },
+  "fim": {
+    "c": 105,
+    "v": 48
+  },
+  "liturgia": {
+    "tema_central": "Pecamos com os nossos pais: confissão do povo e misericórdia de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo penitencial histórico, que fecha o quarto livro. Começa louvando a misericórdia eterna e pedindo a Deus que se lembre do salmista. Depois confessa: “Pecamos com os nossos pais”. Repassa as infidelidades de Israel: a revolta no mar Vermelho, a cobiça no deserto, a inveja contra Moisés e Aarão, o bezerro de ouro (“trocaram a sua glória pela imagem de um boi”), a recusa da terra, o culto a Baal-Fegor, a contestação em Meriba, a mistura com os pagãos até sacrificar os filhos aos ídolos. Deus castigou, mas muitas vezes os libertou; olhou para a sua angústia, lembrou-se da aliança. O povo suplica: “Salva-nos, Senhor, e reúne-nos dentre as nações”.",
+    "alegorico": "Moisés, que “se pôs na brecha” para interceder (v. 23), é figura de Cristo, o único mediador que intercede por nós junto do Pai (Hb 7,25). A Igreja reconhece-se também pecadora e reza este salmo na esperança de ser reunida dentre as nações.",
+    "moral": "O salmo ensina uma confissão comunitária e histórica: não só “eu pequei”, mas “nós pecamos com os nossos pais”. Mostra a lógica do pecado — esquecimento, cobiça, idolatria — e a paciência de Deus, que sempre volta a perdoar. Valoriza também a intercessão.",
+    "anagogico": "“Reúne-nos dentre as nações, para celebrarmos o teu santo nome”: a reunião final dos filhos dispersos de Deus (Jo 11,52) se completará no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor, porque é bom, porque eterna é a sua misericórdia. Lembra-te de mim, Senhor, por amor do teu povo. Pecamos com os nossos pais. Trocaram a sua glória pela imagem de um boi que come feno. Esqueceram-se de Deus que os salvara. Mas ele olhou para a sua angústia quando ouviu o seu clamor. Salva-nos, Senhor, nosso Deus.",
+    "meditatio_perguntas": [
+      "Que “bezerros de ouro” ocupam o lugar da glória de Deus na minha vida?",
+      "Reconheço o pecado também como realidade comunitária e da Igreja?",
+      "Intercedo pelos outros como Moisés?"
+    ],
+    "oratio_guia": "Senhor, pecamos com os nossos pais. Esquecemos as tuas obras e trocamos a tua glória por ídolos. Mas tu és bom e a tua misericórdia é eterna. Olha para a nossa angústia, lembra-te da tua aliança, salva-nos e reúne-nos para louvar o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Salva-nos, Senhor, nosso Deus, recolhe-nos dentre as nações, para que celebremos o teu santo nome",
+      "ref": "Sl 105,47"
+    }
+  },
+  "ancoras": {
+    "105:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 32. S. Paulo retoma a expressão em Rm 1,23.",
+        "origem": "ia"
+      }
+    },
+    "105:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fineias: cf. Nm 25,7-13.",
+        "origem": "ia"
+      }
+    },
+    "105:48": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Doxologia que encerra o quarto livro do Saltério.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

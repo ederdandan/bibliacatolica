@@ -1,0 +1,57 @@
+{
+  "id": "PSA.102.1",
+  "livro": "PSA",
+  "titulo": "Bendiz, ó minha alma, o Senhor",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 102,1-22",
+  "ini": {
+    "c": 102,
+    "v": 1
+  },
+  "fim": {
+    "c": 102,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Bendiz, ó minha alma, o Senhor, e não esqueças nenhum dos seus benefícios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino de gratidão. O salmista convida a própria alma a bendizer o Senhor e a não esquecer os seus benefícios: ele perdoa todas as culpas, cura todas as enfermidades, resgata a vida da morte, coroa de misericórdia, sacia de bens e renova a juventude como a da águia. O Senhor é misericordioso e compassivo, lento para a ira e rico em bondade; não nos trata segundo os nossos pecados. Quanto o céu se eleva acima da terra, tanto é grande a sua misericórdia; quanto dista o oriente do ocidente, tanto afasta de nós os nossos pecados. Como um pai tem compaixão dos filhos, assim o Senhor, pois sabe que somos pó. O homem é como a flor do campo, mas a misericórdia do Senhor é eterna. Anjos, exércitos e obras de Deus são convidados ao louvor.",
+    "alegorico": "O salmo é a melhor descrição veterotestamentária do Pai misericordioso revelado por Jesus (Lc 15). Em Cristo, o perdão e a cura se realizam visivelmente (Mc 2,5-12). A liturgia o usa para celebrar a misericórdia divina.",
+    "moral": "A gratidão começa pela memória: “não esqueças”. O salmo nos ensina a fazer a lista dos benefícios de Deus, a começar pelo perdão. Deus conhece a nossa fragilidade (“lembra-se de que somos pó”) e nos trata com ternura paterna; somos chamados a tratar os outros do mesmo modo.",
+    "anagogico": "A juventude renovada como a da águia e a misericórdia “desde sempre e para sempre” anunciam a vida eterna, quando anjos e homens bendirão juntos o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendiz, ó minha alma, o Senhor, e não esqueças nenhum dos seus benefícios. Ele perdoa todas as tuas culpas e cura todas as tuas enfermidades. O Senhor é misericordioso e compassivo. Não nos trata segundo os nossos pecados. Como um pai se compadece dos filhos, assim o Senhor se compadece dos que o temem; ele sabe de que somos feitos.",
+    "meditatio_perguntas": [
+      "Que benefícios de Deus tenho esquecido?",
+      "Acredito que Deus afastou de mim os meus pecados “como o oriente do ocidente”?",
+      "Trato os outros com a ternura que Deus tem comigo?"
+    ],
+    "oratio_guia": "Bendiz, ó minha alma, o Senhor! Obrigado, Pai, por perdoares as minhas culpas, curares as minhas feridas e me coroares de misericórdia. Tu sabes que sou pó: trata-me com a tua ternura e ensina-me a tratar assim os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bendiz, ó minha alma, o Senhor, e não esqueças nenhum dos seus benefícios.",
+      "ref": "Sl 102,2"
+    }
+  },
+  "ancoras": {
+    "102:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A águia, segundo a crença antiga, renovava as penas e parecia rejuvenescer (cf. Is 40,31).",
+        "origem": "ia"
+      }
+    },
+    "102:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retoma Ex 34,6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

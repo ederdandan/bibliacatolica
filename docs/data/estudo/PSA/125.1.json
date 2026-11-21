@@ -1,0 +1,40 @@
+{
+  "id": "PSA.125.1",
+  "livro": "PSA",
+  "titulo": "Quando o Senhor fez voltar os cativos de Sião",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 125,1-6",
+  "ini": {
+    "c": 125,
+    "v": 1
+  },
+  "fim": {
+    "c": 125,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Os que semeiam entre lágrimas colherão com alegria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico do retorno do exílio. Quando o Senhor trouxe de volta os cativos de Sião, parecia um sonho; a boca se encheu de riso e a língua de alegria; até as nações reconheceram: “O Senhor fez grandes coisas por eles”. Mas a restauração ainda não está completa, e o povo pede: “Muda, Senhor, a nossa sorte, como as torrentes do Negueb” (que enchem de repente o deserto). Conclui com a promessa: “Os que semeiam entre lágrimas colherão com alegria”.",
+    "alegorico": "A volta dos cativos é figura da redenção em Cristo, que nos tira do cativeiro do pecado. A semente lançada com lágrimas evoca o grão de trigo que morre e dá fruto (Jo 12,24), a Paixão que desabrocha na Páscoa.",
+    "moral": "O salmo ensina a semear mesmo chorando: o trabalho, a educação dos filhos, o apostolado, o sofrimento oferecido. A alegria da colheita não é imediata, mas é certa. A memória das graças passadas sustenta a súplica presente.",
+    "anagogico": "A colheita final é a vida eterna: “bem-aventurados os que choram, porque serão consolados” (Mt 5,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quando o Senhor fez voltar os cativos de Sião, parecia-nos um sonho. A nossa boca encheu-se de riso. Grandes coisas fez o Senhor por nós: estamos alegres. Muda, Senhor, a nossa sorte. Os que semeiam entre lágrimas colherão com alegria.",
+    "meditatio_perguntas": [
+      "Que “grandes coisas” Deus fez por mim que posso recordar?",
+      "O que estou semeando com lágrimas agora?",
+      "Acredito que haverá colheita?"
+    ],
+    "oratio_guia": "Senhor, grandes coisas fizeste por nós. Muda também agora a nossa sorte. Dá-me coragem para semear mesmo entre lágrimas, confiando que colherei com alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os que semeiam entre lágrimas, com alegria ceifarão.",
+      "ref": "Sl 125,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

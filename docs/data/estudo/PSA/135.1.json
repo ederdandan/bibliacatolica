@@ -1,0 +1,40 @@
+{
+  "id": "PSA.135.1",
+  "livro": "PSA",
+  "titulo": "Porque eterna é a sua misericórdia",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 135,1-26",
+  "ini": {
+    "c": 135,
+    "v": 1
+  },
+  "fim": {
+    "c": 135,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Porque eterna é a sua misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O “Grande Hallel”, ladainha de ação de graças: cada versículo termina com o refrão “porque eterna é a sua misericórdia”. Louva o Deus dos deuses pela criação (os céus feitos com sabedoria, a terra sobre as águas, o sol, a lua e as estrelas), pelo Êxodo (os primogênitos do Egito, a saída com braço forte, a divisão do mar Vermelho), pela condução no deserto, pela vitória sobre Seon e Og e pelo dom da terra. Ele se lembrou de nós na humilhação, nos livrou dos inimigos e dá alimento a todo ser vivo.",
+    "alegorico": "A Igreja canta este salmo na Vigília Pascal e nas grandes festas: toda a história da salvação culmina na Páscoa de Cristo, a maior obra da misericórdia eterna. O Hallel era cantado na ceia pascal judaica.",
+    "moral": "O refrão educa o coração a ler cada acontecimento como sinal da misericórdia. Podemos fazer o nosso próprio “Grande Hallel”, contando a nossa história e repetindo: eterna é a sua misericórdia.",
+    "anagogico": "A misericórdia eterna nos acompanhará na eternidade: será o cântico sem fim dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor, porque é bom: eterna é a sua misericórdia. Fez os céus com sabedoria: eterna é a sua misericórdia. Fez passar Israel pelo meio do mar: eterna é a sua misericórdia. Na nossa humilhação, lembrou-se de nós: eterna é a sua misericórdia. Dá alimento a todo ser vivo: eterna é a sua misericórdia.",
+    "meditatio_perguntas": [
+      "Que acontecimentos da minha vida posso acompanhar com o refrão “eterna é a sua misericórdia”?",
+      "Lembro-me de que Deus se lembrou de mim na humilhação?",
+      "Agradeço pelo alimento de cada dia?"
+    ],
+    "oratio_guia": "Senhor, tu és bom: eterna é a tua misericórdia. Na criação, na história, na minha vida, em tudo vejo o teu amor. Lembraste-te de mim na humilhação. Louvo-te para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em nosso abatimento lembrou-se de nós, porque a sua misericórdia é eterna",
+      "ref": "Sl 135,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

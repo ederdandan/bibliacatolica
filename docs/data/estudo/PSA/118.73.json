@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.73",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Iod: as tuas mãos me fizeram",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,73-80",
+  "ini": {
+    "c": 118,
+    "v": 73
+  },
+  "fim": {
+    "c": 118,
+    "v": 80
+  },
+  "liturgia": {
+    "tema_central": "As tuas mãos me fizeram: dá-me inteligência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Iod. “As tuas mãos me fizeram e me formaram: dá-me inteligência para aprender os teus mandamentos.” O salmista deseja ser motivo de alegria para os que temem a Deus. Reconhece que Deus o afligiu com justiça e pede que a sua misericórdia o console. Pede confusão para os soberbos e que os que temem a Deus voltem-se para ele. Deseja um coração íntegro.",
+    "alegorico": "O Criador que formou o homem com as suas mãos (Gn 2,7) é o mesmo que, em Cristo, o refaz. A integridade do coração é obra do Espírito.",
+    "moral": "Reconhecer-se criatura leva a pedir luz ao Criador. O salmo une aceitação humilde da correção (“me afligiste com justiça”) e confiança na misericórdia. Deseja também ser sinal de esperança para os outros.",
+    "anagogico": "Aquele que nos formou nos refará na ressurreição; o coração íntegro verá a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "As tuas mãos me fizeram e me formaram: dá-me inteligência para aprender os teus mandamentos. Sei, Senhor, que os teus juízos são justos. Venha a tua misericórdia consolar-me. Seja íntegro o meu coração nos teus estatutos.",
+    "meditatio_perguntas": [
+      "Reconheço-me obra das mãos de Deus?",
+      "Aceito com humildade as correções da vida?",
+      "A minha vida é motivo de alegria para os que temem a Deus?"
+    ],
+    "oratio_guia": "Senhor, as tuas mãos me formaram: dá-me inteligência e um coração íntegro. Que a tua misericórdia me console, e que eu seja motivo de alegria para os teus. Amém.",
+    "contemplatio_foco": {
+      "texto": "As tuas mãos fizeram-me, formaram-me; instrui-me para aprender os teus mandamentos.",
+      "ref": "Sl 118,73"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

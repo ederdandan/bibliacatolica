@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.105",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Nun: lâmpada para os meus pés é a tua palavra",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,105-112",
+  "ini": {
+    "c": 118,
+    "v": 105
+  },
+  "fim": {
+    "c": 118,
+    "v": 112
+  },
+  "liturgia": {
+    "tema_central": "Lâmpada para os meus pés é a tua palavra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Nun. “A tua palavra é lâmpada para os meus passos e luz para o meu caminho.” O salmista jura guardar os decretos justos. Muito afligido, pede vida e oferece as “oferendas da boca”, o louvor. A vida está sempre em perigo, os ímpios armam laços, mas ele não esquece a lei. As prescrições são a sua herança eterna e a alegria do coração; inclinou o coração a praticá-las sempre.",
+    "alegorico": "Cristo é a luz do mundo; quem o segue não anda nas trevas (Jo 8,12). A Palavra proclamada na liturgia ilumina o caminho da Igreja.",
+    "moral": "A lâmpada antiga iluminava só o próximo passo, não a estrada inteira: a Palavra nem sempre mostra todo o futuro, mas basta para o passo de hoje. O salmo pede confiança no caminhar passo a passo.",
+    "anagogico": "A luz da Palavra conduz à luz eterna, onde não haverá mais necessidade de lâmpada, porque o Senhor será a luz (Ap 22,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A tua palavra é lâmpada para os meus passos e luz para os meus caminhos. A minha vida está sempre em perigo, mas não esqueço a tua lei. As tuas prescrições são a minha herança para sempre, a alegria do meu coração.",
+    "meditatio_perguntas": [
+      "Que passo concreto a Palavra ilumina hoje para mim?",
+      "Aceito ver só o próximo passo, sem exigir todo o caminho?",
+      "As prescrições de Deus são “alegria do meu coração”?"
+    ],
+    "oratio_guia": "Senhor, a tua palavra é lâmpada para os meus pés. Ilumina o passo de hoje e dá-me confiança para o caminho. Que a tua lei seja a herança e a alegria do meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lâmpada para os meus passos é a tua palavra, e luz para os meus caminhos.",
+      "ref": "Sl 118,105"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.58.1",
+  "livro": "PSA",
+  "titulo": "Livra-me dos meus inimigos, ó meu Deus",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 58,1-18",
+  "ini": {
+    "c": 58,
+    "v": 1
+  },
+  "fim": {
+    "c": 58,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Tu, ó Deus, és a minha fortaleza e a minha misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza quando Saul mandou cercar a sua casa para matá-lo (1Sm 19,11). Inocente, pede libertação dos homens sanguinários que o espreitam. Os inimigos são como cães que voltam à tarde, rosnando pela cidade, dizendo: “quem nos ouve?”. Mas Deus ri-se deles. Um refrão de confiança marca o salmo: “Força minha, para ti me volto, porque tu, ó Deus, és a minha cidadela”. De manhã o salmista cantará a misericórdia de Deus, que foi refúgio no dia da angústia.",
+    "alegorico": "Cristo foi cercado na noite da Paixão por homens que buscavam a sua morte; de manhã, na Ressurreição, cantou a misericórdia do Pai. O título “Deus, minha misericórdia” é um dos mais belos nomes divinos do Saltério.",
+    "moral": "Os inimigos que “voltam à tarde” podem ser também as tentações que retornam. O salmo ensina a resistir com a oração e a esperar a manhã. Pede que os maus não sejam simplesmente eliminados, mas que o povo “não os esqueça”, isto é, aprenda com a sua queda.",
+    "anagogico": "A manhã em que o salmista exulta na misericórdia de Deus anuncia a manhã eterna, quando o Senhor reinará “até os confins da terra”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Livra-me, meu Deus, dos meus inimigos. Voltam à tarde, rosnam como cães. Mas tu, Senhor, ris-te deles. Força minha, para ti me volto, porque tu és a minha cidadela. De manhã exultarei na tua misericórdia, porque foste o meu refúgio no dia da angústia. Ó Deus, minha misericórdia.",
+    "meditatio_perguntas": [
+      "Que tentações “voltam à tarde” e rondam a minha vida?",
+      "Chamo a Deus de “minha misericórdia”? O que isso significa para mim?",
+      "Canto de manhã a fidelidade de Deus que me guardou à noite?"
+    ],
+    "oratio_guia": "Ó Deus, minha força e minha misericórdia, para ti me volto. Guarda-me das ameaças que voltam à tarde. De manhã cantarei a tua misericórdia, porque foste o meu refúgio no dia da angústia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Força minha, para ti me volto, porque tu, ó Deus, és a minha cidadela",
+      "ref": "Sl 58,10"
+    }
+  },
+  "ancoras": {
+    "58:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 19,11-17: Micol, esposa de Davi, ajuda-o a fugir pela janela.",
+        "origem": "ia"
+      }
+    },
+    "58:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata: “Não os mates, para que o meu povo não esqueça”. Santo Agostinho leu aqui uma lição sobre a permanência do povo judeu como testemunha das Escrituras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

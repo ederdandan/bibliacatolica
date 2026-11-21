@@ -1,0 +1,49 @@
+{
+  "id": "PSA.53.1",
+  "livro": "PSA",
+  "titulo": "Salva-me, ó Deus, pelo teu nome",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 53,1-9",
+  "ini": {
+    "c": 53,
+    "v": 1
+  },
+  "fim": {
+    "c": 53,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Salva-me, ó Deus, pelo teu nome: Deus é o meu auxílio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza quando os habitantes de Zif o denunciaram a Saul (1Sm 23,19). Pede salvação “pelo nome” de Deus e defesa pelo seu poder, porque homens violentos, sem Deus diante dos olhos, buscam a sua vida. Proclama: “Deus vem em meu auxílio, o Senhor sustenta a minha vida”. Promete um sacrifício voluntário e louvor ao nome do Senhor, que o livrou de toda angústia.",
+    "alegorico": "Cristo, entregue pelos seus, invocou o nome do Pai e foi sustentado por ele. O “nome” de Deus, isto é, a sua própria pessoa e fidelidade, revelou-se plenamente em Jesus, o nome acima de todo nome.",
+    "moral": "O salmo ensina a rezar breve e confiante nas traições e perigos. Diante dos que “não põem Deus diante dos olhos”, o fiel o põe ainda mais. O agradecimento se exprime num “sacrifício voluntário”, uma oferta generosa e livre.",
+    "anagogico": "A libertação “de toda tribulação” antecipa a libertação final, quando Deus enxugar toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Salva-me, ó Deus, pelo teu nome. Ouve a minha oração. Os violentos buscam a minha vida; não põem Deus diante dos olhos. Mas eis que Deus vem em meu auxílio, o Senhor sustenta a minha vida. Eu te oferecerei um sacrifício voluntário.",
+    "meditatio_perguntas": [
+      "Ponho Deus diante dos meus olhos nas decisões do dia?",
+      "Que oferta voluntária posso fazer a Deus como gratidão?",
+      "Já fui traído por pessoas próximas? Como rezei nessa hora?"
+    ],
+    "oratio_guia": "Salva-me, ó Deus, pelo teu nome. Tu és o meu auxílio, tu sustentas a minha vida. Aceita a minha oferta livre de gratidão e o meu louvor ao teu nome, que é bom. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas eis que Deus vem em meu auxílio, o Senhor sustenta a minha vida.",
+      "ref": "Sl 53,6"
+    }
+  },
+  "ancoras": {
+    "53:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 23,19-28: os zifeus traem Davi, mas Saul precisa retirar-se por causa de uma invasão filisteia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

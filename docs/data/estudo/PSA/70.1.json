@@ -1,0 +1,57 @@
+{
+  "id": "PSA.70.1",
+  "livro": "PSA",
+  "titulo": "Oração de um ancião",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 70,1-24",
+  "ini": {
+    "c": 70,
+    "v": 1
+  },
+  "fim": {
+    "c": 70,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Não me abandones na velhice: tu és a minha esperança desde a juventude",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oração de um ancião que confia em Deus desde o ventre materno. Pede refúgio, rocha e libertação dos opressores. Foi para muitos um “prodígio”, objeto de admiração ou de escândalo, mas Deus foi o seu refúgio. Suplica: “Não me abandones na velhice, quando as forças me faltarem”. Os inimigos dizem que Deus o abandonou. Ele, porém, continuará esperando e louvando: Deus o ensinou desde a juventude, e ele quer anunciar o seu poder às gerações futuras. Confia que Deus o fará reviver das profundezas.",
+    "alegorico": "Cristo, confiado ao Pai desde o seio de Maria, ouviu os inimigos dizerem “Deus o abandonou” (Mt 27,43), mas foi tirado “dos abismos da terra” pela Ressurreição. A Igreja, já antiga, reza também este salmo pedindo fidelidade até o fim.",
+    "moral": "O salmo é a oração dos idosos e dos que perdem as forças: a fraqueza não é abandono de Deus. Também convida os mais velhos a transmitir às novas gerações a experiência de Deus. Para os jovens, lembra que a fé cultivada desde cedo sustenta na velhice.",
+    "anagogico": "“Dos abismos da terra outra vez me tirarás”: a esperança da ressurreição consola quem vê o corpo declinar. O louvor do ancião continua na eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em ti, Senhor, me refugio. Tu és a minha esperança, Senhor, desde a minha juventude. Em ti me apoiei desde o nascimento. Não me rejeites no tempo da velhice; quando as forças me faltarem, não me abandones. Eu, porém, esperarei sempre. Ensinaste-me, ó Deus, desde a juventude.",
+    "meditatio_perguntas": [
+      "Como olho para o envelhecimento, o meu e o dos outros?",
+      "O que tenho transmitido da minha fé às gerações mais novas?",
+      "Visito e escuto os idosos da minha família e comunidade?"
+    ],
+    "oratio_guia": "Senhor, tu és a minha esperança desde a juventude. Não me abandones quando as forças me faltarem. Faz-me esperar sempre e anunciar as tuas maravilhas às novas gerações. Ampara os idosos e os doentes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não me desampares no tempo da velhice; quando faltarem as minhas forças, não me abandones.",
+      "ref": "Sl 70,9"
+    }
+  },
+  "ancoras": {
+    "70:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 1-3 retomam Sl 30,2-4.",
+        "origem": "ia"
+      }
+    },
+    "70:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Prodígio”: sinal admirável, ou talvez sinal de castigo aos olhos dos outros, como Jó.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

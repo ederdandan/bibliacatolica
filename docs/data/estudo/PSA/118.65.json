@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.65",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Tet: foi bom para mim ser humilhado",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,65-72",
+  "ini": {
+    "c": 118,
+    "v": 65
+  },
+  "fim": {
+    "c": 118,
+    "v": 72
+  },
+  "liturgia": {
+    "tema_central": "Foi bom para mim ser humilhado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Tet. O salmista reconhece a bondade de Deus e pede sabedoria e discernimento. Confessa: antes de ser afligido, andava errante; agora guarda a palavra. Deus é bom e faz o bem. Os soberbos tramam mentiras, mas ele guarda os preceitos. O coração deles se tornou insensível como gordura. “Foi bom para mim ser humilhado, para aprender os teus estatutos.” A lei da boca de Deus vale mais que milhares de moedas de ouro e prata.",
+    "alegorico": "Cristo “aprendeu a obediência pelo sofrimento” (Hb 5,8). A tradição viu nesta estrofe o valor pedagógico da Cruz para os discípulos.",
+    "moral": "O sofrimento pode ser escola: muitas conversões nascem da provação. O salmo não glorifica a dor, mas mostra como Deus a usa para nos ensinar. Também lembra que a Palavra vale mais que as riquezas.",
+    "anagogico": "A provação presente prepara “um peso eterno de glória” (2Cor 4,17). Quem aprende na humilhação a amar a lei de Deus será exaltado por ele no último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Usaste de bondade com o teu servo, Senhor. Antes de ser humilhado, eu andava errante; agora guardo a tua palavra. Tu és bom e fazes o bem: ensina-me os teus estatutos. Foi bom para mim ser humilhado, para aprender os teus estatutos.",
+    "meditatio_perguntas": [
+      "Que provação me ensinou algo sobre Deus e sobre mim?",
+      "Deixo que as humilhações me tornem mais humilde, ou mais amargo?",
+      "A Palavra vale para mim mais que o dinheiro?"
+    ],
+    "oratio_guia": "Senhor, tu és bom e fazes o bem. Obrigado também pelas provações que me ensinaram a tua palavra. Faz-me humilde e dócil. Amém.",
+    "contemplatio_foco": {
+      "texto": "Para mim foi bom ter sido atormentado, para aprender as tuas prescrições.",
+      "ref": "Sl 118,71"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.75.1",
+  "livro": "PSA",
+  "titulo": "Deus vitorioso em Sião",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 75,1-13",
+  "ini": {
+    "c": 75,
+    "v": 1
+  },
+  "fim": {
+    "c": 75,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Deus se deu a conhecer em Judá: o vencedor que salva os humildes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino a Deus vitorioso em Sião. Deus é conhecido em Judá; a sua tenda está em Salém, em Sião. Ali quebrou arcos, escudos e espadas. Vem resplandecente dos montes eternos; os valentes adormecem para sempre; carros e cavalos ficam paralisados diante da sua ameaça. Do céu Deus pronunciou a sentença, e a terra se calou, quando se levantou para salvar os humildes. Os povos são convidados a cumprir os votos e trazer dons ao Deus terrível que abate o orgulho dos príncipes.",
+    "alegorico": "Salém, a cidade de Melquisedec (Gn 14,18), é Jerusalém e, para os Padres, a paz de Cristo. O Deus que “quebra as armas” é o Príncipe da paz (Is 9,5), que venceu não com espadas, mas com a Cruz.",
+    "moral": "O poder de Deus se põe a serviço dos humildes. O salmo convida a desarmar o coração e a confiar menos nos “carros e cavalos” do poder humano. Lembra também a fidelidade aos votos feitos a Deus.",
+    "anagogico": "O silêncio da terra diante do juízo de Deus antecipa o silêncio solene do fim (Ap 8,1), quando o Senhor salvará definitivamente os humildes da terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus se deu a conhecer em Judá; em Israel é grande o seu nome. Em Sião está a sua morada. Ali quebrou os arcos, o escudo e a espada. Do céu fizeste ouvir a sentença; a terra temeu e calou-se, quando Deus se levantou para salvar todos os humildes da terra.",
+    "meditatio_perguntas": [
+      "Que “armas” preciso deixar que Deus quebre em mim?",
+      "Acredito que Deus se levanta para salvar os humildes?",
+      "Que votos fiz a Deus e preciso cumprir?"
+    ],
+    "oratio_guia": "Senhor, Deus da paz, quebra as armas do meu orgulho e da minha agressividade. Levanta-te para salvar os humildes da terra. Ajuda-me a cumprir o que te prometi. Amém.",
+    "contemplatio_foco": {
+      "texto": "quando Deus se levantou para fazer justiça, para salvar todos os humildes da terra.",
+      "ref": "Sl 75,10"
+    }
+  },
+  "ancoras": {
+    "75:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salém, antigo nome de Jerusalém (Gn 14,18). Muitos ligam o salmo à libertação de Jerusalém do cerco assírio de Senaquerib (2Rs 19,35).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

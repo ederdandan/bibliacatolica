@@ -1,0 +1,57 @@
+{
+  "id": "PSA.78.1",
+  "livro": "PSA",
+  "titulo": "Lamento pela ruína de Jerusalém",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 78,1-13",
+  "ini": {
+    "c": 78,
+    "v": 1
+  },
+  "fim": {
+    "c": 78,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Ajuda-nos, ó Deus, por amor do teu nome",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento pela ruína de Jerusalém: as nações invadiram a herança de Deus, profanaram o Templo e deixaram os cadáveres dos servos de Deus às aves; o sangue correu como água e não houve quem os sepultasse. “Até quando, Senhor?” O povo pede que Deus não recorde as culpas dos antepassados e que a sua misericórdia venha depressa. “Ajuda-nos, ó Deus, nosso salvador, pela glória do teu nome; perdoa os nossos pecados.” Que chegue a Deus o gemido dos cativos. O povo, rebanho do seu pasto, o louvará para sempre.",
+    "alegorico": "A Igreja reza este salmo na memória dos mártires, cujo sangue foi derramado “como água” (Ap 6,9-10). Cristo, o Pastor, recolhe o gemido dos cativos e liberta os condenados à morte pela sua Páscoa.",
+    "moral": "O salmo une súplica e confissão: pede perdão “por amor do teu nome”, não por méritos próprios. Ensina a rezar pela Igreja ferida e pelos cristãos perseguidos, e a entregar a Deus o desejo de justiça.",
+    "anagogico": "O louvor “de geração em geração” do rebanho salvo anuncia o louvor eterno dos redimidos, quando Deus tiver vingado o sangue dos seus servos (Ap 19,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, as nações invadiram a tua herança. Até quando, Senhor? Não recordes contra nós as culpas dos antepassados; venha depressa ao nosso encontro a tua misericórdia. Ajuda-nos, ó Deus da nossa salvação, pela glória do teu nome. Nós, teu povo e ovelhas do teu pasto, te louvaremos para sempre.",
+    "meditatio_perguntas": [
+      "Rezo pela Igreja perseguida no mundo?",
+      "Peço perdão confiando no “nome” de Deus ou nos meus méritos?",
+      "Que gemido de cativos o Senhor me pede para escutar?"
+    ],
+    "oratio_guia": "Senhor, ajuda-nos pela glória do teu nome; perdoa os nossos pecados. Que chegue a ti o gemido dos cativos e dos perseguidos. Somos o teu povo e as ovelhas do teu pasto: nós te louvaremos para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ajuda-nos, ó Deus da nossa salvação, para glória do teu nome",
+      "ref": "Sl 78,9"
+    }
+  },
+  "ancoras": {
+    "78:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Mc 7,17, que cita os vv. 2-3 a propósito do massacre dos assideus.",
+        "origem": "ia"
+      }
+    },
+    "78:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 6-7 são retomados em Jr 10,25.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

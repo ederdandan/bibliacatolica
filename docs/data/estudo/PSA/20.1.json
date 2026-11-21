@@ -1,0 +1,49 @@
+{
+  "id": "PSA.20.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças pela vitória do rei",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 20,1-14",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O rei se alegra no teu poder: coroa e vida eterna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças pela vitória do rei, continuação do salmo anterior. O rei alegra-se no poder de Deus, que realizou o desejo do seu coração. Deus o preveniu com bênçãos, pôs-lhe na cabeça uma coroa de ouro, deu-lhe vida longa “pelos séculos dos séculos”, glória e esplendor. O rei confia no Senhor e por isso será inabalável. Segue uma série de votos de vitória sobre os inimigos, que serão consumidos como num forno, e o louvor final: “Levanta-te, Senhor, com o teu poder!”.",
+    "alegorico": "A tradição judaica (Targum) e cristã leu este salmo como messiânico. Só Cristo recebeu do Pai a vida “pelos séculos dos séculos”: pediu a vida na Paixão e recebeu a Ressurreição. A coroa de ouro substitui a coroa de espinhos. A liturgia o aplica à Ascensão.",
+    "moral": "O rei não se gloria da própria força, mas do poder de Deus, e “confia no Senhor”. Toda autoridade e todo sucesso devem ser recebidos como dom e postos a serviço. O salmo ensina também a agradecer, depois de ter pedido.",
+    "anagogico": "A coroa e a “bênção eterna” que o rei recebe são prometidas a todos os fiéis: “sê fiel até a morte e eu te darei a coroa da vida” (Ap 2,10). A alegria “na tua presença” é a vida do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, o rei se alegra com o teu poder. Satisfizeste o desejo do seu coração. Pediu-te vida e lhe deste dias sem fim. Abençoaste-o para sempre, inebriaste-o de alegria na tua presença. O rei confia no Senhor e será inabalável.",
+    "meditatio_perguntas": [
+      "Lembro-me de agradecer quando Deus atende os meus pedidos?",
+      "Que “desejo do coração” quero apresentar ao Senhor?",
+      "Em quem o meu coração está confiado para ser “inabalável”?"
+    ],
+    "oratio_guia": "Senhor, tu deste ao teu Cristo a vida pelos séculos dos séculos e a coroa da glória. Alegro-me com a sua vitória. Dá-me confiar só em ti, para permanecer firme, e conduze-me à alegria da tua presença. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pediu-te vida, e concedeste-lhe largos dias, pelos séculos dos séculos.",
+      "ref": "Sl 20,5"
+    }
+  },
+  "ancoras": {
+    "20:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A coroa de ouro na cabeça do rei foi lida pelos Padres como figura da glorificação de Cristo após a Paixão (cf. Hb 2,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

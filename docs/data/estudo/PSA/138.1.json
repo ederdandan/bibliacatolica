@@ -1,0 +1,57 @@
+{
+  "id": "PSA.138.1",
+  "livro": "PSA",
+  "titulo": "Senhor, tu me sondas e me conheces",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 138,1-24",
+  "ini": {
+    "c": 138,
+    "v": 1
+  },
+  "fim": {
+    "c": 138,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Senhor, tu me sondas e me conheces",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Meditação sobre a onisciência e a onipresença de Deus. Deus conhece o salmista: quando se senta e se levanta, os seus pensamentos, os seus caminhos, cada palavra antes de ser dita. Envolve-o por todos os lados. Para onde fugir da sua presença? No céu ou no abismo, nas asas da aurora ou nos confins do mar, a mão de Deus o conduz; até as trevas são luz para ele. Deus o formou no seio da mãe: “Louvo-te, porque fui feito de modo admirável”. Os seus dias estavam escritos no livro de Deus antes de existirem. Após uma explosão contra os ímpios, termina: “Sonda-me, ó Deus, e conhece o meu coração; vê se ando no mau caminho e guia-me pelo caminho eterno”.",
+    "alegorico": "Os Padres leram aqui Cristo ressuscitado, que se dirige ao Pai (“me levanto”), e o mistério da Encarnação (“me teceste no seio materno”). A Igreja reza este salmo também como fundamento da dignidade de toda vida humana desde a concepção.",
+    "moral": "Ser conhecido por Deus é consolo, não ameaça: ele conhece e ama. O salmo fundamenta o respeito pela vida desde o seio materno e convida à transparência diante de Deus: “sonda-me e guia-me”.",
+    "anagogico": "O caminho eterno pelo qual Deus guia o salmista é a vida eterna; a noite que brilha como o dia anuncia a cidade sem noite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, tu me sondas e me conheces; sabes quando me sento e quando me levanto. Para onde fugirei da tua presença? Se subo ao céu, lá estás. Foste tu que me teceste no seio de minha mãe. Louvo-te, porque fui feito de modo admirável. Sonda-me, ó Deus, e conhece o meu coração; guia-me pelo caminho eterno.",
+    "meditatio_perguntas": [
+      "Como me sinto sabendo que Deus me conhece totalmente?",
+      "Agradeço a Deus por ter sido “feito de modo admirável”?",
+      "Deixo Deus sondar o meu coração e corrigir o meu caminho?"
+    ],
+    "oratio_guia": "Senhor, tu me conheces e me envolves por todos os lados. Obrigado por me teres tecido no seio de minha mãe. Sonda-me, conhece o meu coração, e guia-me pelo caminho eterno. Amém.",
+    "contemplatio_foco": {
+      "texto": "Louvo-te, porque tão admiravelmente fui formado, porque são maravilhosas as tuas obras.",
+      "ref": "Sl 138,14"
+    }
+  },
+  "ancoras": {
+    "138:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto fundamental da tradição cristã sobre a dignidade da vida humana desde a concepção.",
+        "origem": "ia"
+      }
+    },
+    "138:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 19-22 exprimem o zelo contra o mal; a Liturgia das Horas os omite.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

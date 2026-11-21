@@ -1,0 +1,57 @@
+{
+  "id": "PSA.86.1",
+  "livro": "PSA",
+  "titulo": "Sião, mãe de todos os povos",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 86,1-7",
+  "ini": {
+    "c": 86,
+    "v": 1
+  },
+  "fim": {
+    "c": 86,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Sião, mãe de todos os povos: todas as minhas fontes estão em ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve hino a Sião, cidade amada por Deus, fundada sobre os montes santos. Coisas gloriosas se dizem dela. Deus inscreve entre os que o conhecem povos estrangeiros e até inimigos: Raab (Egito), Babilônia, Filisteia, Tiro e Etiópia, e de cada um se diz: “Este nasceu lá”. Sião é a mãe de todos os povos. O Senhor registra no livro dos povos: “Estes nasceram ali”. E todos cantam dançando: “Todas as minhas fontes estão em ti”.",
+    "alegorico": "Sião, mãe dos povos, é a Igreja, onde todos renascem pelo Batismo (Gl 4,26: “a Jerusalém do alto é nossa mãe”). A liturgia aplica o salmo também a Maria, mãe da Igreja, de quem se dizem “coisas gloriosas”.",
+    "moral": "O salmo destrói barreiras: os antigos inimigos se tornam irmãos, nascidos na mesma mãe. Convida a uma fé acolhedora e missionária, que reconhece em cada povo um filho de Deus.",
+    "anagogico": "O livro dos povos em que Deus inscreve os seus filhos é o livro da vida (Ap 21,27). Na Jerusalém celeste, gente de todas as nações cantará: “todas as minhas fontes estão em ti”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor ama as portas de Sião. Coisas gloriosas se dizem de ti, cidade de Deus! De Sião se dirá: todos nasceram nela. O Senhor escreverá no livro dos povos: “Estes nasceram lá”. E cantarão dançando: “Todas as minhas fontes estão em ti”.",
+    "meditatio_perguntas": [
+      "Vejo a Igreja como minha mãe, onde renasci?",
+      "Acolho como irmãos pessoas de outros povos e culturas?",
+      "Onde estão as “fontes” da minha alegria?"
+    ],
+    "oratio_guia": "Senhor, obrigado pela Igreja, mãe que me gerou para ti. Faz-me acolher todos os povos como irmãos. Inscreve-me no livro da vida, e que eu possa cantar para sempre: todas as minhas fontes estão em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Coisas gloriosas se dizem de ti, ó cidade de Deus!",
+      "ref": "Sl 86,3"
+    }
+  },
+  "ancoras": {
+    "86:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Raab: nome poético do Egito (Is 30,7), também nome do monstro do caos. O salmo inclui até os opressores históricos de Israel.",
+        "origem": "ia"
+      }
+    },
+    "86:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Origem da expressão “Gloriosa dicta sunt de te”, aplicada pela liturgia à Virgem Maria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

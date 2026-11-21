@@ -1,0 +1,2406 @@
+{
+ "livro": "PSA",
+ "secoes": [
+  "Livro I do Saltério (Sl 1–40)",
+  "Livro II do Saltério (Sl 41–71)",
+  "Livro III do Saltério (Sl 72–88)",
+  "Livro IV do Saltério (Sl 89–105)",
+  "Livro V do Saltério (Sl 106–150)"
+ ],
+ "pericopes": [
+  {
+   "id": "PSA.1.1",
+   "titulo": "Os dois caminhos: o justo e o ímpio",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 1,1-6",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.2.1",
+   "titulo": "O Messias, Rei e Filho de Deus",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.3.1",
+   "titulo": "Confiança do perseguido: o Senhor é o meu escudo",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 3,1-9",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.4.1",
+   "titulo": "Oração da noite: em paz me deito e adormeço",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 4,1-10",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.5.1",
+   "titulo": "Oração da manhã: guia-me na tua justiça",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 5,1-13",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.6.1",
+   "titulo": "Súplica do pecador aflito",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 6,1-11",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.7.1",
+   "titulo": "O justo perseguido apela ao Juiz",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 7,1-18",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 18
+   }
+  },
+  {
+   "id": "PSA.8.1",
+   "titulo": "A glória de Deus e a dignidade do homem",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 8,1-10",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.9.1",
+   "titulo": "Ação de graças pela vitória e súplica contra o opressor",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 9,1-39",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 39
+   }
+  },
+  {
+   "id": "PSA.10.1",
+   "titulo": "Confiança no Senhor: o justo não foge",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 10,1-8",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.11.1",
+   "titulo": "As palavras do Senhor são puras",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 11,1-9",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.12.1",
+   "titulo": "Até quando, Senhor?",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 12,1-6",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.13.1",
+   "titulo": "O insensato diz: “Não há Deus”",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 13,1-7",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 7
+   }
+  },
+  {
+   "id": "PSA.14.1",
+   "titulo": "Quem habitará na tua tenda?",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 14,1-5",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.15.1",
+   "titulo": "O Senhor é a minha herança",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 15,1-11",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.16.1",
+   "titulo": "Prece do inocente: guarda-me como a menina dos olhos",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 16,1-15",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 15
+   }
+  },
+  {
+   "id": "PSA.17.1",
+   "titulo": "Ação de graças do rei pela vitória: eu te amo, Senhor",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 17,1-51",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 51
+   }
+  },
+  {
+   "id": "PSA.18.1",
+   "titulo": "Os céus narram a glória de Deus; a lei do Senhor é perfeita",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 18,1-15",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 15
+   }
+  },
+  {
+   "id": "PSA.19.1",
+   "titulo": "Prece pelo rei antes da batalha",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 19,1-10",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.20.1",
+   "titulo": "Ação de graças pela vitória do rei",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 20,1-14",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.21.1",
+   "titulo": "Deus meu, por que me abandonaste?",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 21,1-32",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 32
+   }
+  },
+  {
+   "id": "PSA.22.1",
+   "titulo": "O Senhor é o meu pastor",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 22,1-6",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.23.1",
+   "titulo": "Entrada do Rei da glória",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 23,1-10",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.24.1",
+   "titulo": "A ti, Senhor, elevo a minha alma",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 24,1-22",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 22
+   }
+  },
+  {
+   "id": "PSA.25.1",
+   "titulo": "Prece do inocente que ama a casa do Senhor",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 25,1-12",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.26.1",
+   "titulo": "O Senhor é a minha luz e a minha salvação",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 26,1-14",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.27.1",
+   "titulo": "Súplica e ação de graças: o Senhor é a minha força",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 27,1-9",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.28.1",
+   "titulo": "A voz do Senhor na tempestade",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 28,1-11",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.29.1",
+   "titulo": "Ação de graças pela cura: o pranto se muda em alegria",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 29,1-13",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.30.1",
+   "titulo": "Em tuas mãos entrego o meu espírito",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 30,1-25",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 25
+   }
+  },
+  {
+   "id": "PSA.31.1",
+   "titulo": "Feliz aquele cuja culpa foi perdoada",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 31,1-11",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.32.1",
+   "titulo": "Hino ao Senhor criador e providente",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 32,1-22",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 22
+   }
+  },
+  {
+   "id": "PSA.33.1",
+   "titulo": "Provai e vede como o Senhor é bom",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 33,1-23",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 23
+   }
+  },
+  {
+   "id": "PSA.34.1",
+   "titulo": "Súplica do justo contra os acusadores",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 34,1-28",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 28
+   }
+  },
+  {
+   "id": "PSA.35.1",
+   "titulo": "A malícia do ímpio e a bondade de Deus: em ti está a fonte da vida",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 35,1-13",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.36.1",
+   "titulo": "Não invejes os maus: a herança dos mansos",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 36,1-40",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 40
+   }
+  },
+  {
+   "id": "PSA.37.1",
+   "titulo": "Súplica do pecador na doença",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 37,1-23",
+   "ini": {
+    "c": 37,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 23
+   }
+  },
+  {
+   "id": "PSA.38.1",
+   "titulo": "Brevidade da vida: o homem passa como sombra",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 38,1-14",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.39.1",
+   "titulo": "Eis que venho para fazer a tua vontade",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 39,1-18",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 18
+   }
+  },
+  {
+   "id": "PSA.40.1",
+   "titulo": "Feliz quem cuida do pobre: oração do enfermo traído",
+   "secao": "Livro I do Saltério (Sl 1–40)",
+   "referencia": "Sl 40,1-14",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.41.1",
+   "titulo": "Sede de Deus: como a corça suspira pelas águas",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 41,1-12",
+   "ini": {
+    "c": 41,
+    "v": 1
+   },
+   "fim": {
+    "c": 41,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.42.1",
+   "titulo": "Envia a tua luz e a tua verdade",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 42,1-5",
+   "ini": {
+    "c": 42,
+    "v": 1
+   },
+   "fim": {
+    "c": 42,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.43.1",
+   "titulo": "Lamento do povo derrotado",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 43,1-27",
+   "ini": {
+    "c": 43,
+    "v": 1
+   },
+   "fim": {
+    "c": 43,
+    "v": 27
+   }
+  },
+  {
+   "id": "PSA.44.1",
+   "titulo": "Cântico nupcial do Rei",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 44,1-18",
+   "ini": {
+    "c": 44,
+    "v": 1
+   },
+   "fim": {
+    "c": 44,
+    "v": 18
+   }
+  },
+  {
+   "id": "PSA.45.1",
+   "titulo": "Deus é o nosso refúgio e a nossa força",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 45,1-12",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 45,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.46.1",
+   "titulo": "Deus é Rei de toda a terra",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 46,1-10",
+   "ini": {
+    "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 46,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.47.1",
+   "titulo": "Sião, cidade do grande Rei",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 47,1-15",
+   "ini": {
+    "c": 47,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 15
+   }
+  },
+  {
+   "id": "PSA.48.1",
+   "titulo": "A vaidade das riquezas",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 48,1-21",
+   "ini": {
+    "c": 48,
+    "v": 1
+   },
+   "fim": {
+    "c": 48,
+    "v": 21
+   }
+  },
+  {
+   "id": "PSA.49.1",
+   "titulo": "O verdadeiro culto: sacrifício de louvor",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 49,1-23",
+   "ini": {
+    "c": 49,
+    "v": 1
+   },
+   "fim": {
+    "c": 49,
+    "v": 23
+   }
+  },
+  {
+   "id": "PSA.50.1",
+   "titulo": "Tem piedade de mim, ó Deus (Miserere)",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 50,1-21",
+   "ini": {
+    "c": 50,
+    "v": 1
+   },
+   "fim": {
+    "c": 50,
+    "v": 21
+   }
+  },
+  {
+   "id": "PSA.51.1",
+   "titulo": "Contra o poderoso perverso",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 51,1-11",
+   "ini": {
+    "c": 51,
+    "v": 1
+   },
+   "fim": {
+    "c": 51,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.52.1",
+   "titulo": "O insensato diz: “Não há Deus” (segunda versão)",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 52,1-7",
+   "ini": {
+    "c": 52,
+    "v": 1
+   },
+   "fim": {
+    "c": 52,
+    "v": 7
+   }
+  },
+  {
+   "id": "PSA.53.1",
+   "titulo": "Salva-me, ó Deus, pelo teu nome",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 53,1-9",
+   "ini": {
+    "c": 53,
+    "v": 1
+   },
+   "fim": {
+    "c": 53,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.54.1",
+   "titulo": "Traído pelo amigo: lança sobre o Senhor o teu cuidado",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 54,1-24",
+   "ini": {
+    "c": 54,
+    "v": 1
+   },
+   "fim": {
+    "c": 54,
+    "v": 24
+   }
+  },
+  {
+   "id": "PSA.55.1",
+   "titulo": "Em Deus confio, nada temerei",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 55,1-13",
+   "ini": {
+    "c": 55,
+    "v": 1
+   },
+   "fim": {
+    "c": 55,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.56.1",
+   "titulo": "À sombra das tuas asas: desperta, minha glória",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 56,1-12",
+   "ini": {
+    "c": 56,
+    "v": 1
+   },
+   "fim": {
+    "c": 56,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.57.1",
+   "titulo": "Contra os juízes iníquos",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 57,1-12",
+   "ini": {
+    "c": 57,
+    "v": 1
+   },
+   "fim": {
+    "c": 57,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.58.1",
+   "titulo": "Livra-me dos meus inimigos, ó meu Deus",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 58,1-18",
+   "ini": {
+    "c": 58,
+    "v": 1
+   },
+   "fim": {
+    "c": 58,
+    "v": 18
+   }
+  },
+  {
+   "id": "PSA.59.1",
+   "titulo": "Oração depois da derrota",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 59,1-14",
+   "ini": {
+    "c": 59,
+    "v": 1
+   },
+   "fim": {
+    "c": 59,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.60.1",
+   "titulo": "Prece do exilado: conduze-me à rocha",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 60,1-9",
+   "ini": {
+    "c": 60,
+    "v": 1
+   },
+   "fim": {
+    "c": 60,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.61.1",
+   "titulo": "Só em Deus repousa a minha alma",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 61,1-13",
+   "ini": {
+    "c": 61,
+    "v": 1
+   },
+   "fim": {
+    "c": 61,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.62.1",
+   "titulo": "Ó Deus, tu és o meu Deus: a minha alma tem sede de ti",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 62,1-12",
+   "ini": {
+    "c": 62,
+    "v": 1
+   },
+   "fim": {
+    "c": 62,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.63.1",
+   "titulo": "Contra os caluniadores",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 63,1-11",
+   "ini": {
+    "c": 63,
+    "v": 1
+   },
+   "fim": {
+    "c": 63,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.64.1",
+   "titulo": "Ação de graças pela colheita",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 64,1-14",
+   "ini": {
+    "c": 64,
+    "v": 1
+   },
+   "fim": {
+    "c": 64,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.65.1",
+   "titulo": "Vinde ver as obras de Deus",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 65,1-20",
+   "ini": {
+    "c": 65,
+    "v": 1
+   },
+   "fim": {
+    "c": 65,
+    "v": 20
+   }
+  },
+  {
+   "id": "PSA.66.1",
+   "titulo": "Que os povos te louvem, ó Deus",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 66,1-8",
+   "ini": {
+    "c": 66,
+    "v": 1
+   },
+   "fim": {
+    "c": 66,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.67.1",
+   "titulo": "A marcha triunfal de Deus",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 67,1-36",
+   "ini": {
+    "c": 67,
+    "v": 1
+   },
+   "fim": {
+    "c": 67,
+    "v": 36
+   }
+  },
+  {
+   "id": "PSA.68.1",
+   "titulo": "O zelo da tua casa me devora",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 68,1-37",
+   "ini": {
+    "c": 68,
+    "v": 1
+   },
+   "fim": {
+    "c": 68,
+    "v": 37
+   }
+  },
+  {
+   "id": "PSA.69.1",
+   "titulo": "Ó Deus, vem em meu auxílio",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 69,1-6",
+   "ini": {
+    "c": 69,
+    "v": 1
+   },
+   "fim": {
+    "c": 69,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.70.1",
+   "titulo": "Oração de um ancião",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 70,1-24",
+   "ini": {
+    "c": 70,
+    "v": 1
+   },
+   "fim": {
+    "c": 70,
+    "v": 24
+   }
+  },
+  {
+   "id": "PSA.71.1",
+   "titulo": "O Rei messiânico: justiça e paz",
+   "secao": "Livro II do Saltério (Sl 41–71)",
+   "referencia": "Sl 71,1-20",
+   "ini": {
+    "c": 71,
+    "v": 1
+   },
+   "fim": {
+    "c": 71,
+    "v": 20
+   }
+  },
+  {
+   "id": "PSA.72.1",
+   "titulo": "O escândalo da prosperidade dos ímpios",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 72,1-28",
+   "ini": {
+    "c": 72,
+    "v": 1
+   },
+   "fim": {
+    "c": 72,
+    "v": 28
+   }
+  },
+  {
+   "id": "PSA.73.1",
+   "titulo": "Lamento pelo santuário devastado",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 73,1-23",
+   "ini": {
+    "c": 73,
+    "v": 1
+   },
+   "fim": {
+    "c": 73,
+    "v": 23
+   }
+  },
+  {
+   "id": "PSA.74.1",
+   "titulo": "Deus, juiz de toda a terra",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 74,1-11",
+   "ini": {
+    "c": 74,
+    "v": 1
+   },
+   "fim": {
+    "c": 74,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.75.1",
+   "titulo": "Deus vitorioso em Sião",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 75,1-13",
+   "ini": {
+    "c": 75,
+    "v": 1
+   },
+   "fim": {
+    "c": 75,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.76.1",
+   "titulo": "Meditação na noite da angústia: as maravilhas antigas",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 76,1-21",
+   "ini": {
+    "c": 76,
+    "v": 1
+   },
+   "fim": {
+    "c": 76,
+    "v": 21
+   }
+  },
+  {
+   "id": "PSA.77.1",
+   "titulo": "As lições da história de Israel",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 77,1-72",
+   "ini": {
+    "c": 77,
+    "v": 1
+   },
+   "fim": {
+    "c": 77,
+    "v": 72
+   }
+  },
+  {
+   "id": "PSA.78.1",
+   "titulo": "Lamento pela ruína de Jerusalém",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 78,1-13",
+   "ini": {
+    "c": 78,
+    "v": 1
+   },
+   "fim": {
+    "c": 78,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.79.1",
+   "titulo": "Pastor de Israel, vem visitar a tua vinha",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 79,1-20",
+   "ini": {
+    "c": 79,
+    "v": 1
+   },
+   "fim": {
+    "c": 79,
+    "v": 20
+   }
+  },
+  {
+   "id": "PSA.80.1",
+   "titulo": "Escuta, meu povo: o convite da festa",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 80,1-17",
+   "ini": {
+    "c": 80,
+    "v": 1
+   },
+   "fim": {
+    "c": 80,
+    "v": 17
+   }
+  },
+  {
+   "id": "PSA.81.1",
+   "titulo": "Deus julga os juízes",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 81,1-8",
+   "ini": {
+    "c": 81,
+    "v": 1
+   },
+   "fim": {
+    "c": 81,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.82.1",
+   "titulo": "Contra a coligação das nações",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 82,1-19",
+   "ini": {
+    "c": 82,
+    "v": 1
+   },
+   "fim": {
+    "c": 82,
+    "v": 19
+   }
+  },
+  {
+   "id": "PSA.83.1",
+   "titulo": "Quão amáveis são as tuas moradas",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 83,1-13",
+   "ini": {
+    "c": 83,
+    "v": 1
+   },
+   "fim": {
+    "c": 83,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.84.1",
+   "titulo": "A misericórdia e a verdade se encontrarão",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 84,1-14",
+   "ini": {
+    "c": 84,
+    "v": 1
+   },
+   "fim": {
+    "c": 84,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.85.1",
+   "titulo": "Oração do pobre: inclina, Senhor, o teu ouvido",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 85,1-17",
+   "ini": {
+    "c": 85,
+    "v": 1
+   },
+   "fim": {
+    "c": 85,
+    "v": 17
+   }
+  },
+  {
+   "id": "PSA.86.1",
+   "titulo": "Sião, mãe de todos os povos",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 86,1-7",
+   "ini": {
+    "c": 86,
+    "v": 1
+   },
+   "fim": {
+    "c": 86,
+    "v": 7
+   }
+  },
+  {
+   "id": "PSA.87.1",
+   "titulo": "Lamento na angústia extrema",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 87,1-19",
+   "ini": {
+    "c": 87,
+    "v": 1
+   },
+   "fim": {
+    "c": 87,
+    "v": 19
+   }
+  },
+  {
+   "id": "PSA.88.1",
+   "titulo": "As misericórdias do Senhor e a aliança com Davi",
+   "secao": "Livro III do Saltério (Sl 72–88)",
+   "referencia": "Sl 88,1-53",
+   "ini": {
+    "c": 88,
+    "v": 1
+   },
+   "fim": {
+    "c": 88,
+    "v": 53
+   }
+  },
+  {
+   "id": "PSA.89.1",
+   "titulo": "A eternidade de Deus e a brevidade do homem",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 89,1-17",
+   "ini": {
+    "c": 89,
+    "v": 1
+   },
+   "fim": {
+    "c": 89,
+    "v": 17
+   }
+  },
+  {
+   "id": "PSA.90.1",
+   "titulo": "Sob a proteção do Altíssimo",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 90,1-16",
+   "ini": {
+    "c": 90,
+    "v": 1
+   },
+   "fim": {
+    "c": 90,
+    "v": 16
+   }
+  },
+  {
+   "id": "PSA.91.1",
+   "titulo": "É bom louvar o Senhor: cântico para o sábado",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 91,1-16",
+   "ini": {
+    "c": 91,
+    "v": 1
+   },
+   "fim": {
+    "c": 91,
+    "v": 16
+   }
+  },
+  {
+   "id": "PSA.92.1",
+   "titulo": "O Senhor reina, revestido de majestade",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 92,1-5",
+   "ini": {
+    "c": 92,
+    "v": 1
+   },
+   "fim": {
+    "c": 92,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.93.1",
+   "titulo": "O Deus que faz justiça",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 93,1-23",
+   "ini": {
+    "c": 93,
+    "v": 1
+   },
+   "fim": {
+    "c": 93,
+    "v": 23
+   }
+  },
+  {
+   "id": "PSA.94.1",
+   "titulo": "Vinde, exultemos no Senhor",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 94,1-11",
+   "ini": {
+    "c": 94,
+    "v": 1
+   },
+   "fim": {
+    "c": 94,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.95.1",
+   "titulo": "Cantai ao Senhor um cântico novo",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 95,1-13",
+   "ini": {
+    "c": 95,
+    "v": 1
+   },
+   "fim": {
+    "c": 95,
+    "v": 13
+   }
+  },
+  {
+   "id": "PSA.96.1",
+   "titulo": "O Senhor reina: exulte a terra",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 96,1-12",
+   "ini": {
+    "c": 96,
+    "v": 1
+   },
+   "fim": {
+    "c": 96,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.97.1",
+   "titulo": "O Senhor manifestou a sua salvação",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 97,1-9",
+   "ini": {
+    "c": 97,
+    "v": 1
+   },
+   "fim": {
+    "c": 97,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.98.1",
+   "titulo": "Santo é o Senhor nosso Deus",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 98,1-9",
+   "ini": {
+    "c": 98,
+    "v": 1
+   },
+   "fim": {
+    "c": 98,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.99.1",
+   "titulo": "Aclamai o Senhor, terra inteira",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 99,1-5",
+   "ini": {
+    "c": 99,
+    "v": 1
+   },
+   "fim": {
+    "c": 99,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.100.1",
+   "titulo": "O propósito do rei íntegro",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 100,1-8",
+   "ini": {
+    "c": 100,
+    "v": 1
+   },
+   "fim": {
+    "c": 100,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.101.1",
+   "titulo": "Oração do aflito: o Senhor reconstruirá Sião",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 101,1-29",
+   "ini": {
+    "c": 101,
+    "v": 1
+   },
+   "fim": {
+    "c": 101,
+    "v": 29
+   }
+  },
+  {
+   "id": "PSA.102.1",
+   "titulo": "Bendiz, ó minha alma, o Senhor",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 102,1-22",
+   "ini": {
+    "c": 102,
+    "v": 1
+   },
+   "fim": {
+    "c": 102,
+    "v": 22
+   }
+  },
+  {
+   "id": "PSA.103.1",
+   "titulo": "Hino ao Criador",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 103,1-35",
+   "ini": {
+    "c": 103,
+    "v": 1
+   },
+   "fim": {
+    "c": 103,
+    "v": 35
+   }
+  },
+  {
+   "id": "PSA.104.1",
+   "titulo": "As maravilhas de Deus fiel à sua aliança",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 104,1-45",
+   "ini": {
+    "c": 104,
+    "v": 1
+   },
+   "fim": {
+    "c": 104,
+    "v": 45
+   }
+  },
+  {
+   "id": "PSA.105.1",
+   "titulo": "Confissão dos pecados do povo",
+   "secao": "Livro IV do Saltério (Sl 89–105)",
+   "referencia": "Sl 105,1-48",
+   "ini": {
+    "c": 105,
+    "v": 1
+   },
+   "fim": {
+    "c": 105,
+    "v": 48
+   }
+  },
+  {
+   "id": "PSA.106.1",
+   "titulo": "Ação de graças dos resgatados",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 106,1-43",
+   "ini": {
+    "c": 106,
+    "v": 1
+   },
+   "fim": {
+    "c": 106,
+    "v": 43
+   }
+  },
+  {
+   "id": "PSA.107.1",
+   "titulo": "O meu coração está firme, ó Deus",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 107,1-14",
+   "ini": {
+    "c": 107,
+    "v": 1
+   },
+   "fim": {
+    "c": 107,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.108.1",
+   "titulo": "Súplica contra o acusador",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 108,1-31",
+   "ini": {
+    "c": 108,
+    "v": 1
+   },
+   "fim": {
+    "c": 108,
+    "v": 31
+   }
+  },
+  {
+   "id": "PSA.109.1",
+   "titulo": "Disse o Senhor ao meu Senhor: o Rei e Sacerdote",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 109,1-7",
+   "ini": {
+    "c": 109,
+    "v": 1
+   },
+   "fim": {
+    "c": 109,
+    "v": 7
+   }
+  },
+  {
+   "id": "PSA.110.1",
+   "titulo": "Grandes são as obras do Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 110,1-10",
+   "ini": {
+    "c": 110,
+    "v": 1
+   },
+   "fim": {
+    "c": 110,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.111.1",
+   "titulo": "Feliz o homem que teme o Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 111,1-10",
+   "ini": {
+    "c": 111,
+    "v": 1
+   },
+   "fim": {
+    "c": 111,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.112.1",
+   "titulo": "Louvai, servos do Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 112,1-9",
+   "ini": {
+    "c": 112,
+    "v": 1
+   },
+   "fim": {
+    "c": 112,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.113.1",
+   "titulo": "Quando Israel saiu do Egito; não a nós, Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 113,1-26",
+   "ini": {
+    "c": 113,
+    "v": 1
+   },
+   "fim": {
+    "c": 113,
+    "v": 26
+   }
+  },
+  {
+   "id": "PSA.114.1",
+   "titulo": "Amo o Senhor, porque ouviu a minha voz",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 114,1-9",
+   "ini": {
+    "c": 114,
+    "v": 1
+   },
+   "fim": {
+    "c": 114,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.115.1",
+   "titulo": "Que darei ao Senhor? O cálice da salvação",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 115,1-10",
+   "ini": {
+    "c": 115,
+    "v": 1
+   },
+   "fim": {
+    "c": 115,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.116.1",
+   "titulo": "Louvai o Senhor, todas as nações",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 116,1-2",
+   "ini": {
+    "c": 116,
+    "v": 1
+   },
+   "fim": {
+    "c": 116,
+    "v": 2
+   }
+  },
+  {
+   "id": "PSA.117.1",
+   "titulo": "Este é o dia que o Senhor fez",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 117,1-29",
+   "ini": {
+    "c": 117,
+    "v": 1
+   },
+   "fim": {
+    "c": 117,
+    "v": 29
+   }
+  },
+  {
+   "id": "PSA.118.1",
+   "titulo": "Sl 118 · Álef: felizes os que andam na lei do Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,1-8",
+   "ini": {
+    "c": 118,
+    "v": 1
+   },
+   "fim": {
+    "c": 118,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.118.9",
+   "titulo": "Sl 118 · Bet: como o jovem guardará puro o seu caminho?",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,9-16",
+   "ini": {
+    "c": 118,
+    "v": 9
+   },
+   "fim": {
+    "c": 118,
+    "v": 16
+   }
+  },
+  {
+   "id": "PSA.118.17",
+   "titulo": "Sl 118 · Guímel: abre os meus olhos",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,17-24",
+   "ini": {
+    "c": 118,
+    "v": 17
+   },
+   "fim": {
+    "c": 118,
+    "v": 24
+   }
+  },
+  {
+   "id": "PSA.118.25",
+   "titulo": "Sl 118 · Dálet: a minha alma está prostrada no pó",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,25-32",
+   "ini": {
+    "c": 118,
+    "v": 25
+   },
+   "fim": {
+    "c": 118,
+    "v": 32
+   }
+  },
+  {
+   "id": "PSA.118.33",
+   "titulo": "Sl 118 · He: ensina-me o caminho dos teus preceitos",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,33-40",
+   "ini": {
+    "c": 118,
+    "v": 33
+   },
+   "fim": {
+    "c": 118,
+    "v": 40
+   }
+  },
+  {
+   "id": "PSA.118.41",
+   "titulo": "Sl 118 · Vau: venha sobre mim a tua misericórdia",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,41-48",
+   "ini": {
+    "c": 118,
+    "v": 41
+   },
+   "fim": {
+    "c": 118,
+    "v": 48
+   }
+  },
+  {
+   "id": "PSA.118.49",
+   "titulo": "Sl 118 · Zain: a tua palavra é o meu consolo",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,49-56",
+   "ini": {
+    "c": 118,
+    "v": 49
+   },
+   "fim": {
+    "c": 118,
+    "v": 56
+   }
+  },
+  {
+   "id": "PSA.118.57",
+   "titulo": "Sl 118 · Het: a minha porção é o Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,57-64",
+   "ini": {
+    "c": 118,
+    "v": 57
+   },
+   "fim": {
+    "c": 118,
+    "v": 64
+   }
+  },
+  {
+   "id": "PSA.118.65",
+   "titulo": "Sl 118 · Tet: foi bom para mim ser humilhado",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,65-72",
+   "ini": {
+    "c": 118,
+    "v": 65
+   },
+   "fim": {
+    "c": 118,
+    "v": 72
+   }
+  },
+  {
+   "id": "PSA.118.73",
+   "titulo": "Sl 118 · Iod: as tuas mãos me fizeram",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,73-80",
+   "ini": {
+    "c": 118,
+    "v": 73
+   },
+   "fim": {
+    "c": 118,
+    "v": 80
+   }
+  },
+  {
+   "id": "PSA.118.81",
+   "titulo": "Sl 118 · Caf: a minha alma desfalece pela tua salvação",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,81-88",
+   "ini": {
+    "c": 118,
+    "v": 81
+   },
+   "fim": {
+    "c": 118,
+    "v": 88
+   }
+  },
+  {
+   "id": "PSA.118.89",
+   "titulo": "Sl 118 · Lámed: a tua palavra permanece para sempre",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,89-96",
+   "ini": {
+    "c": 118,
+    "v": 89
+   },
+   "fim": {
+    "c": 118,
+    "v": 96
+   }
+  },
+  {
+   "id": "PSA.118.97",
+   "titulo": "Sl 118 · Mem: quanto amo a tua lei!",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,97-104",
+   "ini": {
+    "c": 118,
+    "v": 97
+   },
+   "fim": {
+    "c": 118,
+    "v": 104
+   }
+  },
+  {
+   "id": "PSA.118.105",
+   "titulo": "Sl 118 · Nun: lâmpada para os meus pés é a tua palavra",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,105-112",
+   "ini": {
+    "c": 118,
+    "v": 105
+   },
+   "fim": {
+    "c": 118,
+    "v": 112
+   }
+  },
+  {
+   "id": "PSA.118.113",
+   "titulo": "Sl 118 · Sámec: tu és o meu refúgio e o meu escudo",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,113-120",
+   "ini": {
+    "c": 118,
+    "v": 113
+   },
+   "fim": {
+    "c": 118,
+    "v": 120
+   }
+  },
+  {
+   "id": "PSA.118.121",
+   "titulo": "Sl 118 · Áin: sou teu servo, dá-me entendimento",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,121-128",
+   "ini": {
+    "c": 118,
+    "v": 121
+   },
+   "fim": {
+    "c": 118,
+    "v": 128
+   }
+  },
+  {
+   "id": "PSA.118.129",
+   "titulo": "Sl 118 · Pe: maravilhosos são os teus testemunhos",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,129-136",
+   "ini": {
+    "c": 118,
+    "v": 129
+   },
+   "fim": {
+    "c": 118,
+    "v": 136
+   }
+  },
+  {
+   "id": "PSA.118.137",
+   "titulo": "Sl 118 · Sade: justo és tu, Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,137-144",
+   "ini": {
+    "c": 118,
+    "v": 137
+   },
+   "fim": {
+    "c": 118,
+    "v": 144
+   }
+  },
+  {
+   "id": "PSA.118.145",
+   "titulo": "Sl 118 · Cof: clamo de todo o coração",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,145-152",
+   "ini": {
+    "c": 118,
+    "v": 145
+   },
+   "fim": {
+    "c": 118,
+    "v": 152
+   }
+  },
+  {
+   "id": "PSA.118.153",
+   "titulo": "Sl 118 · Res: vê a minha aflição e livra-me",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,153-160",
+   "ini": {
+    "c": 118,
+    "v": 153
+   },
+   "fim": {
+    "c": 118,
+    "v": 160
+   }
+  },
+  {
+   "id": "PSA.118.161",
+   "titulo": "Sl 118 · Sin: grande paz para os que amam a tua lei",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,161-168",
+   "ini": {
+    "c": 118,
+    "v": 161
+   },
+   "fim": {
+    "c": 118,
+    "v": 168
+   }
+  },
+  {
+   "id": "PSA.118.169",
+   "titulo": "Sl 118 · Tau: andei errante como ovelha perdida",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 118,169-176",
+   "ini": {
+    "c": 118,
+    "v": 169
+   },
+   "fim": {
+    "c": 118,
+    "v": 176
+   }
+  },
+  {
+   "id": "PSA.119.1",
+   "titulo": "Na angústia clamei ao Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 119,1-7",
+   "ini": {
+    "c": 119,
+    "v": 1
+   },
+   "fim": {
+    "c": 119,
+    "v": 7
+   }
+  },
+  {
+   "id": "PSA.120.1",
+   "titulo": "Levanto os olhos para os montes",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 120,1-8",
+   "ini": {
+    "c": 120,
+    "v": 1
+   },
+   "fim": {
+    "c": 120,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.121.1",
+   "titulo": "Que alegria quando me disseram: “Vamos à casa do Senhor”",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 121,1-9",
+   "ini": {
+    "c": 121,
+    "v": 1
+   },
+   "fim": {
+    "c": 121,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.122.1",
+   "titulo": "A ti levanto os meus olhos",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 122,1-4",
+   "ini": {
+    "c": 122,
+    "v": 1
+   },
+   "fim": {
+    "c": 122,
+    "v": 4
+   }
+  },
+  {
+   "id": "PSA.123.1",
+   "titulo": "Se o Senhor não estivesse do nosso lado",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 123,1-8",
+   "ini": {
+    "c": 123,
+    "v": 1
+   },
+   "fim": {
+    "c": 123,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.124.1",
+   "titulo": "Os que confiam no Senhor são como o monte Sião",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 124,1-5",
+   "ini": {
+    "c": 124,
+    "v": 1
+   },
+   "fim": {
+    "c": 124,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.125.1",
+   "titulo": "Quando o Senhor fez voltar os cativos de Sião",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 125,1-6",
+   "ini": {
+    "c": 125,
+    "v": 1
+   },
+   "fim": {
+    "c": 125,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.126.1",
+   "titulo": "Se o Senhor não edificar a casa",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 126,1-5",
+   "ini": {
+    "c": 126,
+    "v": 1
+   },
+   "fim": {
+    "c": 126,
+    "v": 5
+   }
+  },
+  {
+   "id": "PSA.127.1",
+   "titulo": "Feliz quem teme o Senhor: a bênção do lar",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 127,1-6",
+   "ini": {
+    "c": 127,
+    "v": 1
+   },
+   "fim": {
+    "c": 127,
+    "v": 6
+   }
+  },
+  {
+   "id": "PSA.128.1",
+   "titulo": "Muito me perseguiram desde a juventude",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 128,1-8",
+   "ini": {
+    "c": 128,
+    "v": 1
+   },
+   "fim": {
+    "c": 128,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.129.1",
+   "titulo": "Do profundo abismo clamo a ti, Senhor (De profundis)",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 129,1-8",
+   "ini": {
+    "c": 129,
+    "v": 1
+   },
+   "fim": {
+    "c": 129,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.130.1",
+   "titulo": "Como criança no colo da mãe",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 130,1-3",
+   "ini": {
+    "c": 130,
+    "v": 1
+   },
+   "fim": {
+    "c": 130,
+    "v": 3
+   }
+  },
+  {
+   "id": "PSA.131.1",
+   "titulo": "O Senhor escolheu Sião: a promessa a Davi",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 131,1-18",
+   "ini": {
+    "c": 131,
+    "v": 1
+   },
+   "fim": {
+    "c": 131,
+    "v": 18
+   }
+  },
+  {
+   "id": "PSA.132.1",
+   "titulo": "Como é bom viverem os irmãos unidos",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 132,1-3",
+   "ini": {
+    "c": 132,
+    "v": 1
+   },
+   "fim": {
+    "c": 132,
+    "v": 3
+   }
+  },
+  {
+   "id": "PSA.133.1",
+   "titulo": "Bendizei o Senhor durante a noite",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 133,1-3",
+   "ini": {
+    "c": 133,
+    "v": 1
+   },
+   "fim": {
+    "c": 133,
+    "v": 3
+   }
+  },
+  {
+   "id": "PSA.134.1",
+   "titulo": "Louvai o nome do Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 134,1-21",
+   "ini": {
+    "c": 134,
+    "v": 1
+   },
+   "fim": {
+    "c": 134,
+    "v": 21
+   }
+  },
+  {
+   "id": "PSA.135.1",
+   "titulo": "Porque eterna é a sua misericórdia",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 135,1-26",
+   "ini": {
+    "c": 135,
+    "v": 1
+   },
+   "fim": {
+    "c": 135,
+    "v": 26
+   }
+  },
+  {
+   "id": "PSA.136.1",
+   "titulo": "Junto aos rios da Babilônia",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 136,1-9",
+   "ini": {
+    "c": 136,
+    "v": 1
+   },
+   "fim": {
+    "c": 136,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.137.1",
+   "titulo": "Ação de graças de todo o coração",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 137,1-8",
+   "ini": {
+    "c": 137,
+    "v": 1
+   },
+   "fim": {
+    "c": 137,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.138.1",
+   "titulo": "Senhor, tu me sondas e me conheces",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 138,1-24",
+   "ini": {
+    "c": 138,
+    "v": 1
+   },
+   "fim": {
+    "c": 138,
+    "v": 24
+   }
+  },
+  {
+   "id": "PSA.139.1",
+   "titulo": "Livra-me, Senhor, do homem mau",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 139,1-14",
+   "ini": {
+    "c": 139,
+    "v": 1
+   },
+   "fim": {
+    "c": 139,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.140.1",
+   "titulo": "Suba a minha oração como incenso",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 140,1-10",
+   "ini": {
+    "c": 140,
+    "v": 1
+   },
+   "fim": {
+    "c": 140,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.141.1",
+   "titulo": "Clamor do perseguido na caverna",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 141,1-8",
+   "ini": {
+    "c": 141,
+    "v": 1
+   },
+   "fim": {
+    "c": 141,
+    "v": 8
+   }
+  },
+  {
+   "id": "PSA.142.1",
+   "titulo": "Não entres em juízo com o teu servo",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 142,1-12",
+   "ini": {
+    "c": 142,
+    "v": 1
+   },
+   "fim": {
+    "c": 142,
+    "v": 12
+   }
+  },
+  {
+   "id": "PSA.143.1",
+   "titulo": "Bendito o Senhor, minha rocha",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 143,1-15",
+   "ini": {
+    "c": 143,
+    "v": 1
+   },
+   "fim": {
+    "c": 143,
+    "v": 15
+   }
+  },
+  {
+   "id": "PSA.144.1",
+   "titulo": "Exaltar-te-ei, meu Deus e meu Rei",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 144,1-21",
+   "ini": {
+    "c": 144,
+    "v": 1
+   },
+   "fim": {
+    "c": 144,
+    "v": 21
+   }
+  },
+  {
+   "id": "PSA.145.1",
+   "titulo": "Feliz quem espera no Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 145,1-10",
+   "ini": {
+    "c": 145,
+    "v": 1
+   },
+   "fim": {
+    "c": 145,
+    "v": 10
+   }
+  },
+  {
+   "id": "PSA.146.1",
+   "titulo": "O Senhor reconstrói Jerusalém e cura os corações",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 146,1-11",
+   "ini": {
+    "c": 146,
+    "v": 1
+   },
+   "fim": {
+    "c": 146,
+    "v": 11
+   }
+  },
+  {
+   "id": "PSA.147.1",
+   "titulo": "Louva, Jerusalém, o Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 147,1-9",
+   "ini": {
+    "c": 147,
+    "v": 1
+   },
+   "fim": {
+    "c": 147,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.148.1",
+   "titulo": "Louvor de toda a criação",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 148,1-14",
+   "ini": {
+    "c": 148,
+    "v": 1
+   },
+   "fim": {
+    "c": 148,
+    "v": 14
+   }
+  },
+  {
+   "id": "PSA.149.1",
+   "titulo": "Cântico novo dos fiéis",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 149,1-9",
+   "ini": {
+    "c": 149,
+    "v": 1
+   },
+   "fim": {
+    "c": 149,
+    "v": 9
+   }
+  },
+  {
+   "id": "PSA.150.1",
+   "titulo": "Tudo o que respira louve o Senhor",
+   "secao": "Livro V do Saltério (Sl 106–150)",
+   "referencia": "Sl 150,1-6",
+   "ini": {
+    "c": 150,
+    "v": 1
+   },
+   "fim": {
+    "c": 150,
+    "v": 6
+   }
+  }
+ ]
+}

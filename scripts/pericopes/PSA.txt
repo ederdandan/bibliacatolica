@@ -1,0 +1,178 @@
+# Divisão dos Salmos (numeração Vulgata / Matos Soares). Formato: ini-fim | título
+# Um salmo por perícope; o Sl 118 em 22 estrofes de 8 versículos.
+## Livro I do Saltério (Sl 1–40)
+1:1-1:6 | Os dois caminhos: o justo e o ímpio
+2:1-2:13 | O Messias, Rei e Filho de Deus
+3:1-3:9 | Confiança do perseguido: o Senhor é o meu escudo
+4:1-4:10 | Oração da noite: em paz me deito e adormeço
+5:1-5:13 | Oração da manhã: guia-me na tua justiça
+6:1-6:11 | Súplica do pecador aflito
+7:1-7:18 | O justo perseguido apela ao Juiz
+8:1-8:10 | A glória de Deus e a dignidade do homem
+9:1-9:39 | Ação de graças pela vitória e súplica contra o opressor
+10:1-10:8 | Confiança no Senhor: o justo não foge
+11:1-11:9 | As palavras do Senhor são puras
+12:1-12:6 | Até quando, Senhor?
+13:1-13:7 | O insensato diz: “Não há Deus”
+14:1-14:5 | Quem habitará na tua tenda?
+15:1-15:11 | O Senhor é a minha herança
+16:1-16:15 | Prece do inocente: guarda-me como a menina dos olhos
+17:1-17:51 | Ação de graças do rei pela vitória: eu te amo, Senhor
+18:1-18:15 | Os céus narram a glória de Deus; a lei do Senhor é perfeita
+19:1-19:10 | Prece pelo rei antes da batalha
+20:1-20:14 | Ação de graças pela vitória do rei
+21:1-21:32 | Deus meu, por que me abandonaste?
+22:1-22:6 | O Senhor é o meu pastor
+23:1-23:10 | Entrada do Rei da glória
+24:1-24:22 | A ti, Senhor, elevo a minha alma
+25:1-25:12 | Prece do inocente que ama a casa do Senhor
+26:1-26:14 | O Senhor é a minha luz e a minha salvação
+27:1-27:9 | Súplica e ação de graças: o Senhor é a minha força
+28:1-28:11 | A voz do Senhor na tempestade
+29:1-29:13 | Ação de graças pela cura: o pranto se muda em alegria
+30:1-30:25 | Em tuas mãos entrego o meu espírito
+31:1-31:11 | Feliz aquele cuja culpa foi perdoada
+32:1-32:22 | Hino ao Senhor criador e providente
+33:1-33:23 | Provai e vede como o Senhor é bom
+34:1-34:28 | Súplica do justo contra os acusadores
+35:1-35:13 | A malícia do ímpio e a bondade de Deus: em ti está a fonte da vida
+36:1-36:40 | Não invejes os maus: a herança dos mansos
+37:1-37:23 | Súplica do pecador na doença
+38:1-38:14 | Brevidade da vida: o homem passa como sombra
+39:1-39:18 | Eis que venho para fazer a tua vontade
+40:1-40:14 | Feliz quem cuida do pobre: oração do enfermo traído
+## Livro II do Saltério (Sl 41–71)
+41:1-41:12 | Sede de Deus: como a corça suspira pelas águas
+42:1-42:5 | Envia a tua luz e a tua verdade
+43:1-43:27 | Lamento do povo derrotado
+44:1-44:18 | Cântico nupcial do Rei
+45:1-45:12 | Deus é o nosso refúgio e a nossa força
+46:1-46:10 | Deus é Rei de toda a terra
+47:1-47:15 | Sião, cidade do grande Rei
+48:1-48:21 | A vaidade das riquezas
+49:1-49:23 | O verdadeiro culto: sacrifício de louvor
+50:1-50:21 | Tem piedade de mim, ó Deus (Miserere)
+51:1-51:11 | Contra o poderoso perverso
+52:1-52:7 | O insensato diz: “Não há Deus” (segunda versão)
+53:1-53:9 | Salva-me, ó Deus, pelo teu nome
+54:1-54:24 | Traído pelo amigo: lança sobre o Senhor o teu cuidado
+55:1-55:13 | Em Deus confio, nada temerei
+56:1-56:12 | À sombra das tuas asas: desperta, minha glória
+57:1-57:12 | Contra os juízes iníquos
+58:1-58:18 | Livra-me dos meus inimigos, ó meu Deus
+59:1-59:14 | Oração depois da derrota
+60:1-60:9 | Prece do exilado: conduze-me à rocha
+61:1-61:13 | Só em Deus repousa a minha alma
+62:1-62:12 | Ó Deus, tu és o meu Deus: a minha alma tem sede de ti
+63:1-63:11 | Contra os caluniadores
+64:1-64:14 | Ação de graças pela colheita
+65:1-65:20 | Vinde ver as obras de Deus
+66:1-66:8 | Que os povos te louvem, ó Deus
+67:1-67:36 | A marcha triunfal de Deus
+68:1-68:37 | O zelo da tua casa me devora
+69:1-69:6 | Ó Deus, vem em meu auxílio
+70:1-70:24 | Oração de um ancião
+71:1-71:20 | O Rei messiânico: justiça e paz
+## Livro III do Saltério (Sl 72–88)
+72:1-72:28 | O escândalo da prosperidade dos ímpios
+73:1-73:23 | Lamento pelo santuário devastado
+74:1-74:11 | Deus, juiz de toda a terra
+75:1-75:13 | Deus vitorioso em Sião
+76:1-76:21 | Meditação na noite da angústia: as maravilhas antigas
+77:1-77:72 | As lições da história de Israel
+78:1-78:13 | Lamento pela ruína de Jerusalém
+79:1-79:20 | Pastor de Israel, vem visitar a tua vinha
+80:1-80:17 | Escuta, meu povo: o convite da festa
+81:1-81:8 | Deus julga os juízes
+82:1-82:19 | Contra a coligação das nações
+83:1-83:13 | Quão amáveis são as tuas moradas
+84:1-84:14 | A misericórdia e a verdade se encontrarão
+85:1-85:17 | Oração do pobre: inclina, Senhor, o teu ouvido
+86:1-86:7 | Sião, mãe de todos os povos
+87:1-87:19 | Lamento na angústia extrema
+88:1-88:53 | As misericórdias do Senhor e a aliança com Davi
+## Livro IV do Saltério (Sl 89–105)
+89:1-89:17 | A eternidade de Deus e a brevidade do homem
+90:1-90:16 | Sob a proteção do Altíssimo
+91:1-91:16 | É bom louvar o Senhor: cântico para o sábado
+92:1-92:5 | O Senhor reina, revestido de majestade
+93:1-93:23 | O Deus que faz justiça
+94:1-94:11 | Vinde, exultemos no Senhor
+95:1-95:13 | Cantai ao Senhor um cântico novo
+96:1-96:12 | O Senhor reina: exulte a terra
+97:1-97:9 | O Senhor manifestou a sua salvação
+98:1-98:9 | Santo é o Senhor nosso Deus
+99:1-99:5 | Aclamai o Senhor, terra inteira
+100:1-100:8 | O propósito do rei íntegro
+101:1-101:29 | Oração do aflito: o Senhor reconstruirá Sião
+102:1-102:22 | Bendiz, ó minha alma, o Senhor
+103:1-103:35 | Hino ao Criador
+104:1-104:45 | As maravilhas de Deus fiel à sua aliança
+105:1-105:48 | Confissão dos pecados do povo
+## Livro V do Saltério (Sl 106–150)
+106:1-106:43 | Ação de graças dos resgatados
+107:1-107:14 | O meu coração está firme, ó Deus
+108:1-108:31 | Súplica contra o acusador
+109:1-109:7 | Disse o Senhor ao meu Senhor: o Rei e Sacerdote
+110:1-110:10 | Grandes são as obras do Senhor
+111:1-111:10 | Feliz o homem que teme o Senhor
+112:1-112:9 | Louvai, servos do Senhor
+113:1-113:26 | Quando Israel saiu do Egito; não a nós, Senhor
+114:1-114:9 | Amo o Senhor, porque ouviu a minha voz
+115:1-115:10 | Que darei ao Senhor? O cálice da salvação
+116:1-116:2 | Louvai o Senhor, todas as nações
+117:1-117:29 | Este é o dia que o Senhor fez
+118:1-118:8 | Sl 118 · Álef: felizes os que andam na lei do Senhor
+118:9-118:16 | Sl 118 · Bet: como o jovem guardará puro o seu caminho?
+118:17-118:24 | Sl 118 · Guímel: abre os meus olhos
+118:25-118:32 | Sl 118 · Dálet: a minha alma está prostrada no pó
+118:33-118:40 | Sl 118 · He: ensina-me o caminho dos teus preceitos
+118:41-118:48 | Sl 118 · Vau: venha sobre mim a tua misericórdia
+118:49-118:56 | Sl 118 · Zain: a tua palavra é o meu consolo
+118:57-118:64 | Sl 118 · Het: a minha porção é o Senhor
+118:65-118:72 | Sl 118 · Tet: foi bom para mim ser humilhado
+118:73-118:80 | Sl 118 · Iod: as tuas mãos me fizeram
+118:81-118:88 | Sl 118 · Caf: a minha alma desfalece pela tua salvação
+118:89-118:96 | Sl 118 · Lámed: a tua palavra permanece para sempre
+118:97-118:104 | Sl 118 · Mem: quanto amo a tua lei!
+118:105-118:112 | Sl 118 · Nun: lâmpada para os meus pés é a tua palavra
+118:113-118:120 | Sl 118 · Sámec: tu és o meu refúgio e o meu escudo
+118:121-118:128 | Sl 118 · Áin: sou teu servo, dá-me entendimento
+118:129-118:136 | Sl 118 · Pe: maravilhosos são os teus testemunhos
+118:137-118:144 | Sl 118 · Sade: justo és tu, Senhor
+118:145-118:152 | Sl 118 · Cof: clamo de todo o coração
+118:153-118:160 | Sl 118 · Res: vê a minha aflição e livra-me
+118:161-118:168 | Sl 118 · Sin: grande paz para os que amam a tua lei
+118:169-118:176 | Sl 118 · Tau: andei errante como ovelha perdida
+119:1-119:7 | Na angústia clamei ao Senhor
+120:1-120:8 | Levanto os olhos para os montes
+121:1-121:9 | Que alegria quando me disseram: “Vamos à casa do Senhor”
+122:1-122:4 | A ti levanto os meus olhos
+123:1-123:8 | Se o Senhor não estivesse do nosso lado
+124:1-124:5 | Os que confiam no Senhor são como o monte Sião
+125:1-125:6 | Quando o Senhor fez voltar os cativos de Sião
+126:1-126:5 | Se o Senhor não edificar a casa
+127:1-127:6 | Feliz quem teme o Senhor: a bênção do lar
+128:1-128:8 | Muito me perseguiram desde a juventude
+129:1-129:8 | Do profundo abismo clamo a ti, Senhor (De profundis)
+130:1-130:3 | Como criança no colo da mãe
+131:1-131:18 | O Senhor escolheu Sião: a promessa a Davi
+132:1-132:3 | Como é bom viverem os irmãos unidos
+133:1-133:3 | Bendizei o Senhor durante a noite
+134:1-134:21 | Louvai o nome do Senhor
+135:1-135:26 | Porque eterna é a sua misericórdia
+136:1-136:9 | Junto aos rios da Babilônia
+137:1-137:8 | Ação de graças de todo o coração
+138:1-138:24 | Senhor, tu me sondas e me conheces
+139:1-139:14 | Livra-me, Senhor, do homem mau
+140:1-140:10 | Suba a minha oração como incenso
+141:1-141:8 | Clamor do perseguido na caverna
+142:1-142:12 | Não entres em juízo com o teu servo
+143:1-143:15 | Bendito o Senhor, minha rocha
+144:1-144:21 | Exaltar-te-ei, meu Deus e meu Rei
+145:1-145:10 | Feliz quem espera no Senhor
+146:1-146:11 | O Senhor reconstrói Jerusalém e cura os corações
+147:1-147:9 | Louva, Jerusalém, o Senhor
+148:1-148:14 | Louvor de toda a criação
+149:1-149:9 | Cântico novo dos fiéis
+150:1-150:6 | Tudo o que respira louve o Senhor

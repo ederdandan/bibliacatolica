@@ -1,0 +1,57 @@
+{
+  "id": "PSA.106.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças dos resgatados",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 106,1-43",
+  "ini": {
+    "c": 106,
+    "v": 1
+  },
+  "fim": {
+    "c": 106,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Deem graças ao Senhor pela sua misericórdia: os resgatados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre o quinto livro. Os resgatados, reunidos de todos os pontos cardeais, são convidados a dar graças. Quatro quadros mostram pessoas em perigo que clamam e são salvas: os errantes no deserto, com fome e sede, conduzidos a uma cidade; os prisioneiros nas trevas, por rebeldia, libertados das cadeias; os doentes à beira da morte, curados pela palavra de Deus; os navegantes na tempestade, cujo mar Deus acalma. Um refrão duplo se repete: “Na angústia clamaram ao Senhor, e ele os livrou” e “Deem graças ao Senhor pela sua misericórdia”. O fim celebra Deus que transforma desertos em lagos e levanta o pobre. “Quem é sábio, considere estas coisas.”",
+    "alegorico": "Jesus realiza estes quatro sinais: sacia os famintos no deserto, liberta os cativos, cura com a sua palavra (“envia a sua palavra e os cura”, v. 20; cf. Mt 8,8) e acalma o mar (Mc 4,39-41, com a mesma admiração). Ele é a Palavra enviada para a cura do mundo.",
+    "moral": "O salmo ensina a ler a própria vida à luz da salvação: em cada situação de deserto, prisão, doença ou tempestade, o caminho é clamar e, depois, agradecer. A sabedoria é saber “considerar as misericórdias do Senhor”.",
+    "anagogico": "A cidade habitável à qual Deus conduz os errantes e o porto desejado são figuras da pátria celeste, aonde o Senhor leva os seus resgatados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dai graças ao Senhor, porque é bom, porque eterna é a sua misericórdia. Andaram errantes no deserto; clamaram ao Senhor na sua angústia, e ele os livrou. Enviou a sua palavra para os curar. A tempestade serenou em brisa, e ele os conduziu ao porto desejado. Dêem graças ao Senhor pela sua misericórdia.",
+    "meditatio_perguntas": [
+      "Em qual dos quatro quadros (deserto, prisão, doença, tempestade) me reconheço hoje?",
+      "Agradeço depois de ser socorrido, ou esqueço?",
+      "Considero com sabedoria as misericórdias do Senhor na minha história?"
+    ],
+    "oratio_guia": "Senhor, na minha angústia clamo a ti. Conduz-me no deserto, quebra as minhas cadeias, envia a tua palavra para me curar e acalma as tempestades. Leva-me ao porto desejado. Dou-te graças pela tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.",
+      "ref": "Sl 106,6"
+    }
+  },
+  "ancoras": {
+    "106:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A palavra de Deus é apresentada como mensageiro que cura; cf. Sb 16,12 e Mt 8,8.",
+        "origem": "ia"
+      }
+    },
+    "106:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Compare com Mc 4,39-41.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

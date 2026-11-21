@@ -1,0 +1,57 @@
+{
+  "id": "PSA.46.1",
+  "livro": "PSA",
+  "titulo": "Deus é Rei de toda a terra",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 46,1-10",
+  "ini": {
+    "c": 46,
+    "v": 1
+  },
+  "fim": {
+    "c": 46,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Deus sobe entre aclamações: Rei de toda a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino à realeza universal de Deus. Os povos são convidados a bater palmas e aclamar o Senhor, Rei supremo de toda a terra, que escolheu para Israel a sua herança. “Deus sobe entre aclamações, o Senhor ao som da trombeta” — talvez em procissão da Arca ao Templo. Cantai salmos ao nosso Rei. Deus reina sobre as nações, sentado no seu trono santo; os príncipes dos povos se unem ao povo do Deus de Abraão.",
+    "alegorico": "A liturgia canta este salmo na Ascensão do Senhor: Cristo sobe ao céu entre aclamações e se senta à direita do Pai como Rei de toda a terra. A reunião dos príncipes das nações com o povo de Abraão é a Igreja de judeus e gentios, filhos de Abraão pela fé (Gl 3,7).",
+    "moral": "Reconhecer Deus como Rei significa deixar que ele governe a vida e cantar-lhe com inteligência (“cantai um hino”). A alegria do louvor é expressão de fé, não só de emoção.",
+    "anagogico": "A ascensão de Cristo antecipa a nossa: onde está a Cabeça, estará também o corpo. Todas as nações se reunirão um dia diante do trono de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Povos todos, batei palmas, aclamai a Deus com vozes de alegria, porque o Senhor é o Rei de toda a terra. Sobe Deus entre aclamações, o Senhor ao som da trombeta. Cantai ao nosso Rei, cantai. Deus reina sobre as nações.",
+    "meditatio_perguntas": [
+      "Deus é, de fato, o Rei da minha vida, ou apenas um conselheiro?",
+      "Como vivo a alegria do louvor?",
+      "Que significa para mim que Cristo subiu ao céu e reina?"
+    ],
+    "oratio_guia": "Senhor Jesus, que subiste ao céu entre aclamações, reina sobre mim e sobre todos os povos. Quero aplaudir-te e cantar-te com alegria. Atrai-me para onde estás, à direita do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sobe Deus entre (vozes de) júbilo, o Senhor ao som da trombeta.",
+      "ref": "Sl 46,6"
+    }
+  },
+  "ancoras": {
+    "46:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmo responsorial da solenidade da Ascensão. O verbo “subir” lembra a subida da Arca a Jerusalém (2Sm 6,15).",
+        "origem": "ia"
+      }
+    },
+    "46:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Universalismo notável: os príncipes das nações tornam-se “povo do Deus de Abraão”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.99.1",
+  "livro": "PSA",
+  "titulo": "Aclamai o Senhor, terra inteira",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 99,1-5",
+  "ini": {
+    "c": 99,
+    "v": 1
+  },
+  "fim": {
+    "c": 99,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Servi ao Senhor com alegria: somos o seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo breve para a oferta de ação de graças. Toda a terra é convidada a aclamar o Senhor, a servi-lo com alegria e entrar na sua presença com cânticos. “Sabei que o Senhor é Deus: ele nos fez, e somos seus, o seu povo e o rebanho do seu pasto.” Entrai pelas suas portas com ações de graças, nos seus átrios com hinos. Porque o Senhor é bom, a sua misericórdia é eterna e a sua fidelidade passa de geração em geração.",
+    "alegorico": "É o Jubilate Deo, salmo das Laudes e invitatório alternativo. A Igreja, rebanho do Bom Pastor, entra pelas portas da casa de Deus, que é Cristo, a Porta (Jo 10,9).",
+    "moral": "O serviço de Deus é vivido com alegria, não como obrigação pesada. Reconhecer que “ele nos fez e somos seus” liberta da autossuficiência e funda a gratidão.",
+    "anagogico": "A misericórdia eterna e a fidelidade de geração em geração anunciam a entrada definitiva nas portas da casa do Pai, com ação de graças sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aclamai o Senhor, terra inteira. Servi o Senhor com alegria, vinde à sua presença com cânticos. Sabei que o Senhor é Deus: ele nos fez, e somos seus, o seu povo e o rebanho do seu pasto. Entrai pelas suas portas dando graças. Porque o Senhor é bom, eterna é a sua misericórdia.",
+    "meditatio_perguntas": [
+      "Sirvo a Deus com alegria ou por obrigação?",
+      "O que muda em mim ao lembrar que “somos seus”?",
+      "Entro na igreja dando graças?"
+    ],
+    "oratio_guia": "Senhor, tu me fizeste e eu sou teu. Quero servir-te com alegria e entrar na tua presença com cânticos. Tu és bom, eterna é a tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "servi o Senhor com alegria, vinde à sua presença com alvoroço.",
+      "ref": "Sl 99,2"
+    }
+  },
+  "ancoras": {
+    "99:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico tem uma variante: “ele nos fez, e não nós a nós mesmos”, seguida pela Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

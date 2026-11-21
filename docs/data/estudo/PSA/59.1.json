@@ -1,0 +1,57 @@
+{
+  "id": "PSA.59.1",
+  "livro": "PSA",
+  "titulo": "Oração depois da derrota",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 59,1-14",
+  "ini": {
+    "c": 59,
+    "v": 1
+  },
+  "fim": {
+    "c": 59,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Com Deus faremos proezas: vão é o socorro do homem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento nacional após uma derrota, ligado pelo título às guerras de Davi contra os arameus e edomitas. Deus parece ter rejeitado o povo, abalado a terra e dado a beber vinho de vertigem. O povo pede restauração. Um oráculo divino recorda que toda a terra pertence a Deus: Siquém, Galaad, Efraim, Judá; Moab, Edom e Filisteia lhe estão submetidos. Quem conduzirá o povo à vitória senão Deus? “Dá-nos auxílio, porque vão é o socorro do homem. Com Deus faremos proezas.”",
+    "alegorico": "O domínio de Deus sobre todos os povos se realiza em Cristo, a quem foi dado todo poder no céu e na terra (Mt 28,18). A Igreja, às vezes derrotada aos olhos do mundo, vence com Deus.",
+    "moral": "As derrotas podem purificar a confiança: “vão é o socorro do homem”. O salmo ensina a pedir restauração e a reconhecer que as vitórias verdadeiras vêm de Deus.",
+    "anagogico": "A posse universal anunciada no oráculo será plena quando Cristo submeter todas as coisas ao Pai e Deus for tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, rejeitaste-nos, iraste-te: restaura-nos. Abalaste a terra: repara as suas fendas. Deus falou no seu santuário. Dá-nos auxílio contra o inimigo, porque vão é o socorro do homem. Com Deus faremos proezas.",
+    "meditatio_perguntas": [
+      "Que derrotas me ensinaram que “vão é o socorro do homem”?",
+      "Peço a Deus que repare as “fendas” da minha vida?",
+      "Que proezas Deus quer fazer comigo?"
+    ],
+    "oratio_guia": "Senhor, restaura-nos e repara as fendas da nossa vida e da tua Igreja. O socorro humano é vão; dá-nos o teu. Contigo faremos proezas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Com Deus faremos proezas, e ele calcará aos pés os nossos inimigos.",
+      "ref": "Sl 59,14"
+    }
+  },
+  "ancoras": {
+    "59:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 8,3-14 e 1Cr 18. O “vale do sal” fica ao sul do mar Morto.",
+        "origem": "ia"
+      }
+    },
+    "59:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 7-14 reaparecem no Sl 107,7-14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

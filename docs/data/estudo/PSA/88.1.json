@@ -1,0 +1,65 @@
+{
+  "id": "PSA.88.1",
+  "livro": "PSA",
+  "titulo": "As misericórdias do Senhor e a aliança com Davi",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 88,1-53",
+  "ini": {
+    "c": 88,
+    "v": 1
+  },
+  "fim": {
+    "c": 88,
+    "v": 53
+  },
+  "liturgia": {
+    "tema_central": "Cantarei eternamente as misericórdias do Senhor: a aliança com Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Grande salmo régio que fecha o terceiro livro. O salmista canta a misericórdia e a fidelidade de Deus, firmes como o céu, e recorda a aliança com Davi: “conservarei para sempre a tua descendência”. Louva o Deus incomparável, que domina o mar e criou o universo; justiça e direito são a base do seu trono. Repete o oráculo: Deus ungiu Davi, que o chamará “Tu és meu Pai”, e o fará primogênito, o mais alto dos reis; mesmo se os filhos pecarem, Deus os castigará, mas não retirará a sua graça. Mas a realidade contradiz a promessa: o rei foi rejeitado, a coroa profanada, as muralhas destruídas. “Até quando, Senhor? Onde estão as tuas antigas misericórdias?”",
+    "alegorico": "A promessa a Davi se cumpre em Cristo, Filho de Davi, a quem foi dado o trono para sempre (Lc 1,32-33). Ele chama Deus “meu Pai” de modo único e é o Primogênito de toda a criação (Cl 1,15). A aparente rejeição do ungido se realiza na Cruz, e a fidelidade de Deus na Ressurreição.",
+    "moral": "O salmo ensina a apelar às promessas de Deus quando a realidade parece desmenti-las. A fé não ignora a crise; leva-a a Deus. Também mostra que a correção de Deus não anula a sua misericórdia.",
+    "anagogico": "O trono “como o sol” e a descendência eterna apontam para o Reino eterno de Cristo, onde a fidelidade de Deus será plenamente manifestada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cantarei eternamente as misericórdias do Senhor; anunciarei a tua fidelidade por todas as gerações. Fiz aliança com o meu escolhido. Ele me invocará: “Tu és meu Pai, meu Deus e a rocha da minha salvação”. Não retirarei a minha graça. Até quando, Senhor? Onde estão as tuas antigas misericórdias?",
+    "meditatio_perguntas": [
+      "Que promessas de Deus seguro firme quando a vida parece contradizê-las?",
+      "Chamo Deus de “meu Pai” com a confiança de Cristo?",
+      "Canto as misericórdias de Deus na minha história?"
+    ],
+    "oratio_guia": "Senhor, cantarei para sempre as tuas misericórdias. Tu és fiel às tuas promessas, mesmo quando não entendo os teus caminhos. Em Cristo, Filho de Davi, posso chamar-te Pai. Lembra-te das tuas antigas misericórdias e vem em nosso auxílio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu cantarei eternamente as graças do Senhor",
+      "ref": "Sl 88,2"
+    }
+  },
+  "ancoras": {
+    "88:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Etã ezraíta: sábio e cantor do tempo de Davi e Salomão (1Rs 4,31; 1Cr 15,17).",
+        "origem": "ia"
+      }
+    },
+    "88:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 16,13 e 2Sm 7,12-16 (a profecia de Natã).",
+        "origem": "ia"
+      }
+    },
+    "88:53": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Doxologia que encerra o terceiro livro do Saltério.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "PSA.21.1",
+  "livro": "PSA",
+  "titulo": "Deus meu, por que me abandonaste?",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 21,1-32",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Deus meu, por que me abandonaste? Da Cruz ao louvor universal",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo começa com o grito de um justo que se sente abandonado: clama dia e noite e Deus não responde, embora os pais tenham sido salvos. Ele é um verme, escárnio do povo; os que o veem zombam: “Confiou no Senhor, que o salve”. A descrição é dramática: cercado de touros e cães, com os ossos deslocados, a língua colada ao paladar, mãos e pés traspassados, enquanto repartem as suas vestes. De repente o tom muda (v. 23): o salmista anuncia o nome de Deus aos irmãos, os pobres comerão e serão saciados, e todas as nações se converterão ao Senhor.",
+    "alegorico": "Este é o salmo da Paixão. Jesus rezou o seu primeiro versículo na Cruz (Mt 27,46); os Evangelhos citam o escárnio (Mt 27,43), a divisão das vestes (Jo 19,24) e a sede (Jo 19,28). A segunda parte é a Ressurreição: Hb 2,12 põe na boca de Cristo o v. 23. Os pobres que comem e se saciam são figura da Eucaristia, o banquete da nova Aliança.",
+    "moral": "Rezar o salmo com Cristo dá voz às nossas noites escuras: a sensação de abandono não é falta de fé, se for gritada a Deus (“Deus meu”). O salmo nos ensina a não perder a esperança e mostra que o sofrimento vivido em Deus se torna fecundo para os outros.",
+    "anagogico": "A conversão de “todos os limites da terra” e a adoração dos que “dormem na sepultura” anunciam o Reino universal de Cristo ressuscitado e a ressurreição dos mortos. A última palavra não é o abandono, mas “tudo isto fez o Senhor”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus meu, Deus meu, por que me abandonaste? Todos os que me veem zombam de mim: “Confiou no Senhor, que ele o salve”. Traspassaram as minhas mãos e os meus pés, repartem entre si as minhas vestes. Mas tu, Senhor, não fiques longe. Anunciarei o teu nome aos meus irmãos.",
+    "meditatio_perguntas": [
+      "Já experimentei a sensação de abandono de Deus? Como a rezei?",
+      "Contemplo a Paixão de Cristo como um sofrimento que ele viveu por mim?",
+      "Como o meu sofrimento pode se tornar anúncio e bênção para os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, que na Cruz gritaste “Deus meu, por que me abandonaste?”, une as minhas noites escuras à tua. Faz-me confiar no Pai mesmo quando ele parece calar, e conduz-me contigo à alegria da Páscoa, para anunciar o seu nome aos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus meu, Deus meu, por que me desamparaste?",
+      "ref": "Sl 21,2"
+    }
+  },
+  "ancoras": {
+    "21:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesus rezou este versículo em aramaico na Cruz (Mc 15,34). Citar o início de um salmo evocava o salmo inteiro, que termina em vitória.",
+        "origem": "ia"
+      }
+    },
+    "21:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Traspassaram” segue a leitura grega e da Vulgata (foderunt); o texto hebraico tradicional tem “como um leão”. A tradição cristã sempre leu aqui a crucifixão.",
+        "origem": "ia"
+      }
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado literalmente em Jo 19,24, a propósito da túnica inconsútil de Jesus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

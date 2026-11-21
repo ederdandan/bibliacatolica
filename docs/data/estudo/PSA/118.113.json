@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.113",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Sámec: tu és o meu refúgio e o meu escudo",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,113-120",
+  "ini": {
+    "c": 118,
+    "v": 113
+  },
+  "fim": {
+    "c": 118,
+    "v": 120
+  },
+  "liturgia": {
+    "tema_central": "Tu és o meu refúgio e o meu escudo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Sámec. O salmista detesta os de coração dúplice e ama a lei. Deus é o seu refúgio e escudo; espera na palavra. Manda afastarem-se os malfeitores, para guardar os mandamentos. Pede amparo para viver e não ser confundido na esperança. Deus rejeita os que se desviam; por isso o salmista ama as prescrições. A sua carne estremece de temor diante de Deus.",
+    "alegorico": "Jesus pede um coração inteiro (Mt 6,24: não se pode servir a dois senhores). Ele é o escudo dos que esperam na sua palavra.",
+    "moral": "O “coração dúplice” é o grande inimigo da vida espiritual: querer Deus e o pecado ao mesmo tempo. O salmo convida à unidade interior e a um temor reverente que não é medo servil.",
+    "anagogico": "Quem espera em Deus não será confundido na esperança: a promessa se cumpre na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Detesto os de coração dúplice e amo a tua lei. Tu és o meu refúgio e o meu escudo: espero na tua palavra. Ampara-me segundo a tua promessa, e viverei; não permitas que eu seja confundido na minha esperança.",
+    "meditatio_perguntas": [
+      "Em que tenho um “coração dúplice”, dividido entre Deus e outra coisa?",
+      "Deus é o meu refúgio, ou busco abrigo em outros lugares?",
+      "Que esperança confio hoje a Deus?"
+    ],
+    "oratio_guia": "Senhor, unifica o meu coração dividido. Tu és o meu refúgio e o meu escudo. Ampara-me e não permitas que eu seja confundido na minha esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és o meu protector e o meu escudo: espero na tua palavra.",
+      "ref": "Sl 118,114"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

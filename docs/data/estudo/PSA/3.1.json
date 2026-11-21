@@ -1,0 +1,57 @@
+{
+  "id": "PSA.3.1",
+  "livro": "PSA",
+  "titulo": "Confiança do perseguido: o Senhor é o meu escudo",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 3,1-9",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é o meu escudo: confiança no meio do perigo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza este salmo ao fugir de Absalão, seu filho revoltado. Os inimigos são muitos e zombam: “Não há salvação para ele em Deus”. Mas o salmista proclama que o Senhor é o seu escudo e a sua glória, que ouve o seu clamor desde o monte santo. Por isso pode deitar-se, dormir e levantar-se em paz, sem temer os milhares que o cercam. Termina pedindo a intervenção de Deus e a sua bênção sobre o povo.",
+    "alegorico": "Os Padres leram o “deitei-me e adormeci; levantei-me” como profecia da morte e Ressurreição de Cristo: traído por um próximo, como Davi por Absalão, ele adormece no sepulcro e o Pai o levanta. A Igreja reza este salmo no Ofício de Leituras, como oração do Ressuscitado.",
+    "moral": "O sono tranquilo do salmista é fruto da confiança. Quando as dificuldades se multiplicam e outros dizem que Deus nos abandonou, o salmo ensina a responder com a oração e a entregar o descanso ao Senhor. A paz interior não depende da ausência de inimigos, mas da certeza de quem nos sustenta.",
+    "anagogico": "O despertar do salmista aponta para o despertar final na ressurreição. Quem adormece no Senhor pela morte levantar-se-á, porque “junto do Senhor há salvação”, e a sua bênção repousará sobre todo o povo dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muitos se levantam contra mim e dizem: “Não há salvação para ele em Deus”. Mas tu, Senhor, és o meu escudo e a minha glória. Clamei e ele me ouviu. Deitei-me e adormeci; levantei-me, porque o Senhor me ampara.",
+    "meditatio_perguntas": [
+      "Que vozes, de fora ou de dentro, me dizem que Deus não me salvará?",
+      "Consigo entregar a Deus as preocupações antes de dormir?",
+      "Em quem ponho a minha “glória”: em mim ou no Senhor?"
+    ],
+    "oratio_guia": "Senhor, quando os problemas se multiplicam e me dizem que estou sozinho, tu és o meu escudo. Esta noite entrego-te o meu descanso; amanhã levanta-me pela tua mão. Que a tua bênção venha sobre o teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deitei-me e adormeci: levantei-me, porque o Senhor me ampara.",
+      "ref": "Sl 3,6"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 15–17. Davi foge descalço e chorando, mas sem amaldiçoar o filho.",
+        "origem": "ia"
+      }
+    },
+    "3:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Muito usado na liturgia pascal antiga como figura da Ressurreição: Cristo dorme no sepulcro e desperta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

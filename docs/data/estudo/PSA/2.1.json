@@ -1,0 +1,57 @@
+{
+  "id": "PSA.2.1",
+  "livro": "PSA",
+  "titulo": "O Messias, Rei e Filho de Deus",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O Senhor entronizou o seu Messias, o Filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo régio, cantado talvez na entronização dos reis de Judá. As nações e os reis da terra conspiram contra o Senhor e contra o seu Messias, querendo quebrar as suas cadeias. Deus, que habita nos céus, ri-se deles e declara: “Eu constituí o meu rei sobre Sião”. O próprio rei proclama o decreto divino: “Tu és meu filho, eu hoje te gerei”, e recebe as nações em herança. O salmo termina com um aviso aos governantes para que sirvam ao Senhor com temor e uma bem-aventurança para os que nele se refugiam.",
+    "alegorico": "O Novo Testamento lê o salmo inteiramente em Cristo. Os Atos (4,25-27) veem a conspiração de Herodes, Pilatos, gentios e Israel contra Jesus; o “hoje te gerei” é aplicado à Ressurreição (At 13,33) e à filiação eterna do Verbo (Hb 1,5). O Messias rejeitado pelos poderosos é constituído Rei sobre o monte santo, que é a Igreja.",
+    "moral": "Também em nós há uma rebelião que quer “sacudir os laços” de Deus, tomando-os por cadeias. O salmo ensina que o jugo do Senhor é libertação, e que servir com temor e alegria é a atitude sábia. Quem se refugia em Cristo não precisa temer os tumultos do mundo.",
+    "anagogico": "A herança das nações e o domínio até os confins da terra só se cumprirão plenamente quando Cristo entregar o Reino ao Pai, com todos os inimigos submetidos (1Cor 15,24-25). O Apocalipse retoma a “vara de ferro” para o Cordeiro vitorioso (Ap 19,15)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os reis da terra se levantam contra o Senhor e contra o seu Messias. Deus ri-se deles e diz: “Constituí o meu rei sobre Sião”. E ao rei: “Tu és meu filho, eu hoje te gerei”. Felizes os que se acolhem a ele.",
+    "meditatio_perguntas": [
+      "Que “laços” de Deus eu ainda vejo como cadeias que gostaria de sacudir?",
+      "O que significa para mim que Jesus é o Filho e o Rei constituído pelo Pai?",
+      "Como sirvo ao Senhor “com temor” e, ao mesmo tempo, “com alegria”?"
+    ],
+    "oratio_guia": "Pai, tu disseste ao teu Cristo: “Tu és meu filho”. Submeto a ele o meu coração rebelde e as minhas pequenas conspirações. Reina em mim, Senhor Jesus, e faz-me encontrar refúgio em ti, no meio dos tumultos do mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és meu filho, eu hoje te gerei.",
+      "ref": "Sl 2,7"
+    }
+  },
+  "ancoras": {
+    "2:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Messias” traduz o hebraico mashiah, “ungido”, em grego Christós. É o único salmo do Livro I que usa o título de modo tão explícito.",
+        "origem": "ia"
+      }
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula de adoção do rei davídico (cf. 2Sm 7,14). Em Cristo torna-se verdade plena: ele é o Filho por natureza.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

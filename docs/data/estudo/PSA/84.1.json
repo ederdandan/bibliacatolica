@@ -1,0 +1,57 @@
+{
+  "id": "PSA.84.1",
+  "livro": "PSA",
+  "titulo": "A misericórdia e a verdade se encontrarão",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 84,1-14",
+  "ini": {
+    "c": 84,
+    "v": 1
+  },
+  "fim": {
+    "c": 84,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A misericórdia e a verdade se encontrarão; a justiça e a paz se beijarão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo do retorno do exílio. O povo recorda que Deus foi favorável à sua terra, mudou a sorte de Jacó, perdoou a culpa e conteve a ira. Mas a restauração ainda não está completa, e o povo suplica: “Restaura-nos, ó Deus; mostra-nos a tua misericórdia e dá-nos a tua salvação”. Então o salmista escuta o que Deus diz: palavras de paz para o seu povo. A salvação está perto, para que a glória habite na terra. Misericórdia e fidelidade se encontram, justiça e paz se beijam; a verdade brota da terra e a justiça olha do céu.",
+    "alegorico": "A liturgia canta este salmo no Advento e no Natal: a fidelidade que brota da terra é Cristo nascido de Maria, e a justiça que desce do céu é o Verbo eterno. Na Encarnação, céu e terra se encontram e a glória de Deus vem habitar entre nós (Jo 1,14).",
+    "moral": "O salmo ensina a escutar: “Ouvirei o que o Senhor diz”. A paz de Deus é dada aos que se convertem de coração. Também mostra que a verdadeira paz não existe sem justiça, nem a justiça sem misericórdia.",
+    "anagogico": "Quando a justiça e a paz se beijarem plenamente, será o Reino definitivo, em que a glória de Deus habitará para sempre na nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Foste favorável, Senhor, à tua terra. Perdoaste a culpa do teu povo. Mostra-nos, Senhor, a tua misericórdia e dá-nos a tua salvação. Ouvirei o que o Senhor diz: fala de paz ao seu povo. A misericórdia e a fidelidade se encontraram, a justiça e a paz se beijaram. A fidelidade germinará da terra.",
+    "meditatio_perguntas": [
+      "Tenho escutado o que Deus diz, ou só falo na oração?",
+      "Onde a justiça e a paz precisam se “beijar” na minha vida e no meu ambiente?",
+      "Como acolho Cristo, a fidelidade que germina da terra?"
+    ],
+    "oratio_guia": "Senhor, mostra-nos a tua misericórdia e dá-nos a tua salvação. Quero ouvir o que dizes. Faz que na minha vida a misericórdia e a verdade se encontrem, a justiça e a paz se beijem. Vem habitar a nossa terra com a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "A misericórdia e a fidelidade se encontraram juntas, a justiça e a paz se oscularam.",
+      "ref": "Sl 84,11"
+    }
+  },
+  "ancoras": {
+    "84:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ouvirei o que o Senhor diz”: atitude profética de escuta, muito amada pelos místicos.",
+        "origem": "ia"
+      }
+    },
+    "84:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmo do Advento e do Natal; os Padres viram aqui a união das naturezas divina e humana em Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

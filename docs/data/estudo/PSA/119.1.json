@@ -1,0 +1,49 @@
+{
+  "id": "PSA.119.1",
+  "livro": "PSA",
+  "titulo": "Na angústia clamei ao Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 119,1-7",
+  "ini": {
+    "c": 119,
+    "v": 1
+  },
+  "fim": {
+    "c": 119,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Sou pela paz, mas eles querem a guerra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro dos quinze “Cânticos das subidas” (Sl 119–133), cantados pelos peregrinos que subiam a Jerusalém. O salmista, vivendo longe, entre povos hostis (Mosoc e Cedar, nomes de tribos distantes), clamou ao Senhor na angústia e foi ouvido. Pede libertação da língua mentirosa, que será castigada com flechas e brasas. Lamenta: “Demasiado tempo vivi com os que odeiam a paz; eu falo de paz, e eles querem a guerra”.",
+    "alegorico": "Cristo, Príncipe da paz, viveu entre os que o odiavam e respondeu com a paz. A peregrinação começa reconhecendo que o mundo não é a pátria; a Igreja peregrina caminha da terra do exílio para a Jerusalém do alto.",
+    "moral": "O ponto de partida da peregrinação espiritual é o desconforto com o mal e a mentira ao redor. O salmo convida a ser homem de paz mesmo cercado de conflitos, e a guardar a língua da mentira.",
+    "anagogico": "A paz que o salmista não encontra no exílio será plena na Jerusalém celeste, “visão de paz”, meta de toda subida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Na minha angústia clamei ao Senhor, e ele me ouviu. Senhor, livra-me dos lábios mentirosos, da língua enganadora. Demasiado tempo habitei com os que odeiam a paz. Eu falo de paz, e eles querem a guerra.",
+    "meditatio_perguntas": [
+      "Em que ambientes me sinto “exilado”, cercado de hostilidade?",
+      "Sou promotor de paz ou alimento conflitos?",
+      "Como uso a língua quando sou provocado?"
+    ],
+    "oratio_guia": "Senhor, na angústia clamo a ti. Livra-me da língua mentirosa, a dos outros e a minha. Faz de mim um homem de paz e conduz-me para a tua Jerusalém. Amém.",
+    "contemplatio_foco": {
+      "texto": "Na minha tribulação, clamei ao Senhor, e ele ouviu-me.",
+      "ref": "Sl 119,1"
+    }
+  },
+  "ancoras": {
+    "119:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “Cânticos das subidas” (graduais) eram cantados pelos peregrinos a caminho das festas em Jerusalém, ou nos degraus do Templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

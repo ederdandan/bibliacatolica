@@ -1,0 +1,65 @@
+{
+  "id": "PSA.117.1",
+  "livro": "PSA",
+  "titulo": "Este é o dia que o Senhor fez",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 117,1-29",
+  "ini": {
+    "c": 117,
+    "v": 1
+  },
+  "fim": {
+    "c": 117,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Este é o dia que o Senhor fez: a pedra rejeitada tornou-se angular",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Último salmo do Hallel, liturgia de ação de graças com procissão até o Templo. Israel, os sacerdotes e os que temem a Deus repetem: “Eterna é a sua misericórdia”. Um homem conta: na angústia invoquei o Senhor e ele me ouviu; o Senhor está comigo, não temo; é melhor refugiar-se no Senhor do que confiar nos príncipes. Cercado pelos inimigos como abelhas, venceu em nome do Senhor. “Não morrerei, mas viverei.” Às portas do Templo pede: “Abri-me as portas da justiça”. Ressoa a frase: “A pedra que os construtores rejeitaram tornou-se pedra angular”. “Este é o dia que o Senhor fez: exultemos.” “Bendito o que vem em nome do Senhor.” Procissão com ramos até o altar.",
+    "alegorico": "É o salmo pascal por excelência. Jesus aplica a si a pedra rejeitada (Mt 21,42; At 4,11; 1Pd 2,7). A multidão o aclama com o v. 26 na entrada em Jerusalém (Mt 21,9), com ramos. “Este é o dia que o Senhor fez” é cantado durante toda a oitava da Páscoa. “Não morrerei, mas viverei” é a voz do Ressuscitado.",
+    "moral": "O salmo ensina a confiar em Deus mais do que nos poderosos e a reconhecer que Deus constrói com aquilo que os homens rejeitam. Convida a viver cada domingo como “o dia que o Senhor fez”, com alegria.",
+    "anagogico": "As “portas da justiça” se abrirão definitivamente para os justos na Jerusalém celeste; o “dia que o Senhor fez” é o oitavo dia, o dia eterno da Ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Dai graças ao Senhor, porque é bom: eterna é a sua misericórdia. O Senhor está comigo: não temo. É melhor refugiar-se no Senhor que confiar no homem. Não morrerei, mas viverei, e narrarei as obras do Senhor. A pedra que os construtores rejeitaram tornou-se pedra angular. Este é o dia que o Senhor fez: exultemos e alegremo-nos nele.",
+    "meditatio_perguntas": [
+      "O que em mim ou nos outros foi “rejeitado” e Deus pode transformar em pedra angular?",
+      "Vivo o domingo como “o dia que o Senhor fez”?",
+      "Em quem confio mais: no Senhor ou nos “príncipes”?"
+    ],
+    "oratio_guia": "Senhor, eterna é a tua misericórdia! Cristo, pedra rejeitada, tornaste-te pedra angular. Não morrerei, mas viverei contigo. Abre-me as portas da justiça. Este é o dia que fizeste: quero exultar e alegrar-me nele. Bendito o que vem em nome do Senhor! Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o dia que fez o Senhor; regozijemo-nos e alegremo-nos nele.",
+      "ref": "Sl 117,24"
+    }
+  },
+  "ancoras": {
+    "117:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus (Mt 21,42) e pelos Apóstolos (At 4,11; 1Pd 2,7).",
+        "origem": "ia"
+      }
+    },
+    "117:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ó Senhor, salva” = em hebraico Hosha-na, de onde vem “Hosana”.",
+        "origem": "ia"
+      }
+    },
+    "117:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aclamação na entrada de Jesus em Jerusalém (Mt 21,9) e no Sanctus da Missa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

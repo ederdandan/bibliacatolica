@@ -1,0 +1,57 @@
+{
+  "id": "PSA.41.1",
+  "livro": "PSA",
+  "titulo": "Sede de Deus: como a corça suspira pelas águas",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 41,1-12",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Como a corça suspira pelas águas, minha alma suspira por ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um levita exilado longe do Templo, perto das fontes do Jordão e do Hermon, exprime a sua sede de Deus: como a corça anseia pelas águas, a sua alma tem sede do Deus vivo. Chora dia e noite, enquanto zombam: “Onde está o teu Deus?”. Recorda as procissões festivas rumo à casa de Deus. As torrentes da montanha lhe parecem as ondas de Deus que o submergem. Um refrão volta duas vezes: “Por que te abates, minha alma? Espera em Deus, ainda o louvarei”.",
+    "alegorico": "A liturgia batismal antiga cantava este salmo na procissão dos catecúmenos para a fonte batismal na Vigília Pascal: a corça sedenta é o catecúmeno que corre para as águas do Batismo. Cristo é a água viva que mata a sede da alma (Jo 7,37).",
+    "moral": "O salmo legitima a nostalgia de Deus e a tristeza espiritual, e ensina a dialogar com a própria alma: “por que te abates?”. Recordar as graças passadas e esperar em Deus é o caminho para atravessar a aridez e as zombarias.",
+    "anagogico": "“Quando irei contemplar a face de Deus?” é a pergunta de toda a vida cristã, que só terá resposta na visão de Deus face a face na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como a corça suspira pelas fontes das águas, assim a minha alma suspira por ti, ó Deus. A minha alma tem sede de Deus, do Deus vivo: quando irei contemplar a face de Deus? As minhas lágrimas são o meu pão de dia e de noite. Por que te abates, minha alma? Espera em Deus, ainda o louvarei.",
+    "meditatio_perguntas": [
+      "Sinto sede de Deus, ou estou saciado de outras coisas?",
+      "Que pergunto à minha alma quando ela se abate?",
+      "Que lembranças da graça de Deus podem sustentar-me hoje?"
+    ],
+    "oratio_guia": "Ó Deus vivo, a minha alma tem sede de ti, como a corça sedenta. Quando a tristeza me abate e me perguntam onde estás, faz-me esperar em ti. Leva-me à fonte da água viva e um dia à contemplação da tua face. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim como a cerva suspira pelas fontes das águas, assim a minha alma suspira por ti, ó Deus.",
+      "ref": "Sl 41,2"
+    }
+  },
+  "ancoras": {
+    "41:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Hermon e as fontes do Jordão ficam no extremo norte de Israel, longe de Jerusalém: o salmista está no exílio ou impedido de ir ao Templo.",
+        "origem": "ia"
+      }
+    },
+    "41:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Um abismo chama outro abismo”: o fragor das cascatas evoca as provações que se sucedem.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

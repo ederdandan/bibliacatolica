@@ -1,0 +1,49 @@
+{
+  "id": "PSA.144.1",
+  "livro": "PSA",
+  "titulo": "Exaltar-te-ei, meu Deus e meu Rei",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 144,1-21",
+  "ini": {
+    "c": 144,
+    "v": 1
+  },
+  "fim": {
+    "c": 144,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Exaltar-te-ei, meu Deus e meu Rei: o Senhor está perto de quem o invoca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino alfabético de louvor universal. O salmista promete bendizer o nome de Deus todos os dias e para sempre. O Senhor é grande, de grandeza insondável; cada geração conta à seguinte as suas obras. Proclama: o Senhor é clemente e compassivo, lento para a ira e rico em amor; bom para com todos, compassivo com todas as suas obras. O seu Reino é eterno. Sustenta os que caem, levanta os abatidos. Os olhos de todos esperam nele, e ele lhes dá o alimento a seu tempo; abre a mão e sacia todo ser vivo. Está perto de todos os que o invocam sinceramente.",
+    "alegorico": "A tradição judaica rezava este salmo três vezes ao dia. A Igreja o usa como oração antes das refeições (vv. 15-16). O Reino eterno é o Reino de Cristo, e a mão aberta que sacia evoca a multiplicação dos pães.",
+    "moral": "O salmo forma o coração no louvor cotidiano e na confiança na bondade universal de Deus. Convida a transmitir a fé às gerações e a imitar a Deus que levanta os que caem.",
+    "anagogico": "“O teu reino é um reino de todos os séculos”: o louvor de “toda a carne pelos séculos dos séculos” é a liturgia eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Exaltar-te-ei, meu Deus e meu Rei; bendirei o teu nome para sempre. O Senhor é clemente e compassivo, lento para a ira e rico em misericórdia. O Senhor sustenta os que caem e levanta os abatidos. Os olhos de todos esperam em ti, e tu lhes dás o alimento a seu tempo. O Senhor está perto de todos os que o invocam.",
+    "meditatio_perguntas": [
+      "Bendigo a Deus todos os dias?",
+      "Rezo antes das refeições, agradecendo o alimento?",
+      "A quem posso “levantar” hoje, como Deus faz?"
+    ],
+    "oratio_guia": "Meu Deus e meu Rei, bendirei o teu nome cada dia. Tu és bom para com todos. Abre a tua mão e sacia-nos; levanta os que caem. Fica perto de mim quando te invoco. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor está perto de todos os que o invocam, de todos os que o invocam com sinceridade.",
+      "ref": "Sl 144,18"
+    }
+  },
+  "ancoras": {
+    "144:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 15-16 são uma tradicional oração de bênção da mesa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

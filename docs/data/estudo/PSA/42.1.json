@@ -1,0 +1,49 @@
+{
+  "id": "PSA.42.1",
+  "livro": "PSA",
+  "titulo": "Envia a tua luz e a tua verdade",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 42,1-5",
+  "ini": {
+    "c": 42,
+    "v": 1
+  },
+  "fim": {
+    "c": 42,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Envia a tua luz e a tua verdade; subirei ao altar de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Conclusão do salmo anterior (Sl 42–43 hebraicos formam um só poema, com o mesmo refrão). O exilado pede que Deus lhe faça justiça contra gente sem piedade. Pede que Deus envie a sua luz e a sua fidelidade como guias, para conduzi-lo ao monte santo. Então subirá ao altar de Deus, o Deus da sua alegria, e o louvará com a cítara. O refrão volta: “Espera em Deus, ainda o louvarei”.",
+    "alegorico": "Por séculos, o sacerdote rezava este salmo ao pé do altar, no início da Missa (“Introibo ad altare Dei”). A luz e a verdade enviadas por Deus são Cristo e o Espírito, que nos conduzem ao altar eucarístico e ao monte santo do céu.",
+    "moral": "Para subir ao altar é preciso ser guiado pela luz e pela verdade de Deus, não pelos próprios critérios. A tristeza espiritual se cura caminhando para Deus e para o seu altar, onde ele é “a alegria da minha juventude”.",
+    "anagogico": "O monte santo e as moradas de Deus são a Jerusalém do alto, onde a alegria será plena e o louvor perpétuo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Faz-me justiça, ó Deus. Envia a tua luz e a tua fidelidade: que elas me guiem e me conduzam ao teu monte santo. Subirei ao altar de Deus, ao Deus da minha alegria. Por que te abates, minha alma? Espera em Deus, ainda o louvarei.",
+    "meditatio_perguntas": [
+      "Deixo-me guiar pela luz e pela verdade de Deus, ou pelos meus critérios?",
+      "Vou à Missa como quem sobe ao “Deus da minha alegria”?",
+      "O que significa para mim que Deus é a minha alegria?"
+    ],
+    "oratio_guia": "Senhor, envia a tua luz e a tua verdade; que elas me guiem até o teu altar. Tu és o Deus da minha alegria. Quando a minha alma se abate, faz-me esperar em ti e subir ao teu monte santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Envia a tua luz e a tua fidelidade: elas me guiem",
+      "ref": "Sl 42,3"
+    }
+  },
+  "ancoras": {
+    "42:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abertura das orações ao pé do altar na forma antiga do rito romano: “Introibo ad altare Dei, ad Deum qui laetificat iuventutem meam”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

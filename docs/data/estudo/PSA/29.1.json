@@ -1,0 +1,49 @@
+{
+  "id": "PSA.29.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças pela cura: o pranto se muda em alegria",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 29,1-13",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Converteste o meu pranto em dança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças de quem foi curado de uma doença mortal. O salmista exalta o Senhor, que o tirou da cova. Convida os fiéis a louvar, porque a ira de Deus dura um instante e a sua bondade a vida toda: à tarde vem o pranto, de manhã a alegria. Confessa que, na prosperidade, se sentia seguro de si; quando Deus escondeu o rosto, ficou perturbado e suplicou. Deus mudou o seu luto em dança e o vestiu de alegria, para que o louve para sempre.",
+    "alegorico": "A liturgia usa o salmo na Vigília Pascal e no tempo da Páscoa: Cristo foi tirado da morada dos mortos pelo Pai; a tarde do pranto é a Sexta-feira Santa, a manhã da alegria é a Ressurreição. O título fala da dedicação do Templo, e o verdadeiro templo é o Corpo ressuscitado de Cristo.",
+    "moral": "O salmo desmascara a autossuficiência: “eu dizia, seguro de mim: nada me abalará”. Muitas vezes é a provação que nos ensina a depender de Deus. Ensina também a ler o sofrimento à luz da misericórdia, que é muito mais longa do que a dor.",
+    "anagogico": "A manhã da alegria anuncia o dia sem ocaso, quando Deus enxugará toda lágrima e o louvor não terá fim: “eu te louvarei eternamente”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu te exalto, Senhor, porque me libertaste. Clamei a ti, e tu me curaste; tiraste a minha vida da morada dos mortos. A sua ira dura um instante, a sua bondade a vida inteira. De tarde vem o pranto, de manhã a alegria. Converteste o meu pranto em dança.",
+    "meditatio_perguntas": [
+      "Quando confiei mais em mim do que em Deus, e o que aprendi com isso?",
+      "Que pranto Deus já transformou em alegria na minha história?",
+      "Consigo esperar a “manhã” no meio da “tarde” do sofrimento?"
+    ],
+    "oratio_guia": "Senhor, meu Deus, tu me curaste e me tiraste da cova. Transforma o meu pranto em dança, tira-me o saco do luto e veste-me de alegria. Livra-me da falsa segurança e faz-me depender só de ti. Eu te louvarei para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Converteste-me o meu pranto em dança",
+      "ref": "Sl 29,12"
+    }
+  },
+  "ancoras": {
+    "29:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das frases mais consoladoras do Saltério: o desequilíbrio entre “um instante” de ira e “toda a vida” de benevolência.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

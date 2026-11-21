@@ -1,0 +1,57 @@
+{
+  "id": "PSA.1.1",
+  "livro": "PSA",
+  "titulo": "Os dois caminhos: o justo e o ímpio",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 1,1-6",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Feliz quem medita a lei do Senhor: os dois caminhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Salmo 1 abre o Saltério como um pórtico de sabedoria. Contrapõe dois caminhos: o do homem que não segue o conselho dos ímpios, mas tem as suas complacências na lei do Senhor e nela medita dia e noite, e o dos ímpios. O justo é como a árvore plantada junto às correntes das águas, que dá fruto a seu tempo e cujas folhas não murcham; os ímpios são como a palha que o vento leva. O desfecho é claro: o Senhor cuida do caminho dos justos, e o caminho dos ímpios perecerá.",
+    "alegorico": "Os Padres viram no “homem bem-aventurado” o próprio Cristo, o único que nunca andou no caminho dos pecadores e cumpriu a lei com perfeição. A árvore plantada junto às águas evoca a árvore da vida e a Cruz, junto à qual correm as águas do Batismo. Unidos a Cristo, os fiéis tornam-se também árvores enraizadas nele, que dão fruto pelo Espírito.",
+    "moral": "O salmo pede uma escolha diária: com quem ando, a quem escuto, onde me sento. A meditação assídua da Palavra de Deus é a raiz que dá estabilidade e fecundidade à vida; sem ela, o homem fica leve como a palha, levado por qualquer vento de opinião ou de paixão. Ser feliz, segundo a Escritura, começa por recusar e por amar.",
+    "anagogico": "O juízo final separa definitivamente os dois caminhos: os pecadores não estarão na congregação dos justos. A árvore cujas folhas não murcham anuncia a vida eterna, quando os justos serão plantados para sempre junto ao rio da água da vida, na Jerusalém celeste (Ap 22,1-2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Feliz o homem que não segue o conselho dos ímpios e medita dia e noite a lei do Senhor. É como árvore junto às águas, que dá fruto a seu tempo. Os ímpios são palha levada pelo vento. O Senhor cuida do caminho dos justos.",
+    "meditatio_perguntas": [
+      "Que conselhos e companhias orientam hoje as minhas escolhas?",
+      "Que lugar tem a Palavra de Deus no meu dia: um momento fixo ou só ocasional?",
+      "Em que área da minha vida estou mais “palha” do que “árvore”?"
+    ],
+    "oratio_guia": "Senhor, planta-me junto às correntes da tua Palavra. Dá-me amar a tua lei e meditá-la de dia e de noite, para que eu dê fruto a seu tempo. Afasta-me do conselho dos ímpios e guia o meu caminho, que tu conheces e guardas. Amém.",
+    "contemplatio_foco": {
+      "texto": "na sua lei medita de dia e de noite",
+      "ref": "Sl 1,2"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Três verbos em gradação: seguir, andar, sentar-se. Descrevem o progressivo enredamento no mal, do conselho à convivência estável.",
+        "origem": "ia"
+      }
+    },
+    "1:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cuida” traduz o verbo hebraico “conhecer” (yada‘), que indica conhecimento amoroso e protetor, não só informação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

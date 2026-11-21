@@ -1,0 +1,57 @@
+{
+  "id": "PSA.83.1",
+  "livro": "PSA",
+  "titulo": "Quão amáveis são as tuas moradas",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 83,1-13",
+  "ini": {
+    "c": 83,
+    "v": 1
+  },
+  "fim": {
+    "c": 83,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Quão amáveis são as tuas moradas, Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico de peregrino que deseja o Templo. A alma suspira e desfalece pelos átrios do Senhor; até o pardal e a andorinha encontram ninho junto aos altares. Felizes os que moram na casa de Deus e os que trazem no coração os caminhos da peregrinação: atravessando o vale árido, fazem dele um manancial; avançam com vigor crescente até ver a Deus em Sião. Pede por o ungido. “Vale mais um dia nos teus átrios que mil fora deles; prefiro o limiar da casa de Deus às tendas dos ímpios.” O Senhor é sol e escudo; feliz quem nele confia.",
+    "alegorico": "A casa de Deus é a Igreja e, mais profundamente, o próprio Cristo, em quem habita a plenitude da divindade. O tabernáculo eucarístico é o “ninho” junto aos altares. A peregrinação é a vida cristã a caminho da Jerusalém celeste.",
+    "moral": "O salmo desperta o amor pela casa de Deus e pela liturgia. Ensina que a vida é peregrinação: as provações (o “vale árido”) podem tornar-se fonte, e a força cresce no caminho. Um só dia com Deus vale mais que mil longe dele.",
+    "anagogico": "“Verão o Deus dos deuses em Sião”: a meta da peregrinação é a visão de Deus. Os que moram na sua casa “te louvarão para sempre”: é a liturgia eterna do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quão amáveis são as tuas moradas, Senhor dos exércitos! A minha alma suspira e desfalece pelos átrios do Senhor. Até o pardal encontra uma casa junto aos teus altares. Felizes os que habitam a tua casa. Vale mais um dia nos teus átrios que mil fora deles.",
+    "meditatio_perguntas": [
+      "Sinto saudade da casa de Deus, da sua presença?",
+      "Que “vale árido” atravesso agora, e como pode tornar-se fonte?",
+      "Onde está o meu “ninho”: junto ao altar ou em outros lugares?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, como são amáveis as tuas moradas! A minha alma suspira por ti. Dá-me um ninho junto aos teus altares. Fortalece-me na peregrinação, até que eu te veja em Sião. Um dia contigo vale mais que mil longe de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quão amável é a tua morada, Senhor dos exércitos!",
+      "ref": "Sl 83,2"
+    }
+  },
+  "ancoras": {
+    "83:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Vale árido” (Baca, talvez “vale das lágrimas” na Vulgata: vallis lacrimarum), expressão que passou para a Salve Rainha.",
+        "origem": "ia"
+      }
+    },
+    "83:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ficar “no limiar” era a função dos porteiros do Templo, humilde mas preciosa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

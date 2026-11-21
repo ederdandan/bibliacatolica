@@ -1,0 +1,49 @@
+{
+  "id": "PSA.131.1",
+  "livro": "PSA",
+  "titulo": "O Senhor escolheu Sião: a promessa a Davi",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 131,1-18",
+  "ini": {
+    "c": 131,
+    "v": 1
+  },
+  "fim": {
+    "c": 131,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O Senhor escolheu Sião: a promessa a Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo de procissão com a Arca. Recorda o voto de Davi: não descansaria até encontrar uma morada para o Senhor. O povo conta como encontrou a Arca nos campos de Jaar e convida: “Entremos na sua morada, prostremo-nos diante do escabelo dos seus pés. Levanta-te, Senhor, para o teu repouso, tu e a arca da tua força”. Depois, a resposta de Deus: jurou a Davi que um descendente se sentaria no seu trono; escolheu Sião como repouso para sempre; abençoará o seu alimento, saciará de pão os pobres, vestirá de salvação os sacerdotes e fará brilhar uma lâmpada para o seu ungido.",
+    "alegorico": "A promessa a Davi se cumpre em Cristo, “filho de Davi” (Lc 1,32). A Arca é figura de Maria, que trouxe em si a presença de Deus (a liturgia aplica-lhe este salmo). O pão dado aos pobres evoca a Eucaristia, e Belém (Efrata, v. 6) é o lugar onde nasceu o Ungido.",
+    "moral": "O zelo de Davi em preparar morada para Deus nos interpela: que lugar preparo para Deus na minha vida e na minha casa? A fidelidade de Deus às promessas supera a infidelidade humana.",
+    "anagogico": "Sião, repouso de Deus “para sempre”, é a Jerusalém celeste, onde os santos exultarão de alegria e Deus habitará com os homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Lembra-te, Senhor, de Davi: não darei sono aos meus olhos até encontrar um lugar para o Senhor. Entremos na sua morada. Levanta-te, Senhor, para o lugar do teu repouso. O Senhor escolheu Sião: este é o meu repouso para sempre. Saciarei de pão os seus pobres.",
+    "meditatio_perguntas": [
+      "Que lugar preparo para Deus no meu coração e na minha casa?",
+      "Como vivo a presença de Deus no sacrário?",
+      "Confio na fidelidade de Deus às suas promessas?"
+    ],
+    "oratio_guia": "Senhor, que eu prepare para ti uma morada no meu coração, como Davi e como Maria. Habita em nós, sacia de pão os pobres e cumpre em Cristo as tuas promessas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te, Senhor, para o lugar do teu repouso, tu e a arca da tua majestade.",
+      "ref": "Sl 131,8"
+    }
+  },
+  "ancoras": {
+    "131:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Efrata é Belém (Mq 5,1); Jaar é Quiriat-Iarim, onde a Arca ficou vinte anos (1Sm 7,1-2; 2Sm 6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

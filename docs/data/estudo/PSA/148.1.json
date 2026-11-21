@@ -1,0 +1,40 @@
+{
+  "id": "PSA.148.1",
+  "livro": "PSA",
+  "titulo": "Louvor de toda a criação",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 148,1-14",
+  "ini": {
+    "c": 148,
+    "v": 1
+  },
+  "fim": {
+    "c": 148,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Louvor de toda a criação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino cósmico: toda a criação é convidada a louvar o Senhor. Primeiro, os céus: anjos, exércitos celestes, sol, lua, estrelas, águas acima dos céus, porque ele mandou e foram criados. Depois, a terra: monstros marinhos e abismos, fogo, granizo, neve, vento, montes, árvores, feras, animais, répteis e aves; reis, povos, príncipes, juízes, jovens e moças, velhos e crianças. Que todos louvem o nome do Senhor, o único excelso. Ele exaltou o seu povo, os seus fiéis, povo próximo dele.",
+    "alegorico": "O Cântico das Criaturas de São Francisco e o cântico dos três jovens (Dn 3,57-88) ecoam este salmo. Em Cristo, Primogênito da criação, todas as coisas se reúnem para louvar o Pai. A Igreja o reza nas Laudes.",
+    "moral": "O salmo nos ensina a ver a criação como coro de louvor e a ser a sua voz consciente. Inclui todas as idades e condições: ninguém está excluído do louvor. Respeitar a criação é deixar que ela cante a Deus.",
+    "anagogico": "O louvor de céus e terra unidos anuncia a nova criação, quando toda criatura no céu e na terra dirá: “Ao que está sentado no trono e ao Cordeiro, o louvor” (Ap 5,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor desde os céus, louvai-o nas alturas. Louvai-o, todos os seus anjos. Louvai-o, sol e lua, todas as estrelas luminosas. Louvai o Senhor da terra: montes e colinas, árvores frutíferas, feras e animais. Reis da terra e todos os povos, jovens e moças, velhos e crianças: louvem o nome do Senhor.",
+    "meditatio_perguntas": [
+      "Uno-me ao louvor da criação quando contemplo a natureza?",
+      "Que criaturas posso “emprestar a voz” para louvar a Deus hoje?",
+      "Respeito a criação como obra que louva a Deus?"
+    ],
+    "oratio_guia": "Senhor, com os anjos, o sol, a lua, as estrelas, os montes e todos os viventes, eu te louvo. Que a minha vida seja a voz consciente da criação. Só o teu nome é excelso. Amém.",
+    "contemplatio_foco": {
+      "texto": "louvem o nome do Senhor, porque só o seu nome é excelso",
+      "ref": "Sl 148,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

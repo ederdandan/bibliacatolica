@@ -1,0 +1,49 @@
+{
+  "id": "PSA.111.1",
+  "livro": "PSA",
+  "titulo": "Feliz o homem que teme o Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 111,1-10",
+  "ini": {
+    "c": 111,
+    "v": 1
+  },
+  "fim": {
+    "c": 111,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Feliz o homem que teme o Senhor: distribui e dá aos pobres",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Retrato alfabético do justo, em paralelo com o salmo anterior: o que lá se diz de Deus, aqui se diz do homem que o teme. Feliz quem põe as delícias nos mandamentos: a sua descendência será poderosa, a sua justiça permanece. Nas trevas, brilha como luz para os retos, clemente e justo. É generoso, empresta e administra com justiça. Não teme más notícias, porque o coração está firme no Senhor. “Distribui, dá aos pobres; a sua justiça permanece para sempre.” O ímpio vê e se irrita.",
+    "alegorico": "S. Paulo cita o v. 9 para estimular a generosidade da coleta (2Cor 9,9). O justo que é luz nas trevas é imagem de Cristo e dos santos, que refletem a sua luz (Mt 5,14-16).",
+    "moral": "O fiel imita Deus: clemente, misericordioso, justo e generoso com os pobres. A firmeza do coração vem da confiança, e ela liberta do medo das “más notícias”. A esmola e a justiça permanecem para sempre.",
+    "anagogico": "“A memória do justo será eterna”: as obras de misericórdia acompanham o justo na eternidade (Ap 14,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Feliz o homem que teme o Senhor e se deleita nos seus mandamentos. Nas trevas brilha como luz para os retos. Feliz o homem que se compadece e empresta. Não teme más notícias; o seu coração está firme, confiando no Senhor. Distribui, dá aos pobres; a sua justiça permanece para sempre.",
+    "meditatio_perguntas": [
+      "Sou luz para alguém nas trevas?",
+      "Sou generoso com os pobres?",
+      "O meu coração está firme ou vive com medo das más notícias?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração firme em ti, que não tema as más notícias. Faz-me generoso com os pobres e luz para os que estão nas trevas, refletindo a tua clemência e a tua justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temerá ouvir notícias funestas; o seu coração está firme, esperando no Senhor.",
+      "ref": "Sl 111,7"
+    }
+  },
+  "ancoras": {
+    "111:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 2Cor 9,9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

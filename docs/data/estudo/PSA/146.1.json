@@ -1,0 +1,40 @@
+{
+  "id": "PSA.146.1",
+  "livro": "PSA",
+  "titulo": "O Senhor reconstrói Jerusalém e cura os corações",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 146,1-11",
+  "ini": {
+    "c": 146,
+    "v": 1
+  },
+  "fim": {
+    "c": 146,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O Senhor cura os corações feridos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino de louvor ao Deus que reconstrói Jerusalém e reúne os dispersos de Israel. Ele cura os corações feridos e enfaixa as suas chagas. Conta as estrelas e chama cada uma pelo nome; é grande e a sua sabedoria não tem medida. Levanta os humildes e abate os ímpios. Cobre o céu de nuvens, prepara a chuva, faz brotar a erva nos montes, dá alimento aos animais e aos filhotes do corvo. Não se agrada da força do cavalo nem das pernas do guerreiro, mas dos que o temem e esperam na sua misericórdia.",
+    "alegorico": "Cristo é o médico dos corações feridos, o Bom Samaritano que enfaixa as chagas (Lc 10,34). Ele reúne os filhos de Deus dispersos (Jo 11,52) na Igreja, nova Jerusalém.",
+    "moral": "O Deus que conhece cada estrela pelo nome conhece também cada ferida do coração. O salmo consola os que estão partidos por dentro e lembra que Deus prefere a confiança humilde à força.",
+    "anagogico": "A Jerusalém reconstruída e os dispersos reunidos anunciam a Igreja gloriosa no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor, porque é bom. O Senhor reconstrói Jerusalém e reúne os dispersos de Israel. Ele cura os corações feridos e enfaixa as suas chagas. Conta o número das estrelas e chama cada uma pelo nome. O Senhor se agrada dos que o temem e esperam na sua misericórdia.",
+    "meditatio_perguntas": [
+      "Que ferida do meu coração quero apresentar ao Senhor?",
+      "Acredito que Deus me conhece pelo nome?",
+      "Confio na força ou na misericórdia de Deus?"
+    ],
+    "oratio_guia": "Senhor, tu conheces cada estrela e cada ferida do meu coração. Cura-me e enfaixa as minhas chagas. Reúne os dispersos e reconstrói a tua Igreja. Espero na tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "ele sara os atribulados de coração, e liga as suas chagas.",
+      "ref": "Sl 146,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

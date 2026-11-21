@@ -1,0 +1,57 @@
+{
+  "id": "PSA.40.1",
+  "livro": "PSA",
+  "titulo": "Feliz quem cuida do pobre: oração do enfermo traído",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 40,1-14",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Feliz quem cuida do pobre; até o amigo levantou contra mim o calcanhar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo abre com uma bem-aventurança: feliz quem cuida do fraco, pois o Senhor o sustentará no leito da dor. Segue a oração de um doente que reconhece o pecado e pede cura. Os inimigos desejam a sua morte; quem o visita fala vazio e depois espalha maledicência; até o amigo íntimo, que comia do seu pão, levantou contra ele o calcanhar. Pede que Deus o levante e o mantenha na sua presença para sempre. O v. 14 é a doxologia que fecha o primeiro livro do Saltério.",
+    "alegorico": "Jesus cita o v. 10 na Última Ceia a respeito de Judas: “Aquele que come o meu pão levantou contra mim o calcanhar” (Jo 13,18). A traição do amigo é parte do mistério da Paixão. O pobre de quem se deve cuidar é o próprio Cristo nos pequeninos (Mt 25,40).",
+    "moral": "O cuidado com o pobre e o doente é caminho de bênção. O salmo também denuncia a falsidade dos que visitam o doente por curiosidade ou para murmurar. A traição de um amigo é das dores mais profundas; o salmista a entrega a Deus.",
+    "anagogico": "“Me porás na tua presença para sempre”: a meta da vida é estar diante de Deus eternamente. A doxologia final antecipa o louvor sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Feliz quem cuida do necessitado e do pobre: o Senhor o salvará no dia mau. O Senhor o sustentará no leito da dor. Eu disse: Senhor, tem piedade de mim, cura-me, porque pequei contra ti. Até o meu amigo, que comia o meu pão, levantou contra mim o calcanhar. Tu me porás na tua presença para sempre.",
+    "meditatio_perguntas": [
+      "Que pobre ou doente o Senhor me pede para cuidar?",
+      "Como visito os doentes: com amor ou com curiosidade?",
+      "Já fui ferido por uma traição? Consigo entregá-la a Cristo traído?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração atento aos pobres e aos doentes. Cura-me, porque pequei contra ti. Tu que foste traído pelo amigo, sustenta-me quando as feridas vierem de quem amo. Põe-me na tua presença para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurado o que cuida do necessitado e do pobre: o Senhor o salvará no dia mau.",
+      "ref": "Sl 40,2"
+    }
+  },
+  "ancoras": {
+    "40:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus em Jo 13,18. “Levantar o calcanhar” é gesto de desprezo ou de golpe traiçoeiro.",
+        "origem": "ia"
+      }
+    },
+    "40:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cada um dos cinco livros do Saltério termina com uma doxologia (40,14; 71,18-19; 88,53; 105,48; Sl 150).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

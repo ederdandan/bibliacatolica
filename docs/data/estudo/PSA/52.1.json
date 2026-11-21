@@ -1,0 +1,49 @@
+{
+  "id": "PSA.52.1",
+  "livro": "PSA",
+  "titulo": "O insensato diz: “Não há Deus” (segunda versão)",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 52,1-7",
+  "ini": {
+    "c": 52,
+    "v": 1
+  },
+  "fim": {
+    "c": 52,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Deus olha do céu: há quem busque a Deus?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segunda versão do Sl 13, com o nome “Deus” (Elohim) no lugar de “Senhor”. O néscio diz no coração “não há Deus”, e os homens se corrompem. Deus olha do céu para ver se há alguém sensato que o busque, mas todos se desviaram. Os malfeitores devoram o povo como pão, mas são tomados de pavor, porque Deus dispersou os ossos dos agressores. Termina com o anseio pela salvação que vem de Sião.",
+    "alegorico": "A repetição do salmo no Saltério mostra a insistência de Deus em procurar o homem. Cristo é o olhar de Deus que desce do céu para buscar quem estava perdido (Lc 19,10) e a salvação que vem de Sião para Israel e para as nações.",
+    "moral": "A diferença em relação ao Sl 13 (v. 6) acentua o medo dos ímpios “onde não havia o que temer”: quem rejeita Deus acaba prisioneiro de medos sem fundamento. Buscar a Deus é a verdadeira sensatez.",
+    "anagogico": "A mudança da sorte do povo, com a alegria de Jacó e de Israel, anuncia a restauração final de todas as coisas em Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Diz o néscio no seu coração: “Não há Deus”. Deus olha do céu sobre os filhos dos homens, para ver se há quem tenha sensatez e busque a Deus. Oh, venha de Sião a salvação de Israel!",
+    "meditatio_perguntas": [
+      "Deus, olhando do céu, me encontraria buscando-o hoje?",
+      "Que medos sem fundamento nascem em mim quando me afasto de Deus?",
+      "Peço pela salvação do meu povo e da minha família?"
+    ],
+    "oratio_guia": "Senhor, olha do céu e encontra em mim alguém que te busca. Livra-me da insensatez de viver sem ti e dos medos que ela traz. Venha de Sião a salvação, para mim e para o teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus olha do céu sobre os filhos dos homens, para ver se há quem tenha senso e busque a Deus.",
+      "ref": "Sl 52,3"
+    }
+  },
+  "ancoras": {
+    "52:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Mahalat”: talvez uma melodia ou um instrumento; o sentido se perdeu. Compare com o Sl 13.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

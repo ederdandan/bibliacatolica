@@ -1,0 +1,49 @@
+{
+  "id": "PSA.100.1",
+  "livro": "PSA",
+  "titulo": "O propósito do rei íntegro",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 100,1-8",
+  "ini": {
+    "c": 100,
+    "v": 1
+  },
+  "fim": {
+    "c": 100,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Andarei com coração íntegro na minha casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Programa de vida do rei, talvez proclamado na sua entronização. Canta a misericórdia e a justiça e promete andar no caminho íntegro, com coração inocente, dentro da própria casa. Não porá diante dos olhos nada de vil; afastará o coração perverso, o caluniador secreto, o orgulhoso de olhar altivo. Escolherá como servidores os fiéis e os que andam retamente; o mentiroso e o enganador não habitarão na sua casa. Cada manhã combaterá o mal na cidade do Senhor.",
+    "alegorico": "Cristo é o Rei íntegro que realiza plenamente este programa; na sua casa, a Igreja, ele chama os fiéis a habitar com ele. A pergunta “quando virás a mim?” exprime o desejo da vinda de Deus, cumprido na Encarnação.",
+    "moral": "O salmo é um exame para todo aquele que tem responsabilidade: pais, chefes, governantes. A integridade começa “na minha casa”, na vida privada. Também é um critério para as amizades e para o que pomos diante dos olhos (meios de comunicação, imagens).",
+    "anagogico": "A cidade do Senhor purificada de todo mal é a Jerusalém celeste, onde não entrará nada impuro (Ap 21,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cantarei a misericórdia e a justiça. Andarei pelo caminho íntegro: quando virás a mim? Caminharei com coração inocente dentro da minha casa. Não porei diante dos meus olhos coisa injusta. Os meus olhos se fixam nos fiéis da terra, para que habitem comigo.",
+    "meditatio_perguntas": [
+      "Sou íntegro “dentro da minha casa”, onde ninguém me vê?",
+      "O que ponho diante dos meus olhos todos os dias?",
+      "Que tipo de pessoas escolho como companhia próxima?"
+    ],
+    "oratio_guia": "Senhor, quero andar com coração íntegro dentro da minha casa. Guarda os meus olhos do que é vil e o meu coração da soberba. Vem a mim, Senhor, e faz da minha casa um lugar onde tu habitas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Caminharei na inocência do meu coração, na minha casa.",
+      "ref": "Sl 100,2"
+    }
+  },
+  "ancoras": {
+    "100:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cada manhã”: no Oriente antigo, o rei julgava as causas pela manhã (cf. Jr 21,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

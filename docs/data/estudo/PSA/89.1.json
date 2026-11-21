@@ -1,0 +1,57 @@
+{
+  "id": "PSA.89.1",
+  "livro": "PSA",
+  "titulo": "A eternidade de Deus e a brevidade do homem",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 89,1-17",
+  "ini": {
+    "c": 89,
+    "v": 1
+  },
+  "fim": {
+    "c": 89,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Ensina-nos a contar os nossos dias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Única oração atribuída a Moisés. Deus é o refúgio de geração em geração, eterno antes dos montes. O homem volta ao pó; mil anos para Deus são como o dia de ontem. A vida humana é como a erva que de manhã floresce e à tarde seca; setenta anos, oitenta para os mais fortes, e muitos de fadiga. Diante da brevidade e do pecado, o salmista pede: “Ensina-nos a contar os nossos dias, para alcançarmos a sabedoria do coração”. Suplica a misericórdia de Deus desde a manhã, alegria proporcional aos dias de aflição e que Deus confirme a obra das nossas mãos.",
+    "alegorico": "2Pd 3,8 cita o v. 4: para o Senhor, mil anos são como um dia, explicando a demora da vinda de Cristo. Em Cristo, o Eterno entrou no tempo, e a obra das nossas mãos é confirmada quando unida à dele.",
+    "moral": "Contar os dias não é ansiedade, mas sabedoria: a consciência da brevidade da vida ajuda a decidir o essencial. O salmo também ensina a pedir a misericórdia “desde a manhã” e a oferecer a Deus o trabalho de cada dia para que ele o torne fecundo.",
+    "anagogico": "Deus é eterno, “desde sempre e para sempre”; o homem é chamado a participar dessa eternidade. A alegria pedida no fim antecipa a alegria eterna, que compensará toda aflição (Rm 8,18)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, tu foste o nosso refúgio de geração em geração. Mil anos são aos teus olhos como o dia de ontem. Somos como a erva: de manhã floresce, à tarde seca. Ensina-nos a contar os nossos dias, para que alcancemos a sabedoria do coração. Sacia-nos desde a manhã com a tua misericórdia. Confirma a obra das nossas mãos.",
+    "meditatio_perguntas": [
+      "Vivo como se tivesse tempo ilimitado?",
+      "O que seria “sabedoria do coração” nas minhas escolhas atuais?",
+      "Ofereço a Deus o trabalho das minhas mãos?"
+    ],
+    "oratio_guia": "Senhor eterno, ensina-me a contar os meus dias e a viver com sabedoria. Sacia-me desde a manhã com a tua misericórdia. Que a tua bondade esteja sobre nós, e confirma a obra das nossas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ensina-nos a contar os nossos dias, para que alcancemos a sabedoria do coração.",
+      "ref": "Sl 89,12"
+    }
+  },
+  "ancoras": {
+    "89:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abre o quarto livro do Saltério (Sl 89–105), que tem forte acento mosaico e no reinado de Deus.",
+        "origem": "ia"
+      }
+    },
+    "89:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 2Pd 3,8. A vigília noturna durava cerca de três horas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

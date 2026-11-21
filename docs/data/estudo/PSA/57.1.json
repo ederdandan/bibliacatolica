@@ -1,0 +1,57 @@
+{
+  "id": "PSA.57.1",
+  "livro": "PSA",
+  "titulo": "Contra os juízes iníquos",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 57,1-12",
+  "ini": {
+    "c": 57,
+    "v": 1
+  },
+  "fim": {
+    "c": 57,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Há um Deus que julga sobre a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Invectiva contra os juízes iníquos. O salmista pergunta aos poderosos se julgam com justiça; na verdade, tramam iniquidade e espalham violência. São como serpentes surdas, que tampam os ouvidos ao encantador. Pede que Deus lhes quebre os dentes, que desapareçam como água que escorre, como lesma que se desfaz. Os justos verão a justiça de Deus e dirão: “Há um Deus que julga sobre a terra”.",
+    "alegorico": "Os Padres leram aqui os juízes que condenaram Cristo, surdos à voz da Verdade. O cristão lê as imprecações à luz da Cruz: o que deve ser destruído é o pecado e o poder do mal, não as pessoas, pelas quais Cristo rezou (Lc 23,34).",
+    "moral": "O salmo é um grito pela justiça, especialmente onde ela é pervertida por quem deveria defendê-la. Ensina a não fechar os ouvidos à verdade, como a serpente surda, e a entregar a Deus o julgamento. As imagens violentas exprimem a sede de justiça, que o cristão orienta para a conversão dos maus.",
+    "anagogico": "“Deveras há um Deus que julga”: no juízo final toda injustiça será revelada e corrigida, e o justo receberá a sua recompensa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó poderosos, fazeis verdadeiramente justiça? Julgais com retidão os filhos dos homens? São como a serpente surda, que fecha os ouvidos. E os homens dirão: “Há recompensa para o justo, há um Deus que julga sobre a terra”.",
+    "meditatio_perguntas": [
+      "Em que situações fecho os ouvidos à verdade, como a serpente surda?",
+      "Sou justo no pequeno poder que exerço (família, trabalho)?",
+      "Entrego a Deus a minha sede de justiça, sem cair no ódio?"
+    ],
+    "oratio_guia": "Senhor, juiz justo, olha para as injustiças da terra e para os pobres que sofrem com elas. Abre os meus ouvidos à tua verdade. Converte os corações endurecidos e dá-me sede de justiça sem ódio. Amém.",
+    "contemplatio_foco": {
+      "texto": "deveras há um Deus que julga sobre a terra.",
+      "ref": "Sl 57,12"
+    }
+  },
+  "ancoras": {
+    "57:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Poderosos” traduz uma palavra hebraica incerta (elem); outros entendem “deuses”, isto é, os juízes que se fazem de deuses (cf. Sl 81).",
+        "origem": "ia"
+      }
+    },
+    "57:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Linguagem hiperbólica de vitória, comum no Oriente antigo; não autoriza a vingança pessoal (cf. Rm 12,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

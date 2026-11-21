@@ -1,0 +1,57 @@
+{
+  "id": "PSA.94.1",
+  "livro": "PSA",
+  "titulo": "Vinde, exultemos no Senhor",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 94,1-11",
+  "ini": {
+    "c": 94,
+    "v": 1
+  },
+  "fim": {
+    "c": 94,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Vinde, exultemos; hoje, se ouvirdes a sua voz, não endureçais os corações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Convite à adoração. “Vinde, exultemos no Senhor, aclamemos a Rocha da nossa salvação”: ele é grande Rei, em suas mãos estão as profundezas da terra e os cumes dos montes, o mar e a terra. “Vinde, adoremos e prostremo-nos diante do Senhor que nos fez”: somos o seu povo e as ovelhas do seu rebanho. Segue a advertência: “Oxalá ouvísseis hoje a sua voz: não endureçais os corações como em Meriba e Massa”, onde os pais tentaram a Deus. Aquela geração não entrou no seu repouso.",
+    "alegorico": "É o Invitatório que abre cada dia a Liturgia das Horas. Hb 3,7–4,11 comenta longamente os vv. 7-11: o “hoje” é o tempo de Cristo, e o “repouso” é o descanso eterno de Deus prometido aos que creem.",
+    "moral": "O salmo une alegria e escuta: adorar é também deixar-se interpelar “hoje”. O endurecimento do coração começa quando, mesmo vendo as obras de Deus, deixamos de confiar e reclamamos. Cada dia é oportunidade nova de ouvir.",
+    "anagogico": "O “repouso de Deus” é o sábado eterno que permanece para o povo de Deus (Hb 4,9). Só os que escutam a sua voz entram nele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Vinde, exultemos no Senhor, aclamemos a Rocha da nossa salvação. Vinde, adoremos e prostremo-nos, ajoelhemos diante do Senhor que nos criou. Ele é o nosso Deus, e nós o povo do seu pasto. Oxalá ouvísseis hoje a sua voz: não endureçais os vossos corações.",
+    "meditatio_perguntas": [
+      "Em que ponto o meu coração está endurecido diante de Deus?",
+      "Que voz de Deus devo ouvir “hoje”?",
+      "Começo o dia adorando a Deus?"
+    ],
+    "oratio_guia": "Senhor, Rocha da minha salvação, venho adorar-te e prostrar-me diante de ti. Sou ovelha do teu rebanho. Dá-me ouvir hoje a tua voz e não endurecer o meu coração, para entrar um dia no teu repouso. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vinde, adoremos e prostremo-nos, dobremos os joelhos diante do Senhor, que nos criou.",
+      "ref": "Sl 94,6"
+    }
+  },
+  "ancoras": {
+    "94:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Meriba (“contestação”) e Massa (“prova”): cf. Ex 17,1-7 e Nm 20,1-13.",
+        "origem": "ia"
+      }
+    },
+    "94:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Comentado em Hb 3,7–4,11: o “hoje” se estende enquanto durar o tempo da graça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

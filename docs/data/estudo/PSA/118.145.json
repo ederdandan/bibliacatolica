@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.145",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Cof: clamo de todo o coração",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,145-152",
+  "ini": {
+    "c": 118,
+    "v": 145
+  },
+  "fim": {
+    "c": 118,
+    "v": 152
+  },
+  "liturgia": {
+    "tema_central": "Clamo de todo o coração: ouve-me, Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Cof. O salmista clama de todo o coração e promete guardar os estatutos. Levanta-se antes da aurora para pedir socorro e espera na palavra; os olhos antecipam as vigílias da noite para meditar. Os perseguidores se aproximam, mas estão longe da lei de Deus. “Tu, Senhor, estás perto.” Os mandamentos são verdade; há muito sabe que Deus os fundou para sempre.",
+    "alegorico": "A oração antes da aurora e nas vigílias tornou-se a Liturgia das Horas. Cristo rezava de madrugada (Mc 1,35) e passava noites em oração.",
+    "moral": "O contraste é forte: os inimigos estão “perto” para fazer mal, mas Deus está ainda mais perto. A oração assídua, de manhã e de noite, é a resposta do fiel às ameaças.",
+    "anagogico": "Os mandamentos fundados “para sempre” e o Deus que está perto anunciam a comunhão eterna, quando estaremos sempre com o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Clamo de todo o coração: ouve-me, Senhor. Antecipo a aurora e clamo; espero na tua palavra. Os meus olhos antecipam as vigílias da noite, para meditar a tua palavra. Aproximam-se os que me perseguem; mas tu, Senhor, estás perto.",
+    "meditatio_perguntas": [
+      "Rezo de manhã cedo e à noite?",
+      "Sinto que Deus está “perto”, mais que as ameaças?",
+      "Clamo a Deus “de todo o coração”?"
+    ],
+    "oratio_guia": "Senhor, clamo a ti de todo o coração. Antes da aurora busco a tua palavra. Quando o mal se aproxima, lembra-me que tu estás mais perto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Perto estás (de mim), Senhor, e todos os mandamentos são fiéis.",
+      "ref": "Sl 118,151"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

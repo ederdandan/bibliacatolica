@@ -1,0 +1,40 @@
+{
+  "id": "PSA.147.1",
+  "livro": "PSA",
+  "titulo": "Louva, Jerusalém, o Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 147,1-9",
+  "ini": {
+    "c": 147,
+    "v": 1
+  },
+  "fim": {
+    "c": 147,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Louva, Jerusalém, o Senhor: ele envia a sua palavra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segunda parte do salmo anterior (na numeração hebraica, ambos formam o Sl 147). Jerusalém é convidada a louvar o Senhor, que reforçou as suas portas, abençoou os filhos, deu paz às fronteiras e a sacia com a flor do trigo. Deus envia a sua palavra à terra, que corre veloz: faz cair a neve como lã, a geada como cinza, o gelo como migalhas; depois envia a palavra e tudo derrete. Anunciou a sua palavra a Jacó, as suas leis a Israel; não fez assim com nenhuma outra nação.",
+    "alegorico": "A flor do trigo evoca a Eucaristia: a liturgia de Corpus Christi usa este salmo. A Palavra que corre veloz é o Verbo, que veio ao mundo; a Igreja recebeu o dom da Palavra revelada.",
+    "moral": "O salmo convida a agradecer pela paz, pelo alimento e sobretudo pela Palavra de Deus, privilégio que não merecemos. A mesma Palavra que governa a natureza deve governar a nossa vida.",
+    "anagogico": "A paz nas fronteiras e a cidade bem guardada anunciam a Jerusalém celeste, onde Deus saciará o seu povo para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louva, Jerusalém, o Senhor; louva, Sião, o teu Deus. Ele reforçou as tuas portas e abençoou os teus filhos. Pôs a paz nas tuas fronteiras e te sacia com a flor do trigo. Envia a sua palavra à terra, e ela corre veloz. Anunciou a sua palavra a Jacó.",
+    "meditatio_perguntas": [
+      "Agradeço o dom da Palavra de Deus, que tantos não conhecem?",
+      "Vivo a Eucaristia como a “flor do trigo” com que Deus me sacia?",
+      "Deixo a Palavra “correr” e transformar a minha vida?"
+    ],
+    "oratio_guia": "Senhor, obrigado pela tua Palavra e pelo Pão da vida. Dá paz às nossas casas e à tua Igreja. Que a tua palavra corra veloz e derreta o gelo do meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "pôs em paz as tuas fronteiras, da flor da farinha te sacia.",
+      "ref": "Sl 147,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

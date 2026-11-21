@@ -1,0 +1,57 @@
+{
+  "id": "PSA.31.1",
+  "livro": "PSA",
+  "titulo": "Feliz aquele cuja culpa foi perdoada",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 31,1-11",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Feliz aquele cuja culpa foi perdoada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo salmo penitencial. Começa com uma dupla bem-aventurança: feliz quem teve o pecado perdoado e coberto, e em cujo espírito não há engano. O salmista conta a sua experiência: enquanto calava o pecado, definhava, e a mão de Deus pesava sobre ele dia e noite. Quando confessou a culpa, Deus a perdoou. Por isso todo fiel deve rezar no tempo da angústia. Deus promete instruí-lo e guiá-lo com o olhar, e adverte a não ser como o cavalo e o mulo, que só obedecem ao freio.",
+    "alegorico": "S. Paulo cita os vv. 1-2 (Rm 4,6-8) para mostrar que a justificação é dom gratuito de Deus, não fruto das obras. Os Padres viram aqui o Batismo e a Penitência, onde o pecado é “coberto” pela graça de Cristo.",
+    "moral": "O salmo descreve com precisão psicológica o peso do pecado escondido e o alívio da confissão. Calar a culpa adoece; confessá-la liberta. É um convite ao sacramento da Reconciliação e à sinceridade diante de Deus, deixando-se guiar por ele com docilidade, não à força do freio.",
+    "anagogico": "Os justos que exultam no fim antecipam a alegria eterna dos redimidos, cujas vestes foram lavadas no sangue do Cordeiro (Ap 7,14)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Feliz aquele cuja culpa foi perdoada, cujo pecado foi coberto. Enquanto me calei, os meus ossos definhavam. Confessei-te o meu pecado, não escondi a minha culpa, e tu perdoaste a malícia do meu pecado. Eu te instruirei e te ensinarei o caminho.",
+    "meditatio_perguntas": [
+      "Há algum pecado que estou calando e que me pesa por dentro?",
+      "Como vivo o sacramento da Reconciliação?",
+      "Deixo-me guiar por Deus com docilidade, ou só “com freio”?"
+    ],
+    "oratio_guia": "Senhor, não quero mais esconder o meu pecado. Confesso-te a minha culpa e confio no teu perdão. Cobre-me com a tua misericórdia, guia-me com o teu olhar e dá-me a alegria dos que foram perdoados. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu te confessei o meu pecado, não ocultei a minha culpa",
+      "ref": "Sl 31,5"
+    }
+  },
+  "ancoras": {
+    "31:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Maskil” indica talvez um poema didático ou de instrução.",
+        "origem": "ia"
+      }
+    },
+    "31:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Santo Agostinho mandou escrever este salmo na parede diante do seu leito de morte, para lê-lo continuamente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

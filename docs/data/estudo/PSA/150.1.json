@@ -1,0 +1,49 @@
+{
+  "id": "PSA.150.1",
+  "livro": "PSA",
+  "titulo": "Tudo o que respira louve o Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 150,1-6",
+  "ini": {
+    "c": 150,
+    "v": 1
+  },
+  "fim": {
+    "c": 150,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Tudo o que respira louve o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Doxologia final do Saltério. Dez vezes ressoa “Louvai-o”: no seu santuário e no firmamento, pelas suas obras e pela sua grandeza; com trombeta, harpa e cítara, tamborim e dança, cordas e flauta, címbalos sonoros e vibrantes. A última palavra resume todo o livro: “Tudo o que respira louve o Senhor. Aleluia!”",
+    "alegorico": "Os Padres viram nas dez aclamações os dez mandamentos cumpridos no amor, e nos instrumentos os membros do corpo e as virtudes do cristão que se tornam louvor. Cristo ressuscitado é o novo santuário onde tudo louva o Pai.",
+    "moral": "O Saltério começa com o caminho do justo (Sl 1) e termina no louvor (Sl 150): a vida segundo a Palavra desemboca na adoração. Cada respiração pode tornar-se louvor; toda a pessoa, corpo e alma, é chamada a louvar.",
+    "anagogico": "O “Aleluia” final antecipa o Aleluia eterno da Jerusalém celeste (Ap 19,1-6), quando todo ser vivo louvará o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor no seu santuário, louvai-o no seu poderoso firmamento. Louvai-o pelas suas obras grandiosas. Louvai-o com o som da trombeta, com harpa e cítara, com tamborim e dança. Tudo o que respira louve o Senhor! Aleluia!",
+    "meditatio_perguntas": [
+      "A minha vida desemboca no louvor, como o Saltério?",
+      "Que “instrumentos” da minha vida (talentos, corpo, tempo) posso usar para louvar a Deus?",
+      "Faço de cada respiração uma oração?"
+    ],
+    "oratio_guia": "Senhor, ao concluir o Saltério, quero que toda a minha vida seja louvor. Com todo o meu ser e cada respiração, eu te louvo. Aleluia! Amém.",
+    "contemplatio_foco": {
+      "texto": "tudo o que respira louve o Senhor!",
+      "ref": "Sl 150,6"
+    }
+  },
+  "ancoras": {
+    "150:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Doxologia final do quinto livro e de todo o Saltério.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

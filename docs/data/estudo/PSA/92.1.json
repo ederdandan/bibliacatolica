@@ -1,0 +1,49 @@
+{
+  "id": "PSA.92.1",
+  "livro": "PSA",
+  "titulo": "O Senhor reina, revestido de majestade",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 92,1-5",
+  "ini": {
+    "c": 92,
+    "v": 1
+  },
+  "fim": {
+    "c": 92,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "O Senhor reina, revestido de majestade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro dos “salmos do Reino” (92–98). O Senhor reina, revestido de majestade e cingido de poder; firmou o mundo, que não vacila; o seu trono existe desde sempre. Os rios e as ondas levantam o seu fragor, mas mais poderoso que o rugido das águas é o Senhor nas alturas. Os seus testemunhos são dignos de fé, e a santidade convém à sua casa para sempre.",
+    "alegorico": "As águas rugindo simbolizam as forças do caos e das nações hostis. Cristo, que acalmou a tempestade (Mc 4,39), é o Senhor que reina sobre elas. A liturgia usa o salmo na solenidade de Cristo Rei.",
+    "moral": "Diante das “águas” da vida — crises, ameaças, notícias — o salmo convida a lembrar quem reina. A santidade da casa de Deus nos pede reverência na igreja e coerência de vida.",
+    "anagogico": "O Reino de Deus, firme desde sempre, se manifestará plenamente quando Cristo entregar o Reino ao Pai e o mar (símbolo do caos) já não existir (Ap 21,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor reina, vestiu-se de majestade, cingiu-se de poder. Firmou o mundo, que não vacilará. Os rios levantam a sua voz; mais poderoso que o estrondo das muitas águas é o Senhor nas alturas. A santidade convém à tua casa, Senhor, para sempre.",
+    "meditatio_perguntas": [
+      "Que “águas” rugem na minha vida e me fazem esquecer quem reina?",
+      "Como expresso reverência diante da santidade de Deus?",
+      "Cristo é de fato o Rei da minha vida?"
+    ],
+    "oratio_guia": "Senhor, tu reinas, revestido de majestade. Mais forte que todas as águas que me ameaçam és tu. Firma a minha vida em ti e santifica a tua casa e o meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor reina, vestiu-se de majestade",
+      "ref": "Sl 92,1"
+    }
+  },
+  "ancoras": {
+    "92:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na versão grega, o título liga o salmo à véspera do sábado, “quando a terra foi criada”: Deus reina sobre a criação acabada.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

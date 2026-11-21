@@ -1,0 +1,49 @@
+{
+  "id": "PSA.51.1",
+  "livro": "PSA",
+  "titulo": "Contra o poderoso perverso",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 51,1-11",
+  "ini": {
+    "c": 51,
+    "v": 1
+  },
+  "fim": {
+    "c": 51,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Como oliveira verdejante na casa de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, contra Doeg, o edomita, que denunciou a Saul a ajuda que Davi recebera do sacerdote Aquimelec, provocando o massacre dos sacerdotes (1Sm 22). O salmista invectiva o poderoso que se gloria na maldade, cuja língua é navalha afiada e que ama mais o mal que o bem. Deus o arrancará da terra dos vivos, e os justos dirão: eis o homem que não fez de Deus a sua fortaleza, mas confiou nas riquezas. O salmista, ao contrário, é como oliveira verdejante na casa de Deus, confiando para sempre na sua misericórdia.",
+    "alegorico": "A oliveira verdejante na casa de Deus é o justo enxertado em Cristo e na Igreja (Rm 11,17-24). O óleo da oliveira lembra a unção do Espírito que mantém o fiel viçoso.",
+    "moral": "O salmo denuncia o abuso da palavra (delação, calúnia) e a confiança na riqueza e no poder. Em contraste, propõe a estabilidade de quem está plantado na casa de Deus, vivendo da misericórdia, não da maldade.",
+    "anagogico": "Enquanto o ímpio é arrancado “da terra dos vivos”, o justo permanecerá para sempre na casa de Deus, louvando-o eternamente com os santos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Por que te glorias na maldade, ó poderoso? A tua língua é como navalha afiada. Eis o homem que não fez de Deus a sua fortaleza. Eu, porém, sou como oliveira verdejante na casa de Deus; confio na misericórdia de Deus para sempre.",
+    "meditatio_perguntas": [
+      "A minha língua já foi “navalha afiada” contra alguém?",
+      "Onde está a minha fortaleza: em Deus ou nas riquezas e influências?",
+      "Estou plantado na casa de Deus, ou só a visito?"
+    ],
+    "oratio_guia": "Senhor, guarda a minha língua da maldade. Não quero confiar nas riquezas, mas em ti. Planta-me como oliveira verdejante na tua casa, para que eu confie sempre na tua misericórdia e te louve diante dos teus santos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, porém, sou como a oliveira verdejante na casa de Deus; confio na misericórdia de Deus para sempre.",
+      "ref": "Sl 51,10"
+    }
+  },
+  "ancoras": {
+    "51:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 21,7 e 22,9-19: Doeg denunciou Aquimelec e depois matou 85 sacerdotes de Nob por ordem de Saul.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

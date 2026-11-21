@@ -1,0 +1,57 @@
+{
+  "id": "PSA.39.1",
+  "livro": "PSA",
+  "titulo": "Eis que venho para fazer a tua vontade",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 39,1-18",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Eis que venho, ó Deus, para fazer a tua vontade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmista esperou com paciência no Senhor, que o tirou do pântano e firmou os seus pés na rocha, pondo-lhe nos lábios um cântico novo. Feliz quem confia em Deus e não segue os ídolos. Deus não quis sacrifícios e ofertas, mas “abriu os ouvidos” do seu servo, que responde: “Eis que venho; no rolo do livro está escrito de mim; em fazer a tua vontade me deleito”. Anunciou a justiça de Deus na grande assembleia. A segunda parte é súplica: os males e as culpas o cercam; pede socorro rápido: “sou pobre e desvalido, mas o Senhor cuida de mim”.",
+    "alegorico": "Hb 10,5-10 põe os vv. 7-9 na boca de Cristo ao entrar no mundo: “Eis que venho para fazer a tua vontade”. Pela oferta do seu corpo, uma vez por todas, ele substitui os sacrifícios antigos. A liturgia usa o salmo na Anunciação, onde o “eis-me” de Cristo se une ao “eis a serva” de Maria.",
+    "moral": "O verdadeiro culto é a obediência amorosa: ouvidos abertos e a lei “no íntimo do coração”. O salmo também convida a testemunhar publicamente o que Deus fez por nós, sem esconder a sua fidelidade.",
+    "anagogico": "O cântico novo posto nos lábios do salvo antecipa o cântico novo dos redimidos diante do trono (Ap 5,9; 14,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Esperei, esperei no Senhor, e ele se inclinou para mim. Tirou-me do pântano e firmou os meus pés na rocha. Pôs na minha boca um cântico novo. Não quiseste sacrifício nem oferenda, mas abriste-me os ouvidos. Então eu disse: Eis que venho. Em fazer a tua vontade, ó meu Deus, me deleito.",
+    "meditatio_perguntas": [
+      "Sei esperar no Senhor com paciência, ou exijo respostas imediatas?",
+      "Que “sacrifícios” ofereço a Deus no lugar da obediência que ele pede?",
+      "Consigo dizer “eis que venho” diante da vontade de Deus para mim hoje?"
+    ],
+    "oratio_guia": "Senhor, abre os meus ouvidos para escutar a tua vontade. Com Jesus e com Maria, digo-te: eis que venho para fazer a tua vontade. Tira-me do pântano, firma os meus pés e põe nos meus lábios um cântico novo. Amém.",
+    "contemplatio_foco": {
+      "texto": "em fazer a tua vontade, ó meu Deus, me deleito, e a tua lei está no íntimo do meu coração.",
+      "ref": "Sl 39,9"
+    }
+  },
+  "ancoras": {
+    "39:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Abriste-me os ouvidos”: a versão grega leu “preparaste-me um corpo”, texto citado em Hb 10,5 e aplicado à Encarnação.",
+        "origem": "ia"
+      }
+    },
+    "39:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 14-18 reaparecem quase iguais no Sl 69.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

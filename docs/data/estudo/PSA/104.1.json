@@ -1,0 +1,57 @@
+{
+  "id": "PSA.104.1",
+  "livro": "PSA",
+  "titulo": "As maravilhas de Deus fiel à sua aliança",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 104,1-45",
+  "ini": {
+    "c": 104,
+    "v": 1
+  },
+  "fim": {
+    "c": 104,
+    "v": 45
+  },
+  "liturgia": {
+    "tema_central": "Ele se lembra para sempre da sua aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo histórico que convida a louvar e a buscar sempre a face de Deus, lembrando as suas maravilhas. Deus é fiel à aliança feita com Abraão, Isaac e Jacó, com a promessa da terra de Canaã. Protegeu os patriarcas quando eram poucos e peregrinos: “Não toqueis nos meus ungidos”. Narra a história de José, vendido como escravo, acorrentado e depois exaltado no Egito; a ida de Israel para o Egito; a missão de Moisés e Aarão; as pragas; a saída com prata e ouro; a nuvem e o fogo, as codornizes, o pão do céu e a água da rocha. Tudo porque Deus se lembrou da sua palavra a Abraão, para que o povo guardasse os seus preceitos.",
+    "alegorico": "José, vendido pelos irmãos e exaltado para salvar muitos, é figura de Cristo. O pão do céu e a água da rocha prefiguram a Eucaristia e o Batismo (1Cor 10,1-4). A aliança “para mil gerações” chega a nós em Cristo, descendência de Abraão (Gl 3,16).",
+    "moral": "A memória das obras de Deus alimenta a fé e a obediência. O salmo mostra que Deus conduz a história mesmo através das injustiças (a história de José). Convida a “buscar sempre a sua face”.",
+    "anagogico": "A herança prometida a Abraão é a pátria celeste (Hb 11,16), aonde Deus conduz o seu povo “com alegria”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor, invocai o seu nome. Buscai sempre a sua face. Lembrai-vos das maravilhas que fez. Ele se lembra para sempre da sua aliança. Mandou adiante deles um homem: José, vendido como escravo. Fendeu a rocha e brotou água. Fez sair o seu povo com alegria, os seus escolhidos com júbilo.",
+    "meditatio_perguntas": [
+      "Busco “sempre” a face de Deus, ou só em momentos difíceis?",
+      "Que injustiças vividas Deus transformou em bem, como com José?",
+      "Lembro-me da aliança que Deus fez comigo no Batismo?"
+    ],
+    "oratio_guia": "Senhor fiel, tu te lembras para sempre da tua aliança. Quero buscar sempre a tua face e recordar as tuas maravilhas. Como com José, transforma em bem o que sofro. Conduz-me com alegria até a terra prometida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meditai no Senhor e no seu poder, buscai sempre a sua face.",
+      "ref": "Sl 104,4"
+    }
+  },
+  "ancoras": {
+    "104:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 1-15 aparecem em 1Cr 16,8-22, cantados na entrada da Arca em Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "104:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 37–47, a história de José.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

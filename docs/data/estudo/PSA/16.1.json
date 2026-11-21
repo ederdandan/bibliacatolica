@@ -1,0 +1,57 @@
+{
+  "id": "PSA.16.1",
+  "livro": "PSA",
+  "titulo": "Prece do inocente: guarda-me como a menina dos olhos",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 16,1-15",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Guarda-me como a menina dos olhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica de um inocente perseguido. Apresenta a sua causa justa e convida Deus a examiná-lo, mesmo de noite e no fogo: não encontrará iniquidade. Seguiu os caminhos da lei. Pede que Deus mostre a sua misericórdia admirável e o guarde como a menina dos olhos, escondido à sombra das asas. Os inimigos, como leões à espreita, só pensam nesta vida e nos seus bens. O salmista, ao contrário, se saciará ao despertar com a visão da face de Deus.",
+    "alegorico": "Cristo, perseguido pelos poderosos como por leões, foi guardado pelo Pai e despertou na Ressurreição saciado da glória do seu rosto. A sombra das asas evoca os querubins sobre a Arca e, para os Padres, os braços abertos de Cristo na Cruz.",
+    "moral": "O salmo contrapõe duas “porções”: a dos que vivem só para esta vida, fartos de bens, e a do justo, que espera ver a Deus. Pergunta-nos qual é o nosso verdadeiro desejo. Ensina também a pedir a proteção de Deus com ternura: somos preciosos aos seus olhos.",
+    "anagogico": "“Saciar-me-ei, ao despertar, com o teu semblante”: é uma das expressões mais fortes do Antigo Testamento sobre a esperança de ver a Deus após o sono da morte, a visão beatífica."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve, Senhor, uma causa justa. Sonda o meu coração, visita-me de noite. Guarda-me como a menina dos olhos, esconde-me à sombra das tuas asas. Eu, porém, na justiça verei a tua face; ao despertar, saciar-me-ei com o teu semblante.",
+    "meditatio_perguntas": [
+      "Deixo Deus sondar o meu coração, mesmo de noite, no silêncio?",
+      "A minha “porção” está nesta vida ou na face de Deus?",
+      "Sinto-me guardado por Deus como a menina dos seus olhos?"
+    ],
+    "oratio_guia": "Senhor, guarda-me como a menina dos teus olhos e esconde-me à sombra das tuas asas. Sonda o meu coração e purifica-o. Não quero a porção desta vida, mas a tua face: que ao despertar eu me sacie com o teu semblante. Amém.",
+    "contemplatio_foco": {
+      "texto": "Guarda-me como a menina dos olhos, sob a sombra das tuas asas esconde-me",
+      "ref": "Sl 16,8"
+    }
+  },
+  "ancoras": {
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Menina dos olhos”: a pupila, aquilo que se protege por instinto. A expressão aparece também em Dt 32,10 e Zc 2,8.",
+        "origem": "ia"
+      }
+    },
+    "16:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Liturgia das Horas, este salmo ecoa a esperança do repouso noturno e do despertar na glória.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

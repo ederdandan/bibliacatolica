@@ -1,0 +1,40 @@
+{
+  "id": "PSA.128.1",
+  "livro": "PSA",
+  "titulo": "Muito me perseguiram desde a juventude",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 128,1-8",
+  "ini": {
+    "c": 128,
+    "v": 1
+  },
+  "fim": {
+    "c": 128,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Muito me perseguiram, mas não prevaleceram",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel recorda a sua história: muito o perseguiram desde a juventude, mas não prevaleceram. Sobre as suas costas os lavradores abriram longos sulcos (imagem dos açoites e da opressão). Mas o Senhor, justo, cortou as cordas dos ímpios. Que os inimigos de Sião recuem e sequem como a erva dos telhados, que ninguém colhe nem abençoa.",
+    "alegorico": "Os sulcos abertos nas costas evocam a flagelação de Cristo (Is 50,6). A Igreja, perseguida desde a sua juventude, nunca foi vencida: as portas do inferno não prevalecerão.",
+    "moral": "O salmo ensina a resiliência na fé: as provações deixam marcas, mas não destroem quem está em Deus. O mal é como erva de telhado: aparece depressa e seca sem fruto.",
+    "anagogico": "A vitória final de Deus sobre todos os perseguidores de Sião se cumprirá no fim, quando os sulcos se tornarem colheita."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Muito me perseguiram desde a minha juventude, mas não prevaleceram contra mim. Sobre as minhas costas lavraram os lavradores, abriram longos sulcos. Mas o Senhor, que é justo, cortou as cordas dos ímpios.",
+    "meditatio_perguntas": [
+      "Que “sulcos” a vida já abriu em mim?",
+      "Reconheço que, apesar de tudo, o mal não prevaleceu?",
+      "Uno os meus sofrimentos aos de Cristo flagelado?"
+    ],
+    "oratio_guia": "Senhor, muitas vezes fui provado, mas tu não deixaste que o mal prevalecesse. Corta as cordas que ainda me prendem. Uno as minhas feridas às de Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Muito me têm perseguido desde a minha juventude, mas não prevaleceram contra mim.",
+      "ref": "Sl 128,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

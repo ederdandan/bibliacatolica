@@ -1,0 +1,57 @@
+{
+  "id": "PSA.26.1",
+  "livro": "PSA",
+  "titulo": "O Senhor é a minha luz e a minha salvação",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 26,1-14",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é a minha luz e a minha salvação: a quem temerei?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo em duas partes. Na primeira, confiança serena: o Senhor é luz, salvação e baluarte; mesmo cercado por exércitos, o coração não teme. O salmista pede uma só coisa: habitar na casa do Senhor todos os dias, contemplar a sua beleza, ser escondido na sua tenda no dia mau. Na segunda, súplica ansiosa: “busco a tua face, não me escondas a tua face”; mesmo que pai e mãe o abandonem, o Senhor o acolherá. Conclui com a esperança de ver os bens do Senhor na terra dos vivos e o convite: “Espera no Senhor, sê forte”.",
+    "alegorico": "Cristo é a luz do mundo (Jo 8,12) e a salvação de Deus. Nele o desejo de “contemplar a face” se cumpre: quem o vê, vê o Pai. A Igreja reza este salmo no Advento e nas exéquias, à luz do Ressuscitado.",
+    "moral": "“Uma só coisa peço”: o salmo ajuda a unificar os desejos em torno do essencial, a comunhão com Deus. Ensina a vencer o medo com a fé e a buscar a face de Deus na oração. A frase sobre pai e mãe consola os que se sentem rejeitados: Deus nunca abandona.",
+    "anagogico": "“Ver os bens do Senhor na terra dos viventes”: a tradição cristã entende a vida eterna. A contemplação da beleza de Deus, aqui desejada, será a ocupação dos santos no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor é a minha luz e a minha salvação: a quem temerei? Uma só coisa peço ao Senhor: habitar na casa do Senhor todos os dias da minha vida. A minha face te busca; procuro, Senhor, a tua face. Se meu pai e minha mãe me abandonarem, o Senhor me acolherá. Espera no Senhor, sê forte.",
+    "meditatio_perguntas": [
+      "Que medos me paralisam, e o que muda se o Senhor é a minha luz?",
+      "Qual é a “única coisa” que peço a Deus, de verdade?",
+      "Como busco a face de Deus no meu dia?"
+    ],
+    "oratio_guia": "Senhor, tu és a minha luz e a minha salvação. Afasta de mim o medo. Uma só coisa te peço: habitar contigo e contemplar a tua face. Não te escondas de mim; acolhe-me, mesmo que todos me abandonem. Espero em ti e quero ser forte. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é a minha luz e a minha salvação: a quem temerei?",
+      "ref": "Sl 26,1"
+    }
+  },
+  "ancoras": {
+    "26:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Buscar a face” do Senhor era, originalmente, ir ao Templo; tornou-se expressão da procura pessoal e contemplativa de Deus.",
+        "origem": "ia"
+      }
+    },
+    "26:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Terra dos viventes”: em contraste com o Xeol; os Padres a entenderam como a pátria celeste.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PSA.143.1",
+  "livro": "PSA",
+  "titulo": "Bendito o Senhor, minha rocha",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 143,1-15",
+  "ini": {
+    "c": 143,
+    "v": 1
+  },
+  "fim": {
+    "c": 143,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Bendito o Senhor, minha rocha: que é o homem para que penses nele?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo régio. O rei bendiz o Senhor, sua rocha, que adestra as suas mãos para a luta; ele é misericórdia, fortaleza, refúgio e libertador. “Senhor, que é o homem para que te preocupes com ele? É como um sopro; os seus dias, sombra que passa.” Pede uma teofania: que Deus incline os céus, desça, toque os montes e o livre das muitas águas e dos estrangeiros mentirosos. Promete um cântico novo. Termina com uma visão de prosperidade do povo: filhos como plantas, filhas como colunas, celeiros cheios, rebanhos numerosos, paz nas praças. “Feliz o povo cujo Deus é o Senhor.”",
+    "alegorico": "O pedido “inclina os céus e desce” cumpriu-se na Encarnação: Deus desceu e tirou a humanidade das muitas águas. Cristo é o Rei a quem Deus dá a vitória, e a paz do povo é a paz messiânica.",
+    "moral": "O salmo lembra a pequenez do homem e a grandeza do cuidado de Deus. Pede que toda força humana seja vivida como dom de Deus e orientada para a paz e o bem da comunidade e das famílias.",
+    "anagogico": "A felicidade do povo “cujo Deus é o Senhor” anuncia a cidade eterna, sem brecha nos muros, sem exílio nem pranto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendito seja o Senhor, minha rocha, minha misericórdia e meu refúgio. Senhor, que é o homem para que cuides dele? O homem é como um sopro. Inclina os teus céus e desce. Ó Deus, cantar-te-ei um cântico novo. Feliz o povo cujo Deus é o Senhor.",
+    "meditatio_perguntas": [
+      "Vejo as minhas capacidades como dom de Deus?",
+      "Espanto-me com o cuidado de Deus por mim, tão pequeno?",
+      "Como contribuo para a paz da minha cidade e das famílias?"
+    ],
+    "oratio_guia": "Senhor, minha rocha e minha misericórdia, tu desceste até nós em Cristo. Tira-me das muitas águas. Abençoa as nossas famílias e dá paz às nossas cidades. Feliz o povo cujo Deus és tu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ditoso o povo que goza tais coisas; ditoso o povo, cujo Deus é o Senhor.",
+      "ref": "Sl 143,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

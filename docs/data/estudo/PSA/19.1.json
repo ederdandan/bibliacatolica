@@ -1,0 +1,49 @@
+{
+  "id": "PSA.19.1",
+  "livro": "PSA",
+  "titulo": "Prece pelo rei antes da batalha",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 19,1-10",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Uns confiam em carros, nós no nome do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Prece do povo pelo rei antes da batalha. A assembleia deseja que Deus o ouça no dia da angústia, aceite os seus sacrifícios e realize os seus planos. Depois, uma voz anuncia a certeza: “Agora sei que o Senhor dá a vitória ao seu ungido”. Outros confiam em carros e cavalos; Israel é forte no nome do Senhor. O salmo termina com o pedido: “Senhor, dá a vitória ao rei”.",
+    "alegorico": "O ungido é Cristo, Rei e Sacerdote, cujo sacrifício o Pai aceitou e cuja oração no dia da angústia (Getsêmani) foi ouvida “por causa da sua piedade” (Hb 5,7). A Igreja reza com ele e por ele; a sua vitória é a nossa.",
+    "moral": "O versículo central (v. 8) é um critério para a vida: em que confio? Carros e cavalos são hoje o dinheiro, a influência, as técnicas. Não são maus, mas não salvam. A força do cristão está no nome do Senhor. O salmo ensina também a rezar pelos governantes (1Tm 2,1-2).",
+    "anagogico": "“Eles vacilaram e caíram, mas nós permanecemos de pé”: no fim da história, todo poder que se apoia em si mesmo cairá, e só permanecerão os que estão firmados em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor te ouça no dia da angústia, o nome do Deus de Jacó te proteja. Agora sei que o Senhor dá a vitória ao seu ungido. Uns confiam nos carros, outros nos cavalos; nós somos fortes no nome do Senhor, nosso Deus.",
+    "meditatio_perguntas": [
+      "Quais são os meus “carros e cavalos”, as seguranças em que mais confio?",
+      "Rezo pelos que governam e pelos que lutam em favor do bem comum?",
+      "O que significa ser forte “no nome do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, ouve-nos no dia da angústia. Não quero apoiar-me nos meus carros e cavalos, mas no teu nome. Abençoa os que nos governam e dá a vitória ao teu Ungido, Jesus Cristo, nosso Rei. Amém.",
+    "contemplatio_foco": {
+      "texto": "nós, porém, somos fortes no nome do Senhor, nosso Deus.",
+      "ref": "Sl 19,8"
+    }
+  },
+  "ancoras": {
+    "19:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os carros de guerra eram a arma mais temida da época (cf. Is 31,1). Israel foi proibido de multiplicar cavalos (Dt 17,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

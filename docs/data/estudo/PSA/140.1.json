@@ -1,0 +1,49 @@
+{
+  "id": "PSA.140.1",
+  "livro": "PSA",
+  "titulo": "Suba a minha oração como incenso",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 140,1-10",
+  "ini": {
+    "c": 140,
+    "v": 1
+  },
+  "fim": {
+    "c": 140,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Suba a minha oração como incenso",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oração da tarde. O salmista clama e pede que Deus o socorra depressa. “Suba a minha oração como incenso diante de ti, e as minhas mãos erguidas como sacrifício da tarde.” Pede uma guarda para a boca e sentinela para os lábios; que o coração não se incline para o mal, nem participe dos banquetes dos ímpios. Aceita ser corrigido pelo justo como bálsamo. Os olhos estão voltados para Deus: guarda-me dos laços dos malfeitores.",
+    "alegorico": "Salmo das Vésperas desde a Igreja antiga, cantado com o oferecimento do incenso. O sacrifício da tarde evoca o sacrifício de Cristo na Cruz, consumado à hora da tarde (Mt 27,46), e as mãos estendidas do Crucificado.",
+    "moral": "O salmo pede três coisas preciosas: oração que sobe a Deus, guarda da língua e coração que não se inclina ao mal. Ensina também a acolher a correção fraterna como bálsamo, e não como ofensa.",
+    "anagogico": "O incenso que sobe ao céu é imagem das orações dos santos diante do trono de Deus (Ap 5,8; 8,3-4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, a ti clamo: vem depressa. Suba a minha oração como incenso diante de ti, e as minhas mãos erguidas como sacrifício da tarde. Põe, Senhor, uma guarda à minha boca, uma sentinela à porta dos meus lábios. Não deixes o meu coração inclinar-se para o mal.",
+    "meditatio_perguntas": [
+      "A minha oração “sobe” a Deus ou fica presa nas distrações?",
+      "Preciso de “sentinela” nos meus lábios?",
+      "Como acolho a correção dos outros?"
+    ],
+    "oratio_guia": "Senhor, suba a minha oração como incenso diante de ti. Põe guarda à minha boca e não deixes o meu coração inclinar-se ao mal. Dá-me humildade para acolher a correção. Amém.",
+    "contemplatio_foco": {
+      "texto": "Suba directa a ti a minha oração, como incenso",
+      "ref": "Sl 140,2"
+    }
+  },
+  "ancoras": {
+    "140:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Era cantado no Lucernário, rito antigo de acender as luzes ao anoitecer, origem das Vésperas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

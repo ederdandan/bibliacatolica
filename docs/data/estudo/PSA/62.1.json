@@ -1,0 +1,57 @@
+{
+  "id": "PSA.62.1",
+  "livro": "PSA",
+  "titulo": "Ó Deus, tu és o meu Deus: a minha alma tem sede de ti",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 62,1-12",
+  "ini": {
+    "c": 62,
+    "v": 1
+  },
+  "fim": {
+    "c": 62,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Ó Deus, tu és o meu Deus: a minha alma tem sede de ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza no deserto de Judá. Como terra árida e sem água, a sua alma e a sua carne têm sede de Deus. Recorda a contemplação do poder e da glória de Deus no santuário. “A tua graça vale mais que a vida”: por isso o louvará com as mãos levantadas. A alma se sacia como de um banquete. No leito, nas vigílias da noite, medita em Deus; à sombra das suas asas exulta; a alma se une a ele, e a direita de Deus a sustenta.",
+    "alegorico": "A Igreja reza este salmo nas Laudes do domingo, dia da Ressurreição: é o salmo da “sede da aurora”, da Esposa que busca o Esposo (Ct 3,1). Cristo é a água viva que mata essa sede (Jo 4,14), e a Eucaristia o banquete que sacia a alma.",
+    "moral": "O salmo é o retrato da alma contemplativa: busca Deus desde cedo, deseja-o com todo o ser, lembra-se dele na noite. “A tua graça vale mais que a vida” coloca a amizade com Deus acima de qualquer bem, inclusive a própria vida, como fizeram os mártires.",
+    "anagogico": "A sede de Deus só será saciada na visão de Deus. A união “íntima” da alma com Deus antecipa a comunhão eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, tu és o meu Deus; desde a aurora te procuro. A minha alma tem sede de ti, a minha carne te deseja, como terra árida, sem água. A tua graça vale mais que a vida; os meus lábios te louvarão. No meu leito me lembro de ti. A minha alma está unida a ti; a tua direita me sustenta.",
+    "meditatio_perguntas": [
+      "Tenho sede de Deus? Ou preencho a sede com outras coisas?",
+      "A graça de Deus vale para mim “mais que a vida”?",
+      "Lembro-me de Deus à noite, ao deitar e nas vigílias?"
+    ],
+    "oratio_guia": "Ó Deus, tu és o meu Deus; desde a aurora te procuro. A minha alma tem sede de ti como terra seca. A tua graça vale mais que a vida. Une-me a ti e sustenta-me com a tua direita. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque a tua graça é melhor que a vida, os meus lábios te louvarão.",
+      "ref": "Sl 62,4"
+    }
+  },
+  "ancoras": {
+    "62:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 23,14 e 2Sm 15,23-28 (fuga de Davi para o deserto). “Idumeia” na Vulgata; o hebraico diz “deserto de Judá”.",
+        "origem": "ia"
+      }
+    },
+    "62:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmo das Laudes do domingo da I semana e de muitas festas: é a oração matinal por excelência.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

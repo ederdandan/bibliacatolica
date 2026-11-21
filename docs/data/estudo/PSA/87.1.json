@@ -1,0 +1,57 @@
+{
+  "id": "PSA.87.1",
+  "livro": "PSA",
+  "titulo": "Lamento na angústia extrema",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 87,1-19",
+  "ini": {
+    "c": 87,
+    "v": 1
+  },
+  "fim": {
+    "c": 87,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A minha companhia são as trevas: a oração mais sombria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo mais sombrio do Saltério. Um homem doente desde a juventude, à beira da morte, clama dia e noite. Sente-se já contado entre os mortos, esquecidos por Deus, lançado na cova mais profunda, nas trevas. A ira de Deus pesa sobre ele; os amigos se afastaram; está preso sem saída. Pergunta: farás maravilhas pelos mortos? Na sepultura se proclama a tua bondade? Mesmo assim continua a rezar de manhã. Termina sem consolo: “Afastaste de mim amigos e companheiros; a minha companhia são as trevas”.",
+    "alegorico": "A Igreja reza este salmo na Sexta-feira Santa e nas Completas de sexta-feira: é a oração de Cristo no sepulcro, “contado entre os que descem à cova”, abandonado pelos amigos. A resposta às perguntas do salmista veio na Páscoa: Deus fez maravilhas pelos mortos ao ressuscitar o seu Filho.",
+    "moral": "O salmo mostra que a oração pode existir até na escuridão total, sem respostas. Continuar a clamar “a ti, Senhor” já é fé. Dá voz aos doentes terminais, aos deprimidos e a todos que vivem a noite escura da alma, e convida a acompanhá-los.",
+    "anagogico": "As perguntas “levantar-se-ão os mortos para te louvar?” encontram a resposta cristã na ressurreição. A terra do esquecimento foi visitada por Cristo, que desceu aos infernos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, Deus da minha salvação, clamo dia e noite diante de ti. A minha alma está saturada de males, a minha vida está à beira do sepulcro. Fazes tu maravilhas pelos mortos? Mas eu, Senhor, clamo a ti, e de manhã a minha oração vai à tua presença. Afastaste de mim o amigo; a minha companhia são as trevas.",
+    "meditatio_perguntas": [
+      "Consigo rezar mesmo quando não sinto nenhuma resposta?",
+      "Quem, perto de mim, vive essa noite escura e precisa de companhia?",
+      "Como a Páscoa de Cristo ilumina as minhas trevas?"
+    ],
+    "oratio_guia": "Senhor, quando a escuridão me cerca e ninguém me acompanha, continuo a clamar a ti. Tu desceste às trevas da morte para visitar os esquecidos. Fica comigo na noite e faz-me ressuscitar contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas eu, Senhor, a ti clamo, e logo de manhã vai à tua presença a minha oração.",
+      "ref": "Sl 87,14"
+    }
+  },
+  "ancoras": {
+    "87:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hemã ezraíta: sábio famoso (1Rs 4,31), um dos chefes dos cantores (1Cr 15,19).",
+        "origem": "ia"
+      }
+    },
+    "87:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Único salmo que termina sem nenhuma palavra de esperança explícita; a esperança está no próprio fato de rezar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.27.1",
+  "livro": "PSA",
+  "titulo": "Súplica e ação de graças: o Senhor é a minha força",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 27,1-9",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é a minha força e o meu escudo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmista clama a Deus, sua rocha, pedindo que não se cale, para não ficar como os que descem à cova. Ergue as mãos para o santuário e pede não ser arrastado com os hipócritas, que falam de paz mas têm maldade no coração. Pede que recebam conforme as suas obras. Depois, ação de graças: o Senhor ouviu a súplica, é força e escudo; o coração confiou e exulta. Termina com uma prece pelo povo: “salva o teu povo, abençoa a tua herança, apascenta-os”.",
+    "alegorico": "O ungido a quem Deus é “fortaleza de salvação” é Cristo. A última prece, “salva o teu povo e abençoa a tua herança”, é rezada no Te Deum, aplicada à Igreja que o Pastor eterno apascenta.",
+    "moral": "O salmo denuncia a duplicidade de quem “fala de paz com o próximo mas tem maldade no coração”. Convida a examinar a coerência entre palavras e intenções. E mostra o caminho da oração: o grito sincero se transforma em louvor.",
+    "anagogico": "“Apascenta-os e sustenta-os eternamente”: Cristo, o Pastor, conduzirá o seu povo até a vida eterna, onde a herança de Deus estará completa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ti clamo, Senhor, minha rocha, não te cales. Ouve a minha súplica quando levanto as mãos para o teu santo templo. Bendito seja o Senhor, que ouviu a minha voz. O Senhor é a minha força e o meu escudo; nele confiou o meu coração. Salva o teu povo e abençoa a tua herança.",
+    "meditatio_perguntas": [
+      "As minhas palavras de paz correspondem ao que tenho no coração?",
+      "Rezo também pelo povo de Deus, e não só por mim?",
+      "Que experiência recente de oração atendida posso agradecer?"
+    ],
+    "oratio_guia": "Senhor, minha rocha, não te cales diante do meu clamor. Tu és a minha força e o meu escudo; em ti confia o meu coração. Livra-me da hipocrisia. Salva o teu povo, abençoa a tua Igreja, apascenta-nos e sustenta-nos para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Salva, Senhor, o teu povo, e abençoa a tua herança",
+      "ref": "Sl 27,9"
+    }
+  },
+  "ancoras": {
+    "27:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Levantar as mãos é o gesto antigo de oração, conservado pelo sacerdote na Missa (orante).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

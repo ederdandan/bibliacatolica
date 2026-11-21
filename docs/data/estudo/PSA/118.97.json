@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.97",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Mem: quanto amo a tua lei!",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,97-104",
+  "ini": {
+    "c": 118,
+    "v": 97
+  },
+  "fim": {
+    "c": 118,
+    "v": 104
+  },
+  "liturgia": {
+    "tema_central": "Quanto amo a tua lei, Senhor!",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Mem. Exclamação de amor: “Quanto amo a tua lei! É a minha meditação todo o dia.” O mandamento o torna mais sábio que os inimigos, mais prudente que os mestres, mais sensato que os anciãos. Afasta os pés do mau caminho. “Quão doces são as tuas palavras ao meu paladar, mais que o mel à minha boca!”",
+    "alegorico": "Jesus, aos doze anos, surpreendeu os mestres no Templo pela sua sabedoria (Lc 2,46-47). Ele é a sabedoria de Deus (1Cor 1,24), e a sua palavra é doce como o mel (Ez 3,3; Ap 10,9-10).",
+    "moral": "A sabedoria verdadeira não vem só do estudo, mas da meditação amorosa da Palavra e da prática. A Palavra saboreada com o coração torna-se doce. A Lectio Divina é exatamente isso: ruminar a Palavra.",
+    "anagogico": "O amor à lei de Deus, saboreado aqui, será plenitude de alegria quando conhecermos plenamente a Sabedoria divina."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Quanto amo a tua lei, Senhor! Ela é a minha meditação todo o dia. Sou mais prudente que todos os meus mestres, porque medito os teus mandamentos. Quão doces são as tuas palavras ao meu paladar, mais que o mel à minha boca!",
+    "meditatio_perguntas": [
+      "Medito a Palavra de Deus “todo o dia”, ou só a leio às pressas?",
+      "Experimento a doçura da Palavra?",
+      "Busco sabedoria na Palavra ou só em fontes humanas?"
+    ],
+    "oratio_guia": "Senhor, quanto amo a tua lei! Que ela seja a minha meditação todo o dia. Faz-me saborear a doçura das tuas palavras, mais doces que o mel. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quanto eu amo a tua lei, Senhor! Ela é (o objecto da) minha meditação todo o dia.",
+      "ref": "Sl 118,97"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

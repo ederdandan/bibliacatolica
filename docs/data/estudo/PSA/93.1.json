@@ -1,0 +1,57 @@
+{
+  "id": "PSA.93.1",
+  "livro": "PSA",
+  "titulo": "O Deus que faz justiça",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 93,1-23",
+  "ini": {
+    "c": 93,
+    "v": 1
+  },
+  "fim": {
+    "c": 93,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Feliz o homem que tu educas, Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Prece ao Deus juiz contra os opressores. “Até quando os ímpios triunfarão?” Eles esmagam o povo, matam a viúva, o estrangeiro e o órfão, e dizem: “O Senhor não vê”. O salmista responde aos insensatos: quem plantou o ouvido não ouvirá? Quem formou o olho não verá? Feliz o homem que Deus educa e instrui na sua lei; Deus não abandonará o seu povo. Testemunho pessoal: se o Senhor não me ajudasse, eu estaria no silêncio da morte; quando eu disse “o meu pé vacila”, a tua graça me sustentou; nas muitas preocupações, as tuas consolações alegraram a minha alma.",
+    "alegorico": "Cristo é o juiz que vê os pensamentos dos homens (Jo 2,25) e sustenta os seus quando vacilam, como a Pedro sobre as águas (Mt 14,31). S. Paulo cita o v. 11 (1Cor 3,20).",
+    "moral": "O salmo combate o “ateísmo prático” de quem pensa que Deus não vê. Valoriza a educação de Deus, que às vezes corrige. E dá uma oração preciosa para os momentos de vacilo: a graça de Deus sustenta, as suas consolações alegram em meio às angústias.",
+    "anagogico": "“O julgamento voltará à justiça”: no fim, Deus restabelecerá o direito, e os retos de coração o seguirão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Até quando os ímpios triunfarão? Dizem: “O Senhor não vê”. Quem plantou o ouvido não ouvirá? Quem formou o olho não verá? Feliz o homem a quem tu educas, Senhor. Quando penso: “o meu pé vacila”, a tua graça, Senhor, me sustenta. Nas muitas angústias, as tuas consolações alegram a minha alma.",
+    "meditatio_perguntas": [
+      "Ajo às vezes como se Deus não visse?",
+      "Aceito ser educado e corrigido por Deus?",
+      "Em que momentos senti que a graça de Deus me segurou quando eu vacilava?"
+    ],
+    "oratio_guia": "Senhor, tu vês e ouves tudo. Educa-me e instrui-me na tua lei. Quando o meu pé vacilar, sustenta-me com a tua graça; quando as preocupações se multiplicarem, alegra-me com as tuas consolações. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando penso: \"O meu pé está vacilante\", a tua graça, Senhor, me sustenta.",
+      "ref": "Sl 93,18"
+    }
+  },
+  "ancoras": {
+    "93:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Deus das vinganças”: não vingança passional, mas restabelecimento da justiça violada (cf. Dt 32,35; Rm 12,19).",
+        "origem": "ia"
+      }
+    },
+    "93:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Cor 3,20 sobre a vaidade da sabedoria humana.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

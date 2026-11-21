@@ -1,0 +1,65 @@
+{
+  "id": "PSA.109.1",
+  "livro": "PSA",
+  "titulo": "Disse o Senhor ao meu Senhor: o Rei e Sacerdote",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 109,1-7",
+  "ini": {
+    "c": 109,
+    "v": 1
+  },
+  "fim": {
+    "c": 109,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Disse o Senhor ao meu Senhor: Senta-te à minha direita",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo régio e sacerdotal, talvez para a entronização do rei. Um oráculo: o Senhor diz ao rei, “meu senhor”: senta-te à minha direita até que eu ponha os teus inimigos como escabelo dos teus pés. Deus estende desde Sião o cetro do seu poder. O rei é gerado “antes da aurora, como o orvalho”. Um juramento irrevogável: “Tu és sacerdote para sempre, segundo a ordem de Melquisedec”. O Senhor, à direita, esmaga os reis no dia da ira. O rei bebe da torrente no caminho e por isso levanta a cabeça.",
+    "alegorico": "É o salmo mais citado no Novo Testamento. Jesus o usa para mostrar que o Messias é mais que filho de Davi: é o seu Senhor (Mt 22,41-46). Pedro o aplica à Ascensão (At 2,34-35). A Carta aos Hebreus (cap. 5–7) comenta o sacerdócio de Cristo “segundo a ordem de Melquisedec”, que oferecia pão e vinho (Gn 14,18). A Igreja reza este salmo nas Vésperas de todo domingo.",
+    "moral": "O salmo nos faz contemplar Cristo glorioso, Rei e Sacerdote eterno, que intercede por nós. A nossa vida, unida à dele, participa do seu sacerdócio pela oferta de nós mesmos. Também consola: os inimigos (pecado, morte) serão postos sob os seus pés.",
+    "anagogico": "“Até que ponha os teus inimigos por escabelo”: S. Paulo vê aqui o processo que culmina na vitória sobre o último inimigo, a morte (1Cor 15,25-26). Cristo reina à direita do Pai até a sua vinda gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Disse o Senhor ao meu Senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés. Antes da aurora eu te gerei. Jurou o Senhor e não se arrependerá: Tu és sacerdote para sempre, segundo a ordem de Melquisedec. Beberá da torrente no caminho, por isso levantará a cabeça.",
+    "meditatio_perguntas": [
+      "Contemplo Cristo sentado à direita do Pai, intercedendo por mim?",
+      "Como vivo o sacerdócio comum dos fiéis recebido no Batismo?",
+      "Que “inimigos” confio à vitória de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei e Sacerdote eterno, sentado à direita do Pai, intercede por mim. Põe sob os teus pés o pecado e a morte que me ameaçam. Ensina-me a oferecer a minha vida unida à tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és sacerdote eternamente, segundo a ordem de Melquisedec.",
+      "ref": "Sl 109,4"
+    }
+  },
+  "ancoras": {
+    "109:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Mt 22,44; At 2,34; 1Cor 15,25; Hb 1,13 e 10,12-13. Origem da fórmula do Credo “está sentado à direita do Pai”.",
+        "origem": "ia"
+      }
+    },
+    "109:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Melquisedec, rei de Salém e sacerdote, ofereceu pão e vinho a Abraão (Gn 14,18-20). Cf. Hb 7.",
+        "origem": "ia"
+      }
+    },
+    "109:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem difícil: o rei se refresca no caminho e prossegue vitorioso. Os Padres viram aqui a Paixão (a torrente) seguida da exaltação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

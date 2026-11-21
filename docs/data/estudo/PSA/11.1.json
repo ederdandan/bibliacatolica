@@ -1,0 +1,49 @@
+{
+  "id": "PSA.11.1",
+  "livro": "PSA",
+  "titulo": "As palavras do Senhor são puras",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 11,1-9",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "As palavras do Senhor são prata depurada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento numa sociedade onde a fidelidade desapareceu: cada um diz falsidade ao próximo, com lábios lisonjeiros e coração dobre. Os arrogantes confiam na língua: “quem é senhor de nós?”. Deus responde, por causa do gemido dos pobres: “Agora me levantarei”. Contra a palavra humana enganosa, o salmista exalta a palavra do Senhor, sincera como prata purificada sete vezes no crisol.",
+    "alegorico": "A palavra purificada sete vezes – número da perfeição – é Cristo, a Palavra do Pai sem mistura de mentira. Ele é o Amém, a testemunha fiel e verdadeira (Ap 3,14), que se levanta em favor dos pobres.",
+    "moral": "O salmo é um exame sobre o uso da língua: mentira, bajulação, palavras manipuladoras. Quem diz “com a nossa língua somos fortes” faz da palavra uma arma de poder. O cristão é chamado a falar com verdade e a confrontar as suas palavras com a Palavra de Deus.",
+    "anagogico": "Num mundo onde os ímpios “se pavoneiam”, Deus guardará os seus “para sempre”. A Palavra do Senhor, que não passa, será a única a permanecer quando passarem o céu e a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Salva-nos, Senhor, porque desapareceu a fidelidade. Cada um fala falsidade ao seu próximo. Pelo gemido dos pobres, agora me levanto, diz o Senhor. As palavras do Senhor são palavras sinceras, prata depurada sete vezes.",
+    "meditatio_perguntas": [
+      "As minhas palavras são sinceras ou às vezes duplas e lisonjeiras?",
+      "Uso a língua como instrumento de poder sobre os outros?",
+      "Confio mais na Palavra de Deus ou nas palavras dos homens?"
+    ],
+    "oratio_guia": "Senhor, purifica os meus lábios. Livra-me da mentira e da lisonja. Que a tua Palavra, prata sete vezes depurada, seja a medida das minhas palavras. Levanta-te em favor dos pobres e guarda-nos. Amém.",
+    "contemplatio_foco": {
+      "texto": "As palavras do Senhor são palavras sinceras",
+      "ref": "Sl 11,7"
+    }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sobre a oitava” pode indicar um instrumento de oito cordas ou um tom musical; o sentido exato se perdeu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

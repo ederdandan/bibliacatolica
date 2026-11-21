@@ -1,0 +1,57 @@
+{
+  "id": "PSA.7.1",
+  "livro": "PSA",
+  "titulo": "O justo perseguido apela ao Juiz",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 7,1-18",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Deus, juiz justo, que sonda os corações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um inocente, perseguido por acusações falsas (o título fala de Cuch, benjaminita), refugia-se em Deus. Faz um juramento de inocência: se cometeu o mal, que o inimigo o alcance. Pede que Deus se levante como juiz das nações e lhe faça justiça segundo a sua retidão. Deus sonda os corações e as entranhas, é escudo dos retos. O ímpio concebe malícia e dá à luz a mentira, mas cai na cova que cavou. O salmo termina com ação de graças ao Altíssimo.",
+    "alegorico": "Cristo é o inocente por excelência, acusado falsamente e entregue aos perseguidores. Mas também é o Juiz das nações, a quem o Pai entregou todo o julgamento (Jo 5,22). Os seus inimigos caíram na própria cova: a morte que tramaram tornou-se a sua vitória.",
+    "moral": "O salmo ensina a entregar a Deus a causa quando somos acusados injustamente, em vez de fazer justiça com as próprias mãos. Também nos convida a examinar a consciência: posso dizer, diante daquele que sonda os corações, que sou inocente? O mal acaba por se voltar contra quem o pratica.",
+    "anagogico": "O juízo de Deus “que sonda os corações” se realizará no fim dos tempos, quando todo segredo for revelado. Então o justo será sustentado e cessará a maldade dos ímpios."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, meu Deus, em ti me refugio; salva-me dos que me perseguem. Faz-me justiça segundo a minha inocência. Tu sondas os corações e as entranhas. O ímpio cai na cova que cavou. Cantarei ao nome do Senhor Altíssimo.",
+    "meditatio_perguntas": [
+      "Como reajo quando sou acusado injustamente?",
+      "Que intenções escondidas Deus, que sonda o coração, vê em mim?",
+      "Há alguma “cova” que estou cavando para outra pessoa?"
+    ],
+    "oratio_guia": "Senhor, juiz justo, entrego-te a minha causa. Sonda o meu coração e purifica-o. Livra-me da tentação de me vingar e faz-me confiar na tua justiça. Cantarei o teu nome, ó Altíssimo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu escudo é Deus, que salva os rectos de coração.",
+      "ref": "Sl 7,11"
+    }
+  },
+  "ancoras": {
+    "7:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Corações e entranhas” (rins): na antropologia bíblica, o centro do pensamento e o lugar dos sentimentos mais íntimos. Cf. Jr 11,20; Ap 2,23.",
+        "origem": "ia"
+      }
+    },
+    "7:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem frequente na sabedoria bíblica: o mal recai sobre quem o trama (cf. Pr 26,27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

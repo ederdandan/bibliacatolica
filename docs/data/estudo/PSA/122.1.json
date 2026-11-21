@@ -1,0 +1,40 @@
+{
+  "id": "PSA.122.1",
+  "livro": "PSA",
+  "titulo": "A ti levanto os meus olhos",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 122,1-4",
+  "ini": {
+    "c": 122,
+    "v": 1
+  },
+  "fim": {
+    "c": 122,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Os nossos olhos estão fixos no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve súplica comunitária. O salmista levanta os olhos para Deus, que habita nos céus. Como os olhos do servo estão fixos nas mãos do seu senhor e os da serva nas mãos da senhora, assim os olhos do povo estão fixos em Deus, até que tenha piedade. “Tem piedade de nós, Senhor”: estão fartos do desprezo e da zombaria dos soberbos.",
+    "alegorico": "Cristo, Servo obediente, tinha os olhos fixos no Pai. Os humildes que sofrem desprezo olham para ele, que foi o desprezado por excelência.",
+    "moral": "O salmo ensina a oração do olhar: atenção constante e confiante a Deus, como o servo atento a cada gesto do senhor. A perseverança espera “até que tenha piedade”. Consola os que sofrem humilhações.",
+    "anagogico": "O olhar fixo em Deus na fé se tornará visão face a face; a misericórdia esperada será plena no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ti levanto os meus olhos, a ti que habitas nos céus. Como os olhos do servo estão fixos nas mãos do seu senhor, assim os nossos olhos estão fixos no Senhor nosso Deus, até que tenha piedade de nós. Tem piedade de nós, Senhor.",
+    "meditatio_perguntas": [
+      "Para onde estão fixos os meus olhos ao longo do dia?",
+      "Sei esperar “até que” Deus tenha piedade?",
+      "Como lido com o desprezo dos outros?"
+    ],
+    "oratio_guia": "Senhor, a ti levanto os meus olhos. Como o servo atento ao seu senhor, quero estar atento a ti. Tem piedade de nós, que sofremos desprezo. Amém.",
+    "contemplatio_foco": {
+      "texto": "assim os nossos olhos estão fixos no Senhor nosso Deus, até que tenha misericórdia de nós.",
+      "ref": "Sl 122,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "PSA.50.1",
+  "livro": "PSA",
+  "titulo": "Tem piedade de mim, ó Deus (Miserere)",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 50,1-21",
+  "ini": {
+    "c": 50,
+    "v": 1
+  },
+  "fim": {
+    "c": 50,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Tem piedade de mim, ó Deus: cria em mim um coração puro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Miserere, quarto salmo penitencial, ligado pelo título ao pecado de Davi com Betsabé e à denúncia do profeta Natã. O pecador apela à misericórdia de Deus e pede que lave a sua culpa. Reconhece o pecado, que está sempre diante dele, e confessa ter pecado contra Deus. Reconhece a sua inclinação ao mal desde a origem. Pede purificação com o hissopo e um coração novo: “Cria em mim, ó Deus, um coração puro”. Promete ensinar os pecadores e louvar a Deus. O sacrifício agradável é um coração contrito e humilhado.",
+    "alegorico": "O salmo é a oração do filho pródigo e de toda a Igreja penitente. A aspersão com o hissopo e a lavagem prefiguram o Batismo e o sangue de Cristo que purifica; o “espírito santo” pedido é o dom do Espírito dado em Pentecostes. A Igreja o reza toda sexta-feira nas Laudes, dia da Cruz.",
+    "moral": "É o modelo da verdadeira conversão: sem justificativas, sem culpar outros, sem desespero. Reconhecer o pecado, confiar na misericórdia e pedir um coração novo. O fruto da conversão é a alegria e o testemunho: “ensinarei aos pecadores os teus caminhos”.",
+    "anagogico": "“Mais branco que a neve” evoca as vestes dos santos lavadas no sangue do Cordeiro (Ap 7,14). A Jerusalém reconstruída aponta para a cidade santa do fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tem piedade de mim, ó Deus, segundo a tua misericórdia. Lava-me da minha culpa. Reconheço a minha maldade, o meu pecado está sempre diante de mim. Cria em mim, ó Deus, um coração puro e renova em mim um espírito firme. Dá-me a alegria da tua salvação. Um coração contrito e humilhado, ó Deus, não o desprezarás.",
+    "meditatio_perguntas": [
+      "Reconheço o meu pecado sem desculpas e sem desespero?",
+      "O que significa para mim pedir “um coração puro”?",
+      "Que “alegria da salvação” perdi e desejo reencontrar?"
+    ],
+    "oratio_guia": "Tem piedade de mim, ó Deus, segundo a tua misericórdia. Lava-me, purifica-me, cria em mim um coração puro. Não retires de mim o teu Espírito Santo. Devolve-me a alegria da salvação, e abre os meus lábios para anunciar o teu louvor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito firme.",
+      "ref": "Sl 50,12"
+    }
+  },
+  "ancoras": {
+    "50:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 11–12. Diante da parábola de Natã, Davi confessa: “Pequei contra o Senhor”.",
+        "origem": "ia"
+      }
+    },
+    "50:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não condena o matrimônio nem a mãe, mas exprime a solidariedade de todo homem no pecado; a teologia o relacionou com o pecado original.",
+        "origem": "ia"
+      }
+    },
+    "50:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abertura da Liturgia das Horas a cada dia: “Senhor, abri os meus lábios”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

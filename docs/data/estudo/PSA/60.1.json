@@ -1,0 +1,49 @@
+{
+  "id": "PSA.60.1",
+  "livro": "PSA",
+  "titulo": "Prece do exilado: conduze-me à rocha",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 60,1-9",
+  "ini": {
+    "c": 60,
+    "v": 1
+  },
+  "fim": {
+    "c": 60,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Dos confins da terra clamo a ti: conduze-me à rocha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Prece de alguém distante, “dos confins da terra”, com o coração desfalecido. Pede que Deus o conduza a uma rocha inacessível, pois ele é refúgio e torre forte. Deseja habitar para sempre na tenda de Deus, à sombra das suas asas. Deus ouviu os seus votos e lhe deu a herança dos que o temem. Segue uma prece pelo rei: que os seus anos se multipliquem e reine para sempre diante de Deus, guardado pela graça e pela fidelidade.",
+    "alegorico": "A rocha mais alta que eu é Cristo (1Cor 10,4). O rei que reina eternamente na presença de Deus é o Messias. Santo Agostinho escuta aqui a voz da Igreja espalhada pelos confins da terra, que clama unida a Cristo.",
+    "moral": "Quando o coração desfalece, o salmo ensina a pedir que Deus nos leve a uma rocha “mais alta que eu”: uma segurança que não construímos. Lembra também a fidelidade aos votos e a oração pelos que governam.",
+    "anagogico": "Habitar “para sempre” na tenda de Deus é a vida eterna; o rei cujos anos duram por gerações é Cristo, que reina pelos séculos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve, ó Deus, o meu clamor. Dos confins da terra clamo a ti, quando o meu coração desfalece. Eleva-me sobre um rochedo. Tu és o meu refúgio, torre forte. Oxalá eu habite sempre na tua tenda, à sombra das tuas asas!",
+    "meditatio_perguntas": [
+      "De que “confins” clamo hoje a Deus?",
+      "Qual é a “rocha mais alta que eu” em que preciso ser posto?",
+      "Rezo pelos que governam?"
+    ],
+    "oratio_guia": "Senhor, quando o meu coração desfalece, leva-me à rocha mais alta que eu, que é Cristo. Dá-me habitar para sempre na tua tenda. Guarda com graça e fidelidade os que nos governam. Cantarei sempre o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Oxalá eu possa habitar sempre no teu tabernáculo; acolher-me-ei à sombra das tuas asas!",
+      "ref": "Sl 60,5"
+    }
+  },
+  "ancoras": {
+    "60:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata diz “exaltaste-me sobre a rocha”; o hebraico pede: “conduze-me à rocha mais alta do que eu”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

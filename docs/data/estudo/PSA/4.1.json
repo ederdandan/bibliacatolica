@@ -1,0 +1,57 @@
+{
+  "id": "PSA.4.1",
+  "livro": "PSA",
+  "titulo": "Oração da noite: em paz me deito e adormeço",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 4,1-10",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Em paz me deito e adormeço, porque só tu me dás segurança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oração confiante de um justo que já experimentou a ajuda de Deus na angústia. Interpela os poderosos que amam a vaidade e buscam a mentira e os exorta a tremer, a não pecar, a refletir no silêncio do quarto e a esperar no Senhor. Diante dos que perguntam “quem nos fará ver o bem?”, pede que Deus faça brilhar a luz do seu rosto. A alegria que Deus lhe deu é maior que a do agricultor nas colheitas abundantes, e por isso deita-se e adormece em paz.",
+    "alegorico": "A Igreja reza este salmo nas Completas do domingo, a oração da noite. A “luz do teu rosto” é Cristo, rosto visível do Pai (Jo 14,9). Santo Agostinho conta nas Confissões como este salmo o tocou após a conversão: a verdadeira alegria não está no trigo e no vinho, mas em Deus.",
+    "moral": "“Tremei e não pequeis; refleti no vosso leito e calai-vos”: o salmo propõe um exame de consciência noturno e silencioso. A paz do sono nasce de uma consciência reconciliada e de uma alegria que não depende dos bens materiais.",
+    "anagogico": "Adormecer em paz é imagem da morte cristã, vivida como repouso confiante nas mãos de Deus. A luz do rosto do Senhor, que aqui se pede, será contemplada face a face na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve-me, ó Deus da minha justiça. Até quando amareis a vaidade? Tremei e não pequeis, refleti no vosso leito. Muitos dizem: “Quem nos fará ver o bem?” Levanta sobre nós a luz do teu rosto. Em paz me deito e adormeço.",
+    "meditatio_perguntas": [
+      "Onde busco a minha alegria: nas “colheitas” ou no rosto de Deus?",
+      "Faço, à noite, um breve exame de consciência em silêncio?",
+      "Que “vaidades” e mentiras me roubam a paz?"
+    ],
+    "oratio_guia": "Senhor, ao fim deste dia, faz brilhar sobre mim a luz do teu rosto. Perdoa o que fiz de mal e dá-me a paz de quem confia só em ti. Que eu me deite e adormeça tranquilo, sabendo que tu me guardas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Logo que me deito, em paz adormeço",
+      "ref": "Sl 4,9"
+    }
+  },
+  "ancoras": {
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por S. Paulo em Ef 4,26, segundo a versão grega: “Irai-vos e não pequeis”.",
+        "origem": "ia"
+      }
+    },
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco da bênção sacerdotal de Nm 6,25: “O Senhor faça brilhar sobre ti o seu rosto”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

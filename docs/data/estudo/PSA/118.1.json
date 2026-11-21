@@ -1,0 +1,49 @@
+{
+  "id": "PSA.118.1",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Álef: felizes os que andam na lei do Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,1-8",
+  "ini": {
+    "c": 118,
+    "v": 1
+  },
+  "fim": {
+    "c": 118,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Felizes os que andam na lei do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o Salmo 118, o mais longo do Saltério: 176 versículos em 22 estrofes, uma para cada letra do alfabeto hebraico; na língua original, os oito versos de cada estrofe começam com a mesma letra. Quase todos os versículos nomeiam a Palavra de Deus com algum sinônimo: lei, preceitos, mandamentos, decretos, palavra. Esta primeira estrofe (Álef) proclama felizes os que andam na lei do Senhor e o buscam de todo o coração, e exprime o desejo de ter caminhos firmes para guardar os seus estatutos.",
+    "alegorico": "A lei que o salmista ama é, para o cristão, o próprio Cristo, Palavra feita carne e caminho do Pai (Jo 14,6). Santo Agostinho viu em todo o salmo a voz de Cristo e da Igreja que caminha na lei do amor.",
+    "moral": "O salmo ensina a perseverança: a vida espiritual é caminhar, não um momento isolado. O salmista não se julga perfeito, mas deseja firmeza e pede: “não me desampares”.",
+    "anagogico": "A felicidade dos que andam sem mancha anuncia a bem-aventurança eterna, onde a lei de Deus será plenamente vivida no amor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Felizes os que andam sem mancha, que caminham na lei do Senhor. Felizes os que o buscam de todo o coração. Oxalá os meus caminhos sejam firmes para guardar os teus estatutos. Não me desampares inteiramente.",
+    "meditatio_perguntas": [
+      "Busco a Deus “de todo o coração” ou só com uma parte dele?",
+      "Os meus caminhos são firmes ou inconstantes?",
+      "Que lugar tem a Palavra de Deus nas minhas escolhas diárias?"
+    ],
+    "oratio_guia": "Senhor, dá-me firmeza para caminhar na tua lei e buscar-te de todo o coração. Não me abandones nas minhas fraquezas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Oxalá que os meus caminhos sejam firmes para guardar os teus estatutos!",
+      "ref": "Sl 118,5"
+    }
+  },
+  "ancoras": {
+    "118:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As 22 estrofes seguem o alfabeto hebraico (álef, bet, guímel...). A Liturgia das Horas distribui o salmo pela Hora Média de todas as semanas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

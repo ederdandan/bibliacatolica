@@ -1,0 +1,57 @@
+{
+  "id": "PSA.110.1",
+  "livro": "PSA",
+  "titulo": "Grandes são as obras do Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 110,1-10",
+  "ini": {
+    "c": 110,
+    "v": 1
+  },
+  "fim": {
+    "c": 110,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Grandes são as obras do Senhor; o temor de Deus é o princípio da sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino alfabético de louvor na assembleia dos justos. As obras do Senhor são grandes e dignas de estudo; a sua justiça permanece para sempre. Deus deixou um memorial das suas maravilhas: é misericordioso e compassivo. Deu alimento aos que o temem e se lembra da aliança; deu ao povo a herança das nações. Os seus preceitos são firmes e justos. Enviou a redenção ao seu povo; o seu nome é santo e temível. “O temor do Senhor é o princípio da sabedoria.”",
+    "alegorico": "O “memorial das suas maravilhas” e o “alimento aos que o temem” foram lidos pela tradição como anúncio da Eucaristia, memorial da Páscoa de Cristo (“Fazei isto em memória de mim”). A antífona do Magnificat de Corpus Christi usa esta passagem. A redenção enviada ao povo é Cristo.",
+    "moral": "As obras de Deus merecem ser estudadas e meditadas. O temor do Senhor não é medo servil, mas reverência amorosa, ponto de partida de toda sabedoria. O salmo convida a louvar “de todo o coração” e na assembleia.",
+    "anagogico": "A aliança “para sempre” e o louvor que “permanece para sempre” anunciam a liturgia eterna do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvarei o Senhor de todo o coração, na assembleia dos justos. Grandes são as obras do Senhor. Deixou um memorial das suas maravilhas; o Senhor é misericordioso e compassivo. Deu alimento aos que o temem. Enviou a redenção ao seu povo. O temor do Senhor é o princípio da sabedoria.",
+    "meditatio_perguntas": [
+      "Dedico tempo a “estudar” e meditar as obras de Deus?",
+      "Vivo a Missa como memorial das maravilhas de Deus?",
+      "O que significa para mim o “temor do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, grandes são as tuas obras. Obrigado pelo memorial das tuas maravilhas e pelo alimento que dás aos que te temem. Dá-me o santo temor que é princípio da sabedoria. Louvar-te-ei de todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "O temor do Senhor é o princípio da sabedoria",
+      "ref": "Sl 110,10"
+    }
+  },
+  "ancoras": {
+    "110:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Memorial” (zikkaron): no sentido bíblico, não é mera lembrança, mas atualização do evento salvador.",
+        "origem": "ia"
+      }
+    },
+    "110:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 1,7; 9,10; Eclo 1,16.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

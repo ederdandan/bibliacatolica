@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.89",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Lámed: a tua palavra permanece para sempre",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,89-96",
+  "ini": {
+    "c": 118,
+    "v": 89
+  },
+  "fim": {
+    "c": 118,
+    "v": 96
+  },
+  "liturgia": {
+    "tema_central": "A tua palavra permanece para sempre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Lámed. A palavra do Senhor é estável como o céu; a sua fidelidade dura de geração em geração; a terra perdura porque tudo serve a Deus. “Se a tua lei não fosse a minha delícia, eu teria perecido na aflição.” O salmista nunca esquecerá os preceitos que lhe deram vida. “Sou teu: salva-me.” Conclui: vi que toda perfeição humana tem limite; o teu mandamento é sem limites.",
+    "alegorico": "“O céu e a terra passarão, mas as minhas palavras não passarão” (Mt 24,35). Cristo é a Palavra eterna, estável como o céu, pela qual tudo foi feito.",
+    "moral": "Num mundo de opiniões passageiras, a Palavra de Deus é rocha. “Sou teu” é uma das orações mais simples e totais do Saltério. A Palavra amada sustenta no sofrimento.",
+    "anagogico": "A Palavra que permanece para sempre nos introduz na eternidade de Deus; a perfeição sem limite é Deus mesmo, que veremos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Para sempre, Senhor, permanece a tua palavra, estável como o céu. Se a tua lei não fosse a minha delícia, eu teria perecido na aflição. Nunca esquecerei os teus preceitos, porque por eles me deste a vida. Sou teu: salva-me.",
+    "meditatio_perguntas": [
+      "Em que me apoio quando tudo muda: em opiniões ou na Palavra?",
+      "Posso dizer a Deus, de verdade, “sou teu”?",
+      "Que palavra de Deus me salvou numa aflição?"
+    ],
+    "oratio_guia": "Senhor, a tua palavra permanece para sempre. Sou teu: salva-me. Que a tua lei seja a minha delícia, para que eu não pereça na aflição. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou teu: salva-me, porque busquei os teus preceitos.",
+      "ref": "Sl 118,94"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

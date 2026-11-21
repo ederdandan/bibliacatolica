@@ -1,0 +1,57 @@
+{
+  "id": "PSA.15.1",
+  "livro": "PSA",
+  "titulo": "O Senhor é a minha herança",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 15,1-11",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é a minha herança: não deixarás o teu santo ver a corrupção",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Profissão de fé de um fiel, talvez um levita, que não tem terra própria: a sua porção é o próprio Senhor. Recusa os deuses estranhos e se alegra com a herança que recebeu. Bendiz a Deus, que o aconselha até de noite; põe-no sempre diante de si e, com Deus à direita, não vacila. Por isso o coração se alegra e o corpo descansa seguro, porque Deus não o abandonará à morte nem deixará o seu santo ver a corrupção, mas lhe mostrará o caminho da vida e a alegria plena a seu lado.",
+    "alegorico": "S. Pedro no Pentecostes (At 2,25-31) e S. Paulo em Antioquia (At 13,35) citam os vv. 8-11 como profecia da Ressurreição de Cristo: Davi morreu e viu a corrupção, mas o Cristo ressuscitado não. A Igreja reza este salmo no Sábado Santo e nas Completas da quinta-feira.",
+    "moral": "“Fora de ti não tenho nenhum bem”: o salmo é a oração de quem escolhe Deus como o seu único bem, como os consagrados que deixam tudo. Pôr o Senhor sempre diante de si é a prática da presença de Deus, fonte de estabilidade e de alegria.",
+    "anagogico": "As “delícias à tua direita eternamente” são a vida eterna. O corpo que descansa seguro, sem ver a corrupção para sempre, anuncia a ressurreição da carne, iniciada na Páscoa de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Guarda-me, ó Deus, em ti me refugio. Tu és o meu Senhor, fora de ti não tenho bem algum. O Senhor é a minha herança e o meu cálice. Ponho sempre o Senhor diante de mim. Não deixarás o teu santo ver a corrupção. Mostrar-me-ás o caminho da vida.",
+    "meditatio_perguntas": [
+      "Posso dizer com sinceridade: “fora de ti não tenho nenhum bem”?",
+      "Que “deuses estranhos” disputam o primeiro lugar no meu coração?",
+      "Como posso pôr o Senhor “sempre diante de mim” no meu dia?"
+    ],
+    "oratio_guia": "Senhor, tu és a minha herança e o meu cálice; a minha sorte está nas tuas mãos. Ponho-te sempre diante de mim. Guarda-me na vida e na morte, e mostra-me o caminho da vida, até a alegria plena junto de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ponho sempre o Senhor diante de mim",
+      "ref": "Sl 15,8"
+    }
+  },
+  "ancoras": {
+    "15:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os levitas não receberam território em Canaã: “O Senhor é a sua herança” (Nm 18,20; Dt 10,9). Daí o uso do versículo na antiga cerimônia da tonsura clerical.",
+        "origem": "ia"
+      }
+    },
+    "15:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em At 2,27 e 13,35 como profecia da Ressurreição. “Corrupção” traduz a leitura grega; o hebraico diz “a cova”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

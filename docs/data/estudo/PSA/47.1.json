@@ -1,0 +1,57 @@
+{
+  "id": "PSA.47.1",
+  "livro": "PSA",
+  "titulo": "Sião, cidade do grande Rei",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 47,1-15",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Sião, cidade do grande Rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino a Sião, a cidade de Deus. O monte santo é alegria de toda a terra, cidade do grande Rei. Reis coligados avançaram contra ela, mas ao vê-la fugiram aterrorizados, como mulher em dores de parto, como navios destruídos pelo vento. O povo medita a misericórdia de Deus no Templo e convida a percorrer Sião, contar as suas torres e observar as suas muralhas, para contar às gerações futuras: este é o nosso Deus, para sempre; ele nos guiará.",
+    "alegorico": "Sião é figura da Igreja, edificada sobre Cristo, contra a qual “as portas do inferno não prevalecerão” (Mt 16,18). Jesus chama Jerusalém “cidade do grande Rei” (Mt 5,35).",
+    "moral": "Percorrer Sião e contar as suas torres é contemplar a obra de Deus na Igreja, para transmiti-la aos filhos. O salmo nos convida a amar a Igreja e a narrar às novas gerações a fidelidade de Deus.",
+    "anagogico": "A cidade que Deus consolida para sempre é a Jerusalém celeste, cidade de muralhas e torres de pedras preciosas (Ap 21), onde Deus será o nosso guia eternamente."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Grande é o Senhor e digno de todo louvor na cidade do nosso Deus. O monte Sião é a alegria de toda a terra, a cidade do grande Rei. Comemoramos, ó Deus, a tua misericórdia no teu templo. Este é o nosso Deus, para sempre; ele nos guiará.",
+    "meditatio_perguntas": [
+      "Amo a Igreja como “cidade do grande Rei”, apesar das suas fragilidades?",
+      "O que estou transmitindo às novas gerações sobre Deus?",
+      "Onde medito a misericórdia de Deus?"
+    ],
+    "oratio_guia": "Senhor, grande és tu na tua cidade. Obrigado pela Igreja, que tu fundaste e sustentas. Ensina-me a contar às gerações futuras as tuas maravilhas. Tu és o nosso Deus para sempre: guia-nos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Comemoramos, ó Deus, a tua misericórdia, dentro do teu templo.",
+      "ref": "Sl 47,10"
+    }
+  },
+  "ancoras": {
+    "47:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Confins do aquilão” (norte): o monte Safon era, na mitologia cananeia, a morada dos deuses; o salmo afirma que a verdadeira morada divina é Sião.",
+        "origem": "ia"
+      }
+    },
+    "47:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tarsis: porto distante (talvez na Espanha); as “naus de Tarsis” eram os grandes navios de alto-mar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.141.1",
+  "livro": "PSA",
+  "titulo": "Clamor do perseguido na caverna",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 141,1-8",
+  "ini": {
+    "c": 141,
+    "v": 1
+  },
+  "fim": {
+    "c": 141,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Tu és o meu refúgio, a minha porção na terra dos vivos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza na caverna, fugindo de Saul. Clama em alta voz ao Senhor e derrama diante dele a sua angústia. Quando o espírito desfalece, Deus conhece o seu caminho; armaram-lhe laços. Olha à direita e não há quem o reconheça, nenhum refúgio, ninguém se importa com ele. “A ti clamo, Senhor: Tu és o meu refúgio, a minha porção na terra dos vivos.” Pede que o tire da prisão, para louvar o seu nome entre os justos.",
+    "alegorico": "A Igreja reza este salmo nas Vésperas de sábado: é a oração de Cristo abandonado de todos na Paixão, “ninguém se importa comigo”, e preso no sepulcro, de onde o Pai o tirou.",
+    "moral": "O salmo autoriza a derramar diante de Deus toda a angústia. Na solidão total, quando ninguém se importa, Deus continua sendo “a minha porção”. Ensina também a ver nos outros justos uma comunidade que se alegra com a nossa libertação.",
+    "anagogico": "A “terra dos vivos” é a vida eterna; a saída da prisão anuncia a ressurreição e o louvor com os justos no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em alta voz clamo ao Senhor. Derramo diante dele a minha preocupação. Olho à direita, e não há quem se importe comigo. A ti clamo, Senhor: Tu és o meu refúgio, a minha porção na terra dos vivos. Tira-me desta prisão, para que eu dê graças ao teu nome.",
+    "meditatio_perguntas": [
+      "Já senti que “ninguém se importa comigo”? A quem recorri?",
+      "Derramo diante de Deus as minhas preocupações?",
+      "Conheço alguém que vive essa solidão e precisa de mim?"
+    ],
+    "oratio_guia": "Senhor, quando ninguém se importa comigo, tu és o meu refúgio e a minha porção. Ouve o meu clamor e tira-me da prisão. Faz-me também atento aos que estão sozinhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A ti clamo, Senhor: digo: Tu és o meu refúgio, a minha porção na terra dos viventes.",
+      "ref": "Sl 141,6"
+    }
+  },
+  "ancoras": {
+    "141:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 22,1 e 24,4 (ver também o Sl 56).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

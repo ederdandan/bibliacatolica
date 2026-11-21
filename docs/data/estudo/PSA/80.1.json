@@ -1,0 +1,57 @@
+{
+  "id": "PSA.80.1",
+  "livro": "PSA",
+  "titulo": "Escuta, meu povo: o convite da festa",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 80,1-17",
+  "ini": {
+    "c": 80,
+    "v": 1
+  },
+  "fim": {
+    "c": 80,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Oxalá me ouvisses, Israel: abre a boca, e eu a encherei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo festivo, talvez para a festa das Tendas. Convida a aclamar a Deus com música e a tocar a trombeta na lua nova e na lua cheia, como manda a lei. Então se ouve uma voz desconhecida, o oráculo de Deus: libertei os teus ombros do fardo no Egito; respondi-te na tempestade; provei-te em Meriba. “Ouve, meu povo: não terás deus estranho. Eu sou o Senhor teu Deus; abre a tua boca, e eu a encherei.” Mas o povo não ouviu, e Deus o entregou à dureza do coração. Se o povo o escutasse, Deus o alimentaria com a flor do trigo e o mel da rocha.",
+    "alegorico": "A flor do trigo e o mel da rocha prefiguram a Eucaristia: a liturgia de Corpus Christi canta o v. 17 (“Cibavit eos ex adipe frumenti”). A rocha é Cristo (1Cor 10,4), de quem brota a doçura da graça.",
+    "moral": "O drama do salmo é o lamento de Deus: “oxalá me ouvisses!”. Deus deseja dar muito mais do que pedimos (“abre a boca”), mas respeita a nossa liberdade e nos deixa “andar segundo o nosso parecer”. A escuta é o primeiro mandamento.",
+    "anagogico": "O banquete da flor do trigo e do mel da rocha anuncia o banquete do Reino, onde Deus saciará plenamente os que escutaram a sua voz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Exultai em Deus, nossa força. Ouvi uma voz desconhecida: libertei os seus ombros do fardo. Ouve, meu povo: oxalá me ouvisses, Israel! Eu sou o Senhor teu Deus; abre a tua boca, e eu a encherei. Eu o alimentaria com a flor do trigo e o saciaria com mel da rocha.",
+    "meditatio_perguntas": [
+      "De que “fardos” Deus já me libertou?",
+      "Escuto a voz de Deus, ou ando “segundo o meu parecer”?",
+      "O que significa para mim “abrir a boca” para que Deus a encha?"
+    ],
+    "oratio_guia": "Senhor, tu me libertaste de tantos fardos. Dá-me ouvir a tua voz e não seguir deuses estranhos. Abro a minha boca e o meu coração: enche-me de ti. Alimenta-me com a flor do trigo, o Pão da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto; abre a tua boca, e eu a encherei.",
+      "ref": "Sl 80,11"
+    }
+  },
+  "ancoras": {
+    "80:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Meriba: lugar onde o povo pôs Deus à prova por falta de água (Ex 17,7; Nm 20,13).",
+        "origem": "ia"
+      }
+    },
+    "80:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Antífona de entrada da solenidade de Corpus Christi.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

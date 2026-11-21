@@ -1,0 +1,57 @@
+{
+  "id": "PSA.54.1",
+  "livro": "PSA",
+  "titulo": "Traído pelo amigo: lança sobre o Senhor o teu cuidado",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 54,1-24",
+  "ini": {
+    "c": 54,
+    "v": 1
+  },
+  "fim": {
+    "c": 54,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Lança sobre o Senhor o teu cuidado: traído pelo amigo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica angustiada: o salmista treme de medo, um pavor de morte o invade. Deseja ter asas de pomba para fugir para o deserto, longe da tempestade. Vê violência e discórdia na cidade. A ferida mais profunda: não foi um inimigo, mas o amigo íntimo, com quem partilhava a intimidade e ia à casa de Deus. As suas palavras eram mais suaves que o azeite, mas eram espadas. O salmista clama a Deus de tarde, de manhã e ao meio-dia, e exorta: “Lança sobre o Senhor o teu cuidado, e ele te sustentará”.",
+    "alegorico": "Os Padres leram aqui a traição de Judas, o amigo que partilhava a mesa e o beijou (Lc 22,48). No Getsêmani, Cristo experimentou o pavor de morte (Mc 14,33-34). 1Pd 5,7 retoma o v. 23: “Lançai sobre ele toda a vossa ansiedade, porque ele cuida de vós”.",
+    "moral": "O desejo de fugir (“asas de pomba”) é humano, mas a resposta é entregar a Deus o peso e permanecer. O salmo ensina a oração em três momentos do dia e a confiar a Deus as feridas das traições, sem vingança.",
+    "anagogico": "“Não permitirá jamais que o justo vacile”: a estabilidade definitiva dos que confiam em Deus é a paz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve, ó Deus, a minha oração. Um pavor de morte cai sobre mim. Quem me dera asas como a pomba! Se fosse um inimigo, eu o suportaria; mas eras tu, meu companheiro e amigo. Eu, porém, clamarei a Deus. Lança sobre o Senhor o teu cuidado, e ele te sustentará.",
+    "meditatio_perguntas": [
+      "De que situações desejo fugir “com asas de pomba”?",
+      "Que fardo preciso “lançar sobre o Senhor” hoje?",
+      "Tenho momentos fixos de oração ao longo do dia?"
+    ],
+    "oratio_guia": "Senhor, quando o medo me invade e as feridas vêm de quem amo, ouve-me. Lanço sobre ti os meus cuidados. Sustenta-me e não permitas que eu vacile. Dá-me perdoar, como Jesus perdoou o amigo que o traiu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Descarrega sobre o Senhor os teus cuidados, e ele te sustentará",
+      "ref": "Sl 54,23"
+    }
+  },
+  "ancoras": {
+    "54:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tarde, manhã e meio-dia: os três momentos de oração do judaísmo (cf. Dn 6,11), origem das Horas litúrgicas.",
+        "origem": "ia"
+      }
+    },
+    "54:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Pd 5,7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

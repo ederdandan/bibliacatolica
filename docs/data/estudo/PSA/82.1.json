@@ -1,0 +1,49 @@
+{
+  "id": "PSA.82.1",
+  "livro": "PSA",
+  "titulo": "Contra a coligação das nações",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 82,1-19",
+  "ini": {
+    "c": 82,
+    "v": 1
+  },
+  "fim": {
+    "c": 82,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Não te cales, ó Deus: que conheçam que só tu és o Altíssimo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica nacional diante de uma coligação de povos que conspiram para apagar o nome de Israel: Edom, ismaelitas, Moab, agarenos, Amon, Amalec, filisteus, Tiro e a Assíria. O povo pede: “Ó Deus, não te cales”. Recorda as vitórias antigas sobre Madiã, Sísara e Jabin, Oreb e Zeb, e pede que os inimigos sejam como palha ao vento, perseguidos pela tempestade. O objetivo final não é só a derrota: “cobre-lhes o rosto de vergonha, para que busquem o teu nome, Senhor”, e reconheçam que só ele é o Altíssimo sobre toda a terra.",
+    "alegorico": "A coligação contra o povo de Deus evoca as forças que se unem contra Cristo e a sua Igreja (Sl 2; Ap 16,14). A esperança final do salmo é missionária: que os inimigos busquem o nome do Senhor.",
+    "moral": "Mesmo no pedido de derrota dos inimigos, o salmo aponta para a sua conversão (v. 17). O cristão deseja que os adversários da fé “busquem o nome do Senhor”, não a sua destruição.",
+    "anagogico": "“Saibam que só tu és o Altíssimo sobre toda a terra”: no fim, todo joelho se dobrará e toda língua confessará o Senhor (Fl 2,10-11)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, não te cales, não fiques mudo. Eis que os teus inimigos se agitam. Dizem: “Apaguemos o nome de Israel”. Torna-os como palha diante do vento. Cobre-lhes o rosto de vergonha, para que busquem o teu nome, Senhor. Saibam que só tu és o Altíssimo sobre toda a terra.",
+    "meditatio_perguntas": [
+      "Como rezo diante das forças que se unem contra a fé?",
+      "Desejo a conversão dos que se opõem a Deus, ou só a sua derrota?",
+      "Reconheço Deus como o Altíssimo em todas as áreas da minha vida?"
+    ],
+    "oratio_guia": "Ó Deus, não te cales diante das ameaças contra o teu povo. Confunde os planos do mal, mas converte os corações, para que todos busquem o teu nome. Que toda a terra saiba que só tu és o Altíssimo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cobre os seus rostos de ignomínia, para que busquem o teu nome, Senhor.",
+      "ref": "Sl 82,17"
+    }
+  },
+  "ancoras": {
+    "82:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jz 4–8: as vitórias de Débora e Barac sobre Sísara e de Gedeão sobre os madianitas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

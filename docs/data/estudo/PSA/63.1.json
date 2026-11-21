@@ -1,0 +1,49 @@
+{
+  "id": "PSA.63.1",
+  "livro": "PSA",
+  "titulo": "Contra os caluniadores",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 63,1-11",
+  "ini": {
+    "c": 63,
+    "v": 1
+  },
+  "fim": {
+    "c": 63,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Contra as línguas afiadas: o justo se alegra no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica contra conspiradores que afiam a língua como espada e disparam palavras envenenadas como flechas, às escondidas, contra o inocente, dizendo: “quem nos verá?”. Planejam o mal com astúcia insondável. Mas Deus os fere com a sua flecha de repente, e a própria língua os leva à ruína. Todos os que veem temem e reconhecem a obra de Deus. O justo se alegra no Senhor e nele se refugia.",
+    "alegorico": "A tradição aplicou o salmo à Paixão: os chefes que tramaram em segredo contra Jesus (Mt 26,4) foram desmascarados pela Ressurreição. A liturgia o usa na memória dos mártires.",
+    "moral": "O salmo é um alerta contra a maledicência, a calúnia e a intriga, que ferem “às escondidas”. Ensina que o mal da língua volta-se contra quem o pratica, e convida a refugiar-se em Deus quando somos alvos dela.",
+    "anagogico": "Tudo o que foi dito em segredo será proclamado sobre os telhados (Lc 12,3): no juízo, Deus revelará as intrigas, e os retos de coração se gloriarão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve, ó Deus, a minha voz no meu lamento. Afiam a língua como espada, disparam palavras envenenadas como flechas. Dizem: “Quem nos verá?” Mas Deus os fere de improviso. O justo se alegra no Senhor e nele se refugia.",
+    "meditatio_perguntas": [
+      "Já usei a língua como flecha contra alguém “às escondidas”?",
+      "Como reajo quando sou alvo de calúnias?",
+      "Onde me refugio quando sou atacado?"
+    ],
+    "oratio_guia": "Senhor, guarda-me das línguas afiadas e guarda a minha língua de ferir os outros. Tu vês o que é feito em segredo. Que eu me alegre em ti e em ti me refugie. Amém.",
+    "contemplatio_foco": {
+      "texto": "Alegra-se o justo no Senhor e refugia-se nele",
+      "ref": "Sl 63,11"
+    }
+  },
+  "ancoras": {
+    "63:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Quem os verá?”: a ilusão de que Deus não vê está na raiz de muitos pecados (cf. Sl 9,32; Sl 93,7).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PSA.137.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças de todo o coração",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 137,1-8",
+  "ini": {
+    "c": 137,
+    "v": 1
+  },
+  "fim": {
+    "c": 137,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Eu te louvo de todo o coração: não abandones a obra das tuas mãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças pessoal. O salmista louva o Senhor de todo o coração, diante dos anjos, e se prostra no Templo, porque Deus ouviu a sua voz e aumentou a força da sua alma. Todos os reis da terra o louvarão ao ouvir as suas palavras. O Senhor é excelso, mas olha para o humilde e conhece de longe o soberbo. Mesmo na angústia, Deus conserva a vida. “O Senhor completará o que começou por mim. Senhor, a tua misericórdia é eterna: não abandones a obra das tuas mãos.”",
+    "alegorico": "Os anjos diante de quem o salmista canta evocam a liturgia, em que a Igreja canta com os anjos (Sanctus). Deus que “olha o humilde” é cantado por Maria (Lc 1,48). S. Paulo ecoa o v. 8: “aquele que começou em vós a boa obra a levará a termo” (Fl 1,6).",
+    "moral": "O salmo une gratidão e confiança no futuro: Deus não deixa as suas obras pela metade. Consola quem se sente incompleto, inacabado, em processo. A humildade atrai o olhar de Deus.",
+    "anagogico": "A obra começada por Deus em nós será completada na glória; “não abandones a obra das tuas mãos” é a súplica da perseverança final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu te louvo, Senhor, de todo o coração; diante dos anjos te canto. Quando te invoquei, me ouviste e aumentaste a força da minha alma. O Senhor é excelso, mas olha para o humilde. O Senhor completará o que fez por mim. Senhor, a tua misericórdia é eterna: não abandones a obra das tuas mãos.",
+    "meditatio_perguntas": [
+      "Louvo a Deus “de todo o coração”?",
+      "Que obra Deus começou em mim e ainda espera completar?",
+      "Confio que Deus não me abandonará pela metade?"
+    ],
+    "oratio_guia": "Senhor, eu te louvo de todo o coração. Tu começaste em mim a tua obra: completa-a. Olha para a minha pequenez e não abandones a obra das tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, a tua bondade é eterna, não abandones a obra das tuas mãos.",
+      "ref": "Sl 137,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

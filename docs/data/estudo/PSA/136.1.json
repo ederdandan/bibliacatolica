@@ -1,0 +1,57 @@
+{
+  "id": "PSA.136.1",
+  "livro": "PSA",
+  "titulo": "Junto aos rios da Babilônia",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 136,1-9",
+  "ini": {
+    "c": 136,
+    "v": 1
+  },
+  "fim": {
+    "c": 136,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Junto aos rios da Babilônia: se eu me esquecer de ti, Jerusalém",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamento dos exilados na Babilônia. Sentados junto aos rios, choravam lembrando Sião e penduravam as harpas nos salgueiros. Os opressores pediam: “Cantai-nos um cântico de Sião”. Mas como cantar o cântico do Senhor em terra estrangeira? O salmista faz um juramento: se eu me esquecer de ti, Jerusalém, que a minha direita se paralise e a língua se cole ao paladar. Termina com imprecações violentas contra Edom e contra a Babilônia.",
+    "alegorico": "Os Padres leram o salmo como a nostalgia da Igreja peregrina pela Jerusalém celeste, no exílio deste mundo (a “Babilônia”). Santo Agostinho interpretou os “filhinhos” esmagados contra a pedra como os maus pensamentos nascentes, que devem ser quebrados contra a Pedra, que é Cristo.",
+    "moral": "O salmo dá voz à dor do exílio e da saudade. Ensina a não “esquecer Jerusalém”: não perder a identidade de fé num mundo estranho. As imprecações finais exprimem a dor de um povo massacrado; o cristão as entrega a Deus e as lê espiritualmente contra o mal, não contra as pessoas.",
+    "anagogico": "A saudade de Jerusalém é desejo do céu: somos estrangeiros e peregrinos, e a nossa alegria máxima está na cidade de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Junto aos rios da Babilônia nos sentamos a chorar, lembrando-nos de Sião. Nos salgueiros penduramos as nossas harpas. Como cantaremos o cântico do Senhor em terra estrangeira? Se eu me esquecer de ti, Jerusalém, paralise-se a minha mão direita.",
+    "meditatio_perguntas": [
+      "Em que “terra estrangeira” me sinto, onde é difícil cantar a Deus?",
+      "Corro o risco de “esquecer Jerusalém”, a minha identidade cristã?",
+      "Que pensamentos maus preciso quebrar contra a Pedra, que é Cristo?"
+    ],
+    "oratio_guia": "Senhor, no exílio deste mundo, não me deixes esquecer a tua Jerusalém. Dá-me cantar o teu cântico mesmo em terra estranha. Quebra em mim, contra a Pedra que é Cristo, os maus pensamentos desde o seu nascer. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se me esquecer de ti, Jerusalém, ao esquecimento seja entregue a minha direita",
+      "ref": "Sl 136,5"
+    }
+  },
+  "ancoras": {
+    "136:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Edom ajudou os babilônios na destruição de Jerusalém em 587 a.C. (Ab 10-14).",
+        "origem": "ia"
+      }
+    },
+    "136:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Expressão de dor e de linguagem de guerra da época; a Liturgia das Horas omite estes versículos. Interpretação espiritual em Santo Agostinho, Enarrationes in Ps 136.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

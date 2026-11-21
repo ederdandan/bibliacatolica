@@ -1,0 +1,65 @@
+{
+  "id": "PSA.67.1",
+  "livro": "PSA",
+  "titulo": "A marcha triunfal de Deus",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 67,1-36",
+  "ini": {
+    "c": 67,
+    "v": 1
+  },
+  "fim": {
+    "c": 67,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Levanta-se Deus: a marcha triunfal do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino grandioso e de texto difícil, que celebra a marcha de Deus desde o Sinai até o santuário de Jerusalém. Começa com a fórmula da Arca: “Levanta-se Deus, e os seus inimigos se dispersam”. Deus é pai dos órfãos e defensor das viúvas, dá casa aos desamparados e liberta os cativos. Evoca a caminhada no deserto, a chuva sobre a herança, a vitória sobre os reis. O monte Sião é preferido aos montes altivos. “Subiste ao alto, levaste cativos.” Descreve a procissão no santuário, com cantores, músicos e as tribos, e convida os reinos da terra a cantar ao Deus que cavalga os céus.",
+    "alegorico": "S. Paulo cita o v. 19 em Ef 4,8 aplicando-o à Ascensão: Cristo subiu ao alto, levou cativo o cativeiro e distribuiu dons aos homens. A fórmula inicial era cantada na Páscoa: Cristo ressuscitado se levanta e os inimigos (a morte e o pecado) se dispersam.",
+    "moral": "O Deus poderoso é “pai dos órfãos e tutor das viúvas”: a sua força se mostra no cuidado dos fracos. O salmo pede que imitemos este Deus que dá casa aos desamparados. “Deus, nossa salvação, leva as nossas cargas”: podemos entregar-lhe o peso de cada dia.",
+    "anagogico": "A procissão triunfal para o santuário e a conversão dos reinos da terra anunciam a entrada final de Cristo e dos redimidos no santuário celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levanta-se Deus, e são dispersos os seus inimigos. Os justos exultam na presença de Deus. Ele é pai dos órfãos e defensor das viúvas. Deus dá casa aos desamparados. Subiste ao alto, levaste contigo cativos. Bendito seja o Senhor dia após dia: Deus, nossa salvação, leva as nossas cargas.",
+    "meditatio_perguntas": [
+      "Que órfão, viúva ou desamparado posso acolher, como Deus?",
+      "Que cargas preciso deixar que Deus leve por mim hoje?",
+      "Como vivo a Ascensão de Cristo, que subiu e me deu dons?"
+    ],
+    "oratio_guia": "Levanta-te, Senhor, e dispersa os inimigos da minha alma. Tu és pai dos órfãos e casa dos desamparados: faz-me imitar a tua bondade. Leva as minhas cargas, Deus da minha salvação. Bendito sejas dia após dia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bendito seja o Senhor em toda a série dos dias; Deus, nossa salvação, leva as nossas cargas!",
+      "ref": "Sl 67,20"
+    }
+  },
+  "ancoras": {
+    "67:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retoma a fórmula de Moisés quando a Arca partia (Nm 10,35).",
+        "origem": "ia"
+      }
+    },
+    "67:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Ef 4,8 a propósito da Ascensão e dos dons do Ressuscitado à Igreja.",
+        "origem": "ia"
+      }
+    },
+    "67:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto muito obscuro; a pomba de asas prateadas talvez simbolize Israel em paz depois da vitória.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

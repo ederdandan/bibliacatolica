@@ -1,0 +1,57 @@
+{
+  "id": "PSA.8.1",
+  "livro": "PSA",
+  "titulo": "A glória de Deus e a dignidade do homem",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 8,1-10",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Que é o homem para dele te lembrares?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino à majestade de Deus revelada na criação. O nome do Senhor é admirável em toda a terra; até as crianças o louvam. Contemplando à noite os céus, a lua e as estrelas, obra dos dedos de Deus, o salmista se espanta: que é o homem para que Deus se lembre dele? E, no entanto, Deus o fez pouco inferior aos anjos, coroou-o de glória e honra e pôs todas as coisas sob os seus pés: rebanhos, animais, aves e peixes. O salmo termina como começou, louvando o nome do Senhor.",
+    "alegorico": "Jesus cita o v. 3 quando as crianças o aclamam no Templo (Mt 21,16). A Carta aos Hebreus (2,6-9) aplica o salmo a Cristo: ele foi feito por pouco tempo inferior aos anjos, pela Paixão, e agora está coroado de glória e honra; nele se cumpre a dignidade do homem. S. Paulo vê nele o domínio de Cristo sobre todas as coisas (1Cor 15,27).",
+    "moral": "Diante da grandeza do universo, o homem descobre a sua pequenez e, ao mesmo tempo, a sua dignidade. O domínio sobre a criação é dom e responsabilidade, não licença para destruir. A atitude justa é a das crianças: admirar e louvar.",
+    "anagogico": "O “tudo sujeito a seus pés” ainda não se vê plenamente (Hb 2,8); só no fim, quando Cristo tiver submetido todos os inimigos, a humanidade redimida reinará com ele numa criação renovada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, nosso Deus, como é admirável o teu nome em toda a terra! Quando contemplo os céus, obra dos teus dedos, pergunto: que é o homem para dele te lembrares? Fizeste-o pouco inferior aos anjos, coroaste-o de glória e honra.",
+    "meditatio_perguntas": [
+      "Quando foi a última vez que contemplei a criação e louvei a Deus por ela?",
+      "Acredito na dignidade que Deus me deu, e na de cada pessoa?",
+      "Como exerço o “domínio” sobre as coisas que Deus me confiou?"
+    ],
+    "oratio_guia": "Senhor, nosso Deus, admiro a obra das tuas mãos e me espanto com o teu amor. Quem sou eu para que te lembres de mim? Obrigado pela dignidade que me deste em Cristo. Ensina-me a cuidar da tua criação e a louvar-te como as crianças. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que é o homem, para te lembrares dele?",
+      "ref": "Sl 8,5"
+    }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesus cita este versículo (na versão grega: “preparaste o louvor”) diante dos sacerdotes indignados com as crianças que o aclamam (Mt 21,16).",
+        "origem": "ia"
+      }
+    },
+    "8:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Onde o hebraico diz “pouco inferior a Deus” (Elohim), a versão grega e a Vulgata entenderam “aos anjos”, leitura seguida em Hb 2,7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

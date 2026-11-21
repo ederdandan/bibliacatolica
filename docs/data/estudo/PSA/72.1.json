@@ -1,0 +1,57 @@
+{
+  "id": "PSA.72.1",
+  "livro": "PSA",
+  "titulo": "O escândalo da prosperidade dos ímpios",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 72,1-28",
+  "ini": {
+    "c": 72,
+    "v": 1
+  },
+  "fim": {
+    "c": 72,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Para mim é bom estar junto de Deus: o escândalo da prosperidade dos ímpios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre o terceiro livro do Saltério. O salmista confessa que quase tropeçou ao invejar a prosperidade dos ímpios: saudáveis, sem sofrimentos, cheios de soberba, zombam e dizem “Deus sabe disso?”. Pergunta-se se foi em vão manter o coração puro. Só entendeu quando entrou no santuário de Deus e considerou o fim deles: estão em terreno escorregadio, desaparecem como um sonho ao despertar. Reconhece que foi tolo como um animal. Mas Deus o segurou pela mão direita e o receberá na glória. “Quem tenho eu no céu senão a ti? Contigo nada desejo na terra.” Deus é a sua porção para sempre.",
+    "alegorico": "A entrada “no santuário de Deus” onde tudo se esclarece é a oração e, para o cristão, o mistério de Cristo: na sua Cruz e Ressurreição se revela o destino do justo e do ímpio. “Receber-me-ás na glória” anuncia a esperança cristã da vida eterna.",
+    "moral": "O salmo acompanha a crise de fé de quem vê os maus prosperar e os bons sofrer. A resposta não vem de raciocínios, mas da oração: no santuário se vê o “fim” das coisas. A plenitude do salmo é a mística: Deus é o único bem desejado.",
+    "anagogico": "“Por fim, hás-de receber-me na tua glória”: um dos textos mais claros do Antigo Testamento sobre a comunhão com Deus após a morte. “Deus é a minha herança para sempre.”"
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como Deus é bom para os retos! Por pouco os meus pés não vacilaram, porque tive inveja dos ímpios. Até que entrei no santuário de Deus e compreendi o seu fim. Mas eu estarei sempre contigo: tomaste-me pela mão direita. Quem tenho eu no céu senão a ti? Para mim, é bom estar junto de Deus.",
+    "meditatio_perguntas": [
+      "Já invejei quem prospera sem Deus? O que isso fez com a minha fé?",
+      "Levo para a oração as perguntas que me perturbam?",
+      "Posso dizer com verdade: “contigo, nada mais desejo na terra”?"
+    ],
+    "oratio_guia": "Senhor, quase tropecei invejando os que vivem sem ti. Mas tu me seguraste pela mão. Guia-me com o teu conselho e recebe-me um dia na tua glória. Quem tenho eu no céu senão a ti? Para mim, o bem é estar junto de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas para mim é bom estar junto de Deus",
+      "ref": "Sl 72,28"
+    }
+  },
+  "ancoras": {
+    "72:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Asaf: chefe de um grupo de cantores do Templo (1Cr 16,5). Os Sl 49 e 72–82 lhe são atribuídos.",
+        "origem": "ia"
+      }
+    },
+    "72:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Virada do salmo: a crise se resolve “no santuário”, isto é, na presença de Deus e na oração.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.17.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças do rei pela vitória: eu te amo, Senhor",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 17,1-51",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 51
+  },
+  "liturgia": {
+    "tema_central": "Eu te amo, Senhor, minha fortaleza e meu libertador",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Longo cântico de ação de graças de Davi, livre de Saul e dos inimigos (texto paralelo em 2Sm 22). Começa com uma declaração de amor e uma série de títulos: rocha, baluarte, libertador, escudo. Descreve o perigo mortal como ondas e laços da morte, e a intervenção de Deus como uma teofania de tempestade: a terra treme, Deus desce entre nuvens e relâmpagos e tira o salmista das muitas águas, “porque me ama”. Segue o elogio da fidelidade, as vitórias do rei e o louvor final ao Deus que é fiel ao seu ungido e à sua descendência.",
+    "alegorico": "S. Paulo cita o v. 50 (Rm 15,9) para mostrar que, em Cristo, os gentios louvam a Deus. Os Padres viram nas “cordas do inferno” e nas “muitas águas” a Paixão e a descida de Cristo aos mortos, e no Deus que “inclinou os céus e desceu” a Encarnação. O ungido a quem Deus dá vitória é Cristo, Filho de Davi.",
+    "moral": "“Eu te amo, Senhor”: a oração começa pelo amor antes do pedido. O salmo ensina a reconhecer na própria história as libertações de Deus e a lhe atribuir as vitórias. Também lembra que Deus “salva o povo humilde e humilha os olhos soberbos”: a força do fiel vem de Deus, que ilumina as suas trevas.",
+    "anagogico": "A teofania e a vitória total sobre os inimigos prefiguram a vinda gloriosa de Cristo e o triunfo final sobre a morte, quando o Senhor tirará definitivamente o seu povo das “muitas águas”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu te amo, Senhor, minha força, minha rocha e meu libertador. Cercaram-me as ondas da morte; na angústia invoquei o Senhor, e ele ouviu a minha voz. Estendeu do alto a mão e tirou-me das muitas águas; salvou-me porque me ama. Tu, Senhor, iluminas as minhas trevas.",
+    "meditatio_perguntas": [
+      "Consigo dizer a Deus, com simplicidade: “Eu te amo, Senhor”?",
+      "De que “muitas águas” Deus já me tirou na minha história?",
+      "Atribuo as minhas vitórias a mim mesmo ou ao Senhor?"
+    ],
+    "oratio_guia": "Eu te amo, Senhor, minha rocha e meu libertador. Tu me tiraste das muitas águas e iluminas as minhas trevas. Reveste-me da tua força, guarda-me da soberba e faz-me cantar o teu nome entre os povos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu te amo. Senhor, fortaleza minha",
+      "ref": "Sl 17,2"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este salmo é quase idêntico a 2Sm 22, o cântico de Davi no fim da sua vida.",
+        "origem": "ia"
+      }
+    },
+    "17:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Salvou-me porque me ama”: a razão última da salvação não é o mérito, mas o amor gratuito de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

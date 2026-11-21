@@ -1,0 +1,49 @@
+{
+  "id": "PSA.69.1",
+  "livro": "PSA",
+  "titulo": "Ó Deus, vem em meu auxílio",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 69,1-6",
+  "ini": {
+    "c": 69,
+    "v": 1
+  },
+  "fim": {
+    "c": 69,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Ó Deus, vem em meu auxílio; Senhor, apressa-te",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve súplica urgente, quase idêntica a Sl 39,14-18. O salmista pede que Deus se apresse a socorrê-lo, que os seus perseguidores recuem envergonhados e os que zombam (“Bem feito!”) sejam confundidos. Que todos os que buscam a Deus se alegrem nele e digam sempre: “Deus é grande”. Termina: “Eu sou pobre e miserável; socorre-me; tu és o meu libertador, Senhor, não tardes”.",
+    "alegorico": "O primeiro versículo abre cada Hora da Liturgia (“Deus, in adiutorium meum intende”). Cassiano, transmitindo a tradição dos monges do deserto, recomendava repeti-lo continuamente como oração para todas as situações. A Igreja inteira reza assim, unida a Cristo pobre.",
+    "moral": "É a oração dos pobres de espírito, simples e repetível em qualquer momento: na tentação, no cansaço, na alegria. Reconhecer-se “pobre e miserável” é o ponto de partida de toda oração verdadeira.",
+    "anagogico": "“Não tardes”: é o grito da Igreja que espera a vinda do Senhor: “Vem, Senhor Jesus!” (Ap 22,20)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, vem em meu auxílio; Senhor, apressa-te em me socorrer. Alegrem-se em ti todos os que te buscam, e digam sempre: “Glorificado seja o Senhor”. Eu sou pobre e miserável; socorre-me. Tu és o meu libertador, Senhor, não tardes.",
+    "meditatio_perguntas": [
+      "Uso orações breves ao longo do dia, como esta?",
+      "Reconheço-me pobre e necessitado diante de Deus?",
+      "Em que situação concreta preciso pedir hoje: “apressa-te”?"
+    ],
+    "oratio_guia": "Ó Deus, vem em meu auxílio; Senhor, apressa-te em me socorrer. Sou pobre e necessitado; tu és o meu libertador. Não tardes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, apressa-te em me socorrer.",
+      "ref": "Sl 69,2"
+    }
+  },
+  "ancoras": {
+    "69:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo inicial de todas as Horas, exceto o Ofício de Leituras quando começa o dia. Cassiano (Conferências X) o propõe como fórmula de oração contínua.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "PSA.114.1",
+  "livro": "PSA",
+  "titulo": "Amo o Senhor, porque ouviu a minha voz",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 114,1-9",
+  "ini": {
+    "c": 114,
+    "v": 1
+  },
+  "fim": {
+    "c": 114,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Amo o Senhor, porque ouviu a minha voz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças de quem foi salvo da morte. O salmista declara: “Amo o Senhor, porque ouviu a voz da minha súplica”. Os laços da morte e da angústia o envolveram; ele invocou o nome do Senhor, que é justo, misericordioso e guarda os simples. Por isso diz à sua alma: “Volta ao teu repouso, porque o Senhor te fez bem”. Deus livrou a sua vida da morte, os olhos das lágrimas e os pés da queda. “Andarei na presença do Senhor na terra dos vivos.”",
+    "alegorico": "A Igreja reza este salmo nas exéquias e nas Vésperas pelos defuntos: Cristo, envolvido pelos laços da morte, foi libertado pelo Pai, e caminha diante dele na terra dos vivos; com ele, os fiéis defuntos.",
+    "moral": "O amor a Deus nasce da experiência de ser escutado. O salmo ensina a dizer à própria alma: “volta ao teu repouso”, depois da tempestade. Deus guarda os “simples”, os que não confiam na própria esperteza.",
+    "anagogico": "“Andarei na presença do Senhor na terra dos vivos”: é a vida eterna, onde não há mais lágrimas nem queda."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Amo o Senhor, porque ouviu a voz da minha súplica. Os laços da morte me envolveram. Invoquei o nome do Senhor. O Senhor é justo e misericordioso; guarda os simples. Volta, minha alma, ao teu repouso, porque o Senhor te fez bem. Andarei na presença do Senhor na terra dos vivos.",
+    "meditatio_perguntas": [
+      "Posso dizer “amo o Senhor” por experiências concretas de ser ouvido?",
+      "Que inquietação preciso pedir à minha alma que deixe, voltando ao repouso?",
+      "Vivo “na presença do Senhor” no cotidiano?"
+    ],
+    "oratio_guia": "Amo-te, Senhor, porque ouviste a minha voz. Tu livraste a minha vida da morte e os meus olhos das lágrimas. Faz a minha alma voltar ao seu repouso em ti. Que eu ande sempre na tua presença, até a terra dos vivos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Volta, ó minha alma, ao teu repouso, porque o Senhor te cumulou de bens.",
+      "ref": "Sl 114,7"
+    }
+  },
+  "ancoras": {
+    "114:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, os Sl 114 e 115 da Vulgata formam um só salmo, o 116.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

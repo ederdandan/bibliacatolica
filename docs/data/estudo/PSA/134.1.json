@@ -1,0 +1,40 @@
+{
+  "id": "PSA.134.1",
+  "livro": "PSA",
+  "titulo": "Louvai o nome do Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 134,1-21",
+  "ini": {
+    "c": 134,
+    "v": 1
+  },
+  "fim": {
+    "c": 134,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Louvai o nome do Senhor, porque é bom",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino que convida os servos do Senhor no Templo a louvar o seu nome, porque é bom e escolheu Jacó como propriedade. O Senhor é maior que todos os deuses; faz tudo o que quer no céu, na terra e nos abismos; governa as nuvens, os relâmpagos e os ventos. Libertou Israel do Egito e deu-lhe a terra dos reis Seon e Og. O seu nome permanece para sempre. Os ídolos de ouro e prata têm boca e não falam; os que os fazem tornam-se como eles. Israel, Aarão, Levi e todos os que temem a Deus são chamados a bendizê-lo.",
+    "alegorico": "A Igreja, novo Israel e “povo adquirido” (1Pd 2,9), louva o Senhor pela sua obra criadora e pela libertação pascal em Cristo. A polêmica contra os ídolos ilumina a fé num Deus vivo e falante: o Verbo.",
+    "moral": "O salmo une criação e história: o mesmo Deus que governa a natureza conduz a vida do seu povo. Lembra que nos tornamos semelhantes ao que adoramos.",
+    "anagogico": "O nome do Senhor “permanece eternamente”: o louvor do povo escolhido continuará por toda a eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o nome do Senhor, louvai-o, servos do Senhor. Louvai o Senhor, porque é bom. Tudo o que quer, o Senhor o faz, no céu e na terra. Senhor, o teu nome permanece para sempre. Os ídolos têm boca e não falam. Casa de Israel, bendizei o Senhor.",
+    "meditatio_perguntas": [
+      "Vejo a mão de Deus na natureza e na minha história?",
+      "Que ídolos me tornam semelhante a eles, sem vida?",
+      "Louvo o Senhor “porque é bom”, independentemente do que me dá?"
+    ],
+    "oratio_guia": "Senhor, o teu nome permanece para sempre. Louvo-te porque és bom e me escolheste. Livra-me dos ídolos mudos e faz-me viver de ti, Deus vivo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Louvai o Senhor, porque o Senhor é bom; cantai salmos ao seu nome, porque é suave.",
+      "ref": "Sl 134,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

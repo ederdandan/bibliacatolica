@@ -1,0 +1,49 @@
+{
+  "id": "PSA.118.81",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Caf: a minha alma desfalece pela tua salvação",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,81-88",
+  "ini": {
+    "c": 118,
+    "v": 81
+  },
+  "fim": {
+    "c": 118,
+    "v": 88
+  },
+  "liturgia": {
+    "tema_central": "A minha alma desfalece pela tua salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Caf, a mais angustiada. A alma do salmista desfalece esperando a salvação; os olhos se consomem esperando a palavra: “Quando me consolarás?”. Sente-se como odre ressecado na fumaça, mas não esquece os estatutos. Pergunta quantos dias ainda tem e quando Deus julgará os perseguidores, que lhe cavaram covas e quase o fizeram desaparecer. Mesmo assim, não abandonou os preceitos e pede: “Dá-me vida segundo a tua misericórdia”.",
+    "alegorico": "É o grito do Advento, a espera do Messias e da sua vinda. Cristo, perseguido e quase “reduzido a pó”, permaneceu fiel ao Pai.",
+    "moral": "O salmo ensina a perseverar na fidelidade quando a consolação demora. A espera faz parte da fé; não é falta de fé gritar “quando me consolarás?”.",
+    "anagogico": "A espera pela salvação se cumprirá quando Deus enxugar toda lágrima; a vida pedida “segundo a tua misericórdia” é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A minha alma desfalece pela tua salvação; espero na tua palavra. Os meus olhos se consomem: quando me consolarás? Sou como um odre na fumaça, mas não esqueci os teus estatutos. Dá-me vida segundo a tua misericórdia.",
+    "meditatio_perguntas": [
+      "Que consolação de Deus estou esperando e há quanto tempo?",
+      "Permaneço fiel mesmo quando me sinto “odre ressecado”?",
+      "Consigo dizer a Deus “quando me consolarás?” com confiança?"
+    ],
+    "oratio_guia": "Senhor, a minha alma desfalece esperando a tua salvação. Quando me consolarás? Mesmo seco e cansado, não quero esquecer a tua palavra. Dá-me vida segundo a tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "A minha alma desfalece ansiando o teu auxílio; espero na tua palavra.",
+      "ref": "Sl 118,81"
+    }
+  },
+  "ancoras": {
+    "118:83": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Odres pendurados perto do fogo ficavam enegrecidos e ressecados: imagem do sofrimento prolongado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

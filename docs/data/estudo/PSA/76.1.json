@@ -1,0 +1,57 @@
+{
+  "id": "PSA.76.1",
+  "livro": "PSA",
+  "titulo": "Meditação na noite da angústia: as maravilhas antigas",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 76,1-21",
+  "ini": {
+    "c": 76,
+    "v": 1
+  },
+  "fim": {
+    "c": 76,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Na noite da angústia recordo as maravilhas antigas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Meditação noturna de um fiel angustiado. Clama a Deus, estende as mãos de noite, recusa consolo. Não consegue dormir nem falar. Faz perguntas duríssimas: Deus nos rejeitará para sempre? A sua misericórdia acabou? “Esta é a minha dor: mudou a direita do Altíssimo.” Então decide recordar as obras de Deus: o seu caminho é santo, ele é o Deus que faz maravilhas, que redimiu o povo. Evoca o mar Vermelho, as águas que tremeram, o trovão, o caminho de Deus pelo meio das águas, “sem que se vissem as suas pegadas”, e o povo guiado como rebanho por Moisés e Aarão.",
+    "alegorico": "O caminho de Deus pelas águas, cujas pegadas não se veem, é figura do mistério pascal: Cristo atravessa a morte e abre caminho onde não havia. O Batismo é a nossa passagem pelo mar.",
+    "moral": "O salmo é um modelo para atravessar a noite escura da fé: em vez de ruminar a dor, recordar as obras de Deus. A memória espiritual transforma a angústia em contemplação. Deus age mesmo quando “não se veem as suas pegadas”.",
+    "anagogico": "Deus conduz o seu povo como rebanho pelo deserto até a terra prometida: assim conduzirá a Igreja até a pátria celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Clamo a Deus, e ele me ouvirá. No dia da angústia busco o Senhor; de noite estendo a minha mão. Porventura Deus nos rejeitará para sempre? Lembro-me das obras do Senhor, recordo as tuas maravilhas de outrora. O teu caminho passou pelo mar, e não se viram as tuas pegadas.",
+    "meditatio_perguntas": [
+      "Que perguntas difíceis tenho feito a Deus nas minhas noites?",
+      "Que maravilhas de Deus na minha história posso recordar hoje?",
+      "Acredito que Deus age mesmo quando não vejo as suas pegadas?"
+    ],
+    "oratio_guia": "Senhor, na noite da angústia estendo as mãos para ti. Quando parece que a tua misericórdia acabou, faz-me recordar as tuas maravilhas. Tu abres caminho no meio das águas, mesmo sem que eu veja as tuas pegadas. Guia-me como ao teu rebanho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembro-me das obras do Senhor, sim, recordo-me das tuas maravilhas de outrora.",
+      "ref": "Sl 76,12"
+    }
+  },
+  "ancoras": {
+    "76:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo difícil: “mudou a direita do Altíssimo”, isto é, Deus parece ter deixado de agir como antes.",
+        "origem": "ia"
+      }
+    },
+    "76:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 14,21-29. Sobre o caminho invisível de Deus, cf. Is 43,16.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

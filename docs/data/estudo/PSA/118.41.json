@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.41",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Vau: venha sobre mim a tua misericórdia",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,41-48",
+  "ini": {
+    "c": 118,
+    "v": 41
+  },
+  "fim": {
+    "c": 118,
+    "v": 48
+  },
+  "liturgia": {
+    "tema_central": "Venha sobre mim a tua misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Vau. O salmista pede que venha sobre ele a misericórdia e a salvação de Deus, para responder aos que o insultam. Pede que Deus não lhe tire da boca a palavra da verdade. Promete guardar a lei para sempre e andar em liberdade, porque busca os preceitos de Deus. Falará deles diante dos reis sem se envergonhar; deleita-se nos mandamentos que ama.",
+    "alegorico": "Os Apóstolos e os mártires falaram da lei de Deus “diante dos reis sem se envergonhar” (cf. Mt 10,18; At 4,13; 26). Cristo é a misericórdia e a salvação que vêm sobre nós.",
+    "moral": "A obediência a Deus é fonte de liberdade: “andarei por um caminho espaçoso”. O salmo pede coragem para testemunhar a fé em público, sem respeito humano.",
+    "anagogico": "A misericórdia que vem sobre nós agora é penhor da salvação plena; o testemunho fiel diante dos homens será reconhecido diante do Pai (Mt 10,32)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Venha sobre mim a tua misericórdia, Senhor, a tua salvação, segundo a tua promessa. Não tires da minha boca a palavra da verdade. Andarei por um caminho espaçoso, porque busco os teus preceitos. Falarei dos teus preceitos diante dos reis, sem me envergonhar.",
+    "meditatio_perguntas": [
+      "Tenho vergonha de testemunhar a fé em algum ambiente?",
+      "Sinto a fé como liberdade ou como prisão?",
+      "Peço a misericórdia de Deus todos os dias?"
+    ],
+    "oratio_guia": "Senhor, venha sobre mim a tua misericórdia. Não tires da minha boca a palavra da verdade e dá-me coragem para falar de ti sem vergonha. Faz-me livre nos teus caminhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Andarei por um caminho espaçoso, porque busco os teus mandamentos.",
+      "ref": "Sl 118,45"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

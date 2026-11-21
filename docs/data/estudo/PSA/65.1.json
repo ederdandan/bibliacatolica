@@ -1,0 +1,57 @@
+{
+  "id": "PSA.65.1",
+  "livro": "PSA",
+  "titulo": "Vinde ver as obras de Deus",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 65,1-20",
+  "ini": {
+    "c": 65,
+    "v": 1
+  },
+  "fim": {
+    "c": 65,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Vinde e vede as obras de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino em duas partes. Na primeira, a comunidade convida toda a terra a aclamar a Deus pelas suas obras assombrosas, sobretudo o Êxodo: ele transformou o mar em terra firme e o povo atravessou o rio a pé enxuto. Deus provou o povo como prata no fogo, fê-lo passar pelo fogo e pela água, mas o conduziu ao alívio. Na segunda parte, um fiel entra no Templo com sacrifícios para cumprir os votos feitos na angústia e convida: “Vinde, ouvi, e eu vos contarei o que ele fez por mim”.",
+    "alegorico": "A travessia do mar é figura do Batismo (1Cor 10,1-2). “Passamos pelo fogo e pela água” evoca o Batismo na água e no Espírito. A liturgia usa este salmo no tempo pascal.",
+    "moral": "As provações são o crisol que purifica a fé como a prata. O salmo ensina a dar testemunho pessoal: contar o que Deus fez em nossa vida. Lembra também que a oração exige um coração sem apego ao mal (v. 18).",
+    "anagogico": "O “refrigério” depois do fogo e da água anuncia o descanso eterno após as provas desta vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Aclamai a Deus, terra inteira. Vinde e vede as obras de Deus. Converteu o mar em terra firme. Tu nos provaste, ó Deus, como se prova a prata; passamos pelo fogo e pela água, mas nos deste alívio. Vinde, ouvi, e eu vos contarei o que ele fez por mim. Bendito seja Deus, que não rejeitou a minha oração.",
+    "meditatio_perguntas": [
+      "Que “fogo e água” atravessei, e como Deus me conduziu?",
+      "Conto aos outros o que Deus fez por mim?",
+      "Há algum mal que acolho no coração e impede a minha oração?"
+    ],
+    "oratio_guia": "Senhor, tu me provaste como prata no fogo e me deste alívio. Bendito sejas, porque não rejeitaste a minha oração nem retiraste de mim a tua misericórdia. Quero contar aos outros o que fizeste por mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vinde, e vede as obras de Deus",
+      "ref": "Sl 65,5"
+    }
+  },
+  "ancoras": {
+    "65:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão à travessia do mar Vermelho (Ex 14) e do Jordão (Js 3).",
+        "origem": "ia"
+      }
+    },
+    "65:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Princípio importante: o pecado acolhido de propósito no coração bloqueia a oração (cf. Is 59,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

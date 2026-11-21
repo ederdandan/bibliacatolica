@@ -1,0 +1,57 @@
+{
+  "id": "PSA.35.1",
+  "livro": "PSA",
+  "titulo": "A malícia do ímpio e a bondade de Deus: em ti está a fonte da vida",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 35,1-13",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Em ti está a fonte da vida, na tua luz vemos a luz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O salmo contrapõe o ímpio e Deus. O ímpio escuta a voz do pecado no coração, não tem temor de Deus, lisonjeia-se de que a sua culpa não será descoberta e medita o mal até no leito. Em contraste, a misericórdia do Senhor chega aos céus, a sua fidelidade até as nuvens, a sua justiça é como montanhas. Os homens se refugiam à sombra das suas asas, saciam-se da abundância da sua casa e bebem da torrente das suas delícias, porque nele está a fonte da vida e na sua luz vemos a luz.",
+    "alegorico": "O Credo de Niceia professa Cristo “Luz da Luz”, expressão que ecoa o v. 10. Cristo é a fonte da vida (Jo 4,14; 7,37) e a luz do mundo. A torrente de delícias foi lida como o Espírito Santo e a abundância da casa como a Eucaristia.",
+    "moral": "O mal começa quando o pecado “fala ao coração” e se apaga o temor de Deus; quem se acostuma ao mal já nem o rejeita. O remédio é abrir-se à misericórdia imensa de Deus e deixar-se iluminar por ele: só na sua luz vemos as coisas como são.",
+    "anagogico": "Beber da “torrente das tuas delícias” e ver a luz na luz de Deus é a visão beatífica, quando conheceremos como somos conhecidos (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, a tua misericórdia chega até o céu, a tua fidelidade até as nuvens. Como é preciosa a tua graça, ó Deus! Os homens se abrigam à sombra das tuas asas, saciam-se da abundância da tua casa. Em ti está a fonte da vida, e na tua luz vemos a luz.",
+    "meditatio_perguntas": [
+      "Que “vozes” do pecado falam no meu coração sem que eu as rejeite?",
+      "Busco ver a minha vida à luz de Deus ou só à minha luz?",
+      "Onde bebo da “fonte da vida” no meu dia a dia?"
+    ],
+    "oratio_guia": "Senhor, a tua misericórdia é maior que os céus. Abriga-me à sombra das tuas asas e sacia-me da abundância da tua casa. Tu és a fonte da vida: faz-me beber de ti. Na tua luz quero ver a luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Realmente em ti está a fonte da vida, e na tua luz vemos a luz.",
+      "ref": "Sl 35,10"
+    }
+  },
+  "ancoras": {
+    "35:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O pecado é personificado como um oráculo (“fala ao ímpio”), em paródia da palavra profética de Deus.",
+        "origem": "ia"
+      }
+    },
+    "35:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo inspirou a fórmula “Luz da Luz” do Credo e o lema de várias universidades cristãs (In lumine tuo videbimus lumen).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

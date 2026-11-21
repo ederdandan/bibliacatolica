@@ -1,0 +1,49 @@
+{
+  "id": "PSA.118.25",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Dálet: a minha alma está prostrada no pó",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,25-32",
+  "ini": {
+    "c": 118,
+    "v": 25
+  },
+  "fim": {
+    "c": 118,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A minha alma está prostrada no pó: dá-me vida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Dálet. A alma do salmista está colada ao pó, abatida e em lágrimas. Ele expõe a Deus os seus caminhos e pede que o instrua e o fortaleça segundo a sua palavra. Escolhe o caminho da verdade, afasta-se do caminho da mentira, apega-se às prescrições divinas e promete: “Correrei pelo caminho dos teus mandamentos quando dilatares o meu coração”.",
+    "alegorico": "Cristo, prostrado por terra no Getsêmani, foi fortalecido pelo Pai e seguiu o caminho da obediência. A Palavra de Deus “dá vida” porque é o próprio Cristo, Palavra de vida.",
+    "moral": "Mesmo no abatimento, a oração abre o coração. A expressão “quando dilatares o meu coração” mostra que a obediência não é aperto, mas largueza: Deus amplia o coração para correr nos seus caminhos (S. Bento cita este versículo no Prólogo da Regra).",
+    "anagogico": "A alma levantada do pó pela Palavra antecipa a ressurreição; o coração dilatado será plenamente aberto na eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A minha alma está prostrada no pó: dá-me vida segundo a tua palavra. Expus-te os meus caminhos, e tu me atendeste. Escolhi o caminho da verdade. Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração.",
+    "meditatio_perguntas": [
+      "Em que situação a minha alma está “prostrada no pó”?",
+      "Sinto a lei de Deus como algo que aperta ou que dilata o coração?",
+      "Que caminho de verdade preciso escolher agora?"
+    ],
+    "oratio_guia": "Senhor, levanta a minha alma do pó com a tua palavra. Dilata o meu coração, para que eu corra no caminho dos teus mandamentos com alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração.",
+      "ref": "Sl 118,32"
+    }
+  },
+  "ancoras": {
+    "118:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "S. Bento cita este versículo no Prólogo da Regra: progredindo na fé, “corre-se o caminho dos mandamentos com o coração dilatado”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

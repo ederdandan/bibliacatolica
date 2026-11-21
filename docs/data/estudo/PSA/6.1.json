@@ -1,0 +1,57 @@
+{
+  "id": "PSA.6.1",
+  "livro": "PSA",
+  "titulo": "Súplica do pecador aflito",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 6,1-11",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Senhor, não me castigues na tua ira: súplica do pecador",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro dos sete salmos penitenciais da tradição cristã. Um homem doente e angustiado, no corpo e na alma, pede a Deus que não o repreenda na sua ira. Sente-se fraco, com os ossos abalados, e pergunta “até quando?”. Pede salvação pela misericórdia, lembrando que entre os mortos ninguém louva a Deus. Chora todas as noites até molhar o leito. De repente, a certeza: o Senhor ouviu a voz do seu pranto; os inimigos que afastem-se e sejam confundidos.",
+    "alegorico": "Cristo assumiu a nossa angústia: em Jo 12,27 diz “a minha alma está perturbada”, eco do v. 4. A Igreja, corpo de Cristo, reza o salmo em nome dos pecadores e dos enfermos, confiando que o Médico divino cura a alma antes do corpo.",
+    "moral": "A doença e o sofrimento podem tornar-se ocasião de conversão. O salmista não nega o pecado, mas apela para a misericórdia, não para os seus méritos. As lágrimas de arrependimento são acolhidas; a passagem do lamento à confiança mostra que a oração sincera muda o coração antes de mudar as circunstâncias.",
+    "anagogico": "A pergunta “quem te louvará na morada dos mortos?” encontra resposta em Cristo, que desceu à morte e a venceu: agora até os mortos que estão nele louvarão a Deus para sempre. A confusão final dos inimigos anuncia a vitória definitiva sobre o mal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, não me castigues no teu furor. Tem piedade de mim, porque sou fraco. A minha alma está muito perturbada; mas tu, Senhor, até quando? Volta-te, salva-me pela tua misericórdia. O Senhor ouviu a voz do meu pranto.",
+    "meditatio_perguntas": [
+      "Que dor ou pecado me faz perguntar hoje: “até quando, Senhor?”",
+      "Peço perdão confiando nos meus esforços ou na misericórdia de Deus?",
+      "Acredito que Deus ouve as minhas lágrimas, mesmo as escondidas?"
+    ],
+    "oratio_guia": "Senhor, tem piedade de mim, porque sou fraco. Não olhes para os meus pecados com ira, mas cura-me com a tua misericórdia. Recolhe as minhas lágrimas e faz-me experimentar que ouviste a minha súplica. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tem piedade de mim, Senhor, porque sou enfermo",
+      "ref": "Sl 6,3"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os salmos penitenciais são: 6, 31, 37, 50, 101, 129 e 142 (numeração da Vulgata). Eram rezados na Quaresma e no sacramento da Penitência.",
+        "origem": "ia"
+      }
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Habitação dos mortos” é o Xeol, lugar sombrio onde, segundo a fé antiga de Israel, não havia louvor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

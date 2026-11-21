@@ -1,0 +1,49 @@
+{
+  "id": "PSA.98.1",
+  "livro": "PSA",
+  "titulo": "Santo é o Senhor nosso Deus",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 98,1-9",
+  "ini": {
+    "c": 98,
+    "v": 1
+  },
+  "fim": {
+    "c": 98,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Santo é o Senhor nosso Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor reina, sentado sobre os querubins; os povos tremem. É grande em Sião, excelso sobre os povos. Um refrão marca o salmo: “Ele é santo”. O Rei poderoso ama a justiça e estabeleceu o direito em Jacó. Prostrai-vos diante do escabelo dos seus pés. Recorda Moisés, Aarão e Samuel, que invocavam o Senhor e eram atendidos; ele lhes falava da coluna de nuvem; foi para eles um Deus que perdoa, mas também que castiga as faltas. “Exaltai o Senhor nosso Deus, prostrai-vos diante do seu monte santo.”",
+    "alegorico": "O “escabelo dos seus pés” era a Arca da Aliança; os Padres o aplicaram à humanidade de Cristo, digna de adoração por estar unida ao Verbo, e Santo Agostinho à Eucaristia. A tríplice aclamação “Santo” prefigura o Sanctus e a Trindade (Is 6,3).",
+    "moral": "A santidade de Deus pede adoração e conversão. Os intercessores (Moisés, Aarão, Samuel) mostram o poder da oração. O Deus que perdoa também corrige: o perdão não é indiferença ao pecado.",
+    "anagogico": "O monte santo onde nos prostraremos é a Jerusalém celeste, onde os seres vivos cantam sem cessar: “Santo, santo, santo” (Ap 4,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor reina: tremam os povos; está sentado sobre os querubins. Celebrem o teu nome grande e tremendo: ele é santo. Exaltai o Senhor nosso Deus, prostrai-vos diante do escabelo dos seus pés: ele é santo. Invocavam o Senhor, e ele os atendia.",
+    "meditatio_perguntas": [
+      "Tenho o senso da santidade de Deus quando rezo e entro na igreja?",
+      "Intercedo pelos outros como Moisés e Samuel?",
+      "Aceito ser corrigido por Deus?"
+    ],
+    "oratio_guia": "Santo és tu, Senhor nosso Deus. Prostro-me diante de ti em adoração. Escuta-me como escutaste Moisés e Samuel; perdoa-me e corrige-me. Santo, santo, santo é o Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Exaltai o Senhor, nosso Deus, e prostrai-vos ante o seu monte santo, porque é santo, o Senhor, nosso Deus.",
+      "ref": "Sl 98,9"
+    }
+  },
+  "ancoras": {
+    "98:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Escabelo dos pés”: a Arca (1Cr 28,2). Santo Agostinho comenta: adora-se a carne de Cristo, que ninguém come sem antes adorar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

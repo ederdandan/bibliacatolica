@@ -1,0 +1,57 @@
+{
+  "id": "PSA.71.1",
+  "livro": "PSA",
+  "titulo": "O Rei messiânico: justiça e paz",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 71,1-20",
+  "ini": {
+    "c": 71,
+    "v": 1
+  },
+  "fim": {
+    "c": 71,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "O Rei messiânico: justiça e paz até os confins da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Prece pelo rei, atribuída a Salomão. Pede que Deus dê ao rei o seu juízo e a sua justiça, para que governe com retidão e defenda os pobres. Nos seus dias florescerão a justiça e a paz até que a lua deixe de existir; ele descerá como chuva sobre a relva; dominará de mar a mar. Os reis de Társis, das ilhas, da Arábia e de Sabá trarão presentes; todas as nações o servirão, porque ele liberta o pobre que clama. O seu nome será bendito para sempre, e nele serão abençoadas todas as nações. A doxologia final encerra o segundo livro do Saltério.",
+    "alegorico": "A tradição judaica e cristã viu aqui o Messias. A Igreja canta o salmo na Epifania: os reis do Oriente que trazem ouro, incenso e mirra (Mt 2,11) cumprem os vv. 10-11. Cristo é o Rei da justiça e da paz, cujo reino não tem fim, e nele se cumpre a bênção a Abraão para todas as nações (v. 17; Gn 12,3).",
+    "moral": "O critério do bom governo é o cuidado com os pobres: “o sangue deles será precioso aos seus olhos”. O salmo é exame para todo poder, político ou familiar. Também nos convida a oferecer a Cristo o nosso “ouro”, como os magos.",
+    "anagogico": "O reinado que dura “enquanto o sol existir” e enche a terra da glória de Deus é o Reino eterno de Cristo, quando “a terra se encherá do conhecimento do Senhor” (Is 11,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ó Deus, dá ao rei o teu juízo, e a tua justiça ao filho do rei. Nos seus dias florescerá a justiça e a abundância da paz. Os reis de Társis e das ilhas trarão presentes; todas as nações o servirão. Ele libertará o pobre que clama. Nele serão abençoadas todas as tribos da terra.",
+    "meditatio_perguntas": [
+      "Que lugar têm os pobres nas minhas decisões?",
+      "Que “presentes” ofereço a Cristo, meu Rei?",
+      "Como posso ser instrumento de justiça e paz no meu ambiente?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rei da justiça e da paz, reina sobre mim e sobre todas as nações. Como os magos, ofereço-te o que tenho. Faz-me ver os pobres como tu os vês: preciosos aos teus olhos. Que a tua glória encha toda a terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nos seus dias florescerá a justiça e a abundância da paz",
+      "ref": "Sl 71,7"
+    }
+  },
+  "ancoras": {
+    "71:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Társis (talvez na Espanha), Sabá (sul da Arábia): os confins do mundo conhecido. Salmo responsorial da Epifania.",
+        "origem": "ia"
+      }
+    },
+    "71:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nota editorial que fechava uma antiga coleção de salmos de Davi; outros salmos davídicos aparecem depois.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.5.1",
+  "livro": "PSA",
+  "titulo": "Oração da manhã: guia-me na tua justiça",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 5,1-13",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "De manhã te apresento a minha prece e espero",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oração da manhã de um fiel acusado por homens falsos. Logo cedo dirige a Deus, seu rei, as suas palavras e gemidos e fica à espera. Deus não ama a iniquidade; o mentiroso e o sanguinário não podem estar diante dele. O salmista, porém, confiado na abundância da graça, entra no templo e pede que Deus o guie na sua justiça. Descreve a boca dos inimigos como sepulcro aberto e pede o seu castigo, enquanto os que amam o nome do Senhor exultam sob a sua proteção, como sob um escudo.",
+    "alegorico": "A Liturgia das Horas usa este salmo nas Laudes. A entrada na casa de Deus “pela abundância da graça” é a entrada do cristão na Igreja por Cristo, que nos abre o acesso ao Pai. S. Paulo cita a “garganta como sepulcro aberto” (Rm 3,13) para mostrar que todos precisam da graça.",
+    "moral": "Começar o dia com Deus muda o dia: apresentar-lhe os planos, escutar e esperar. O salmo distingue os que confiam na própria astúcia e na mentira dos que se apoiam na graça. Pede também vigilância sobre a língua, que pode lisonjear e destruir.",
+    "anagogico": "A manhã é figura da ressurreição e do Dia eterno. Os que se refugiam em Deus exultarão “eternamente”, envolvidos pela sua benevolência como por um escudo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, ouve as minhas palavras. De manhã ouves a minha voz, de manhã te apresento as minhas preces e espero. Pela abundância da tua graça entrarei na tua casa. Guia-me na tua justiça. Alegrem-se os que se acolhem a ti.",
+    "meditatio_perguntas": [
+      "Qual é a primeira coisa que faço ao acordar? Há espaço para Deus?",
+      "Entro na oração confiando nos meus méritos ou na abundância da graça?",
+      "As minhas palavras de hoje serão sinceras ou lisonjeiras?"
+    ],
+    "oratio_guia": "Meu Rei e meu Deus, logo ao amanhecer apresento-te este dia e espero em ti. Guia-me na tua justiça e aplana o teu caminho diante de mim. Guarda a minha língua da mentira e envolve-me com a tua benevolência. Amém.",
+    "contemplatio_foco": {
+      "texto": "de manhã te apresento as minhas preces, e espero.",
+      "ref": "Sl 5,4"
+    }
+  },
+  "ancoras": {
+    "5:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Origem da tradição judaica e cristã da oração matinal, hoje as Laudes da Liturgia das Horas.",
+        "origem": "ia"
+      }
+    },
+    "5:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "S. Paulo combina este versículo com outros salmos em Rm 3,10-18 para descrever a condição humana sem a graça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

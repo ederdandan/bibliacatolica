@@ -1,0 +1,57 @@
+{
+  "id": "PSA.9.1",
+  "livro": "PSA",
+  "titulo": "Ação de graças pela vitória e súplica contra o opressor",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 9,1-39",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é refúgio do oprimido e não esquece o clamor dos pobres",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na Vulgata, os Salmos 9 e 10 hebraicos formam um só poema alfabético. A primeira parte é ação de graças: o salmista louva a Deus de todo o coração porque os inimigos recuaram; o Senhor sentou-se no trono como justo juiz, julga o mundo com equidade e é refúgio do oprimido. A segunda parte (vv. 22-39) é súplica: por que te escondes, Senhor, enquanto o ímpio arrogante oprime o pobre e diz “Deus não vê”? O salmista pede que Deus se levante, não esqueça os humildes e defenda o órfão.",
+    "alegorico": "Cristo, o Pobre por excelência, foi caçado pelos poderosos como o mísero que o ímpio espia de emboscada; mas o Pai o arrancou “das portas da morte” (v. 14). Ele é agora o juiz que se sentou no trono e reina “pelos séculos dos séculos”. Na Igreja, continua a escutar o clamor dos pobres.",
+    "moral": "O salmo desmascara o “ateísmo prático” de quem vive como se Deus não visse: “Deus esqueceu-se, não vê jamais”. Ao contrário, o fiel confia que Deus considera a dor do oprimido. Pede-nos, por isso, que não sejamos opressores e que, como Deus, tomemos nas mãos a causa do pobre e do órfão.",
+    "anagogico": "“O Senhor permanece eternamente; preparou o seu trono para o juízo.” O salmo aponta para o dia em que o Senhor, rei para sempre, julgará o mundo com justiça, e “não estará para sempre esquecido o pobre”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Eu te louvarei, Senhor, de todo o coração. O Senhor é refúgio do oprimido nas horas de angústia; não desampara os que o buscam. Por que te escondes, Senhor? O ímpio diz: “Deus esqueceu-se”. Mas tu vês o trabalho e a dor; a ti se entrega o infeliz.",
+    "meditatio_perguntas": [
+      "Em que momentos senti que Deus “se escondia” na minha angústia?",
+      "Vivo às vezes como se Deus não visse o que faço?",
+      "De que pobre ou órfão posso tomar a causa nesta semana?"
+    ],
+    "oratio_guia": "Senhor, tu não esqueces o clamor dos pobres. Levanta-te em favor dos que sofrem violência e faz-me instrumento da tua justiça. Quando te sentir distante, lembra-me que tu vês o trabalho e a dor e os tomas nas tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "tu, Senhor, não desamparas os que te buscam.",
+      "ref": "Sl 9,11"
+    }
+  },
+  "ancoras": {
+    "9:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aqui começa o Sl 10 da numeração hebraica; os números entre parênteses no texto indicam essa correspondência.",
+        "origem": "ia"
+      }
+    },
+    "9:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Deus não existe”, isto é, Deus não intervém: não é ateísmo teórico, mas o cinismo de quem age como se não houvesse juízo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

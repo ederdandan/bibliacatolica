@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.137",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Sade: justo és tu, Senhor",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,137-144",
+  "ini": {
+    "c": 118,
+    "v": 137
+  },
+  "fim": {
+    "c": 118,
+    "v": 144
+  },
+  "liturgia": {
+    "tema_central": "Justo és tu, Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Sade. “Tu és justo, Senhor, e reto é o teu juízo.” Os testemunhos de Deus são justos e firmes. O zelo consome o salmista, porque os adversários esquecem as palavras de Deus. A palavra de Deus é provada como no fogo, e o servo a ama. “Sou pequeno e desprezado, mas não esqueço os teus preceitos.” A angústia o atinge, mas os mandamentos são as suas delícias. A justiça de Deus é eterna: dá-me entendimento e viverei.",
+    "alegorico": "O zelo que consome evoca Cristo purificando o Templo (Jo 2,17). Cristo é “pequeno e desprezado” (Is 53,3), mas fiel ao Pai até o fim.",
+    "moral": "A pequenez e o desprezo não impedem a fidelidade. O salmista encontra delícia na Palavra mesmo na angústia. O zelo pela glória de Deus é uma forma de amor.",
+    "anagogico": "A justiça eterna de Deus garante que os pequenos fiéis viverão: “dá-me entendimento, e viverei” aponta para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tu és justo, Senhor, e reto é o teu juízo. A tua palavra é provada pelo fogo, e o teu servo a ama. Sou pequeno e desprezado, mas não esqueço os teus preceitos. A angústia veio sobre mim, mas os teus mandamentos são as minhas delícias.",
+    "meditatio_perguntas": [
+      "Como vivo a experiência de ser “pequeno e desprezado”?",
+      "Tenho zelo pela glória de Deus?",
+      "Encontro delícia na Palavra mesmo na angústia?"
+    ],
+    "oratio_guia": "Senhor, tu és justo. Sou pequeno e desprezado, mas não quero esquecer a tua palavra. Na angústia, sê a minha delícia. Dá-me entendimento, e viverei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és justo, Senhor, e o teu juízo é recto.",
+      "ref": "Sl 118,137"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

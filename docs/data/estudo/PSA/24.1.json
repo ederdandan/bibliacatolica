@@ -1,0 +1,57 @@
+{
+  "id": "PSA.24.1",
+  "livro": "PSA",
+  "titulo": "A ti, Senhor, elevo a minha alma",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 24,1-22",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A ti, Senhor, elevo a minha alma; ensina-me os teus caminhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo alfabético de súplica e confiança. O salmista eleva a alma a Deus e pede não ser confundido. Pede que o Senhor lhe mostre os seus caminhos e o guie na verdade. Apela para as antigas misericórdias de Deus e pede que não se lembre dos pecados da juventude. O Senhor é bom e reto, ensina o caminho aos pecadores e aos humildes; é íntimo dos que o temem. Sozinho e aflito, o salmista pede perdão, proteção e, no fim, a libertação de todo Israel.",
+    "alegorico": "A Igreja abre o Advento com este salmo (“Ad te levavi animam meam”): é a oração de quem espera a vinda do Salvador. Cristo é o Caminho que o salmista pede para conhecer (Jo 14,6), e a misericórdia antiga de Deus chega a nós na sua Encarnação.",
+    "moral": "O salmo une docilidade e humildade: pedir “ensina-me” supõe reconhecer que não se sabe o caminho. Pede-se também perdão dos pecados da juventude, sem desesperar. Deus é mestre dos humildes e se torna “familiar aos que o temem”.",
+    "anagogico": "“Não serão confundidos os que esperam em ti”: a esperança cristã não decepciona (Rm 5,5). A libertação final de Israel “de todas as angústias” é a redenção plena do povo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "A ti, Senhor, elevo a minha alma; em ti confio, não seja eu confundido. Mostra-me os teus caminhos, ensina-me as tuas veredas. Não te lembres dos pecados da minha juventude; lembra-te de mim segundo a tua misericórdia. Olha para mim e tem piedade, porque estou só e aflito.",
+    "meditatio_perguntas": [
+      "Peço a Deus que me ensine, ou já decidi o caminho por conta própria?",
+      "Que pecados do passado ainda me pesam e preciso entregar à misericórdia?",
+      "Sinto-me “familiar” de Deus, próximo dele?"
+    ],
+    "oratio_guia": "A ti, Senhor, elevo a minha alma. Ensina-me os teus caminhos e guia-me na tua verdade. Esquece os pecados da minha juventude e lembra-te de mim segundo a tua misericórdia. Olha para mim, que estou só e aflito, e não me deixes confundido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas.",
+      "ref": "Sl 24,4"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No hebraico, o salmo é alfabético: cada versículo começa com uma letra sucessiva, recurso para memorizar e para exprimir totalidade.",
+        "origem": "ia"
+      }
+    },
+    "24:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Familiar”: o hebraico sôd indica a intimidade de um conselho secreto entre amigos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

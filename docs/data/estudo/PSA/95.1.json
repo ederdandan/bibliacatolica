@@ -1,0 +1,49 @@
+{
+  "id": "PSA.95.1",
+  "livro": "PSA",
+  "titulo": "Cantai ao Senhor um cântico novo",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 95,1-13",
+  "ini": {
+    "c": 95,
+    "v": 1
+  },
+  "fim": {
+    "c": 95,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Cantai ao Senhor um cântico novo, terra inteira",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino universal à realeza de Deus. Toda a terra é convidada a cantar um cântico novo, a anunciar dia após dia a salvação de Deus e as suas maravilhas entre os povos. O Senhor é grande, mais temível que todos os deuses, que são nada; ele fez os céus. As famílias dos povos devem dar-lhe glória, trazer ofertas e adorá-lo. “Dizei entre as nações: o Senhor reina.” Céus, terra, mar, campos e árvores se alegram diante do Senhor, porque ele vem julgar a terra com justiça.",
+    "alegorico": "A liturgia canta este salmo na Missa da noite de Natal: o Senhor que “vem” é o Menino de Belém. A tradição antiga lia o v. 10 como “O Senhor reinou do madeiro” (a Cruz), verso inserido no hino Vexilla Regis.",
+    "moral": "O salmo é missionário: anunciar “dia após dia” a salvação a todos os povos. Também desmascara os ídolos: tudo o que tomamos como absoluto e não é Deus é “nada”.",
+    "anagogico": "Toda a criação exulta porque o Senhor vem julgar a terra: é a esperança da segunda vinda, quando a criação, libertada, participará da glória dos filhos de Deus (Rm 8,21)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Cantai ao Senhor um cântico novo, cantai ao Senhor, terra inteira. Anunciai dia após dia a sua salvação. Dizei entre as nações: o Senhor reina. Alegrem-se os céus e exulte a terra, diante do Senhor, porque ele vem, vem julgar a terra.",
+    "meditatio_perguntas": [
+      "Anuncio a salvação de Deus no meu ambiente?",
+      "Que ídolos ocupam o lugar de Deus na minha vida?",
+      "Espero com alegria a vinda do Senhor?"
+    ],
+    "oratio_guia": "Senhor, quero cantar-te um cântico novo e anunciar a todos a tua salvação. Tu reinas e vens julgar a terra com justiça. Que toda a criação e o meu coração exultem diante de ti. Vem, Senhor! Amém.",
+    "contemplatio_foco": {
+      "texto": "Cantai ao Senhor um cântico novo; cantai ao Senhor, todas as terras.",
+      "ref": "Sl 95,1"
+    }
+  },
+  "ancoras": {
+    "95:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alguns manuscritos antigos acrescentavam “a ligno” (do madeiro): “O Senhor reinou do madeiro”, citado por S. Justino e cantado no Vexilla Regis.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

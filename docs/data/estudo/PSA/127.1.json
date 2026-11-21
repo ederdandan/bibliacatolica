@@ -1,0 +1,40 @@
+{
+  "id": "PSA.127.1",
+  "livro": "PSA",
+  "titulo": "Feliz quem teme o Senhor: a bênção do lar",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 127,1-6",
+  "ini": {
+    "c": 127,
+    "v": 1
+  },
+  "fim": {
+    "c": 127,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Feliz quem teme o Senhor: a bênção do lar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Bênção da família do homem que teme o Senhor e anda nos seus caminhos. Comerá do fruto do seu trabalho e será feliz. A esposa será como videira fecunda no interior da casa; os filhos, como rebentos de oliveira ao redor da mesa. Assim será abençoado quem teme o Senhor. Deseja-se a bênção de Sião, a prosperidade de Jerusalém e ver os filhos dos filhos. “A paz esteja sobre Israel.”",
+    "alegorico": "Salmo das bênçãos nupciais: a família cristã é “igreja doméstica”. A mesa rodeada de filhos evoca a mesa eucarística da Igreja, Esposa fecunda de Cristo.",
+    "moral": "O temor de Deus é o fundamento da felicidade familiar. O salmo valoriza o trabalho honesto, a fidelidade conjugal, a mesa partilhada e as gerações que se sucedem. Pede que o lar esteja ligado ao bem da comunidade (Jerusalém).",
+    "anagogico": "A bênção que passa de geração em geração aponta para a grande família de Deus reunida na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Feliz és tu que temes o Senhor e andas nos seus caminhos. Comerás do trabalho das tuas mãos. A tua esposa será como videira fecunda no interior da tua casa; os teus filhos, como rebentos de oliveira ao redor da tua mesa. Que vejas os filhos dos teus filhos.",
+    "meditatio_perguntas": [
+      "Como Deus está presente na minha casa e na nossa mesa?",
+      "Rezo pela minha família e pelas famílias que conheço?",
+      "O meu trabalho é honesto e fecundo?"
+    ],
+    "oratio_guia": "Senhor, abençoa a minha família e todas as famílias. Que em nossa casa haja temor de ti, fidelidade e alegria ao redor da mesa. Que vejamos os filhos dos nossos filhos caminhando contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tua esposa será como uma vide fecunda, no interior da tua casa",
+      "ref": "Sl 127,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

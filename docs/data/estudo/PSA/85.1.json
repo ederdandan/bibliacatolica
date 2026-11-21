@@ -1,0 +1,57 @@
+{
+  "id": "PSA.85.1",
+  "livro": "PSA",
+  "titulo": "Oração do pobre: inclina, Senhor, o teu ouvido",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 85,1-17",
+  "ini": {
+    "c": 85,
+    "v": 1
+  },
+  "fim": {
+    "c": 85,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Inclina, Senhor, o teu ouvido: tu és bom e clemente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica de um pobre que se apresenta como servo devotado. Pede que Deus o ouça, guarde a sua vida e alegre a sua alma, porque Deus é bom, clemente e rico em misericórdia para todos os que o invocam. Confessa a unicidade de Deus: não há outro igual; todas as nações virão adorá-lo. Pede: “Ensina-me o teu caminho; unifica o meu coração para temer o teu nome”. Agradece por ter sido tirado do abismo e, diante dos soberbos, pede um sinal do favor divino, apelando para a fórmula do Sinai: “Deus misericordioso e clemente, lento para a ira, rico em bondade e fidelidade”.",
+    "alegorico": "A Igreja reza este salmo nas Completas: é a oração de Cristo pobre, “filho da tua serva”, que os Padres aplicaram a Jesus, filho de Maria, a Serva do Senhor (Lc 1,38). A adoração de todas as nações se realiza na Igreja universal.",
+    "moral": "O pedido “unifica o meu coração” (v. 11, hebr.) é central: o coração dividido entre muitos amores precisa ser reunido em Deus. O salmo ensina a oração humilde do pobre e a confiança na misericórdia revelada a Moisés.",
+    "anagogico": "As nações que vêm adorar a Deus e glorificar o seu nome antecipam a liturgia celeste, onde todos os povos louvarão eternamente."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Inclina, Senhor, o teu ouvido e responde-me, porque sou pobre e infeliz. Alegra a alma do teu servo, porque a ti, Senhor, elevo a minha alma. Tu, Senhor, és bom e clemente, cheio de misericórdia. Ensina-me, Senhor, o teu caminho, para que eu ande na tua verdade.",
+    "meditatio_perguntas": [
+      "O meu coração está dividido entre muitos amores?",
+      "Rezo como pobre, consciente da minha necessidade?",
+      "Que caminho peço ao Senhor que me ensine agora?"
+    ],
+    "oratio_guia": "Senhor, inclina o teu ouvido, porque sou pobre. Tu és bom e clemente. Ensina-me o teu caminho e unifica o meu coração, para que eu tema o teu nome. Dá-me um sinal do teu favor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ensina-me, Senhor, o teu caminho, para que eu ande na tua verdade",
+      "ref": "Sl 85,11"
+    }
+  },
+  "ancoras": {
+    "85:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retoma a revelação do nome de Deus a Moisés (Ex 34,6), uma das confissões mais repetidas do Antigo Testamento.",
+        "origem": "ia"
+      }
+    },
+    "85:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Filho da tua escrava”: servo nascido na casa, ligado ao senhor por toda a vida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

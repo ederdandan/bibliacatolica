@@ -1,0 +1,49 @@
+{
+  "id": "PSA.118.161",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Sin: grande paz para os que amam a tua lei",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,161-168",
+  "ini": {
+    "c": 118,
+    "v": 161
+  },
+  "fim": {
+    "c": 118,
+    "v": 168
+  },
+  "liturgia": {
+    "tema_central": "Grande paz para os que amam a tua lei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Sin. Os príncipes o perseguem sem motivo, mas o coração teme a palavra de Deus. Alegra-se com ela como quem encontra grande despojo. Odeia a mentira e ama a lei. “Sete vezes ao dia te louvo.” “Grande paz têm os que amam a tua lei; não há para eles tropeço.” Espera a salvação e pratica os mandamentos; todos os seus caminhos estão diante de Deus.",
+    "alegorico": "“Sete vezes ao dia te louvo” inspirou as sete Horas canônicas do Ofício (S. Bento, Regra 16). A paz que o salmista experimenta é a paz que Cristo dá, não como o mundo dá (Jo 14,27).",
+    "moral": "A alegria de quem descobre a Palavra é comparável à de quem encontra um tesouro (Mt 13,44). O louvor repetido ao longo do dia ordena o tempo e dá paz. A paz verdadeira nasce do amor à vontade de Deus.",
+    "anagogico": "A “grande paz” é antecipação da paz eterna, onde não haverá tropeço nem queda, e o louvor das sete horas se tornará louvor sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os príncipes me perseguem sem motivo, mas o meu coração teme as tuas palavras. Alegro-me com a tua palavra como quem encontra um grande tesouro. Sete vezes ao dia te louvo. Grande paz têm os que amam a tua lei.",
+    "meditatio_perguntas": [
+      "A Palavra de Deus é para mim um tesouro encontrado?",
+      "Tenho momentos fixos de louvor ao longo do dia?",
+      "Onde busco a minha paz?"
+    ],
+    "oratio_guia": "Senhor, a tua palavra é o meu tesouro. Quero louvar-te sete vezes ao dia. Dá-me a grande paz dos que amam a tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Gozam muita paz os que amam a tua lei, e não há para eles nenhuma ocasião de queda.",
+      "ref": "Sl 118,165"
+    }
+  },
+  "ancoras": {
+    "118:164": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "S. Bento (Regra, cap. 16) fundamenta neste versículo as sete Horas diurnas do Ofício.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

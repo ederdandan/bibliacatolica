@@ -1,0 +1,57 @@
+{
+  "id": "PSA.48.1",
+  "livro": "PSA",
+  "titulo": "A vaidade das riquezas",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 48,1-21",
+  "ini": {
+    "c": 48,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Ninguém pode resgatar a própria vida: a vaidade das riquezas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo sapiencial dirigido a todos, ricos e pobres. O sábio pergunta por que temer os opressores que confiam nas riquezas. Ninguém pode pagar a Deus o resgate da própria vida e evitar a morte: sábios e insensatos morrem e deixam os bens a outros; o sepulcro será a sua casa para sempre, mesmo que tenham dado nomes às terras. O homem na opulência que não reflete é como os animais que perecem; a morte os apascenta. Mas Deus resgatará a vida do justo e o tomará consigo.",
+    "alegorico": "Só Cristo pagou o “preço do resgate” que nenhum homem podia pagar (Mc 10,45; 1Pd 1,18-19). A parábola do rico insensato (Lc 12,16-21) é o comentário evangélico deste salmo.",
+    "moral": "O salmo desmonta a ilusão do dinheiro: não salva da morte nem acompanha o homem ao túmulo. Não invejes o rico; reflete. A riqueza sem sabedoria rebaixa o homem ao nível dos animais. A segurança verdadeira está em Deus.",
+    "anagogico": "“Deus livrará a minha alma da morada dos mortos, pois me tomará consigo”: um dos textos mais claros do Antigo Testamento sobre a esperança de comunhão com Deus além da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouvi isto, todos os povos, ricos e pobres. Ninguém pode resgatar-se a si mesmo, nem pagar a Deus o preço da sua vida. Morrem os sábios e os insensatos e deixam a outros as suas riquezas. Mas Deus livrará a minha alma da morada dos mortos, pois me tomará consigo.",
+    "meditatio_perguntas": [
+      "Em que medida o dinheiro me dá uma falsa sensação de segurança?",
+      "Invejo os ricos ou admiro o seu sucesso a ponto de esquecer Deus?",
+      "Penso na minha morte como encontro com o Deus que me toma consigo?"
+    ],
+    "oratio_guia": "Senhor, livra-me da ilusão das riquezas. Nada posso pagar pela minha vida; só tu me resgataste em Cristo. Dá-me um coração livre e sábio, e na hora da morte toma-me contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus, porém, livrará a minha alma da morada dos mortos, pois me tomará consigo.",
+      "ref": "Sl 48,16"
+    }
+  },
+  "ancoras": {
+    "48:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “resgate” (kopher) era o preço pago para libertar uma vida (Ex 21,30). Jesus se dá como “resgate por muitos” (Mc 10,45).",
+        "origem": "ia"
+      }
+    },
+    "48:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Tomar consigo” é o verbo usado para Henoc (Gn 5,24) e Elias (2Rs 2,3), arrebatados por Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

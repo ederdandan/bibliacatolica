@@ -1,0 +1,49 @@
+{
+  "id": "PSA.25.1",
+  "livro": "PSA",
+  "titulo": "Prece do inocente que ama a casa do Senhor",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 25,1-12",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Senhor, amo a casa onde habitas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um justo pede que Deus lhe faça justiça e o examine, porque andou na integridade e confiou no Senhor. Não se senta com os perversos nem com os ímpios. Lava as mãos na inocência e circunda o altar, louvando as maravilhas de Deus. Declara amar a casa do Senhor, lugar da sua glória. Pede para não ser arrastado com os pecadores sanguinários e corruptos, e termina firme no caminho reto, bendizendo o Senhor na assembleia.",
+    "alegorico": "Os vv. 6-12 eram rezados pelo sacerdote no Lavabo da Missa (“Lavabo inter innocentes manus meas”), antes da oração eucarística. Cristo, o único inocente, é o sacerdote que sobe ao altar celeste; nele a Igreja ama o lugar onde habita a glória de Deus.",
+    "moral": "O salmo liga culto e vida: lava-se as mãos não só com água, mas na inocência, afastando-se de alianças com o mal. Também nos convida a amar a igreja, a casa de Deus, e a participar da liturgia com o coração limpo.",
+    "anagogico": "O amor à casa de Deus na terra é saudade da morada da glória no céu, onde os justos bendirão o Senhor na assembleia eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Faz-me justiça, Senhor, pois andei na integridade. Sonda-me, Senhor, prova-me. Lavo as minhas mãos na inocência e ando ao redor do teu altar, proclamando as tuas maravilhas. Senhor, amo a casa onde habitas, o lugar onde reside a tua glória.",
+    "meditatio_perguntas": [
+      "Amo a igreja como “casa onde habita a glória” de Deus?",
+      "Com que disposição me aproximo do altar?",
+      "Há companhias ou alianças que preciso abandonar?"
+    ],
+    "oratio_guia": "Senhor, amo a casa onde habitas. Lava as minhas mãos e o meu coração, para que eu me aproxime do teu altar com inocência. Não me arrastes com os pecadores; firma os meus pés no caminho reto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, eu amo o acolhimento da tua casa e o lugar do tabernáculo da tua glória.",
+      "ref": "Sl 25,8"
+    }
+  },
+  "ancoras": {
+    "25:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na forma antiga da Missa, o sacerdote rezava os vv. 6-12 ao lavar as mãos; hoje reza Sl 50,4: “Lavai-me, Senhor, da minha culpa”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

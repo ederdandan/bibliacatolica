@@ -1,0 +1,57 @@
+{
+  "id": "PSA.56.1",
+  "livro": "PSA",
+  "titulo": "À sombra das tuas asas: desperta, minha glória",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 56,1-12",
+  "ini": {
+    "c": 56,
+    "v": 1
+  },
+  "fim": {
+    "c": 56,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O meu coração está firme: despertarei a aurora",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo o título, Davi reza escondido na caverna, fugindo de Saul. Refugia-se à sombra das asas de Deus até que passe a calamidade. Está deitado entre leões, homens cujos dentes são lanças e a língua espada afiada. Um refrão pede: “Eleva-te, ó Deus, acima dos céus; a tua glória sobre toda a terra”. Os inimigos caem na cova que cavaram. O coração firme rompe em canto: “Desperta, minha alma; despertai, harpa e cítara: despertarei a aurora”. A misericórdia de Deus chega aos céus.",
+    "alegorico": "A liturgia reza este salmo nas Laudes: Cristo, que saiu do sepulcro (a “caverna”) ao romper da aurora, desperta a Igreja para o louvor. Os vv. 8-12 reaparecem no Sl 107.",
+    "moral": "Mesmo na caverna e entre leões, o coração pode estar “firme” em Deus. O salmo ensina a começar o dia louvando, antecipando a aurora com a oração. A firmeza interior nasce da confiança, não das circunstâncias.",
+    "anagogico": "“Despertarei a aurora”: o cristão vigia à espera do grande amanhecer da ressurreição, quando a glória de Deus brilhar sobre toda a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tem piedade de mim, ó Deus, porque em ti se refugia a minha alma; à sombra das tuas asas me abrigo até que passe a calamidade. O meu coração está firme, ó Deus, o meu coração está firme. Desperta, minha alma; eu despertarei a aurora.",
+    "meditatio_perguntas": [
+      "Em que “caverna” me encontro, e como posso abrigar-me à sombra de Deus?",
+      "Começo o dia louvando a Deus?",
+      "O que torna o meu coração firme ou instável?"
+    ],
+    "oratio_guia": "Senhor, à sombra das tuas asas me abrigo até que passe a tempestade. Firma o meu coração em ti. Desperta a minha alma para o louvor e faz-me cantar a tua misericórdia, maior que os céus. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu coração, ó Deus, está firme, o meu coração está firme: cantarei e entoarei salmos.",
+      "ref": "Sl 56,8"
+    }
+  },
+  "ancoras": {
+    "56:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 22,1 e 24,1-8 (a caverna de Odolam e a de Engadi).",
+        "origem": "ia"
+      }
+    },
+    "56:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Despertarei a aurora”: o salmista se levanta antes do sol para louvar a Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

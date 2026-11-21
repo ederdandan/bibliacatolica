@@ -1,0 +1,49 @@
+{
+  "id": "PSA.118.153",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Res: vê a minha aflição e livra-me",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,153-160",
+  "ini": {
+    "c": 118,
+    "v": 153
+  },
+  "fim": {
+    "c": 118,
+    "v": 160
+  },
+  "liturgia": {
+    "tema_central": "Olha a minha aflição e livra-me",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Res. O salmista pede que Deus olhe a sua aflição e o livre, defenda a sua causa e lhe dê vida segundo a palavra. A salvação está longe dos ímpios que não buscam os estatutos. “Grandes são, Senhor, as tuas misericórdias.” Muitos o perseguem, mas não se desvia. Vê os traidores e sente desgosto. Pede vida pela misericórdia: a essência da palavra de Deus é verdade, e os seus juízos são eternos.",
+    "alegorico": "Cristo é o “goel”, o redentor que defende a causa do pobre e o resgata (v. 154). A grandeza das misericórdias de Deus se revela na Cruz.",
+    "moral": "Três vezes o salmista pede “dá-me vida”: a Palavra é fonte de vida. O salmo une a súplica pela libertação à confiança nas “muitas misericórdias” de Deus.",
+    "anagogico": "A vida pedida “segundo a tua palavra” é a vida eterna, que Cristo, Redentor, nos dá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Olha para a minha aflição e livra-me, porque não esqueci a tua lei. Defende a minha causa e resgata-me; dá-me vida segundo a tua palavra. Grandes são, Senhor, as tuas misericórdias. A essência da tua palavra é a verdade.",
+    "meditatio_perguntas": [
+      "Que causa minha quero confiar à defesa de Deus?",
+      "Vejo a grandeza das misericórdias de Deus na minha vida?",
+      "Busco na Palavra a vida, ou só informação?"
+    ],
+    "oratio_guia": "Senhor, olha para a minha aflição e defende a minha causa. Grandes são as tuas misericórdias: dá-me vida segundo a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Muitas são, Senhor, as tuas misericórdias; dá-me a vida segundo os teus decretos.",
+      "ref": "Sl 118,156"
+    }
+  },
+  "ancoras": {
+    "118:154": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Resgata-me”: o verbo hebraico (ga’al) indica o parente próximo que defende e resgata (o “goel”, cf. Rt 4; Jó 19,25).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

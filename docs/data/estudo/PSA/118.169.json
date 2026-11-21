@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.169",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Tau: andei errante como ovelha perdida",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,169-176",
+  "ini": {
+    "c": 118,
+    "v": 169
+  },
+  "fim": {
+    "c": 118,
+    "v": 176
+  },
+  "liturgia": {
+    "tema_central": "Andei errante como ovelha perdida: busca o teu servo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Tau, a última. O salmista pede que a sua súplica chegue diante de Deus e que ele o livre segundo a sua palavra. Os lábios transbordarão de louvor; a língua cantará a palavra. Pede que a mão de Deus o socorra, porque escolheu os seus preceitos. Deseja a salvação; a lei é a sua delícia. “Viva a minha alma para te louvar.” O salmo termina com uma confissão humilde e tocante: “Ando errante como ovelha perdida: busca o teu servo, pois não esqueci os teus mandamentos”.",
+    "alegorico": "O último versículo encontra resposta na parábola do Bom Pastor que deixa as noventa e nove e vai em busca da ovelha perdida (Lc 15,4-7). Depois de 176 versículos de amor à lei, o salmista reconhece que só Cristo, o Pastor, pode encontrá-lo.",
+    "moral": "A conclusão é uma lição de humildade: amar a Palavra não nos torna perfeitos; continuamos sendo ovelhas que se perdem e precisam ser procuradas. A vida espiritual termina não em autossuficiência, mas em súplica.",
+    "anagogico": "“Viva a minha alma para te louvar”: o destino final do homem é o louvor eterno, na casa do Pastor que nos buscou e encontrou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Chegue a ti, Senhor, a minha súplica. Os meus lábios cantarão o teu louvor. Desejo a tua salvação, Senhor; a tua lei é a minha delícia. Viva a minha alma e te louve. Ando errante como ovelha perdida: busca o teu servo, pois não esqueci os teus mandamentos.",
+    "meditatio_perguntas": [
+      "Reconheço que, mesmo amando a Deus, ainda me perco?",
+      "Deixo-me encontrar pelo Bom Pastor?",
+      "O que aprendi meditando estas 22 estrofes sobre a Palavra?"
+    ],
+    "oratio_guia": "Senhor Jesus, Bom Pastor, ando errante como ovelha perdida. Vem buscar-me. Que a minha alma viva para te louvar e que a tua palavra seja sempre a minha delícia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ando errante, como ovelha que se desgarrou; busca o teu servo",
+      "ref": "Sl 118,176"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

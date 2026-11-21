@@ -1,0 +1,57 @@
+{
+  "id": "PSA.32.1",
+  "livro": "PSA",
+  "titulo": "Hino ao Senhor criador e providente",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 32,1-22",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A terra está cheia da bondade do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hino que convida os justos a louvar o Senhor com instrumentos e cântico novo. A sua palavra é reta e a sua obra fiel; ele ama a justiça. Pela palavra do Senhor foram feitos os céus e pelo sopro da sua boca os astros; ele falou e tudo existiu. Os planos das nações fracassam, mas o desígnio de Deus permanece. Feliz o povo que tem o Senhor por Deus. Não é o exército nem o cavalo que salva; os olhos do Senhor estão sobre os que o temem. O salmo termina com a confiança da comunidade e um pedido de misericórdia.",
+    "alegorico": "Os Padres viram no v. 6 um eco da Trindade na criação: o Senhor, a sua Palavra (o Verbo, Jo 1,3) e o Sopro (o Espírito). O “cântico novo” é o louvor do homem novo em Cristo.",
+    "moral": "O salmo põe as seguranças humanas no seu lugar: exércitos, cavalos e projetos políticos passam; o desígnio de Deus permanece. Convida à confiança e à esperança comunitária: “a nossa alma espera o Senhor”.",
+    "anagogico": "O “desígnio do Senhor” que permanece de geração em geração é o plano de recapitular tudo em Cristo (Ef 1,10), que se cumprirá no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Exultai, justos, no Senhor. A palavra do Senhor é reta; a terra está cheia da sua bondade. Pela palavra do Senhor foram feitos os céus. Ele disse, e tudo foi feito. Feliz a nação que tem o Senhor por seu Deus. A nossa alma espera o Senhor. Venha sobre nós a tua misericórdia, como em ti esperamos.",
+    "meditatio_perguntas": [
+      "Vejo a bondade de Deus “enchendo a terra” ao meu redor?",
+      "Em que projetos meus confio mais do que no desígnio de Deus?",
+      "A minha esperança é pessoal ou também comunitária, com o povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, a tua palavra criou o mundo e o teu desígnio permanece para sempre. Ensina-me a esperar em ti, e não nas minhas forças. Que a tua misericórdia venha sobre nós, segundo a esperança que pomos em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Exerça-se, Senhor, sobre nós a tua misericórdia, segundo esperamos em ti.",
+      "ref": "Sl 32,22"
+    }
+  },
+  "ancoras": {
+    "32:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres viram aqui uma alusão à Trindade: o Pai cria pela Palavra e pelo Sopro (Espírito). Cf. Gn 1,2-3.",
+        "origem": "ia"
+      }
+    },
+    "32:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo que conclui o Te Deum.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

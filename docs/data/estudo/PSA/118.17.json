@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.17",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Guímel: abre os meus olhos",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,17-24",
+  "ini": {
+    "c": 118,
+    "v": 17
+  },
+  "fim": {
+    "c": 118,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Abre os meus olhos para ver as maravilhas da tua lei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Guímel. O salmista pede a Deus que o trate com bondade para viver e guardar a sua palavra, e que lhe abra os olhos para contemplar as maravilhas da sua lei. Reconhece-se peregrino na terra e deseja ardentemente os decretos de Deus. Mesmo quando os poderosos falam contra ele, medita as determinações divinas, que são as suas delícias e os seus conselheiros.",
+    "alegorico": "Cristo ressuscitado “abriu-lhes a inteligência para compreenderem as Escrituras” (Lc 24,45), cumprindo o pedido do v. 18. O cristão é peregrino que caminha guiado pela Palavra.",
+    "moral": "Ler a Escritura exige olhos abertos pelo Espírito: não basta a inteligência. O salmo nos convida a pedir essa luz antes de ler a Bíblia e a fazer da Palavra o nosso conselheiro diante das pressões externas.",
+    "anagogico": "Somos peregrinos na terra: a pátria é o céu, onde veremos sem véu as maravilhas que agora contemplamos na Escritura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Abre os meus olhos, para que eu contemple as maravilhas da tua lei. Sou peregrino na terra; não me escondas os teus mandamentos. As tuas prescrições são as minhas delícias e os meus conselheiros.",
+    "meditatio_perguntas": [
+      "Peço a luz do Espírito antes de ler a Bíblia?",
+      "A Palavra de Deus é minha “conselheira” nas decisões?",
+      "Vivo como peregrino ou como quem se instalou para sempre?"
+    ],
+    "oratio_guia": "Senhor, abre os meus olhos para que eu veja as maravilhas da tua Palavra. Sou peregrino na terra: guia-me com os teus conselhos até a pátria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Abre os meus olhos, para que considere as maravilhas da tua lei.",
+      "ref": "Sl 118,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

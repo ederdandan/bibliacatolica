@@ -1,0 +1,65 @@
+{
+  "id": "PSA.77.1",
+  "livro": "PSA",
+  "titulo": "As lições da história de Israel",
+  "secao": "Livro III do Saltério (Sl 72–88)",
+  "referencia": "Sl 77,1-72",
+  "ini": {
+    "c": 77,
+    "v": 1
+  },
+  "fim": {
+    "c": 77,
+    "v": 72
+  },
+  "liturgia": {
+    "tema_central": "As lições da história: a fidelidade de Deus e a infidelidade do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Longo salmo didático que relê a história de Israel para as novas gerações, para que ponham a esperança em Deus e não sejam como os pais rebeldes. Narra as maravilhas do Êxodo: o mar dividido, a nuvem e o fogo, a água da rocha, o maná, “pão do céu”, e as codornizes. Ao mesmo tempo, mostra as infidelidades: o povo tentou a Deus, duvidou, mentiu-lhe com a boca. Mas Deus, misericordioso, perdoava, lembrando-se de que eram carne. Recorda as pragas do Egito, a entrada na terra, a idolatria, a perda da Arca em Silo. No fim, Deus escolheu Judá, o monte Sião e Davi, tirado dos rebanhos para apascentar o povo com coração íntegro.",
+    "alegorico": "Jesus cita o v. 2 sobre o seu ensino em parábolas (Mt 13,35). O maná, “pão do céu” (v. 24), é figura da Eucaristia: “Eu sou o pão vivo descido do céu” (Jo 6,31-35). Davi, pastor escolhido, prefigura Cristo, o Bom Pastor.",
+    "moral": "A fé se transmite contando aos filhos as obras de Deus. O salmo é um espelho das nossas infidelidades: conversões superficiais (“enganavam-no com a boca”), esquecimento dos benefícios, exigências caprichosas. E revela a paciência de Deus, que “se lembra de que somos carne”.",
+    "anagogico": "O santuário “firme como os céus” e o pastor segundo o coração de Deus anunciam o Reino eterno de Cristo, o Filho de Davi, que conduzirá o seu povo para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Escuta, meu povo, o meu ensinamento. Abrirei a boca em parábolas. O que os nossos pais nos contaram não o esconderemos aos seus filhos. Fez chover o maná, deu-lhes o pão do céu. Mas ele, misericordioso, perdoava a culpa; lembrou-se de que eram carne. Escolheu Davi, seu servo, e tirou-o dos apriscos para apascentar o seu povo.",
+    "meditatio_perguntas": [
+      "O que tenho contado aos mais novos sobre as obras de Deus?",
+      "Em que sou parecido com o povo que “enganava Deus com a boca”?",
+      "Como vivo a Eucaristia, o verdadeiro pão do céu?"
+    ],
+    "oratio_guia": "Senhor, tu foste fiel quando o teu povo foi infiel. Perdoa as minhas conversões superficiais e o meu esquecimento dos teus dons. Obrigado pelo pão do céu, Jesus Cristo. Faz-me transmitir a fé aos que vêm depois de mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "fez chover sobre eles maná para comerem, deu-lhes um pão do céu.",
+      "ref": "Sl 77,24"
+    }
+  },
+  "ancoras": {
+    "77:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Mt 13,35 a propósito das parábolas de Jesus.",
+        "origem": "ia"
+      }
+    },
+    "77:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pão dos fortes”: a Vulgata traduz “pão dos anjos” (panem angelorum), expressão retomada no hino eucarístico Panis angelicus.",
+        "origem": "ia"
+      }
+    },
+    "77:60": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Silo, onde estava a Arca, foi destruída pelos filisteus (1Sm 4; Jr 7,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

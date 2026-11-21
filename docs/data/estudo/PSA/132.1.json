@@ -1,0 +1,40 @@
+{
+  "id": "PSA.132.1",
+  "livro": "PSA",
+  "titulo": "Como é bom viverem os irmãos unidos",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 132,1-3",
+  "ini": {
+    "c": 132,
+    "v": 1
+  },
+  "fim": {
+    "c": 132,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Como é bom viverem os irmãos unidos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve cântico da fraternidade. “Como é bom e agradável viverem os irmãos unidos!” A unidade é comparada ao óleo precioso derramado na cabeça de Aarão, que desce pela barba até a orla das vestes, e ao orvalho do Hermon que desce sobre os montes de Sião. Ali o Senhor dá a bênção e a vida para sempre.",
+    "alegorico": "A unidade da Igreja é obra do Espírito, o óleo que desce de Cristo-Cabeça (o Sumo Sacerdote) sobre todo o Corpo. Jesus rezou “que todos sejam um” (Jo 17,21). Santo Agostinho viu aqui a origem da vida monástica e comunitária.",
+    "moral": "A fraternidade é dom e tarefa: é “boa e agradável”, mas exige humildade e perdão. O salmo convida a cultivar a unidade na família, na comunidade e na Igreja, como lugar onde Deus derrama a bênção.",
+    "anagogico": "“A vida para sempre”: a comunhão fraterna é antecipação do céu, onde todos serão um em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como é bom e agradável viverem os irmãos unidos! É como o óleo precioso derramado na cabeça, que desce pela barba de Aarão. É como o orvalho do Hermon, que desce sobre o monte Sião. Ali o Senhor dá a bênção e a vida para sempre.",
+    "meditatio_perguntas": [
+      "Contribuo para a unidade ou para a divisão na minha família e comunidade?",
+      "Há algum irmão com quem preciso me reconciliar?",
+      "Rezo pela unidade da Igreja?"
+    ],
+    "oratio_guia": "Senhor, derrama sobre nós o óleo do teu Espírito e faz-nos viver unidos como irmãos. Cura as divisões nas famílias e na Igreja. Ali onde há unidade, dá a tua bênção e a vida para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó quão bom e quão agradável é viverem os irmãos em união!",
+      "ref": "Sl 132,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

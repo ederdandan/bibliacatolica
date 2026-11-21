@@ -1,0 +1,65 @@
+{
+  "id": "PSA.44.1",
+  "livro": "PSA",
+  "titulo": "Cântico nupcial do Rei",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 44,1-18",
+  "ini": {
+    "c": 44,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Cântico nupcial do Rei: escuta, filha, e vê",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Canção para as núpcias de um rei de Israel. O poeta celebra a beleza do rei, a graça dos seus lábios, a sua espada a serviço da verdade e da justiça. O seu trono é eterno; Deus o ungiu com óleo de alegria. As suas vestes perfumam a mirra e aloés. À sua direita está a rainha, adornada de ouro. O poeta exorta a noiva: “Escuta, filha, esquece o teu povo e a casa de teu pai, e o rei desejará a tua beleza”. A princesa entra com o seu séquito de virgens, em festa, no palácio do rei.",
+    "alegorico": "Hb 1,8-9 aplica os vv. 7-8 a Cristo: “O teu trono, ó Deus, é eterno”. O Rei é Cristo, o mais belo dos filhos dos homens; a rainha é a Igreja e, de modo eminente, a Virgem Maria, que a liturgia celebra com este salmo na Assunção. As virgens que a seguem são as almas consagradas.",
+    "moral": "O convite “esquece o teu povo e a casa de teu pai” fala de toda vocação: deixar algo para pertencer inteiramente a Cristo. A beleza que o Rei deseja é a da alma em graça, “toda formosa por dentro”.",
+    "anagogico": "O salmo prefigura as núpcias do Cordeiro (Ap 19,7-9; 21,2), quando a Igreja, vestida de linho puro, entrará com alegria no palácio do Rei para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Do meu coração brota um belo poema; dedico ao rei os meus versos. És o mais belo dos filhos dos homens; a graça se derramou em teus lábios. O teu trono, ó Deus, é eterno. Escuta, filha, vê e inclina o ouvido: esquece o teu povo e a casa de teu pai. O rei desejará a tua beleza.",
+    "meditatio_perguntas": [
+      "Contemplo a beleza de Cristo, ou só penso nas suas exigências?",
+      "O que o Senhor me pede para “esquecer” para pertencer mais a ele?",
+      "Como cuido da beleza interior da minha alma?"
+    ],
+    "oratio_guia": "Senhor Jesus, és o mais belo dos filhos dos homens. Atrai-me a ti. Dá-me escutar, ver e deixar o que me prende, para pertencer-te inteiramente. Com Maria, Rainha à tua direita, faz-me entrar com alegria no teu palácio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ultrapassas em formosura os filhos dos homens, a graça derramou-se nos teus lábios",
+      "ref": "Sl 44,3"
+    }
+  },
+  "ancoras": {
+    "44:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 1,8-9 para mostrar a superioridade do Filho sobre os anjos. Chamar o rei de “Deus” é ousadia que só em Cristo encontra pleno sentido.",
+        "origem": "ia"
+      }
+    },
+    "44:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ofir: região de ouro famosa, talvez no sul da Arábia (1Rs 9,28).",
+        "origem": "ia"
+      }
+    },
+    "44:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lido tradicionalmente na profissão das religiosas e na festa da Assunção.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PSA.118.9",
+  "livro": "PSA",
+  "titulo": "Sl 118 · Bet: como o jovem guardará puro o seu caminho?",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 118,9-16",
+  "ini": {
+    "c": 118,
+    "v": 9
+  },
+  "fim": {
+    "c": 118,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Como o jovem guardará puro o seu caminho?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estrofe Bet. O salmista pergunta como um jovem pode conservar puro o seu caminho e responde: guardando as palavras de Deus. Busca a Deus de todo o coração, guarda a palavra no coração para não pecar, enuncia com os lábios os decretos divinos e se alegra no caminho da lei mais que em todas as riquezas.",
+    "alegorico": "Maria guardava todas as coisas no coração (Lc 2,19.51): ela é o modelo de quem guarda a Palavra para não pecar. Cristo, jovem em Nazaré, cresceu em sabedoria e graça guardando a Palavra do Pai.",
+    "moral": "A pureza não é só esforço, mas fruto de guardar a Palavra no coração. A estrofe é um programa para os jovens: buscar, guardar, meditar, deleitar-se. A Palavra interiorizada protege contra o pecado.",
+    "anagogico": "A Palavra guardada no coração é semente da vida eterna; quem a guarda “não verá a morte para sempre” (Jo 8,51)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Como conservará puro o seu caminho o jovem? Guardando as tuas palavras. De todo o coração te busco. Guardo no meu coração a tua palavra, para não pecar contra ti. Bendito és, Senhor: ensina-me os teus estatutos.",
+    "meditatio_perguntas": [
+      "Que palavra de Deus guardo no coração para os momentos de tentação?",
+      "Alegro-me na Palavra “como em todas as riquezas”?",
+      "Como posso ajudar os jovens a guardar a Palavra?"
+    ],
+    "oratio_guia": "Senhor, guardo no meu coração a tua palavra, para não pecar contra ti. Ensina-me os teus estatutos e guarda puro o meu caminho, como guardaste o de Maria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Guardo no meu coração a tua palavra, para não pecar contra ti.",
+      "ref": "Sl 118,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

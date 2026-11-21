@@ -1,0 +1,40 @@
+{
+  "id": "PSA.120.1",
+  "livro": "PSA",
+  "titulo": "Levanto os olhos para os montes",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 120,1-8",
+  "ini": {
+    "c": 120,
+    "v": 1
+  },
+  "fim": {
+    "c": 120,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "O meu socorro vem do Senhor que fez o céu e a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico de partida do peregrino. Levanta os olhos para os montes e pergunta de onde lhe virá o socorro. Responde: do Senhor, criador do céu e da terra. Seguem as bênçãos de confiança: Deus não deixa o pé vacilar, não dorme quem guarda Israel; é sombra à direita; o sol não fere de dia nem a lua de noite. “O Senhor guardará a tua partida e a tua chegada, desde agora e para sempre.”",
+    "alegorico": "Cristo é o Guarda de Israel que não dorme; mesmo quando parecia dormir na barca, velava. A Igreja reza o v. 2 no início de muitas bênçãos (“O nosso auxílio está no nome do Senhor”).",
+    "moral": "O salmo é a oração de quem parte para uma viagem, um trabalho, uma nova etapa. Ensina a não pôr a confiança nos “montes” (lugares de culto pagão ou seguranças humanas), mas no Criador, que guarda cada saída e chegada.",
+    "anagogico": "“Desde agora e para sempre”: Deus guarda também a última saída, a da morte, e a entrada na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Levanto os olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez o céu e a terra. Não dormirá aquele que te guarda. O Senhor te guardará de todo mal. O Senhor guardará a tua partida e a tua chegada, desde agora e para sempre.",
+    "meditatio_perguntas": [
+      "Para que “montes” levanto os olhos buscando socorro?",
+      "Entrego a Deus as minhas saídas e chegadas de cada dia?",
+      "Confio que Deus vela por mim enquanto durmo?"
+    ],
+    "oratio_guia": "Senhor, criador do céu e da terra, tu és o meu socorro. Guarda os meus passos, a minha partida e a minha chegada, hoje e sempre. Tu não dormes: em ti descanso. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu socorro vem do Senhor, que fez o céu e a terra.",
+      "ref": "Sl 120,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

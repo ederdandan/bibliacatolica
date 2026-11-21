@@ -1,0 +1,40 @@
+{
+  "id": "PSA.123.1",
+  "livro": "PSA",
+  "titulo": "Se o Senhor não estivesse do nosso lado",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 123,1-8",
+  "ini": {
+    "c": 123,
+    "v": 1
+  },
+  "fim": {
+    "c": 123,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Se o Senhor não estivesse do nosso lado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ação de graças comunitária pela libertação. Israel reconhece: se o Senhor não estivesse do nosso lado quando os homens nos atacaram, teriam nos engolido vivos; as águas nos teriam submergido. Bendito seja o Senhor, que não nos entregou aos seus dentes. “A nossa alma escapou como um pássaro do laço do caçador: o laço se rompeu e nós escapamos.” O nosso socorro está no nome do Senhor.",
+    "alegorico": "A Igreja reza este salmo na memória dos mártires e libertações: Cristo rompeu o laço da morte, e com ele escapamos. O v. 8 abre bênçãos e o Ofício de Completas em várias tradições.",
+    "moral": "O salmo ensina a reler a história com gratidão: muitas vezes só percebemos depois que Deus estava do nosso lado. Reconhecer que fomos salvos gera humildade e louvor.",
+    "anagogico": "O laço rompido anuncia a libertação final do pecado e da morte; a alma livre voará para Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se o Senhor não estivesse do nosso lado, quando os homens se levantaram contra nós, ter-nos-iam engolido vivos. Bendito seja o Senhor. A nossa alma escapou como um pássaro do laço dos caçadores: o laço se rompeu, e nós ficamos livres. O nosso socorro está no nome do Senhor.",
+    "meditatio_perguntas": [
+      "Em que momento da minha vida percebi depois que Deus estava do meu lado?",
+      "De que “laço” Deus me libertou?",
+      "Agradeço com frequência pelas libertações passadas?"
+    ],
+    "oratio_guia": "Bendito sejas, Senhor, porque estiveste do nosso lado. O laço se rompeu e estamos livres. O nosso socorro está no teu nome, que fez o céu e a terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "O nosso socorro está no nome do Senhor, que fez o céu e a terra.",
+      "ref": "Sl 123,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PSA.30.1",
+  "livro": "PSA",
+  "titulo": "Em tuas mãos entrego o meu espírito",
+  "secao": "Livro I do Saltério (Sl 1–40)",
+  "referencia": "Sl 30,1-25",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Em tuas mãos entrego o meu espírito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica de um homem cercado por conspirações, doença e abandono. Pede que Deus seja a sua rocha e o tire do laço, e entrega-se: “Nas tuas mãos encomendo o meu espírito”. Descreve a sua aflição: consumido pela dor, objeto de desprezo, esquecido como um morto, como um vaso quebrado. Mas confia: “Tu és o meu Deus, nas tuas mãos está o meu destino”. Pede que Deus faça brilhar o rosto sobre ele. Conclui louvando a bondade reservada aos que temem o Senhor e exortando todos a amá-lo e a ser fortes.",
+    "alegorico": "Jesus morreu rezando o v. 6 (Lc 23,46), acrescentando “Pai”. Santo Estêvão o repetiu dirigindo-se a Jesus (At 7,59). A Igreja o reza toda noite nas Completas (“In manus tuas, Domine”). Cristo é o “vaso quebrado” desprezado, que o Pai glorificou.",
+    "moral": "Entregar o espírito nas mãos de Deus é o ato supremo de confiança, não apenas na morte, mas em cada noite e em cada decisão difícil. O salmo ensina a dizer “tu és o meu Deus” mesmo quando tudo parece contra nós.",
+    "anagogico": "A entrega final da alma nas mãos do Pai é o modelo da morte cristã. A “grande bondade reservada aos que te temem” é a vida eterna, onde Deus esconde os seus na sua presença."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Em ti, Senhor, me refugio. Sê para mim uma rocha. Nas tuas mãos encomendo o meu espírito; tu me libertarás, Senhor, Deus fiel. Eu confio em ti, Senhor; digo: Tu és o meu Deus. Nas tuas mãos está o meu destino. Faz brilhar o teu rosto sobre o teu servo.",
+    "meditatio_perguntas": [
+      "O que me custa entregar inteiramente nas mãos de Deus?",
+      "Rezo à noite, entregando o dia e o sono ao Senhor?",
+      "Como vivo a experiência de ser esquecido ou desprezado?"
+    ],
+    "oratio_guia": "Pai, nas tuas mãos entrego o meu espírito, como Jesus na Cruz. Nas tuas mãos está o meu destino. Faz brilhar sobre mim o teu rosto e salva-me pela tua misericórdia. Dá-me coragem para esperar em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nas tuas mãos encomendo o meu espírito",
+      "ref": "Sl 30,6"
+    }
+  },
+  "ancoras": {
+    "30:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Últimas palavras de Jesus segundo Lc 23,46. É o responsório breve das Completas.",
+        "origem": "ia"
+      }
+    },
+    "30:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Vaso quebrado”: imagem do que é descartado como inútil. Cf. Jr 22,28.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

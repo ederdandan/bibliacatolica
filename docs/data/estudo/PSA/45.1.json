@@ -1,0 +1,57 @@
+{
+  "id": "PSA.45.1",
+  "livro": "PSA",
+  "titulo": "Deus é o nosso refúgio e a nossa força",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 45,1-12",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Deus é o nosso refúgio e a nossa força: o Senhor está conosco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cântico de confiança da cidade de Deus. Ainda que a terra trema e os montes caiam no mar, o povo não teme, porque Deus é refúgio e força. Um rio alegra a cidade de Deus, onde ele habita; ela não vacila, pois Deus a socorre ao romper da manhã. As nações se agitam, mas a voz de Deus faz a terra derreter. Ele acaba com as guerras, quebra arcos e lanças. Deus diz: “Parai e reconhecei que eu sou Deus”. O refrão repete: “O Senhor dos exércitos está conosco”.",
+    "alegorico": "A cidade de Deus é a Igreja, e o rio que a alegra é o Espírito Santo que brota do lado de Cristo (Jo 7,38-39; Ap 22,1). “O Senhor está conosco” é o Emanuel (Mt 1,23). Lutero tirou daqui o hino “Castelo forte”; a tradição católica o canta na dedicação das igrejas.",
+    "moral": "O salmo é remédio contra a ansiedade diante das crises: “parai e reconhecei que eu sou Deus”. A paz não vem da ausência de terremotos, mas da presença de Deus. Pede-nos que deixemos de agitar-nos e confiemos.",
+    "anagogico": "O Deus que quebra os arcos e põe fim às guerras anuncia a paz messiânica definitiva, quando as espadas se tornarão arados (Is 2,4) e a cidade de Deus será plenamente a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus é o nosso refúgio e a nossa força, auxílio sempre pronto nas angústias. Por isso não tememos, ainda que a terra se abale. Um rio alegra a cidade de Deus. Deus está no meio dela, ela não vacila. Parai e reconhecei que eu sou Deus. O Senhor dos exércitos está conosco.",
+    "meditatio_perguntas": [
+      "Que “terremotos” me assustam neste momento?",
+      "Consigo “parar” e reconhecer que Deus é Deus?",
+      "Onde vejo o rio do Espírito alegrando a Igreja?"
+    ],
+    "oratio_guia": "Senhor, tu és o meu refúgio e a minha força. Quando tudo treme, faz-me parar e reconhecer que tu és Deus. Habita no meio de nós, alegra a tua Igreja com o rio do teu Espírito e dá a paz ao mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus é nosso refúgio e nossa força",
+      "ref": "Sl 45,2"
+    }
+  },
+  "ancoras": {
+    "45:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jerusalém não tinha rio; a imagem evoca a fonte do paraíso (Gn 2,10) e o rio que sai do Templo em Ez 47.",
+        "origem": "ia"
+      }
+    },
+    "45:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Desisti” (hebr. harpû): deixai cair as mãos, parai de lutar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

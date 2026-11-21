@@ -1,0 +1,49 @@
+{
+  "id": "PSA.66.1",
+  "livro": "PSA",
+  "titulo": "Que os povos te louvem, ó Deus",
+  "secao": "Livro II do Saltério (Sl 41–71)",
+  "referencia": "Sl 66,1-8",
+  "ini": {
+    "c": 66,
+    "v": 1
+  },
+  "fim": {
+    "c": 66,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Que os povos te louvem, ó Deus, todos os povos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve salmo de bênção e de missão. Retoma a bênção sacerdotal (Nm 6,24-26): Deus tenha piedade de nós, nos abençoe e faça brilhar sobre nós o seu rosto, para que na terra se conheça o seu caminho e entre as nações a sua salvação. O refrão pede: “Que os povos te louvem, ó Deus, que todos os povos te louvem”. A terra deu o seu fruto; que Deus nos abençoe e que todos os confins da terra o temam.",
+    "alegorico": "O salmo é missionário: a bênção de Israel é para todos os povos. Em Cristo, a salvação de Deus é conhecida por todas as nações. A liturgia o usa no dia 1º de janeiro (Santa Maria, Mãe de Deus), ligado à bênção sacerdotal, e na Liturgia das Horas como invitatório alternativo.",
+    "moral": "Toda bênção recebida tem uma finalidade: que os outros conheçam a Deus. O salmo nos tira do egoísmo espiritual e nos abre à missão. O fruto da terra lembra que Deus cumpre as suas promessas.",
+    "anagogico": "O louvor de “todos os povos” é a visão final do Apocalipse: uma multidão de todas as nações, tribos, povos e línguas diante do trono (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Deus tenha piedade de nós e nos abençoe; faça brilhar sobre nós o seu rosto, para que se conheça na terra o seu caminho, e entre as nações a sua salvação. Que os povos te louvem, ó Deus, que todos os povos te louvem. A terra deu o seu fruto.",
+    "meditatio_perguntas": [
+      "As bênçãos que recebo ajudam outros a conhecer a Deus?",
+      "Rezo pela evangelização dos povos?",
+      "Que “fruto” a minha vida deu, que posso agradecer?"
+    ],
+    "oratio_guia": "Senhor, tem piedade de nós e abençoa-nos. Faz brilhar sobre nós o teu rosto, para que todos os povos conheçam a tua salvação. Faz de mim instrumento da tua bênção para os outros. Que todos os povos te louvem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Glorifiquem-te, ó Deus, os povos; glorifiquem-te todos os povos.",
+      "ref": "Sl 66,4"
+    }
+  },
+  "ancoras": {
+    "66:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retomada da bênção de Aarão (Nm 6,24-26), que a liturgia proclama no dia 1º de janeiro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

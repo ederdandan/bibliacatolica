@@ -1,0 +1,57 @@
+{
+  "id": "PSA.96.1",
+  "livro": "PSA",
+  "titulo": "O Senhor reina: exulte a terra",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 96,1-12",
+  "ini": {
+    "c": 96,
+    "v": 1
+  },
+  "fim": {
+    "c": 96,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O Senhor reina: a luz nasce para o justo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor reina: exulte a terra e as ilhas. A sua manifestação é descrita como teofania: nuvens e trevas o envolvem, justiça e direito são a base do trono, fogo o precede, relâmpagos iluminam o mundo, os montes derretem como cera. Os céus anunciam a sua justiça, e todos os povos veem a sua glória. Os adoradores de ídolos são confundidos. Sião se alegra. O Senhor ama os que odeiam o mal e guarda os seus fiéis. “A luz nasce para o justo, e a alegria para os retos de coração.”",
+    "alegorico": "A liturgia usa o salmo na Missa da aurora do Natal e na Transfiguração: a glória de Deus se manifesta no rosto de Cristo (2Cor 4,6). Hb 1,6 cita o v. 7 (grego): “adorem-no todos os anjos de Deus”.",
+    "moral": "Amar a Deus implica odiar o mal, não as pessoas. A luz e a alegria são dadas aos retos de coração. O salmo nos convida a sair dos ídolos e a viver na luz.",
+    "anagogico": "A glória que todos os povos verão é a manifestação final de Cristo. A luz que nasce para o justo é o dia eterno sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor reina: exulte a terra, alegrem-se as numerosas ilhas. A justiça e o direito são a base do seu trono. Os céus proclamam a sua justiça, e todos os povos veem a sua glória. A luz nasce para o justo, e a alegria para os retos de coração.",
+    "meditatio_perguntas": [
+      "Odeio realmente o mal, ou convivo com ele?",
+      "Onde preciso que “nasça a luz” na minha vida?",
+      "Busco a alegria que vem da retidão de coração?"
+    ],
+    "oratio_guia": "Senhor, tu reinas na justiça e na glória. Faz nascer a tua luz sobre mim e dá-me a alegria dos retos de coração. Afasta-me dos ídolos e ensina-me a odiar o mal e amar o bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nasce a luz para os justos, e a alegria para os rectos de coração.",
+      "ref": "Sl 96,11"
+    }
+  },
+  "ancoras": {
+    "96:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nuvens e trevas evocam a teofania do Sinai (Ex 19,16; Dt 4,11).",
+        "origem": "ia"
+      }
+    },
+    "96:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 1,6 conforme a versão grega.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PSA.139.1",
+  "livro": "PSA",
+  "titulo": "Livra-me, Senhor, do homem mau",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 139,1-14",
+  "ini": {
+    "c": 139,
+    "v": 1
+  },
+  "fim": {
+    "c": 139,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Livra-me, Senhor, do homem mau",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Súplica contra homens violentos e caluniadores, que tramam o mal, afiam a língua como serpente e escondem veneno de víbora nos lábios, armam laços e redes no caminho. O salmista declara: “Tu és o meu Deus”; Deus protege a sua cabeça no dia da batalha. Pede que os planos dos maus não se realizem e que caiam na própria maldade. Conclui com a certeza: o Senhor faz justiça ao pobre e o direito aos indigentes; os justos louvarão o seu nome e habitarão na sua presença.",
+    "alegorico": "S. Paulo cita o v. 4 (Rm 3,13) para descrever a condição humana sem graça. Cristo foi cercado por laços e línguas venenosas na Paixão, mas o Pai protegeu a sua cabeça na batalha decisiva.",
+    "moral": "O salmo denuncia a língua que fere como veneno e as armadilhas da maldade. Ensina a confiar a Deus a defesa e a crer que ele está do lado do pobre.",
+    "anagogico": "“Os retos habitarão na tua presença”: a promessa final é a vida eterna junto de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Livra-me, Senhor, do homem mau, guarda-me do homem violento. Afiam a língua como serpente. Eu digo ao Senhor: Tu és o meu Deus. Senhor, meu poderoso auxílio, cobres a minha cabeça no dia da batalha. Sei que o Senhor faz justiça ao pobre. Os retos habitarão na tua presença.",
+    "meditatio_perguntas": [
+      "Já fui ferido por palavras venenosas? Como reagi?",
+      "As minhas palavras às vezes ferem como veneno?",
+      "Confio que Deus faz justiça ao pobre?"
+    ],
+    "oratio_guia": "Senhor, tu és o meu Deus. Guarda-me do mal e da língua venenosa, e guarda a minha língua de ferir. Cobre a minha cabeça no dia da batalha e faz-me habitar na tua presença. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu digo ao Senhor: Tu és o meu Deus; atende, Senhor, à voz da minha súplica.",
+      "ref": "Sl 139,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

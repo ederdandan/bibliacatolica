@@ -1,0 +1,40 @@
+{
+  "id": "PSA.126.1",
+  "livro": "PSA",
+  "titulo": "Se o Senhor não edificar a casa",
+  "secao": "Livro V do Saltério (Sl 106–150)",
+  "referencia": "Sl 126,1-5",
+  "ini": {
+    "c": 126,
+    "v": 1
+  },
+  "fim": {
+    "c": 126,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Se o Senhor não edificar a casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo sapiencial atribuído a Salomão. Se o Senhor não edificar a casa, em vão trabalham os construtores; se o Senhor não guardar a cidade, em vão vigia a sentinela. É inútil levantar-se cedo e deitar tarde comendo o pão da fadiga: Deus dá aos seus amados o pão até enquanto dormem. Os filhos são herança do Senhor; como flechas na mão do guerreiro são os filhos da juventude; feliz quem deles enche a aljava.",
+    "alegorico": "A casa que Deus edifica é a Igreja e a família cristã. Cristo é o construtor (Mt 16,18) e a pedra angular. Os Padres viram no “sono” dos amados o sono de Cristo na Cruz, do qual nasce a Igreja.",
+    "moral": "O salmo combate o ativismo ansioso: trabalhar sim, mas sem pensar que tudo depende de nós. Valoriza a família e os filhos como dom, não como peso. Convida a confiar a Deus a casa, o trabalho e a cidade.",
+    "anagogico": "A casa edificada por Deus é eterna (2Cor 5,1); o descanso dos seus amados anuncia o repouso eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Se o Senhor não edificar a casa, em vão trabalham os que a constroem. Se o Senhor não guardar a cidade, em vão vigia a sentinela. Em vão vos levantais de madrugada: ele o dá aos seus amados enquanto dormem. Os filhos são um dom do Senhor.",
+    "meditatio_perguntas": [
+      "Construo a minha vida e a minha família com Deus ou sem ele?",
+      "Vivo ansioso como se tudo dependesse de mim?",
+      "Vejo os filhos (e as crianças) como dom de Deus?"
+    ],
+    "oratio_guia": "Senhor, edifica tu a minha casa e guarda a minha família. Livra-me da ansiedade de quem pensa que tudo depende de si. Obrigado pelo dom dos filhos e da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se o Senhor não edificar a casa, é em vão que trabalham os que a edificam.",
+      "ref": "Sl 126,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

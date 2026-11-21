@@ -1,0 +1,57 @@
+{
+  "id": "PSA.90.1",
+  "livro": "PSA",
+  "titulo": "Sob a proteção do Altíssimo",
+  "secao": "Livro IV do Saltério (Sl 89–105)",
+  "referencia": "Sl 90,1-16",
+  "ini": {
+    "c": 90,
+    "v": 1
+  },
+  "fim": {
+    "c": 90,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Sob a proteção do Altíssimo: ele mandou os seus anjos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salmo de confiança. Quem habita sob a proteção do Altíssimo diz ao Senhor: “Meu refúgio e meu baluarte”. Deus o livra do laço do caçador e da peste; cobre-o com as suas penas. Não temerá o terror da noite, nem a flecha do dia, nem a peste das trevas; mil podem cair ao seu lado, e o mal não o atingirá. Deus manda os seus anjos guardá-lo em todos os caminhos; eles o levarão nas mãos para que o pé não tropece; caminhará sobre a víbora e o leão. No fim, o próprio Deus fala: “Porque se apegou a mim, eu o livrarei; estarei com ele na tribulação e lhe mostrarei a minha salvação”.",
+    "alegorico": "O diabo cita os vv. 11-12 na tentação de Jesus (Mt 4,6), distorcendo-os; Jesus responde que não se deve tentar a Deus. Cristo é o verdadeiro protegido do Pai, que esmagou o dragão. A Igreja reza este salmo nas Completas de domingo e no 1º domingo da Quaresma.",
+    "moral": "A confiança em Deus não é presunção: não se trata de buscar o perigo para “testar” a proteção, como queria o tentador. É viver apegado a Deus e conhecer o seu nome. O salmo alimenta a devoção aos anjos da guarda.",
+    "anagogico": "“Mostrar-lhe-ei a minha salvação”: a promessa final é a vida eterna, onde nenhum mal se aproximará da tenda dos justos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tu que habitas sob a proteção do Altíssimo, dize ao Senhor: “Meu refúgio e meu baluarte, meu Deus, em quem confio”. Cobrir-te-á com as suas penas. Não temerás o terror da noite. Ele mandou aos seus anjos que te guardem em todos os teus caminhos. Porque se apegou a mim, eu o livrarei; com ele estarei na tribulação.",
+    "meditatio_perguntas": [
+      "Que medos da noite e do dia me assaltam?",
+      "Confio em Deus ou às vezes o “ponho à prova”?",
+      "Recorro ao meu anjo da guarda?"
+    ],
+    "oratio_guia": "Senhor, meu refúgio e meu baluarte, em ti confio. Cobre-me com as tuas asas e livra-me dos medos da noite. Manda os teus anjos guardar-me em todos os caminhos. Quero apegar-me a ti; fica comigo na tribulação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque mandou aos seus anjos em teu favor, que te guardem em todos os teus caminhos.",
+      "ref": "Sl 90,11"
+    }
+  },
+  "ancoras": {
+    "90:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado pelo diabo em Mt 4,6 e Lc 4,10-11. Base bíblica da devoção aos anjos da guarda.",
+        "origem": "ia"
+      }
+    },
+    "90:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata leu “o demônio do meio-dia”, que os monges entenderam como a acédia, a tentação do tédio espiritual.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
