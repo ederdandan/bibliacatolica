@@ -1,0 +1,363 @@
+{
+ "livro": "EXO",
+ "secoes": [
+  "A opressão e a vocação de Moisés",
+  "As pragas e a Páscoa",
+  "No deserto",
+  "A aliança do Sinai",
+  "O santuário e o sacerdócio",
+  "Pecado e renovação da aliança"
+ ],
+ "pericopes": [
+  {
+   "id": "EXO.1.1",
+   "titulo": "A opressão de Israel no Egito",
+   "secao": "A opressão e a vocação de Moisés",
+   "referencia": "Ex 1,1-22",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 22
+   }
+  },
+  {
+   "id": "EXO.2.1",
+   "titulo": "O nascimento e a fuga de Moisés",
+   "secao": "A opressão e a vocação de Moisés",
+   "referencia": "Ex 2,1-25",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "EXO.3.1",
+   "titulo": "A sarça ardente: Eu sou o que sou",
+   "secao": "A opressão e a vocação de Moisés",
+   "referencia": "Ex 3,1-22",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 22
+   }
+  },
+  {
+   "id": "EXO.4.1",
+   "titulo": "Os sinais e a volta de Moisés ao Egito",
+   "secao": "A opressão e a vocação de Moisés",
+   "referencia": "Ex 4,1-31",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 31
+   }
+  },
+  {
+   "id": "EXO.5.1",
+   "titulo": "Faraó endurece; Deus renova a promessa",
+   "secao": "A opressão e a vocação de Moisés",
+   "referencia": "Ex 5,1–6,30",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 30
+   }
+  },
+  {
+   "id": "EXO.7.1",
+   "titulo": "As primeiras pragas: o dedo de Deus",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 7,1–8,32",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 32
+   }
+  },
+  {
+   "id": "EXO.9.1",
+   "titulo": "Peste, úlceras, granizo, gafanhotos e trevas",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 9,1–10,29",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 29
+   }
+  },
+  {
+   "id": "EXO.11.1",
+   "titulo": "A Páscoa do Senhor",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 11,1–12,51",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 51
+   }
+  },
+  {
+   "id": "EXO.13.1",
+   "titulo": "Os primogênitos consagrados; a coluna de nuvem e de fogo",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 13,1-22",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 22
+   }
+  },
+  {
+   "id": "EXO.14.1",
+   "titulo": "A passagem do mar Vermelho",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 14,1-31",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 31
+   }
+  },
+  {
+   "id": "EXO.15.1",
+   "titulo": "O cântico de Moisés",
+   "secao": "As pragas e a Páscoa",
+   "referencia": "Ex 15,1-27",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 27
+   }
+  },
+  {
+   "id": "EXO.16.1",
+   "titulo": "O maná, pão do céu",
+   "secao": "No deserto",
+   "referencia": "Ex 16,1-36",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 36
+   }
+  },
+  {
+   "id": "EXO.17.1",
+   "titulo": "A água da rocha e as mãos erguidas de Moisés",
+   "secao": "No deserto",
+   "referencia": "Ex 17,1-16",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 16
+   }
+  },
+  {
+   "id": "EXO.18.1",
+   "titulo": "Jetro e a organização do povo",
+   "secao": "No deserto",
+   "referencia": "Ex 18,1-27",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 27
+   }
+  },
+  {
+   "id": "EXO.19.1",
+   "titulo": "Sereis para mim um reino sacerdotal e uma nação santa",
+   "secao": "A aliança do Sinai",
+   "referencia": "Ex 19,1-25",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 25
+   }
+  },
+  {
+   "id": "EXO.20.1",
+   "titulo": "Os dez mandamentos",
+   "secao": "A aliança do Sinai",
+   "referencia": "Ex 20,1-26",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 26
+   }
+  },
+  {
+   "id": "EXO.21.1",
+   "titulo": "O código da aliança",
+   "secao": "A aliança do Sinai",
+   "referencia": "Ex 21,1–23,33",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 33
+   }
+  },
+  {
+   "id": "EXO.24.1",
+   "titulo": "O sangue da aliança",
+   "secao": "A aliança do Sinai",
+   "referencia": "Ex 24,1-18",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 18
+   }
+  },
+  {
+   "id": "EXO.25.1",
+   "titulo": "A arca, a mesa, o candelabro e o tabernáculo",
+   "secao": "O santuário e o sacerdócio",
+   "referencia": "Ex 25,1–27,21",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 21
+   }
+  },
+  {
+   "id": "EXO.28.1",
+   "titulo": "As vestes e a consagração dos sacerdotes",
+   "secao": "O santuário e o sacerdócio",
+   "referencia": "Ex 28,1–29,46",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 46
+   }
+  },
+  {
+   "id": "EXO.30.1",
+   "titulo": "O altar do incenso, o sábado e as tábuas da lei",
+   "secao": "O santuário e o sacerdócio",
+   "referencia": "Ex 30,1–31,18",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 18
+   }
+  },
+  {
+   "id": "EXO.32.1",
+   "titulo": "O bezerro de ouro e a intercessão de Moisés",
+   "secao": "Pecado e renovação da aliança",
+   "referencia": "Ex 32,1-35",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 35
+   }
+  },
+  {
+   "id": "EXO.33.1",
+   "titulo": "Face a face, como um amigo: mostra-me a tua glória",
+   "secao": "Pecado e renovação da aliança",
+   "referencia": "Ex 33,1-23",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 23
+   }
+  },
+  {
+   "id": "EXO.34.1",
+   "titulo": "Deus misericordioso e clemente: a aliança renovada",
+   "secao": "Pecado e renovação da aliança",
+   "referencia": "Ex 34,1-35",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 35
+   }
+  },
+  {
+   "id": "EXO.35.1",
+   "titulo": "A construção do tabernáculo e a glória que o enche",
+   "secao": "Pecado e renovação da aliança",
+   "referencia": "Ex 35,1–40,36",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 36
+   }
+  }
+ ]
+}

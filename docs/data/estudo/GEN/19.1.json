@@ -1,0 +1,40 @@
+{
+  "id": "GEN.19.1",
+  "livro": "GEN",
+  "titulo": "A destruição de Sodoma e a salvação de Ló",
+  "secao": "Abraão, pai dos crentes",
+  "referencia": "Gn 19,1-38",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Sodoma destruída: não olhar para trás",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dois anjos chegam a Sodoma; Ló os acolhe em casa. Os homens da cidade cercam a casa e exigem que os entregue para abusar deles; Ló tenta oferecer as filhas; os anjos o puxam para dentro e cegam os agressores. Os genros de Ló acham que ele brinca. De madrugada, os anjos apressam Ló, a mulher e as filhas; como ele hesita, tomam-nos pela mão, por compaixão do Senhor: “Salva a tua vida, não olhes para trás”. O Senhor faz chover enxofre e fogo sobre Sodoma e Gomorra. A mulher de Ló olha para trás e se torna estátua de sal. Abraão vê a fumaça subir. Ló se refugia numa caverna; as filhas, embriagando o pai, dão origem a Moab e Amon.",
+    "alegorico": "Jesus adverte: “Lembrai-vos da mulher de Ló” (Lc 17,32): quem olha para trás com apego não está pronto para o Reino. Os anjos que tiram Ló pela mão figuram a graça que nos arranca do pecado.",
+    "moral": "A violência contra os hóspedes e os abusos de Sodoma são condenados. A salvação exige decisão: não hesitar, não olhar para trás com saudade do que é perdido. Deus salva Ló não pelos méritos dele, mas por compaixão e pela intercessão de Abraão.",
+    "anagogico": "O fogo sobre Sodoma é imagem do juízo final (2Pd 2,6; Jd 7): advertência para a vigilância e a conversão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te, toma a tua mulher e as tuas filhas, para que não pereças.” “Tomaram-lhe a mão… porque o Senhor lhe era favorável.” “Salva a tua vida, não olhes para trás.” “A mulher de Ló, olhando para trás, ficou convertida numa estátua de sal.”",
+    "meditatio_perguntas": [
+      "Que “Sodoma” ainda atrai o meu olhar?",
+      "Hesito quando Deus me chama a sair do pecado?",
+      "Deixo a graça me tomar pela mão?"
+    ],
+    "oratio_guia": "Senhor, toma-me pela mão quando eu hesitar e tira-me do lugar do pecado. Que eu não olhe para trás com saudade, mas siga em frente para o teu monte. Amém.",
+    "contemplatio_foco": {
+      "texto": "salva a tua vida, não olhes para trás",
+      "ref": "Gn 19,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

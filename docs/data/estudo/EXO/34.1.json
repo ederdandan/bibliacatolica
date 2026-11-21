@@ -1,0 +1,40 @@
+{
+  "id": "EXO.34.1",
+  "livro": "EXO",
+  "titulo": "Deus misericordioso e clemente: a aliança renovada",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 34,1-35",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Deus misericordioso e clemente renova a aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda Moisés talhar duas novas tábuas e subir ao Sinai. O Senhor desce na nuvem e proclama o seu nome: “Senhor, Senhor, Deus misericordioso e clemente, paciente, rico em bondade e fidelidade, que guarda a misericórdia por mil gerações, que perdoa a iniquidade, a transgressão e o pecado”, mas não deixa impune o culpado. Moisés se prostra: caminha no meio de nós, perdoa e toma-nos por herança. Deus renova a aliança: fará maravilhas; o povo não fará aliança com os habitantes da terra, nem adorará outros deuses, porque o Senhor se chama Zeloso. Moisés escreve as palavras; desce do monte com o rosto radiante, sem o saber; o povo tem medo; ele põe um véu.",
+    "alegorico": "São Paulo compara o véu de Moisés com o véu que cobre o coração dos que não reconhecem Cristo; “quando se converte ao Senhor, o véu é tirado”, e todos refletimos a glória do Senhor (2Cor 3,13-18).",
+    "moral": "O nome de Deus é misericórdia: esta revelação é o coração do AT. O perdão não anula a responsabilidade, mas a supera. Quem está com Deus irradia a sua luz, muitas vezes sem saber.",
+    "anagogico": "O rosto radiante de Moisés antecipa a transformação dos justos, que “brilharão como o sol no Reino do Pai” (Mt 13,43)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro.” “Que conservas a misericórdia até mil gerações.” “Caminhe o Senhor no meio de nós.” “Moisés não sabia que o seu rosto estava radiante.”",
+    "meditatio_perguntas": [
+      "Conheço Deus pelo seu nome de misericórdia?",
+      "Que “véu” cobre o meu coração diante de Cristo?",
+      "A minha convivência com Deus transparece no meu rosto e na minha vida?"
+    ],
+    "oratio_guia": "Senhor, Deus misericordioso e clemente, lento para a cólera e rico em bondade, caminha no meio de nós e perdoa-nos. Tira o véu do meu coração e faze-me refletir a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro",
+      "ref": "Ex 34,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

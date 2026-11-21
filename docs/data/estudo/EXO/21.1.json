@@ -1,0 +1,40 @@
+{
+  "id": "EXO.21.1",
+  "livro": "EXO",
+  "titulo": "O código da aliança",
+  "secao": "A aliança do Sinai",
+  "referencia": "Ex 21,1–23,33",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "A justiça concreta da aliança e o cuidado do estrangeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O “código da aliança” aplica os mandamentos à vida: limites à escravidão (libertação no sétimo ano), proteção da vida, penas proporcionais (“olho por olho”, que limita a vingança), indenização por danos a animais e campos, depósitos e empréstimos. Proteção aos fracos: “Não maltratarás o estrangeiro, nem o oprimirás, porque fostes estrangeiros no Egito”; não afligirás a viúva e o órfão: se clamarem, eu os ouvirei. Não cobrarás juros do pobre; devolve o manto empenhado antes do pôr do sol. Não seguirás a multidão para fazer o mal; não aceitarás suborno. Ajuda até o jumento do teu inimigo. Seguem o ano sabático, as três festas anuais e a promessa do anjo que guiará o povo.",
+    "alegorico": "Jesus leva o “olho por olho” à superação: “Eu, porém, vos digo: não resistais ao mau” (Mt 5,38-39). O anjo enviado adiante do povo foi lido como figura de Cristo, Mensageiro da aliança.",
+    "moral": "A fé se traduz em leis justas e em relações concretas. A memória da própria opressão gera compaixão pelo estrangeiro. Deus é defensor dos que não têm defensor: viúva, órfão, pobre. Até o inimigo merece ajuda.",
+    "anagogico": "A promessa do anjo que conduz ao lugar preparado anuncia o lugar que Cristo nos prepara na casa do Pai (Jo 14,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não serás molesto ao estrangeiro, porque também fostes estrangeiros na terra do Egito.” “Não fareis mal algum à viúva e ao órfão.” “Se clamarem a mim, eu ouvirei o seu clamor.” “Não seguirás a multidão para fazer o mal.”",
+    "meditatio_perguntas": [
+      "Como trato o estrangeiro e o migrante?",
+      "A minha fé se traduz em justiça nas coisas concretas?",
+      "Sigo a multidão quando ela faz o mal?"
+    ],
+    "oratio_guia": "Senhor, que ouves o clamor da viúva, do órfão e do estrangeiro, dá-me um coração justo e compassivo. Que eu não siga a multidão no mal e ajude até o meu inimigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não serás molesto ao estrangeiro",
+      "ref": "Ex 23,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "EXO.5.1",
+  "livro": "EXO",
+  "titulo": "Faraó endurece; Deus renova a promessa",
+  "secao": "A opressão e a vocação de Moisés",
+  "referencia": "Ex 5,1–6,30",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Quem é o Senhor? A opressão aumenta, a promessa se renova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés e Aarão pedem ao Faraó: deixa o meu povo ir celebrar uma festa no deserto. O Faraó responde: “Quem é o Senhor, para que eu obedeça à sua voz? Não conheço o Senhor”. Endurece: os israelitas terão de fazer o mesmo número de tijolos, recolhendo eles mesmos a palha. Os capatazes hebreus são açoitados e culpam Moisés. Moisés se queixa a Deus: por que maltratas este povo? Por que me enviaste? Deus responde: agora verás o que farei. “Eu sou o Senhor”; apareci a Abraão, a Isaac e a Jacó; ouvi o gemido; “eu vos tirarei, vos libertarei, vos resgatarei com braço estendido; farei de vós o meu povo e serei o vosso Deus”. Mas o povo, desanimado, não ouve. Segue a genealogia de Moisés e Aarão.",
+    "alegorico": "Os quatro verbos da promessa (tirar, libertar, resgatar, tomar por povo) estruturam a Páscoa judaica e se cumprem na redenção de Cristo, que nos resgata “com braço estendido” na cruz.",
+    "moral": "O primeiro passo de libertação pode piorar as coisas: a fé passa por esse vale. A queixa a Deus é legítima (“por que me enviaste?”). O desânimo pode tornar o povo surdo às promessas.",
+    "anagogico": "“Serei o vosso Deus e sereis o meu povo” é a fórmula da aliança que se consuma na Jerusalém celeste (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem é o Senhor, para que eu obedeça à sua voz?” “Senhor, por que afligiste este povo? Por que me enviaste?” “Agora verás o que farei.” “Farei de vós o meu povo, serei o vosso Deus.”",
+    "meditatio_perguntas": [
+      "Em que momento a obediência a Deus pareceu piorar a minha situação?",
+      "Levo a Deus as minhas queixas com sinceridade?",
+      "O desânimo me impede de ouvir as promessas?"
+    ],
+    "oratio_guia": "Senhor, quando a opressão aumentar e eu perguntar “por que me enviaste?”, mostra-me o que farás. Liberta-me, resgata-me e faze-me teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Farei de vós o meu povo, serei o vosso Deus",
+      "ref": "Ex 6,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

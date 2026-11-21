@@ -1,0 +1,49 @@
+{
+  "id": "GEN.1.1",
+  "livro": "GEN",
+  "titulo": "A criação e o repouso de Deus",
+  "secao": "As origens do mundo e da humanidade",
+  "referencia": "Gn 1,1–2,3",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Deus cria tudo bom pela sua palavra e faz o homem à sua imagem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“No princípio criou Deus o céu e a terra.” A terra era informe e vazia, e o Espírito de Deus pairava sobre as águas. Deus diz: “Faça-se a luz”, e a luz se faz. Em seis dias, pela sua palavra, Deus separa a luz das trevas, as águas, a terra seca; faz brotar as plantas, coloca os astros, enche as águas e o céu de seres vivos, e a terra de animais. Por fim: “Façamos o homem à nossa imagem e semelhança”; cria-o varão e mulher, abençoa-os e confia-lhes a terra. “Deus viu tudo o que tinha feito, e era muito bom.” No sétimo dia Deus repousa, abençoa e santifica esse dia.",
+    "alegorico": "São João começa o Evangelho com o mesmo “No princípio”: tudo foi feito pelo Verbo (Jo 1,1-3). O Espírito sobre as águas prefigura o batismo; a luz primeira, Cristo, luz do mundo. O plural “façamos” foi lido pelos Padres como sinal da Trindade.",
+    "moral": "A criação é boa, não um acaso nem algo mau; cuidar dela é responsabilidade. Cada pessoa, homem e mulher, tem a dignidade de imagem de Deus. O repouso do sétimo dia ensina que o homem não é só trabalho: é chamado ao louvor.",
+    "anagogico": "O sétimo dia, sem tarde mencionada, é figura do repouso eterno de Deus, no qual os fiéis são chamados a entrar (Hb 4,9-10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No princípio criou Deus o céu e a terra.” “Faça-se a luz.” “Façamos o homem à nossa imagem e semelhança.” “Criou-o à imagem de Deus, varão e fêmea os criou.” “Deus viu todas as coisas que tinha feito, e eram muito boas.”",
+    "meditatio_perguntas": [
+      "Vejo a criação como dom “muito bom” de Deus?",
+      "Trato cada pessoa como imagem de Deus?",
+      "Guardo o “sétimo dia” como tempo de repouso e louvor?"
+    ],
+    "oratio_guia": "Deus criador, que tudo fizeste bom pela tua Palavra, obrigado por me criares à tua imagem. Ensina-me a cuidar da tua criação, a respeitar cada pessoa e a repousar em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "E criou Deus o homem à sua imagem",
+      "ref": "Gn 1,27"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O relato de 1,1–2,3 tem estrutura litúrgica de sete dias; não é um tratado científico, mas uma confissão de fé no Deus criador de tudo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

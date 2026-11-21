@@ -1,0 +1,40 @@
+{
+  "id": "GEN.45.1",
+  "livro": "GEN",
+  "titulo": "Eu sou José, vosso irmão",
+  "secao": "José e os seus irmãos",
+  "referencia": "Gn 45,1-28",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Eu sou José, vosso irmão: o perdão que revela o plano de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "José não consegue mais se conter; manda sair todos e chora alto: “Eu sou José! O meu pai ainda vive?” Os irmãos, aterrados, não conseguem responder. “Aproximai-vos de mim. Eu sou José, vosso irmão, a quem vendestes para o Egito. Não vos aflijais nem vos pese terdes-me vendido, porque para salvar vidas Deus me enviou adiante de vós.” “Não fostes vós que me enviastes para cá, mas Deus.” Manda que tragam o pai e toda a família para Gessém. Lança-se ao pescoço de Benjamim e chora; beija todos os irmãos. O Faraó oferece o melhor do Egito. José recomenda: não brigueis pelo caminho. Jacó, ao saber, revive: “Basta! José, meu filho, ainda vive; irei vê-lo antes de morrer”.",
+    "alegorico": "Cristo ressuscitado se revela aos discípulos que o abandonaram: “Sou eu” (Lc 24,39), e lhes dá a paz, mostrando que a sua Paixão era o plano do Pai para a salvação (Lc 24,26).",
+    "moral": "O perdão de José não nega o mal (“a quem vendestes”), mas o lê à luz da providência. Perdoar é libertar o outro da culpa e reabrir a fraternidade. “Não brigueis pelo caminho”: a reconciliação exige cuidado.",
+    "anagogico": "O reencontro de Jacó e José, quando o pai “revive”, anuncia a alegria do reencontro na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou José. O meu pai ainda vive?” “Aproximai-vos de mim. Eu sou José, vosso irmão, a quem vós vendestes para o Egito. Não temais… porque para vossa salvação me mandou Deus adiante de vós.” “Não brigueis pelo caminho.”",
+    "meditatio_perguntas": [
+      "A quem preciso dizer: “aproximai-vos de mim”?",
+      "Consigo ler as feridas da minha vida à luz da providência?",
+      "Perdoo libertando o outro da culpa?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te revelas aos que te abandonaram e lhes dás a paz, ensina-me o perdão de José. Que eu veja a tua providência até no mal que sofri. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou José, vosso irmão, a quem vós vendestes para o Egito",
+      "ref": "Gn 45,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

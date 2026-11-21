@@ -1,0 +1,40 @@
+{
+  "id": "GEN.16.1",
+  "livro": "GEN",
+  "titulo": "Agar e Ismael: o Deus que me vê",
+  "secao": "Abraão, pai dos crentes",
+  "referencia": "Gn 16,1-16",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O Deus que vê a escrava humilhada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sarai, estéril, dá a Abrão a sua escrava egípcia Agar, para ter filhos por meio dela. Agar concebe e despreza a senhora; Sarai a maltrata, e Agar foge para o deserto. Junto a uma fonte, o anjo do Senhor a encontra: “Agar, serva de Sarai, de onde vens e para onde vais?” Manda-a voltar e humilhar-se, e promete: multiplicarei a tua descendência; darás à luz um filho e o chamarás Ismael, “Deus ouve”, porque o Senhor ouviu a tua aflição. Agar dá ao Senhor um nome: “Tu és o Deus que me vê”, e diz: vi aqui Aquele que me vê. Agar dá à luz Ismael; Abrão tem oitenta e seis anos.",
+    "alegorico": "São Paulo lê Agar e Sara como duas alianças: a da escravidão e a da liberdade (Gl 4,21-31). Mas o Deus que vê e ouve a escrava estrangeira anuncia Cristo, que se volta para os rejeitados.",
+    "moral": "Querer “ajudar” Deus com soluções humanas gera conflitos. Mas Deus vê os que ficam à margem das nossas histórias: a escrava, a estrangeira, a mãe sozinha. As suas perguntas (“de onde vens, para onde vais?”) nos ajudam a discernir.",
+    "anagogico": "O Deus que vê e ouve todo sofrimento fará justiça a todos os humilhados na consumação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Agar, escrava de Sarai, de onde vens tu? e para onde vais?” “O Senhor ouviu a tua aflição.” “Tu és o Deus que me vês.” “Não vi eu, aqui mesmo, o Deus que me via?”",
+    "meditatio_perguntas": [
+      "De onde venho e para onde vou?",
+      "Quem são as “Agares” que a minha comunidade deixa à margem?",
+      "Sinto-me visto por Deus na minha aflição?"
+    ],
+    "oratio_guia": "Deus que me vês e me ouves, encontra-me no meu deserto. Faze-me ver os que estão à margem e ouvir a sua aflição. Amém.",
+    "contemplatio_foco": {
+      "texto": "não vi eu, aqui mesmo, o Deus que me via?",
+      "ref": "Gn 16,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

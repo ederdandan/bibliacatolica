@@ -1,0 +1,40 @@
+{
+  "id": "EXO.17.1",
+  "livro": "EXO",
+  "titulo": "A água da rocha e as mãos erguidas de Moisés",
+  "secao": "No deserto",
+  "referencia": "Ex 17,1-16",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A água da rocha e as mãos erguidas na oração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Rafidim não há água; o povo contende com Moisés: dá-nos água! Por que nos tiraste do Egito? Moisés clama ao Senhor: daqui a pouco me apedrejarão. Deus manda: toma o cajado e vai; “eu estarei diante de ti sobre a pedra do Horeb; ferirás a pedra e dela sairá água”. O lugar se chama Massa e Meriba, porque tentaram o Senhor, dizendo: “O Senhor está ou não no meio de nós?” Depois Amalec ataca. Josué combate na planície; Moisés sobe ao monte com Aarão e Hur. “Quando Moisés tinha as mãos levantadas, Israel vencia”; quando as abaixava, vencia Amalec. Como as mãos pesam, sentam-no numa pedra e Aarão e Hur lhe sustentam os braços até o pôr do sol. Israel vence.",
+    "alegorico": "“A pedra era Cristo” (1Cor 10,4): do seu lado ferido brotam sangue e água. Moisés com os braços estendidos foi visto pelos Padres como figura de Cristo na cruz, que vence o inimigo com os braços abertos.",
+    "moral": "A pergunta “o Senhor está ou não no meio de nós?” é a tentação de toda crise. A oração perseverante decide a batalha; mas sozinhos nos cansamos: precisamos de irmãos que sustentem os nossos braços.",
+    "anagogico": "A água que jorra da rocha anuncia o rio da vida que brota do trono de Deus e do Cordeiro (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dá-nos água para beber.” “Ferirás a pedra e dela sairá água.” “O Senhor está ou não no meio de nós?” “Quando Moisés tinha as mãos levantadas, Israel vencia.” “Aarão e Hur sustentavam-lhe as mãos de um e de outro lado.”",
+    "meditatio_perguntas": [
+      "Em que crise pergunto se Deus está no meio de nós?",
+      "Persevero na oração mesmo quando os braços pesam?",
+      "Quem sustenta os meus braços? De quem sustento os braços?"
+    ],
+    "oratio_guia": "Senhor, que fizeste brotar água da rocha, sacia a minha sede. Dá-me perseverar na oração com os braços erguidos e manda-me irmãos que me sustentem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando Moisés tinha as mãos levantadas, Israel vencia",
+      "ref": "Ex 17,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

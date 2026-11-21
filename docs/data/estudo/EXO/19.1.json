@@ -1,0 +1,40 @@
+{
+  "id": "EXO.19.1",
+  "livro": "EXO",
+  "titulo": "Sereis para mim um reino sacerdotal e uma nação santa",
+  "secao": "A aliança do Sinai",
+  "referencia": "Ex 19,1-25",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Um reino de sacerdotes e uma nação santa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No terceiro mês após a saída do Egito, Israel acampa diante do Sinai. Deus chama Moisés do monte: “Vistes como vos levei sobre asas de águia e vos trouxe a mim. Agora, se ouvirdes a minha voz e guardardes a minha aliança, sereis a minha propriedade entre todos os povos; sereis para mim um reino de sacerdotes e uma nação santa”. O povo responde: faremos tudo o que o Senhor disse. Deus manda santificar o povo dois dias, lavar as vestes, marcar limites ao redor do monte. No terceiro dia, trovões, relâmpagos, nuvem espessa e som de trombeta; o monte fumega, porque o Senhor desce sobre ele em fogo; tudo treme. Moisés fala e Deus lhe responde.",
+    "alegorico": "São Pedro aplica à Igreja: “Vós sois raça eleita, sacerdócio real, nação santa” (1Pd 2,9). O fogo e o som do Sinai reaparecem em Pentecostes (At 2,2-3), quando é dada a nova Lei, o Espírito, cinquenta dias depois da Páscoa.",
+    "moral": "A aliança começa pelo que Deus fez (“vos levei sobre asas de águia”); a lei é resposta de amor. Todo batizado participa do sacerdócio comum. Aproximar-se de Deus pede preparação e purificação.",
+    "anagogico": "O povo reunido diante da montanha santa anuncia a assembleia festiva dos primogênitos no monte Sião celeste (Hb 12,18-24)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vistes como vos levei sobre asas de águia, e vos trouxe a mim.” “Se ouvirdes a minha voz e observardes a minha aliança, sereis para mim a porção escolhida.” “Sereis para mim um reino sacerdotal e uma nação santa.” “Faremos tudo o que o Senhor disse.”",
+    "meditatio_perguntas": [
+      "Recordo como Deus me levou “sobre asas de águia”?",
+      "Vivo o meu sacerdócio batismal?",
+      "Preparo-me para encontrar a Deus na liturgia?"
+    ],
+    "oratio_guia": "Senhor, que me levaste sobre asas de águia e me trouxeste a ti, faze-me ouvir a tua voz e guardar a tua aliança. Que eu viva como membro do teu povo sacerdotal e santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sereis para mim um reino sacerdotal e uma nação santa",
+      "ref": "Ex 19,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

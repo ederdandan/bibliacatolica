@@ -1,0 +1,40 @@
+{
+  "id": "EXO.15.1",
+  "livro": "EXO",
+  "titulo": "O cântico de Moisés",
+  "secao": "As pragas e a Páscoa",
+  "referencia": "Ex 15,1-27",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "O cântico da vitória e as águas amargas adoçadas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés e os israelitas cantam: “Cantemos ao Senhor, porque se cobriu de glória; precipitou no mar o cavalo e o cavaleiro. O Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação. Ele é o meu Deus, eu o glorificarei”. O cântico celebra o Senhor guerreiro, a sua destra poderosa, o mar que engoliu os inimigos, e o povo conduzido ao monte da sua herança: “O Senhor reinará para sempre”. Maria, a profetisa, irmã de Aarão, toma o tamborim e as mulheres dançam. Três dias depois, em Mara, as águas são amargas; o povo murmura; Deus mostra a Moisés um lenho que, lançado na água, a torna doce: “Eu sou o Senhor, que te curo”.",
+    "alegorico": "O cântico de Moisés é cantado na Vigília Pascal e reaparece no céu como “cântico de Moisés e do Cordeiro” (Ap 15,3). O lenho que adoça as águas amargas foi lido pelos Padres como a cruz de Cristo, que torna doce o que era amargo.",
+    "moral": "Depois da salvação, o louvor; mas logo a prova (águas amargas) revela a fragilidade da fé. Deus se revela como médico: “Eu sou o Senhor que te curo”. A cruz transforma as amarguras.",
+    "anagogico": "“O Senhor reinará eternamente” é o grito da liturgia celeste, ao fim de todos os êxodos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cantemos ao Senhor, porque se cobriu de glória.” “O Senhor é a minha fortaleza, para ele o meu louvor. Foi a minha salvação.” “O Senhor reinará eternamente.” “O Senhor mostrou-lhe um lenho, o qual, tendo-o lançado nas águas, as tornou doces.” “Eu sou o Senhor que te curo.”",
+    "meditatio_perguntas": [
+      "Canto a Deus depois das vitórias que Ele me dá?",
+      "Quanto tempo leva para eu murmurar depois de um milagre?",
+      "Que água amarga peço que a cruz de Cristo adoce?"
+    ],
+    "oratio_guia": "Cantarei ao Senhor, minha força e meu louvor! Senhor que me curas, lança o lenho da cruz nas minhas águas amargas e torna-as doces. Reina para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é a minha fortaleza, para ele o meu louvor",
+      "ref": "Ex 15,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GEN.40.1",
+  "livro": "GEN",
+  "titulo": "José explica os sonhos e governa o Egito",
+  "secao": "José e os seus irmãos",
+  "referencia": "Gn 40,1–41,57",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 57
+  },
+  "liturgia": {
+    "tema_central": "Da prisão ao governo: Deus revela pelos humildes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na prisão, o copeiro e o padeiro do Faraó têm sonhos; José os interpreta: “Não é a Deus que pertence a interpretação?” O copeiro será restabelecido; o padeiro, enforcado. Assim acontece, mas o copeiro esquece José. Dois anos depois, o Faraó sonha com sete vacas gordas devoradas por sete magras, e sete espigas cheias devoradas por sete mirradas. Ninguém interpreta. O copeiro lembra-se de José. Este diz: “Não sou eu; Deus dará ao Faraó resposta favorável”: virão sete anos de fartura e sete de fome; convém armazenar. O Faraó exclama: “Poderemos achar um homem como este, cheio do espírito de Deus?”, e o põe sobre todo o Egito. José, aos trinta anos, armazena trigo; tem dois filhos, Manassés e Efraim. A fome chega; o Faraó diz a todos: “Ide a José”.",
+    "alegorico": "José exaltado de servo a senhor, aos trinta anos, que alimenta o mundo na fome, prefigura Cristo exaltado depois da humilhação e Pão da vida; “Ide a José” foi aplicado também a São José, guardião do Pão do céu.",
+    "moral": "José não usa os dons para si: dá a glória a Deus. A esquecimento dos outros (o copeiro) não impede a obra de Deus. A prudência administrativa, armazenar na fartura para a escassez, é virtude.",
+    "anagogico": "O celeiro aberto a todos os povos na fome anuncia a abundância do banquete eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não é a Deus que pertence a interpretação?” “Não sou eu, Deus dará ao Faraó uma resposta favorável.” “Poderemos nós encontrar um homem como este, que esteja tão cheio de espírito de Deus?” “Ide a José.”",
+    "meditatio_perguntas": [
+      "Atribuo a Deus os dons que tenho?",
+      "Sei esperar quando sou esquecido?",
+      "Sou previdente na fartura para servir na escassez?"
+    ],
+    "oratio_guia": "Senhor, que exaltaste José da prisão ao governo, dá-me o teu Espírito para servir com sabedoria. Que eu dê a ti a glória e partilhe o pão com os que têm fome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Poderemos nós encontrar um homem como este, que esteja (tão) cheio de espírito de Deus?",
+      "ref": "Gn 41,38"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GEN.22.1",
+  "livro": "GEN",
+  "titulo": "O sacrifício de Isaac: Deus proverá",
+  "secao": "Abraão, pai dos crentes",
+  "referencia": "Gn 22,1-24",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Deus proverá: a fé provada de Abraão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus põe Abraão à prova: “Toma o teu filho, o teu único filho, a quem amas, Isaac, e oferece-o em holocausto no monte que eu te mostrar”. De madrugada Abraão parte com Isaac, a lenha e o fogo. Isaac carrega a lenha e pergunta: “Eis o fogo e a lenha; onde está o cordeiro?” — “Deus proverá a vítima, meu filho.” No monte, Abraão ata o filho sobre o altar e levanta a faca; o anjo o detém: “Agora sei que temes a Deus, pois não me recusaste o teu filho único”. Abraão vê um carneiro preso pelos chifres e o oferece. Chama o lugar “O Senhor proverá”. Deus jura: porque obedeceste, em tua descendência serão abençoadas todas as nações.",
+    "alegorico": "O Pai que não poupa o Filho único (Rm 8,32); Isaac que carrega a lenha como Cristo carrega a cruz; o monte Moriá, tradicionalmente o lugar do templo, próximo do Calvário. O cordeiro “provido por Deus” é Cristo, o Cordeiro de Deus (Jo 1,29).",
+    "moral": "A fé madura entrega a Deus até o que mais ama, confiando que Ele dá a vida (Hb 11,17-19). Deus não quer sacrifícios humanos: o seu “não” à morte de Isaac é revelação. Nas provações, a palavra é: “Deus proverá”.",
+    "anagogico": "Isaac “recebido de volta” da morte é figura da Ressurreição; a bênção às nações se cumpre na Igreja universal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma o teu filho único, Isaac, a quem amas.” “Isaac levava a lenha.” “Meu pai… onde está a vítima para o holocausto?” “Meu filho, Deus proverá a vítima para o seu holocausto.” “Caminhavam, pois, ambos juntos.”",
+    "meditatio_perguntas": [
+      "O que eu teria dificuldade de entregar a Deus?",
+      "Confio que “Deus proverá” nas minhas provas?",
+      "Contemplo o Pai que deu o seu Filho único por mim?"
+    ],
+    "oratio_guia": "Pai, que não poupaste o teu Filho único, mas o entregaste por nós, dá-me a fé de Abraão. Nas minhas provas, que eu diga com confiança: Deus proverá. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus deparará a vítima para o seu holocausto. Caminhavam, pois, ambos juntos",
+      "ref": "Gn 22,8"
+    }
+  },
+  "ancoras": {
+    "22:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moriá foi identificado pela tradição judaica com o monte do templo de Jerusalém (2Cr 3,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

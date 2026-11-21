@@ -1,0 +1,40 @@
+{
+  "id": "GEN.42.1",
+  "livro": "GEN",
+  "titulo": "A primeira viagem dos irmãos ao Egito",
+  "secao": "José e os seus irmãos",
+  "referencia": "Gn 42,1-38",
+  "ini": {
+    "c": 42,
+    "v": 1
+  },
+  "fim": {
+    "c": 42,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "A consciência desperta dos irmãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó envia dez filhos ao Egito para comprar trigo, retendo Benjamim. Eles se prostram diante de José, que os reconhece, mas eles não o reconhecem; lembra-se dos sonhos. Trata-os com dureza, acusa-os de espiões, prende-os três dias. Exige que tragam o irmão mais novo e retém Simeão. Os irmãos dizem entre si: “Justamente sofremos isto, porque pecamos contra o nosso irmão, vendo a angústia da sua alma quando nos suplicava, e não o ouvimos”. José se afasta e chora. Devolve o dinheiro nos sacos; eles se assustam: que é isto que Deus nos fez? Jacó recusa enviar Benjamim: “Fareis descer os meus cabelos brancos com dor à sepultura”.",
+    "alegorico": "Os irmãos que não reconhecem José, que os provê de pão, são figura daqueles que não reconhecem Cristo; o caminho de reconhecimento passa pela memória do pecado e pelo arrependimento.",
+    "moral": "A consciência adormecida desperta na provação: a culpa antiga vem à tona. José não se vinga, mas conduz os irmãos a reconhecer o mal feito, condição para a verdadeira reconciliação. Ele chora: o perdão custa.",
+    "anagogico": "O dinheiro devolvido gratuitamente nos sacos anuncia a graça que não se compra e a reconciliação final dos irmãos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os irmãos de José prostraram-se diante dele.” “Justamente sofremos estas coisas porque pecamos contra o nosso irmão, vendo a angústia do seu coração, quando nos suplicava, e nós o não atendemos.” “José retirou-se um pouco e chorou.”",
+    "meditatio_perguntas": [
+      "Que pecado antigo a minha consciência me recorda?",
+      "Ignorei a “angústia” de alguém que me suplicava?",
+      "Como conduzo o outro à verdade sem me vingar?"
+    ],
+    "oratio_guia": "Senhor, desperta a minha consciência adormecida. Que eu reconheça as angústias que causei e não ouvi. Dá-me um coração que perdoa e chora como José. Amém.",
+    "contemplatio_foco": {
+      "texto": "Justamente sofremos estas coisas porque pecamos contra o nosso irmão",
+      "ref": "Gn 42,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

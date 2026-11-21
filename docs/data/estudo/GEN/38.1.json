@@ -1,0 +1,49 @@
+{
+  "id": "GEN.38.1",
+  "livro": "GEN",
+  "titulo": "Judá e Tamar",
+  "secao": "José e os seus irmãos",
+  "referencia": "Gn 38,1-30",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Judá e Tamar: ela é mais justa do que eu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judá se afasta dos irmãos e casa com uma cananeia; tem três filhos. O primogênito, Her, casa com Tamar e morre; o segundo, Onã, recusa dar descendência ao irmão e morre. Judá adia o casamento de Tamar com o terceiro, Sela. Tamar, vendo-se esquecida, disfarça-se e se senta à entrada de Enaim; Judá, sem a reconhecer, une-se a ela e deixa como penhor o seu selo, o cordão e o bastão. Três meses depois, Tamar está grávida; Judá manda queimá-la. Ela mostra os penhores: “Reconhece de quem são”. Judá confessa: “Ela é mais justa do que eu”. Tamar dá à luz gêmeos, Farés e Zara.",
+    "alegorico": "Tamar aparece na genealogia de Jesus (Mt 1,3): Deus escreve a história da salvação também com linhas tortas e com mulheres estrangeiras e marginalizadas, mostrando que o Messias assume a história real, com as suas sombras.",
+    "moral": "Judá é rápido em condenar a mulher e lento em ver o próprio pecado. A sua confissão (“ela é mais justa do que eu”) é o início da sua conversão, que culminará na súplica por Benjamim. A justiça para com a viúva é dever.",
+    "anagogico": "Farés, ancestral de Davi e de Cristo, mostra que Deus conduz a promessa através de todas as fragilidades até a sua plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Reconhece de quem é este anel, e este cordão, e este bastão.” “Ela é mais justa do que eu, pois que a não entreguei a meu filho Sela.”",
+    "meditatio_perguntas": [
+      "Sou rápido para condenar e lento para ver o meu pecado?",
+      "Sei reconhecer “ela é mais justa do que eu”?",
+      "Como Deus escreve a minha história com as linhas tortas?"
+    ],
+    "oratio_guia": "Senhor, que inscreveste Tamar na genealogia do teu Filho, dá-me a humildade de reconhecer as minhas injustiças. Escreve reto a minha história com as minhas linhas tortas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ela é mais justa do que eu",
+      "ref": "Gn 38,26"
+    }
+  },
+  "ancoras": {
+    "38:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei do levirato (Dt 25,5-10) obrigava o cunhado a dar descendência ao irmão morto; Onã o recusa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

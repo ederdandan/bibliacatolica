@@ -1,0 +1,40 @@
+{
+  "id": "GEN.29.1",
+  "livro": "GEN",
+  "titulo": "Jacó, Lia e Raquel",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 29,1–30,43",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "O enganador enganado; o amor que torna os anos breves",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó chega a Harã e, junto ao poço, encontra Raquel, filha de Labão; remove a pedra, dá de beber ao rebanho, beija-a e chora. Labão o acolhe. Jacó ama Raquel e serve sete anos por ela, “que lhe pareceram poucos dias, pelo amor que lhe tinha”. Na noite das núpcias, Labão lhe dá Lia, a mais velha; Jacó, que enganara o pai, é enganado. Serve mais sete anos por Raquel. O Senhor vê que Lia é menos amada e a torna fecunda: Rúben, Simeão, Levi, Judá (“desta vez louvarei o Senhor”). Raquel, estéril, tem ciúmes; as servas dão filhos a Jacó. Por fim Deus se lembra de Raquel, que dá à luz José. Jacó enriquece com astúcia nos rebanhos de Labão.",
+    "alegorico": "Lia, menos amada mas fecunda, mãe de Levi (sacerdócio) e de Judá (realeza e o Messias), foi lida como figura da Sinagoga e da vida ativa; Raquel, a amada, como figura da Igreja e da contemplação (São Gregório Magno).",
+    "moral": "Quem engana será enganado: Deus educa Jacó pela experiência. O amor verdadeiro torna leves os sacrifícios. Deus olha com especial cuidado os menos amados, como Lia.",
+    "anagogico": "Os doze filhos de Jacó, que nascem em meio a rivalidades, darão origem às doze tribos, imagem do povo de Deus reunido na cidade celeste (Ap 21,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jacó serviu sete anos por Raquel, e estes lhe pareceram poucos dias pela grandeza do amor que lhe tinha.” “Por que me enganaste?” “Vendo o Senhor que Lia era desprezada, tornou-a fecunda.” “Desta vez louvarei o Senhor.”",
+    "meditatio_perguntas": [
+      "O amor torna leves os meus sacrifícios?",
+      "Que “engano” sofri que me fez lembrar os meus?",
+      "Vejo os “menos amados” como Deus os vê?"
+    ],
+    "oratio_guia": "Senhor, que olhas para Lia, a menos amada, olha também para os esquecidos. Dá-me um amor que torne breves os anos de serviço, e cura em mim a astúcia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jacob, pois, serviu sete anos por Raquel, e estes lhe pareceram poucos dias pela grandeza do amor",
+      "ref": "Gn 29,20"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

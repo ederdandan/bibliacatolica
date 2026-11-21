@@ -1,0 +1,49 @@
+{
+  "id": "EXO.7.1",
+  "livro": "EXO",
+  "titulo": "As primeiras pragas: o dedo de Deus",
+  "secao": "As pragas e a Páscoa",
+  "referencia": "Ex 7,1–8,32",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "As primeiras pragas: o dedo de Deus e o coração endurecido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés, com oitenta anos, e Aarão, com oitenta e três, apresentam-se ao Faraó. O cajado de Aarão se transforma em serpente e devora as dos magos. Começam as pragas: as águas do Nilo se tornam sangue, os peixes morrem; os magos imitam, e o coração do Faraó se endurece. Rãs invadem as casas; o Faraó pede que Moisés reze, promete, mas volta atrás quando há alívio. Mosquitos: os magos não conseguem e dizem: “Aqui está o dedo de Deus”. Moscas: Deus faz distinção, poupando Gessém, onde vive o seu povo; o Faraó oferece meias soluções (sacrificai aqui na terra), mas de novo se endurece.",
+    "alegorico": "O “dedo de Deus” reaparece na boca de Jesus: “se eu expulso os demônios pelo dedo de Deus, chegou a vós o Reino” (Lc 11,20); a liturgia chama o Espírito Santo “dedo da mão direita do Pai” (Veni Creator).",
+    "moral": "O coração endurecido promete na aflição e esquece no alívio. As meias soluções (“sacrificai aqui mesmo”) são estratégia do mal para impedir a verdadeira libertação. Reconhecer o “dedo de Deus” é o começo da sabedoria.",
+    "anagogico": "A distinção entre Gessém e o Egito anuncia o juízo final, em que Deus distinguirá os seus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Repara que te constituí deus de Faraó.” “O coração de Faraó endureceu-se.” “Orai ao Senhor.” “Os magos disseram a Faraó: O dedo de Deus está aqui.” “Farei distinção entre o meu povo e o teu povo.”",
+    "meditatio_perguntas": [
+      "Prometo muito a Deus na aflição e esqueço no alívio?",
+      "Que “meias soluções” ofereço em vez de uma conversão total?",
+      "Reconheço o “dedo de Deus” nos acontecimentos?"
+    ],
+    "oratio_guia": "Senhor, não permitas que o meu coração se endureça. Faze-me reconhecer o teu dedo na minha vida e livra-me das meias medidas na conversão. Amém.",
+    "contemplatio_foco": {
+      "texto": "O dedo de Deus está aqui",
+      "ref": "Ex 8,19"
+    }
+  },
+  "ancoras": {
+    "7:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Endurecerei o coração do Faraó”: linguagem semítica que atribui a Deus o que Ele permite; o próprio texto diz também que o Faraó endureceu o seu coração (8,15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

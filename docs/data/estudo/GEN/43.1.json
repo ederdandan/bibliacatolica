@@ -1,0 +1,40 @@
+{
+  "id": "GEN.43.1",
+  "livro": "GEN",
+  "titulo": "Benjamim e a súplica de Judá",
+  "secao": "José e os seus irmãos",
+  "referencia": "Gn 43,1–44,34",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Judá oferece a si mesmo em lugar do irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A fome aperta; Judá se responsabiliza por Benjamim, e Jacó o deixa partir: “Deus Todo-Poderoso vos torne propício esse homem”. No Egito, José convida os irmãos para comer em sua casa; ao ver Benjamim, comove-se e vai chorar em particular. Senta-os por ordem de idade, para espanto deles; a porção de Benjamim é cinco vezes maior. Na partida, José manda pôr a sua taça de prata no saco de Benjamim; depois os faz alcançar e acusar. A taça é encontrada; eles rasgam as vestes e voltam. Judá se aproxima de José e faz uma longa súplica: o pai morrerá se o menino não voltar; “eu ficarei como teu escravo em lugar do menino, e o menino volte com os seus irmãos”.",
+    "alegorico": "Judá, que antes vendeu José, agora se oferece em lugar de Benjamim: figura de Cristo, Leão de Judá, que se oferece em lugar dos irmãos para que voltem livres ao Pai.",
+    "moral": "A conversão de Judá é completa: da venda do irmão à oferta de si mesmo pelo irmão. O amor verdadeiro se mede pela disposição de substituir o outro na pena. A provação revela o coração.",
+    "anagogico": "O banquete na casa de José, onde os irmãos comem com ele, antecipa o banquete em que Cristo recebe os irmãos reconciliados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu tomo o menino sobre mim; da minha mão o reclamarás.” “José… se comoveu profundamente por causa de seu irmão, e saiu e chorou.” “Eu ficarei teu escravo, em lugar do menino, e o menino volte com seus irmãos.”",
+    "meditatio_perguntas": [
+      "Já passei da indiferença ao sacrifício pelo irmão?",
+      "Estou disposto a pagar a pena no lugar de outro?",
+      "Contemplo Jesus que se oferece em meu lugar?"
+    ],
+    "oratio_guia": "Senhor Jesus, Leão de Judá, que te ofereceste em meu lugar, converte o meu coração como converteste o de Judá. Que eu saiba dar-me pelos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu ficarei teu escravo, em lugar do menino",
+      "ref": "Gn 44,33"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GEN.17.1",
+  "livro": "GEN",
+  "titulo": "O nome de Abraão e a circuncisão",
+  "secao": "Abraão, pai dos crentes",
+  "referencia": "Gn 17,1-27",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Anda na minha presença: o nome novo e o sinal da aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abrão tem noventa e nove anos quando o Senhor lhe aparece: “Eu sou o Deus onipotente; anda na minha presença e sê perfeito”. Abrão prostra-se. Deus estabelece a aliança: serás pai de muitas nações; não te chamarás mais Abrão, mas Abraão; darei a ti e à tua descendência a terra de Canaã; serei o vosso Deus. Sinal da aliança: a circuncisão de todo varão ao oitavo dia. Sarai passa a chamar-se Sara: dela terás um filho, e ela será mãe de nações. Abraão ri, pensando na idade; Deus confirma: Sara dará à luz Isaac, com quem farei aliança eterna; também Ismael será abençoado. Naquele dia Abraão circuncida todos os da sua casa.",
+    "alegorico": "A circuncisão prefigura o batismo, “circuncisão de Cristo” no coração (Cl 2,11-12). O nome novo anuncia o nome cristão recebido no batismo; o oitavo dia evoca a Ressurreição.",
+    "moral": "“Anda na minha presença e sê perfeito”: programa de toda a vida espiritual. A aliança exige resposta concreta, marcada no corpo e na vida. Deus muda nomes porque muda destinos.",
+    "anagogico": "A aliança “eterna” aponta para a comunhão definitiva em que Deus será “o nosso Deus” para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou o Deus onipotente; anda em minha presença e sê perfeito.” “Não te chamarás mais Abrão, mas Abraão.” “Estabelecerei a minha aliança… para ser o teu Deus.” “Há porventura coisa difícil para Deus?”",
+    "meditatio_perguntas": [
+      "Vivo na presença de Deus durante o dia?",
+      "Que “nome novo” Deus me deu no batismo?",
+      "Como a minha vida mostra o sinal da aliança?"
+    ],
+    "oratio_guia": "Deus onipotente, ensina-me a andar na tua presença e ser perfeito. Que eu viva segundo o nome novo que me deste no batismo e guarde fielmente a tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "anda em minha presença e sê perfeito",
+      "ref": "Gn 17,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GEN.10.1",
+  "livro": "GEN",
+  "titulo": "As nações e a torre de Babel",
+  "secao": "As origens do mundo e da humanidade",
+  "referencia": "Gn 10,1–11,32",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "As nações dispersas e a soberba de Babel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A “tábua das nações” enumera os descendentes de Jafé, Cam e Sem, povos espalhados pela terra segundo as suas línguas. Depois, o relato de Babel: toda a terra tinha uma só língua. Os homens dizem: “Vinde, façamos uma cidade e uma torre cujo cimo chegue ao céu, e tornemos célebre o nosso nome”. O Senhor desce para ver e confunde a sua linguagem, para que não se entendam; dispersa-os pela terra. Por isso a cidade se chama Babel. Segue a genealogia de Sem até Taré, pai de Abrão, Nacor e Arã; Taré sai de Ur dos caldeus com Abrão e Sarai, que era estéril, e se estabelece em Harã.",
+    "alegorico": "Pentecostes é o contrário de Babel: o Espírito reúne os povos de todas as línguas na compreensão do mesmo Evangelho (At 2,6-11). A Igreja é a cidade construída não para “fazer um nome”, mas para glorificar o nome de Deus.",
+    "moral": "A unidade construída sobre a soberba (“façamos um nome”) termina em confusão. O projeto humano sem Deus divide. A verdadeira comunhão nasce de receber o dom de Deus e servir ao seu nome.",
+    "anagogico": "A multidão de toda nação, tribo, povo e língua diante do trono (Ap 7,9) é a reunificação final dos povos dispersos em Babel."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a terra tinha uma só língua.” “Vinde, façamos para nós uma cidade e uma torre, cujo cimo chegue até ao céu, e tornemos célebre o nosso nome.” “O Senhor desceu para ver a cidade.” “Ali foi confundida a linguagem de toda a terra.”",
+    "meditatio_perguntas": [
+      "Que “torre” construo para fazer o meu nome?",
+      "Onde a soberba divide a minha família ou comunidade?",
+      "Peço o Espírito que une as diferenças?"
+    ],
+    "oratio_guia": "Senhor, derruba as torres da minha soberba. Envia o teu Espírito, que em Pentecostes reuniu os povos, e faze-nos construir a cidade que glorifica o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "façamos para nós uma cidade e uma torre, cujo cimo chegue até ao céu",
+      "ref": "Gn 11,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

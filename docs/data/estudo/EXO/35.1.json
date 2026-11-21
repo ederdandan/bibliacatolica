@@ -1,0 +1,49 @@
+{
+  "id": "EXO.35.1",
+  "livro": "EXO",
+  "titulo": "A construção do tabernáculo e a glória que o enche",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 35,1–40,36",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "A generosidade do povo e a glória que enche a morada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés reúne o povo, lembra o sábado e convida às ofertas para o santuário. Todos os de coração generoso trazem ouro, prata, tecidos, pedras, azeite; as mulheres hábeis fiam. Trazem tanto que Moisés precisa mandar parar: há mais do que o necessário. Beseleel e Ooliab, cheios do Espírito, com os artesãos, constroem tudo conforme o Senhor ordenara: o tabernáculo, a arca, a mesa, o candelabro, os altares, as vestes sacerdotais. Moisés vê a obra e abençoa o povo. No primeiro dia do primeiro mês do segundo ano, o tabernáculo é erguido e consagrado. “A nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu.” Quando a nuvem se levantava, o povo partia.",
+    "alegorico": "A glória que enche a tenda prefigura a Encarnação (a nuvem que cobre Maria com a sua sombra, Lc 1,35) e a presença de Cristo na Igreja. O povo que parte quando a nuvem se levanta é a Igreja peregrina guiada pelo Espírito.",
+    "moral": "A generosidade espontânea do povo constrói a casa de Deus; o problema do excesso é belo e raro. A obediência minuciosa (“como o Senhor ordenara”) e a arte inspirada servem à presença de Deus.",
+    "anagogico": "O livro do Êxodo termina com Deus habitando no meio do povo em marcha: imagem da Jerusalém celeste, onde “a tenda de Deus está com os homens” (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo aquele que era de coração generoso ofereceu.” “O povo oferece mais do que é necessário.” “Fizeram tudo como o Senhor tinha ordenado.” “A nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu.”",
+    "meditatio_perguntas": [
+      "Dou a Deus com generosidade espontânea?",
+      "Faço a obra de Deus “como Ele ordenou”, ou à minha maneira?",
+      "Deixo-me guiar pela nuvem, parando e partindo quando Deus quer?"
+    ],
+    "oratio_guia": "Senhor, enche com a tua glória a tua Igreja e a minha vida. Dá-me um coração generoso e dócil, que te ofereça o melhor e siga a tua nuvem até a pátria. Amém.",
+    "contemplatio_foco": {
+      "texto": "a nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu",
+      "ref": "Ex 40,32"
+    }
+  },
+  "ancoras": {
+    "40:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica este versículo é Ex 40,34; a Vulgata tem 38 versículos a menos neste capítulo, por condensar as repetições.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

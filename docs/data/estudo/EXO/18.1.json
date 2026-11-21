@@ -1,0 +1,40 @@
+{
+  "id": "EXO.18.1",
+  "livro": "EXO",
+  "titulo": "Jetro e a organização do povo",
+  "secao": "No deserto",
+  "referencia": "Ex 18,1-27",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Saber partilhar responsabilidades: o conselho de Jetro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jetro, sogro de Moisés, ouve tudo o que Deus fez por Israel e vem ao deserto com Séfora e os dois filhos. Moisés lhe conta as maravilhas; Jetro se alegra e bendiz: “Agora sei que o Senhor é maior que todos os deuses”; oferece sacrifícios, e Aarão e os anciãos comem com ele diante de Deus. No dia seguinte, Jetro vê Moisés julgando o povo da manhã à tarde: “Não está bem o que fazes; acabarás por te consumir”. Aconselha: tu representa o povo diante de Deus e ensina-lhe as leis; escolhe homens capazes, tementes a Deus, verazes, inimigos da cobiça, e põe-nos como chefes de mil, de cem, de cinquenta e de dez. Moisés aceita o conselho.",
+    "alegorico": "A partilha do ministério prefigura a estrutura da Igreja, em que os apóstolos escolhem colaboradores (At 6,1-6) e o ministério se exerce em comunhão.",
+    "moral": "A sabedoria pode vir de fora do povo eleito (Jetro, sacerdote de Madiã). Ninguém deve carregar tudo sozinho; delegar é humildade e prudência. Os critérios para escolher responsáveis: capacidade, temor de Deus, verdade, desapego do dinheiro.",
+    "anagogico": "O povo que volta “em paz para as suas moradas” anuncia a paz da cidade de Deus, bem governada pela justiça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Agora sei que o Senhor é grande sobre todos os deuses.” “Não está bem o que fazes; acabarás por te consumir.” “Escolhe homens capazes, tementes a Deus, verazes, e que aborreçam a avareza.” “Todo este povo voltará em paz para as suas moradas.”",
+    "meditatio_perguntas": [
+      "Aceito conselhos, mesmo de quem “não é dos nossos”?",
+      "Tento carregar tudo sozinho?",
+      "Que critérios uso ao confiar responsabilidades?"
+    ],
+    "oratio_guia": "Senhor, maior que todos os deuses, dá-me a humildade de Moisés para aceitar conselhos e partilhar o peso. Suscita na tua Igreja servidores capazes, verazes e desapegados. Amém.",
+    "contemplatio_foco": {
+      "texto": "todo este povo voltará em paz para as suas moradas",
+      "ref": "Ex 18,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

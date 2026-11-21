@@ -1,0 +1,49 @@
+{
+  "id": "EXO.3.1",
+  "livro": "EXO",
+  "titulo": "A sarça ardente: Eu sou o que sou",
+  "secao": "A opressão e a vocação de Moisés",
+  "referencia": "Ex 3,1-22",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A sarça ardente: Eu sou o que sou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés apascenta o rebanho de Jetro e chega ao Horeb, o monte de Deus. O anjo do Senhor lhe aparece numa chama de fogo no meio de uma sarça, que arde sem se consumir. Moisés se aproxima: “Moisés, Moisés!” — “Eis-me aqui.” — “Não te aproximes; tira as sandálias, porque o lugar onde estás é terra santa. Eu sou o Deus de teu pai, o Deus de Abraão, de Isaac e de Jacó.” Moisés cobre o rosto. “Vi a aflição do meu povo, ouvi o seu clamor, conheço o seu sofrimento; desci para o libertar.” “Vai, eu te envio ao Faraó.” — “Quem sou eu?” — “Eu estarei contigo.” Moisés pergunta o nome: “Eu sou o que sou… Aquele que é me enviou a vós”.",
+    "alegorico": "A sarça que arde sem se consumir foi vista pelos Padres como figura da Virgem Maria, que concebe o Filho de Deus sem perder a virgindade. Jesus aplica a si o nome divino: “Antes que Abraão existisse, Eu sou” (Jo 8,58).",
+    "moral": "Diante de Deus, reverência: tirar as sandálias. Deus vê, ouve, conhece e desce: é um Deus que se envolve com o sofrimento. A vocação começa com a objeção “quem sou eu?” e se resolve na promessa “eu estarei contigo”.",
+    "anagogico": "“Aquele que é” é o Deus eterno; conhecê-lo pelo seu nome é o início da vida eterna, onde o veremos como Ele é."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sarça ardia sem se consumir.” “Moisés, Moisés!” “Eis-me aqui.” “Tira as sandálias de teus pés, porque o lugar em que estás é uma terra santa.” “Vi a aflição do meu povo.” “Eu sou o que sou.”",
+    "meditatio_perguntas": [
+      "Onde Deus me chama a “tirar as sandálias”?",
+      "Creio que Deus vê, ouve e desce ao sofrimento?",
+      "Que “quem sou eu?” apresento a Deus, e ouço a resposta “eu estarei contigo”?"
+    ],
+    "oratio_guia": "Senhor, que és o que és e desceste para libertar o teu povo, fala-me do meio da sarça. Que eu tire as sandálias diante de ti e responda “eis-me aqui”. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o que sou",
+      "ref": "Ex 3,14"
+    }
+  },
+  "ancoras": {
+    "3:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O nome divino YHWH (Iavé) é ligado ao verbo “ser”; por reverência, os judeus o substituem por “Senhor” (Adonai), uso seguido pela tradição cristã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

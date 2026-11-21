@@ -1,0 +1,49 @@
+{
+  "id": "GEN.3.1",
+  "livro": "GEN",
+  "titulo": "A queda e a primeira promessa de salvação",
+  "secao": "As origens do mundo e da humanidade",
+  "referencia": "Gn 3,1-24",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A queda: o pecado, as suas consequências e a promessa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A serpente, a mais astuta, pergunta à mulher: “É verdade que Deus vos proibiu comer de todas as árvores?” Insinua que Deus é ciumento: “Não morrereis; sereis como deuses”. A mulher vê que o fruto é bom, come e dá ao marido. Abrem-se os seus olhos; percebem que estão nus e se escondem. Deus chama: “Adão, onde estás?” Cada um culpa outro. Deus amaldiçoa a serpente: “Porei inimizade entre ti e a mulher, entre a tua descendência e a dela; ela te esmagará a cabeça”. A mulher dará à luz com dor; o homem comerá com suor; voltará ao pó. Deus faz túnicas de pele para eles e os expulsa do jardim; querubins guardam o caminho da árvore da vida.",
+    "alegorico": "Gn 3,15 é chamado “Protoevangelho”: o primeiro anúncio do Redentor, descendente da mulher, que vence a serpente. A tradição viu na Mulher a Virgem Maria, nova Eva, e no seu descendente Cristo, novo Adão (Rm 5,12-19).",
+    "moral": "O pecado começa pela suspeita sobre a bondade de Deus e pelo desejo de decidir sozinho o bem e o mal. As suas consequências são o medo, a vergonha, a acusação mútua e a ruptura com a criação. Mas Deus procura o homem: “onde estás?”.",
+    "anagogico": "O caminho da árvore da vida, fechado pelos querubins, será reaberto por Cristo: “ao vencedor darei a comer da árvore da vida” (Ap 2,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sereis como deuses.” “Ouvi a tua voz no paraíso, e temi.” “O Senhor Deus chamou por Adão, e disse-lhe: Onde estás?” “Porei inimizades entre ti e a mulher… Ela te pisará a cabeça.” “Tu és pó, e ao pó tornarás.”",
+    "meditatio_perguntas": [
+      "Onde estou eu, quando Deus me pergunta “onde estás”?",
+      "Em que desconfio da bondade de Deus?",
+      "Culpo os outros pelos meus pecados?"
+    ],
+    "oratio_guia": "Senhor, que me procuras quando me escondo, perdoa o meu orgulho. Por Cristo, descendente da Mulher, esmaga em mim a cabeça da serpente e reabre-me o caminho da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "E o Senhor Deus chamou por Adão, e disse-lhe: onde estás?",
+      "ref": "Gn 3,9"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata lê ipsa conteret (“ela esmagará”), referindo-se à mulher; o hebraico tem o pronome masculino (“ele”, a descendência). A tradição une as duas leituras em Maria e Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

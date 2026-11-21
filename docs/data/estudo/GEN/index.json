@@ -1,0 +1,515 @@
+{
+ "livro": "GEN",
+ "secoes": [
+  "As origens do mundo e da humanidade",
+  "Abraão, pai dos crentes",
+  "Isaac e Jacó",
+  "José e os seus irmãos"
+ ],
+ "pericopes": [
+  {
+   "id": "GEN.1.1",
+   "titulo": "A criação e o repouso de Deus",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 1,1–2,3",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 3
+   }
+  },
+  {
+   "id": "GEN.2.4",
+   "titulo": "O jardim do Éden: o homem e a mulher",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 2,4-25",
+   "ini": {
+    "c": 2,
+    "v": 4
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "GEN.3.1",
+   "titulo": "A queda e a primeira promessa de salvação",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 3,1-24",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 24
+   }
+  },
+  {
+   "id": "GEN.4.1",
+   "titulo": "Caim e Abel: onde está o teu irmão?",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 4,1-26",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 26
+   }
+  },
+  {
+   "id": "GEN.5.1",
+   "titulo": "A descendência de Adão: Henoc andou com Deus",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 5,1-31",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 31
+   }
+  },
+  {
+   "id": "GEN.6.1",
+   "titulo": "A corrupção da terra e o dilúvio",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 6,1–7,24",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 24
+   }
+  },
+  {
+   "id": "GEN.8.1",
+   "titulo": "A aliança com Noé: o arco nas nuvens",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 8,1–9,29",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 29
+   }
+  },
+  {
+   "id": "GEN.10.1",
+   "titulo": "As nações e a torre de Babel",
+   "secao": "As origens do mundo e da humanidade",
+   "referencia": "Gn 10,1–11,32",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 32
+   }
+  },
+  {
+   "id": "GEN.12.1",
+   "titulo": "O chamado de Abrão",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 12,1-20",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 20
+   }
+  },
+  {
+   "id": "GEN.13.1",
+   "titulo": "Abrão e Ló; Melquisedec oferece pão e vinho",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 13,1–14,24",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 24
+   }
+  },
+  {
+   "id": "GEN.15.1",
+   "titulo": "A aliança com Abrão: creu, e foi-lhe imputado como justiça",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 15,1-21",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 21
+   }
+  },
+  {
+   "id": "GEN.16.1",
+   "titulo": "Agar e Ismael: o Deus que me vê",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 16,1-16",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 16
+   }
+  },
+  {
+   "id": "GEN.17.1",
+   "titulo": "O nome de Abraão e a circuncisão",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 17,1-27",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 27
+   }
+  },
+  {
+   "id": "GEN.18.1",
+   "titulo": "Os três hóspedes em Mambré e a intercessão por Sodoma",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 18,1-33",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 33
+   }
+  },
+  {
+   "id": "GEN.19.1",
+   "titulo": "A destruição de Sodoma e a salvação de Ló",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 19,1-38",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 38
+   }
+  },
+  {
+   "id": "GEN.20.1",
+   "titulo": "O nascimento de Isaac",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 20,1–21,34",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 34
+   }
+  },
+  {
+   "id": "GEN.22.1",
+   "titulo": "O sacrifício de Isaac: Deus proverá",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 22,1-24",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 24
+   }
+  },
+  {
+   "id": "GEN.23.1",
+   "titulo": "A morte de Sara e o casamento de Isaac com Rebeca",
+   "secao": "Abraão, pai dos crentes",
+   "referencia": "Gn 23,1–24,67",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 67
+   }
+  },
+  {
+   "id": "GEN.25.1",
+   "titulo": "Esaú e Jacó: a primogenitura vendida",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 25,1-34",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 34
+   }
+  },
+  {
+   "id": "GEN.26.1",
+   "titulo": "Isaac, herdeiro da promessa, e os poços",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 26,1-35",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 35
+   }
+  },
+  {
+   "id": "GEN.27.1",
+   "titulo": "Jacó recebe a bênção de Isaac",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 27,1–28,9",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 9
+   }
+  },
+  {
+   "id": "GEN.28.10",
+   "titulo": "A escada de Jacó: o Senhor está neste lugar",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 28,10-22",
+   "ini": {
+    "c": 28,
+    "v": 10
+   },
+   "fim": {
+    "c": 28,
+    "v": 22
+   }
+  },
+  {
+   "id": "GEN.29.1",
+   "titulo": "Jacó, Lia e Raquel",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 29,1–30,43",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 43
+   }
+  },
+  {
+   "id": "GEN.31.1",
+   "titulo": "Jacó volta para a terra dos pais",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 31,1-55",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 55
+   }
+  },
+  {
+   "id": "GEN.32.1",
+   "titulo": "Jacó luta com Deus e reconcilia-se com Esaú",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 32,1–33,20",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 20
+   }
+  },
+  {
+   "id": "GEN.34.1",
+   "titulo": "Siquém, a volta a Betel e a descendência de Esaú",
+   "secao": "Isaac e Jacó",
+   "referencia": "Gn 34,1–36,43",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 43
+   }
+  },
+  {
+   "id": "GEN.37.1",
+   "titulo": "José vendido pelos irmãos",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 37,1-37",
+   "ini": {
+    "c": 37,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 37
+   }
+  },
+  {
+   "id": "GEN.38.1",
+   "titulo": "Judá e Tamar",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 38,1-30",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 30
+   }
+  },
+  {
+   "id": "GEN.39.1",
+   "titulo": "José na casa de Putifar",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 39,1-23",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 23
+   }
+  },
+  {
+   "id": "GEN.40.1",
+   "titulo": "José explica os sonhos e governa o Egito",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 40,1–41,57",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 41,
+    "v": 57
+   }
+  },
+  {
+   "id": "GEN.42.1",
+   "titulo": "A primeira viagem dos irmãos ao Egito",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 42,1-38",
+   "ini": {
+    "c": 42,
+    "v": 1
+   },
+   "fim": {
+    "c": 42,
+    "v": 38
+   }
+  },
+  {
+   "id": "GEN.43.1",
+   "titulo": "Benjamim e a súplica de Judá",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 43,1–44,34",
+   "ini": {
+    "c": 43,
+    "v": 1
+   },
+   "fim": {
+    "c": 44,
+    "v": 34
+   }
+  },
+  {
+   "id": "GEN.45.1",
+   "titulo": "Eu sou José, vosso irmão",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 45,1-28",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 45,
+    "v": 28
+   }
+  },
+  {
+   "id": "GEN.46.1",
+   "titulo": "Jacó desce ao Egito",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 46,1–47,31",
+   "ini": {
+    "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 31
+   }
+  },
+  {
+   "id": "GEN.48.1",
+   "titulo": "As bênçãos de Jacó: o cetro não será tirado de Judá",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 48,1–49,32",
+   "ini": {
+    "c": 48,
+    "v": 1
+   },
+   "fim": {
+    "c": 49,
+    "v": 32
+   }
+  },
+  {
+   "id": "GEN.50.1",
+   "titulo": "Deus converteu o mal em bem",
+   "secao": "José e os seus irmãos",
+   "referencia": "Gn 50,1-25",
+   "ini": {
+    "c": 50,
+    "v": 1
+   },
+   "fim": {
+    "c": 50,
+    "v": 25
+   }
+  }
+ ]
+}

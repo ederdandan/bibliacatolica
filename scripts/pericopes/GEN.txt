@@ -1,0 +1,42 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## As origens do mundo e da humanidade
+1:1-2:3 | A criação e o repouso de Deus
+2:4-2:25 | O jardim do Éden: o homem e a mulher
+3:1-3:24 | A queda e a primeira promessa de salvação
+4:1-4:26 | Caim e Abel: onde está o teu irmão?
+5:1-5:31 | A descendência de Adão: Henoc andou com Deus
+6:1-7:24 | A corrupção da terra e o dilúvio
+8:1-9:29 | A aliança com Noé: o arco nas nuvens
+10:1-11:32 | As nações e a torre de Babel
+## Abraão, pai dos crentes
+12:1-12:20 | O chamado de Abrão
+13:1-14:24 | Abrão e Ló; Melquisedec oferece pão e vinho
+15:1-15:21 | A aliança com Abrão: creu, e foi-lhe imputado como justiça
+16:1-16:16 | Agar e Ismael: o Deus que me vê
+17:1-17:27 | O nome de Abraão e a circuncisão
+18:1-18:33 | Os três hóspedes em Mambré e a intercessão por Sodoma
+19:1-19:38 | A destruição de Sodoma e a salvação de Ló
+20:1-21:34 | O nascimento de Isaac
+22:1-22:24 | O sacrifício de Isaac: Deus proverá
+23:1-24:67 | A morte de Sara e o casamento de Isaac com Rebeca
+## Isaac e Jacó
+25:1-25:34 | Esaú e Jacó: a primogenitura vendida
+26:1-26:35 | Isaac, herdeiro da promessa, e os poços
+27:1-28:9 | Jacó recebe a bênção de Isaac
+28:10-28:22 | A escada de Jacó: o Senhor está neste lugar
+29:1-30:43 | Jacó, Lia e Raquel
+31:1-31:55 | Jacó volta para a terra dos pais
+32:1-33:20 | Jacó luta com Deus e reconcilia-se com Esaú
+34:1-36:43 | Siquém, a volta a Betel e a descendência de Esaú
+## José e os seus irmãos
+37:1-37:37 | José vendido pelos irmãos
+38:1-38:30 | Judá e Tamar
+39:1-39:23 | José na casa de Putifar
+40:1-41:57 | José explica os sonhos e governa o Egito
+42:1-42:38 | A primeira viagem dos irmãos ao Egito
+43:1-44:34 | Benjamim e a súplica de Judá
+45:1-45:28 | Eu sou José, vosso irmão
+46:1-47:31 | Jacó desce ao Egito
+48:1-49:32 | As bênçãos de Jacó: o cetro não será tirado de Judá
+50:1-50:25 | Deus converteu o mal em bem

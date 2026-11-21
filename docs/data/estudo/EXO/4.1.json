@@ -1,0 +1,49 @@
+{
+  "id": "EXO.4.1",
+  "livro": "EXO",
+  "titulo": "Os sinais e a volta de Moisés ao Egito",
+  "secao": "A opressão e a vocação de Moisés",
+  "referencia": "Ex 4,1-31",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Os sinais e a fraqueza do enviado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés objeta: não acreditarão em mim. Deus lhe dá sinais: o cajado que vira serpente, a mão que fica leprosa e se cura, a água do Nilo que vira sangue. Moisés insiste: não sou homem eloquente, tenho a boca pesada. “Quem fez a boca do homem? Não sou eu, o Senhor? Vai, eu estarei na tua boca e te ensinarei o que hás de falar.” Moisés ainda pede: envia outro. Deus se irrita, mas lhe dá Aarão como porta-voz. Moisés volta ao Egito com a mulher e os filhos e com o cajado de Deus. Deus diz: Israel é o meu filho primogênito. No caminho, um episódio misterioso de perigo é resolvido pela circuncisão do filho por Séfora. Aarão encontra Moisés; o povo crê e adora.",
+    "alegorico": "O Deus que estará na boca do enviado se cumpre em Cristo, que promete aos discípulos: “não sereis vós que falareis, mas o Espírito do vosso Pai” (Mt 10,20). “Israel, meu filho primogênito” prepara a revelação de Jesus como Filho.",
+    "moral": "Deus não chama os capazes; capacita os chamados. As nossas fraquezas não são desculpa diante de Deus, que fez a boca do homem. Mas Deus também respeita a fraqueza e dá companheiros (Aarão).",
+    "anagogico": "Israel, filho primogênito, aponta para a filiação divina que se consuma quando os filhos de Deus forem revelados na glória (Rm 8,19)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eles não me crerão.” “Eu não sou eloquente.” “Quem fez a boca do homem? Não sou eu?” “Vai, pois, e eu estarei na tua boca e te ensinarei o que deverás dizer.” “Israel é o meu filho primogênito.”",
+    "meditatio_perguntas": [
+      "Que desculpas apresento a Deus para não cumprir a missão?",
+      "Creio que Ele estará na minha boca?",
+      "Aceito a ajuda de outros na missão?"
+    ],
+    "oratio_guia": "Senhor, que fizeste a minha boca, está nela e ensina-me o que devo dizer. Não olhes para as minhas desculpas, mas para a tua promessa, e dá-me irmãos para a missão. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu estarei na tua toca e te ensinarei o que deverás dizer",
+      "ref": "Ex 4,12"
+    }
+  },
+  "ancoras": {
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Toca” é erro tipográfico da edição digital por “boca”; mantém-se a citação literal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

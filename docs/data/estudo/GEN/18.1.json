@@ -1,0 +1,40 @@
+{
+  "id": "GEN.18.1",
+  "livro": "GEN",
+  "titulo": "Os três hóspedes em Mambré e a intercessão por Sodoma",
+  "secao": "Abraão, pai dos crentes",
+  "referencia": "Gn 18,1-33",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "A hospitalidade que acolhe Deus e a intercessão do justo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No calor do dia, junto aos carvalhos de Mambré, Abraão vê três homens. Corre ao seu encontro, prostra-se e os convida: lava-lhes os pés, Sara amassa pães, ele prepara um vitelo. Perguntam por Sara: “Daqui a um ano ela terá um filho”. Sara ri atrás da tenda. “Há alguma coisa difícil para Deus?” Depois o Senhor revela a Abraão que vai examinar Sodoma. Abraão intercede com ousadia: “Destruirás o justo com o ímpio? Se houver cinquenta justos…” Desce até dez: “Não a destruirei por causa dos dez”. Abraão, que se reconhece “pó e cinza”, fala ao Senhor como amigo.",
+    "alegorico": "Os Padres viram nos três visitantes, a quem Abraão fala no singular, uma figura da Trindade; o ícone de Rublev o representa assim. A hospitalidade de Abraão inspira Hb 13,2: “alguns, sem saber, hospedaram anjos”.",
+    "moral": "Acolher o hóspede é acolher a Deus. A intercessão é ousada e humilde: Abraão negocia pela cidade, reconhecendo-se pó. Poucos justos podem salvar muitos.",
+    "anagogico": "O banquete de Mambré antecipa o banquete do Reino, onde Deus mesmo serve os seus (Lc 12,37)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor, se achei graça diante de teus olhos, não passes adiante.” “Há porventura alguma coisa difícil a Deus?” “Destruirás o justo com o ímpio?” “Falarei ao meu Senhor, ainda que seja pó e cinza.” “Não a destruirei por causa dos dez.”",
+    "meditatio_perguntas": [
+      "Pratico a hospitalidade como acolhida de Deus?",
+      "Rio, como Sara, das promessas que parecem impossíveis?",
+      "Por quem intercedo com a ousadia de Abraão?"
+    ],
+    "oratio_guia": "Senhor, não passes adiante sem entrar na minha tenda. Dá-me a hospitalidade de Abraão e a sua ousadia na intercessão. Nada é difícil para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Há porventura alguma coisa (que seja) difícil a Deus?",
+      "ref": "Gn 18,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

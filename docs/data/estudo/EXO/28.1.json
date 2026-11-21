@@ -1,0 +1,40 @@
+{
+  "id": "EXO.28.1",
+  "livro": "EXO",
+  "titulo": "As vestes e a consagração dos sacerdotes",
+  "secao": "O santuário e o sacerdócio",
+  "referencia": "Ex 28,1–29,46",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "O sacerdote leva o povo sobre o coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus escolhe Aarão e os filhos para o sacerdócio e descreve as vestes sagradas, “para glória e ornamento”: o efod, com duas pedras de ônix gravadas com os nomes das tribos, sobre os ombros; o peitoral do juízo, com doze pedras preciosas com os nomes dos filhos de Israel, “sobre o coração” de Aarão quando entra no santuário; o manto com romãs e campainhas de ouro; a lâmina de ouro na testa com a inscrição “Santo ao Senhor”. O capítulo 29 descreve a consagração: banho, vestição, unção com óleo, sacrifícios, sangue posto na orelha, no polegar e no pé. Deus conclui: “Habitarei no meio dos filhos de Israel e serei o seu Deus”.",
+    "alegorico": "Cristo é o Sumo Sacerdote que leva os nossos nomes sobre os ombros e no coração diante do Pai (Hb 4,14-16; 7,25). As vestes sacerdotais da liturgia cristã guardam memória deste simbolismo.",
+    "moral": "Quem exerce um ministério leva os outros “sobre os ombros e sobre o coração”: interceder é carregar o povo diante de Deus. A santidade (“Santo ao Senhor”) deve ser visível. O sangue nas orelhas, mãos e pés indica consagração total: ouvir, agir e caminhar para Deus.",
+    "anagogico": "O sacerdócio eterno de Cristo no santuário celeste é a plenitude deste culto figurado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Farás vestes sagradas a Aarão, teu irmão, para glória e ornamento.” “Aarão levará os nomes dos filhos de Israel sobre o seu coração.” “Santo ao Senhor.” “Habitarei no meio dos filhos de Israel, serei o seu Deus.”",
+    "meditatio_perguntas": [
+      "Levo no coração, diante de Deus, as pessoas que me foram confiadas?",
+      "Rezo pelos sacerdotes?",
+      "Minha vida inteira (ouvido, mãos, pés) está consagrada a Deus?"
+    ],
+    "oratio_guia": "Jesus, Sumo Sacerdote, que levas o meu nome sobre o teu coração, santifica os sacerdotes da tua Igreja. Que eu também leve os meus irmãos no coração diante do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Habitarei no meio dos filhos de Israel, serei o seu Deus",
+      "ref": "Ex 29,45"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}
