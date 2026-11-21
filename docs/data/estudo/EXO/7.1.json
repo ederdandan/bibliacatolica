@@ -1,0 +1,49 @@
+{
+  "id": "EXO.7.1",
+  "livro": "EXO",
+  "titulo": "O cajado que vira serpente",
+  "secao": "No Egito",
+  "referencia": "Ex 7,1-13",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Moisés diante do Faraó: o cajado que vira serpente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: eis que te constituí deus do Faraó, e Aarão, teu irmão, será o teu profeta. Tu lhe dirás tudo o que eu te mandar, e ele falará ao Faraó. Mas eu endurecerei o coração do Faraó e multiplicarei os meus sinais; ele não vos ouvirá; então estenderei a minha mão sobre o Egito e tirarei o meu exército, os filhos de Israel, com grandes juízos. “Os egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egito e fizer sair do meio deles os filhos de Israel.” Moisés e Aarão fazem como o Senhor ordenou. Moisés tem oitenta anos, e Aarão oitenta e três. Quando o Faraó pedir um prodígio, Aarão lançará a vara diante dele, e ela se tornará serpente. Assim fazem: a vara de Aarão se torna serpente. O Faraó chama os sábios e magos, que, com encantamentos egípcios, fazem o mesmo: cada um lança a sua vara, e elas se tornam serpentes; “mas a vara de Aarão devorou as varas deles”. “Endureceu-se o coração do Faraó e não os ouviu, como o Senhor tinha dito.”",
+    "alegorico": "A vara de Aarão que devora as dos magos anuncia a vitória de Cristo sobre os poderes do mal: a sua cruz, como o “bastão” de Deus, engole a “antiga serpente”. A vara será depois a de Aarão que floresce (Nm 17), figura da cruz florida e da Virgem Maria.",
+    "moral": "Deus põe Moisés, aos oitenta anos, diante do homem mais poderoso da terra: nunca é tarde para a missão. Os magos imitam o sinal: o mal sabe copiar as obras de Deus. Mas há uma superioridade que se manifesta. O coração endurecido não se deixa convencer nem pelos sinais: a fé não é só questão de provas.",
+    "anagogico": "“Saberão que eu sou o Senhor”: o fim da história será o reconhecimento universal de Deus por todos os povos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Te constituí deus de Faraó, e Aarão, teu irmão, será o teu profeta.” “Os egípcios saberão que eu sou o Senhor.” “Moisés tinha oitenta anos.” “A vara de Aarão devorou as varas deles.” “Endureceu-se o coração de Faraó.”",
+    "meditatio_perguntas": [
+      "Creio que nunca é tarde para Deus me confiar uma missão?",
+      "Sei distinguir as obras de Deus das suas imitações?",
+      "Que “provas” eu peço, quando o meu coração simplesmente não quer ceder?"
+    ],
+    "oratio_guia": "Senhor, que confiaste a Moisés, aos oitenta anos, a libertação do teu povo, usa-me em qualquer idade. Dá-me discernimento para distinguir as tuas obras das imitações, e um coração que não se endurece. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os Egípcios saberão que eu sou o Senhor",
+      "ref": "Ex 7,5"
+    }
+  },
+  "ancoras": {
+    "7:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Endurecerei o coração do Faraó”: linguagem semítica que atribui a Deus o que Ele permite; o próprio texto diz também que o Faraó endureceu o seu coração (8,15.32).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

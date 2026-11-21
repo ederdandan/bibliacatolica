@@ -1,0 +1,40 @@
+{
+  "id": "EXO.9.1",
+  "livro": "EXO",
+  "titulo": "A peste e as úlceras",
+  "secao": "No Egito",
+  "referencia": "Ex 9,1-12",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "A peste nos rebanhos e as úlceras: o endurecimento continua",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda dizer ao Faraó: deixa ir o meu povo; se recusares, a minha mão estará sobre os teus campos: uma peste gravíssima sobre cavalos, jumentos, camelos, bois e ovelhas. Mas o Senhor fará distinção entre os rebanhos de Israel e os do Egito, e nada perecerá do que pertence aos filhos de Israel. O Senhor marca o tempo: amanhã. No dia seguinte morrem os animais dos egípcios, mas dos animais de Israel nenhum morre. O Faraó manda verificar: de fato, nenhum animal de Israel morreu; mas o seu coração se endurece. Então o Senhor diz a Moisés e Aarão: tomai mãos cheias de cinza do forno, e Moisés a espalhe para o céu diante do Faraó; ela se tornará pó sobre todo o Egito, e haverá úlceras e chagas com tumores em homens e animais. Assim fazem, e há úlceras em todos; os magos não podem estar diante de Moisés, por causa das úlceras, que estavam neles como em todos os egípcios. “O Senhor endureceu o coração do Faraó, que não os ouviu, como o Senhor tinha dito a Moisés.”",
+    "alegorico": "A cinza do forno, que lembra a fornalha da escravidão onde se cozem os tijolos, volta-se contra os opressores: o mal que se faz retorna sobre quem o faz. As úlceras evocam as chagas que Cristo tomará sobre si: “pelas suas chagas fomos curados” (Is 53,5).",
+    "moral": "O texto repete a distinção entre Israel e o Egito: Deus protege os seus, até nos bens. Os magos, antes rivais de Moisés, agora nem conseguem ficar de pé diante dele: os falsos poderes são humilhados. O endurecimento avança: primeiro o Faraó endurece o coração; agora o texto diz que “o Senhor o endureceu”, como se o fechamento se tornasse irreversível.",
+    "anagogico": "As úlceras reaparecem na primeira taça do Apocalipse (Ap 16,2): o juízo final revelará as chagas interiores dos que se opuseram a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor fará distinção entre os rebanhos de Israel e os rebanhos dos egípcios.” “Dos animais de Israel nenhum morreu.” “Os magos não podiam estar diante de Moisés, por causa das úlceras.” “O Senhor endureceu o coração de Faraó.”",
+    "meditatio_perguntas": [
+      "Percebo que a obstinação no mal pode tornar-se um caminho sem volta?",
+      "Agradeço a Deus pela proteção que me dá, mesmo nos bens materiais?",
+      "Como reajo diante do mal que fiz e que volta contra mim?"
+    ],
+    "oratio_guia": "Senhor, não permitas que eu me feche a ponto de não poder mais voltar. Protege o teu povo e cura, pelas chagas de Cristo, as feridas que o pecado abriu em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor endureceu o coração de Faraó",
+      "ref": "Ex 9,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

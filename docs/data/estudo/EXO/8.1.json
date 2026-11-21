@@ -1,0 +1,49 @@
+{
+  "id": "EXO.8.1",
+  "livro": "EXO",
+  "titulo": "As rãs",
+  "secao": "No Egito",
+  "referencia": "Ex 8,1-15",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A segunda praga: as rãs e a promessa que se desfaz no alívio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda dizer ao Faraó: deixa ir o meu povo; se não quiseres, ferirei toda a tua terra com rãs. O rio fervilhará de rãs, que subirão e entrarão na tua casa, no teu quarto, na tua cama, nas casas dos teus servos, nos fornos e nas amassadeiras. Aarão estende a mão sobre as águas, e as rãs sobem e cobrem a terra do Egito. Os magos fazem o mesmo e trazem rãs. “O Faraó chamou Moisés e Aarão e disse-lhes: rogai ao Senhor que afaste as rãs de mim e do meu povo, e eu deixarei ir o povo para que ofereça sacrifícios ao Senhor.” Moisés diz: marca tu mesmo quando devo rezar por ti. — Amanhã. — Seja conforme a tua palavra, para que saibas que não há ninguém como o Senhor nosso Deus. Moisés clama ao Senhor por causa das rãs, e o Senhor faz conforme a sua palavra: as rãs morrem nas casas, nos pátios e nos campos; juntam-nas em montões, e a terra fica infecta. “Mas o Faraó, vendo que lhe era dado alívio, endureceu o seu coração e não os ouviu.”",
+    "alegorico": "As rãs, que saem das águas e invadem tudo, reaparecem no Apocalipse como imagem dos espíritos impuros que saem da boca do dragão (Ap 16,13). A intercessão de Moisés pelo opressor anuncia Cristo, que reza pelos que o crucificam (Lc 23,34).",
+    "moral": "Os magos sabem multiplicar as rãs, mas não sabem tirá-las: o mal sabe aumentar os problemas, não resolvê-los. O Faraó pede oração e promete muito na aflição; mas, “vendo o alívio”, endurece o coração. É o retrato de quem procura Deus só no aperto. Moisés reza pelo próprio opressor: a intercessão não depende do mérito de quem a recebe.",
+    "anagogico": "“Não há ninguém como o Senhor nosso Deus”: a confissão que as pragas querem arrancar será a confissão universal no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As rãs… entrarão na tua casa, no teu quarto e na tua cama.” “Rogai ao Senhor que afaste as rãs de mim.” “Para que saibas que não há ninguém como o Senhor nosso Deus.” “Faraó, vendo que lhe era dado alívio, endureceu o seu coração.”",
+    "meditatio_perguntas": [
+      "Procuro Deus só quando estou em aperto, e o esqueço no alívio?",
+      "Prometo muito a Deus na aflição e não cumpro depois?",
+      "Sou capaz de rezar pelos que me fazem mal?"
+    ],
+    "oratio_guia": "Senhor, não há ninguém como tu. Livra-me de te procurar só na aflição e de te esquecer quando chega o alívio. Dá-me cumprir as minhas promessas e rezar até pelos que me oprimem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Faraó chamou Moisés e Aarão, e disse-lhes: Rogai ao Senhor que afaste as rãs de mim e do meu povo",
+      "ref": "Ex 8,8"
+    }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A numeração da Vulgata difere da hebraica aqui: Ex 8,1-15 da Vulgata corresponde a Ex 7,26–8,11 do texto hebraico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

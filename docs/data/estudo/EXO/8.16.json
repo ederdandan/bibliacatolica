@@ -1,0 +1,40 @@
+{
+  "id": "EXO.8.16",
+  "livro": "EXO",
+  "titulo": "Os mosquitos: o dedo de Deus",
+  "secao": "No Egito",
+  "referencia": "Ex 8,16-19",
+  "ini": {
+    "c": 8,
+    "v": 16
+  },
+  "fim": {
+    "c": 8,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A terceira praga: os mosquitos e “o dedo de Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: dize a Aarão: estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egito. Assim fazem: Aarão estende a mão com a vara, fere o pó da terra, e há mosquitos nos homens e nos animais; todo o pó da terra se converte em mosquitos em todo o Egito. Os magos tentam fazer o mesmo com os seus encantamentos, para produzir mosquitos, e não conseguem; e os mosquitos estão sobre os homens e sobre os animais. “Então os magos disseram ao Faraó: O dedo de Deus está aqui.” Porém o coração do Faraó se endurece, e ele não os ouve, como o Senhor tinha anunciado.",
+    "alegorico": "Jesus retoma a expressão: “Se eu expulso os demônios pelo dedo de Deus, então chegou a vós o Reino de Deus” (Lc 11,20). A Tradição viu no “dedo de Deus” o Espírito Santo: o hino Veni Creator chama-o “dedo da mão direita do Pai”. É também o dedo que escreverá as tábuas da Lei (Ex 31,18).",
+    "moral": "Até os magos, inimigos de Moisés, reconhecem o limite do seu poder e confessam: “o dedo de Deus está aqui”. Às vezes os de fora percebem antes a ação de Deus. O Faraó, porém, continua fechado: há um endurecimento que resiste até à evidência reconhecida pelos próprios conselheiros. O pó da terra, matéria humilde, torna-se instrumento de Deus.",
+    "anagogico": "O “dedo de Deus”, que vence os poderes do Egito, anuncia a vitória do Reino sobre todo poder do mal no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fere o pó da terra, e haja mosquitos em toda a terra do Egito.” “Os magos tentaram… e não o puderam fazer.” “Os magos disseram a Faraó: O dedo de Deus está aqui.” “Porém o coração de Faraó endureceu-se.”",
+    "meditatio_perguntas": [
+      "Reconheço “o dedo de Deus” nos acontecimentos da minha vida?",
+      "Escuto quando até os “de fora” me apontam a ação de Deus?",
+      "Peço ao Espírito Santo, dedo de Deus, que escreva no meu coração?"
+    ],
+    "oratio_guia": "Espírito Santo, dedo da mão direita do Pai, toca a minha vida e faze-me reconhecer a tua ação. Vence em mim todo endurecimento e escreve no meu coração a tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "O dedo de Deus está aqui",
+      "ref": "Ex 8,19"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

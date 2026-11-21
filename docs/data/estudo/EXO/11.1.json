@@ -1,0 +1,49 @@
+{
+  "id": "EXO.11.1",
+  "livro": "EXO",
+  "titulo": "O anúncio da última praga",
+  "secao": "No Egito",
+  "referencia": "Ex 11,1-10",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "O anúncio da última praga: a morte dos primogênitos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: ainda uma praga farei cair sobre o Faraó e sobre o Egito; depois disto ele vos deixará ir, e até vos expulsará. Dize ao povo que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, objetos de prata e de ouro. O Senhor dá ao povo graça diante dos egípcios; e Moisés é um homem muito grande na terra do Egito, aos olhos dos servos do Faraó e de todo o povo. Moisés anuncia: assim diz o Senhor: pela meia-noite sairei pelo meio do Egito, e morrerá todo primogênito na terra do Egito, desde o primogênito do Faraó, que se assenta no trono, até o primogênito da escrava que está à mó, e todos os primogênitos dos animais. Haverá um grande clamor em todo o Egito, como nunca houve nem haverá. Mas entre os filhos de Israel nem um cão ladrará, desde o homem até o animal, para que saibais que maravilhosa distinção o Senhor faz entre os egípcios e Israel. Todos os teus servos descerão a mim e se prostrarão: sai, tu e todo o povo. Depois disto sairemos. E Moisés sai da presença do Faraó muito irado. O Senhor diz: o Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egito.",
+    "alegorico": "O Faraó, que quis matar os filhos de Israel, “filho primogênito” de Deus, verá morrer o seu próprio primogênito: o mal se volta contra quem o pratica. Mas o anúncio prepara também o grande mistério: o Pai, para nos libertar, entregará o seu próprio Primogênito (Rm 8,32; Cl 1,15-18).",
+    "moral": "A praga mais terrível vem depois de muitos avisos: Deus foi paciente. O sofrimento atinge desde o trono até a escrava que mói o grão: a obstinação dos poderosos arrasta todos. Moisés, antes desprezado, agora é “muito grande” aos olhos dos egípcios. E a ira de Moisés, ao sair, mostra a dor de quem viu a misericórdia recusada tantas vezes.",
+    "anagogico": "A “maravilhosa distinção” entre o Egito e Israel anuncia o juízo final, em que Deus separará os que se deixaram libertar dos que recusaram até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ainda uma praga farei cair sobre Faraó.” “Morrerá todo primogênito na terra do Egito.” “Haverá um grande clamor em todo o Egito.” “Entre os filhos de Israel nem um cão ladrará.” “Para que saibais que maravilhosa distinção o Senhor faz entre os egípcios e Israel.”",
+    "meditatio_perguntas": [
+      "Quantos avisos de Deus já ignorei?",
+      "Percebo como a minha obstinação pode atingir também os mais fracos à minha volta?",
+      "Contemplo o Pai que entregou o seu Primogênito para me libertar?"
+    ],
+    "oratio_guia": "Senhor, paciente e justo, não me deixes ignorar os teus avisos até o fim. Pai, que entregaste o teu Filho primogênito por mim, faze-me sair da escravidão enquanto é tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egipto",
+      "ref": "Ex 11,9"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os objetos pedidos aos egípcios são vistos como justa compensação pelos anos de trabalho escravo (cf. Gn 15,14).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

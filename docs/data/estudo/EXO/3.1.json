@@ -1,0 +1,49 @@
+{
+  "id": "EXO.3.1",
+  "livro": "EXO",
+  "titulo": "A sarça ardente: Eu sou o que sou",
+  "secao": "No Egito",
+  "referencia": "Ex 3,1-15",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A sarça ardente: “Eu sou o que sou”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés apascenta as ovelhas de Jetro, seu sogro, sacerdote de Madiã; leva o rebanho para o interior do deserto e chega ao Horeb, o monte de Deus. O Senhor lhe aparece numa chama de fogo no meio de uma sarça: a sarça arde e não se consome. Moisés diz: irei ver esta grande visão. O Senhor, vendo que ele se aproxima, chama do meio da sarça: “Moisés, Moisés!” — “Eis-me aqui.” — “Não te aproximes daqui; tira as sandálias de teus pés, porque o lugar em que estás é uma terra santa.” “Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó.” Moisés cobre o rosto, porque tem medo de olhar para Deus. O Senhor diz: “Eu vi a aflição do meu povo no Egito, ouvi o seu clamor”; conheço a sua dor, e desci para livrá-lo das mãos dos egípcios e conduzi-lo a uma terra boa e espaçosa, onde corre leite e mel. Vem, e eu te enviarei ao Faraó. Moisés objeta: “Quem sou eu para ir ao Faraó?” — “Eu estarei contigo.” Moisés pergunta: se me perguntarem qual é o nome de quem me envia, que lhes direi? “Deus disse a Moisés: Eu sou o que sou. E acrescentou: Assim dirás aos filhos de Israel: Aquele que é me enviou a vós.” O Senhor, Deus de vossos pais, me enviou: este é o meu nome para sempre.",
+    "alegorico": "A sarça que arde sem se consumir foi vista pelos Padres como figura da Virgem Maria, que concebe o Filho de Deus sem perder a virgindade, e da humanidade de Cristo, unida à divindade sem ser consumida. Jesus aplica a si o nome divino: “Antes que Abraão existisse, Eu sou” (Jo 8,58). E recorda este texto para provar a ressurreição: Deus não é Deus de mortos, mas de vivos (Mc 12,26).",
+    "moral": "Moisés se aproxima por curiosidade, e Deus o chama pelo nome. Diante de Deus, a atitude é reverência: tirar as sandálias, cobrir o rosto. O Deus que se revela não é indiferente: vê, ouve, conhece e desce. A vocação começa com a objeção “quem sou eu?”, e a resposta de Deus não é “tu és capaz”, mas “eu estarei contigo”.",
+    "anagogico": "“Aquele que é” é o Deus eterno, a quem conheceremos face a face; conhecer o seu nome é o começo da vida eterna (Jo 17,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sarça ardia, e não se consumia.” “Moisés, Moisés!” “Eis-me aqui.” “Tira as sandálias de teus pés, porque o lugar em que estás é uma terra santa.” “Eu vi a aflição do meu povo… ouvi o seu clamor.” “Quem sou eu?” “Eu sou o que sou.”",
+    "meditatio_perguntas": [
+      "Onde Deus me chama, hoje, a “tirar as sandálias”?",
+      "Creio que Deus vê, ouve e desce ao sofrimento do seu povo?",
+      "Que “quem sou eu?” apresento a Deus, e ouço a sua resposta “eu estarei contigo”?"
+    ],
+    "oratio_guia": "Senhor, que és Aquele que é e desceste para libertar o teu povo, fala-me do meio da sarça ardente. Que eu tire as sandálias diante de ti e responda “eis-me aqui”, confiando que estarás comigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o que sou",
+      "ref": "Ex 3,14"
+    }
+  },
+  "ancoras": {
+    "3:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O nome divino YHWH (Iavé) é ligado ao verbo “ser”. Por reverência, os judeus o substituem por Adonai, “Senhor”, uso seguido pela tradição cristã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

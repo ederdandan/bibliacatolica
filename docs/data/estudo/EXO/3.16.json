@@ -1,0 +1,49 @@
+{
+  "id": "EXO.3.16",
+  "livro": "EXO",
+  "titulo": "A missão e os sinais; Aarão",
+  "secao": "No Egito",
+  "referencia": "Ex 3,16–4,17",
+  "ini": {
+    "c": 3,
+    "v": 16
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A missão de Moisés, os sinais e a ira de Deus diante das desculpas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda: reúne os anciãos de Israel e dize-lhes: o Senhor, Deus de vossos pais, me apareceu; tenho visto o que vos fazem; tirar-vos-ei da aflição do Egito para uma terra onde corre leite e mel. Ide ao rei e pedi para ir três dias de caminho no deserto oferecer sacrifícios. Sei que o rei não vos deixará ir senão por mão forte; estenderei a minha mão e ferirei o Egito com prodígios; e não saireis de mãos vazias. Moisés objeta: não me acreditarão. Deus lhe dá sinais: a vara lançada por terra torna-se serpente, e, tomada pela cauda, volta a ser vara; a mão posta no seio fica leprosa e volta a ficar sã; a água do rio, derramada em terra, se tornará sangue. Moisés insiste: Senhor, eu não sou eloquente, nem antes nem depois que falaste ao teu servo; sou de boca e língua pesadas. O Senhor responde: quem fez a boca do homem? Quem faz o mudo e o surdo, o que vê e o cego? Não sou eu? “Vai, pois, e eu estarei na tua boca e te ensinarei o que deverás dizer.” Moisés ainda pede: Senhor, envia outro. O Senhor se irrita, mas cede: Aarão, teu irmão, fala bem; ele vem ao teu encontro; porei as minhas palavras na tua boca e na dele; ele falará ao povo por ti, e tu serás para ele como Deus. Toma também esta vara, com a qual farás os prodígios.",
+    "alegorico": "A promessa “eu estarei na tua boca” se cumpre nos apóstolos: “não sois vós que falais, mas o Espírito do vosso Pai que fala em vós” (Mt 10,20). A vara que se torna serpente e volta a ser vara foi lida como figura de Cristo, que se faz “serpente” levantada (Jo 3,14) e retorna à glória.",
+    "moral": "Moisés acumula desculpas: não acreditarão, não sei falar, manda outro. Deus responde a cada uma com paciência, até que a última não é mais objeção, mas recusa, e então se irrita. Deus não chama os capazes; capacita os chamados. Mas respeita a fraqueza e dá companheiros: Aarão. A missão é partilhada.",
+    "anagogico": "“Não saireis de mãos vazias”: a libertação prometida inclui uma herança, figura dos bens eternos que Deus prepara para os seus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eles não me crerão.” “Eu não sou eloquente.” “Quem fez a boca do homem? Não sou eu?” “Vai, pois, e eu estarei na tua boca e te ensinarei o que deverás dizer.” “Senhor, envia outro.” “Aarão… falará por ti ao povo.”",
+    "meditatio_perguntas": [
+      "Que desculpas apresento a Deus para não cumprir a missão que Ele me dá?",
+      "Creio que Ele estará na minha boca quando eu tiver de falar dele?",
+      "Aceito a ajuda de outros, ou quero fazer tudo sozinho?"
+    ],
+    "oratio_guia": "Senhor, que fizeste a minha boca, está nela e ensina-me o que devo dizer. Não olhes para as minhas desculpas, mas para a tua promessa; e dá-me irmãos com quem partilhar a missão. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu estarei na tua toca e te ensinarei o que deverás dizer",
+      "ref": "Ex 4,12"
+    }
+  },
+  "ancoras": {
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Toca” é erro tipográfico da edição digital por “boca”; mantém-se aqui a citação literal do texto-fonte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

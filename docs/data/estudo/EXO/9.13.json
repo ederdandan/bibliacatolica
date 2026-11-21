@@ -1,0 +1,40 @@
+{
+  "id": "EXO.9.13",
+  "livro": "EXO",
+  "titulo": "O granizo",
+  "secao": "No Egito",
+  "referencia": "Ex 9,13-35",
+  "ini": {
+    "c": 9,
+    "v": 13
+  },
+  "fim": {
+    "c": 9,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "O granizo: “Para que o meu nome seja celebrado em toda a terra”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda dizer ao Faraó: desta vez enviarei todas as minhas pragas sobre o teu coração, para que saibas que não há ninguém semelhante a mim em toda a terra. Já poderia ter estendido a mão e ferido a ti e ao teu povo com a peste, e terias desaparecido da terra. “Porém conservei-te com vida, para mostrar em ti o meu poder e para que o meu nome seja celebrado em toda a terra.” Amanhã farei cair uma chuva de granizo tão forte como nunca houve no Egito. Manda recolher os teus animais; todo homem ou animal que estiver no campo morrerá. Os servos do Faraó que temem a palavra do Senhor recolhem os servos e os animais nas casas; os que desprezam a palavra os deixam no campo. Moisés estende a vara para o céu: trovões, granizo e fogo correndo sobre a terra; o granizo fere tudo o que está nos campos, homens, animais, ervas e árvores. Só na terra de Gessém não cai granizo. O Faraó chama Moisés e Aarão: “Eu pequei ainda desta vez; o Senhor é justo; eu e o meu povo somos ímpios”. Rogai ao Senhor, e eu vos deixarei ir. Moisés diz: estenderei as mãos ao Senhor, e cessarão os trovões, para que saibas que a terra é do Senhor; mas sei que tu e os teus servos ainda não temeis ao Senhor Deus. O linho e a cevada são destruídos; o trigo, mais tardio, não. Moisés reza, cessam os trovões e o granizo, e o Faraó, vendo que a chuva parou, aumenta o pecado e endurece o coração.",
+    "alegorico": "São Paulo cita 9,16 para falar do mistério da liberdade humana e da soberania de Deus, que pode tirar a sua glória até da resistência dos homens (Rm 9,17). Os egípcios que temem a palavra do Senhor e se salvam anunciam os pagãos que acolhem o Evangelho.",
+    "moral": "Mesmo no Egito, alguns “temem a palavra do Senhor” e se protegem: a fé é decisão pessoal, também entre os opressores. O Faraó chega a confessar “pequei; o Senhor é justo”, mas é uma confissão arrancada pelo medo, que desaparece quando o perigo passa. Moisés sabe distinguir a confissão verdadeira da falsa: “sei que ainda não temeis”.",
+    "anagogico": "“Para que saibas que a terra é do Senhor”: o fim da história manifestará que tudo pertence a Deus, e o seu nome será celebrado por toda a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que saibas que não há ninguém semelhante a mim em toda a terra.” “Conservei-te com vida… para que o meu nome seja celebrado em toda a terra.” “Os que temiam a palavra do Senhor recolheram os servos e os animais.” “Eu pequei ainda desta vez; o Senhor é justo.” “Para que saibas que a terra é do Senhor.”",
+    "meditatio_perguntas": [
+      "As minhas confissões nascem do amor de Deus ou só do medo do castigo?",
+      "Temo a palavra de Deus e ajo de acordo com ela, como alguns servos do Faraó?",
+      "Lembro-me de que “a terra é do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, cujo nome deve ser celebrado em toda a terra, dá-me o temor da tua palavra e uma conversão verdadeira, não arrancada pelo medo. Que eu reconheça que tudo é teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que o meu nome seja celebrado em toda a terra",
+      "ref": "Ex 9,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

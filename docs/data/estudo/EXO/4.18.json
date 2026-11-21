@@ -1,0 +1,49 @@
+{
+  "id": "EXO.4.18",
+  "livro": "EXO",
+  "titulo": "O retorno ao Egito",
+  "secao": "No Egito",
+  "referencia": "Ex 4,18-31",
+  "ini": {
+    "c": 4,
+    "v": 18
+  },
+  "fim": {
+    "c": 4,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "O retorno ao Egito: “Israel é meu filho primogênito”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés volta a Jetro e pede licença para ir ver se os seus irmãos ainda vivem; Jetro responde: vai em paz. O Senhor lhe diz em Madiã: volta ao Egito, porque morreram os que te procuravam para te matar. Moisés toma a mulher e os filhos, põe-nos sobre um jumento e volta ao Egito, levando na mão a vara de Deus. O Senhor diz: quando estiveres no Egito, faze diante do Faraó todos os prodígios; eu endurecerei o seu coração, e ele não deixará ir o povo. “Tu lhe dirás: isto diz o Senhor: Israel é meu filho, meu filho primogênito.” Eu te disse: deixa ir o meu filho para que me sirva; se não quiseres, matarei o teu filho primogênito. No caminho, numa estalagem, o Senhor vem ao encontro de Moisés e quer fazê-lo morrer; Séfora toma uma pedra cortante, circuncida o filho e toca os pés de Moisés: tu és para mim um esposo de sangue; e o Senhor o deixa. O Senhor diz a Aarão: vai ao deserto ao encontro de Moisés. Aarão o encontra no monte de Deus e o beija. Moisés lhe conta tudo. Reúnem os anciãos; Aarão repete as palavras, Moisés faz os sinais, “e o povo acreditou. Compreenderam que o Senhor visitava os filhos de Israel e que tinha visto a sua aflição, e, prostrados, o adoraram”.",
+    "alegorico": "“Israel é meu filho primogênito” prepara a revelação de Jesus, o Filho único e primogênito, chamado também do Egito: “do Egito chamei o meu filho” (Os 11,1; Mt 2,15). O misterioso episódio do “esposo de sangue” aponta para a necessidade do sinal da aliança e foi lido como figura do sangue de Cristo, que nos salva.",
+    "moral": "Moisés parte respeitando o sogro e levando a família. O episódio noturno, difícil, lembra que quem vai anunciar a aliança deve estar, ele mesmo, em ordem com ela. O primeiro fruto da missão é a fé do povo: ao ver que Deus os visitou, eles se prostram e adoram. A libertação começa pela fé e pela adoração.",
+    "anagogico": "A filiação de Israel anuncia a nossa adoção como filhos de Deus, que se manifestará plenamente na glória (Rm 8,19-23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai em paz.” “Levava na mão a vara de Deus.” “Israel é meu filho, meu filho primogênito.” “Deixa ir o meu filho, para que me sirva.” “O povo acreditou. Compreenderam que o Senhor visitava os filhos de Israel e que tinha visto a sua aflição, e, prostrados, o adoraram.”",
+    "meditatio_perguntas": [
+      "Vivo como filho de Deus, chamado a sair da escravidão para servi-lo?",
+      "Antes de anunciar, estou eu mesmo em ordem com a aliança?",
+      "A notícia de que Deus me visita leva-me à adoração?"
+    ],
+    "oratio_guia": "Pai, que chamas Israel “meu filho primogênito” e me fizeste teu filho em Jesus, visita-me na minha aflição. Que eu creia, me prostre e te adore, e que a minha vida te sirva em liberdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Compreenderam que o Senhor visitava os filhos de Israel e que tinha visto a sua aflição",
+      "ref": "Ex 4,31"
+    }
+  },
+  "ancoras": {
+    "4:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Episódio obscuro: parece indicar que o filho de Moisés não tinha sido circuncidado, e que Séfora resolve o perigo com o rito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

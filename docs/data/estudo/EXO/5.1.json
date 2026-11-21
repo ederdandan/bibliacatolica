@@ -1,0 +1,40 @@
+{
+  "id": "EXO.5.1",
+  "livro": "EXO",
+  "titulo": "O Faraó endurece a opressão",
+  "secao": "No Egito",
+  "referencia": "Ex 5,1-23",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "“Quem é o Senhor?”: a opressão se agrava",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés e Aarão se apresentam ao Faraó: assim diz o Senhor, Deus de Israel: deixa ir o meu povo, para que me ofereça sacrifícios no deserto. O Faraó responde: “Quem é o Senhor, para que eu obedeça à sua voz e deixe ir Israel? Não conheço o Senhor, e não deixarei ir Israel”. Eles insistem: o Deus dos hebreus nos chamou; deixa-nos ir três dias ao deserto. O rei responde: por que distraís o povo do trabalho? Ide às vossas cargas. E naquele dia ordena aos capatazes: não deis mais palha ao povo para fazer tijolos, como antes; vão eles mesmos recolhê-la; e exigi a mesma quantidade de tijolos, sem diminuir nada: estão ociosos, por isso gritam “vamos oferecer sacrifícios”. O povo se espalha por todo o Egito para recolher restolho; os capatazes os apressam; os inspetores hebreus são açoitados: por que não completastes a quantidade? Eles vão queixar-se ao Faraó, que responde: estais ociosos. Saindo, encontram Moisés e Aarão e os acusam: o Senhor veja e julgue, porque nos tornastes odiosos diante do Faraó e lhe pusestes a espada na mão para nos matar. “Moisés voltou-se para o Senhor e disse: Senhor, por que afligiste este povo? Por que me enviaste?” Desde que fui ao Faraó falar em teu nome, ele maltrata o povo, e tu não o livraste.",
+    "alegorico": "A pergunta do Faraó, “quem é o Senhor?”, é a pergunta de todo poder que se fecha a Deus; as pragas serão a resposta: “sabereis que eu sou o Senhor”. O povo que, oprimido, culpa o enviado, prefigura o povo que rejeitará Cristo; e a queixa de Moisés antecipa o “por que me abandonaste?” da cruz.",
+    "moral": "O primeiro passo de libertação pode piorar as coisas: o poder opressor reage. O Faraó chama de “preguiça” o desejo de adorar: para o sistema que oprime, o tempo dado a Deus é tempo perdido. O povo, ferido, volta-se contra os mensageiros. E Moisés leva tudo a Deus numa queixa franca: é legítimo perguntar “por que?” na oração.",
+    "anagogico": "A noite mais escura antes da libertação lembra que a vitória de Deus muitas vezes passa pela aparente derrota, como a cruz antes da Páscoa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixa ir o meu povo.” “Quem é o Senhor, para que eu obedeça à sua voz? Não conheço o Senhor.” “Estais ociosos.” “Senhor, por que afligiste este povo? Por que me enviaste?”",
+    "meditatio_perguntas": [
+      "Já me pareceu que obedecer a Deus piorava a minha situação?",
+      "Considero “tempo perdido” o tempo dado a Deus e à adoração?",
+      "Levo a Deus as minhas queixas com sinceridade, como Moisés?"
+    ],
+    "oratio_guia": "Senhor, quando a obediência a ti parecer piorar tudo e eu perguntar “por que me enviaste?”, não te afastes de mim. Livra-me da lógica do Faraó, que só vê produção, e dá-me tempo e liberdade para te adorar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, por que afligiste este povo? Por que me enviaste?",
+      "ref": "Ex 5,22"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

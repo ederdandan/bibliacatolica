@@ -1,0 +1,40 @@
+{
+  "id": "EXO.8.20",
+  "livro": "EXO",
+  "titulo": "As moscas",
+  "secao": "No Egito",
+  "referencia": "Ex 8,20-32",
+  "ini": {
+    "c": 8,
+    "v": 20
+  },
+  "fim": {
+    "c": 8,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A quarta praga: as moscas e a distinção do povo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Moisés apresentar-se ao Faraó de madrugada, quando ele sai para a água: deixa ir o meu povo; se não, enviarei moscas de toda espécie sobre ti, os teus servos, o teu povo e as tuas casas. “Contudo eu, nesse dia, distinguirei a terra de Gessém, onde habita o meu povo, de modo que não haja aí moscas, a fim de que saibas que eu, o Senhor, estou no meio desta terra.” Porei uma separação entre o meu povo e o teu. E assim acontece: moscas em enxames enchem as casas do Faraó e todo o Egito, e a terra é devastada. O Faraó chama Moisés e Aarão: ide, oferecei sacrifícios ao vosso Deus aqui, nesta terra. Moisés responde: não pode ser, porque o que sacrificamos é abominável aos egípcios; iremos três dias de caminho ao deserto, como o Senhor nos ordenou. O Faraó cede: deixar-vos-ei ir, mas não vades muito longe; rogai por mim. Moisés promete rezar, mas adverte: não nos enganes mais. Reza, e o Senhor tira as moscas, não fica nenhuma. Mas o Faraó endurece o coração também desta vez e não deixa o povo ir.",
+    "alegorico": "A “separação” entre Gessém e o Egito anuncia a distinção entre o povo de Deus e o mundo que se opõe a Ele: os cristãos estão “no mundo”, mas não são “do mundo” (Jo 17,14-16). A recusa de Moisés em sacrificar “na terra do Egito” figura a necessidade de sair do pecado para adorar em verdade.",
+    "moral": "O Faraó começa a negociar: sacrificai aqui; depois, não vades longe. São meias soluções, típicas da tentação: deixar adorar, mas sem sair do Egito, sem romper com a escravidão. Moisés não aceita os compromissos. A conversão verdadeira exige partir; as concessões pela metade são estratégia para manter o domínio.",
+    "anagogico": "A distinção que Deus faz entre os seus e os opressores anuncia o juízo final, em que Ele separará as ovelhas dos cabritos (Mt 25,32)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Distinguirei a terra de Gessém, onde habita o meu povo.” “A fim de que saibas que eu, o Senhor, estou no meio desta terra.” “Ide, oferecei sacrifícios ao vosso Deus nesta terra.” “Não pode ser assim.” “Não vades mais longe.”",
+    "meditatio_perguntas": [
+      "Que “meias soluções” ofereço a Deus em vez de uma conversão inteira?",
+      "Quero adorar a Deus sem sair do meu “Egito”?",
+      "Vivo no mundo sem ser do mundo?"
+    ],
+    "oratio_guia": "Senhor, que estás no meio da terra e distingues o teu povo, livra-me das meias medidas e dos compromissos com o pecado. Faze-me partir de verdade para te servir em liberdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "distinguirei a terra de Gessen, onde habita o meu povo",
+      "ref": "Ex 8,22"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

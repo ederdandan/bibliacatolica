@@ -1,0 +1,49 @@
+{
+  "id": "EXO.2.11",
+  "livro": "EXO",
+  "titulo": "A fuga para Madiã; Deus ouve o clamor",
+  "secao": "No Egito",
+  "referencia": "Ex 2,11-25",
+  "ini": {
+    "c": 2,
+    "v": 11
+  },
+  "fim": {
+    "c": 2,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A fuga de Moisés para Madiã e o Deus que ouve o gemido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Já crescido, Moisés sai a visitar os seus irmãos e vê a sua aflição. Vê um egípcio ferindo um hebreu, um dos seus irmãos; olha para um lado e para o outro, e, não vendo ninguém, mata o egípcio e o esconde na areia. No dia seguinte vê dois hebreus brigando e diz ao que fazia a injúria: por que feres o teu próximo? Ele responde: quem te constituiu príncipe e juiz sobre nós? Queres matar-me, como mataste ontem o egípcio? Moisés tem medo: o caso se tornou público. O Faraó sabe e procura matá-lo; Moisés foge para a terra de Madiã e se senta junto a um poço. O sacerdote de Madiã tem sete filhas, que vêm tirar água para o rebanho do pai; uns pastores as expulsam; Moisés se levanta, as defende e dá de beber às ovelhas. O pai, Raguel, pergunta: por que voltastes tão cedo? — Um egípcio nos livrou dos pastores e deu de beber ao rebanho. — Onde está? Chamai-o para comer. Moisés concorda em morar com ele e recebe por mulher Séfora, que lhe dá um filho, Gersam: “sou estrangeiro em terra alheia”. Muito tempo depois morre o rei do Egito. Os filhos de Israel gemem por causa dos trabalhos e clamam, e o seu clamor sobe a Deus. Deus “ouviu os seus gemidos e se lembrou da aliança que tinha feito com Abraão, Isaac e Jacó”; olhou para os filhos de Israel e os conheceu.",
+    "alegorico": "Santo Estêvão relê este episódio: Moisés “pensava que os seus irmãos compreenderiam que Deus por meio dele lhes daria a salvação, mas eles não compreenderam” (At 7,25); assim também Cristo foi rejeitado pelos seus. O pastor estrangeiro que defende as moças junto ao poço anuncia o Bom Pastor.",
+    "moral": "Moisés sente a injustiça e quer agir, mas o faz com violência, às escondidas, sozinho: a justiça feita pelas próprias mãos fracassa. Será preciso o deserto, quarenta anos, para formá-lo. Mesmo fugitivo, continua sensível ao direito dos fracos (as filhas de Raguel). E, enquanto ninguém parece agir, Deus ouve, lembra, olha e conhece: quatro verbos que anunciam a libertação.",
+    "anagogico": "Deus que “se lembra da aliança” e “conhece” o sofrimento do seu povo conduzirá a história até a libertação definitiva, quando não haverá mais gemido (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Saiu a visitar os seus irmãos e viu a sua aflição.” “Quem te constituiu príncipe e juiz sobre nós?” “Sou estrangeiro em terra alheia.” “O clamor deles subiu a Deus.” “Ouviu os seus gemidos, e se lembrou da aliança.”",
+    "meditatio_perguntas": [
+      "Tento fazer justiça com as minhas próprias forças, sem esperar a hora de Deus?",
+      "Mesmo em tempos de fuga e deserto, continuo atento aos que são injustiçados?",
+      "Creio que Deus ouve o gemido dos que sofrem, mesmo quando parece calado?"
+    ],
+    "oratio_guia": "Senhor, que ouviste o gemido do teu povo e te lembraste da tua aliança, ouve também o clamor dos oprimidos de hoje. Forma-me no deserto e livra-me da violência, para que eu sirva à tua justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "o qual ouviu os seus gemidos, e se lembrou da aliança",
+      "ref": "Ex 2,24"
+    }
+  },
+  "ancoras": {
+    "2:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sogro de Moisés é chamado Raguel (Reuel) e, em outros textos, Jetro: provavelmente duas tradições ou um nome pessoal e um título.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

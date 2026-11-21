@@ -1,0 +1,40 @@
+{
+  "id": "EXO.12.43",
+  "livro": "EXO",
+  "titulo": "As leis da Páscoa e dos primogênitos",
+  "secao": "No Egito",
+  "referencia": "Ex 12,43–13,16",
+  "ini": {
+    "c": 12,
+    "v": 43
+  },
+  "fim": {
+    "c": 13,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "As leis da Páscoa e a consagração dos primogênitos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés e Aarão: este é o rito da Páscoa: nenhum estrangeiro comerá dela; o escravo comprado, depois de circuncidado, comerá; o hóspede e o assalariado não comerão. Comer-se-á numa só casa; não levareis carne para fora, “nem lhe quebrareis osso algum”. Se um estrangeiro quiser celebrar a Páscoa do Senhor, seja primeiro circuncidado todo varão da sua casa, e então celebrará: a mesma lei para o natural e o estrangeiro. No capítulo 13, o Senhor diz: consagra-me todo primogênito, o que abre o seio entre os filhos de Israel, tanto dos homens como dos animais, porque todos são meus. Moisés diz ao povo: “Lembrai-vos deste dia em que saístes do Egito e da casa da escravidão, porque foi o Senhor quem vos tirou deste lugar com mão forte”. Na terra prometida, celebrareis a festa dos ázimos sete dias, e explicareis ao vosso filho: é por causa do que o Senhor fez por mim quando saí do Egito. Será como um sinal na tua mão e uma memória diante dos teus olhos, para que a lei do Senhor esteja sempre na tua boca. Os primogênitos dos animais serão do Senhor; o primogênito do jumento será resgatado com uma ovelha; todo primogênito dos teus filhos resgatarás. “E quando teu filho te interrogar um dia: que é isto?, responder-lhe-ás: o Senhor tirou-nos do Egito, da casa da escravidão, com mão forte.”",
+    "alegorico": "“Nenhum osso lhe será quebrado” é citado por São João diante do corpo de Jesus na cruz (Jo 19,36): Cristo é o verdadeiro Cordeiro pascal. Jesus, primogênito de Maria, é apresentado no templo segundo a lei dos primogênitos (Lc 2,22-23), e resgatado com a oferta dos pobres; mas Ele mesmo é quem resgatará a todos.",
+    "moral": "A Páscoa é para quem entra na aliança: o estrangeiro é bem-vindo, desde que assuma o sinal do povo. Tudo o que é “primeiro” pertence a Deus: o primeiro tempo do dia, os primeiros frutos, a vida. A fé se transmite em casa, respondendo às perguntas dos filhos com o testemunho pessoal: “o que o Senhor fez por mim”. A memória se faz sinal na mão (o agir) e diante dos olhos (o pensar).",
+    "anagogico": "O resgate dos primogênitos anuncia a “assembleia dos primogênitos inscritos no céu” (Hb 12,23), resgatados pelo sangue de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nem lhe quebrareis osso algum.” “Consagra-me todo o primogênito.” “Lembrai-vos deste dia em que saístes do Egito e da casa da escravidão.” “É por causa do que o Senhor fez por mim.” “Quando teu filho te interrogar… responder-lhe-ás: o Senhor tirou-nos do Egito com mão forte.”",
+    "meditatio_perguntas": [
+      "Consagro a Deus as “primícias” do meu tempo e dos meus bens?",
+      "Quando os mais novos me perguntam sobre a fé, respondo com o que Deus fez “por mim”?",
+      "A memória da libertação está “na minha mão e diante dos meus olhos”?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste da casa da escravidão com mão forte, recebe as primícias da minha vida. Dá-me palavras para contar aos mais novos o que fizeste por mim, e que a tua lei esteja sempre na minha boca. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor tirou-nos do Egipto, da casa da escravidão, com mão forte",
+      "ref": "Ex 13,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

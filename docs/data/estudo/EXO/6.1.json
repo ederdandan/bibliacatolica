@@ -1,0 +1,49 @@
+{
+  "id": "EXO.6.1",
+  "livro": "EXO",
+  "titulo": "A promessa renovada",
+  "secao": "No Egito",
+  "referencia": "Ex 6,1-13",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "“Eu sou o Senhor”: a promessa renovada da libertação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: agora verás o que farei ao Faraó; por mão forte os deixará ir e os expulsará da sua terra. Deus fala a Moisés: “Eu sou o Senhor”. Apareci a Abraão, a Isaac e a Jacó como Deus onipotente, mas o meu nome “Senhor” não lhes revelei; fiz com eles aliança para lhes dar a terra de Canaã. Ouvi o gemido dos filhos de Israel e lembrei-me da minha aliança. “Por isso, dize aos filhos de Israel: Eu sou o Senhor, que vos tirarei de sob o jugo dos egípcios, vos livrarei da escravidão, vos resgatarei com o braço estendido e com grandes juízos. Farei de vós o meu povo, serei o vosso Deus, e sabereis que eu sou o Senhor vosso Deus”, que vos tirou do Egito e vos introduzirá na terra que jurei dar a Abraão, Isaac e Jacó. Moisés repete tudo ao povo, mas eles não o ouvem, por causa da angústia do espírito e do duro trabalho. O Senhor manda Moisés falar ao Faraó; Moisés responde: os filhos de Israel não me ouvem; como me ouvirá o Faraó, a mim, que sou incircunciso de lábios? E o Senhor lhes dá ordem para os filhos de Israel e para o Faraó.",
+    "alegorico": "Os verbos da promessa, tirar, livrar, resgatar, tomar por povo, estruturam a celebração da Páscoa judaica (os quatro cálices) e se cumprem na redenção de Cristo, que nos “resgata” com os braços estendidos na cruz e faz de nós o seu povo (1Pd 2,9-10).",
+    "moral": "Deus responde à queixa de Moisés não com explicações, mas com a revelação de si mesmo: “Eu sou o Senhor”. A sua fidelidade se apoia na aliança com os pais. Mas o povo, esmagado pela angústia e pelo trabalho, não consegue ouvir: o sofrimento excessivo pode tornar surdo à esperança. Quem anuncia precisa de paciência com os feridos.",
+    "anagogico": "“Serei o vosso Deus e sereis o meu povo” é a fórmula da aliança que se consuma na Jerusalém celeste: “eles serão o seu povo, e Deus mesmo estará com eles” (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Agora verás o que farei a Faraó.” “Eu sou o Senhor.” “Ouvi o gemido dos filhos de Israel e lembrei-me da minha aliança.” “Vos resgatarei com o braço estendido.” “Farei de vós o meu povo, serei o vosso Deus.” “Não o ouviram, por causa da angústia do espírito.”",
+    "meditatio_perguntas": [
+      "Diante das minhas queixas, deixo Deus revelar-se a mim, mais do que explicar-se?",
+      "Que angústia me impede de ouvir as promessas de Deus?",
+      "Tenho paciência com os que, feridos, não conseguem ouvir a esperança?"
+    ],
+    "oratio_guia": "Senhor, que te lembras da tua aliança e nos resgatas com o braço estendido, tira-me da escravidão e faze-me teu. Quando a angústia me tornar surdo, fala-me de novo, com paciência. Amém.",
+    "contemplatio_foco": {
+      "texto": "Farei de vós o meu povo, serei o vosso Deus",
+      "ref": "Ex 6,7"
+    }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto quer dizer que o sentido pleno do nome “Senhor” (Iavé) só é revelado com a libertação do Egito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "EXO.10.21",
+  "livro": "EXO",
+  "titulo": "As trevas",
+  "secao": "No Egito",
+  "referencia": "Ex 10,21-29",
+  "ini": {
+    "c": 10,
+    "v": 21
+  },
+  "fim": {
+    "c": 10,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "As trevas sobre o Egito e a luz nas casas de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: estende a mão para o céu, e haja sobre a terra do Egito trevas tão espessas que se possam apalpar. Moisés estende a mão, e há trevas horríveis em toda a terra do Egito durante três dias. “Um não via o outro, nem se movia do lugar em que estava; porém, em toda a parte onde habitavam os filhos de Israel, havia luz.” O Faraó chama Moisés: ide, oferecei sacrifícios ao Senhor; fiquem somente as vossas ovelhas e os vossos bois; as crianças podem ir convosco. Moisés responde: tu nos darás também vítimas e holocaustos; os nossos rebanhos irão conosco, não ficará nem uma unha, porque deles precisamos para o culto do Senhor nosso Deus; nem sabemos o que se há de oferecer até chegarmos ao lugar. O Senhor endurece o coração do Faraó, e ele diz: retira-te de mim; guarda-te de tornar a ver o meu rosto; no dia em que o vires, morrerás. Moisés responde: será como disseste; não tornarei a ver o teu rosto.",
+    "alegorico": "O Livro da Sabedoria medita longamente sobre estas trevas: os egípcios, prisioneiros da escuridão, enquanto “para os teus santos havia grandíssima luz” (Sb 17–18). É figura da luz de Cristo no coração dos fiéis, enquanto o mundo permanece nas trevas (Jo 1,5; 8,12). Os três dias de trevas anunciam as trevas da Sexta-feira Santa e a luz da manhã da Ressurreição.",
+    "moral": "As trevas paralisam: “um não via o outro, nem se movia”. É a imagem do pecado, que isola e imobiliza. A última negociação do Faraó é reter os rebanhos, os meios do culto: o mal aceita até que adoremos, desde que sem os meios para isso. Moisés não deixa “nem uma unha”: a entrega a Deus é total. E o diálogo termina em ruptura.",
+    "anagogico": "A luz nas casas de Israel antecipa a cidade celeste que “não precisa de sol nem de lua, porque a glória de Deus a ilumina” (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Haja trevas tão espessas que se possam apalpar.” “Um não via o outro, nem se movia do lugar em que estava.” “Porém, em toda a parte onde habitavam os filhos de Israel, havia luz.” “Não ficará nem uma unha.” “Guarda-te de tornar a ver o meu rosto.”",
+    "meditatio_perguntas": [
+      "Que trevas me paralisam e me impedem de ver o outro?",
+      "Há luz na minha casa, mesmo quando tudo à volta está escuro?",
+      "Estou disposto a entregar a Deus tudo, “sem deixar nem uma unha”?"
+    ],
+    "oratio_guia": "Senhor, luz verdadeira, acende a tua luz na minha casa quando tudo estiver em trevas. Liberta-me da escuridão que paralisa e isola, e aceita a entrega inteira da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "em toda a parte onde habitavam os filhos de Israel, havia luz",
+      "ref": "Ex 10,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

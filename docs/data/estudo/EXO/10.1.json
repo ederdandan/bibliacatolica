@@ -1,0 +1,40 @@
+{
+  "id": "EXO.10.1",
+  "livro": "EXO",
+  "titulo": "Os gafanhotos",
+  "secao": "No Egito",
+  "referencia": "Ex 10,1-20",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Os gafanhotos: “Até quando recusarás sujeitar-te a mim?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: vai ao Faraó, porque endureci o seu coração, para que faça estes sinais, e para que contes aos teus filhos e netos as coisas que fiz no Egito, e saibais que eu sou o Senhor. Moisés e Aarão dizem ao Faraó: “Assim diz o Senhor Deus dos hebreus: até quando recusarás sujeitar-te a mim? Deixa ir o meu povo para que me ofereça sacrifícios”; senão, amanhã trarei gafanhotos que cobrirão a face da terra e comerão o que restou do granizo. Os servos do Faraó dizem: até quando sofreremos este escândalo? Deixa ir esses homens; não vês que o Egito está perdido? O Faraó chama Moisés: ide, sacrificai ao Senhor; mas quem são os que hão de ir? — Iremos com os nossos jovens e velhos, filhos e filhas, ovelhas e bois. — Assim o Senhor esteja convosco como eu vos deixarei ir com os pequenos! Ide só os homens. E os expulsa. Moisés estende a vara; um vento do oriente sopra todo o dia e toda a noite e traz os gafanhotos, que cobrem o Egito e comem toda erva e todo fruto; não fica nada verde. O Faraó chama depressa: pequei contra o Senhor e contra vós; perdoai-me ainda esta vez e rogai ao Senhor. Moisés reza; um vento do ocidente leva os gafanhotos ao mar Vermelho. “O Senhor endureceu o coração do Faraó, e ele não deixou sair os filhos de Israel.”",
+    "alegorico": "A insistência em levar “os jovens e os velhos, os filhos e as filhas” anuncia que a libertação de Cristo é para todos, crianças incluídas, e que a fé se vive em família. O vento que traz e leva os gafanhotos lembra o Espírito, que sopra como quer (Jo 3,8).",
+    "moral": "Deus quer que a história seja contada “aos filhos e netos”: a memória da libertação é transmissão da fé. A nova estratégia do Faraó é deixar ir só os homens, mantendo os filhos como reféns: o mal procura sempre reter alguma coisa, sobretudo as crianças. Moisés não aceita: a adoração envolve toda a família. Os próprios servos percebem o desastre; o Faraó, não.",
+    "anagogico": "“Até quando?”: a pergunta de Deus ao homem obstinado ecoa até o fim, quando não haverá mais tempo para recusar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que contes aos teus filhos e aos teus netos.” “Até quando recusarás sujeitar-te a mim?” “Não vês que o Egito está perdido?” “Iremos com os nossos jovens e velhos, com os nossos filhos e filhas.” “Pequei contra o Senhor vosso Deus e contra vós.”",
+    "meditatio_perguntas": [
+      "Conto aos mais jovens o que Deus fez na minha vida?",
+      "Até quando vou recusar entregar a Deus algum ponto da minha vida?",
+      "Deixo os meus filhos “para trás” na vida de fé?"
+    ],
+    "oratio_guia": "Senhor, que perguntas “até quando?”, vence as minhas resistências. Dá-me levar contigo toda a minha casa, jovens e velhos, e contar às novas gerações as maravilhas que fizeste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Até quando recusarás sujeitar-se a mim?",
+      "ref": "Ex 10,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

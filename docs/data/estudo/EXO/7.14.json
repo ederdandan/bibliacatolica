@@ -1,0 +1,40 @@
+{
+  "id": "EXO.7.14",
+  "livro": "EXO",
+  "titulo": "A água em sangue",
+  "secao": "No Egito",
+  "referencia": "Ex 7,14-25",
+  "ini": {
+    "c": 7,
+    "v": 14
+  },
+  "fim": {
+    "c": 7,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A primeira praga: a água em sangue",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: o coração do Faraó está obstinado; não quer deixar ir o povo. Vai ter com ele de manhã, quando sair para a água, e espera-o à margem do rio, com a vara que se tornou serpente. Dize-lhe: o Senhor, Deus dos hebreus, me enviou a ti: deixa ir o meu povo para que me ofereça sacrifício no deserto; até agora não quiseste ouvir. “Nisto conhecerás que eu sou o Senhor: ferirei com a vara a água do rio, e ela se converterá em sangue.” Os peixes morrerão, as águas apodrecerão, e os egípcios terão nojo de beber a água do rio. Aarão estende a vara sobre as águas do Egito, rios, canais, lagos e depósitos; à vista do Faraó, fere a água do rio, e ela se converte em sangue. Os peixes morrem, o rio apodrece, há sangue em toda a terra do Egito. Os magos fazem o mesmo com os seus encantamentos, e o coração do Faraó se endurece; volta para casa e não dá importância a isso. Os egípcios cavam ao redor do rio em busca de água para beber. Passam sete dias.",
+    "alegorico": "O Nilo, fonte de vida do Egito e venerado como divindade, se torna sangue: os ídolos são feridos onde parecem mais fortes. O primeiro sinal de Moisés é transformar água em sangue para julgamento; o primeiro sinal de Jesus é transformar água em vinho para alegria das bodas (Jo 2,1-11), e o vinho se tornará o seu sangue para a salvação.",
+    "moral": "Deus fere aquilo em que o Egito põe a sua confiança: o rio. As pragas mostram que a criação se volta contra quem se opõe ao Criador. O Faraó “volta para casa e não dá importância”: a indiferença é uma forma de endurecimento. E o povo comum sofre as consequências da obstinação do poderoso.",
+    "anagogico": "As águas em sangue reaparecem nas taças do Apocalipse (Ap 16,4-6): o juízo final será a manifestação definitiva da justiça de Deus sobre os poderes opressores."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O coração de Faraó está obstinado.” “Nisto conhecerás que eu sou o Senhor.” “Ferirei com a vara… a água do rio, e ela se converterá em sangue.” “Voltou para sua casa, e nem ainda desta vez aplicou o seu coração.”",
+    "meditatio_perguntas": [
+      "Em que “rio” ponho a minha confiança, no lugar de Deus?",
+      "Quando Deus me fala por meio dos acontecimentos, “volto para casa” indiferente?",
+      "Que sofrimentos dos pequenos são consequência da obstinação dos poderosos?"
+    ],
+    "oratio_guia": "Senhor, que feriste o rio em que o Egito confiava, purifica as minhas falsas seguranças. Livra-me da indiferença que não dá importância aos teus sinais, e transforma a água da minha vida no vinho da tua alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nisto conhecerás que eu sou o Senhor",
+      "ref": "Ex 7,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EXO.2.1",
+  "livro": "EXO",
+  "titulo": "O nascimento de Moisés",
+  "secao": "No Egito",
+  "referencia": "Ex 2,1-10",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Moisés salvo das águas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um homem da casa de Levi casa com uma filha da mesma tribo. Ela concebe e dá à luz um filho; vendo que é formoso, esconde-o três meses. Não podendo escondê-lo mais, toma um cesto de junco, betuma-o com betume e pez, põe nele o menino e o expõe entre os juncos, à margem do rio. A irmã do menino fica de longe, para ver o que lhe acontecerá. A filha do Faraó desce ao rio para se lavar; vê o cesto entre os juncos e manda buscá-lo. Abre-o e vê o menino, que chora; tem compaixão dele e diz: é um dos filhos dos hebreus. A irmã se aproxima: queres que te chame uma mulher hebreia que o amamente? — Vai. A moça chama a mãe do menino. A filha do Faraó lhe diz: toma este menino, cria-o para mim, e eu te darei o teu salário. A mãe o toma e o cria. Quando o menino cresce, ela o entrega à filha do Faraó, “que o adotou por filho e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água”.",
+    "alegorico": "Moisés salvo das águas da morte é figura do batismo, que nos tira das águas para uma vida nova. O menino ameaçado pelo poder e salvo para ser o libertador do povo prefigura Jesus, salvo de Herodes e levado ao Egito (Mt 2,13-15). O cesto betumado lembra a arca de Noé: a mesma palavra hebraica designa ambos.",
+    "moral": "A salvação de Moisés é obra de mulheres corajosas e compassivas: a mãe que esconde e confia, a irmã que vigia, a filha do Faraó que se comove diante do choro de um estrangeiro. A compaixão atravessa as fronteiras de povo e de poder. Deus age por meio de gestos humildes de cuidado, e até a mãe recebe salário para criar o próprio filho.",
+    "anagogico": "O menino “tirado das águas” para libertar o seu povo anuncia Cristo, que, saindo das águas da morte, conduz o povo de Deus à liberdade eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vendo que era formoso, escondeu-o três meses.” “Expô-lo nos juncos à margem do rio.” “A irmã do menino ficou de longe, observando.” “Teve compaixão dele.” “Pôs-lhe o nome de Moisés, dizendo: eu o tirei da água.”",
+    "meditatio_perguntas": [
+      "Agradeço às pessoas que, como essas mulheres, salvaram a minha vida e a minha fé?",
+      "A compaixão diante do choro de alguém me move a agir, mesmo que seja “estrangeiro”?",
+      "Vivo o meu batismo como salvação das águas para uma missão?"
+    ],
+    "oratio_guia": "Senhor, que salvaste Moisés das águas pela coragem de três mulheres, abençoa as mães, as irmãs e todos os que cuidam das crianças. Dá-me um coração compassivo que não passa ao largo do choro de ninguém. Amém.",
+    "contemplatio_foco": {
+      "texto": "pôs-lhe o nome de Moisés, dizendo: eu o tirei da água",
+      "ref": "Ex 2,10"
+    }
+  },
+  "ancoras": {
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O nome Moisés é egípcio (“filho”, como em Tutmés, Ramsés), mas o texto o relaciona ao verbo hebraico mashah, “tirar”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EXO.12.29",
+  "livro": "EXO",
+  "titulo": "A morte dos primogênitos e a saída",
+  "secao": "No Egito",
+  "referencia": "Ex 12,29-42",
+  "ini": {
+    "c": 12,
+    "v": 29
+  },
+  "fim": {
+    "c": 12,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "A noite da libertação: a saída do Egito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "À meia-noite, o Senhor fere todos os primogênitos na terra do Egito, desde o primogênito do Faraó, que se assentava no trono, até o primogênito da cativa que estava no cárcere, e todos os primogênitos dos animais. O Faraó se levanta de noite, com todos os servos e todo o Egito, e há um grande clamor, porque não há casa onde não haja um morto. Chama Moisés e Aarão de noite: levantai-vos, saí do meio do meu povo, vós e os filhos de Israel; ide, sacrificai ao Senhor como dissestes; levai as ovelhas e os bois; e, ao partirdes, abençoai-me. Os egípcios apressam o povo a sair: morreremos todos. O povo leva a massa antes de levedar, atada nos mantos, sobre os ombros. Pedem aos egípcios objetos de prata, de ouro e vestidos, e o Senhor lhes dá graça; assim despojam os egípcios. Os filhos de Israel partem de Ramsés para Sucot, cerca de seiscentos mil homens a pé, sem contar as crianças, e uma multidão de gente misturada, ovelhas, gado. Cozem pães ázimos com a massa trazida do Egito, porque não puderam esperar. A permanência dos filhos de Israel no Egito foi de quatrocentos e trinta anos; no mesmo dia, todo o exército do Senhor sai do Egito. “Esta noite, em que os tirou da terra do Egito, deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações.”",
+    "alegorico": "A “noite de vigília para o Senhor” se cumpre na Vigília Pascal, “mãe de todas as vigílias” (Santo Agostinho), em que a Igreja canta no Exsultet: “Esta é a noite em que libertastes os filhos de Israel… esta é a noite em que Cristo, quebrando as cadeias da morte, subiu vitorioso dos infernos”. A “multidão misturada” que sai com Israel anuncia os pagãos que entram no povo de Deus.",
+    "moral": "A libertação chega de repente, depois de longa espera: é preciso estar pronto. O Faraó, que dizia “não conheço o Senhor”, pede agora: “abençoai-me”. O povo sai às pressas, sem tempo nem para fermentar o pão: a liberdade exige deixar para trás. E sai com a “multidão misturada”: o povo de Deus está aberto aos que se unem a ele.",
+    "anagogico": "A noite consagrada ao Senhor anuncia a última noite da história, quando o Senhor virá libertar definitivamente o seu povo; a Igreja vela à espera dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“À meia-noite o Senhor feriu todos os primogênitos.” “Não havia casa onde não houvesse um morto.” “Levantai-vos, saí do meio do meu povo.” “E, ao partirdes, abençoai-me.” “Esta noite… deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações.”",
+    "meditatio_perguntas": [
+      "Vivo a Vigília Pascal como a grande noite da minha libertação?",
+      "Estou pronto para partir, mesmo sem tempo de “fermentar o pão”?",
+      "O povo de Deus a que pertenço acolhe a “multidão misturada” que quer unir-se a ele?"
+    ],
+    "oratio_guia": "Senhor, que na noite santa libertaste Israel e quebraste as cadeias da morte em Cristo, faze-me vigiar contigo. Dá-me prontidão para partir e um coração aberto a todos os que buscam a tua liberdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esta noite, em que os tirou da terra do Egipto, deve ser consagrada ao Senhor",
+      "ref": "Ex 12,42"
+    }
+  },
+  "ancoras": {
+    "12:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O número de seiscentos mil homens pode ter valor simbólico, de plenitude; muitos estudiosos entendem a palavra “mil” como “clã” ou “unidade”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

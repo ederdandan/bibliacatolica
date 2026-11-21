@@ -1,0 +1,49 @@
+{
+  "id": "EXO.6.14",
+  "livro": "EXO",
+  "titulo": "A genealogia de Moisés e Aarão",
+  "secao": "No Egito",
+  "referencia": "Ex 6,14-30",
+  "ini": {
+    "c": 6,
+    "v": 14
+  },
+  "fim": {
+    "c": 6,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A genealogia de Moisés e Aarão: Deus age numa família concreta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estes são os chefes das casas, segundo as suas famílias.” Os filhos de Rúben, primogênito de Israel: Henoc, Falu, Hesron e Carmi. Os filhos de Simeão. Os filhos de Levi, segundo as suas gerações: Gerson, Caat e Merari; Levi vive cento e trinta e sete anos. Os filhos de Caat: Amram, Isaar, Hebron e Oziel. Amram toma por mulher Jocabed, tia do seu pai, que lhe dá Aarão e Moisés. Seguem os filhos de Isaar, entre os quais Coré, e os de Oziel. Aarão casa com Isabel, irmã de Naasson, que lhe dá Nadab, Abiú, Eleazar e Itamar; Eleazar gera Fineias. Estes são os chefes das famílias levíticas. “Estes são aquele Aarão e Moisés, a quem o Senhor ordenou que tirassem do Egito os filhos de Israel segundo as suas fileiras.” Retoma-se o relato: no dia em que o Senhor falou a Moisés no Egito, disse: eu sou o Senhor; dize ao Faraó tudo o que eu te digo. “Moisés respondeu ao Senhor: tenho dificuldade em falar; como me ouvirá o Faraó?”",
+    "alegorico": "A genealogia, que interrompe o relato, insere Moisés e Aarão numa família concreta, como os Evangelhos inserem Jesus na genealogia de Abraão e Davi (Mt 1; Lc 3). Aarão e os seus filhos anunciam o sacerdócio levítico, figura do sacerdócio de Cristo.",
+    "moral": "Deus não age por meio de heróis sem raízes, mas por pessoas com família, nomes, história, inclusive com membros que serão infiéis (Coré, Nadab e Abiú). A genealogia lembra que a missão nasce de uma tradição recebida. E, logo depois, Moisés repete a sua fraqueza: Deus continua a trabalhar com quem se sente incapaz.",
+    "anagogico": "Os nomes guardados nas listas lembram que Deus conhece cada um pelo nome e o inscreve no seu livro (Lc 10,20)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estes são os chefes das casas, segundo as suas famílias.” “Jocabed… deu-lhe Aarão e Moisés.” “Estes são aquele Aarão e Moisés, a quem o Senhor ordenou que tirassem do Egito os filhos de Israel.” “Tenho dificuldade em falar: como ouvirá Faraó?”",
+    "meditatio_perguntas": [
+      "Agradeço a Deus pela família e pela tradição em que recebi a fé?",
+      "Reconheço que Deus age através de pessoas comuns, com a sua história e as suas falhas?",
+      "Ainda me apoio na minha incapacidade para fugir da missão?"
+    ],
+    "oratio_guia": "Senhor, que conheces cada um pelo nome, obrigado pela minha família e por todos os que me transmitiram a fé. Tu que escolheste Moisés e Aarão, usa também a minha fraqueza para a tua obra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tenho dificuldade em falar: como ouvirá Faraó?",
+      "ref": "Ex 6,30"
+    }
+  },
+  "ancoras": {
+    "6:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jocabed, “tia do seu pai” segundo a Vulgata (o hebraico diz “sua tia”): casamento depois proibido pela Lei (Lv 18,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

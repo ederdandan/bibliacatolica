@@ -1,0 +1,49 @@
+{
+  "id": "EXO.12.1",
+  "livro": "EXO",
+  "titulo": "A instituição da Páscoa",
+  "secao": "No Egito",
+  "referencia": "Ex 12,1-28",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A instituição da Páscoa: o cordeiro, o sangue e o memorial",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés e Aarão no Egito: este mês será para vós o princípio dos meses. No dia dez, cada família tome um cordeiro; se for pequena para comê-lo, junte-se ao vizinho. O cordeiro será sem defeito, macho, de um ano; guardá-lo-eis até o dia catorze, e toda a assembleia o imolará à tarde. Tomarão do seu sangue e o porão nas duas ombreiras e na verga das portas das casas onde o comerem. Comerão a carne naquela noite, assada ao fogo, com pães ázimos e alfaces amargas; nada ficará até a manhã. “Comê-lo-eis assim: tereis cingidos os vossos rins, calçados nos pés, e bordão na mão, e comereis à pressa: é a Páscoa, isto é, a passagem do Senhor.” Naquela noite passarei pela terra do Egito e ferirei todo primogênito. “O sangue, porém, será para vós um sinal nas casas em que morardes, pois eu verei o sangue e passarei adiante.” “Este dia será para vós um dia memorável, e vós o celebrareis nas vossas gerações com um culto perpétuo.” Sete dias comereis pães ázimos. Moisés convoca os anciãos: tomai um cordeiro, imolai a Páscoa, molhai um ramo de hissopo no sangue e marcai as portas; ninguém saia de casa até a manhã. Quando os vossos filhos perguntarem: que significa este rito?, direis: é a vítima da passagem do Senhor, quando passou adiante das casas dos filhos de Israel no Egito. O povo se prostra e adora. E os filhos de Israel fazem como o Senhor ordenou.",
+    "alegorico": "“Cristo, nossa Páscoa, foi imolado” (1Cor 5,7). Ele é o Cordeiro sem defeito, morto na hora em que se imolavam os cordeiros no templo, cujo osso não foi quebrado (Jo 19,36; Ex 12,46); o seu sangue nos marca e nos livra da morte. O hissopo reaparece no Calvário (Jo 19,29). Jesus institui a Eucaristia numa ceia pascal: “fazei isto em memória de mim” é o novo memorial, que celebra a nova Páscoa até que Ele venha.",
+    "moral": "A libertação é dom de Deus, recebido com fé (o sangue nas portas) e prontidão (rins cingidos, sandálias nos pés, bordão na mão). A Páscoa é celebrada em família e em comunidade, e se transmite respondendo às perguntas dos filhos. O cristão vive sempre em atitude de êxodo, pronto para partir. Os pães sem fermento lembram que é preciso deixar o “fermento velho” da malícia (1Cor 5,8).",
+    "anagogico": "A Páscoa aponta para a passagem definitiva da morte à vida e para o banquete das núpcias do Cordeiro (Ap 19,9), onde celebraremos para sempre a libertação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este mês será para vós o princípio dos meses.” “Um cordeiro sem defeito, macho, de um ano.” “Comereis à pressa: é a Páscoa, isto é, a passagem do Senhor.” “Eu verei o sangue e passarei adiante.” “Este dia será para vós um dia memorável.” “Que significa este rito?”",
+    "meditatio_perguntas": [
+      "Vivo a Missa como memorial da Páscoa de Cristo, que me liberta?",
+      "Estou “de rins cingidos e bordão na mão”, pronto para partir quando Deus chama?",
+      "Respondo às perguntas dos mais novos sobre o sentido da fé?"
+    ],
+    "oratio_guia": "Cristo, nosso Cordeiro pascal, que o teu sangue marque a porta da minha vida e me livre da morte. Faze-me passar contigo da escravidão à liberdade e celebrar com fé o teu memorial, até que venhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu verei o sangue e passarei adiante",
+      "ref": "Ex 12,13"
+    }
+  },
+  "ancoras": {
+    "12:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Páscoa” (hebraico pesah) é ligada ao verbo “passar por cima”, “poupar”: o Senhor “passa” e poupa as casas marcadas pelo sangue.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

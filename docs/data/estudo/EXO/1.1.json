@@ -1,0 +1,49 @@
+{
+  "id": "EXO.1.1",
+  "livro": "EXO",
+  "titulo": "A opressão; as parteiras",
+  "secao": "No Egito",
+  "referencia": "Ex 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A opressão no Egito e as parteiras que temem a Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó, cada um com a sua família: Rúben, Simeão, Levi, Judá e os demais; ao todo, setenta pessoas; José já estava no Egito. Morre José, os irmãos e toda aquela geração. Os filhos de Israel crescem, multiplicam-se e enchem a terra. Levanta-se no Egito um novo rei, que não conhecera José, e diz ao seu povo: o povo dos filhos de Israel é numeroso e mais forte do que nós; oprimamo-lo com astúcia, para que não se multiplique e, em caso de guerra, se junte aos nossos inimigos. Põem sobre eles capatazes de obras, que os afligem com trabalhos pesados; constroem para o Faraó as cidades-armazém de Pitom e Ramsés. Mas, quanto mais os oprimem, tanto mais se multiplicam. Os egípcios os odeiam e lhes tornam a vida amarga com trabalhos duros de barro e tijolo e nos campos. O rei ordena às parteiras dos hebreus, Séfora e Fua: quando assistirdes às hebreias, se for menino, matai-o; se for menina, conservai-a. “Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egito, mas conservavam os meninos.” Chamadas pelo rei, desculpam-se: as hebreias são vigorosas e dão à luz antes que cheguemos. Deus faz bem às parteiras, e o povo cresce; porque temeram a Deus, Ele lhes dá famílias. Então o Faraó ordena a todo o povo: lançai ao rio todo menino que nascer; conservai as meninas.",
+    "alegorico": "A matança dos meninos hebreus prefigura a de Belém por Herodes (Mt 2,16-18); e, como Moisés será salvo, Jesus será salvo para ser o libertador. O povo que cresce sob a opressão é imagem da Igreja que cresce na perseguição: “o sangue dos mártires é semente de cristãos” (Tertuliano).",
+    "moral": "O poder que esquece a história (“não conhecera José”) e teme os mais fracos recorre à opressão e, por fim, à morte dos inocentes. As parteiras são as primeiras objetoras de consciência da Bíblia: o temor de Deus é mais forte que a ordem injusta do rei. Duas mulheres simples, de quem a Escritura guarda os nomes, enquanto o do Faraó fica esquecido. A defesa da vida nascente é obra que Deus abençoa.",
+    "anagogico": "O povo que se multiplica apesar da opressão anuncia a vitória final da vida sobre todos os poderes de morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levantou-se no Egito um novo rei, que não conhecia José.” “Quanto mais os oprimiam, tanto mais se multiplicavam.” “Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egito, mas conservavam os meninos.” “Deus fez bem às parteiras.”",
+    "meditatio_perguntas": [
+      "Há ordens ou pressões injustas a que eu deva resistir por temor de Deus?",
+      "Defendo a vida dos mais frágeis, sobretudo das crianças ainda por nascer?",
+      "Creio que a opressão não pode deter o crescimento do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor da vida, dá-me o temor de Deus das parteiras, mais forte que o medo dos poderosos. Protege as crianças e as mães, e faze crescer o teu povo mesmo na prova. Amém.",
+    "contemplatio_foco": {
+      "texto": "Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egipto",
+      "ref": "Ex 1,17"
+    }
+  },
+  "ancoras": {
+    "1:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pitom e Ramsés eram cidades do delta do Nilo; Ramsés lembra o faraó Ramsés II (séc. XIII a.C.), em cujo tempo muitos situam o Êxodo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
