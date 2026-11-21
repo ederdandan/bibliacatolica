@@ -1,0 +1,40 @@
+{
+  "id": "GEN.24.28",
+  "livro": "GEN",
+  "titulo": "Rebeca diz: irei",
+  "secao": "Abraão",
+  "referencia": "Gn 24,28-67",
+  "ini": {
+    "c": 24,
+    "v": 28
+  },
+  "fim": {
+    "c": 24,
+    "v": 67
+  },
+  "liturgia": {
+    "tema_central": "Rebeca diz “irei”, e Isaac a ama",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Rebeca corre e conta tudo em casa. Labão, seu irmão, vendo as joias, vai ao poço e convida o servo: entra, bendito do Senhor. Põem comida diante dele, mas ele diz: não comerei enquanto não disser o que tenho a dizer. Conta toda a história: a riqueza de Abraão, o nascimento de Isaac, o juramento, a oração junto ao poço, o sinal cumprido. E pede uma resposta clara. Labão e Batuel respondem: “Do Senhor veio isto; não podemos dizer-te outra coisa”. O servo adora o Senhor, dá joias e vestidos a Rebeca e presentes à família. De manhã, quer partir; a mãe e o irmão pedem que a moça fique ao menos dez dias. Chamam Rebeca e lhe perguntam: “Queres ir com este homem?” Ela responde: “Irei”. Despedem-na com a bênção: és nossa irmã; cresças em milhares de milhares. Isaac, que habitava no Negueb, “tinha saído ao campo para meditar, ao cair da tarde”, e, levantando os olhos, vê vir os camelos. Rebeca o vê, desce do camelo, cobre-se com o manto. O servo conta tudo a Isaac. Ele a introduz na tenda de Sara, sua mãe, a recebe por mulher, e “tão extremosamente a amou, que moderou a dor que lhe ocasionara a morte de sua mãe”.",
+    "alegorico": "O “irei” livre de Rebeca prefigura o “faça-se” de Maria e a resposta de cada alma ao chamado de Cristo. Isaac que medita no campo ao entardecer é imagem da oração da tarde, as Vésperas, e de Cristo que espera a Esposa.",
+    "moral": "A família reconhece a mão de Deus (“do Senhor veio isto”), mas a decisão final é da própria Rebeca: a liberdade da mulher é respeitada. O servo é fiel até o fim, sem se distrair nem com a comida. O amor conjugal não apaga a dor da perda, mas a consola. Isaac nos ensina o valor do recolhimento e da meditação.",
+    "anagogico": "A esposa que chega e é introduzida na tenda anuncia a entrada da Igreja nas bodas do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Do Senhor veio isto; não podemos dizer-te outra coisa.” “Queres ir com este homem? Ela respondeu: Irei.” “Tinha saído ao campo para meditar, ao cair da noite.” “Tão extremosamente a amou, que moderou a dor que lhe ocasionara a morte de sua mãe.”",
+    "meditatio_perguntas": [
+      "Reconheço quando algo “vem do Senhor”, e me submeto?",
+      "Respondo “irei” ao chamado de Deus com liberdade e prontidão?",
+      "Tenho os meus momentos de “meditar no campo, ao cair da tarde”?"
+    ],
+    "oratio_guia": "Senhor, que eu reconheça a tua mão e responda com Rebeca: “irei”. Dá-me o recolhimento de Isaac e um amor que console as perdas. Abençoa as famílias que começam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ela respondeu: Irei",
+      "ref": "Gn 24,58"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

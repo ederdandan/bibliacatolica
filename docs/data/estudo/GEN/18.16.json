@@ -1,0 +1,40 @@
+{
+  "id": "GEN.18.16",
+  "livro": "GEN",
+  "titulo": "A intercessão por Sodoma",
+  "secao": "Abraão",
+  "referencia": "Gn 18,16-33",
+  "ini": {
+    "c": 18,
+    "v": 16
+  },
+  "fim": {
+    "c": 18,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Abraão intercede por Sodoma: a ousadia do amigo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os homens se levantam e olham para Sodoma; Abraão os acompanha. O Senhor diz: poderei esconder de Abraão o que vou fazer, se ele há de ser pai de uma grande nação e se eu sei que ele ordenará aos filhos que guardem o caminho do Senhor, praticando a justiça? O clamor de Sodoma e Gomorra aumentou; descerei e verei. Dois partem para Sodoma; Abraão permanece diante do Senhor e se aproxima: “Perderás o justo com o ímpio? Se houver cinquenta justos na cidade, perecerão também? Longe de ti fazer tal coisa! Tu que julgas toda a terra, não farás justiça?” — Se encontrar cinquenta justos, perdoarei a cidade. Abraão insiste: “Uma vez que comecei, falarei ao meu Senhor, ainda que eu seja pó e cinza”: e se faltarem cinco? Quarenta? Trinta? Vinte? A cada pergunta, o Senhor cede. Por fim: “Não te enfades se eu falar ainda uma vez: e se lá forem achados dez justos?” — “Não a destruirei por amor dos dez.” O Senhor se retira, e Abraão volta para casa.",
+    "alegorico": "Abraão que intercede por uma cidade pecadora é figura de Cristo, o grande intercessor, que “vive sempre para interceder por nós” (Hb 7,25). Mas onde Abraão para em dez justos, Cristo vai mais longe: basta Ele, o único Justo, para salvar a multidão dos pecadores (Rm 5,19).",
+    "moral": "Deus trata Abraão como amigo e lhe revela os seus planos. A intercessão é ousada, persistente e humilde ao mesmo tempo: “sou pó e cinza”. Abraão não reza contra Sodoma, mas por Sodoma, onde vive o seu sobrinho. Poucos justos podem obter misericórdia para muitos: a presença dos santos é proteção para o mundo.",
+    "anagogico": "Deus, “juiz de toda a terra”, fará justiça no último dia; e a intercessão dos santos acompanha a Igreja até lá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Poderei eu esconder a Abraão o que vou fazer?” “Perderás tu o justo com o ímpio?” “Tu que julgas toda a terra, de nenhuma sorte farás tal juízo.” “Falarei ao meu Senhor, ainda que eu seja pó e cinza.” “Não a destruirei por amor dos dez.”",
+    "meditatio_perguntas": [
+      "Rezo pelas “Sodomas” do meu tempo, ou só as condeno?",
+      "A minha oração é ousada e perseverante como a de Abraão?",
+      "Sou um dos “justos” por causa dos quais Deus poupa a minha cidade?"
+    ],
+    "oratio_guia": "Senhor, juiz de toda a terra, eu, pó e cinza, ouso falar-te pela minha cidade e pelo mundo. Pelo único Justo, Jesus, tem piedade de nós. Faze-me intercessor perseverante e justo entre os meus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Falarei ao meu Senhor, ainda que eu seja pó e cinza",
+      "ref": "Gn 18,27"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

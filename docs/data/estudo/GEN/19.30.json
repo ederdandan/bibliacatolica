@@ -1,0 +1,40 @@
+{
+  "id": "GEN.19.30",
+  "livro": "GEN",
+  "titulo": "Ló e as filhas",
+  "secao": "Abraão",
+  "referencia": "Gn 19,30-38",
+  "ini": {
+    "c": 19,
+    "v": 30
+  },
+  "fim": {
+    "c": 19,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Ló na caverna: as consequências de uma vida dividida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ló sai de Segor, porque tem medo de ficar ali, e vai habitar no monte, numa caverna, com as duas filhas. A mais velha diz à mais nova: o nosso pai é velho e não ficou homem nenhum na terra que possa unir-se a nós segundo o costume de toda a terra; demos vinho a nosso pai e durmamos com ele, para conservarmos a descendência. Naquela noite dão vinho ao pai, e a mais velha dorme com ele; ele não percebe nem quando ela se deita nem quando se levanta. Na noite seguinte, a mais nova faz o mesmo. Assim as duas filhas de Ló concebem do pai. A mais velha dá à luz um filho e o chama Moab: este é o pai dos moabitas até hoje. A mais nova dá à luz um filho e o chama Amon, “filho do meu povo”: este é o pai dos amonitas.",
+    "alegorico": "Deste episódio triste nascem Moab e Amon. E, no entanto, de Moab virá Rute, bisavó de Davi e antepassada de Cristo (Rt 4,13-17; Mt 1,5): a graça de Deus pode tirar bênção até de origens marcadas pelo pecado.",
+    "moral": "Ló, que escolheu a planície fértil perto de Sodoma, acaba isolado numa caverna, com medo, embriagado e desonrado. É o fim triste de uma vida de escolhas mornas. As filhas, criadas em Sodoma, raciocinam segundo a lógica do medo e não da fé. A embriaguez abre a porta a graves pecados.",
+    "anagogico": "A genealogia de Cristo, que inclui Rute, a moabita, mostra que nenhuma história humana é perdida demais para a redenção final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Loth… retirou-se para o monte com suas duas filhas, porque temia ficar em Segor.” “Não ficou homem algum na terra.” “Ele não percebeu nada.” “Este é o pai dos moabitas.”",
+    "meditatio_perguntas": [
+      "Que escolhas mornas podem levar-me, aos poucos, a uma “caverna”?",
+      "Ajo pelo medo ou pela confiança em Deus?",
+      "Creio que Deus pode tirar bem até das histórias marcadas pelo pecado?"
+    ],
+    "oratio_guia": "Senhor, livra-me das escolhas mornas que afastam de ti e da embriaguez que tira a consciência. Tu que de Moab fizeste nascer Rute, tira bem das feridas da minha história. Amém.",
+    "contemplatio_foco": {
+      "texto": "retirou-se para o monte com suas duas filhas",
+      "ref": "Gn 19,30"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

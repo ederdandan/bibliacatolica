@@ -1,0 +1,57 @@
+{
+  "id": "GEN.6.1",
+  "livro": "GEN",
+  "titulo": "A corrupção da terra",
+  "secao": "Origens",
+  "referencia": "Gn 6,1-8",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "A dor de Deus diante da maldade e a graça de Noé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando os homens começam a multiplicar-se sobre a terra, os filhos de Deus veem que as filhas dos homens são belas e tomam por mulheres as que escolhem. Deus diz: o meu espírito não permanecerá para sempre no homem, porque ele é carne; os seus dias serão cento e vinte anos. Havia gigantes sobre a terra naqueles dias, homens famosos. Vendo Deus que era grande a malícia dos homens sobre a terra, e que todos os pensamentos do seu coração se inclinavam ao mal continuamente, “arrependeu-se de ter feito o homem sobre a terra, e, tocado de íntima dor de coração”, disse: exterminarei da face da terra o homem que criei, desde o homem até os animais. “Porém Noé achou graça diante do Senhor.”",
+    "alegorico": "A “íntima dor de coração” de Deus anuncia o Coração de Cristo, que chora sobre Jerusalém (Lc 19,41) e se compadece das multidões. Noé, que acha graça no meio de uma geração perdida, prefigura Cristo, o Justo, por meio de quem Deus salva o mundo, e também Maria, “cheia de graça”.",
+    "moral": "O pecado não é coisa indiferente para Deus: fere-o no coração. A corrupção cresce quando o desejo (“viram que eram belas e tomaram as que escolheram”) não conhece limite. Mas, mesmo quando todos se perdem, um só justo pode ser o começo de um mundo novo. A graça encontra sempre alguém disponível.",
+    "anagogico": "O limite posto à vida humana (“cento e vinte anos”) lembra que o tempo é breve e prepara o juízo; mas a graça encontrada por Noé anuncia que Deus sempre guarda um resto para o seu Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O meu espírito não permanecerá para sempre no homem, porque ele é carne.” “Vendo Deus que era grande a malícia dos homens.” “Arrependeu-se de ter feito o homem sobre a terra, e, tocado de íntima dor de coração…” “Porém Noé achou graça diante do Senhor.”",
+    "meditatio_perguntas": [
+      "Percebo que o meu pecado entristece o coração de Deus?",
+      "Deixo-me levar pelo que “todos fazem”?",
+      "Como posso, como Noé, acolher a graça no meio de um ambiente corrompido?"
+    ],
+    "oratio_guia": "Senhor, cujo coração se entristece com o mal, perdoa-me por te ter ferido. Dá-me achar graça diante de ti, como Noé, e ser fiel no meio da minha geração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porém Noé achou graça diante do Senhor",
+      "ref": "Gn 6,8"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Filhos de Deus” foi entendido pelos Padres como a descendência piedosa de Set, que se misturou com a de Caim; antigas tradições judaicas pensaram em seres celestes.",
+        "origem": "ia"
+      }
+    },
+    "6:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Arrependeu-se”: linguagem humana para exprimir a dor de Deus diante do pecado, não uma mudança no seu ser.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

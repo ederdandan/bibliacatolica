@@ -1,0 +1,49 @@
+{
+  "id": "GEN.29.31",
+  "livro": "GEN",
+  "titulo": "Os filhos de Jacó",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 29,31–30,24",
+  "ini": {
+    "c": 29,
+    "v": 31
+  },
+  "fim": {
+    "c": 30,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Os filhos de Jacó: Deus olha para Lia e se lembra de Raquel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O Senhor, vendo que Jacó desprezava Lia, tornou-a fecunda, permanecendo estéril a irmã.” Lia dá à luz Rúben: o Senhor viu a minha humilhação; agora o meu marido me amará. Depois Simeão: o Senhor ouviu que eu era desprezada. Depois Levi: agora o meu marido se unirá a mim. A quarta vez: “Agora louvarei o Senhor”, e o chama Judá. Raquel, sem filhos, tem inveja da irmã e diz a Jacó: dá-me filhos, senão morrerei. Jacó se irrita: estou eu no lugar de Deus? Raquel lhe dá a sua serva Bala, que gera Dã e Neftali (“lutei com minha irmã”). Lia, que deixara de conceber, dá-lhe a serva Zelfa, que gera Gad e Aser (“feliz de mim”). Rúben encontra mandrágoras no campo; Raquel as pede, e em troca cede a Lia uma noite com Jacó; Lia gera Issacar e Zabulon, e uma filha, Dina. Por fim, “o Senhor lembrou-se também de Raquel, ouviu-a e tornou-a fecunda”. Ela dá à luz um filho: Deus tirou o meu opróbrio; e o chama José, dizendo: o Senhor me dê ainda outro filho.",
+    "alegorico": "De Lia, a menos amada, nascem Levi, de quem vem o sacerdócio, e Judá, de quem vem a realeza de Davi e o Messias: Deus escolhe o que é desprezado para confundir o que é forte (1Cor 1,27-28). José, filho da amada longamente estéril, será figura de Cristo.",
+    "moral": "Deus olha com especial cuidado os menos amados. Os nomes dos filhos contam a história das duas irmãs: a dor, a esperança de ser amada, a inveja, a competição. A rivalidade usa até os filhos como armas. Mas, no meio disso, Lia chega a um ponto de paz: “agora louvarei o Senhor”, sem esperar mais nada do marido. E Deus, no seu tempo, também se lembra de Raquel.",
+    "anagogico": "Os doze filhos, nascidos entre rivalidades e lágrimas, darão nome às doze portas da Jerusalém celeste (Ap 21,12): Deus faz da história ferida um povo eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor, vendo que ele desprezava Lia, tornou-a fecunda.” “O Senhor viu a minha humilhação.” “Agora louvarei o Senhor.” “Dá-me filhos, senão morrerei.” “Porventura estou eu em lugar de Deus?” “O Senhor lembrou-se também de Raquel, ouviu-a.”",
+    "meditatio_perguntas": [
+      "Sinto-me como Lia, menos amada? Creio que Deus me vê?",
+      "Uso os outros, até os filhos, nas minhas rivalidades?",
+      "Consigo dizer “agora louvarei o Senhor” sem esperar a aprovação dos outros?"
+    ],
+    "oratio_guia": "Senhor, que olhaste para Lia e te lembraste de Raquel, olha para os desprezados e para os que esperam há muito tempo. Livra-me da inveja e ensina-me a louvar-te, mesmo quando não sou amado como desejo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor lembrou-se também de Raquel, ouviu-a e tornou-a fecunda",
+      "ref": "Gn 30,22"
+    }
+  },
+  "ancoras": {
+    "29:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os nomes dos filhos formam jogos de palavras: Rúben (“vede, um filho”), Simeão (“ouvir”), Levi (“unir”), Judá (“louvar”), José (“acrescentar” e “tirar”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

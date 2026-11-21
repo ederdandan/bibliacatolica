@@ -1,0 +1,57 @@
+{
+  "id": "GEN.1.1",
+  "livro": "GEN",
+  "titulo": "A criação em seis dias e o repouso",
+  "secao": "Origens",
+  "referencia": "Gn 1,1–2,3",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Deus cria todas as coisas boas pela sua palavra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“No princípio criou Deus o céu e a terra.” A terra era informe e vazia, havia trevas sobre o abismo, e o Espírito de Deus movia-se sobre as águas. Deus fala, e as coisas existem. No primeiro dia faz a luz e a separa das trevas: chama à luz dia e às trevas noite. No segundo, o firmamento, que separa as águas de cima das de baixo. No terceiro, junta as águas e aparece a terra seca, que produz erva e árvores, cada uma segundo a sua espécie. No quarto, os luzeiros do céu, o sol, a lua e as estrelas, para marcar os tempos. No quinto, os peixes e as aves, que Deus abençoa: crescei e multiplicai-vos. No sexto, os animais da terra; e por fim o homem: “Façamos o homem à nossa imagem e semelhança, e domine sobre os peixes, as aves, os animais e toda a terra”. Deus o cria à sua imagem, varão e mulher, abençoa-os, manda-os encher a terra e dá-lhes as plantas por alimento. Ao fim de cada obra, um refrão: “Deus viu que era bom”; ao fim do sexto dia, “eram muito boas”. No sétimo dia Deus acaba a obra, descansa, abençoa o sétimo dia e o santifica.",
+    "alegorico": "São João abre o Evangelho com as mesmas palavras: “No princípio era o Verbo… tudo foi feito por ele” (Jo 1,1-3). O “Deus disse” é a Palavra criadora, que é Cristo; o Espírito sobre as águas anuncia o batismo, em que a criação recomeça. Os Padres viram no plural “façamos” um primeiro vislumbre da Trindade, e na luz do primeiro dia a figura de Cristo, luz do mundo, e da Ressurreição, que aconteceu também no “primeiro dia”.",
+    "moral": "Nada do que Deus fez é mau: a matéria, o corpo, a sexualidade e o mundo são bons. O homem não é dono absoluto, mas administrador que “domina” como Deus, com sabedoria e cuidado. Homem e mulher têm igual dignidade, porque ambos são imagem de Deus. O repouso do sétimo dia ensina que a vida humana não se reduz à produção: há tempo para descansar, contemplar e louvar.",
+    "anagogico": "O sétimo dia é o único sem o refrão “houve tarde e manhã”: os Padres viram nele a figura do repouso eterno de Deus, ainda aberto, no qual os fiéis são chamados a entrar (Hb 4,9-11). A primeira criação aponta para os “novos céus e nova terra” (Ap 21,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No princípio criou Deus o céu e a terra.” “O Espírito de Deus movia-se sobre as águas.” “Faça-se a luz. E a luz foi feita.” “Façamos o homem à nossa imagem e semelhança.” “Deus viu todas as coisas que tinha feito, e eram muito boas.” “Abençoou o dia sétimo, e o santificou.”",
+    "meditatio_perguntas": [
+      "Vejo o mundo, o corpo e as outras pessoas como coisas “muito boas” saídas das mãos de Deus?",
+      "Como exerço o “domínio” que Deus me confiou: como dono ou como administrador?",
+      "Reservo um tempo de repouso que seja também tempo de louvor?"
+    ],
+    "oratio_guia": "Deus criador, que tudo fizeste pela tua Palavra e viste que era muito bom, obrigado pelo mundo e pela minha vida. Renova em mim a tua imagem, ensina-me a cuidar da tua criação e a descansar em ti no teu dia santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "E Deus viu todas as coisas que tinha feito, e eram muito boas",
+      "ref": "Gn 1,31"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O relato de 1,1–2,3 tem forma litúrgica, com sete dias e refrões. Não pretende ser uma descrição científica, mas confessa que tudo vem de Deus e é bom.",
+        "origem": "ia"
+      }
+    },
+    "1:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Imagem e semelhança”: os Padres distinguiram a imagem (a razão e a liberdade, que não se perdem) da semelhança (a santidade, perdida pelo pecado e restaurada pela graça).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

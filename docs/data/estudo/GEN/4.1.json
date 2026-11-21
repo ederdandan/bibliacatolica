@@ -1,0 +1,40 @@
+{
+  "id": "GEN.4.1",
+  "livro": "GEN",
+  "titulo": "Caim e Abel",
+  "secao": "Origens",
+  "referencia": "Gn 4,1-16",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Caim e Abel: a inveja que mata o irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Adão conhece Eva, que concebe e dá à luz Caim, dizendo: “Adquiri um homem por mercê de Deus”; depois dá à luz Abel. Abel é pastor de ovelhas, Caim lavrador. Caim oferece ao Senhor frutos da terra; Abel, os primogênitos do rebanho e o que tinham de melhor. O Senhor olha para Abel e a sua oferta, mas não para Caim e a sua. Caim se irrita muito e o seu rosto se abate. Deus lhe diz: por que estás irado? Se obrares bem, não serás aceito? Se obrares mal, o pecado está logo à tua porta, mas tu o dominarás. Caim diz ao irmão: “Saiamos fora”; no campo, lança-se sobre Abel e o mata. O Senhor pergunta: “Onde está teu irmão Abel?” — “Não sei; sou eu porventura o guarda de meu irmão?” — “Que fizeste? A voz do sangue de teu irmão clama da terra até mim.” Caim será maldito e errante sobre a terra. Caim lamenta: o meu castigo é grande demais; quem me encontrar me matará. Deus põe nele um sinal, para que ninguém o mate, e Caim habita na terra de Nod, a oriente do Éden.",
+    "alegorico": "Abel, pastor justo que oferece o melhor e morre pela inveja do irmão, é figura de Cristo, Bom Pastor, entregue por inveja (Mt 27,18). O seu sangue clamava vingança; o de Cristo “fala melhor que o de Abel”, porque pede perdão (Hb 12,24). O Cânon Romano recorda “as ofertas do justo Abel”.",
+    "moral": "A oferta de Abel agrada porque nasce de um coração que dá o melhor (Hb 11,4). A inveja diante do bem do outro, se não é dominada, cresce até o crime. Deus avisa antes: “o pecado está à porta, mas tu o dominarás”. Ninguém pode responder “não sei” a respeito do irmão. E Deus, que pune, também protege a vida do assassino: nenhuma vida humana fica fora do seu cuidado.",
+    "anagogico": "O sangue dos inocentes que clama da terra será ouvido: os mártires sob o altar clamam “até quando?” (Ap 6,9-10), e Deus enxugará toda lágrima no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se obrares mal, estará logo o pecado à tua porta… e tu o dominarás.” “Onde está teu irmão Abel?” “Não sei; sou eu porventura o guarda de meu irmão?” “A voz do sangue de teu irmão clama da terra até mim.”",
+    "meditatio_perguntas": [
+      "Dou a Deus o melhor, ou o que sobra?",
+      "Que inveja está “à minha porta”, e como posso dominá-la?",
+      "A quem respondo “não sei” quando Deus me pergunta pelo meu irmão?"
+    ],
+    "oratio_guia": "Senhor, que avisas antes que o pecado entre, dá-me força para dominar a inveja e a ira. Faze-me guarda dos meus irmãos e oferece por mim o sangue de Jesus, que fala melhor que o de Abel. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura sou eu o guarda de meu irmão?",
+      "ref": "Gn 4,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

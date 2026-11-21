@@ -1,0 +1,40 @@
+{
+  "id": "GEN.9.1",
+  "livro": "GEN",
+  "titulo": "A aliança e o arco-íris",
+  "secao": "Origens",
+  "referencia": "Gn 9,1-17",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A aliança com Noé e toda a criação: o arco nas nuvens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus abençoa Noé e os filhos: “Crescei e multiplicai-vos e enchei a terra”. Os animais temerão o homem; tudo o que se move e vive servirá de alimento, como as plantas; mas não comereis a carne com o sangue, que é a sua vida. Pedirei conta do sangue humano a todo animal e a todo homem: “Todo o que derramar o sangue humano será castigado com a efusão do seu próprio sangue, porque o homem foi feito à imagem de Deus”. Deus diz a Noé e aos filhos: estabeleço a minha aliança convosco, com a vossa descendência e com todos os seres vivos que saíram da arca: não haverá mais dilúvio para destruir a terra. Este é o sinal da aliança: “Porei o meu arco nas nuvens, e ele será o sinal da aliança entre mim e a terra”. Quando eu cobrir o céu de nuvens, o arco aparecerá, e eu me lembrarei da minha aliança. “Este será o sinal da aliança que eu constituí entre mim e toda a carne.”",
+    "alegorico": "A aliança com Noé, estendida a toda a humanidade e a toda a criação, prepara a aliança nova e eterna em Cristo, oferecida a todos os povos. O arco “posto” por Deus foi lido como o arco de guerra pendurado nas nuvens: Deus depõe as armas e escolhe a paz, como na cruz, onde Cristo “fez a paz pelo sangue” (Cl 1,20).",
+    "moral": "A vida humana é sagrada porque o homem é imagem de Deus: este é o fundamento do mandamento “não matarás”. O respeito pelo sangue, até no alimento, educa para o respeito à vida. A aliança envolve “toda a carne”: Deus cuida também dos animais e da terra, e nós com Ele.",
+    "anagogico": "O arco-íris reaparece ao redor do trono de Deus no céu (Ap 4,3; Ez 1,28): a aliança de paz com a criação é penhor da glória final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Crescei e multiplicai-vos.” “Todo o que derramar o sangue humano… porque o homem foi feito à imagem de Deus.” “Estabeleço a minha aliança convosco.” “Porei o meu arco nas nuvens, e ele será o sinal da aliança entre mim e a terra.” “Eu me lembrarei da minha aliança.”",
+    "meditatio_perguntas": [
+      "Defendo a vida humana em todas as suas fases como imagem de Deus?",
+      "Quando vejo o arco-íris, lembro-me da fidelidade de Deus?",
+      "Como participo da aliança de Deus com toda a criação?"
+    ],
+    "oratio_guia": "Deus fiel, que puseste o teu arco nas nuvens e te lembras da tua aliança, obrigado pela paz que nos ofereces. Faze-me defensor de toda vida humana, imagem tua, e guardião da tua criação. Amém.",
+    "contemplatio_foco": {
+      "texto": "porei o meu arco nas nuvens, e ele será o sinal da aliança entre mim e a terra",
+      "ref": "Gn 9,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

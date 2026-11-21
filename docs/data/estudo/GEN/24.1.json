@@ -1,0 +1,40 @@
+{
+  "id": "GEN.24.1",
+  "livro": "GEN",
+  "titulo": "O servo e Rebeca junto ao poço",
+  "secao": "Abraão",
+  "referencia": "Gn 24,1-27",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "O servo de Abraão reza junto ao poço e Deus responde",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abraão, velho e abençoado em tudo, chama o servo mais antigo da sua casa, que administrava todos os seus bens, e o faz jurar que não tomará para Isaac mulher entre as filhas dos cananeus, mas irá à sua terra e à sua parentela. O servo pergunta: e se a mulher não quiser vir? Devo levar o teu filho para lá? Abraão responde: guarda-te de levar para lá o meu filho; o Senhor Deus do céu enviará o seu anjo adiante de ti; se ela não quiser, estarás livre do juramento. O servo parte com dez camelos e presentes para a Mesopotâmia, à cidade de Nacor. À tarde, junto ao poço, faz os camelos ajoelharem e reza: “Senhor Deus do meu senhor Abraão, rogo-te que me auxilies hoje e uses de misericórdia para com o meu senhor”. Pede um sinal: a moça a quem eu disser “dá-me de beber” e que responder “bebe, e darei de beber também aos teus camelos”, seja a escolhida para Isaac. Ainda não acabara de falar, sai Rebeca, filha de Batuel, com o cântaro ao ombro, moça muito formosa e virgem. Ela lhe dá de beber e se oferece para tirar água para todos os camelos. O servo a contempla em silêncio. Pergunta de quem é filha; ela responde e oferece hospedagem. O homem se inclina e adora o Senhor: “Bendito o Senhor Deus do meu senhor Abraão, que não retirou a sua misericórdia e a sua verdade do meu senhor, e me conduziu direito à casa do irmão do meu senhor”.",
+    "alegorico": "O servo enviado pelo pai para buscar uma esposa para o filho foi lido pelos Padres como figura do Espírito Santo, ou dos apóstolos, que vão buscar a Igreja para Cristo. O encontro junto ao poço antecipa os encontros de Jacó e Raquel, de Moisés e Séfora, e de Jesus com a samaritana.",
+    "moral": "O servo não confia só na sua esperteza: reza, pede um sinal concreto e observa com atenção. O sinal escolhido não é mágico, mas revela o caráter: a generosidade de quem tira água para dez camelos cansados. Quando Deus responde, o servo adora imediatamente. As grandes decisões, como o casamento, pedem oração e discernimento.",
+    "anagogico": "A esposa buscada em terra distante e conduzida ao filho anuncia a Igreja, reunida de todos os povos e levada às núpcias eternas com Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor Deus do céu enviará o seu anjo adiante de ti.” “Ó Senhor Deus do meu senhor Abraão, rogo-te que me auxilies hoje.” “Bebe, e darei de beber também aos teus camelos.” “Bendito o Senhor Deus do meu senhor Abraão, que não retirou a sua misericórdia e a sua verdade.”",
+    "meditatio_perguntas": [
+      "Rezo antes das grandes decisões e peço luz concreta a Deus?",
+      "Que sinais de caráter observo nas pessoas a quem confio a minha vida?",
+      "Agradeço e adoro quando Deus responde às minhas orações?"
+    ],
+    "oratio_guia": "Senhor, Deus fiel que não retiras a tua misericórdia nem a tua verdade, envia o teu anjo adiante de mim e guia os meus passos. Abençoa os que buscam um esposo ou uma esposa, e dá-lhes discernimento. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bendito o Senhor Deus do meu Senhor Abraão, que não retirou a sua misericórdia e a sua verdade do meu senhor",
+      "ref": "Gn 24,27"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

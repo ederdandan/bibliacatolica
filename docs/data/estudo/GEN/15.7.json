@@ -1,0 +1,49 @@
+{
+  "id": "GEN.15.7",
+  "livro": "GEN",
+  "titulo": "A aliança entre os animais partidos",
+  "secao": "Abraão",
+  "referencia": "Gn 15,7-21",
+  "ini": {
+    "c": 15,
+    "v": 7
+  },
+  "fim": {
+    "c": 15,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A aliança selada pelo fogo que passa entre os animais",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Abrão: “Eu sou o Senhor que te tirei de Ur dos caldeus, para te dar esta terra em possessão”. Abrão pergunta: Senhor Deus, por onde poderei conhecer que a hei de possuir? Deus manda: toma uma vaca de três anos, uma cabra de três anos, um carneiro de três anos, uma rola e uma pomba. Abrão os divide ao meio e põe as metades uma diante da outra; as aves não as divide. As aves de rapina descem sobre os cadáveres, e Abrão as enxota. Ao pôr do sol, um sono profundo cai sobre ele, e um grande e tenebroso terror o invade. Deus lhe diz: sabe que os teus descendentes serão peregrinos numa terra alheia e serão escravizados e oprimidos quatrocentos anos; mas julgarei a nação a que servirem, e sairão com grandes riquezas; tu irás em paz para junto de teus pais, sepultado em boa velhice; na quarta geração voltarão para cá. Posto o sol, formam-se densas trevas, e um forno fumegante e um facho ardente passam pelo meio dos animais divididos. “Naquele dia fez o Senhor aliança com Abrão”, prometendo à sua descendência a terra, desde o rio do Egito até o Eufrates.",
+    "alegorico": "No rito antigo, os que faziam aliança passavam entre os animais partidos, invocando sobre si a mesma sorte se a quebrassem (Jr 34,18). Aqui só Deus passa, sob a figura do fogo: Ele se compromete sozinho. Isso se cumpre na cruz, onde Deus mesmo, em Cristo, assume a sorte dos que quebraram a aliança.",
+    "moral": "Abrão crê, e mesmo assim pede um sinal: a fé pode buscar compreender. A espera é longa: há aves de rapina a espantar, noite, terror, e o anúncio de quatrocentos anos de escravidão. As promessas de Deus incluem a cruz da história, mas Deus garante o fim.",
+    "anagogico": "A libertação após a escravidão, anunciada aqui, é figura do êxodo definitivo do povo de Deus para a terra prometida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou o Senhor que te tirei de Ur dos Caldeus.” “Por onde poderei conhecer que a hei de possuir?” “Desciam as aves sobre os cadáveres, e Abrão enxotava-as.” “Um forno fumegante e um facho ardente, que passavam pelo meio dos animais divididos.” “Naquele dia fez o Senhor aliança com Abrão.”",
+    "meditatio_perguntas": [
+      "Que “aves de rapina” preciso espantar enquanto espero as promessas de Deus?",
+      "Aceito que o caminho da promessa passe por noites e escravidões?",
+      "Contemplo Deus que se compromete sozinho por mim na cruz?"
+    ],
+    "oratio_guia": "Senhor, que passaste sozinho entre os animais e te comprometeste por mim, firma a minha fé. Nas noites de terror, lembra-me da tua aliança, que cumpriste em Jesus crucificado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele dia fez o Senhor aliança com Abrão",
+      "ref": "Gn 15,18"
+    }
+  },
+  "ancoras": {
+    "15:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatrocentos anos correspondem, em números redondos, aos 430 anos de Ex 12,40.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

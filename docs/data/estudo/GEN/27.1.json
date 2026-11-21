@@ -1,0 +1,40 @@
+{
+  "id": "GEN.27.1",
+  "livro": "GEN",
+  "titulo": "Jacó obtém a bênção",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 27,1-29",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Jacó, revestido das vestes do irmão, recebe a bênção",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Isaac, velho, com os olhos tão fracos que não pode ver, chama Esaú: não sei o dia da minha morte; toma as tuas armas, vai ao campo, caça algo e prepara-me um guisado como eu gosto, para que eu coma e te abençoe antes de morrer. Rebeca ouve e diz a Jacó: vai ao rebanho e traze-me dois cabritos; prepararei para teu pai um guisado como ele gosta, e tu o levarás, para que te abençoe. Jacó teme: Esaú é peludo e eu sou liso; se meu pai me apalpar, atrairei maldição e não bênção. Rebeca: sobre mim caia essa maldição, meu filho. Ela veste Jacó com as melhores roupas de Esaú e cobre-lhe as mãos e o pescoço com as peles dos cabritos. Jacó entra: meu pai. — Quem és tu, meu filho? — Sou Esaú, teu primogênito. — Como achaste tão depressa? — Foi a vontade de Deus. Isaac o apalpa: “A voz verdadeiramente é a voz de Jacó, mas as mãos são as mãos de Esaú”. Come, bebe, pede um beijo, sente o cheiro das roupas e abençoa: “Eis que o cheiro do meu filho é como o cheiro de um campo florido que o Senhor abençoou. Deus te dê do orvalho do céu e da fertilidade da terra, abundância de trigo e de vinho. Que os povos te sirvam, e as nações te reverenciem; sê o senhor de teus irmãos. Maldito quem te amaldiçoar, e cheio de bênçãos quem te abençoar”.",
+    "alegorico": "Santo Agostinho e Santo Ambrósio viram em Jacó, revestido das vestes do primogênito, o cristão revestido de Cristo, o Primogênito, para receber a bênção do Pai: “todos os que fostes batizados em Cristo vos revestistes de Cristo” (Gl 3,27). O cheiro das vestes é o “bom odor de Cristo” (2Cor 2,15). As peles dos cabritos lembram que Cristo tomou sobre si a semelhança da carne do pecado.",
+    "moral": "O plano de Deus anunciado a Rebeca se realiza, mas por caminhos tortuosos: a mentira da mãe, a farsa do filho, até o uso do nome de Deus (“foi a vontade de Deus”) para enganar. A Escritura não aprova a fraude: Jacó pagará caro, sendo por sua vez enganado. Deus escreve certo por linhas tortas, mas as linhas tortas continuam tortas.",
+    "anagogico": "A bênção “do orvalho do céu e da fertilidade da terra” anuncia a plenitude dos bens eternos que o Pai reserva aos que se apresentam revestidos do seu Filho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma as tuas armas… e prepara-me um guisado.” “Sobre mim caia essa maldição, meu filho.” “A voz verdadeiramente é a voz de Jacob, mas as mãos são as mãos de Esaú.” “O cheiro do meu filho é como o cheiro de um campo florido.” “Deus te dê do orvalho do céu e da fertilidade da terra.”",
+    "meditatio_perguntas": [
+      "Busco as coisas de Deus por caminhos tortos?",
+      "Uso o nome de Deus para justificar o que faço?",
+      "Apresento-me ao Pai revestido de Cristo, e não dos meus méritos?"
+    ],
+    "oratio_guia": "Pai, que me abençoas quando me apresento revestido do teu Filho, perdoa as minhas astúcias e mentiras. Dá-me o orvalho do céu e faze-me buscar a tua bênção por caminhos retos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A voz verdadeiramente é a voz de Jacob, mas as mãos são as mãos de Esaú",
+      "ref": "Gn 27,22"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

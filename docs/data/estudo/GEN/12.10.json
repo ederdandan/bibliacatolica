@@ -1,0 +1,40 @@
+{
+  "id": "GEN.12.10",
+  "livro": "GEN",
+  "titulo": "Abrão no Egito",
+  "secao": "Abraão",
+  "referencia": "Gn 12,10-20",
+  "ini": {
+    "c": 12,
+    "v": 10
+  },
+  "fim": {
+    "c": 12,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Abrão no Egito: o medo do crente e a fidelidade de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Vem uma fome sobre a terra, e Abrão desce ao Egito para ali viver por algum tempo. Perto de entrar, diz a Sarai: sei que és mulher formosa; quando os egípcios te virem, dirão: é a mulher dele, e matar-me-ão e te guardarão para si. “Dize, pois, te peço, que és minha irmã, para que eu seja bem tratado por causa de ti, e me conservem a vida em atenção a ti.” Os egípcios veem a beleza de Sarai; os príncipes a louvam ao Faraó, e ela é levada ao palácio. Por causa dela, Abrão é bem tratado e recebe ovelhas, bois, jumentos, servos e camelos. “O Senhor, porém, feriu o Faraó e a sua casa com grandíssimas pragas, por causa de Sarai, mulher de Abrão.” O Faraó chama Abrão: que é isto que me fizeste? Por que não me disseste que era tua mulher? Eis a tua mulher: toma-a e vai-te. E manda que o acompanhem com tudo o que tem.",
+    "alegorico": "A descida ao Egito por causa da fome, as pragas sobre o Faraó e a saída com riquezas antecipam em miniatura a história do Êxodo. Deus guarda Sarai, mãe da promessa, como guardará a Igreja e Maria, por meio de quem vem o descendente prometido.",
+    "moral": "Logo depois de partir com tanta fé, Abrão cede ao medo e expõe a esposa para salvar a própria pele. O grande crente é também frágil. A mentira “piedosa” causa sofrimento a inocentes, e é um pagão quem o repreende. Mas Deus permanece fiel à promessa, apesar da infidelidade do seu servo.",
+    "anagogico": "Deus que protege a mãe da promessa mostra que nada impedirá o cumprimento do seu plano até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dize, pois, te peço, que és minha irmã, para que eu seja bem tratado por causa de ti.” “O Senhor, porém, feriu Faraó e a sua casa com grandíssimas pragas, por causa de Sarai.” “Que é isto que me fizeste?”",
+    "meditatio_perguntas": [
+      "Em que situações o medo me leva a meias verdades?",
+      "Exponho outros para me proteger?",
+      "Reconheço a fidelidade de Deus, que me guarda mesmo quando falho?"
+    ],
+    "oratio_guia": "Senhor, que guardaste Sarai quando Abrão teve medo, perdoa as minhas covardias. Dá-me verdade nas palavras e coragem para proteger os que me foram confiados, e não a mim mesmo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor, porém, feriu Faraó e a sua casa com grandíssimas pragas, por causa de Sarai",
+      "ref": "Gn 12,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

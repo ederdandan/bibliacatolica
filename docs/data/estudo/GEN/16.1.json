@@ -1,0 +1,49 @@
+{
+  "id": "GEN.16.1",
+  "livro": "GEN",
+  "titulo": "Agar e o Deus que vê",
+  "secao": "Abraão",
+  "referencia": "Gn 16,1-16",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Agar no deserto: o Deus que vê e ouve a aflição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sarai, mulher de Abrão, não tinha filhos; tinha uma escrava egípcia chamada Agar. Diz a Abrão: o Senhor me fez estéril; une-te à minha escrava, para ver se ao menos por ela terei filhos. Abrão aceita. Dez anos depois de habitarem em Canaã, Sarai dá Agar a Abrão, e ela concebe. Ao ver-se grávida, Agar despreza a senhora. Sarai culpa Abrão; ele responde: a tua escrava está em tuas mãos; faze dela o que quiseres. Sarai a maltrata, e Agar foge. O anjo do Senhor a encontra no deserto, junto a uma fonte, no caminho de Sur, e pergunta: “Agar, escrava de Sarai, de onde vens e para onde vais?” — “Fujo da presença de Sarai, minha senhora.” — Volta para a tua senhora e humilha-te sob a sua mão. Multiplicarei a tua descendência. “Concebeste, darás à luz um filho e lhe porás o nome de Ismael, porque o Senhor te ouviu na tua aflição.” Será como um onagro, em conflito com todos. Agar chama o Senhor que lhe falava: “Tu és o Deus que me viste”, porque diz: não vi eu aqui as costas daquele que me vê? Por isso o poço se chama Poço do Vivente que me vê. Agar dá à luz Ismael; Abrão tem oitenta e seis anos.",
+    "alegorico": "São Paulo lê Agar e Sara como duas alianças: Agar, a escrava, representa a lei que gera escravos; Sara, a livre, a promessa que gera filhos livres em Cristo (Gl 4,21-31). Mas o Deus que procura a escrava estrangeira no deserto anuncia Cristo, que vai ao encontro da samaritana junto ao poço (Jo 4).",
+    "moral": "Querer “ajudar” Deus com soluções humanas, sem esperar o seu tempo, gera ciúme, desprezo e maltrato. Ninguém sai inocente: nem Sarai, nem Abrão, que lava as mãos, nem Agar, que despreza. Mas Deus vê a mais fraca, a escrava estrangeira e grávida, e lhe fala pelo nome. As suas perguntas ajudam a discernir: de onde vens, para onde vais?",
+    "anagogico": "O Deus que vê e ouve toda aflição fará justiça a todos os humilhados da terra, e enxugará as lágrimas dos que fugiram para o deserto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Agar, escrava de Sarai, de onde vens tu? e para onde vais?” “Eis que concebeste… e lhe porás o nome de Ismael, porque o Senhor te ouviu na tua aflição.” “Tu és o Deus que me viste.”",
+    "meditatio_perguntas": [
+      "De onde venho e para onde vou, neste momento da minha vida?",
+      "Tento apressar os planos de Deus com soluções minhas?",
+      "Sinto-me visto e ouvido por Deus na minha aflição? Vejo os que estão à margem?"
+    ],
+    "oratio_guia": "Deus que me vês, encontra-me no meu deserto e pergunta-me de onde venho e para onde vou. Dá-me paciência para esperar o teu tempo e olhos para ver os que sofrem à margem. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor te ouviu na tua aflição",
+      "ref": "Gn 16,11"
+    }
+  },
+  "ancoras": {
+    "16:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ismael significa “Deus ouve”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

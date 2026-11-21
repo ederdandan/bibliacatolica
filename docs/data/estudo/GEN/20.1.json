@@ -1,0 +1,49 @@
+{
+  "id": "GEN.20.1",
+  "livro": "GEN",
+  "titulo": "Abraão e Abimelec",
+  "secao": "Abraão",
+  "referencia": "Gn 20,1-18",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Abraão em Gerara: o profeta frágil que reza pelo pagão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abraão parte para o sul e habita em Gerara. Diz de Sara, sua mulher: é minha irmã. Abimelec, rei de Gerara, manda buscá-la. Mas Deus vem a Abimelec num sonho, de noite: morrerás por causa da mulher que tomaste, porque tem marido. Abimelec, que não a tinha tocado, protesta: Senhor, matarás um povo inocente? Ele mesmo me disse: é minha irmã; fiz isto com coração simples e mãos puras. Deus responde: “Sei que procedeste com um coração simples, e por isso te preservei de pecar contra mim”. Agora restitui a mulher ao marido, “porque ele é profeta, rogará por ti, e viverás”. De manhã, Abimelec chama Abraão: que nos fizeste? Abraão explica: pensei que não houvesse temor de Deus neste lugar; e, na verdade, ela é minha meia-irmã, filha de meu pai. Abimelec devolve Sara, dá ovelhas, bois e servos, oferece a terra e mil moedas de prata. “E, orando Abraão, Deus sarou Abimelec, a sua mulher e as suas escravas”, que voltaram a ter filhos.",
+    "alegorico": "Abraão, chamado “profeta” pela primeira vez na Bíblia, intercede por um rei pagão: figura do sacerdócio da Igreja, que reza por todos os homens, “pelos reis e por todos os que estão constituídos em autoridade” (1Tm 2,1-2).",
+    "moral": "Abraão repete o mesmo erro do Egito: as fraquezas voltam. Ele julga que “não há temor de Deus neste lugar”, e é o pagão quem se mostra mais íntegro. Deus protege a inocência de quem age com coração simples. E, apesar de tudo, usa a oração do crente frágil para curar.",
+    "anagogico": "Deus, que guarda a mãe da promessa de todo perigo, conduz a história até o nascimento do herdeiro: nada impedirá o cumprimento final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É minha irmã.” “Sei que procedeste com um coração simples, e, por isso, te preservei de pecar contra mim.” “Ele é profeta, rogará por ti, e viverás.” “Orando Abraão, Deus sarou Abimelech.”",
+    "meditatio_perguntas": [
+      "Que fraqueza repito, apesar de já ter sido perdoado?",
+      "Julgo os outros, como Abraão, pensando que “não há temor de Deus” neles?",
+      "Rezo pelos que não partilham a minha fé?"
+    ],
+    "oratio_guia": "Senhor, que guardas os de coração simples, perdoa as fraquezas que repito. Livra-me de julgar os outros e faze-me rezar por todos, mesmo pelos que não te conhecem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sei que procedeste com um coração simples",
+      "ref": "Gn 20,6"
+    }
+  },
+  "ancoras": {
+    "20:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O casamento entre meios-irmãos era aceito nos tempos patriarcais; será proibido pela Lei (Lv 18,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

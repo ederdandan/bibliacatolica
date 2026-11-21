@@ -1,0 +1,40 @@
+{
+  "id": "GEN.13.1",
+  "livro": "GEN",
+  "titulo": "A separação de Abrão e Ló",
+  "secao": "Abraão",
+  "referencia": "Gn 13,1-18",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Abrão e Ló: a generosidade que evita a contenda",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abrão sobe do Egito, com a mulher, Ló e tudo o que tem, para o Negueb, e depois até Betel, ao lugar do altar, onde invoca o nome do Senhor. Abrão é muito rico em gado, prata e ouro; Ló também tem rebanhos e tendas. A terra não comporta os dois, e há contendas entre os pastores. Abrão diz a Ló: “Peço-te que não haja contendas entre mim e ti, nem entre os meus pastores e os teus, porque somos irmãos. Eis diante de ti todo o país: se fores para a esquerda, eu irei para a direita; se escolheres a direita, eu irei para a esquerda”. Ló levanta os olhos e vê toda a planície do Jordão, regada como o paraíso do Senhor e como o Egito; escolhe-a e vai para o oriente, armando tendas até Sodoma. Ora, os homens de Sodoma eram péssimos e grandes pecadores. Depois que Ló se separa, o Senhor diz a Abrão: levanta os olhos e olha para o norte, o sul, o oriente e o ocidente: “toda a terra que vês, eu a darei para sempre a ti e à tua posteridade”; farei a tua descendência como o pó da terra. Levanta-te e percorre a terra. Abrão se estabelece junto ao carvalho de Mambré, em Hebron, e ali edifica um altar.",
+    "alegorico": "Abrão, que cede a escolha e recebe de Deus toda a terra, ilustra a bem-aventurança: “Bem-aventurados os mansos, porque possuirão a terra” (Mt 5,5). Ló, que escolhe pelos olhos a terra “como o paraíso”, mas próxima de Sodoma, é figura de quem é seduzido pelas aparências do mundo.",
+    "moral": "A paz entre irmãos vale mais que a vantagem: Abrão, o mais velho e mais forte, cede a escolha. Ló escolhe pelo que vê e aos poucos se aproxima do mal. Quem renuncia por amor da paz não perde: Deus mesmo convida Abrão a erguer os olhos e lhe dá muito mais.",
+    "anagogico": "“Toda a terra que vês” é imagem da herança dos mansos, que receberão o Reino inteiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Peço-te que não haja contendas entre mim e ti… porque somos irmãos.” “Se fores para a esquerda, eu tomarei para a direita.” “Loth escolheu para si a região do Jordão.” “Levanta os teus olhos e repara.” “Toda a terra que vês, eu a darei para sempre a ti.”",
+    "meditatio_perguntas": [
+      "Sei ceder para manter a paz com os meus irmãos?",
+      "Escolho pelo que vejo e me agrada, como Ló, ou pelo que agrada a Deus?",
+      "De que lado da “fronteira de Sodoma” arrumo as minhas tendas?"
+    ],
+    "oratio_guia": "Senhor, dá-me a mansidão de Abrão, que preferiu a paz à vantagem. Livra-me das escolhas feitas só pelos olhos e ensina-me a esperar de ti a herança. Amém.",
+    "contemplatio_foco": {
+      "texto": "peço-te que não haja contendas entre mim e ti",
+      "ref": "Gn 13,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

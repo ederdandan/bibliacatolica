@@ -1,0 +1,49 @@
+{
+  "id": "GEN.33.1",
+  "livro": "GEN",
+  "titulo": "A reconciliação com Esaú",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 33,1-20",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "O abraço de Esaú: ver o rosto do irmão como o rosto de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó levanta os olhos e vê Esaú chegando com quatrocentos homens. Divide os filhos entre Lia, Raquel e as duas servas: as servas e os filhos na frente, Lia e os filhos depois, Raquel e José por último. Ele mesmo passa adiante de todos e se prostra sete vezes por terra até chegar perto do irmão. “Então, correndo Esaú ao encontro de seu irmão, o abraçou, e, apertando-lhe o pescoço e beijando-o, chorou.” Esaú vê as mulheres e as crianças: quem são estes? — Os filhos que Deus deu ao teu servo. Todos se aproximam e se inclinam. — Que significam esses rebanhos que encontrei? — São para achar graça diante do meu senhor. Esaú diz: tenho muito, meu irmão; guarda o que é teu. Jacó insiste: “se achei graça diante de teus olhos, recebe das minhas mãos esta pequena dádiva, porque eu vi a tua face como se visse o rosto de Deus: sê-me propício”. Esaú aceita. Oferece-se para acompanhá-lo; Jacó alega que os filhos são pequenos e o gado está cansado e irá devagar. Esaú volta para Seir; Jacó vai para Sucot e depois chega em paz a Siquém, na terra de Canaã, compra um campo e ergue um altar ao Deus de Israel.",
+    "alegorico": "O abraço de Esaú, que corre, lança-se ao pescoço e beija, prefigura o pai do filho pródigo, que “correu, lançou-se-lhe ao pescoço e o beijou” (Lc 15,20). A reconciliação dos irmãos anuncia a obra de Cristo, que derruba o muro de inimizade (Ef 2,14).",
+    "moral": "Jacó teme o pior e encontra um irmão que corre para abraçá-lo: muitas vezes o nosso medo é maior que a realidade, e Deus já preparou o coração do outro. A frase de Jacó é profunda: depois de ver a face de Deus em Fanuel, vê a face de Deus no irmão reconciliado. Mas a reconciliação não exige viver juntos: cada um segue o seu caminho, em paz.",
+    "anagogico": "O reencontro dos irmãos separados antecipa a reconciliação final de todos os filhos de Deus, quando Ele for tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Prostrou-se por terra sete vezes.” “Correndo Esaú ao encontro de seu irmão, o abraçou, e, apertando-lhe o pescoço e beijando-o, chorou.” “São os filhos que Deus deu ao teu servo.” “Eu vi a tua face, como se visse o rosto de Deus.”",
+    "meditatio_perguntas": [
+      "Que medo de um reencontro talvez seja maior que a realidade?",
+      "Consigo ver no rosto do irmão reconciliado o rosto de Deus?",
+      "Há alguém a quem eu deva correr para abraçar, como Esaú?"
+    ],
+    "oratio_guia": "Senhor, que preparaste o coração de Esaú para o abraço, prepara também os corações dos meus irmãos e o meu. Dá-me ver no rosto do outro o teu rosto e correr ao encontro de quem me feriu. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu vi a tua face, como se visse o rosto de Deus",
+      "ref": "Gn 33,10"
+    }
+  },
+  "ancoras": {
+    "33:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O altar é dedicado a “El, Deus de Israel”: Jacó, agora Israel, assume o Deus dos pais como seu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

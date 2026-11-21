@@ -1,0 +1,49 @@
+{
+  "id": "GEN.21.22",
+  "livro": "GEN",
+  "titulo": "A aliança em Bersabeia",
+  "secao": "Abraão",
+  "referencia": "Gn 21,22-34",
+  "ini": {
+    "c": 21,
+    "v": 22
+  },
+  "fim": {
+    "c": 21,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A aliança de Bersabeia e a invocação do Deus eterno",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Por aquele tempo, Abimelec, com Ficol, chefe do seu exército, diz a Abraão: Deus está contigo em tudo o que fazes. Jura-me por Deus que não me farás mal, nem a meus filhos, nem à minha descendência; e que usarás comigo e com esta terra a mesma bondade que usei contigo. Abraão jura. Mas queixa-se de um poço de água que os servos de Abimelec lhe tomaram à força. Abimelec diz que não sabia de nada. Abraão toma ovelhas e bois e os dá a Abimelec, e os dois fazem aliança. Põe à parte sete cordeiras: recebê-las-ás da minha mão, para que sirvam de testemunho de que fui eu que cavei este poço. Por isso o lugar se chama Bersabeia, porque ambos juraram ali. Abimelec e Ficol voltam para a terra dos filisteus. “Abraão plantou uma tamargueira em Bersabeia, e aí invocou o nome do Senhor Deus eterno.” E habita muito tempo como peregrino na terra dos filisteus.",
+    "alegorico": "O poço disputado e reconhecido como de Abraão foi lido pelos Padres como a fonte da Escritura e do batismo, que pertence aos filhos da promessa e é oferecida em paz também aos povos. A árvore plantada para invocar o Deus eterno anuncia a cruz, árvore em que se invoca o nome do Senhor.",
+    "moral": "Os outros percebem quando “Deus está contigo”. Os conflitos (o poço tomado) se resolvem pelo diálogo franco e por pactos claros, com testemunhas. Abraão, peregrino, não toma a terra pela força, mas planta uma árvore e reza: sinal de quem espera de Deus a herança.",
+    "anagogico": "Abraão, que vive como estrangeiro e invoca o “Deus eterno”, testemunha que a sua verdadeira pátria está além desta terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus é contigo em tudo o que fazes.” “Usarás comigo a mesma bondade que usei contigo.” “Para que sirvam de testemunho de que fui eu que cavei este poço.” “Abraão plantou uma tamargueira em Bersabeia, e aí invocou o nome do Senhor Deus eterno.”",
+    "meditatio_perguntas": [
+      "Os que convivem comigo percebem que Deus está comigo?",
+      "Resolvo os conflitos com franqueza e busca de acordo?",
+      "Que “árvore” planto como sinal da minha confiança em Deus?"
+    ],
+    "oratio_guia": "Senhor, Deus eterno, que eu viva de tal modo que os outros percebam que estás comigo. Dá-me paz nos conflitos e faze-me plantar sinais de esperança enquanto peregrino nesta terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "aí invocou o nome do Senhor Deus eterno",
+      "ref": "Gn 21,33"
+    }
+  },
+  "ancoras": {
+    "21:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Bersabeia (Beer-Sheba) pode significar “poço do juramento” ou “poço dos sete”: o texto joga com os dois sentidos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

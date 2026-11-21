@@ -1,0 +1,40 @@
+{
+  "id": "GEN.8.1",
+  "livro": "GEN",
+  "titulo": "As águas baixam; o sacrifício de Noé",
+  "secao": "Origens",
+  "referencia": "Gn 8,1-22",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Deus se lembra de Noé: a pomba, o ramo de oliveira e o sacrifício",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ora Deus lembrou-se de Noé” e de todos os animais na arca, e fez soprar um vento sobre a terra, e as águas diminuíram. Fecham-se as fontes do abismo e as cataratas do céu. No sétimo mês a arca para sobre os montes da Armênia (Ararat). No décimo mês aparecem os cimos dos montes. Depois de quarenta dias, Noé abre a janela e solta o corvo, que sai e não volta. Solta a pomba, que não encontra onde pousar e volta à arca; Noé estende a mão e a recolhe. Sete dias depois a solta de novo, e ela volta à tarde, “trazendo no bico um ramo de oliveira com as folhas verdes”. Mais sete dias, e a pomba não volta mais. No ano seiscentos e um de Noé, a terra está seca. Deus manda: sai da arca, tu e os teus, e os animais. Noé constrói um altar e oferece holocaustos de animais puros. O Senhor sente o suave odor e diz em seu coração: não amaldiçoarei mais a terra por causa dos homens, porque o coração do homem é inclinado ao mal desde a juventude. “Durante todos os dias da terra, a sementeira e a messe, o frio e o calor, o verão e o inverno, a noite e o dia não mais cessarão.”",
+    "alegorico": "A pomba que desce sobre as águas é figura do Espírito Santo que desce sobre Cristo no batismo, no Jordão (Mt 3,16); o ramo de oliveira, sinal da paz que Cristo traz. Os Padres compararam o corvo, que não volta, a quem recebe o batismo e se perde, e a pomba ao fiel que retorna à Igreja.",
+    "moral": "Deus “se lembra”: não esquece os que confiam, mesmo depois de longos meses de espera. Noé espera com paciência e verifica com prudência antes de sair; e a primeira coisa que faz em terra firme é adorar. Deus promete estabilidade à criação, mesmo sabendo que o homem continua inclinado ao mal: a sua fidelidade não depende da nossa.",
+    "anagogico": "O ritmo das estações garantido por Deus sustenta a história até a nova criação; o suave odor do sacrifício de Noé anuncia o sacrifício de Cristo, “oblação de suave odor” (Ef 5,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus lembrou-se de Noé.” “Trazendo no bico um ramo de oliveira com as folhas verdes.” “Noé edificou um altar ao Senhor.” “Recebeu o Senhor um suave odor.” “A sementeira e a messe, o frio e o calor… não mais cessarão.”",
+    "meditatio_perguntas": [
+      "Na minha espera, creio que Deus se lembra de mim?",
+      "Que “ramo de oliveira” me anuncia que o dilúvio está passando?",
+      "Agradeço e adoro quando saio de uma provação?"
+    ],
+    "oratio_guia": "Senhor, que te lembraste de Noé, lembra-te de mim. Envia o teu Espírito, pomba da paz, e faze de cada recomeço da minha vida um altar de ação de graças. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ora Deus lembrou-Se de Noé",
+      "ref": "Gn 8,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

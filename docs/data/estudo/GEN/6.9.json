@@ -1,0 +1,49 @@
+{
+  "id": "GEN.6.9",
+  "livro": "GEN",
+  "titulo": "Noé constrói a arca",
+  "secao": "Origens",
+  "referencia": "Gn 6,9-22",
+  "ini": {
+    "c": 6,
+    "v": 9
+  },
+  "fim": {
+    "c": 6,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Noé, justo e obediente, constrói a arca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Esta é a posteridade de Noé.” Noé foi um homem justo e perfeito entre os homens do seu tempo, e andou sempre com Deus. Gerou três filhos: Sem, Cam e Jafé. A terra estava corrompida diante de Deus e cheia de iniquidade, porque toda carne tinha corrompido o seu caminho. Deus diz a Noé: o fim de toda carne chegou diante de mim; faze uma arca de madeiras aplainadas, com compartimentos, betumada por dentro e por fora. Dá as medidas: trezentos côvados de comprimento, cinquenta de largura e trinta de altura, com uma janela e uma porta ao lado, e três andares. Vou mandar o dilúvio sobre a terra; “estabelecerei a minha aliança contigo”: entrarás na arca com teus filhos, tua mulher e as mulheres dos teus filhos; farás entrar um par de cada espécie de animais, macho e fêmea, e levarás alimento para todos. “Fez, pois, Noé tudo o que Deus lhe tinha ordenado.”",
+    "alegorico": "A arca é figura da Igreja: um só lugar de salvação, onde todos os povos, como os animais de toda espécie, encontram abrigo sobre as águas do juízo. São Pedro diz que “na arca poucas pessoas, isto é, oito, foram salvas pela água, que agora vos salva também, o batismo” (1Pd 3,20-21). A madeira da arca evoca a madeira da cruz.",
+    "moral": "Noé obedece em tudo, com minúcia, numa obra longa e incompreensível para os outros, sem ver ainda sinal de chuva: é a fé que “age, movida de temor, pelas coisas que ainda não se viam” (Hb 11,7). A aliança é estabelecida com ele e com a sua família: a fidelidade de um pai protege os seus.",
+    "anagogico": "A arca que atravessa as águas é imagem da Igreja que atravessa a história e chega ao porto da salvação eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Noé foi um homem justo e perfeito… e andou com Deus.” “Faze uma arca.” “Estabelecerei a minha aliança contigo.” “Fez, pois, Noé tudo o que Deus lhe tinha ordenado.”",
+    "meditatio_perguntas": [
+      "Obedeço a Deus mesmo quando não vejo ainda o sentido do que Ele pede?",
+      "Valorizo a Igreja como a arca onde Deus me guarda?",
+      "A minha fidelidade protege e conduz a minha família?"
+    ],
+    "oratio_guia": "Senhor, que estabeleceste a tua aliança com Noé, dá-me a sua obediência paciente. Guarda-me, com os meus, na arca da tua Igreja e conduze-nos através das águas até a salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fez, pois, Noé tudo o que Deus lhe tinha ordenado",
+      "ref": "Gn 6,22"
+    }
+  },
+  "ancoras": {
+    "6:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O côvado mede cerca de meio metro: a arca teria cerca de 150 m de comprimento, 25 de largura e 15 de altura.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

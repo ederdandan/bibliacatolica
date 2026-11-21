@@ -1,0 +1,40 @@
+{
+  "id": "GEN.29.1",
+  "livro": "GEN",
+  "titulo": "Raquel e Lia",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 29,1-30",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Raquel e Lia: o amor que faz breves os anos e o enganador enganado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó chega à terra do oriente e vê um poço no campo, com três rebanhos deitados ao redor; uma grande pedra tapa a boca do poço. Pergunta aos pastores se conhecem Labão: conhecemos; eis Raquel, sua filha, que vem com as ovelhas. Quando Jacó a vê, remove a pedra, dá de beber ao rebanho do tio, beija Raquel, e chora em alta voz. Labão o recebe com abraços: és meu osso e minha carne. Depois de um mês, Labão pergunta: que salário queres? Labão tem duas filhas: Lia, a mais velha, de olhos doentes, e Raquel, formosa de rosto e de aspecto. Jacó, que ama Raquel, diz: servir-te-ei sete anos por Raquel. “Jacó, pois, serviu sete anos por Raquel, e estes lhe pareceram poucos dias pela grandeza do amor.” Cumprido o tempo, Labão dá um banquete, mas à noite lhe leva Lia. De manhã Jacó vê que era Lia: que é isto que me fizeste? Por que me enganaste? Labão responde: não é costume nesta terra casar a mais nova antes da mais velha; completa a semana desta, e dar-te-ei também a outra, por mais sete anos de serviço. Jacó aceita, recebe Raquel e ama Raquel mais que Lia, servindo mais sete anos.",
+    "alegorico": "São Gregório Magno e outros Padres viram em Lia, de olhos fracos mas fecunda, a vida ativa, e em Raquel, bela e por muito tempo estéril, a vida contemplativa: é preciso passar pelo trabalho antes de chegar à contemplação. Outros viram em Lia a Sinagoga e em Raquel a Igreja, a esposa amada de Cristo.",
+    "moral": "O amor verdadeiro transforma o tempo: sete anos parecem poucos dias. Jacó, que enganou o pai fingindo ser o mais velho, é enganado com a mais velha: Deus o educa pela experiência. Ninguém nesta história é inocente: Labão explora o sobrinho, Jacó prefere uma esposa à outra. O amor fiel e paciente é possível em meio às imperfeições.",
+    "anagogico": "O serviço paciente por amor à esposa anuncia Cristo, que “amou a Igreja e se entregou por ela” (Ef 5,25), e a espera das núpcias eternas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jacob… removeu a pedra que fechava o poço.” “Beijou-a e, levantando a voz, chorou.” “Jacob serviu sete anos por Raquel, e estes lhe pareceram poucos dias pela grandeza do amor.” “Por que me enganaste?”",
+    "meditatio_perguntas": [
+      "O amor torna leves os meus sacrifícios e esperas?",
+      "Que “engano” sofrido me fez lembrar dos meus próprios enganos?",
+      "Como equilibro na minha vida o trabalho (Lia) e a contemplação (Raquel)?"
+    ],
+    "oratio_guia": "Senhor, dá-me um amor que faça breves os anos de serviço e fiel na espera. Quando eu for enganado, ensina-me a reconhecer os meus enganos e a me converter. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jacob, pois, serviu sete anos por Raquel, e estes lhe pareceram poucos dias pela grandeza do amor",
+      "ref": "Gn 29,20"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

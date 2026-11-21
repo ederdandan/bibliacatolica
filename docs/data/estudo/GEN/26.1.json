@@ -1,0 +1,40 @@
+{
+  "id": "GEN.26.1",
+  "livro": "GEN",
+  "titulo": "Isaac em Gerara",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 26,1-16",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Isaac herdeiro da promessa: “Eu serei contigo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Há fome na terra, como no tempo de Abraão, e Isaac vai a Gerara, a Abimelec, rei dos filisteus. O Senhor lhe aparece: não desças ao Egito; “habita nesta terra como estrangeiro; eu serei contigo e te abençoarei, porque darei a ti e à tua descendência todas estas regiões, cumprindo o juramento que fiz a Abraão, teu pai”. Multiplicarei a tua descendência como as estrelas, e nela serão abençoadas todas as nações, porque Abraão obedeceu à minha voz e guardou os meus preceitos. Isaac habita em Gerara. Os homens perguntam por Rebeca, e ele, com medo, diz: é minha irmã. Algum tempo depois, Abimelec, olhando pela janela, vê Isaac acariciando Rebeca. Chama-o: é claro que é tua mulher; por que disseste que era tua irmã? Que nos fizeste? Alguém do povo podia ter dormido com ela, e terias trazido sobre nós um grande pecado. E manda: quem tocar a mulher deste homem morrerá. “Isaac, pois, semeou naquela terra e recolheu no mesmo ano o cêntuplo. O Senhor o abençoou”, e ele cresce até tornar-se muito poderoso. Os filisteus, invejosos, entopem os poços que os servos de Abraão tinham cavado. Abimelec diz a Isaac: aparta-te de nós, porque te tornaste muito mais poderoso do que nós.",
+    "alegorico": "A bênção prometida a Abraão passa a Isaac “porque Abraão obedeceu”: figura da bênção que, por causa da obediência de Cristo, chega a todos os que nele creem (Rm 5,19). O cêntuplo colhido anuncia a promessa de Jesus: “recebereis o cêntuplo e possuireis a vida eterna” (Mt 19,29).",
+    "moral": "Os filhos herdam as bênçãos e também as fraquezas dos pais: Isaac repete a mentira de Abraão sobre a esposa. De novo é um estrangeiro quem tem mais senso moral. Mas Deus abençoa o trabalho de quem permanece na terra que Ele indicou. A prosperidade desperta a inveja dos outros.",
+    "anagogico": "A promessa “eu serei contigo” acompanha o povo de Deus até o fim: “eis que estou convosco todos os dias, até a consumação dos séculos” (Mt 28,20)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Habita nela como estrangeiro: eu serei contigo e te abençoarei.” “Porque Abraão obedeceu à minha voz.” “É minha irmã.” “Isaac semeou naquela terra e recolheu no mesmo ano o cêntuplo. O Senhor o abençoou.”",
+    "meditatio_perguntas": [
+      "Que bênçãos e que fraquezas herdei dos meus pais?",
+      "Permaneço onde Deus me põe, mesmo em tempo de “fome”?",
+      "Como reajo quando a minha prosperidade desperta a inveja dos outros?"
+    ],
+    "oratio_guia": "Senhor, Deus de Abraão e de Isaac, está comigo e abençoa o trabalho das minhas mãos. Purifica em mim as fraquezas que herdei e faze-me fiel onde me puseste. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu serei contigo e te abençoarei",
+      "ref": "Gn 26,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

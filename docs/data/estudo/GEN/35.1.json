@@ -1,0 +1,40 @@
+{
+  "id": "GEN.35.1",
+  "livro": "GEN",
+  "titulo": "O retorno a Betel",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 35,1-15",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O retorno a Betel: purificar-se dos ídolos e cumprir o voto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus diz a Jacó: levanta-te, sobe a Betel, habita ali e faze um altar ao Deus que te apareceu quando fugias de Esaú, teu irmão. “Jacó, convocada toda a sua família, disse: Lançai fora os deuses estranhos que estão no meio de vós, purificai-vos e mudai os vossos vestidos.” Levantai-vos, subamos a Betel, para fazermos ali um altar a Deus, “que me ouviu no dia da minha tribulação e me acompanhou no caminho”. Eles lhe entregam todos os deuses estranhos e os brincos das orelhas, e Jacó os enterra debaixo do carvalho perto de Siquém. Partem, e o terror de Deus cai sobre as cidades vizinhas, que não ousam persegui-los. Chegam a Betel; Jacó edifica um altar e chama o lugar “Deus de Betel”. Ali morre Débora, a ama de Rebeca, e é sepultada debaixo de um carvalho, chamado Carvalho do Pranto. Deus aparece de novo a Jacó e o abençoa: o teu nome já não será Jacó, mas Israel. Eu sou o Deus onipotente: cresce e multiplica-te; nações e reis sairão de ti; a terra que dei a Abraão e a Isaac darei a ti e à tua descendência. Jacó ergue uma coluna de pedra no lugar onde Deus lhe falou, derrama sobre ela libações e azeite, e chama o lugar Betel.",
+    "alegorico": "A purificação antes de subir a Betel, tirar os ídolos, lavar-se, trocar as vestes, prefigura a renúncia batismal (“renunciais a Satanás e às suas obras?”), a veste branca do batismo e a preparação para a Eucaristia. Enterrar os ídolos sob a árvore lembra a cruz, onde são vencidos os falsos deuses.",
+    "moral": "Depois da tragédia de Siquém, Deus chama Jacó a voltar ao lugar do primeiro encontro e cumprir o voto feito em Betel. Antes de encontrar a Deus, é preciso purificar-se: tirar os ídolos, mudar as vestes. Jacó assume a liderança espiritual da família. A memória do Deus que “me ouviu na tribulação” sustenta a fidelidade.",
+    "anagogico": "A subida a Betel, “casa de Deus”, anuncia a subida definitiva à casa do Pai, para a qual nos purificamos ao longo da vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te, sobe a Betel.” “Lançai fora os deuses estranhos que estão no meio de vós, purificai-vos e mudai os vossos vestidos.” “Subamos a Betel, para erigirmos aí um altar a Deus, que me ouviu no dia da minha tribulação.” “O teu nome já não será Jacob, mas Israel.”",
+    "meditatio_perguntas": [
+      "Que “deuses estranhos” preciso entregar e enterrar antes de ir ao altar?",
+      "Lembro-me do Deus que me ouviu no dia da minha tribulação?",
+      "Que voto ou promessa feita a Deus ainda não cumpri?"
+    ],
+    "oratio_guia": "Senhor, que me ouviste no dia da tribulação e me acompanhaste no caminho, purifica-me dos ídolos e muda as minhas vestes. Conduze-me à tua casa e ajuda-me a cumprir o que te prometi. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lançai fora os deuses estranhos que estão no meio de vós, purificai-vos e mudai os vossos vestidos",
+      "ref": "Gn 35,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

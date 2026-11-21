@@ -1,0 +1,40 @@
+{
+  "id": "GEN.18.1",
+  "livro": "GEN",
+  "titulo": "Os três visitantes em Mambré",
+  "secao": "Abraão",
+  "referencia": "Gn 18,1-15",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A hospitalidade de Mambré: Deus visita a tenda de Abraão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor aparece a Abraão junto ao vale de Mambré, quando ele está sentado à porta da tenda no maior calor do dia. Levanta os olhos e vê três homens de pé diante dele; corre ao seu encontro, prostra-se e diz: “Senhor, se achei graça diante dos teus olhos, não passes adiante do teu servo”. Manda trazer água para lavar-lhes os pés e os convida a descansar à sombra da árvore, enquanto traz um bocado de pão. Corre à tenda: Sara, amassa depressa três medidas de flor de farinha e faze pães cozidos sob a cinza; ele mesmo corre ao rebanho, toma um vitelo tenro e o manda preparar; traz manteiga, leite e o vitelo, e fica de pé junto deles, debaixo da árvore, enquanto comem. Perguntam: onde está Sara? — Na tenda. — Voltarei a ti por este tempo, e Sara terá um filho. Sara, atrás da porta, ri consigo: depois de envelhecida, terei esse prazer? O Senhor diz a Abraão: por que riu Sara? “Há porventura alguma coisa difícil a Deus?” Sara, com medo, nega: não ri. — Não é assim; tu riste.",
+    "alegorico": "Os três homens a quem Abraão fala como a um só (“Senhor”) foram lidos pelos Padres como uma figura da Trindade; é a cena do célebre ícone de Rublev. A pergunta “há alguma coisa difícil a Deus?” ressoa na Anunciação: “a Deus nada é impossível” (Lc 1,37).",
+    "moral": "A hospitalidade de Abraão é generosa e apressada: ele corre, serve, fica de pé. A Carta aos Hebreus recorda: “não vos esqueçais da hospitalidade, pois por ela alguns, sem o saberem, hospedaram anjos” (Hb 13,2). Quem acolhe o estrangeiro acolhe a Deus (Mt 25,35). O riso incrédulo de Sara, depois negado, é perdoado com paciência.",
+    "anagogico": "A refeição de Mambré, em que Deus é hóspede, anuncia o banquete eterno, em que Ele mesmo servirá os seus servos (Lc 12,37)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor, se achei graça diante dos teus olhos, não passes sem parar junto do teu servo.” “Abraão correu à tenda.” “Onde está Sara, tua mulher?” “Sara riu-se.” “Há porventura alguma coisa difícil a Deus?”",
+    "meditatio_perguntas": [
+      "Acolho os outros, sobretudo os estranhos, com a generosidade de Abraão?",
+      "Peço a Deus que “não passe adiante” da minha tenda?",
+      "Qual promessa de Deus me faz rir de incredulidade?"
+    ],
+    "oratio_guia": "Senhor, não passes adiante sem entrar na minha tenda. Dá-me a hospitalidade pronta de Abraão para acolher-te nos irmãos, e cura o meu riso incrédulo, porque nada é difícil para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Há porventura alguma coisa (que seja) difícil a Deus?",
+      "ref": "Gn 18,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

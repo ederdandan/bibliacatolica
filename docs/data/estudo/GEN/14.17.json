@@ -1,0 +1,49 @@
+{
+  "id": "GEN.14.17",
+  "livro": "GEN",
+  "titulo": "Melquisedec",
+  "secao": "Abraão",
+  "referencia": "Gn 14,17-24",
+  "ini": {
+    "c": 14,
+    "v": 17
+  },
+  "fim": {
+    "c": 14,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Melquisedec, rei e sacerdote, oferece pão e vinho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Abrão volta de derrotar Codorlaomor e os reis que estavam com ele, o rei de Sodoma sai ao seu encontro no vale de Savé, que é o vale do Rei. “Melquisedec, rei de Salém, trazendo pão e vinho, porque era sacerdote do Deus Altíssimo, abençoou-o, dizendo: Bendito seja Abrão pelo Deus Altíssimo, que criou o céu e a terra; e bendito seja o Deus Altíssimo, por cuja proteção os inimigos estão nas tuas mãos.” E Abrão lhe dá o dízimo de tudo. O rei de Sodoma diz a Abrão: dá-me as pessoas, e toma para ti o resto. Abrão responde: levanto a minha mão ao Senhor Deus Altíssimo, possuidor do céu e da terra, e juro que não receberei nada do que te pertence, desde um fio de trama até a correia dos sapatos, para que não digas: eu enriqueci Abrão; exceto o que comeram os jovens e a parte dos homens que vieram comigo.",
+    "alegorico": "Melquisedec, cujo nome significa “rei de justiça”, rei de Salém (“paz”), sacerdote que aparece sem genealogia e oferece pão e vinho, é figura de Cristo, “sacerdote para sempre segundo a ordem de Melquisedec” (Sl 109,4; Hb 7,1-17). O Cânon Romano recorda “o sacrifício santo, a hóstia imaculada do vosso sumo sacerdote Melquisedec”: o pão e o vinho anunciam a Eucaristia.",
+    "moral": "Abrão reconhece que a vitória vem de Deus e devolve-lhe o dízimo: a gratidão se exprime também nos bens. Recusa enriquecer com o que vem do rei de Sodoma: não quer dever nada a quem representa o mal, para que só Deus seja a sua riqueza. É livre diante do dinheiro.",
+    "anagogico": "O sacerdócio de Melquisedec, “sem princípio de dias nem fim de vida”, aponta para o sacerdócio eterno de Cristo no céu, onde intercede por nós para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Melquisedec, rei de Salém, trazendo pão e vinho, porque era sacerdote do Deus Altíssimo, abençoou-o.” “Bendito seja o Deus Altíssimo, por cuja proteção os inimigos estão nas tuas mãos.” “Deu-lhe o dízimo de tudo.” “Não receberei nada… para que não digas: eu enriqueci Abrão.”",
+    "meditatio_perguntas": [
+      "Reconheço na Missa o pão e o vinho de Melquisedec cumpridos em Cristo?",
+      "Devolvo a Deus, com gratidão, parte do que recebo?",
+      "Há ganhos que eu deveria recusar para permanecer livre?"
+    ],
+    "oratio_guia": "Senhor Jesus, sacerdote eterno segundo a ordem de Melquisedec, obrigado pelo pão e pelo vinho da Eucaristia. Dá-me gratidão para devolver-te o que é teu e liberdade para recusar o que me afasta de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Melquisedech, rei de Salém, trazendo pão e vinho, porque era sacerdote do Deus Altíssimo",
+      "ref": "Gn 14,18"
+    }
+  },
+  "ancoras": {
+    "14:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salém é identificada pela tradição com Jerusalém (Sl 75,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

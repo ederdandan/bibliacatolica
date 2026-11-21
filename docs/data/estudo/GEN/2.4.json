@@ -1,0 +1,49 @@
+{
+  "id": "GEN.2.4",
+  "livro": "GEN",
+  "titulo": "O homem do pó, o jardim e a proibição",
+  "secao": "Origens",
+  "referencia": "Gn 2,4-17",
+  "ini": {
+    "c": 2,
+    "v": 4
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O homem formado do pó recebe o sopro de Deus e o jardim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um segundo relato olha a criação de perto. Quando ainda não havia plantas nem quem cultivasse a terra, o Senhor Deus forma o homem com o barro da terra e sopra no seu rosto um sopro de vida, e o homem se torna alma vivente. Planta um jardim no Éden, ao oriente, e ali põe o homem. Faz brotar toda espécie de árvores agradáveis à vista e boas para comer, e no meio do jardim a árvore da vida e a árvore da ciência do bem e do mal. Um rio sai do Éden para regar o jardim e se divide em quatro: Fison, Geon, Tigre e Eufrates. O Senhor toma o homem e o põe no paraíso para que o cultive e o guarde. E lhe dá uma ordem: “Come de todas as árvores do paraíso; mas não comas do fruto da árvore da ciência do bem e do mal, porque, no dia em que dele comeres, morrerás”.",
+    "alegorico": "O sopro de Deus no barro anuncia o sopro de Cristo ressuscitado sobre os apóstolos: “Recebei o Espírito Santo” (Jo 20,22), que faz deles nova criação. O jardim com o rio que se divide em quatro foi lido pelos Padres como figura da Igreja, regada pelos quatro Evangelhos; a árvore da vida, como a cruz, verdadeira árvore que dá vida.",
+    "moral": "O homem é ao mesmo tempo pó e sopro: frágil, terreno, e chamado à comunhão com Deus. O trabalho de cultivar e guardar não é castigo, mas vocação original. A liberdade humana tem limites: o mandamento não é capricho, mas a lembrança de que só Deus define o bem e o mal; respeitá-lo é permanecer na vida.",
+    "anagogico": "A árvore da vida, cujo caminho se fechará, reaparece na Jerusalém celeste, à margem do rio da vida, com frutos todos os meses (Ap 22,2): o paraíso perdido será devolvido e superado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor Deus formou o homem do barro da terra, e inspirou no seu rosto um sopro de vida, e o homem tornou-se alma vivente.” “Pôs nele o homem para o cultivar e guardar.” “Não comas do fruto da árvore da ciência do bem e do mal.”",
+    "meditatio_perguntas": [
+      "Lembro-me de que sou pó, e de que vivo do sopro de Deus?",
+      "Vivo o meu trabalho como “cultivar e guardar” o que Deus me confiou?",
+      "Aceito que é Deus, e não eu, quem define o bem e o mal?"
+    ],
+    "oratio_guia": "Senhor Deus, que me formaste do pó e sopraste em mim o teu Espírito, obrigado pela vida. Ensina-me a cultivar e guardar o jardim que me confias e a obedecer à tua palavra, que é caminho de vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "inspirou no seu rosto um sopro de vida",
+      "ref": "Gn 2,7"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aqui começa outro relato, de estilo mais narrativo, que usa o nome “Senhor Deus” (Iavé Elohim). Os dois relatos se completam.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

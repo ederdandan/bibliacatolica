@@ -1,0 +1,49 @@
+{
+  "id": "GEN.30.25",
+  "livro": "GEN",
+  "titulo": "Jacó enriquece",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 30,25-43",
+  "ini": {
+    "c": 30,
+    "v": 25
+  },
+  "fim": {
+    "c": 30,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Jacó enriquece: Deus abençoa o trabalho apesar da exploração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois do nascimento de José, Jacó diz a Labão: deixa-me voltar à minha terra, com as minhas mulheres e os meus filhos; tu sabes como te servi. Labão responde: “Reconheci, por experiência, que Deus me abençoou por causa de ti”; fixa o teu salário. Jacó: tu sabes como cresceu o teu gado sob os meus cuidados; tinhas pouco antes de eu vir, e agora és rico; quando trabalharei para a minha casa? Propõe: não me dês nada; separarei do rebanho todos os animais malhados e de cor escura; esse será o meu salário. Labão concorda, mas no mesmo dia separa os animais malhados e os entrega aos filhos, a três dias de distância. Jacó, então, toma varas verdes de choupo, amendoeira e plátano, descasca-lhes faixas brancas e as põe nos bebedouros, diante dos animais na hora de conceber; os mais fortes geram crias malhadas. Assim o homem enriquece muitíssimo e tem muitos rebanhos, servos, servas, camelos e jumentos.",
+    "alegorico": "Os Padres viram nas varas descascadas, que fazem nascer rebanhos novos, uma figura da cruz de Cristo, que faz nascer um povo numeroso; e em Jacó, pastor que trabalha para a sua própria casa, o Bom Pastor que forma o seu rebanho.",
+    "moral": "Labão reconhece que Deus o abençoou por causa de Jacó, mas continua a explorá-lo: é possível ver a bênção de Deus e ser injusto com o trabalhador. Jacó responde com engenho, à maneira do seu tempo; o texto mostra depois que o verdadeiro autor da prosperidade é Deus (31,9-12). O trabalhador tem direito a um salário justo e a cuidar da própria casa.",
+    "anagogico": "O pastor que, depois de longos anos de serviço, pensa em voltar à casa paterna, anuncia o desejo do crente pela pátria definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixa-me ir, para que volte à minha pátria.” “Reconheci, por experiência, que Deus me abençoou por causa de ti.” “Quando trabalharei também para a minha casa?” “O homem enriqueceu muitíssimo.”",
+    "meditatio_perguntas": [
+      "Reconheço a bênção de Deus que vem a mim por meio de outros, e os trato com justiça?",
+      "Pago com justiça os que trabalham para mim?",
+      "Sei equilibrar o serviço aos outros e o cuidado da minha própria família?"
+    ],
+    "oratio_guia": "Senhor, fonte de toda prosperidade, abençoa o trabalho das minhas mãos. Livra-me de explorar os outros e dá a cada trabalhador o salário justo e o tempo para a sua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Reconheci, por experiência, que Deus me abençoou por causa de ti",
+      "ref": "Gn 30,27"
+    }
+  },
+  "ancoras": {
+    "30:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As varas descascadas refletem uma crença antiga sobre a influência do que os animais veem no momento da concepção; o capítulo seguinte atribui o resultado a Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

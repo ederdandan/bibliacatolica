@@ -1,0 +1,49 @@
+{
+  "id": "GEN.22.20",
+  "livro": "GEN",
+  "titulo": "A morte e a sepultura de Sara",
+  "secao": "Abraão",
+  "referencia": "Gn 22,20–23,20",
+  "ini": {
+    "c": 22,
+    "v": 20
+  },
+  "fim": {
+    "c": 23,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A morte de Sara e o primeiro pedaço da terra prometida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abraão recebe notícias da família de Nacor, seu irmão, que ficou na Mesopotâmia: Melca lhe deu oito filhos, entre os quais Batuel, que gerou Rebeca. Sara vive cento e vinte e sete anos e morre em Cariat-Arbe, que é Hebron, na terra de Canaã. Abraão vem chorá-la e lamentá-la. Depois se levanta e fala aos filhos de Het: “Sou forasteiro e peregrino entre vós; dai-me o direito de sepultura entre vós, para eu sepultar a minha defunta”. Os hititas o honram: és um príncipe de Deus entre nós; sepulta-a no melhor dos nossos sepulcros. Abraão se inclina diante do povo e pede a caverna dupla de Macpela, de Efron, filho de Seor, pelo seu justo preço. Efron, à vista de todos, oferece dá-la de graça; Abraão insiste em pagar; Efron diz: a terra vale quatrocentos siclos de prata; que é isso entre mim e ti? Abraão pesa a prata diante de todos. O campo, a caverna e as árvores ficam confirmados como propriedade de Abraão. Deste modo, Abraão sepulta Sara na caverna dupla do campo que olha para Mambré, que é Hebron, na terra de Canaã.",
+    "alegorico": "A Carta aos Hebreus diz dos patriarcas que “morreram na fé, sem terem recebido as promessas, mas vendo-as e saudando-as de longe, e confessando que eram estrangeiros e peregrinos sobre a terra” (Hb 11,13): o túmulo de Sara é penhor da pátria celeste. A notícia de Rebeca, na família de Nacor, prepara a esposa de Isaac.",
+    "moral": "O luto é vivido com verdade: Abraão chora e lamenta. Depois se levanta e cuida com dignidade do corpo da esposa. Ele, a quem Deus prometera toda a terra, só possui dela um sepulcro, e o compra com honestidade, pagando o preço justo diante de testemunhas. O crente vive como peregrino.",
+    "anagogico": "A primeira posse na terra prometida é um sepulcro: a esperança da fé atravessa a morte e aguarda a ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Abraão veio para a chorar e lamentar.” “Sou forasteiro e peregrino entre vós.” “Tu és um príncipe de Deus entre nós.” “Abraão sepultou Sara, sua mulher, na dupla caverna do campo que olha para Mambré.”",
+    "meditatio_perguntas": [
+      "Como vivo o luto: com verdade e com esperança?",
+      "Sinto-me “forasteiro e peregrino” nesta terra?",
+      "Sou honesto nos negócios, mesmo quando me oferecem vantagens?"
+    ],
+    "oratio_guia": "Senhor, consola os que choram os seus mortos. Ensina-me a viver como peregrino nesta terra, com honestidade e esperança, e recebe os nossos defuntos na pátria que nos prometeste. Amém.",
+    "contemplatio_foco": {
+      "texto": "sou forasteiro e peregrino entre vós",
+      "ref": "Gn 23,4"
+    }
+  },
+  "ancoras": {
+    "23:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hebron, com a gruta de Macpela, será o túmulo dos patriarcas: Abraão, Isaac, Rebeca, Lia e Jacó serão sepultados ali.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

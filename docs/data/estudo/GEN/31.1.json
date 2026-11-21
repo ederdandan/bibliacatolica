@@ -1,0 +1,49 @@
+{
+  "id": "GEN.31.1",
+  "livro": "GEN",
+  "titulo": "A fuga de Labão",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 31,1-21",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Volta para a terra de teus pais: a fuga de Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó ouve os filhos de Labão dizer: Jacó tomou tudo o que era de nosso pai. Vê também que o rosto de Labão já não é o mesmo. O Senhor lhe diz: “Volta para a terra de teus pais, para a tua parentela, e eu serei contigo”. Jacó chama Raquel e Lia ao campo e lhes diz: “Vejo que vosso pai não me mostra a mesma cara que a princípio; porém o Deus de meu pai tem estado comigo”. Vós sabeis que servi vosso pai com todas as minhas forças, e ele me enganou e mudou o meu salário dez vezes; mas Deus não lhe permitiu fazer-me mal. Conta-lhes um sonho em que o anjo de Deus lhe revelou que os animais malhados se multiplicavam por obra divina: vi tudo o que Labão te fez; eu sou o Deus de Betel; volta à tua terra natal. Raquel e Lia respondem: temos ainda parte na herança de nosso pai? Ele nos tratou como estrangeiras, nos vendeu e comeu o nosso dinheiro; faze tudo o que Deus te disse. Jacó põe mulheres e filhos sobre os camelos e parte com todo o gado para Isaac, na terra de Canaã. Labão tinha ido tosquiar as ovelhas, e Raquel rouba os ídolos de seu pai. Jacó parte às escondidas, atravessa o rio e se dirige ao monte de Galaad.",
+    "alegorico": "O regresso de Jacó à terra dos pais é figura da conversão e do caminho da alma de volta à casa do Pai, como o filho pródigo (Lc 15,18). Os ídolos escondidos por Raquel mostram que, mesmo no caminho certo, é preciso purificar o coração.",
+    "moral": "Deus fala nos momentos de mudança e garante: “eu serei contigo”. Jacó consulta as esposas e as envolve na decisão. Reconhece que a sua proteção vem de Deus, não da própria astúcia. Mas mesmo os que partem com Deus podem levar ídolos escondidos na bagagem.",
+    "anagogico": "O caminho de volta à terra dos pais anuncia o retorno definitivo à pátria, sob a proteção de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Volta para a terra de teus pais, para a tua parentela, e eu serei contigo.” “Vejo que vosso pai não me mostra a mesma cara que a princípio; porém o Deus de meu pai tem estado comigo.” “Faze tudo o que Deus te disse.” “Raquel furtou os ídolos de seu pai.”",
+    "meditatio_perguntas": [
+      "Para onde Deus me chama a “voltar”?",
+      "Reconheço que foi Deus quem me protegeu nos tempos difíceis?",
+      "Que ídolos levo escondidos, mesmo caminhando com Deus?"
+    ],
+    "oratio_guia": "Senhor, Deus dos meus pais, que disseste a Jacó “eu serei contigo”, acompanha-me nos caminhos de volta. Tira do meu coração os ídolos escondidos e conduze-me à tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Volta para a terra de teus pais, para a tua parentela, e eu serei contigo",
+      "ref": "Gn 31,3"
+    }
+  },
+  "ancoras": {
+    "31:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os ídolos domésticos (terafim) podiam estar ligados ao direito de herança; Raquel talvez quisesse garantir uma parte para o marido.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

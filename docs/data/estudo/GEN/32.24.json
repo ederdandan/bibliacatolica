@@ -1,0 +1,49 @@
+{
+  "id": "GEN.32.24",
+  "livro": "GEN",
+  "titulo": "A luta no Jaboc",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 32,24-32",
+  "ini": {
+    "c": 32,
+    "v": 24
+  },
+  "fim": {
+    "c": 32,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A luta no Jaboc: “Não te largarei se não me abençoares”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó fica só, “e um homem lutou com ele até pela manhã”. Vendo que não podia vencê-lo, o homem toca a articulação da coxa de Jacó, que logo se desloca. E diz: “Deixa-me, que já vem a aurora”. Jacó responde: “Não te largarei, se me não abençoares”. — “Qual é o teu nome?” — “Jacó.” — “De nenhuma sorte te chamarás Jacó, mas Israel, porque lutaste contra Deus e com os homens, e ficaste vitorioso.” Jacó pergunta: dize-me, por que nome te chamas? — Por que perguntas o meu nome? E o abençoa ali mesmo. “Jacó pôs àquele lugar o nome de Fanuel, dizendo: Vi a Deus face a face, e a minha alma foi salva.” O sol nasce quando ele passa Fanuel; e ele manca de uma perna. Por isso os filhos de Israel não comem o nervo que está na articulação da coxa.",
+    "alegorico": "A luta de Jacó tornou-se imagem da oração como combate perseverante: “a tradição espiritual da Igreja reteve deste relato o símbolo da oração como combate da fé e vitória da perseverança” (Catecismo). O misterioso lutador que se deixa vencer e abençoa é figura de Cristo, que se deixa “vencer” pela fé dos que suplicam, como a cananeia (Mt 15,28).",
+    "moral": "Antes de encontrar o irmão, Jacó precisa encontrar a Deus, sozinho, na noite. Deus luta com ele e o fere: o enganador sai mancando, mas com um nome novo. Quando Deus pergunta “qual é o teu nome?”, Jacó tem de confessar “Jacó”, o suplantador: a verdade sobre si é o começo da transformação. A perseverança na oração arranca a bênção.",
+    "anagogico": "“Vi Deus face a face, e a minha alma foi salva”: antecipação da visão de Deus, que é a salvação plena; a aurora que nasce sobre Jacó anuncia o dia sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ficou ele só, e um homem lutou com ele até pela manhã.” “Deixa-me, que já vem a aurora.” “Não te largarei, se me não abençoares.” “Qual é o teu nome?” “Não te chamarás Jacob, mas Israel.” “Vi a Deus face a face, e a minha alma foi salva.”",
+    "meditatio_perguntas": [
+      "Persevero na oração até receber a bênção, mesmo quando é uma luta?",
+      "Quando Deus me pergunta “qual é o teu nome?”, digo a verdade sobre mim?",
+      "Que “ferida” de Deus me tornou mais humilde e mais verdadeiro?"
+    ],
+    "oratio_guia": "Senhor, não te largarei enquanto não me abençoares. Pergunta-me o nome e dá-me a coragem de confessar quem sou. Fere o meu orgulho, muda o meu nome e faze nascer sobre mim a tua aurora. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não te largarei, se me não abençoares",
+      "ref": "Gn 32,26"
+    }
+  },
+  "ancoras": {
+    "32:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto interpreta Israel como “lutou com Deus”. Penuel/Fanuel significa “face de Deus”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

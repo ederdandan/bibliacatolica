@@ -1,0 +1,40 @@
+{
+  "id": "GEN.19.1",
+  "livro": "GEN",
+  "titulo": "A destruição de Sodoma",
+  "secao": "Abraão",
+  "referencia": "Gn 19,1-29",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Sodoma destruída: a misericórdia que toma pela mão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os dois anjos chegam a Sodoma à tarde; Ló, sentado à porta da cidade, insiste em hospedá-los e lhes prepara um banquete. Antes que se deitem, os homens da cidade, do moço ao velho, cercam a casa e exigem: traze-nos os homens que entraram, para que os conheçamos. Ló sai, fecha a porta e suplica que não façam esse mal; chega a oferecer as filhas. Eles ameaçam arrombar a porta; os anjos puxam Ló para dentro e ferem os agressores de cegueira. Dizem a Ló: tens aqui alguém mais? Tira-os desta cidade, porque o Senhor nos enviou para destruí-la. Os genros pensam que Ló brinca. Ao amanhecer, os anjos o apressam; “como ele hesitasse, pegaram pela mão a ele, à sua mulher e às suas duas filhas, porque o Senhor queria salvá-lo”. Levam-nos para fora: “Salva a tua vida, não olhes para trás, nem pares em toda a região em volta”. Ló pede para se refugiar em Segor, e é atendido. O Senhor faz chover sobre Sodoma e Gomorra enxofre e fogo do céu. “A mulher de Ló, tendo olhado para trás, ficou convertida numa estátua de sal.” Abraão, de manhã, vê a fumaça subir da terra como a de uma fornalha. Deus lembrou-se de Abraão e livrou Ló.",
+    "alegorico": "Jesus adverte: “Lembrai-vos da mulher de Ló” (Lc 17,32): quem olha para trás com apego não está pronto para o Reino (Lc 9,62). Os anjos que tomam pela mão os que hesitam são figura da graça, que nos arranca do pecado quando nós mesmos não temos força de sair.",
+    "moral": "O pecado de Sodoma é a violência contra os hóspedes e o abuso coletivo; Ezequiel acrescenta a soberba, a fartura e a falta de cuidado com o pobre (Ez 16,49). Ló hesita, e é salvo não pelos seus méritos, mas pela misericórdia de Deus e pela intercessão de Abraão. Há momentos em que a salvação exige não olhar para trás.",
+    "anagogico": "Sodoma é imagem do juízo final, que virá de repente (Lc 17,28-30; 2Pd 2,6); a fuga para o monte, a da alma que se refugia em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como ele hesitasse, pegaram-lhe pela mão… porque o Senhor queria salvá-lo.” “Salva a tua vida, não olhes para trás.” “A mulher de Loth, tendo olhado para trás, ficou convertida numa estátua de sal.” “Lembrou-se de Abraão e livrou Loth.”",
+    "meditatio_perguntas": [
+      "Que “Sodoma” ainda atrai o meu olhar para trás?",
+      "Hesito quando Deus me pede para sair de uma situação de pecado?",
+      "Deixo a graça tomar-me pela mão?"
+    ],
+    "oratio_guia": "Senhor, que tomaste Ló pela mão quando ele hesitava, toma também a minha. Arranca-me do pecado e não me deixes olhar para trás com saudade. Lembra-te dos que intercedem por mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "salva a tua vida, não olhes para trás",
+      "ref": "Gn 19,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

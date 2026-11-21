@@ -1,0 +1,40 @@
+{
+  "id": "GEN.34.1",
+  "livro": "GEN",
+  "titulo": "Dina e Siquém",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 34,1-31",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A violência contra Dina e a vingança dos irmãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dina, filha de Lia, sai para ver as mulheres da terra. Siquém, filho de Hemor, príncipe da região, a vê, rapta-a, dorme com ela e a violenta. Mas a sua alma se apega a ela; ama-a e procura consolá-la; pede ao pai: obtém-me esta moça por mulher. Jacó sabe, mas cala até que os filhos voltem do campo. Os filhos, ao saber, ficam indignados, porque se cometera uma infâmia em Israel. Hemor propõe: o coração do meu filho está preso à vossa filha; dai-lha por mulher; façamos casamentos entre nós, habitai conosco. Siquém oferece qualquer dote. Os filhos de Jacó respondem com dolo: não podemos dar a nossa irmã a um incircunciso; se todos os vossos varões se circuncidarem, seremos um só povo. Hemor e Siquém convencem os homens da cidade, e todos se circuncidam. Ao terceiro dia, quando estão com dores, Simeão e Levi, irmãos de Dina, entram na cidade com espadas, matam todos os varões, Hemor e Siquém, e tiram Dina de casa. Os outros filhos saqueiam a cidade, levam rebanhos, mulheres e crianças. Jacó diz a Simeão e Levi: “Vós me afligistes e me tornastes odioso aos habitantes deste país; somos poucos; eles se juntarão e me destruirão”. Eles respondem: “Porventura deviam eles abusar da nossa irmã como de uma prostituta?”",
+    "alegorico": "Nas bênçãos finais, Jacó amaldiçoará a ira de Simeão e Levi (Gn 49,5-7): a Escritura não santifica a vingança. Os Padres viram neste episódio a advertência contra o uso de um sinal sagrado (a circuncisão) como instrumento de engano e morte, o contrário da cruz, onde Cristo sofre a violência em vez de praticá-la.",
+    "moral": "O texto denuncia a violência sexual contra Dina, a quem ninguém dá a palavra. Mas denuncia também a vingança desproporcional, feita com engano e com abuso do sagrado, que mata inocentes. Jacó cala, e depois só se preocupa com as consequências para si. Os filhos fazem a pergunta justa, mas dão a resposta errada.",
+    "anagogico": "A violência e a vingança, que atravessam a história, serão julgadas por Deus: “a mim pertence a vingança” (Rm 12,19); só Ele fará justiça plena às vítimas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dina… saiu para ver as mulheres daquela terra.” “Cometera-se uma infâmia em Israel.” “Responderam com dolo.” “Vós me afligistes e me tornastes odioso.” “Porventura deviam eles abusar da nossa irmã como de uma prostituta?”",
+    "meditatio_perguntas": [
+      "Dou voz às vítimas de violência, ou me calo como Jacó?",
+      "Reajo às injustiças com uma vingança desproporcional?",
+      "Já usei algo sagrado como instrumento de engano ou de poder?"
+    ],
+    "oratio_guia": "Senhor, justo juiz, consola as vítimas de violência, a quem ninguém dá a palavra. Livra-me da vingança e do silêncio cúmplice, e ensina-me a buscar a justiça segundo o teu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura deviam eles abusar da nossa irmã, como uma prostituta?",
+      "ref": "Gn 34,31"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

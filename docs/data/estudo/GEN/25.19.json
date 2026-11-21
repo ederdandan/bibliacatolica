@@ -1,0 +1,49 @@
+{
+  "id": "GEN.25.19",
+  "livro": "GEN",
+  "titulo": "Esaú e Jacó; a primogenitura",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 25,19-34",
+  "ini": {
+    "c": 25,
+    "v": 19
+  },
+  "fim": {
+    "c": 25,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Esaú e Jacó: a eleição gratuita e a primogenitura desprezada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Esta é a descendência de Isaac, filho de Abraão.” Isaac tinha quarenta anos quando tomou Rebeca por mulher. “Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu”, e Rebeca concebeu. Mas os meninos se chocavam no seu seio, e ela, angustiada, vai consultar o Senhor: se assim havia de ser, para que concebi? O Senhor responde: “Duas nações estão no teu ventre, dois povos se dividirão das tuas entranhas; um povo vencerá o outro povo, e o mais velho servirá ao mais novo”. Chega o tempo do parto: o primeiro sai ruivo e todo peludo, e o chamam Esaú; o segundo sai segurando com a mão o calcanhar do irmão, e o chamam Jacó. Isaac tem sessenta anos. Os meninos crescem: Esaú torna-se hábil caçador, homem do campo; Jacó, homem simples, que habita em tendas. Isaac ama Esaú, porque gosta da caça; Rebeca ama Jacó. Um dia Jacó coze um guisado; Esaú chega do campo exausto: dá-me desse cozinhado vermelho, porque estou cansado. Jacó diz: vende-me primeiro o teu direito de primogenitura. Esaú: estou morrendo; de que me servirá a primogenitura? Jura e a vende. “E assim, recebido o pão e o cozinhado de lentilhas, comeu, bebeu e foi-se embora, dando-se-lhe pouco de ter vendido o seu direito de primogenitura.”",
+    "alegorico": "São Paulo vê na escolha de Jacó, anunciada antes de os meninos nascerem e de fazerem bem ou mal, a gratuidade da eleição divina, que “não depende das obras, mas daquele que chama” (Rm 9,10-13). Os Padres leram os dois povos no seio de Rebeca como a Sinagoga e a Igreja, o mais novo que recebe a herança.",
+    "moral": "Isaac reza pela esposa estéril, e Deus ouve: a oração dos esposos um pelo outro é poderosa. A preferência de cada pai por um filho semeia a divisão. Esaú troca um bem duradouro por uma satisfação imediata; a Carta aos Hebreus o apresenta como exemplo de quem, por um prato de comida, vende a herança (Hb 12,16). Jacó, por sua vez, aproveita-se da fraqueza do irmão.",
+    "anagogico": "A primogenitura, desprezada por Esaú, é figura da herança eterna dos filhos de Deus, que não se deve trocar por nada desta vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu.” “Duas nações estão no teu ventre.” “O mais velho servirá ao mais novo.” “Vende-me o teu direito de primogenitura.” “Comeu, bebeu e foi-se embora, dando-se-lhe pouco de ter vendido o seu direito de primogenitura.”",
+    "meditatio_perguntas": [
+      "Rezo pelo meu cônjuge e pelos meus como Isaac rezou por Rebeca?",
+      "Por que “prato de lentilhas” arrisco a minha herança de filho de Deus?",
+      "Há preferências injustas que dividem a minha família?"
+    ],
+    "oratio_guia": "Senhor, que ouviste a oração de Isaac, ouve as minhas pelos que amo. Dá-me fome das coisas eternas, para que eu não venda a minha herança por um prazer passageiro, e livra a minha família das preferências que dividem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu",
+      "ref": "Gn 25,21"
+    }
+  },
+  "ancoras": {
+    "25:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esaú é associado a Edom (“vermelho”) e a Seir (“peludo”); Jacó, a ‘aqeb (“calcanhar”), com o sentido de “suplantar”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

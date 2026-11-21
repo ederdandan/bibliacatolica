@@ -1,0 +1,40 @@
+{
+  "id": "GEN.25.1",
+  "livro": "GEN",
+  "titulo": "A morte de Abraão; os descendentes de Ismael",
+  "secao": "Abraão",
+  "referencia": "Gn 25,1-18",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "A morte de Abraão, cheio de dias, e os descendentes de Ismael",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abraão toma outra mulher, Cetura, que lhe dá vários filhos, entre eles Madiã, pai dos madianitas. Abraão dá todos os seus bens a Isaac; aos filhos das concubinas dá presentes e, ainda em vida, os afasta de Isaac para o oriente. Abraão vive cento e setenta e cinco anos. “Faltando-lhe as forças, morreu numa ditosa velhice, em avançada idade, cheio de dias, e foi unir-se ao seu povo.” Isaac e Ismael, seus filhos, sepultam-no na caverna dupla de Macpela, no campo de Efron, junto a Sara. Depois da sua morte, Deus abençoa Isaac, que habita junto ao Poço do Vivente que me vê. Seguem as gerações de Ismael, filho de Agar: doze príncipes, segundo as suas tribos, conforme Deus prometera. Ismael vive cento e trinta e sete anos e morre; os seus filhos habitam desde Hevila até Sur, que olha para o Egito.",
+    "alegorico": "Abraão, que “foi unir-se ao seu povo”, está vivo para Deus: Jesus recorda que Deus é “o Deus de Abraão, de Isaac e de Jacó; não é Deus de mortos, mas de vivos” (Mt 22,32). O “seio de Abraão” (Lc 16,22) tornou-se imagem do repouso dos justos.",
+    "moral": "Abraão organiza a herança com justiça e previdência. A sua morte é “ditosa”, porque viveu na fé. Junto ao túmulo, os dois filhos separados, Isaac e Ismael, se reencontram: a morte dos pais pode reunir os irmãos. Deus cumpre também a promessa feita a Ismael: doze príncipes.",
+    "anagogico": "“Cheio de dias” e “unido ao seu povo”: a morte do justo é passagem para a comunhão com os que o precederam na fé."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Abraão deu tudo o que possuía a Isaac.” “Morreu numa ditosa velhice, em avançada idade, cheio de dias, e foi unir-se ao seu povo.” “Isaac e Ismael, seus filhos, o sepultaram.” “Deus abençoou Isaac.”",
+    "meditatio_perguntas": [
+      "Como desejo envelhecer e morrer: “cheio de dias” e em paz com Deus?",
+      "Há irmãos separados que a dor ou a morte podem reunir?",
+      "Que herança, material e espiritual, preparo para os que vêm depois?"
+    ],
+    "oratio_guia": "Deus de Abraão, que não és Deus de mortos, mas de vivos, concede-me uma velhice serena e uma morte na tua paz. Reúne os irmãos separados e recebe os nossos falecidos no seio de Abraão. Amém.",
+    "contemplatio_foco": {
+      "texto": "morreu numa ditosa velhice, em avançada idade, cheio de dias",
+      "ref": "Gn 25,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

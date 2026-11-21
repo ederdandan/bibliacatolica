@@ -1,0 +1,49 @@
+{
+  "id": "GEN.14.1",
+  "livro": "GEN",
+  "titulo": "A guerra dos reis; Abrão liberta Ló",
+  "secao": "Abraão",
+  "referencia": "Gn 14,1-16",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Abrão vai em socorro do irmão prisioneiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No tempo de Anrafel, rei de Senaar, quatro reis do oriente, com Codorlaomor à frente, fazem guerra contra cinco reis da região do mar Morto, entre eles os reis de Sodoma e Gomorra, que se tinham revoltado depois de doze anos de servidão. Os reis do oriente derrotam vários povos e vencem no vale de Sidim, cheio de poços de betume; os reis de Sodoma e Gomorra fogem e caem ali. Os vencedores saqueiam os bens e os víveres de Sodoma e Gomorra e levam também Ló, sobrinho de Abrão, que habitava em Sodoma, com tudo o que lhe pertencia. Um fugitivo avisa Abrão, o hebreu, que habita junto ao carvalho de Mambré. “Abrão, tendo ouvido que Ló, seu irmão, ficara prisioneiro, escolheu os mais corajosos dos seus servos, em número de trezentos e dezoito”, e persegue os inimigos até Dã. Divide a sua gente, ataca de noite, os desbarata e os persegue até Hoba, à esquerda de Damasco. Recupera todos os bens e Ló com o que lhe pertencia, as mulheres e o povo.",
+    "alegorico": "Abrão que sai de noite com poucos homens para libertar o irmão cativo foi visto pelos Padres como figura de Cristo, que desce para libertar os cativos do pecado e da morte (Lc 4,18; Ef 4,8). Santo Ambrósio notou que 318 é o número dos bispos de Niceia, que defenderam a fé.",
+    "moral": "Ló tinha escolhido a melhor parte e se afastado; mesmo assim, quando cai em desgraça, Abrão não guarda rancor nem diz “bem feito”: arrisca-se por ele. O amor verdadeiro vai em socorro de quem nos deixou. A coragem e a estratégia são postas a serviço da libertação, não da conquista.",
+    "anagogico": "A libertação dos cativos anuncia a vitória final de Cristo, que levará consigo os prisioneiros libertados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levaram também Loth… que habitava em Sodoma.” “Abrão, tendo ouvido que Loth, seu irmão, ficara prisioneiro, escolheu os mais corajosos dos seus servos.” “Recobrou todos os seus bens, e Loth, seu irmão.”",
+    "meditatio_perguntas": [
+      "Corro em socorro de quem me abandonou ou me feriu?",
+      "Que irmão “prisioneiro” precisa da minha ajuda hoje?",
+      "Uso as minhas forças para libertar ou para dominar?"
+    ],
+    "oratio_guia": "Senhor Jesus, que vieste libertar os cativos, dá-me um coração como o de Abrão, que não guarda rancor e corre em socorro do irmão. Liberta-me e faze-me instrumento de libertação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Abrão, tendo ouvido que Loth, seu irmão, ficara prisioneiro",
+      "ref": "Gn 14,14"
+    }
+  },
+  "ancoras": {
+    "14:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É a primeira vez que a Bíblia usa o termo “hebreu”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

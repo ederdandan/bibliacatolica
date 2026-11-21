@@ -1,0 +1,40 @@
+{
+  "id": "GEN.27.30",
+  "livro": "GEN",
+  "titulo": "O choro de Esaú; Jacó parte",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 27,30–28,9",
+  "ini": {
+    "c": 27,
+    "v": 30
+  },
+  "fim": {
+    "c": 28,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O grito de Esaú e a fuga de Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Apenas Isaac acaba de abençoar e Jacó sai, chega Esaú da caça; prepara o guisado e o leva ao pai: levanta-te, meu pai, e come, para que me abençoes. — Quem és tu? — Sou Esaú, teu primogênito. Isaac estremece de espanto: quem foi então o que me trouxe caça? Comi de tudo antes que viesses e o abençoei; e abençoado ficará. “Esaú, ouvidas as palavras do pai, gritou com grande clamor e, consternado, disse: Dá-me também a mim a bênção, meu pai.” — Teu irmão veio com astúcia e recebeu a tua bênção. — Com razão se chama Jacó: já duas vezes me suplantou: tirou-me a primogenitura e agora a bênção. “Porventura, ó pai, tens uma só bênção? Abençoa-me também a mim.” E rompe em grande pranto. Isaac lhe dá uma bênção menor: longe da fertilidade da terra será a tua habitação; viverás da espada e servirás a teu irmão, mas virá o tempo em que sacudirás o seu jugo. Esaú odeia Jacó e diz: virão os dias do luto por meu pai, e então matarei Jacó. Rebeca o sabe e manda Jacó fugir para Harã, para junto de Labão, “por alguns dias”, até passar a ira do irmão: por que perderia os dois filhos num só dia? A Isaac ela diz: estou desgostosa da vida por causa das filhas de Het. Isaac chama Jacó, abençoa-o e manda-o tomar mulher entre as filhas de Labão: Deus onipotente te abençoe e te dê a bênção de Abraão. Esaú, vendo que as cananeias desagradavam ao pai, toma também uma filha de Ismael.",
+    "alegorico": "O pranto de Esaú, que “não achou lugar de arrependimento, ainda que o procurasse com lágrimas” (Hb 12,17), é advertência sobre a seriedade das escolhas. A bênção de Abraão, passada a Jacó, segue a linha que conduz a Cristo, em quem todas as nações serão abençoadas.",
+    "moral": "O grito de Esaú comove: há perdas que não se podem desfazer. Mas o seu luto logo se transforma em ódio e desejo de matar. Rebeca, que planejou a fraude, terá de se separar do filho preferido: os “alguns dias” serão vinte anos, e ela talvez nunca mais o veja. O pecado sempre cobra o seu preço, mesmo quando serve a um plano maior.",
+    "anagogico": "A bênção de Abraão, transmitida apesar de tudo, garante que a promessa de Deus chegará ao seu cumprimento final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem és tu?” “Dá-me também a mim a bênção, meu pai.” “Porventura, ó pai, tens uma só bênção?” “Matarei Jacob, meu irmão.” “Deus onipotente te abençoe… e te dê as bênçãos de Abraão.”",
+    "meditatio_perguntas": [
+      "Há perdas na minha vida que preciso aceitar sem transformá-las em ódio?",
+      "Que consequências de escolhas passadas, minhas ou dos meus, ainda pesam hoje?",
+      "Como posso evitar que as preferências dividam os meus filhos ou irmãos?"
+    ],
+    "oratio_guia": "Senhor, que ouviste o grito de Esaú, consola os que perderam o que não se recupera. Guarda-me do ódio e da vingança, e faze que as feridas da minha família sejam curadas pela tua bênção. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá-me também a mim a bênção, meu pai",
+      "ref": "Gn 27,34"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GEN.10.1",
+  "livro": "GEN",
+  "titulo": "A tábua das nações",
+  "secao": "Origens",
+  "referencia": "Gn 10,1-32",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A tábua das nações: toda a humanidade é uma só família",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estas são as gerações dos filhos de Noé, Sem, Cam e Jafé”, e dos filhos que lhes nasceram depois do dilúvio. Os filhos de Jafé povoam as ilhas das nações, cada um segundo a sua língua, família e nação. Os filhos de Cam: Cus, Mesraim (Egito), Fut e Canaã. De Cus nasce Nemrod, “robusto caçador diante do Senhor”, que começa a ser poderoso na terra; o seu reino começa em Babilônia e se estende à Assíria, onde funda Nínive. De Canaã descendem os sidônios, os heteus, os jebuseus, os amorreus e outros povos de Canaã. Os filhos de Sem, pai de todos os filhos de Héber: Elam, Assur, Arfaxad, Lud e Aram; de Arfaxad vem Salé, e de Salé, Héber, que gera Faleg, porque no seu tempo a terra foi dividida. “Estas são as famílias dos filhos de Noé, segundo as suas gerações e nações. Delas saíram todos os povos da terra depois do dilúvio.”",
+    "alegorico": "A lista dos setenta povos foi lida como figura dos setenta e dois discípulos enviados por Jesus (Lc 10,1) a todas as nações, e da missão universal da Igreja: “Ide e fazei discípulos de todos os povos” (Mt 28,19).",
+    "moral": "Todos os povos descendem de uma só família: não há raça superior nem inferior. A diversidade de línguas e nações faz parte da história querida por Deus. O poder de um “caçador” como Nemrod mostra como cedo a força se organiza em impérios.",
+    "anagogico": "A dispersão dos povos aponta para a sua reunião final diante do trono: “uma grande multidão… de todas as nações, tribos, povos e línguas” (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estas são as gerações dos filhos de Noé.” “Nemrod… começou a ser poderoso na terra.” “No seu tempo a terra foi dividida.” “Delas saíram todos os povos da terra depois do dilúvio.”",
+    "meditatio_perguntas": [
+      "Vejo pessoas de outros povos e culturas como membros da mesma família humana?",
+      "Tenho preconceitos contra alguma nação ou origem?",
+      "Rezo pela evangelização de todos os povos?"
+    ],
+    "oratio_guia": "Pai de todos os povos, que fizeste de um só homem todo o gênero humano, livra-me do preconceito. Que todas as nações te conheçam e se reúnam um dia na tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Delas saíram todos os povos da terra depois do dilúvio",
+      "ref": "Gn 10,32"
+    }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista é geográfica e política mais do que genealógica: reúne os povos conhecidos de Israel, ao norte (Jafé), ao sul (Cam) e ao centro e oriente (Sem).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

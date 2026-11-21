@@ -1,0 +1,49 @@
+{
+  "id": "GEN.36.1",
+  "livro": "GEN",
+  "titulo": "Os descendentes de Esaú",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 36,1-43",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Os descendentes de Esaú: também Edom tem a sua história",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estas são as gerações de Esaú, que é Edom.” Esaú tomou mulheres das filhas de Canaã: Ada, Oolibama e Basemat, filha de Ismael; delas nasceram Elifaz, Rauel, Jeús, Jelon e Coré. “Depois Esaú tomou as suas mulheres, filhos e filhas, toda a gente da sua casa, rebanhos e gados, e tudo o que tinha na terra de Canaã, e foi para outro país, e apartou-se de seu irmão Jacó.” Porque eram muito ricos e não podiam habitar juntos; a terra em que eram peregrinos não os podia sustentar por causa da multidão dos rebanhos. Esaú, por outro nome Edom, habita no monte de Seir. Seguem os filhos e netos de Esaú, os chefes das tribos de Edom, entre eles Amalec, filho de Elifaz; depois os filhos de Seir, o horreu, antigos habitantes da terra; e a lista dos reis que reinaram em Edom “antes que os filhos de Israel tivessem rei”. Por fim, os chefes de Esaú segundo as suas famílias, lugares e nomes: este é Esaú, pai dos idumeus.",
+    "alegorico": "Edom terá uma longa e conflituosa história com Israel. Os profetas anunciarão o juízo sobre ele (Abdias), mas também a esperança de que “o resto de Edom” e todas as nações busquem o Senhor (Am 9,12; At 15,17). O Evangelho será anunciado também aos idumeus (Mc 3,8).",
+    "moral": "A Escritura dedica um capítulo inteiro a Esaú: ele não é apagado da história. Deus cumpre também com ele uma promessa, a de ser uma nação. A separação pacífica dos irmãos, por causa da abundância, lembra a de Abraão e Ló: às vezes, viver em paz significa viver separados. O irmão que não foi o escolhido continua a ser irmão.",
+    "anagogico": "A lista dos povos e reis, que passam, aponta para o único Reino que não passa, o de Deus, ao qual todos os povos são chamados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estas são as gerações de Esaú, que é Edom.” “Apartou-se do seu irmão Jacob.” “Eram muito ricos e não podiam habitar juntamente.” “Esaú, por outro nome Edom, habitou sobre o monte de Seir.”",
+    "meditatio_perguntas": [
+      "Respeito a história e o caminho dos que não seguem o mesmo caminho que eu?",
+      "Sei viver em paz com um irmão, mesmo à distância?",
+      "Lembro-me de rezar também pelos “Esaús” da minha família?"
+    ],
+    "oratio_guia": "Senhor, Deus de todos os povos, que não esqueceste Esaú, abençoa também os irmãos que seguem outro caminho. Dá-nos a paz, mesmo à distância, e reúne-nos um dia no teu Reino. Amém.",
+    "contemplatio_foco": {
+      "texto": "foi para outro país, e apartou-se do seu irmão Jacob",
+      "ref": "Gn 36,6"
+    }
+  },
+  "ancoras": {
+    "36:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Antes que os filhos de Israel tivessem rei”: o redator escreve já no tempo da monarquia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

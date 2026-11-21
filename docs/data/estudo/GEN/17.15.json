@@ -1,0 +1,49 @@
+{
+  "id": "GEN.17.15",
+  "livro": "GEN",
+  "titulo": "Sara e a promessa de Isaac",
+  "secao": "Abraão",
+  "referencia": "Gn 17,15-27",
+  "ini": {
+    "c": 17,
+    "v": 15
+  },
+  "fim": {
+    "c": 17,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Sara será mãe: a promessa de Isaac e o riso de Abraão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus diz a Abraão: a Sarai, tua mulher, não chamarás mais Sarai, mas Sara. Eu a abençoarei e dela te darei um filho; abençoá-la-ei, e ela será mãe de nações; dela sairão reis de povos. Abraão prostra-se com o rosto em terra e ri, dizendo no seu coração: nascerá um filho a um homem de cem anos? E Sara, de noventa anos, dará à luz? E diz a Deus: oxalá Ismael viva diante de ti! Deus responde: “Sara, tua mulher, te dará um filho, e lhe porás o nome de Isaac, e farei o meu pacto com ele e com a sua descendência depois dele, por uma aliança eterna”. Quanto a Ismael, também te ouvi: abençoá-lo-ei, multiplicá-lo-ei, gerará doze príncipes e farei dele uma grande nação. Mas a minha aliança a estabelecerei com Isaac, que Sara te dará neste tempo, no ano que vem. Deus se retira. No mesmo dia Abraão circuncida Ismael e todos os varões da sua casa, como Deus mandara; Abraão tem noventa e nove anos, Ismael treze.",
+    "alegorico": "O filho prometido a um casal estéril e velho prefigura os nascimentos de João Batista e, sobretudo, o de Jesus, nascido da Virgem por obra de Deus: “a Deus nada é impossível” (Lc 1,37). Isaac, cujo nome vem de “rir”, anuncia a alegria messiânica.",
+    "moral": "Abraão ri, entre a fé e a incredulidade: a promessa é grande demais para a sua idade. Pede por Ismael, o filho que já tem: Deus o ouve e abençoa também. Mas o plano de Deus segue um caminho que não é o mais óbvio. A obediência de Abraão é imediata: no mesmo dia cumpre o que Deus pediu.",
+    "anagogico": "A aliança eterna com Isaac anuncia a aliança nova e eterna em Cristo, herdeiro de todas as promessas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não chamarás mais Sarai, mas Sara.” “Ela será mãe de nações.” “Nascerá um filho a um homem de cem anos?” “Sara, tua mulher, te dará à luz um filho, e lhe porás o nome de Isaac.” “Também te ouvi a respeito de Ismael.”",
+    "meditatio_perguntas": [
+      "Rio-me, por dentro, das promessas de Deus que parecem impossíveis?",
+      "Peço a Deus pelos meus “Ismaéis”, os projetos e pessoas que me são caros?",
+      "Obedeço com prontidão, “no mesmo dia”?"
+    ],
+    "oratio_guia": "Senhor, para quem nada é impossível, perdoa a minha incredulidade e ouve as minhas súplicas pelos que amo. Dá-me a obediência pronta de Abraão e a alegria de Isaac. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sara, tua mulher, te dará à luz um filho, e lhe porás o nome de Isaac",
+      "ref": "Gn 17,19"
+    }
+  },
+  "ancoras": {
+    "17:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sarai e Sara são formas do mesmo nome, “princesa”; a mudança marca a nova missão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

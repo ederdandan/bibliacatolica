@@ -1,0 +1,49 @@
+{
+  "id": "GEN.21.1",
+  "livro": "GEN",
+  "titulo": "O nascimento de Isaac; Agar e Ismael",
+  "secao": "Abraão",
+  "referencia": "Gn 21,1-21",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O nascimento de Isaac e o Deus que ouve o menino no deserto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O Senhor visitou Sara, como tinha prometido, e cumpriu o que tinha dito.” Sara concebe e dá à luz um filho na velhice de Abraão, no tempo que Deus predissera. Abraão o chama Isaac e o circuncida ao oitavo dia; tem cem anos. Sara diz: “Deus me deu motivo de riso, e todo aquele que o ouvir rirá comigo. Quem diria a Abraão que Sara amamentaria um filho?” No dia em que Isaac é desmamado, Abraão faz um grande banquete. Sara vê o filho de Agar brincando com Isaac e diz a Abraão: expulsa esta escrava e o seu filho; não será herdeiro com o meu filho Isaac. Abraão sofre muito, por causa do filho. Deus lhe diz: não te pareça duro; ouve Sara, porque de Isaac sairá a descendência que terá o teu nome; mas também do filho da escrava farei uma nação. De manhã, Abraão dá a Agar pão e um odre de água e a despede com o menino. Ela anda errante no deserto de Bersabeia; acaba a água; deixa o menino debaixo de uma árvore e se afasta a um tiro de arco: não verei morrer o menino; e chora alto. “Deus ouviu a voz do menino”; o anjo chama Agar: não temas, levanta-te, toma o menino; farei dele uma grande nação. “E Deus abriu-lhe os olhos, e ela viu um poço de água”, encheu o odre e deu de beber ao menino. Deus está com ele; cresce no deserto de Faran.",
+    "alegorico": "Isaac, filho da promessa nascido contra toda esperança, prefigura Cristo e cada cristão: “vós, irmãos, sois filhos da promessa, à maneira de Isaac” (Gl 4,28). O poço que Deus mostra a Agar no deserto anuncia a água viva que Cristo oferece a todos, mesmo aos de fora (Jo 4,10).",
+    "moral": "Deus cumpre as promessas no seu tempo, e o cumprimento traz riso e alegria. Mas a mesma família vive também ciúmes e expulsão; Abraão sofre por ter de escolher entre os filhos. Deus não abandona o expulso: ouve o choro de um menino que vai morrer de sede e abre os olhos da mãe para a água que estava ali.",
+    "anagogico": "O riso de Sara antecipa a alegria eterna, quando “a nossa boca se encher de riso” (Sl 125,2), e o poço no deserto, o rio da vida que saciará todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor visitou Sara, como tinha prometido.” “Deus me deu motivo de riso, e todo aquele que o ouvir rirá juntamente comigo.” “Não verei morrer o menino.” “Deus ouviu a voz do menino.” “Deus abriu-lhe os olhos, e ela viu um poço de água.”",
+    "meditatio_perguntas": [
+      "Que promessa de Deus já vi cumprir-se na minha vida, e agradeci?",
+      "Que “poço” Deus quer que eu veja no meu deserto?",
+      "Ouço, como Deus, o choro dos excluídos?"
+    ],
+    "oratio_guia": "Senhor, que visitaste Sara como prometeste e ouviste a voz do menino no deserto, enche a minha boca de riso e abre os meus olhos para o poço que me ofereces. Não esqueças os que estão no deserto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ora o Senhor visitou Sara, como tinha prometido",
+      "ref": "Gn 21,1"
+    }
+  },
+  "ancoras": {
+    "21:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Isaac (Yishaq) significa “ele ri”: o riso incrédulo de Abraão e Sara torna-se riso de alegria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "GEN.22.1",
+  "livro": "GEN",
+  "titulo": "O sacrifício de Isaac",
+  "secao": "Abraão",
+  "referencia": "Gn 22,1-19",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "O sacrifício de Isaac: Deus proverá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus põe Abraão à prova: “Abraão!” — “Eis-me aqui.” — “Toma o teu filho único, Isaac, a quem amas, vai à terra da visão e ali o oferecerás em holocausto sobre um dos montes que eu te mostrar.” Abraão levanta-se de madrugada, prepara o jumento, toma dois servos e Isaac, racha a lenha e parte. Ao terceiro dia vê o lugar ao longe; diz aos servos: esperai aqui; eu e o menino iremos até lá, adoraremos e voltaremos a vós. Põe a lenha sobre Isaac; ele mesmo leva o fogo e a faca; e caminham os dois juntos. Isaac diz: “Meu pai, eis o fogo e a lenha; onde está a vítima para o holocausto?” Abraão responde: “Meu filho, Deus proverá a vítima para o seu holocausto”. E caminham os dois juntos. No lugar indicado, Abraão edifica o altar, arruma a lenha, ata Isaac e o põe sobre o altar; estende a mão e toma a faca. O anjo do Senhor brada do céu: “Abraão, Abraão! Não estendas a tua mão sobre o menino; agora conheci que temes a Deus e não perdoaste a teu filho único por amor de mim”. Abraão vê um carneiro preso pelos chifres num espinheiro e o oferece em lugar do filho. Chama o lugar “O Senhor proverá”. O anjo jura em nome do Senhor: porque não perdoaste a teu filho, multiplicarei a tua descendência como as estrelas e como a areia do mar, e nela serão benditas todas as nações da terra, porque obedeceste à minha voz.",
+    "alegorico": "É uma das grandes figuras da Paixão. O pai que oferece o filho único e amado anuncia o Pai que “não poupou o seu próprio Filho, mas o entregou por todos nós” (Rm 8,32). Isaac carrega a lenha como Cristo carrega a cruz; sobe o monte que a tradição identifica com Moriá, o monte do templo, perto do Calvário. O carneiro preso no espinheiro, oferecido em lugar de Isaac, é Cristo coroado de espinhos, o Cordeiro que Deus “proveu” (Jo 1,29). Ao terceiro dia Abraão recebe o filho como que de volta da morte: figura da Ressurreição (Hb 11,19).",
+    "moral": "A fé madura entrega a Deus até o que mais ama, confiando que Ele é capaz de dar a vida. Abraão obedece sem demora (“levantou-se de madrugada”), mas também sem frieza: o texto repete “caminhavam os dois juntos”. Deus não quer sacrifícios humanos: o seu “não estendas a mão” é uma revelação contra as religiões que imolavam crianças. Nas provas, a palavra do crente é: “Deus proverá”.",
+    "anagogico": "A promessa jurada depois da prova, descendência como as estrelas e bênção para todas as nações, cumpre-se na multidão dos redimidos por Cristo, verdadeiro Isaac."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma o teu filho único, Isaac, a quem amas.” “Abraão levantou-se de noite.” “Pôs a lenha sobre Isaac, seu filho.” “Meu pai… onde está a vítima para o holocausto?” “Meu filho, Deus deparará a vítima para o seu holocausto. Caminhavam, pois, ambos juntos.” “Não estendas a tua mão sobre o menino.”",
+    "meditatio_perguntas": [
+      "O que eu teria mais dificuldade em entregar a Deus?",
+      "Nas minhas provas, sou capaz de dizer “Deus proverá”?",
+      "Contemplo o Pai que entregou o seu Filho único por mim?"
+    ],
+    "oratio_guia": "Pai, que não poupaste o teu Filho único, mas o entregaste por nós, dá-me a fé de Abraão. Recebe o que me é mais caro e ensina-me a dizer nas provas: Deus proverá. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus deparará a vítima para o seu holocausto. Caminhavam, pois, ambos juntos",
+      "ref": "Gn 22,8"
+    }
+  },
+  "ancoras": {
+    "22:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição judaica identifica o monte Moriá com o monte do templo de Jerusalém (2Cr 3,1).",
+        "origem": "ia"
+      }
+    },
+    "22:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O Senhor providenciará” (hebraico YHWH yir’eh) pode também significar “o Senhor verá”: Deus vê e provê.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

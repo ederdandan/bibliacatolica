@@ -1,0 +1,49 @@
+{
+  "id": "GEN.2.18",
+  "livro": "GEN",
+  "titulo": "A criação da mulher",
+  "secao": "Origens",
+  "referencia": "Gn 2,18-25",
+  "ini": {
+    "c": 2,
+    "v": 18
+  },
+  "fim": {
+    "c": 2,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Não é bom que o homem esteja só: o dom da mulher",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Disse o Senhor Deus: “Não é bom que o homem esteja só; façamos-lhe um adjutório semelhante a ele”. Deus forma da terra todos os animais e aves e os leva a Adão para ver como os chamaria; e o nome que Adão dá a cada ser vivo é o seu nome. Mas entre todos não se encontra para Adão um auxiliar semelhante a ele. Então o Senhor Deus faz cair sobre Adão um sono profundo; enquanto dorme, toma uma das suas costelas, fecha com carne o lugar, e da costela forma a mulher, que leva a Adão. Adão exclama: “Eis aqui agora o osso de meus ossos e a carne da minha carne; ela se chamará Virago, porque do varão foi tomada”. Por isso o homem deixará pai e mãe, se unirá à sua mulher, e os dois serão uma só carne. Estavam ambos nus, Adão e a sua mulher, e não se envergonhavam.",
+    "alegorico": "Os Padres viram no sono de Adão a morte de Cristo na cruz, e na costela tirada do lado a Igreja, que nasce do lado aberto de onde saem sangue e água, os sacramentos (Jo 19,34). São Paulo lê o “uma só carne” como “grande mistério, que eu digo em relação a Cristo e à Igreja” (Ef 5,31-32).",
+    "moral": "A pessoa humana é feita para a comunhão: a solidão não é o plano de Deus. Dar nome aos animais mostra a dignidade do homem acima deles, mas nenhum ser inferior responde ao seu coração. A mulher não é inferior nem posse: é “osso dos meus ossos”, igual e complementar. Jesus remete a este texto para afirmar a unidade e a indissolubilidade do matrimônio (Mt 19,4-6).",
+    "anagogico": "As núpcias do princípio anunciam as núpcias do Cordeiro com a Igreja, sua Esposa, no fim dos tempos (Ap 19,7; 21,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não é bom que o homem esteja só.” “Não se achava para Adão adjutório semelhante a ele.” “Eis aqui agora o osso de meus ossos e a carne da minha carne.” “Os dois serão uma só carne.” “Estavam ambos nus… e não se envergonhavam.”",
+    "meditatio_perguntas": [
+      "Reconheço que fui feito para a comunhão, e não para a solidão fechada?",
+      "Vejo o outro, homem ou mulher, como igual em dignidade, e não como objeto?",
+      "Como vivo, ou apoio nos outros, a fidelidade do matrimônio?"
+    ],
+    "oratio_guia": "Senhor, que disseste “não é bom que o homem esteja só”, obrigado por todos os que me deste como companheiros. Abençoa os esposos, guarda a sua unidade e faze-nos olhar uns aos outros com o olhar limpo do princípio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não é bom que o homem esteja só",
+      "ref": "Gn 2,18"
+    }
+  },
+  "ancoras": {
+    "2:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Virago” traduz o jogo de palavras hebraico entre ish (varão) e ishah (mulher), que o latim imita com vir / virago.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

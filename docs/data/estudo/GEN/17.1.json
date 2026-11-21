@@ -1,0 +1,49 @@
+{
+  "id": "GEN.17.1",
+  "livro": "GEN",
+  "titulo": "A aliança e a circuncisão",
+  "secao": "Abraão",
+  "referencia": "Gn 17,1-14",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Anda na minha presença e sê perfeito: o nome novo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Abrão tem noventa e nove anos, o Senhor lhe aparece e diz: “Eu sou o Deus onipotente; anda em minha presença e sê perfeito. Farei aliança entre mim e ti, e te multiplicarei muitíssimo”. Abrão prostra-se com o rosto em terra. Deus continua: eis a minha aliança contigo: serás pai de muitas nações. “Não mais serás chamado com o nome de Abrão, mas chamar-te-ás Abraão, porque te destinei para pai de muitas gentes.” Farei sair de ti reis; estabelecerei a minha aliança contigo e com a tua descendência, aliança eterna, para ser o teu Deus e o da tua descendência; dar-te-ei a terra de Canaã em possessão eterna. Tu guardarás a minha aliança: todo varão entre vós será circuncidado; esse será o sinal da aliança. O menino de oito dias será circuncidado, tanto o nascido em casa como o comprado. O incircunciso será excluído do seu povo, porque violou a minha aliança.",
+    "alegorico": "A circuncisão é figura do batismo, a “circuncisão de Cristo”, que não é feita por mão humana e despoja o homem velho (Cl 2,11-12). O nome novo anuncia o nome cristão e a nova identidade dos batizados; o oitavo dia evoca o dia da Ressurreição, oitavo dia da nova criação.",
+    "moral": "“Anda na minha presença e sê perfeito”: é um programa de toda a vida espiritual. A perfeição não é uma lista de proezas, mas viver diante de Deus. A aliança pede um sinal concreto, inscrito na carne: a fé não é só interior. Deus muda o nome porque muda a missão.",
+    "anagogico": "A aliança “eterna” e a terra em “possessão eterna” apontam para além desta vida, para a herança incorruptível dos filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou o Deus onipotente; anda em minha presença e sê perfeito.” “Abrão prostrou-se com o rosto em terra.” “Chamar-te-ás Abraão, porque te destinei para pai de muitas gentes.” “Para ser o teu Deus e o da tua descendência.”",
+    "meditatio_perguntas": [
+      "Lembro-me, ao longo do dia, de que vivo na presença de Deus?",
+      "Que significa, para mim, o nome cristão que recebi no batismo?",
+      "De que modo concreto a minha vida mostra o sinal da aliança?"
+    ],
+    "oratio_guia": "Deus onipotente, ensina-me a andar na tua presença e a ser perfeito no amor. Que eu viva segundo o nome novo que me deste no batismo e guarde fielmente a tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "anda em minha presença e sê perfeito",
+      "ref": "Gn 17,1"
+    }
+  },
+  "ancoras": {
+    "17:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abrão significa “pai exaltado”; Abraão é interpretado no próprio texto como “pai de multidão”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

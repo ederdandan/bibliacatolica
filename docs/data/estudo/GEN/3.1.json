@@ -1,0 +1,49 @@
+{
+  "id": "GEN.3.1",
+  "livro": "GEN",
+  "titulo": "A tentação e a queda",
+  "secao": "Origens",
+  "referencia": "Gn 3,1-13",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A tentação e a queda: a desconfiança que esconde o homem de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A serpente, o mais astuto dos animais, pergunta à mulher: “Por que vos mandou Deus que não comêsseis de todas as árvores do paraíso?” A mulher responde que podem comer de todas, menos da que está no meio do jardim, para não morrerem. A serpente contradiz: “Não morrereis; Deus sabe que, no dia em que dele comerdes, os vossos olhos se abrirão e sereis como deuses, conhecendo o bem e o mal”. A mulher vê que o fruto é bom para comer, belo aos olhos e desejável; colhe, come e dá ao marido, que também come. Abrem-se os olhos de ambos; percebem que estão nus, cosem folhas de figueira e fazem cinturas. Ouvindo a voz do Senhor Deus que passeia no jardim à brisa da tarde, escondem-se entre as árvores. Deus chama: “Adão, onde estás?” — “Ouvi a tua voz e tive medo, porque estava nu, e escondi-me.” — “Comeste da árvore?” Adão culpa a mulher “que me deste”; a mulher culpa a serpente: “A serpente enganou-me, e comi”.",
+    "alegorico": "O relato da queda ilumina, por contraste, as tentações de Cristo no deserto (Mt 4,1-11): onde Adão cedeu à fome, à vaidade e ao desejo de ser como Deus, o novo Adão vence pela Palavra. E onde Eva ouviu a serpente, Maria, nova Eva, ouvirá o anjo e dirá “faça-se”.",
+    "moral": "O pecado começa pela suspeita sobre a bondade de Deus (“por que vos mandou…?”) e pela meia verdade. Segue o caminho de todo pecado: olhar, desejar, tomar, arrastar outros. O fruto prometido (“sereis como deuses”) dá apenas vergonha, medo e desejo de se esconder. E, em vez de confessar, cada um acusa o outro. Mas Deus não abandona o homem: vem procurá-lo com uma pergunta.",
+    "anagogico": "A pergunta “onde estás?” ecoa em toda a história até o Bom Pastor que vai em busca da ovelha perdida (Lc 15,4); no fim, os que se deixarem encontrar não terão mais de se esconder, mas verão a face de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que vos mandou Deus…?” “Não morrereis.” “Sereis como deuses.” “Viu a mulher que o fruto era bom para comer, formoso aos olhos.” “O Senhor Deus chamou por Adão, e disse-lhe: Onde estás?” “Ouvi a tua voz… e temi.” “A serpente enganou-me.”",
+    "meditatio_perguntas": [
+      "Onde estou, quando Deus me pergunta “onde estás”?",
+      "Em que ponto ainda desconfio da bondade de Deus e dos seus mandamentos?",
+      "Diante dos meus erros, confesso ou acuso os outros?"
+    ],
+    "oratio_guia": "Senhor, que me procuras quando me escondo, dá-me coragem de sair de trás das árvores e responder com verdade. Livra-me da suspeita contra a tua bondade e da mania de culpar os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "E o Senhor Deus chamou por Adão, e disse-lhe: onde estás?",
+      "ref": "Gn 3,9"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A serpente será identificada mais tarde com o diabo, “a antiga serpente” (Sb 2,24; Ap 12,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

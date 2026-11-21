@@ -1,0 +1,49 @@
+{
+  "id": "GEN.5.1",
+  "livro": "GEN",
+  "titulo": "Os patriarcas antes do dilúvio; Henoc",
+  "secao": "Origens",
+  "referencia": "Gn 5,1-31",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "As gerações de Adão e o justo que anda com Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Este é o livro da geração de Adão.” No dia em que Deus criou o homem, fê-lo à semelhança de Deus; criou-os macho e fêmea, abençoou-os e chamou-os “homem”. Adão gera, à sua imagem e semelhança, um filho a quem chama Set. Segue a genealogia de dez patriarcas, de Adão a Noé, com as idades em que geram e o total dos seus anos: Set, Enós, Cainã, Malaleel, Jared. Cada parágrafo termina com o mesmo refrão: “e morreu”. Há uma exceção: Henoc, pai de Matusalém, “andou com Deus”; viveu trezentos e sessenta e cinco anos, “e desapareceu, porque Deus o levou”. Matusalém vive novecentos e sessenta e nove anos, o mais longevo. Lamec gera um filho e lhe dá o nome de Noé, dizendo: “Este nos consolará nos trabalhos e nas fadigas das nossas mãos, pela terra que o Senhor amaldiçoou”. Noé, com quinhentos anos, gera Sem, Cam e Jafé.",
+    "alegorico": "Henoc arrebatado por Deus é figura da ascensão de Cristo e da esperança dos justos: “pela fé Henoc foi transladado para não ver a morte” (Hb 11,5). Noé, cujo nome evoca “repouso” e “consolo”, prefigura Cristo, que diz: “Vinde a mim todos os que estais cansados, e eu vos aliviarei” (Mt 11,28).",
+    "moral": "A imagem de Deus se transmite de pai para filho: cada geração recebe e passa adiante a dignidade humana. O refrão “e morreu” é um realismo saudável: a morte, fruto do pecado, alcança todos. Henoc mostra que é possível, numa vida comum, entre filhos e anos, “andar com Deus”.",
+    "anagogico": "Henoc, que não é visto morrer, anuncia que a última palavra sobre o homem não é “e morreu”, mas a vida com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No dia em que Deus criou o homem, fê-lo à semelhança de Deus.” “E morreu.” “Henoc andou constantemente com Deus, e desapareceu, porque Deus o levou.” “Este nos consolará nos trabalhos e nas fadigas das nossas mãos.”",
+    "meditatio_perguntas": [
+      "Sinto-me parte de uma corrente de gerações que me transmitiu a vida e a fé?",
+      "Penso na minha própria morte com serenidade e esperança?",
+      "O que significaria, para mim, “andar com Deus” no dia de hoje?"
+    ],
+    "oratio_guia": "Senhor, que levaste Henoc porque andou contigo, ensina-me a caminhar na tua presença todos os dias. Abençoa as gerações da minha família e consola-nos nas fadigas das nossas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Andou constantemente com Deus, e desapareceu, porque Deus o levou",
+      "ref": "Gn 5,24"
+    }
+  },
+  "ancoras": {
+    "5:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As idades enormes dos patriarcas têm valor simbólico: exprimem a grandeza dos tempos antigos e o progressivo encurtamento da vida com o avanço do pecado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

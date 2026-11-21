@@ -1,0 +1,40 @@
+{
+  "id": "GEN.7.1",
+  "livro": "GEN",
+  "titulo": "O dilúvio",
+  "secao": "Origens",
+  "referencia": "Gn 7,1-24",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O dilúvio: Deus fecha a porta da arca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Noé: “Entra na arca tu e toda a tua casa, porque te reconheci justo diante de mim no meio desta geração”. Manda tomar sete pares dos animais puros e um par dos impuros, e das aves, para conservar a vida. Daqui a sete dias farei chover sobre a terra quarenta dias e quarenta noites. Noé tem seiscentos anos quando vem o dilúvio. Entra na arca com a mulher, os filhos e as noras, e os animais entram com ele, dois a dois, como Deus mandara; “e o Senhor aí o fechou por fora”. No dia dezessete do segundo mês, rompem-se todas as fontes do grande abismo e abrem-se as cataratas do céu. A chuva cai quarenta dias e quarenta noites. As águas crescem e levantam a arca, que flutua sobre elas; cobrem todos os montes, quinze côvados acima dos mais altos. Morre toda carne que se movia sobre a terra: aves, animais, répteis e homens. “Ficou somente Noé, e os que estavam com ele na arca.” As águas cobrem a terra cento e cinquenta dias.",
+    "alegorico": "Jesus compara a sua vinda aos dias de Noé: comiam, bebiam, casavam-se, até o dia em que Noé entrou na arca, e veio o dilúvio (Mt 24,37-39). Os quarenta dias anunciam os quarenta dias de Cristo no deserto e a Quaresma. A porta fechada pelo próprio Deus lembra a porta das virgens prudentes (Mt 25,10) e Cristo, que diz: “Eu sou a porta” (Jo 10,9).",
+    "moral": "Deus mesmo fecha a porta: quem está dentro está seguro, não pela própria força, mas pela mão de Deus. O dilúvio mostra a seriedade do pecado e do juízo; mas também a fidelidade de Deus, que guarda a vida, até a dos animais. Há um tempo de entrar; a porta não fica aberta para sempre.",
+    "anagogico": "O dilúvio é figura do juízo final, que virá de improviso; a arca fechada é a imagem dos que estarão seguros em Deus no último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Entra na arca tu e toda a tua casa, porque te reconheci justo diante de mim.” “Entraram com Noé na arca dois a dois.” “E o Senhor aí o fechou por fora.” “As águas levantaram a arca.” “Ficou somente Noé, e os que estavam com ele na arca.”",
+    "meditatio_perguntas": [
+      "Vivo como nos “dias de Noé”, distraído das coisas de Deus?",
+      "Sinto-me seguro na mão de Deus, que fecha a porta e me guarda?",
+      "Estou atento ao tempo de “entrar”, enquanto a porta está aberta?"
+    ],
+    "oratio_guia": "Senhor, que fechaste a porta da arca e guardaste Noé, guarda-me na tua mão. Desperta-me da distração e dá-me entrar a tempo na tua salvação, com toda a minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "e o Senhor aí o fechou por fora",
+      "ref": "Gn 7,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

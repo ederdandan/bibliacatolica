@@ -1,0 +1,49 @@
+{
+  "id": "GEN.12.1",
+  "livro": "GEN",
+  "titulo": "O chamado de Abrão",
+  "secao": "Abraão",
+  "referencia": "Gn 12,1-9",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O chamado de Abrão: sair e tornar-se bênção",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Abrão: “Sai da tua terra, da tua parentela, da casa de teu pai, e vem para a terra que eu te mostrar. Farei sair de ti um grande povo, e te abençoarei, engrandecerei o teu nome e serás bendito. Abençoarei os que te abençoarem, amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as nações da terra”. Abrão parte, como o Senhor lhe ordenara, e Ló vai com ele. Tem setenta e cinco anos quando sai de Harã, com Sarai, sua mulher, Ló, filho do seu irmão, todos os bens e as pessoas que adquirira. Chegam à terra de Canaã; Abrão atravessa-a até Siquém, até o carvalho de Moré; os cananeus estavam então na terra. O Senhor lhe aparece e diz: “Darei esta terra aos teus descendentes”. Abrão edifica ali um altar ao Senhor que lhe aparecera. Passa depois ao monte a oriente de Betel, arma a tenda, edifica outro altar e invoca o nome do Senhor. E continua a viagem, avançando para o sul.",
+    "alegorico": "Em Abraão “serão benditas todas as nações”: São Paulo vê nisso o Evangelho anunciado de antemão, cumprido em Cristo, descendente de Abraão, em quem a bênção chega aos pagãos (Gl 3,8.14.16). Abrão que sai sem saber para onde vai é figura da Igreja peregrina e de todo batizado.",
+    "moral": "A fé começa por um desprendimento: sair da terra, da parentela e da casa do pai, isto é, das seguranças. Deus não mostra o destino, apenas promete. A bênção recebida não é para guardar: “serás bênção” para os outros. Por onde passa, Abrão ergue altares: a vida do crente é marcada por lugares de oração.",
+    "anagogico": "Abraão “esperava a cidade de fundamentos firmes, cujo arquiteto e construtor é Deus” (Hb 11,10): a terra prometida aponta para a pátria celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sai da tua terra, da tua parentela, da casa de teu pai, e vem para a terra que eu te mostrar.” “Abençoarei os que te abençoarem.” “Em ti serão benditas todas as nações da terra.” “Abrão saiu, como o Senhor lhe tinha ordenado.” “Edificou ali um altar ao Senhor.”",
+    "meditatio_perguntas": [
+      "De que “terra” ou segurança Deus me chama a sair hoje?",
+      "Aceito caminhar sem ver o destino, apoiado só na promessa?",
+      "Que altares de oração marcam o meu caminho?"
+    ],
+    "oratio_guia": "Senhor, que chamaste Abrão e ele partiu, chama-me também e dá-me a coragem de sair. Faze de mim uma bênção para os outros e ensina-me a erguer um altar onde quer que eu esteja. Amém.",
+    "contemplatio_foco": {
+      "texto": "saí da tua terra, da tua parentela, da casa de teu pai, e vem para a terra que eu te mostrar",
+      "ref": "Gn 12,1"
+    }
+  },
+  "ancoras": {
+    "12:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Siquém e o carvalho de Moré ficavam no centro de Canaã; era um antigo lugar de culto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

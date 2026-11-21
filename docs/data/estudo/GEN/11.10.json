@@ -1,0 +1,49 @@
+{
+  "id": "GEN.11.10",
+  "livro": "GEN",
+  "titulo": "De Sem a Abrão",
+  "secao": "Origens",
+  "referencia": "Gn 11,10-32",
+  "ini": {
+    "c": 11,
+    "v": 10
+  },
+  "fim": {
+    "c": 11,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "De Sem a Abrão: a história se estreita para a promessa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Eis as gerações de Sem.” Sem tinha cem anos quando gerou Arfaxad, dois anos depois do dilúvio. Segue a genealogia, mais breve que a de Adão, com as idades cada vez menores: Arfaxad, Salé, Héber, Faleg, Reu, Sarug, Nacor e Taré. Taré, aos setenta anos, gera Abrão, Nacor e Arã. Arã gera Ló e morre antes do pai, em Ur dos caldeus, sua terra natal. Abrão e Nacor tomam mulheres: a de Abrão chama-se Sarai; a de Nacor, Melca. “Sarai, porém, era estéril e não tinha filhos.” Taré toma Abrão, seu filho, Ló, seu neto, e Sarai, sua nora, e os faz sair de Ur dos caldeus, para irem à terra de Canaã; chegam até Harã e ali habitam. Taré morre em Harã, aos duzentos e cinco anos.",
+    "alegorico": "Depois de Babel e da dispersão dos povos, Deus estreita a história a uma família, para, por meio dela, abençoar todas as nações. A esterilidade de Sarai prepara o nascimento milagroso de Isaac, figura dos nascimentos que só Deus pode dar: o de João Batista, o de Cristo da Virgem, e o nosso, “nascidos de Deus” (Jo 1,13).",
+    "moral": "Deus prepara os seus planos em silêncio, através de gerações comuns. O versículo sobre a esterilidade de Sarai é breve e doloroso: um beco sem saída humano. É exatamente aí que Deus vai agir. A viagem de Taré, interrompida em Harã, mostra que há caminhos começados e não terminados.",
+    "anagogico": "A família de Abrão, que sai de Ur sem chegar ainda ao destino, anuncia a condição do povo de Deus, sempre peregrino rumo à pátria definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis as gerações de Sem.” “Taré gerou Abrão, Nacor e Arã.” “Sarai, porém, era estéril e não tinha filhos.” “Fê-los sair de Ur dos caldeus, a fim de irem para o país de Canaã; foram até Harã, e aí habitaram.”",
+    "meditatio_perguntas": [
+      "Em que “esterilidade” da minha vida não vejo saída humana?",
+      "Há algum caminho que comecei com Deus e parei a meio, em “Harã”?",
+      "Reconheço Deus agindo em silêncio através das gerações?"
+    ],
+    "oratio_guia": "Senhor, que preparas os teus planos através das gerações, olha para as minhas esterilidades. Não me deixes parar a meio do caminho, mas conduze-me até a terra que me prometes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sarai, porém, era estéril e não tinha filhos",
+      "ref": "Gn 11,30"
+    }
+  },
+  "ancoras": {
+    "11:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ur dos caldeus ficava no sul da Mesopotâmia; Harã, ao norte, junto ao Eufrates, na rota para Canaã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

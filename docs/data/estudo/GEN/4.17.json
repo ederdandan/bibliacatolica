@@ -1,0 +1,40 @@
+{
+  "id": "GEN.4.17",
+  "livro": "GEN",
+  "titulo": "Os descendentes de Caim; Set",
+  "secao": "Origens",
+  "referencia": "Gn 4,17-26",
+  "ini": {
+    "c": 4,
+    "v": 17
+  },
+  "fim": {
+    "c": 4,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A civilização sem Deus e o começo da invocação do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Caim conhece a sua mulher, que dá à luz Henoc; Caim edifica uma cidade e lhe dá o nome do filho. Segue a descendência de Caim até Lamec, que toma duas mulheres, Ada e Sela. Os filhos de Lamec são os pais das artes e ofícios: Jabel, dos que vivem em tendas e criam gado; Jubal, dos que tocam a cítara e o órgão; Tubalcaim, que trabalha o bronze e o ferro. Lamec canta às mulheres um canto de vingança: matei um homem por uma ferida e um jovem por uma pisadura; se Caim será vingado sete vezes, Lamec o será setenta vezes sete. Adão conhece de novo a sua mulher, que dá à luz um filho e o chama Set, dizendo: “O Senhor deu-me outro filho em lugar de Abel, que Caim matou”. A Set nasce Enós; “este começou a invocar o nome do Senhor”.",
+    "alegorico": "À vingança “setenta vezes sete” de Lamec, Jesus opõe o perdão “setenta vezes sete” (Mt 18,22): o Evangelho inverte a lógica da violência. Set, dado “em lugar de Abel”, inicia a linhagem que chegará a Noé, a Abraão e a Cristo (Lc 3,38).",
+    "moral": "O progresso técnico e artístico é bom (cidades, música, metalurgia), mas, separado de Deus, não impede o crescimento da violência: Lamec se gaba de vingar-se sem medida. Ao lado da linha de Caim, há outra: a dos que invocam o nome do Senhor. A cultura humana precisa da oração para não se tornar arma.",
+    "anagogico": "A invocação do nome do Senhor, que começa com Enós, atravessa a história até a promessa: “todo aquele que invocar o nome do Senhor será salvo” (Jl 2,32; Rm 10,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Edificou uma cidade.” “Jubal, pai dos que tocam a cítara e o órgão.” “Se Caim será vingado sete vezes, Lamec o será setenta vezes sete.” “O Senhor deu-me outro filho em lugar de Abel.” “Este começou a invocar o nome do Senhor.”",
+    "meditatio_perguntas": [
+      "Uso os meus talentos e o progresso a serviço do bem ou da força?",
+      "Há em mim um “Lamec” que quer revidar sem medida?",
+      "Invoco o nome do Senhor no meio das minhas ocupações?"
+    ],
+    "oratio_guia": "Senhor, que deste aos homens as artes e os ofícios, livra-nos da violência que se gaba da vingança. Ensina-me a perdoar setenta vezes sete e a invocar sempre o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este começou a invocar o nome do Senhor",
+      "ref": "Gn 4,26"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "GEN.3.14",
+  "livro": "GEN",
+  "titulo": "A sentença, o Protoevangelho e a expulsão",
+  "secao": "Origens",
+  "referencia": "Gn 3,14-24",
+  "ini": {
+    "c": 3,
+    "v": 14
+  },
+  "fim": {
+    "c": 3,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A sentença e a primeira promessa de salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus diz à serpente: “Pois que fizeste isto, és maldita entre todos os animais; andarás sobre o teu ventre e comerás terra todos os dias da tua vida. Porei inimizades entre ti e a mulher, entre a tua posteridade e a posteridade dela. Ela te pisará a cabeça, e tu armarás traições ao seu calcanhar”. À mulher: multiplicarei os teus trabalhos e conceições; darás à luz com dor e estarás sob o poder do marido. A Adão: porque escutaste a voz da tua mulher e comeste, a terra é maldita por tua causa; produzirá espinhos e abrolhos; “comerás o pão com o suor do teu rosto, até que voltes à terra de que foste tomado, porque és pó, e em pó te hás de tornar”. Adão chama a mulher Eva, porque é mãe de todos os viventes. O Senhor faz para eles túnicas de peles e os veste. Para que o homem não estenda a mão à árvore da vida e viva eternamente, Deus o expulsa do paraíso, e põe querubins com uma espada de fogo para guardar o caminho da árvore da vida.",
+    "alegorico": "Gn 3,15 é o “Protoevangelho”, o primeiro anúncio do Redentor. A descendência da mulher que esmaga a serpente é Cristo, ferido no calcanhar na cruz, mas vencedor. A Vulgata, lendo “ela te pisará”, levou a tradição a contemplar Maria, a Mulher, inimiga total da serpente: daí as imagens da Imaculada pisando o dragão (Ap 12).",
+    "moral": "As consequências do pecado atingem todas as relações: com Deus, entre homem e mulher (domínio em vez de comunhão), com a terra (trabalho penoso) e com a própria vida (a morte). Mas, antes mesmo de castigar, Deus promete a vitória e veste os culpados: a sua misericórdia vem antes da sentença e a acompanha.",
+    "anagogico": "A morte, “voltarás ao pó”, não será a última palavra: Cristo, que desceu ao pó da morte, reabrirá o caminho da árvore da vida, e “ao vencedor darei a comer da árvore da vida, que está no paraíso de Deus” (Ap 2,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porei inimizades entre ti e a mulher… Ela te pisará a cabeça.” “Comerás o pão com o suor do teu rosto.” “Tu és pó, e em pó te hás de tornar.” “Fez também o Senhor Deus a Adão e a sua mulher umas túnicas de peles, e os vestiu.”",
+    "meditatio_perguntas": [
+      "Vejo a misericórdia de Deus que vem antes e junto da correção?",
+      "Que “espinhos e abrolhos” do meu trabalho posso oferecer com paciência?",
+      "Confio na vitória de Cristo e de Maria sobre o mal na minha vida?"
+    ],
+    "oratio_guia": "Senhor, que no momento da sentença prometeste a salvação e vestiste os pecadores, veste-me com a tua graça. Por Cristo, descendente da Mulher, e pela intercessão da Virgem Maria, esmaga em mim a cabeça da serpente. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porei inimizades entre ti e a mulher",
+      "ref": "Gn 3,15"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata lê ipsa conteret (“ela pisará”); o hebraico tem um pronome masculino que se refere à descendência. A tradição une as duas leituras: Cristo vence, e Maria está associada à sua vitória.",
+        "origem": "ia"
+      }
+    },
+    "3:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eva (hebraico Hawwah) soa como “viver”: “mãe de todos os viventes”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

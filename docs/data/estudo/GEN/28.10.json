@@ -1,0 +1,40 @@
+{
+  "id": "GEN.28.10",
+  "livro": "GEN",
+  "titulo": "A escada de Betel",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 28,10-22",
+  "ini": {
+    "c": 28,
+    "v": 10
+  },
+  "fim": {
+    "c": 28,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A escada de Betel: o Senhor está neste lugar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó parte de Bersabeia e vai para Harã. Chegando a certo lugar, quer descansar ali depois do pôr do sol; toma uma das pedras do lugar, põe-na debaixo da cabeça e dorme. Vê em sonho uma escada apoiada na terra, cujo cimo toca o céu, e os anjos de Deus subindo e descendo por ela. O Senhor está apoiado na escada e lhe diz: “Eu sou o Senhor, Deus de Abraão, teu pai, e Deus de Isaac; a terra em que dormes eu a darei a ti e à tua descendência. A tua descendência será como o pó da terra; estender-te-ás ao ocidente, ao oriente, ao norte e ao sul, e em ti e na tua descendência serão abençoadas todas as tribos da terra. Eu serei o teu guarda por onde quer que fores, e te reconduzirei a esta terra; não te deixarei sem cumprir tudo o que disse”. Jacó desperta: “Na verdade o Senhor está neste lugar, e eu não o sabia”. E, cheio de temor: “Quão terrível é este lugar! Não é outra coisa senão a casa de Deus e a porta do céu”. De manhã toma a pedra, erige-a como coluna e derrama azeite por cima. Chama o lugar Betel, “casa de Deus”. E faz um voto: se Deus estiver comigo, me guardar no caminho, me der pão para comer e roupa para vestir, e eu voltar em paz à casa de meu pai, o Senhor será o meu Deus; esta pedra será a casa de Deus, e de tudo o que me deres te oferecerei o dízimo.",
+    "alegorico": "Jesus diz a Natanael: “Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do homem” (Jo 1,51): Cristo é a escada, a ponte entre o céu e a terra, em cuja humanidade Deus desce e o homem sobe. A pedra ungida é figura de Cristo, o Ungido, e do altar; por isso esta passagem é lida na dedicação das igrejas: “casa de Deus e porta do céu”.",
+    "moral": "Deus se revela a Jacó no pior momento: em fuga, sozinho, depois de ter enganado o pai e o irmão, dormindo sobre uma pedra. Não o repreende: renova-lhe a promessa. Muitas vezes Deus está presente “e eu não o sabia”. A resposta de Jacó é adoração, memória (a pedra) e compromisso (o voto), ainda imperfeito e cheio de condições.",
+    "anagogico": "A “porta do céu” anuncia a entrada definitiva na casa do Pai; a escada pela qual sobem e descem os anjos se cumprirá na comunhão perfeita entre o céu e a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Viu em sonhos uma escada posta sobre a terra, cujo cimo tocava o céu.” “Os anjos de Deus subiam e desciam por ela.” “Eu serei teu guarda por onde quer que fores.” “Na verdade o Senhor está neste lugar, e eu não o sabia.” “Não é outra coisa senão a casa de Deus e a porta do céu.”",
+    "meditatio_perguntas": [
+      "Em que “lugar” da minha vida Deus está, e eu não o sabia?",
+      "Reconheço Cristo como a escada que une o céu à minha vida?",
+      "Que pedra de memória ergo para lembrar os meus encontros com Deus?"
+    ],
+    "oratio_guia": "Senhor, que estás neste lugar e eu não o sabia, abre os meus olhos. Por Cristo, escada do céu, sobe a ti a minha oração e desce sobre mim a tua bênção. Sê o meu guarda por onde quer que eu for. Amém.",
+    "contemplatio_foco": {
+      "texto": "na verdade o Senhor está neste lugar, e eu não o sabia",
+      "ref": "Gn 28,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

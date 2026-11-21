@@ -1,0 +1,49 @@
+{
+  "id": "GEN.9.18",
+  "livro": "GEN",
+  "titulo": "Noé e os seus filhos",
+  "secao": "Origens",
+  "referencia": "Gn 9,18-29",
+  "ini": {
+    "c": 9,
+    "v": 18
+  },
+  "fim": {
+    "c": 9,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "A fraqueza de Noé e o respeito pelos pais",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filhos de Noé que saíram da arca são Sem, Cam e Jafé; Cam é pai de Canaã. Deles se povoa toda a terra. Noé, lavrador, começa a cultivar a terra e planta uma vinha. Bebe do vinho, embriaga-se e fica descoberto dentro da tenda. Cam vê a nudez do pai e vai contar aos dois irmãos lá fora. “Porém Sem e Jafé puseram uma capa sobre os seus ombros e, andando para trás, cobriram a nudez de seu pai; assim, tendo o rosto voltado, não viram a sua nudez.” Quando Noé desperta e sabe o que o filho mais novo fez, diz: “Maldito seja Canaã; será servo dos servos de seus irmãos. Bendito seja o Senhor Deus de Sem, e Canaã seja seu escravo. Dilate Deus a Jafé, e habite ele nas tendas de Sem”. Noé vive depois do dilúvio trezentos e cinquenta anos; ao todo, novecentos e cinquenta anos, e morre.",
+    "alegorico": "Os Padres viram na nudez de Noé embriagado a figura da paixão de Cristo, exposto nu na cruz e escarnecido por uns, enquanto outros o cobriram com amor (José de Arimateia, as santas mulheres). Jafé que “habita nas tendas de Sem” foi lido como os pagãos acolhidos na fé de Israel, na Igreja.",
+    "moral": "Até o justo Noé tem fraquezas: os santos não são perfeitos. Diante da fraqueza alheia, há duas atitudes: a de Cam, que expõe e comenta, e a de Sem e Jafé, que cobrem com delicadeza, sem olhar. O respeito aos pais, mesmo em suas falhas, é exigência do quarto mandamento.",
+    "anagogico": "A bênção que passa por Sem prepara a escolha de Abraão, descendente de Sem, por meio de quem todos os povos serão abençoados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Noé, lavrador, começou a cultivar a terra, e plantou uma vinha.” “Cam viu a nudez de seu pai.” “Sem e Jafé puseram uma capa sobre os seus ombros e… cobriram a nudez de seu pai.” “Bendito seja o Senhor Deus de Sem.”",
+    "meditatio_perguntas": [
+      "Diante das falhas dos outros, sou como Cam ou como Sem e Jafé?",
+      "Respeito os meus pais e superiores mesmo em suas fraquezas?",
+      "Falo das quedas alheias ou as cubro com caridade?"
+    ],
+    "oratio_guia": "Senhor, que cobres os meus pecados com a tua misericórdia, dá-me um coração que cubra as fraquezas dos outros em vez de expô-las. Abençoa os meus pais e ensina-me a honrá-los. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porém Sem e Jafeth puseram uma capa sobre os seus ombros",
+      "ref": "Gn 9,23"
+    }
+  },
+  "ancoras": {
+    "9:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A maldição recai sobre Canaã, não sobre Cam: o texto explica a situação posterior dos cananeus. Nunca justificou, na leitura da Igreja, qualquer escravidão de povos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

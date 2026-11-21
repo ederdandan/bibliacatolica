@@ -1,0 +1,40 @@
+{
+  "id": "GEN.15.1",
+  "livro": "GEN",
+  "titulo": "Abrão creu",
+  "secao": "Abraão",
+  "referencia": "Gn 15,1-6",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Abrão creu, e isso lhe foi imputado como justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois destes acontecimentos, o Senhor fala a Abrão numa visão: “Não temas, Abrão, eu sou o teu protetor, e a tua recompensa será excessivamente grande”. Abrão responde com franqueza: Senhor Deus, que me darás? Eu morrerei sem filhos, e o filho do administrador da minha casa, Eliezer de Damasco, será o meu herdeiro; não me deste descendência, e um servo nascido em minha casa herdará de mim. O Senhor lhe diz: não será esse o teu herdeiro, mas aquele que sair das tuas entranhas. E o leva para fora: “Olha para o céu e conta, se podes, as estrelas”. E acrescenta: “Assim será a tua descendência”. “Creu Abrão em Deus, e isto lhe foi imputado como justiça.”",
+    "alegorico": "São Paulo funda neste versículo a doutrina da justificação pela fé: Abraão foi justificado antes da circuncisão, pela fé, e por isso é pai de todos os que creem, judeus e pagãos (Rm 4,1-25; Gl 3,6-9). Os incontáveis filhos “como as estrelas” são os filhos de Abraão segundo a fé, reunidos na Igreja.",
+    "moral": "Abrão não esconde a sua angústia: apresenta a Deus a sua objeção com sinceridade. A fé não é ausência de perguntas, mas confiança na palavra de Deus quando os fatos parecem contradizê-la. E o próprio Deus, mais do que qualquer bem, é a recompensa.",
+    "anagogico": "As estrelas que Abrão não consegue contar anunciam a multidão incontável dos salvos na glória, “que ninguém podia contar” (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temas, Abrão, eu sou o teu protetor, e a tua recompensa será excessivamente grande.” “Senhor Deus, que me darás?” “Olha para o céu e conta, se podes, as estrelas.” “Assim será a tua descendência.” “Creu Abrão em Deus, e isto lhe foi imputado como justiça.”",
+    "meditatio_perguntas": [
+      "Apresento a Deus as minhas dúvidas e angústias com sinceridade?",
+      "Que promessa de Deus parece contradita pelos fatos da minha vida?",
+      "Deus é, para mim, a maior recompensa, acima dos seus dons?"
+    ],
+    "oratio_guia": "Senhor, meu protetor e minha recompensa, faze-me crer como Abrão creu. Quando a noite for escura, leva-me para fora e mostra-me as estrelas da tua promessa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Creu Abrão em Deus",
+      "ref": "Gn 15,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

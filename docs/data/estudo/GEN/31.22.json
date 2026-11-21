@@ -1,0 +1,49 @@
+{
+  "id": "GEN.31.22",
+  "livro": "GEN",
+  "titulo": "Labão alcança Jacó; o pacto",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 31,22-55",
+  "ini": {
+    "c": 31,
+    "v": 22
+  },
+  "fim": {
+    "c": 31,
+    "v": 55
+  },
+  "liturgia": {
+    "tema_central": "Labão alcança Jacó: o pacto de Galaad sob o olhar de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao terceiro dia Labão é avisado da fuga; persegue Jacó com os seus por sete dias e o alcança no monte de Galaad. Mas Deus lhe aparece em sonho, de noite: guarda-te de dizer a Jacó coisa alguma dura. Labão repreende Jacó: por que fugiste às escondidas, levando as minhas filhas como cativas de guerra, sem me deixar beijar os netos? Poderia fazer-te mal, mas o Deus de teu pai me advertiu. E por que roubaste os meus deuses? Jacó, que não sabe do roubo, responde: aquele com quem achares os teus deuses, morra. Labão procura em todas as tendas; Raquel esconde os ídolos debaixo da sela do camelo e senta-se em cima, desculpando-se por não se levantar. Labão nada encontra. Jacó, irado, desabafa: que crime cometi? Vinte anos estive contigo; as tuas ovelhas não abortaram; de dia me consumia o calor, de noite o frio, e o sono fugia dos meus olhos; mudaste o meu salário dez vezes. “Se o Deus de meu pai Abraão, o Deus que Isaac teme, não me tivesse assistido, talvez me tivesses despedido nu; mas Deus olhou a minha aflição e o trabalho das minhas mãos.” Labão propõe uma aliança; erguem uma pedra e um monte de pedras como testemunho: “O Senhor nos veja e nos julgue, quando nos tivermos separado um do outro”. Ninguém passará esse limite para fazer mal ao outro. Jacó oferece sacrifícios, comem juntos, e de manhã Labão beija os netos e as filhas, os abençoa e volta para casa.",
+    "alegorico": "Os ídolos que Labão procura e não encontra, escondidos sob a sela, mostram a impotência dos falsos deuses, que precisam ser carregados e escondidos (Is 46,1-7), diante do Deus vivo que protege Jacó. O monte de pedras que sela a paz anuncia o altar onde Cristo reconcilia os inimigos.",
+    "moral": "Deus põe limite à ira de Labão: protege os seus mesmo quando estão em falta. O desabafo de Jacó é um belo retrato do trabalhador fiel, explorado por vinte anos. O conflito familiar termina não em amizade, mas num pacto honesto: às vezes, a paz possível é respeitar limites claros, sob o olhar de Deus.",
+    "anagogico": "“O Senhor nos veja e nos julgue”: todos os pactos humanos estão sob o juízo de Deus, que no fim dará a cada um segundo as suas obras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Guarda-te de dizer coisa alguma dura contra Jacob.” “De dia me consumia o calor, de noite o frio, e o sono fugia dos meus olhos.” “Deus olhou a minha aflição e o trabalho das minhas mãos.” “O Senhor nos veja e nos julgue, quando nos tivermos separado um do outro.”",
+    "meditatio_perguntas": [
+      "Reconheço que Deus olha a minha aflição e o meu trabalho?",
+      "Que conflito familiar precisa ao menos de um “pacto” de limites e respeito?",
+      "Como me comporto quando sou acusado injustamente?"
+    ],
+    "oratio_guia": "Senhor, Deus de Abraão e temor de Isaac, que olhaste a aflição e o trabalho de Jacó, olha também os meus. Põe limite à ira nos conflitos da minha família e dá-nos a paz possível sob o teu olhar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus olhou a minha aflição e o trabalho das minhas mãos",
+      "ref": "Gn 31,42"
+    }
+  },
+  "ancoras": {
+    "31:47": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Labão dá ao monte um nome aramaico e Jacó um nome hebraico; ambos significam “monte do testemunho” (Galaad).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

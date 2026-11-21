@@ -1,0 +1,49 @@
+{
+  "id": "GEN.35.16",
+  "livro": "GEN",
+  "titulo": "A morte de Raquel e de Isaac",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 35,16-29",
+  "ini": {
+    "c": 35,
+    "v": 16
+  },
+  "fim": {
+    "c": 35,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Benjamim nasce, Raquel morre, Isaac é reunido aos seus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Partindo de Betel, chegam perto de Efrata. Raquel está para dar à luz, e o parto é difícil. A parteira lhe diz: não temas, porque terás ainda este filho. “Estando prestes a render o espírito, sob a violência da dor, estando iminente a morte, pôs ao seu filho o nome de Benoni, isto é, filho da minha dor; o pai, porém, chamou-o Benjamim, isto é, filho da mão direita.” Raquel morre e é sepultada no caminho de Efrata, que é Belém; Jacó ergue sobre o seu sepulcro uma coluna, que ainda existe. Israel parte e arma a tenda além da Torre do Rebanho. Ali Rúben dorme com Bala, concubina do pai, e Israel o sabe. Seguem os nomes dos doze filhos de Jacó: de Lia, Rúben, Simeão, Levi, Judá, Issacar, Zabulon; de Raquel, José e Benjamim; de Bala, Dã e Neftali; de Zelfa, Gad e Aser. Jacó chega a Mambré, junto a Isaac, seu pai, em Hebron. Isaac vive cento e oitenta anos; “exausto pela idade, morreu e uniu-se ao seu povo, velho e cheio de dias. Esaú e Jacó, seus filhos, sepultaram-no”.",
+    "alegorico": "Raquel, sepultada no caminho de Belém, é evocada por Jeremias chorando os filhos (Jr 31,15), e por São Mateus no pranto pelos inocentes mortos por Herodes (Mt 2,18). Benjamim, “filho da dor” que se torna “filho da mão direita”, é figura de Cristo, homem das dores, que se assenta à direita do Pai.",
+    "moral": "A morte e a vida se tocam: Raquel morre dando a vida. Jacó transforma o nome de dor dado pela mãe num nome de força e esperança: não nega a dor, mas não deixa que ela defina o filho. A família continua ferida (o pecado de Rúben). Junto ao túmulo de Isaac, Esaú e Jacó estão juntos de novo.",
+    "anagogico": "“Velho e cheio de dias, uniu-se ao seu povo”: a morte do justo é reunião com os que o precederam; Benjamim, “filho da direita”, anuncia o lugar dos eleitos à direita de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temas, porque terás ainda este filho.” “Pôs ao seu filho o nome de Benoni, isto é, filho da minha dor; o pai, porém, chamou-o Benjamim.” “Raquel morreu e foi sepultada no caminho que conduz a Efrata, que é Belém.” “Morreu, e uniu-se ao seu povo, velho e cheio de dias.”",
+    "meditatio_perguntas": [
+      "Que “nome de dor” preciso transformar em nome de esperança?",
+      "Como acompanho os que morrem e os que nascem na minha família?",
+      "Os lutos da minha família têm sido ocasião de reconciliação?"
+    ],
+    "oratio_guia": "Senhor, consola as mães que sofrem e os que choram os seus mortos. Transforma as dores da minha vida em força e esperança, e reúne-me um dia, cheio de dias, ao teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "o pai porém, chamou-o Benjamim, isto é, filho da mão direita",
+      "ref": "Gn 35,18"
+    }
+  },
+  "ancoras": {
+    "35:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “túmulo de Raquel”, na entrada de Belém, é venerado até hoje por judeus, cristãos e muçulmanos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

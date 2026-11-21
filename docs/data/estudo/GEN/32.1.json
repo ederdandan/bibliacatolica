@@ -1,0 +1,49 @@
+{
+  "id": "GEN.32.1",
+  "livro": "GEN",
+  "titulo": "Jacó se prepara para encontrar Esaú",
+  "secao": "Isaac e Jacó",
+  "referencia": "Gn 32,1-23",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Jacó com medo de Esaú: “Sou indigno das tuas misericórdias”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó segue o seu caminho, e os anjos de Deus vêm ao seu encontro; ele diz: estes são os acampamentos de Deus, e chama o lugar Maanaim. Envia mensageiros a Esaú, na terra de Seir, com uma mensagem humilde: assim diz o teu servo Jacó: tenho bois, jumentos, ovelhas e servos; mando avisar o meu senhor, para achar graça diante de ti. Os mensageiros voltam: teu irmão vem ao teu encontro com quatrocentos homens. Jacó tem muito medo; divide a gente e os rebanhos em dois acampamentos: se Esaú atacar um, o outro se salvará. E reza: “Deus de meu pai Abraão e Deus de meu pai Isaac, Senhor que me disseste: volta para a tua terra e eu te farei bem; eu sou indigno de todas as tuas misericórdias e da fidelidade que tiveste com o teu servo. Passei este Jordão só com o meu cajado, e agora volto com dois acampamentos. Livra-me das mãos de meu irmão Esaú, porque o temo muito”. Lembra a Deus a sua promessa. Depois separa presentes: duzentas cabras, vinte bodes, duzentas ovelhas, camelos, vacas, jumentas, em grupos sucessivos, e instrui os servos: dizei que é um presente do teu servo Jacó, e que ele vem atrás. Pensa: aplacá-lo-ei com os presentes; talvez me receba bem. Naquela noite faz passar o vau do Jaboc às mulheres, aos onze filhos e a tudo o que tinha.",
+    "alegorico": "Os anjos que vêm ao encontro de Jacó no caminho de volta lembram que a Igreja peregrina está cercada pelos “acampamentos de Deus”. A oração de Jacó, que recorda as promessas e se reconhece indigno, é modelo da oração cristã, que se apoia não nos méritos, mas na fidelidade de Deus.",
+    "moral": "O passado volta: o irmão enganado vem com quatrocentos homens. Jacó tem medo, e faz tudo o que pode: planeja, manda presentes. Mas, sobretudo, reza, com humildade e verdade: “sou indigno”. Recorda o que Deus lhe deu (“só com o meu cajado… e agora dois acampamentos”) e se apoia na promessa. A reconciliação pede gestos concretos e humildes.",
+    "anagogico": "Os “acampamentos de Deus” que acompanham Jacó anunciam a comunhão dos anjos com os homens na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estes são os acampamentos de Deus.” “Teu irmão vem ao teu encontro com quatrocentos homens.” “Eu sou indigno de todas as tuas misericórdias e da fidelidade que tiveste com o teu servo.” “Passei este Jordão só com o meu cajado.” “Livra-me das mãos de meu irmão Esaú.”",
+    "meditatio_perguntas": [
+      "Que “Esaú” do meu passado tenho medo de encontrar?",
+      "Reconheço, como Jacó, que sou indigno de tudo o que Deus me deu?",
+      "Que gesto concreto de humildade posso fazer para preparar uma reconciliação?"
+    ],
+    "oratio_guia": "Senhor, eu sou indigno de todas as tuas misericórdias. Tu me deste tudo, a mim que comecei só com um cajado. Livra-me do medo, prepara o meu coração para a reconciliação e lembra-te das tuas promessas. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu sou indigno de todas as tuas misericórdias e da fidelidade que tiveste com o teu servo",
+      "ref": "Gn 32,10"
+    }
+  },
+  "ancoras": {
+    "32:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Maanaim significa “dois acampamentos”: o de Deus e o de Jacó (e depois os dois em que divide a sua gente).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

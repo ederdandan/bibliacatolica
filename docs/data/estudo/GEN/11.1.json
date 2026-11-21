@@ -1,0 +1,49 @@
+{
+  "id": "GEN.11.1",
+  "livro": "GEN",
+  "titulo": "A torre de Babel",
+  "secao": "Origens",
+  "referencia": "Gn 11,1-9",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "A torre de Babel: a unidade do orgulho termina em confusão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Toda a terra tinha uma só língua e as mesmas palavras. Partindo do oriente, os homens encontram uma planície na terra de Senaar e ali se estabelecem. Dizem uns aos outros: “Vinde, façamos tijolos e cozamo-los ao fogo”; usam tijolo em vez de pedra e betume em vez de argamassa. E dizem: “Vinde, façamos para nós uma cidade e uma torre, cujo cimo chegue até o céu, e tornemos célebre o nosso nome, antes que nos espalhemos por toda a terra”. O Senhor desce para ver a cidade e a torre que os filhos de Adão edificam, e diz: eis um só povo e uma só língua; começaram a fazer isto, e não desistirão até o terem acabado. “Vamos, pois, desçamos e confundamos de tal sorte a sua linguagem, que um não compreenda a palavra do outro.” Assim o Senhor os dispersa dali por toda a terra, e eles deixam de edificar a cidade. Por isso lhe foi posto o nome de Babel, porque ali foi confundida a linguagem de toda a terra.",
+    "alegorico": "Pentecostes é o anti-Babel: o Espírito desce, e cada um ouve os apóstolos falar na sua própria língua (At 2,6-11). Onde a soberba dividiu, o Espírito une sem apagar as diferenças. A Igreja é a cidade construída não para “fazer um nome”, mas para santificar o nome de Deus.",
+    "moral": "O projeto de Babel é a unidade sem Deus: “façamos para nós”, “tornemos célebre o nosso nome”. A técnica (o tijolo cozido) é posta a serviço da autossuficiência. O resultado é o contrário do que se busca: confusão e dispersão. A ironia é forte: a torre “até o céu” é tão pequena que Deus precisa “descer” para vê-la.",
+    "anagogico": "Babel, cidade do orgulho, reaparece no Apocalipse como Babilônia que cai (Ap 18); a ela se opõe a Jerusalém que desce do céu, obra de Deus e não dos homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a terra tinha uma só língua.” “Vinde, façamos para nós uma cidade e uma torre, cujo cimo chegue até o céu, e tornemos célebre o nosso nome.” “O Senhor desceu para ver a cidade.” “Confundamos de tal sorte a sua linguagem.”",
+    "meditatio_perguntas": [
+      "Que “torres” construo para fazer o meu nome célebre?",
+      "Onde a soberba gera divisão e incompreensão na minha família ou comunidade?",
+      "Peço ao Espírito Santo o dom da unidade que respeita as diferenças?"
+    ],
+    "oratio_guia": "Senhor, derruba as torres do meu orgulho. Envia o teu Espírito, que em Pentecostes reuniu os povos, e faze-nos construir juntos a cidade onde o teu nome, e não o nosso, é glorificado. Amém.",
+    "contemplatio_foco": {
+      "texto": "façamos para nós uma cidade e uma torre, cujo cimo chegue até ao céu",
+      "ref": "Gn 11,4"
+    }
+  },
+  "ancoras": {
+    "11:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto joga com o nome Babel (Babilônia) e o verbo hebraico balal, “confundir”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
