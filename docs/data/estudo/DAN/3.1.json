@@ -1,0 +1,40 @@
+{
+  "id": "DAN.3.1",
+  "livro": "DAN",
+  "titulo": "A estátua de ouro e a fornalha ardente",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 3,1-23",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Fidelidade até o fogo: ainda que Deus não nos livre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nabucodonosor ergue uma estátua de ouro de sessenta côvados e ordena que todos se prostrem ao som da música; quem não o fizer será lançado na fornalha. Os caldeus denunciam os três jovens judeus. O rei, furioso, lhes dá outra chance. Eles respondem: “O nosso Deus, a quem adoramos, pode livrar-nos da fornalha… mas, se ele não o quiser, fica sabendo, ó rei, que não serviremos os teus deuses, nem adoraremos a estátua de ouro”. O rei manda aquecer a fornalha sete vezes mais; os soldados que os lançam morrem queimados; os três caem amarrados no meio do fogo.",
+    "alegorico": "Os três jovens são figura dos mártires de todos os tempos, que preferem a morte à idolatria. A estátua de ouro imposta a todos prefigura a imagem da besta (Ap 13,15).",
+    "moral": "A fé madura não depende do milagre: “ainda que Deus não nos livre”. A recusa da idolatria pode custar caro. Não se negocia a adoração devida só a Deus, mesmo sob pressão social.",
+    "anagogico": "O fogo que não consome os fiéis antecipa a vitória dos mártires, que passam pela prova e entram na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Prostrai-vos e adorai a estátua de ouro.” “O nosso Deus, a quem adoramos, pode tirar-nos da fornalha de fogo ardente… Porém, se ele o não quiser fazer assim, fica sabendo, ó rei, que nós não honraremos os teus deuses.”",
+    "meditatio_perguntas": [
+      "A minha fidelidade depende de Deus me livrar das dificuldades?",
+      "Diante de que “estátuas de ouro” me curvo para não ser excluído?",
+      "Rezo pelos cristãos perseguidos hoje?"
+    ],
+    "oratio_guia": "Senhor, dá-me a fé dos três jovens: confiar que podes livrar-me, e permanecer fiel mesmo que não o faças. Fortalece os perseguidos por causa do teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porém, se ele o não quiser fazer assim, fica sabendo, ó rei, que nós não honraremos os teus deuses",
+      "ref": "Dn 3,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

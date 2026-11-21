@@ -1,0 +1,40 @@
+{
+  "id": "DAN.12.1",
+  "livro": "DAN",
+  "titulo": "Os que ensinam a justiça brilharão como estrelas",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 12,1-13",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A ressurreição e a glória dos que ensinam a justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Nesse tempo se levantará Miguel, o grande príncipe, que protege os filhos do teu povo.” Será tempo de angústia como nunca houve; mas o teu povo será salvo, todos os que estiverem escritos no livro. “Muitos dos que dormem no pó da terra despertarão, uns para a vida eterna, outros para a vergonha e o horror eterno.” “Os que tiverem sido sábios resplandecerão como a luz do firmamento, e os que tiverem ensinado a muitos a justiça brilharão como estrelas por toda a eternidade.” Daniel deve selar o livro até o tempo do fim. Pergunta: até quando? Muitos serão purificados; os sábios compreenderão. “Feliz quem esperar.” “Tu vai até o fim; repousarás e te levantarás para a tua herança no fim dos dias.”",
+    "alegorico": "É o texto mais explícito do AT sobre a ressurreição para a vida eterna, retomado por Jesus (Jo 5,28-29). Miguel, protetor do povo, combate o dragão no Apocalipse (Ap 12,7).",
+    "moral": "A educação na fé e na justiça é obra que brilha para sempre. Os tempos de angústia purificam. O cristão é chamado a perseverar “até o fim” na esperança.",
+    "anagogico": "A ressurreição dos mortos e o brilho eterno dos justos são o coração da esperança escatológica."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nesse tempo se levantará Miguel.” “Muitos dos que dormem no pó da terra despertarão, uns para a vida eterna.” “Os que tiverem ensinado a muitos o caminho da justiça brilharão como as estrelas por toda a eternidade.” “Repousarás, e te levantarás na tua sorte no fim dos dias.”",
+    "meditatio_perguntas": [
+      "Ensino a alguém o caminho da justiça?",
+      "Vivo como quem espera a ressurreição?",
+      "Peço a proteção de São Miguel nas angústias?"
+    ],
+    "oratio_guia": "Senhor, que despertarás os que dormem no pó, faze-me sábio e ensina-me a ensinar a justiça. São Miguel, protege o povo de Deus. Que eu persevere até o fim e me levante para a minha herança. Amém.",
+    "contemplatio_foco": {
+      "texto": "os que tiverem ensinado a muitos o caminho da justiça, brilharão como as estrelas por toda a eternidade",
+      "ref": "Dn 12,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

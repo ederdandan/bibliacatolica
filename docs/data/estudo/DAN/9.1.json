@@ -1,0 +1,49 @@
+{
+  "id": "DAN.9.1",
+  "livro": "DAN",
+  "titulo": "A oração de Daniel e as setenta semanas",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 9,1-27",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A oração penitente e as setenta semanas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lendo Jeremias sobre os setenta anos de desolação de Jerusalém, Daniel se volta para Deus em jejum, saco e cinza, e reza: “Ah, Senhor, Deus grande e terrível, que guardas a aliança e a misericórdia… pecamos, cometemos iniquidade”. A ti a justiça, a nós a vergonha. Ao Senhor nosso Deus a misericórdia e o perdão. “Inclina, meu Deus, o teu ouvido… não apresentamos as nossas súplicas apoiados na nossa justiça, mas na tua grande misericórdia. Ouve, Senhor! Perdoa, Senhor! Não tardes, por amor de ti mesmo.” Enquanto ainda reza, Gabriel chega na hora do sacrifício da tarde e revela as “setenta semanas”, até a vinda de um Ungido, Príncipe, que será morto.",
+    "alegorico": "A tradição cristã viu nas setenta semanas a contagem até Cristo, o Ungido (Messias) “morto” (9,26), que põe fim ao pecado e traz a justiça eterna (9,24).",
+    "moral": "A Escritura lida leva à oração; a oração verdadeira se apoia na misericórdia, não nos méritos. Daniel, justo, se inclui entre os pecadores: “nós pecamos”. Deus responde enquanto ainda rezamos.",
+    "anagogico": "“Para que seja trazida a justiça eterna e ungido o Santo dos santos”: a obra de Cristo se consuma na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ah! Senhor Deus, grande e terrível, que guardas a aliança e a misericórdia.” “Não trazemos à tua presença as nossas súplicas fundados nos merecimentos da nossa justiça, mas sim nas tuas grandes misericórdias.” “Ouve, Senhor; perdoa, Senhor.”",
+    "meditatio_perguntas": [
+      "A leitura da Bíblia me leva a rezar?",
+      "Incluo-me entre os pecadores quando rezo pelo meu povo?",
+      "Apoio as minhas súplicas na misericórdia de Deus?"
+    ],
+    "oratio_guia": "Senhor, Deus grande, que guardas a aliança e a misericórdia: não pela nossa justiça, mas pela tua grande misericórdia, ouve, perdoa, não tardes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não trazemos à tua presença as nossas súplicas (humildes) fundados em merecimentos da nossa justiça, mas sim nas tuas grandes misericórdias",
+      "ref": "Dn 9,18"
+    }
+  },
+  "ancoras": {
+    "9:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As “setenta semanas” são semanas de anos (490 anos), número simbólico de plenitude; as interpretações cronológicas variam.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

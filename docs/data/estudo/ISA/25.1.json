@@ -1,0 +1,40 @@
+{
+  "id": "ISA.25.1",
+  "livro": "ISA",
+  "titulo": "O banquete no monte: Deus enxugará as lágrimas",
+  "secao": "O Apocalipse de Isaías",
+  "referencia": "Is 25,1-12",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O banquete no monte e a morte vencida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta louva: “Senhor, tu és o meu Deus; exaltar-te-ei”, porque realizaste prodígios, foste refúgio do pobre e abrigo na tempestade. Então a grande promessa: neste monte, o Senhor preparará para todos os povos um banquete de carnes gordas e de vinhos finos; tirará o véu que cobre todos os povos; “aniquilará a morte para sempre; o Senhor Deus enxugará as lágrimas de todas as faces”. Naquele dia se dirá: “Eis o nosso Deus, em quem esperávamos; ele nos salvou; exultemos na sua salvação”. A mão do Senhor repousará sobre este monte, e Moab, o orgulhoso, será abatido.",
+    "alegorico": "O banquete no monte é figura da Eucaristia e do banquete do Reino; Cristo multiplica os pães no monte (Mt 15,29-37). São Paulo cita: “a morte foi tragada pela vitória” (1Cor 15,54), e o Apocalipse: “Deus enxugará toda lágrima” (Ap 21,4).",
+    "moral": "Deus é refúgio do pobre e abrigo na tempestade. A esperança cristã não é fuga, mas certeza de que as lágrimas têm fim. A Eucaristia é antecipação desse banquete: devemos viver dela com gratidão.",
+    "anagogico": "A morte aniquilada e as lágrimas enxugadas são o coração da esperança escatológica: a vida eterna sem dor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor, tu és o meu Deus.” “Foste a fortaleza do pobre.” “O Senhor preparará para todos os povos um banquete.” “Aniquilará a morte para sempre; o Senhor Deus enxugará as lágrimas de todas as faces.” “Eis o nosso Deus, em quem esperávamos.”",
+    "meditatio_perguntas": [
+      "Que lágrimas peço que o Senhor enxugue?",
+      "Vivo a Eucaristia como antecipação do banquete eterno?",
+      "Posso dizer: “Eis o meu Deus, em quem esperei”?"
+    ],
+    "oratio_guia": "Senhor, meu Deus, refúgio do pobre, prepara-me para o teu banquete. Aniquila a morte em mim, enxuga as minhas lágrimas, e que eu exulte na tua salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor Deus enxugará as lágrimas de todas as faces",
+      "ref": "Is 25,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "BAR.2.1",
+  "livro": "BAR",
+  "titulo": "Oração dos exilados: escuta, Senhor, e tem piedade",
+  "secao": "Confissão dos exilados",
+  "referencia": "Br 2,1–3,8",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Oração dos exilados: olha, Senhor, e ouve",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O povo continua a confissão: Deus cumpriu a sua palavra; Israel foi entregue às nações por não ouvir a voz do Senhor. Mas suplica: “Senhor, Deus de Israel, que tiraste o teu povo do Egito com mão forte… pecamos, fomos ímpios; afaste-se de nós a tua ira”. “Olha, Senhor, da tua santa casa, pensa em nós, inclina o teu ouvido e ouve.” Não pelos méritos dos pais, mas pela misericórdia. Deus prometera que no exílio o povo voltaria a si e lhe daria um coração e ouvidos atentos, e uma aliança eterna. “Senhor todo-poderoso, Deus de Israel, uma alma angustiada clama a ti: ouve, Senhor, e tem piedade, porque pecamos.”",
+    "alegorico": "A súplica “olha da tua santa casa” é atendida quando Deus envia o Filho; a aliança eterna prometida é a Nova Aliança no sangue de Cristo.",
+    "moral": "A oração dos pecadores não se apoia em méritos, mas na misericórdia e na memória das obras de Deus. O exílio pode ser lugar de “voltar a si”, como o filho pródigo.",
+    "anagogico": "A aliança eterna, “para serem meu povo e eu o seu Deus”, aponta à comunhão definitiva da vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Olha, Senhor, para nós da tua santa casa, pensa em nós, inclina o teu ouvido e ouve-nos.” “Não é em atenção à justiça de nossos pais que fazemos as nossas súplicas.” “Ouve, Senhor, tem compaixão, porque pecamos na tua presença.”",
+    "meditatio_perguntas": [
+      "Em que “exílio” posso voltar a mim mesmo?",
+      "Rezo apoiado nos meus méritos ou na misericórdia de Deus?",
+      "Recordo as obras de Deus na minha história ao rezar?"
+    ],
+    "oratio_guia": "Senhor todo-poderoso, uma alma angustiada clama a ti: ouve e tem piedade, porque pequei. Olha da tua santa casa e faze comigo a aliança eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ouve, Senhor, tem compaixão, porque pecamos na tua presença",
+      "ref": "Br 3,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

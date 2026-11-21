@@ -1,0 +1,40 @@
+{
+  "id": "ISA.24.1",
+  "livro": "ISA",
+  "titulo": "A terra devastada e o reino do Senhor em Sião",
+  "secao": "O Apocalipse de Isaías",
+  "referencia": "Is 24,1-23",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A terra devastada pela culpa e o reinado do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o chamado “Apocalipse de Isaías”. O Senhor devasta a terra; sacerdote e povo, senhor e escravo, todos sofrem igual. A terra está profanada pelos seus habitantes, que violaram a aliança eterna; por isso a maldição a devora. Cessa a alegria dos tamborins; a cidade do caos está destruída. Ainda assim, dos confins da terra ouvem-se cânticos: “Glória ao justo!” A terra cambaleia como um bêbado. Naquele dia o Senhor punirá o exército do alto e os reis da terra; “a lua se envergonhará e o sol empalidecerá, quando o Senhor dos exércitos reinar no monte Sião”, glorificado diante dos anciãos.",
+    "alegorico": "Os anciãos diante dos quais o Senhor é glorificado reaparecem em Ap 4,4: os vinte e quatro anciãos que adoram o Cordeiro. O reinado em Sião é o Reino de Cristo, vitorioso sobre os poderes do alto.",
+    "moral": "O pecado humano contamina a própria terra: a crise ecológica tem raiz moral. Diante de Deus todos são iguais; nenhum título protege do juízo.",
+    "anagogico": "O sol e a lua envergonhados diante da glória de Deus antecipam a cidade que “não precisa de sol nem de lua” (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A terra foi contaminada pelos seus habitantes, porque transgrediram as leis.” “Dos confins da terra ouvimos cânticos: Glória ao justo!” “O Senhor dos exércitos reinará no monte Sião.”",
+    "meditatio_perguntas": [
+      "Como o meu modo de viver “contamina a terra”?",
+      "Ouço os cânticos de esperança no meio das ruínas?",
+      "Deixo o Senhor reinar no Sião do meu coração?"
+    ],
+    "oratio_guia": "Senhor, que reinarás em Sião, perdoa o pecado que fere a terra. Faze-me cantar glória ao Justo mesmo nas ruínas, e reina sobre mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "quando o Senhor dos exércitos reinar no monte Sião",
+      "ref": "Is 24,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

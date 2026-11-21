@@ -1,0 +1,40 @@
+{
+  "id": "ISA.66.1",
+  "livro": "ISA",
+  "titulo": "Como uma mãe consola: a glória do Senhor entre as nações",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 66,1-24",
+  "ini": {
+    "c": 66,
+    "v": 1
+  },
+  "fim": {
+    "c": 66,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Deus consola como uma mãe; todas as nações verão a sua glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O céu é o meu trono e a terra o escabelo dos meus pés: que casa me construireis? Olho para o pobre, o contrito de espírito, que treme à minha palavra. Os sacrifícios dos que escolhem os seus caminhos são abominação. Sião dá à luz antes das dores: nasce um povo num só dia. “Alegrai-vos com Jerusalém… sugareis o leite da sua consolação.” “Como uma mãe consola o seu filho, assim eu vos consolarei.” O Senhor virá como fogo para julgar. Reunirá todas as nações e línguas; enviará mensageiros às ilhas distantes que não ouviram falar dele, e anunciarão a sua glória; até entre eles tomará sacerdotes e levitas. Toda carne virá adorar diante dele.",
+    "alegorico": "Sião que dá à luz sem dores é figura de Maria e da Igreja, que gera filhos para Deus. Os mensageiros às ilhas distantes são os apóstolos; os sacerdotes tomados dentre as nações, o sacerdócio da Igreja universal.",
+    "moral": "Deus prefere o coração humilde que treme diante da sua palavra a templos grandiosos. A sua consolação é materna, terna e cheia de alimento. A missão é universal.",
+    "anagogico": "“Toda carne virá adorar diante de mim”: a assembleia eterna de todas as nações; o livro de Isaías termina na visão da adoração universal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O céu é o meu trono, e a terra o escabelo dos meus pés.” “Para quem olharei senão para o pobre, que treme à minha palavra?” “Como uma mãe acaricia o seu filhinho, assim eu vos consolarei.” “Eles anunciarão a minha glória às nações.”",
+    "meditatio_perguntas": [
+      "Tremo de reverência diante da palavra de Deus?",
+      "Deixo-me consolar por Deus como por uma mãe?",
+      "Como participo do anúncio às “ilhas distantes”?"
+    ],
+    "oratio_guia": "Senhor, consola-me como uma mãe consola o seu filho. Dá-me um coração pobre que treme à tua palavra, e envia-me a anunciar a tua glória às nações. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como uma mãe acaricia o seu filhinho, assim eu vos consolarei",
+      "ref": "Is 66,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BAR.6.1",
+  "livro": "BAR",
+  "titulo": "A vaidade dos ídolos de Babilônia",
+  "secao": "Carta de Jeremias",
+  "referencia": "Br 6,1-72",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 72
+  },
+  "liturgia": {
+    "tema_central": "Os ídolos não são deuses: não os temais",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A “Carta de Jeremias” aos que iam para o cativeiro previne contra a idolatria da Babilônia. Lá verão deuses de prata, ouro e madeira levados aos ombros, que inspiram temor às nações. Não os temais: “o meu anjo está convosco”. Os ídolos não falam, não veem, não se defendem da ferrugem nem dos ladrões; os sacerdotes os vestem e roubam o seu ouro; morcegos e andorinhas pousam sobre eles. Não podem salvar ninguém da morte, nem fazer justiça, nem ter piedade da viúva e do órfão. Refrão: como pensar ou dizer que são deuses? Melhor é o homem justo que não tem ídolos.",
+    "alegorico": "O anjo que acompanha os exilados é sinal da providência de Deus sobre o seu povo; a Igreja reconhece na Carta uma defesa permanente da fé contra todas as idolatrias, antigas e novas.",
+    "moral": "Os ídolos de hoje também são “levados aos ombros”: precisam de nós para existir. Não têm poder sobre a vida e a morte, nem compaixão. O cristão não deve temê-los nem venerá-los.",
+    "anagogico": "Diante do único Deus verdadeiro todos os ídolos caem; a adoração em espírito e verdade é antecipação da adoração eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vereis deuses de ouro, de prata e de pedra levados aos ombros.” “O meu anjo está convosco.” “Têm olhos e não veem.” “Não podem livrar ninguém da morte.” “Como, pois, se há de pensar que são deuses?”",
+    "meditatio_perguntas": [
+      "Que “ídolos” carrego aos ombros?",
+      "Temo o que não tem poder real sobre mim?",
+      "Confio que o anjo de Deus está comigo?"
+    ],
+    "oratio_guia": "Senhor, único Deus vivo, livra-me de todo ídolo de ouro, prata ou madeira. Que o teu anjo esteja comigo e eu te adore só a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "o meu anjo está convosco",
+      "ref": "Br 6,6"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata e em Matos Soares a Carta de Jeremias é o capítulo 6 de Baruc; em algumas Bíblias aparece como livro separado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ISA.2.1",
+  "livro": "ISA",
+  "titulo": "O monte do Senhor e o dia contra o orgulho",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 2,1-22",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "As nações sobem ao monte do Senhor; o orgulho será abatido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos últimos dias, o monte da casa do Senhor será elevado acima dos montes; todas as nações afluirão: “Vinde, subamos ao monte do Senhor… ele nos ensinará os seus caminhos”. Da Sião sairá a lei. Ele julgará as nações, que converterão as espadas em arados. “Casa de Jacó, vinde e caminhemos à luz do Senhor.” Mas o povo está cheio de adivinhos, de ouro, de cavalos e de ídolos. Por isso vem o dia do Senhor contra tudo o que é soberbo e altivo: os cedros do Líbano, as torres altas, os navios de Társis. Os homens se esconderão nas cavernas; o Senhor só será exaltado naquele dia. Deixai de confiar no homem.",
+    "alegorico": "O monte elevado é a Igreja, fundada sobre Cristo, à qual afluem as nações; a lei que sai de Sião é o Evangelho. A liturgia lê este texto no início do Advento: caminhar à luz do Senhor é acolher Cristo que vem.",
+    "moral": "A paz verdadeira nasce de deixar-se ensinar por Deus. O orgulho humano, com as suas torres e riquezas, será abatido; por isso não vale a pena apoiar-se no homem, “cujo sopro está nas narinas”.",
+    "anagogico": "O dia em que “só o Senhor será exaltado” é o dia final, quando toda altivez cairá e Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vinde, subamos ao monte do Senhor.” “Converterão as suas espadas em relhas de arado.” “Casa de Jacó, vinde e caminhemos à luz do Senhor.” “Só o Senhor será exaltado naquele dia.”",
+    "meditatio_perguntas": [
+      "Caminho à luz do Senhor ou à minha própria luz?",
+      "Que “torres altas” do meu orgulho precisam cair?",
+      "Em quem deposito a minha confiança?"
+    ],
+    "oratio_guia": "Senhor, ensina-me os teus caminhos e faze-me caminhar na tua luz. Abate em mim todo orgulho e transforma as minhas espadas em instrumentos de paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Casa de Jacob, vinde e caminhemos à luz do Senhor",
+      "ref": "Is 2,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

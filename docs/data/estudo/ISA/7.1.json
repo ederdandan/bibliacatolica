@@ -1,0 +1,49 @@
+{
+  "id": "ISA.7.1",
+  "livro": "ISA",
+  "titulo": "O sinal do Emanuel: a virgem conceberá",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 7,1-25",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O sinal do Emanuel: Deus conosco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na guerra siro-efraimita, Acaz e o povo tremem como as árvores ao vento. Isaías vai ao encontro do rei com o filho Sear-Jasub (“um resto voltará”): fica tranquilo, não temas; os inimigos são dois tições fumegantes. “Se não crerdes, não subsistireis.” Deus oferece um sinal; Acaz, com falsa piedade, recusa: não tentarei o Senhor. Isaías responde: cansais também o meu Deus? “Pois o mesmo Senhor vos dará um sinal: eis que a virgem conceberá e dará à luz um filho, e o chamará Emanuel”. Antes que o menino saiba rejeitar o mal, a terra dos dois reis será abandonada; mas também Judá sofrerá a Assíria.",
+    "alegorico": "São Mateus (1,22-23) lê o cumprimento no nascimento de Jesus da Virgem Maria: Emanuel, “Deus conosco”. A Vulgata e a versão grega dizem “a virgem”; a Igreja reconhece aqui a profecia da concepção virginal.",
+    "moral": "A fé é a única segurança verdadeira: “se não crerdes, não subsistireis”. Acaz finge humildade para não se comprometer com Deus; a falsa prudência é recusa de confiar.",
+    "anagogico": "O Emanuel, Deus conosco, estará conosco “todos os dias, até o fim do mundo” (Mt 28,20), e na glória Deus habitará com os homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma cuidado e permanece tranquilo; não temas.” “Se não crerdes, não subsistireis.” “Pede ao Senhor teu Deus um sinal.” “Eis que a virgem concebeu e dá à luz um filho, e o chama Emanuel.”",
+    "meditatio_perguntas": [
+      "O medo me faz tremer como as árvores ao vento?",
+      "Uso falsa piedade para fugir do que Deus me pede?",
+      "Que significa para mim que Deus está conosco?"
+    ],
+    "oratio_guia": "Senhor, Emanuel nascido da Virgem, firma a minha fé para que eu subsista. Livra-me do medo e da falsa prudência, e fica comigo sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que a virgem concebeu e dá à luz um filho, e o chama Emanuel",
+      "ref": "Is 7,14"
+    }
+  },
+  "ancoras": {
+    "7:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico ‘almah designa a jovem em idade de casar; a versão grega dos LXX traduziu parthenos (virgem), tradução assumida por Mateus e pela Igreja.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

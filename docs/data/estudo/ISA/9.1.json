@@ -1,0 +1,49 @@
+{
+  "id": "ISA.9.1",
+  "livro": "ISA",
+  "titulo": "Um menino nasceu para nós",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 9,1-21",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Um menino nasceu para nós: luz para os que estavam nas trevas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A terra de Zabulon e Neftali, humilhada, será glorificada: “O povo que andava nas trevas viu uma grande luz; aos que habitavam na região da sombra da morte uma luz apareceu”. Deus multiplicou a alegria, como na colheita; quebrou o jugo, a vara do opressor, como no dia de Madiã; as botas dos guerreiros serão queimadas. “Porque um menino nasceu para nós, um filho nos foi dado; o principado está sobre os seus ombros; chama-se Maravilhoso Conselheiro, Deus Forte, Pai eterno, Príncipe da paz.” O seu império não terá fim, sobre o trono de Davi. Segue-se um poema sobre a ira contra Israel: “e ainda a sua mão continua estendida”.",
+    "alegorico": "Mateus (4,15-16) vê esta luz na pregação de Jesus na Galileia. A liturgia da Noite de Natal proclama: “Um menino nasceu para nós”. Os títulos (Deus Forte, Pai eterno) revelam a divindade do Messias.",
+    "moral": "Deus entra nas regiões mais humilhadas e escuras. O poder do Messias não é a bota do guerreiro, mas a paz; o seu governo “sobre os ombros” prefigura a cruz que carrega.",
+    "anagogico": "“O seu império não terá fim”: o Reino de Cristo, iniciado no Natal, consuma-se na glória eterna, onde a paz não terá limite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O povo, que andava nas trevas, viu uma grande luz.” “Multiplicaste a alegria.” “Um menino nasceu para nós, um filho nos foi dado… chama-se Maravilhoso Conselheiro, Deus Forte, Pai eterno, Príncipe da paz.”",
+    "meditatio_perguntas": [
+      "Que região de trevas em mim precisa da luz de Cristo?",
+      "Qual dos títulos do Menino mais toca o meu coração hoje?",
+      "Deixo Jesus quebrar o jugo que me oprime?"
+    ],
+    "oratio_guia": "Menino Deus, Príncipe da paz, ilumina as minhas trevas. Quebra o jugo que me oprime e reina sobre mim, Maravilhoso Conselheiro, Deus Forte, Pai eterno. Amém.",
+    "contemplatio_foco": {
+      "texto": "O povo, que andava nas trevas, viu uma grande luz",
+      "ref": "Is 9,2"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Is 9,1 da Vulgata corresponde a 8,23, e 9,2 a 9,1; daí a diferença de um versículo neste capítulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

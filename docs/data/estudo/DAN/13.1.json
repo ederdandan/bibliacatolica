@@ -1,0 +1,49 @@
+{
+  "id": "DAN.13.1",
+  "livro": "DAN",
+  "titulo": "Susana e o juízo de Daniel",
+  "secao": "Susana, Bel e o dragão",
+  "referencia": "Dn 13,1-65",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 65
+  },
+  "liturgia": {
+    "tema_central": "A inocência defendida por Deus: Susana",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Babilônia vive Joaquim, homem rico, com a esposa Susana, bela e temente a Deus, educada pelos pais na lei de Moisés. Dois anciãos, juízes do povo, inflamam-se de paixão por ela. Um dia, no jardim, a surpreendem sozinha e a ameaçam: se não ceder, a acusarão de adultério com um jovem. Susana suspira: estou cercada de angústias; mas prefere cair nas mãos deles inocente a pecar diante do Senhor. Acusada e condenada à morte, clama: “Deus eterno, que conheces as coisas ocultas… sabes que eles deram falso testemunho contra mim”. Deus desperta o espírito santo de um jovem, Daniel, que interroga os anciãos separadamente: um diz sob um lentisco, o outro sob uma azinheira. A mentira é desmascarada; Susana é salva.",
+    "alegorico": "Os Padres viram em Susana a figura da Igreja, casta e caluniada, e da alma fiel; em Daniel (“Deus é meu juiz”), Cristo que defende a inocência. O texto é lido no tempo da Quaresma.",
+    "moral": "Susana prefere a morte inocente ao pecado: a castidade é fidelidade a Deus antes de tudo. O abuso de poder e o falso testemunho são pecados gravíssimos. A justiça exige escuta atenta e investigação, não pressa em condenar.",
+    "anagogico": "O Deus que conhece as coisas ocultas revelará no juízo final a inocência dos caluniados e a mentira dos acusadores."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estou cercada de angústias por todos os lados.” “Melhor é para mim cair nas vossas mãos sem ter pecado, do que pecar na presença do Senhor.” “Deus eterno, que penetras as coisas escondidas.” “O Senhor despertou o espírito santo de um jovem chamado Daniel.”",
+    "meditatio_perguntas": [
+      "Prefiro sofrer injustamente a pecar?",
+      "Condeno os outros sem ouvir e investigar?",
+      "Confio que Deus conhece a verdade quando sou caluniado?"
+    ],
+    "oratio_guia": "Deus eterno, que conheces as coisas escondidas, defende os inocentes caluniados. Dá-me a pureza de Susana e a coragem de Daniel para defender a verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus eterno, que penetras as coisas escondidas",
+      "ref": "Dn 13,42"
+    }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 13–14 são deuterocanônicos, conservados em grego e na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

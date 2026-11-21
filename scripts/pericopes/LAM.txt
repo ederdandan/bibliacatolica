@@ -1,0 +1,8 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## As Lamentações de Jeremias
+1:1-1:22 | Como está solitária a cidade
+2:1-2:22 | A ira do Senhor sobre a filha de Sião
+3:1-3:66 | As misericórdias do Senhor não se esgotaram
+4:1-4:22 | Como se escureceu o ouro
+5:1-5:22 | Converte-nos a ti, Senhor

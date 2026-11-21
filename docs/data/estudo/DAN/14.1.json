@@ -1,0 +1,40 @@
+{
+  "id": "DAN.14.1",
+  "livro": "DAN",
+  "titulo": "Bel e o dragão",
+  "secao": "Susana, Bel e o dragão",
+  "referencia": "Dn 14,1-42",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "O Deus vivo contra os falsos deuses: Bel e o dragão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei de Babilônia venera Bel, que parece comer diariamente grande quantidade de farinha, ovelhas e vinho. Daniel diz: “Eu adoro o Senhor meu Deus, porque ele é um Deus vivo”. Para provar a fraude, espalha cinza no chão do templo; de manhã aparecem as pegadas dos sacerdotes e das suas famílias, que entravam por uma porta secreta e comiam as ofertas. Bel é destruído. Depois, um grande dragão adorado como deus: Daniel o mata com bolos de pez, gordura e pelos. O povo se revolta; Daniel é lançado à cova dos leões por seis dias. O profeta Habacuc é levado por um anjo para lhe dar comida. No sétimo dia o rei o encontra vivo e exclama: “Tu és grande, Senhor Deus de Daniel!”",
+    "alegorico": "Daniel alimentado na cova pelo profeta enviado por Deus foi lido como figura da Eucaristia, alimento dado por Deus aos seus no meio da prova. O sétimo dia e a saída da cova evocam a Ressurreição.",
+    "moral": "A fé verdadeira desmascara as fraudes religiosas com inteligência e coragem. Deus não abandona os que o amam: alimenta-os na hora da prova, até por meios inesperados.",
+    "anagogico": "O reconhecimento final, “Não há outro Deus além de ti”, anuncia a confissão universal do Deus vivo no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu adoro o Senhor meu Deus, porque ele é um Deus vivo.” “Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam.” “Tu és grande, ó Senhor Deus de Daniel! Não há outro Deus, além de ti!”",
+    "meditatio_perguntas": [
+      "Distingo a fé verdadeira das fraudes religiosas?",
+      "Creio que Deus se lembra de mim na “cova”?",
+      "Recebo a Eucaristia como alimento na prova?"
+    ],
+    "oratio_guia": "Deus vivo, que não desamparas os que te amam, lembra-te de mim nas minhas covas e alimenta-me com o teu pão. Tu és grande, e não há outro Deus além de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam",
+      "ref": "Dn 14,37"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

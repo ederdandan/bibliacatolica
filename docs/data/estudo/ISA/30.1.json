@@ -1,0 +1,40 @@
+{
+  "id": "ISA.30.1",
+  "livro": "ISA",
+  "titulo": "Na conversão e na calma está a vossa salvação",
+  "secao": "Ais e promessas",
+  "referencia": "Is 30,1–31,9",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Na conversão e na confiança está a vossa força",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ai dos filhos rebeldes que fazem projetos sem Deus e descem ao Egito em busca de proteção: a sombra do Egito será a sua vergonha. Dizem aos videntes: não vejais; dizei-nos coisas agradáveis. Diz o Senhor: “Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa força estará no repouso e na confiança”; mas não quisestes; preferistes fugir a cavalo. Contudo, o Senhor espera para ter piedade: os teus olhos verão o teu Mestre; ouvirás uma voz atrás de ti: “Este é o caminho, andai por ele”. Haverá chuva e fartura. No capítulo 31: ai dos que confiam em cavalos e carros; o Egito é homem, não Deus.",
+    "alegorico": "O Mestre que o povo verá com os seus olhos é Cristo, Mestre visível; a voz que indica o caminho é a do Espírito que guia a Igreja (Jo 16,13). Cristo é o “caminho” por onde andar (Jo 14,6).",
+    "moral": "A ansiedade busca “egitos” e cavalos; a fé encontra força no repouso e na confiança. Preferir pregadores que dizem “coisas agradáveis” é recusar a verdade. Deus espera pacientemente para ter misericórdia.",
+    "anagogico": "Os olhos que verão o Mestre anunciam a visão de Deus face a face, quando não haverá mais necessidade de instrução."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos filhos rebeldes, que formam projetos sem mim.” “Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa fortaleza estará no repouso e na confiança.” “Este é o caminho, andai por ele.”",
+    "meditatio_perguntas": [
+      "Faço projetos sem consultar a Deus?",
+      "Quando estou ansioso, corro para os “cavalos”?",
+      "Escuto a voz que me diz: “Este é o caminho”?"
+    ],
+    "oratio_guia": "Senhor, que esperas para ter piedade de mim, ensina-me a encontrar força no repouso e na confiança. Que eu ouça a tua voz: “Este é o caminho”, e ande por ele. Amém.",
+    "contemplatio_foco": {
+      "texto": "a vossa fortaleza estará no repouso e na confiança",
+      "ref": "Is 30,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

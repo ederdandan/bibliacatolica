@@ -1,0 +1,40 @@
+{
+  "id": "DAN.5.1",
+  "livro": "DAN",
+  "titulo": "O banquete de Baltasar: Mane, Técel, Fares",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 5,1-31",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Pesado na balança e achado em falta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei Baltasar dá um grande banquete a mil nobres e, embriagado, manda trazer os vasos de ouro e prata roubados do templo de Jerusalém para beber neles, louvando os deuses de ouro e de pedra. Naquela hora aparecem dedos de mão humana que escrevem na parede. O rei empalidece; os sábios não sabem ler. A rainha lembra Daniel, que é chamado. Recusando os presentes, Daniel recorda a humilhação de Nabucodonosor e acusa: tu não humilhaste o teu coração, profanaste os vasos sagrados e não glorificaste o Deus que tem nas mãos o teu sopro. A escrita: “Mane: Deus contou o teu reino e lhe pôs fim; Técel: foste pesado na balança e achado em falta; Fares: o teu reino foi dividido”. Naquela noite Baltasar é morto.",
+    "alegorico": "A profanação dos vasos sagrados é figura do sacrilégio contra a Eucaristia e as coisas santas; o juízo repentino anuncia a vinda do Filho do Homem “como ladrão de noite”.",
+    "moral": "Quem não aprende com a humilhação dos outros repete os seus erros. Profanar o sagrado e festejar na arrogância é ignorar que a nossa vida está nas mãos de Deus. Cada vida será “pesada na balança”.",
+    "anagogico": "O juízo da balança antecipa o juízo particular e final: Deus “contou os nossos dias”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mandou trazer os vasos de ouro e de prata que tinham sido tirados do templo.” “Apareceram uns dedos, como de mão de homem, que escreviam.” “Não humilhaste o teu coração.” “Tequel: foste pesado na balança, e achou-se que estavas falto de peso.”",
+    "meditatio_perguntas": [
+      "Trato as coisas santas com reverência?",
+      "Aprendo com a história dos outros, ou repito os seus erros?",
+      "Se a minha vida fosse pesada hoje, o que faltaria?"
+    ],
+    "oratio_guia": "Senhor, em cujas mãos está o meu sopro, livra-me da arrogância e do sacrilégio. Que, quando me pesares na tua balança, eu seja achado rico de amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tequel: foste pesado na balança",
+      "ref": "Dn 5,27"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

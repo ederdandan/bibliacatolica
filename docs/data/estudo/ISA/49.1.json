@@ -1,0 +1,40 @@
+{
+  "id": "ISA.49.1",
+  "livro": "ISA",
+  "titulo": "Luz das nações: eu não me esqueceria de ti",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 49,1-26",
+  "ini": {
+    "c": 49,
+    "v": 1
+  },
+  "fim": {
+    "c": 49,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Luz das nações: Deus não se esquece",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo cântico do Servo: “O Senhor chamou-me desde o seio materno”; fez da minha boca espada afiada, escondeu-me na sombra da sua mão. Disse-me: “Tu és o meu servo, Israel, em quem serei glorificado”. Eu disse: em vão me cansei; mas o meu direito está com o Senhor. Agora diz: “É pouco seres meu servo para restaurar as tribos de Jacó; vou fazer de ti luz das nações, para que a minha salvação chegue até os confins da terra”. Os reis verão e se levantarão. Sião dizia: o Senhor me abandonou, o meu Senhor esqueceu-se de mim. “Pode uma mulher esquecer-se do seu filhinho?… Ainda que ela se esquecesse, eu não me esqueceria de ti. Eis que te gravei nas palmas das minhas mãos.”",
+    "alegorico": "Simeão, no templo, reconhece em Jesus a “luz para iluminar as nações” (Lc 2,32); Paulo e Barnabé aplicam o versículo à missão da Igreja (At 13,47). As palmas gravadas evocam as mãos chagadas de Cristo.",
+    "moral": "Mesmo quando a missão parece em vão, o direito está com o Senhor. O amor de Deus supera o amor materno: ninguém é esquecido. A vocação de cada um tem dimensão universal.",
+    "anagogico": "A salvação “até os confins da terra” e o povo reunido de todos os lados anunciam a Igreja universal e a assembleia do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor chamou-me desde o seio materno.” “Em vão me cansei… mas o meu direito está com o Senhor.” “Vou fazer de ti luz das gentes.” “Pode uma mulher esquecer-se do seu menino de peito?… Eu não me esqueceria de ti.”",
+    "meditatio_perguntas": [
+      "Sinto às vezes que me cansei em vão?",
+      "Creio que Deus jamais se esquece de mim?",
+      "Como a minha vida pode ser luz para os outros?"
+    ],
+    "oratio_guia": "Senhor, que me chamaste desde o seio materno e me gravaste nas palmas das tuas mãos, quando eu disser “esqueceste-me”, lembra-me o teu amor maior que o de mãe. Faze-me luz das nações. Amém.",
+    "contemplatio_foco": {
+      "texto": "ainda que ela se esquecesse dele, eu não me esqueceria de ti",
+      "ref": "Is 49,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ISA.45.1",
+  "livro": "ISA",
+  "titulo": "Ciro, o ungido: céus, derramai o vosso orvalho",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 45,1-26",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Deus age através de Ciro: céus, destilai o Justo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala a Ciro, seu ungido, a quem tomou pela mão para submeter as nações: abrirei portas diante de ti; dar-te-ei tesouros escondidos, por amor de Jacó, meu servo; chamei-te pelo nome, embora não me conhecesses. “Eu sou o Senhor, e não há outro; formo a luz e crio as trevas.” “Derramai, ó céus, lá das alturas o vosso orvalho, e as nuvens façam chover o Justo; abra-se a terra e germine o Salvador.” Ai de quem discute com o seu Criador, como o barro com o oleiro. Deus não criou a terra para ser caos, mas para ser habitada. “Voltai-vos para mim e sereis salvos, todos os confins da terra”; diante de mim se dobrará todo joelho.",
+    "alegorico": "A liturgia do Advento canta “Rorate caeli desuper, et nubes pluant iustum” (Vulgata): o Justo que desce como orvalho e a terra que germina o Salvador são Cristo nascido da Virgem. São Paulo aplica “todo joelho se dobrará” a Jesus (Fl 2,10).",
+    "moral": "Deus conduz a história, mesmo por meio de quem não o conhece. Não discutir com o Criador como barro com o oleiro: confiar no seu desígnio. A salvação é oferecida a todos os confins da terra.",
+    "anagogico": "Todo joelho dobrado e toda língua confessando o Senhor é a adoração universal no fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Chamei-te pelo teu nome, ainda que não me conhecesses.” “Eu sou o Senhor, e não há outro.” “Derramai, ó céus, lá dessas alturas o vosso orvalho… abra-se a terra e brote a salvação.” “Voltai-vos para mim e sereis salvos, todos os confins da terra.”",
+    "meditatio_perguntas": [
+      "Reconheço Deus agindo por meio de pessoas que não o conhecem?",
+      "Discuto com Deus como o barro com o oleiro?",
+      "Peço, no Advento, que os céus derramem o Justo?"
+    ],
+    "oratio_guia": "Céus, derramai o orvalho; nuvens, chovei o Justo; abra-se a terra e germine o Salvador. Senhor, a ti me volto: salva-me. Amém.",
+    "contemplatio_foco": {
+      "texto": "Derramai, ó céus, lá dessas alturas o vosso orvalho",
+      "ref": "Is 45,8"
+    }
+  },
+  "ancoras": {
+    "45:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ciro, rei persa que permitiu a volta dos exilados (538 a.C.), é o único pagão chamado “ungido” (messias) na Bíblia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

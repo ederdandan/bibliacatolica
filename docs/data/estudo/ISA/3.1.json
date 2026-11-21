@@ -1,0 +1,40 @@
+{
+  "id": "ISA.3.1",
+  "livro": "ISA",
+  "titulo": "Juízo sobre Jerusalém e o germe do Senhor",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 3,1–4,6",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "A queda dos apoios humanos e o germe do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor tirará de Jerusalém todo apoio: pão, água, herói, juiz, profeta, ancião; meninos governarão. O povo peca abertamente, como Sodoma. “Dizei ao justo que ele será bem-sucedido.” O Senhor julga os anciãos e os príncipes que devoraram a vinha e esmagaram o rosto dos pobres. As filhas de Sião, altivas, com os seus enfeites e perfumes, terão em troca saco e calvície; os homens cairão à espada. Mas naquele dia, “o germe do Senhor será ornamento e glória”; os sobreviventes serão chamados santos; o Senhor lavará as manchas de Sião com o espírito de juízo e estenderá sobre o monte uma nuvem de dia e um fogo de noite.",
+    "alegorico": "O “germe do Senhor” é título messiânico: Cristo, rebento que nasce de Deus e da terra. A nuvem e o fogo que protegem Sião evocam a presença do Espírito sobre a Igreja.",
+    "moral": "Quando a sociedade perde as suas referências morais, até os apoios humanos caem. A vaidade exterior (enfeites, perfumes) esconde muitas vezes a dureza com os pobres. Deus purifica para santificar.",
+    "anagogico": "Os sobreviventes chamados “santos” e protegidos pela glória de Deus anunciam a Igreja celeste, purificada e coberta pela presença divina."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dizei ao justo que ele será bem-sucedido.” “Por que esmagais o meu povo e moeis o rosto dos pobres?” “Naquele dia será o germe do Senhor ornamento e glória.”",
+    "meditatio_perguntas": [
+      "Em que apoios humanos confio, que podem cair?",
+      "A minha preocupação com a aparência me faz esquecer o pobre?",
+      "Deixo o Senhor lavar as minhas manchas?"
+    ],
+    "oratio_guia": "Senhor, quando os meus apoios caírem, sê tu a minha firmeza. Lava as minhas manchas com o teu Espírito e faze brotar em mim o teu Germe, Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele dia será o germe do Senhor ornamento e glória",
+      "ref": "Is 4,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

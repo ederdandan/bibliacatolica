@@ -1,0 +1,40 @@
+{
+  "id": "ISA.55.1",
+  "livro": "ISA",
+  "titulo": "Vinde às águas: os meus pensamentos não são os vossos",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 55,1-13",
+  "ini": {
+    "c": 55,
+    "v": 1
+  },
+  "fim": {
+    "c": 55,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Vinde às águas: a graça gratuita e a palavra eficaz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Todos vós que tendes sede, vinde às águas; vós que não tendes dinheiro, vinde, comprai e comei; comprai sem dinheiro vinho e leite.” Por que gastais dinheiro naquilo que não é pão? Escutai e vivereis; farei convosco uma aliança eterna, as graças prometidas a Davi. “Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto.” Abandone o ímpio o seu caminho e volte ao Senhor, que é rico em perdão. “Os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos.” Como a chuva e a neve não voltam ao céu sem regar a terra, assim a palavra que sai da minha boca não volta vazia. Saireis com alegria; os montes cantarão, as árvores baterão palmas.",
+    "alegorico": "Jesus convida: “Se alguém tem sede, venha a mim e beba” (Jo 7,37). As águas, o vinho e o leite gratuitos são os sacramentos; a palavra que não volta vazia é o Verbo encarnado, que realiza a vontade do Pai e volta a Ele.",
+    "moral": "A graça é gratuita: não se compra. Gastamos muito com o que não sacia. Há um tempo favorável para buscar a Deus. Os caminhos de Deus superam os nossos: humildade diante do mistério. A Palavra é eficaz: semear sem desanimar.",
+    "anagogico": "A saída com alegria, entre montes que cantam, é o êxodo final para a pátria, onde toda a criação louvará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todos vós os que tendes sede, vinde às águas.” “Por que gastais o vosso dinheiro naquilo que não é pão?” “Buscai o Senhor enquanto se pode achar.” “Os meus pensamentos não são os vossos pensamentos.” “A palavra que sai da minha boca não voltará para mim vazia.”",
+    "meditatio_perguntas": [
+      "Em que “não-pão” gasto o meu dinheiro e o meu tempo?",
+      "É este o tempo de buscar o Senhor para mim?",
+      "Confio na eficácia da Palavra, mesmo quando não vejo frutos?"
+    ],
+    "oratio_guia": "Senhor, eu tenho sede: dá-me das tuas águas sem preço. Que eu te busque enquanto estás perto, aceite os teus caminhos e deixe a tua Palavra frutificar em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todos vós os que tendes sede, vinde às águas",
+      "ref": "Is 55,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

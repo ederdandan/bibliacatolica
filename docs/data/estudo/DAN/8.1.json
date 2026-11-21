@@ -1,0 +1,49 @@
+{
+  "id": "DAN.8.1",
+  "livro": "DAN",
+  "titulo": "O carneiro e o bode",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 8,1-27",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Os poderes que se exaltam contra Deus são quebrados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Daniel vê um carneiro de dois chifres que investe em todas as direções; um bode vindo do Ocidente, com um chifre grande, o derruba. O chifre se quebra e surgem quatro; de um deles sai um chifre pequeno que cresce até o exército do céu, suprime o sacrifício perpétuo e profana o santuário. Até quando? Duas mil e trezentas tardes e manhãs; depois o santuário será purificado. O anjo Gabriel explica: o carneiro são os reis da Média e da Pérsia; o bode, o rei da Grécia; o chifre pequeno, um rei arrogante que se levantará contra o Príncipe dos príncipes, mas será quebrado sem mão humana. Daniel fica doente e perturbado.",
+    "alegorico": "O rei arrogante (Antíoco IV Epífanes) tornou-se figura do “anticristo”, que se exalta contra Deus (2Ts 2,4); mas é quebrado “sem mão humana”, como pela pedra de Dn 2, que é Cristo.",
+    "moral": "Os poderes que perseguem a fé e profanam o santo têm prazo: Deus marca o limite. A visão ensina paciência e confiança nos tempos de opressão.",
+    "anagogico": "A purificação do santuário após o tempo da prova anuncia a vitória final de Deus e o culto perfeito na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Até quando durará a visão?” “Até duas mil e trezentas tardes e manhãs; depois o santuário será purificado.” “Levantar-se-á contra o Príncipe dos príncipes, e será quebrado sem mão de homem.” “Entende, filho de homem.”",
+    "meditatio_perguntas": [
+      "Creio que Deus põe limite às perseguições?",
+      "Mantenho a esperança enquanto o “sacrifício” parece suprimido?",
+      "Peço a Deus entendimento para ler os sinais dos tempos?"
+    ],
+    "oratio_guia": "Senhor, Príncipe dos príncipes, quebra os poderes que se erguem contra ti e purifica o teu santuário. Dá-me paciência e entendimento nos tempos de prova. Amém.",
+    "contemplatio_foco": {
+      "texto": "Entende, filho de homem, que esta visão se cumprirá no tempo do fim",
+      "ref": "Dn 8,17"
+    }
+  },
+  "ancoras": {
+    "8:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O bode é Alexandre Magno; os quatro chifres, os seus sucessores; o chifre pequeno, Antíoco IV, que profanou o templo em 167 a.C. (1Mc 1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

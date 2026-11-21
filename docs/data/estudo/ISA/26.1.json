@@ -1,0 +1,40 @@
+{
+  "id": "ISA.26.1",
+  "livro": "ISA",
+  "titulo": "Os teus mortos viverão; a vinha guardada",
+  "secao": "O Apocalipse de Isaías",
+  "referencia": "Is 26,1–27,13",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Paz para quem confia; os mortos viverão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um cântico em Judá: temos uma cidade forte; abri as portas para que entre a nação justa. “Conservarás a paz a quem em ti confia.” O caminho do justo é reto. “A minha alma te desejou de noite, e desde a manhã te busca o meu espírito.” Senhor, tu nos darás a paz; todas as nossas obras tu as fizeste. Como mulher em parto, sofremos e demos à luz vento. Mas: “Os teus mortos viverão, os meus cadáveres ressuscitarão; despertai e cantai, vós que habitais no pó, porque o teu orvalho é orvalho de luz”. No capítulo 27, Deus vence Leviatã e canta de novo a vinha, que ele guarda noite e dia; Israel brotará e encherá a terra de frutos.",
+    "alegorico": "Os mortos que ressuscitam ao “orvalho de luz” são lidos como anúncio da ressurreição de Cristo e da carne. Leviatã vencido é a serpente antiga (Ap 12,9; 20,2). A vinha guardada é a Igreja.",
+    "moral": "A paz é fruto da confiança. O desejo de Deus “de noite” e “de manhã” é a respiração da oração. As nossas obras boas são obras de Deus em nós.",
+    "anagogico": "Uma das afirmações mais claras do AT sobre a ressurreição dos mortos: os que dormem no pó despertarão para a vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Conservarás a paz a quem em ti confia.” “A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito.” “Os teus mortos viverão… despertai e cantai louvores, vós que habitais no pó.” “Eu sou o que guardo a vinha.”",
+    "meditatio_perguntas": [
+      "A minha alma deseja a Deus de noite e de manhã?",
+      "Reconheço que as minhas boas obras são obra de Deus?",
+      "Como a fé na ressurreição muda o meu luto?"
+    ],
+    "oratio_guia": "Senhor, a minha alma te deseja de noite e te busca de manhã. Conserva-me na paz e guarda-me como a tua vinha. Desperta os que dormem no pó com o teu orvalho de luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito",
+      "ref": "Is 26,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

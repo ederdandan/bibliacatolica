@@ -1,0 +1,49 @@
+{
+  "id": "ISA.42.1",
+  "livro": "ISA",
+  "titulo": "Eis o meu servo: primeiro cântico do Servo",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 42,1-25",
+  "ini": {
+    "c": 42,
+    "v": 1
+  },
+  "fim": {
+    "c": 42,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O Servo manso que leva a justiça às nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro cântico do Servo do Senhor: “Eis o meu servo, que eu amparo, o meu escolhido, em quem a minha alma se compraz; sobre ele derramei o meu espírito; ele levará a justiça às nações”. Não grita, não levanta a voz nas praças; “não quebrará a cana rachada, nem apagará a mecha que ainda fumega”. Não desanimará até estabelecer a justiça na terra. Deus o fez aliança do povo e luz das nações, para abrir os olhos dos cegos e tirar os presos do cárcere. Segue um cântico novo de toda a terra; o Senhor sai como herói e geme como mulher em parto. Mas Israel, servo cego e surdo, não compreendeu.",
+    "alegorico": "No batismo de Jesus, a voz do Pai retoma estas palavras: “Este é o meu Filho amado, em quem me comprazo” (Mt 3,17); Mateus cita o cântico para descrever a mansidão de Jesus (Mt 12,18-21).",
+    "moral": "O estilo do Servo é a mansidão: não esmagar o fraco, não apagar a pequena chama de fé que resta em alguém. A justiça se estabelece com perseverança paciente, não com gritos.",
+    "anagogico": "A justiça estabelecida em toda a terra é a consumação do Reino, inaugurado pelo Servo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis o meu servo, que eu amparo, o meu escolhido, no qual a minha alma põe a sua complacência.” “Não clamará, nem levantará a voz.” “Não quebrará a cana rachada, nem apagará a torcida que ainda fumega.” “Eu te dei como luz das nações.”",
+    "meditatio_perguntas": [
+      "Trato os fracos e feridos com a mansidão do Servo?",
+      "Que “mecha que fumega” em mim Jesus quer reavivar?",
+      "Ouço a voz do Pai dizer que se compraz em mim, no batismo?"
+    ],
+    "oratio_guia": "Jesus, Servo amado do Pai, não quebres a cana rachada que sou; reaviva a minha chama. Dá-me a tua mansidão e faze-me luz para os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não quebrará a cana rachada, nem apagará a torcida que ainda fumega",
+      "ref": "Is 42,3"
+    }
+  },
+  "ancoras": {
+    "42:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatro “Cânticos do Servo” são: 42,1-9; 49,1-6; 50,4-9; 52,13–53,12.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

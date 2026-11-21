@@ -1,0 +1,40 @@
+{
+  "id": "ISA.5.1",
+  "livro": "ISA",
+  "titulo": "O cântico da vinha",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 5,1-30",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A vinha amada que deu uvas amargas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta canta o cântico do amigo à sua vinha: plantou-a num outeiro fértil, cavou, tirou as pedras, plantou cepas escolhidas, construiu uma torre e um lagar; esperava uvas boas, mas deu agraços. “Que mais podia eu fazer pela minha vinha que não tenha feito?” Por isso tirará a sebe e deixará que seja pisada. A vinha do Senhor é a casa de Israel: esperava justiça, e eis iniquidade; retidão, e eis clamor. Seguem seis “ais”: contra os que juntam casa a casa, os que correm atrás do vinho, os que chamam ao mal bem e ao bem mal, os sábios aos próprios olhos, os que absolvem o culpado por suborno. Um povo distante virá como leão.",
+    "alegorico": "Jesus retoma esta parábola na dos vinhateiros homicidas (Mt 21,33-43) e declara: “Eu sou a videira verdadeira” (Jo 15,1). O que Deus não podia mais fazer pela vinha, fez ao enviar o seu Filho.",
+    "moral": "Deus fez tudo por nós; a pergunta “que mais podia eu fazer?” nos interroga. A falta de fruto se vê na injustiça social, no consumismo, na inversão dos valores (“chamar ao mal bem”).",
+    "anagogico": "A vinha que dá fruto verdadeiro é a Igreja unida a Cristo, cujo fruto permanece para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cantarei ao meu amado o cântico do meu amigo à sua vinha.” “Que coisa há que eu devesse fazer mais à minha vinha e que lhe não tenha feito?” “Esperou a justiça, e eis a iniquidade.” “Ai dos que chamam ao mal bem e ao bem mal.”",
+    "meditatio_perguntas": [
+      "Que frutos Deus esperava de mim e não encontrou?",
+      "Que mais poderia Deus ter feito por mim?",
+      "Onde chamo de bem o que é mal?"
+    ],
+    "oratio_guia": "Senhor, que fizeste tudo pela tua vinha, perdoa os meus agraços. Une-me a Cristo, videira verdadeira, para que eu dê frutos de justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que coisa há que eu devesse fazer mais a minha vinha e que lhe não tenha feito?",
+      "ref": "Is 5,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

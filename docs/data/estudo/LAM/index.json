@@ -1,0 +1,78 @@
+{
+ "livro": "LAM",
+ "secoes": [
+  "As Lamentações de Jeremias"
+ ],
+ "pericopes": [
+  {
+   "id": "LAM.1.1",
+   "titulo": "Como está solitária a cidade",
+   "secao": "As Lamentações de Jeremias",
+   "referencia": "Lm 1,1-22",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 22
+   }
+  },
+  {
+   "id": "LAM.2.1",
+   "titulo": "A ira do Senhor sobre a filha de Sião",
+   "secao": "As Lamentações de Jeremias",
+   "referencia": "Lm 2,1-22",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 22
+   }
+  },
+  {
+   "id": "LAM.3.1",
+   "titulo": "As misericórdias do Senhor não se esgotaram",
+   "secao": "As Lamentações de Jeremias",
+   "referencia": "Lm 3,1-66",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 66
+   }
+  },
+  {
+   "id": "LAM.4.1",
+   "titulo": "Como se escureceu o ouro",
+   "secao": "As Lamentações de Jeremias",
+   "referencia": "Lm 4,1-22",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "LAM.5.1",
+   "titulo": "Converte-nos a ti, Senhor",
+   "secao": "As Lamentações de Jeremias",
+   "referencia": "Lm 5,1-22",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 22
+   }
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ISA.1.1",
+  "livro": "ISA",
+  "titulo": "Processo contra o povo rebelde: vinde, e expliquemo-nos",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 1,1-31",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Deus chama o povo rebelde à purificação e ao perdão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Visão de Isaías nos dias de Ozias, Joatão, Acaz e Ezequias. Céus e terra são testemunhas: “Criei filhos, e eles se revoltaram contra mim; o boi conhece o seu dono, mas Israel não me conhece”. O povo está ferido da cabeça aos pés; Sião ficou como cabana na vinha. Deus rejeita sacrifícios, incenso e festas de mãos cheias de sangue: “Lavai-vos, purificai-vos… aprendei a fazer o bem, buscai a justiça, socorrei o oprimido, fazei justiça ao órfão, defendei a viúva”. “Vinde, e expliquemo-nos: se os vossos pecados forem como escarlate, ficarão brancos como a neve.” Jerusalém, cidade fiel tornada prostituta, será purificada e chamada cidade da justiça.",
+    "alegorico": "O boi e o jumento que conhecem o dono deram origem à tradição do presépio: os animais reconhecem o Senhor que o seu povo não reconheceu. A purificação dos pecados escarlates em neve se realiza no sangue de Cristo e no batismo.",
+    "moral": "Culto sem justiça é abominação para Deus. Converter-se é concreto: deixar de fazer o mal, aprender o bem, defender os fracos. E Deus propõe um diálogo: nenhum pecado é vermelho demais para o seu perdão.",
+    "anagogico": "Jerusalém purificada, “cidade da justiça, cidade fiel”, anuncia a Jerusalém celeste, esposa sem mancha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O boi conhece o seu possuidor, e o jumento o presépio do seu dono; mas Israel não me conhece.” “Lavai-vos, purificai-vos.” “Aprendei a fazer o bem.” “Se os vossos pecados forem como o escarlate, eles se tornarão brancos como a neve.”",
+    "meditatio_perguntas": [
+      "Conheço o meu Senhor como o boi conhece o dono?",
+      "O meu culto vem acompanhado de justiça?",
+      "Que pecado “escarlate” preciso entregar ao diálogo com Deus?"
+    ],
+    "oratio_guia": "Senhor, que me chamas a explicar-me contigo, eis os meus pecados vermelhos como escarlate: lava-os e torna-os brancos como a neve. Ensina-me a fazer o bem e a defender os fracos. Amém.",
+    "contemplatio_foco": {
+      "texto": "se os vossos pecados forem como o escarlate, eles se tornarão brancos como a neve",
+      "ref": "Is 1,18"
+    }
+  },
+  "ancoras": {
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os evangelhos não mencionam animais no presépio; a tradição os introduziu a partir deste versículo e de Hab 3,2 (versão grega).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

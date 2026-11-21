@@ -1,0 +1,40 @@
+{
+  "id": "ISA.51.1",
+  "livro": "ISA",
+  "titulo": "Desperta, Sião: os pés do que anuncia a paz",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 51,1–52,12",
+  "ini": {
+    "c": 51,
+    "v": 1
+  },
+  "fim": {
+    "c": 52,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Desperta, Sião: o Senhor reina e consola",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Olhai para a rocha de onde fostes talhados, para Abraão vosso pai e Sara que vos deu à luz: Deus o chamou só e o multiplicou. O Senhor consolará Sião e fará do seu deserto um Éden. Os céus se dissiparão como fumo, mas a minha salvação durará para sempre. “Desperta, desperta, braço do Senhor!” Eu, eu sou quem vos consola; por que temes o homem mortal? “Desperta, Jerusalém”, que bebeste o cálice da ira: tirei-o da tua mão. “Reveste-te da tua força, Sião… sacode o pó.” “Que formosos são sobre os montes os pés do que anuncia a boa nova da paz, do que diz a Sião: Reina o teu Deus!” As sentinelas gritam de alegria. Saí, purificai-vos; o Senhor irá à vossa frente.",
+    "alegorico": "São Paulo aplica os “pés do mensageiro” aos pregadores do Evangelho (Rm 10,15). O cálice da ira tirado da mão de Jerusalém é o cálice que Cristo bebe no Getsêmani, para que nós não o bebamos.",
+    "moral": "Recordar as origens (Abraão e Sara) fortalece a esperança: Deus faz muito com pouco. Não temer o homem mortal. Todo cristão é mensageiro da paz e deve “sacudir o pó” do desânimo.",
+    "anagogico": "“Reina o teu Deus!” é o anúncio do Reino que vem e que, no fim, será visível a todos os confins da terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Olhai para a rocha de onde fostes cortados.” “Eu, eu sou o que vos consolo.” “Levanta-te, ó Sião, reveste-te da tua fortaleza.” “Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz… do que diz a Sião: Reina o teu Deus!”",
+    "meditatio_perguntas": [
+      "Recordo a “rocha” de onde fui talhado na fé?",
+      "Temo mais os homens do que confio em Deus?",
+      "Os meus pés levam a boa nova da paz?"
+    ],
+    "oratio_guia": "Senhor, que consolas o teu povo, desperta-me e reveste-me de força. Faze-me mensageiro da paz que anuncia: “Reina o teu Deus!”. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz",
+      "ref": "Is 52,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

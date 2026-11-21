@@ -1,0 +1,40 @@
+{
+  "id": "DAN.7.1",
+  "livro": "DAN",
+  "titulo": "As quatro feras e o Filho do homem",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 7,1-28",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O Filho do homem recebe o reino eterno",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Daniel vê em sonho quatro feras saindo do mar agitado: um leão com asas de águia, um urso, um leopardo de quatro cabeças e uma quarta fera terrível, com dentes de ferro e dez chifres, entre os quais surge um pequeno chifre arrogante. Então tronos são colocados e um Ancião de dias se senta, com vestes brancas como a neve; um rio de fogo sai diante dele; abrem-se os livros. A fera é morta. “Eis que vinha sobre as nuvens do céu um como Filho de homem; chegou até o Ancião… e foram-lhe dados o poder, a honra e o reino; todos os povos o servirão; o seu poder é eterno.” O anjo explica: as feras são reinos; o reino será dado aos santos do Altíssimo.",
+    "alegorico": "Jesus se apresenta como o “Filho do homem” e, diante do Sinédrio, cita este texto: “vereis o Filho do homem vindo sobre as nuvens do céu” (Mc 14,62). A liturgia o lê na solenidade de Cristo Rei.",
+    "moral": "Os impérios bestiais passam; o reino humano, verdadeiramente humano, vem de Deus. Os santos participam desse reino: a fidelidade nas perseguições não é em vão.",
+    "anagogico": "O juízo do Ancião e o reino eterno dado ao Filho do homem e aos santos é a consumação da história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi quatro grandes animais que saíam do mar.” “Um Ancião de dias se sentou; a sua veste era branca como a neve.” “Vi um que parecia um Filho de homem, que veio sobre as nuvens do céu.” “O seu império é um império eterno.”",
+    "meditatio_perguntas": [
+      "Que “feras” do mundo me assustam?",
+      "Reconheço Jesus como o Filho do homem que reina?",
+      "Vivo como cidadão do reino dos santos?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho do homem, a quem o Pai deu o poder, a honra e o reino, reina sobre mim. Quando as feras do mundo me assustarem, lembra-me que o teu reino não passará. Amém.",
+    "contemplatio_foco": {
+      "texto": "vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu",
+      "ref": "Dn 7,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

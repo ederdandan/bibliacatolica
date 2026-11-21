@@ -1,0 +1,40 @@
+{
+  "id": "ISA.52.13",
+  "livro": "ISA",
+  "titulo": "O Servo sofredor: pelas suas chagas fomos curados",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 52,13–53,12",
+  "ini": {
+    "c": 52,
+    "v": 13
+  },
+  "fim": {
+    "c": 53,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O Servo sofredor carrega os nossos pecados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quarto cântico do Servo: “Eis que o meu servo prosperará, será exaltado”; muitos se espantaram ao vê-lo tão desfigurado. Quem acreditou no que ouvimos? Cresceu como raiz em terra seca, sem beleza que atraísse; desprezado, homem das dores, experimentado no sofrimento. “Verdadeiramente ele tomou sobre si as nossas enfermidades.” “Foi ferido por causa das nossas iniquidades… e nós fomos curados pelas suas chagas.” Todos andávamos errantes como ovelhas; o Senhor fez cair sobre ele a iniquidade de todos. Como cordeiro levado ao matadouro, não abriu a boca. Ofereceu a vida em expiação; verá a descendência, justificará a muitos e intercedeu pelos pecadores.",
+    "alegorico": "É o texto do AT mais citado para a Paixão: Filipe o explica ao eunuco etíope como anúncio de Jesus (At 8,32-35); Pedro: “pelas suas chagas fostes curados” (1Pd 2,24). É lido na Sexta-feira Santa.",
+    "moral": "O sofrimento do Justo é vicário: ele carrega o que era nosso. Contemplar o Servo desfigurado nos faz reconhecer o peso dos nossos pecados e a grandeza do amor que salva. Também nos chama a unir os nossos sofrimentos aos dele.",
+    "anagogico": "“Verá a luz e ficará saciado”: depois da paixão, a glória; o Servo exaltado é Cristo ressuscitado, que justifica a muitos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desprezado, o último dos homens, homem das dores.” “Ele tomou sobre si as nossas enfermidades.” “Foi ferido por causa das nossas iniquidades… e nós fomos sarados com os seus ferimentos.” “Como cordeiro levado ao matadouro, não abriu a boca.”",
+    "meditatio_perguntas": [
+      "Reconheço que ele foi ferido pelos meus pecados?",
+      "Como uno os meus sofrimentos aos do Servo?",
+      "Deixo-me curar pelas suas chagas?"
+    ],
+    "oratio_guia": "Jesus, Servo sofredor, homem das dores, foste ferido pelas minhas iniquidades. Pelas tuas chagas, cura-me. Que eu nunca despreze o teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "nós fomos sarados com os seus ferimentos",
+      "ref": "Is 53,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

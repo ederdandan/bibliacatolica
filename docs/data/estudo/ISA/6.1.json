@@ -1,0 +1,40 @@
+{
+  "id": "ISA.6.1",
+  "livro": "ISA",
+  "titulo": "A vocação de Isaías: Santo, Santo, Santo",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 6,1-13",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A santidade de Deus e a vocação do profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano da morte do rei Ozias, Isaías vê o Senhor sentado num trono alto e elevado; a orla do seu manto enche o templo. Serafins de seis asas clamam: “Santo, Santo, Santo é o Senhor dos exércitos! Toda a terra está cheia da sua glória!” O templo treme e se enche de fumo. Isaías exclama: “Ai de mim, estou perdido, porque sou homem de lábios impuros… e os meus olhos viram o Rei”. Um serafim toca-lhe os lábios com uma brasa do altar: a tua culpa foi tirada. O Senhor pergunta: “Quem enviarei?” “Eis-me aqui, envia-me.” A missão será dura: o povo ouvirá e não entenderá, até a devastação; restará um toco, semente santa.",
+    "alegorico": "O “Santo, Santo, Santo” entrou no coração da Missa, unindo a Igreja ao louvor dos anjos. São João diz que Isaías viu a glória de Cristo (Jo 12,41). A brasa que purifica os lábios é figura da Eucaristia, segundo os Padres orientais.",
+    "moral": "O encontro com a santidade de Deus revela o nosso pecado, não para esmagar, mas para purificar e enviar. Toda vocação nasce desse encontro: purificado, o homem responde “eis-me aqui”.",
+    "anagogico": "O trisagio dos serafins é o cântico eterno do céu (Ap 4,8), ao qual a liturgia já nos associa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi o Senhor sentado sobre um trono alto e elevado.” “Santo, Santo, Santo, é o Senhor Deus dos exércitos! Toda a terra está cheia da sua glória!” “Ai de mim… sou homem de lábios impuros.” “Quem enviarei eu?” “Aqui me tens, envia-me.”",
+    "meditatio_perguntas": [
+      "Tenho consciência da santidade de Deus quando canto o “Santo” na Missa?",
+      "Deixo o Senhor purificar os meus lábios?",
+      "A que missão respondo hoje: “eis-me aqui”?"
+    ],
+    "oratio_guia": "Santo, Santo, Santo és tu, Senhor. Purifica os meus lábios impuros com a brasa do teu altar e envia-me. Eis-me aqui. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aqui me tens, envia-me",
+      "ref": "Is 6,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

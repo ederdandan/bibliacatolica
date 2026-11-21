@@ -1,0 +1,40 @@
+{
+  "id": "ISA.38.1",
+  "livro": "ISA",
+  "titulo": "A doença de Ezequias e o seu cântico",
+  "secao": "Ezequias e Isaías",
+  "referencia": "Is 38,1–39,8",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Da beira da morte ao louvor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias adoece mortalmente; Isaías lhe diz: põe em ordem a tua casa, porque morrerás. O rei vira o rosto para a parede, reza e chora amargamente. Deus responde: ouvi a tua oração, vi as tuas lágrimas; acrescentarei quinze anos; e dá o sinal da sombra que recua dez graus no relógio de Acaz. Ezequias compõe um cântico: no meio dos meus dias vou às portas da morada dos mortos; a minha vida foi enrolada como tenda de pastor; mas tu “livraste a minha alma da cova, lançaste para trás das tuas costas todos os meus pecados”. O vivo, o vivo é que te louva. No capítulo 39, Ezequias mostra os tesouros aos mensageiros da Babilônia; Isaías anuncia que tudo será levado.",
+    "alegorico": "O cântico de Ezequias é rezado na Liturgia das Horas (Laudes de terça-feira da semana II): a Igreja vê nele a passagem da morte à vida que Cristo realiza. Deus que lança os pecados para trás das costas é o Deus do perdão pascal.",
+    "moral": "A oração com lágrimas é ouvida. A doença pode ser lugar de conversão e louvor. Mas a cura não dispensa a vigilância: a vaidade de Ezequias diante dos babilônios mostra que é possível perder por orgulho o que se recebeu por graça.",
+    "anagogico": "“O vivo é que te louva”: a vida plena é louvor; a ressurreição devolverá a voz aos que desceram ao pó."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Põe em ordem a tua casa.” “Ezequias voltou o seu rosto para a parede e orou.” “Ouvi a tua oração e vi as tuas lágrimas.” “Tu livraste a minha alma da tumba da corrupção, lançaste para trás das tuas costas todos os meus pecados.”",
+    "meditatio_perguntas": [
+      "A minha casa interior está em ordem?",
+      "Rezo com lágrimas, com o rosto voltado para Deus?",
+      "Depois das graças recebidas, caio na vaidade?"
+    ],
+    "oratio_guia": "Senhor, que vês as minhas lágrimas e ouves a minha oração, livra a minha alma da cova e lança os meus pecados para trás das tuas costas. Que eu viva para te louvar. Amém.",
+    "contemplatio_foco": {
+      "texto": "lançaste para trás das tuas costas todos os meus pecados",
+      "ref": "Is 38,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "DAN.3.51",
+  "livro": "DAN",
+  "titulo": "O cântico dos três jovens: bendizei o Senhor",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 3,51-100",
+  "ini": {
+    "c": 3,
+    "v": 51
+  },
+  "fim": {
+    "c": 3,
+    "v": 100
+  },
+  "liturgia": {
+    "tema_central": "Toda a criação bendiz o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os três jovens, a uma só voz, louvam e bendizem a Deus na fornalha: “Bendito sejas, Senhor, Deus de nossos pais, digno de louvor e glorificado para sempre”. Depois convocam toda a criação: “Obras do Senhor, bendizei todas o Senhor”: anjos, céus, águas, sol e lua, estrelas, chuva e orvalho, ventos, fogo e calor, frio e geada, noites e dias, luz e trevas, relâmpagos e nuvens, montes, fontes, mares, peixes, aves, animais, filhos dos homens, Israel, sacerdotes, servos, espíritos e almas dos justos, santos e humildes de coração; Ananias, Azarias e Misael. Nabucodonosor, espantado, vê quatro homens soltos no fogo, o quarto semelhante a um filho dos deuses; manda-os sair e bendiz o seu Deus.",
+    "alegorico": "O Benedicite é cantado nas Laudes de domingo e das festas: a Igreja, unida a Cristo ressuscitado, convida toda a criação ao louvor. O “quarto homem” no fogo foi lido pelos Padres como o Filho de Deus que acompanha os seus.",
+    "moral": "O louvor é a resposta mais alta à provação: no fogo, os jovens não se lamentam, cantam. Toda a criação tem voz para louvar; o homem é o seu sacerdote. Os “humildes de coração” são chamados por último, mas não esquecidos.",
+    "anagogico": "O cântico cósmico antecipa a liturgia celeste, onde toda criatura no céu, na terra e no mar louva o Cordeiro (Ap 5,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bendito és, Senhor, Deus de nossos pais.” “Obras do Senhor, bendizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.” “Santos e humildes de coração, bendizei o Senhor.” “Vejo quatro homens soltos passeando no meio do fogo.”",
+    "meditatio_perguntas": [
+      "Sei louvar a Deus no meio da prova?",
+      "Dou voz ao louvor da criação ao contemplá-la?",
+      "Reconheço Cristo, o “quarto homem”, no meu fogo?"
+    ],
+    "oratio_guia": "Obras do Senhor, bendizei o Senhor! Eu também, com o sol e a lua, com as águas e as aves, com os santos e humildes de coração, te bendigo, Senhor, por todos os séculos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Obras do Senhor, bem-dizei todas o Senhor",
+      "ref": "Dn 3,57"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

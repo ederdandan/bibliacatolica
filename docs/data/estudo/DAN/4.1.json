@@ -1,0 +1,40 @@
+{
+  "id": "DAN.4.1",
+  "livro": "DAN",
+  "titulo": "A loucura e a conversão de Nabucodonosor",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 4,1-34",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A soberba humilhada e o louvor do Rei do céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nabucodonosor conta, em forma de proclamação, outro sonho: uma árvore imensa que alcança o céu e alimenta todos os seres; um vigilante desce e manda cortá-la, deixando o toco, até que passem sete tempos. Daniel interpreta: a árvore és tu, ó rei; serás afastado dos homens até reconheceres que o Altíssimo domina sobre os reinos. Aconselha: “Resgata os teus pecados com boas obras e as tuas iniquidades com misericórdia para com os pobres”. Um ano depois, o rei se gaba: “Não é esta a grande Babilônia que eu construí?” Perde a razão, vive como animal. Ao fim, ergue os olhos ao céu, recupera o juízo e louva o Rei do céu, que pode humilhar os soberbos.",
+    "alegorico": "A árvore cortada que deixa o toco anuncia o rebento de Jessé; a soberba humilhada contrasta com Cristo, que se humilhou e foi exaltado (Fl 2,8-9).",
+    "moral": "O orgulho (“a Babilônia que eu construí”) desumaniza. A esmola e as obras de misericórdia “resgatam” os pecados, segundo a tradição bíblica (cf. Tb 12,9). Erguer os olhos ao céu é o começo da cura.",
+    "anagogico": "O domínio do Altíssimo sobre todos os reinos será manifesto no fim, quando todo poder humano reconhecer o Rei do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A árvore és tu, ó rei.” “Resgata os teus pecados com boas obras, e as tuas iniquidades pela misericórdia para com os pobres.” “Não é esta a grande Babilônia que eu edifiquei?” “Eu levantei os olhos ao céu, e restituiu-se-me o juízo.”",
+    "meditatio_perguntas": [
+      "Em que digo “a Babilônia que eu construí”?",
+      "Pratico a esmola como caminho de conversão?",
+      "Ergo os olhos ao céu quando perco o rumo?"
+    ],
+    "oratio_guia": "Rei do céu, cujas obras são verdade e cujos caminhos são justiça, humilha em mim toda soberba. Que eu resgate os meus pecados com a misericórdia aos pobres e erga os olhos a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "resgata os teus pecados com boas obras, as tuas iniquidades pela misericórdia para com os pobres",
+      "ref": "Dn 4,24"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,220 @@
+{
+ "livro": "DAN",
+ "secoes": [
+  "Daniel e os seus companheiros na corte",
+  "As visões de Daniel",
+  "Susana, Bel e o dragão"
+ ],
+ "pericopes": [
+  {
+   "id": "DAN.1.1",
+   "titulo": "Daniel e os três jovens fiéis à Lei",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 1,1-21",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 21
+   }
+  },
+  {
+   "id": "DAN.2.1",
+   "titulo": "O sonho da estátua e a pedra que se torna montanha",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 2,1-49",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 49
+   }
+  },
+  {
+   "id": "DAN.3.1",
+   "titulo": "A estátua de ouro e a fornalha ardente",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 3,1-23",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 23
+   }
+  },
+  {
+   "id": "DAN.3.24",
+   "titulo": "A oração de Azarias na fornalha",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 3,24-50",
+   "ini": {
+    "c": 3,
+    "v": 24
+   },
+   "fim": {
+    "c": 3,
+    "v": 50
+   }
+  },
+  {
+   "id": "DAN.3.51",
+   "titulo": "O cântico dos três jovens: bendizei o Senhor",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 3,51-100",
+   "ini": {
+    "c": 3,
+    "v": 51
+   },
+   "fim": {
+    "c": 3,
+    "v": 100
+   }
+  },
+  {
+   "id": "DAN.4.1",
+   "titulo": "A loucura e a conversão de Nabucodonosor",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 4,1-34",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 34
+   }
+  },
+  {
+   "id": "DAN.5.1",
+   "titulo": "O banquete de Baltasar: Mane, Técel, Fares",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 5,1-31",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 31
+   }
+  },
+  {
+   "id": "DAN.6.1",
+   "titulo": "Daniel na cova dos leões",
+   "secao": "Daniel e os seus companheiros na corte",
+   "referencia": "Dn 6,1-28",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 28
+   }
+  },
+  {
+   "id": "DAN.7.1",
+   "titulo": "As quatro feras e o Filho do homem",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 7,1-28",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 28
+   }
+  },
+  {
+   "id": "DAN.8.1",
+   "titulo": "O carneiro e o bode",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 8,1-27",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 27
+   }
+  },
+  {
+   "id": "DAN.9.1",
+   "titulo": "A oração de Daniel e as setenta semanas",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 9,1-27",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 27
+   }
+  },
+  {
+   "id": "DAN.10.1",
+   "titulo": "A visão final: os reis do norte e do sul",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 10,1–11,45",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 45
+   }
+  },
+  {
+   "id": "DAN.12.1",
+   "titulo": "Os que ensinam a justiça brilharão como estrelas",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 12,1-13",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 13
+   }
+  },
+  {
+   "id": "DAN.13.1",
+   "titulo": "Susana e o juízo de Daniel",
+   "secao": "Susana, Bel e o dragão",
+   "referencia": "Dn 13,1-65",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 65
+   }
+  },
+  {
+   "id": "DAN.14.1",
+   "titulo": "Bel e o dragão",
+   "secao": "Susana, Bel e o dragão",
+   "referencia": "Dn 14,1-42",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 42
+   }
+  }
+ ]
+}

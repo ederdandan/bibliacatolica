@@ -1,0 +1,40 @@
+{
+  "id": "ISA.59.1",
+  "livro": "ISA",
+  "titulo": "Os pecados separam de Deus; o Redentor virá a Sião",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 59,1-21",
+  "ini": {
+    "c": 59,
+    "v": 1
+  },
+  "fim": {
+    "c": 59,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O pecado separa de Deus; o Redentor vem a Sião",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A mão do Senhor não se encurtou para salvar, nem o seu ouvido se endureceu; foram as vossas iniquidades que puseram separação entre vós e o vosso Deus.” As mãos estão manchadas de sangue, os lábios dizem mentiras; ninguém clama pela justiça; tecem teias de aranha. Esperamos a luz e eis as trevas; tateamos a parede como cegos. O povo confessa: os nossos crimes se multiplicaram diante de ti; a verdade tropeçou na praça. O Senhor viu que não havia ninguém e espantou-se; o seu próprio braço o salvou: vestiu a justiça como couraça, o capacete da salvação. “Virá como Redentor a Sião, aos que se converterem do pecado.” O meu espírito e as minhas palavras não se afastarão da tua boca.",
+    "alegorico": "São Paulo cita: “De Sião virá o libertador” (Rm 11,26). O próprio Deus, vendo que não havia intercessor, intervém: é a Encarnação, em que Deus mesmo se faz salvador. A couraça da justiça e o capacete da salvação passam à armadura do cristão (Ef 6,14-17).",
+    "moral": "O problema não é que Deus não ouve, mas que o pecado constrói muros. A confissão humilde e sincera derruba a separação. “A verdade tropeçou na praça”: a mentira social é sinal da distância de Deus.",
+    "anagogico": "O Redentor que vem a Sião e a aliança do Espírito “de geração em geração” apontam para a plenitude da salvação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A mão do Senhor não se encurtou.” “Foram as vossas iniquidades que puseram uma separação entre vós e o vosso Deus.” “Esperamos a luz, e eis as trevas.” “Virá como redentor a Sião.”",
+    "meditatio_perguntas": [
+      "Que pecado tem posto separação entre mim e Deus?",
+      "Ajudo a verdade a não “tropeçar na praça”?",
+      "Espero o Redentor com coração convertido?"
+    ],
+    "oratio_guia": "Senhor, cuja mão não se encurtou, derruba o muro que os meus pecados ergueram. Vem como Redentor ao meu coração convertido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foram as vossas iniquidades que puseram uma separação entre vós e o vosso Deus",
+      "ref": "Is 59,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

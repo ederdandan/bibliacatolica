@@ -1,0 +1,49 @@
+{
+  "id": "ISA.11.1",
+  "livro": "ISA",
+  "titulo": "O rebento de Jessé e as fontes da salvação",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 11,1–12,6",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "O Messias cheio do Espírito e a paz da nova criação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Sairá uma vara do tronco de Jessé, e um rebento brotará da sua raiz. Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, de conselho e de fortaleza, de ciência e de piedade”, e o temor do Senhor o encherá. Julgará os pobres com justiça, ferirá o violento com a vara da sua boca. Então o lobo habitará com o cordeiro, o leopardo se deitará com o cabrito, uma criança os guiará; a terra estará cheia do conhecimento do Senhor. A raiz de Jessé será estandarte para os povos. No capítulo 12, o cântico dos salvos: “Tirareis com alegria águas das fontes da salvação”.",
+    "alegorico": "A tradição vê na “vara” (virga) Maria, a Virgem, e no rebento (flos) Cristo. A lista do Espírito, na Vulgata com sete nomes, deu origem à doutrina dos sete dons do Espírito Santo. As fontes da salvação são os sacramentos que brotam de Cristo.",
+    "moral": "O verdadeiro governante julga a favor dos pobres, com justiça e não pelas aparências. Os dons do Espírito, recebidos na Crisma, nos configuram ao Messias. A paz entre os inimigos começa no coração reconciliado.",
+    "anagogico": "O lobo e o cordeiro juntos, e a terra cheia do conhecimento de Deus, descrevem o paraíso restaurado da nova criação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sairá uma vara do tronco de Jessé.” “Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza.” “O lobo habitará com o cordeiro.” “Tirareis com gosto águas das fontes da salvação.”",
+    "meditatio_perguntas": [
+      "Qual dos dons do Espírito mais preciso pedir?",
+      "Que “lobo e cordeiro” dentro de mim precisam reconciliar-se?",
+      "Bebo com alegria das fontes da salvação?"
+    ],
+    "oratio_guia": "Espírito do Senhor, que repousaste sobre o Rebento de Jessé, repousa também sobre mim com os teus dons. Faze-me instrumento de paz e dá-me beber com alegria das fontes da salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento",
+      "ref": "Is 11,2"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico lista seis dons; a versão grega e a Vulgata acrescentam a “piedade”, chegando aos sete dons da tradição cristã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

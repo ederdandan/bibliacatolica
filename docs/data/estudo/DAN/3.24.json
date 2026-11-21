@@ -1,0 +1,49 @@
+{
+  "id": "DAN.3.24",
+  "livro": "DAN",
+  "titulo": "A oração de Azarias na fornalha",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 3,24-50",
+  "ini": {
+    "c": 3,
+    "v": 24
+  },
+  "fim": {
+    "c": 3,
+    "v": 50
+  },
+  "liturgia": {
+    "tema_central": "Um coração contrito como sacrifício",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No meio do fogo, os jovens caminham louvando a Deus. Azarias, de pé, reza: “Bendito sejas, Senhor, Deus de nossos pais”. Confessa: justos são os teus juízos, nós pecamos; não nos entregues para sempre, por amor do teu nome; não retires a tua misericórdia, por Abraão, teu amigo, Isaac e Israel. Agora somos o menor de todos os povos; não temos príncipe, profeta, holocausto nem lugar para oferecer as primícias. “Mas, com coração contrito e espírito humilhado, sejamos recebidos por ti, como se oferecêssemos holocaustos de carneiros e touros; seja assim o nosso sacrifício hoje diante de ti.” O anjo do Senhor desce à fornalha e faz soprar no meio dela um vento de orvalho; o fogo não os toca.",
+    "alegorico": "A Igreja reza a oração de Azarias no ofertório da Missa (“Com espírito humilde e coração contrito”): unimos a nossa oferta à de Cristo, sacrifício perfeito. O anjo que desce à fornalha é figura do Filho de Deus que entra no nosso sofrimento.",
+    "moral": "Mesmo sem templo e sem culto, é possível oferecer a Deus o sacrifício mais agradável: um coração contrito e humilde. A oração na prova começa pela confissão e termina na confiança.",
+    "anagogico": "O vento de orvalho no meio do fogo é imagem do refrigério eterno (refrigerium) que Deus dá aos que nele confiam."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bendito és, Senhor, Deus de nossos pais.” “Não nos entregues para sempre, por amor do teu nome.” “De coração contrito e espírito humilhado, sejamos recebidos por ti… porque jamais são confundidos aqueles que em ti confiam.”",
+    "meditatio_perguntas": [
+      "Ofereço a Deus o meu coração contrito?",
+      "Sei rezar e louvar no meio do fogo?",
+      "Uno a minha vida ao sacrifício da Missa?"
+    ],
+    "oratio_guia": "Senhor, Deus de nossos pais, recebe-me com o meu coração contrito e o meu espírito humilhado. Desce à minha fornalha com o teu orvalho. Jamais será confundido quem em ti confia. Amém.",
+    "contemplatio_foco": {
+      "texto": "de coração contrito e espírito humilhado, sejamos recebidos por ti",
+      "ref": "Dn 3,39"
+    }
+  },
+  "ancoras": {
+    "3:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 24-90 (oração de Azarias e cântico dos três jovens) são deuterocanônicos, conservados no grego e na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

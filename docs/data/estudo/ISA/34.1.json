@@ -1,0 +1,40 @@
+{
+  "id": "ISA.34.1",
+  "livro": "ISA",
+  "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+  "secao": "Ais e promessas",
+  "referencia": "Is 34,1–35,10",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "O deserto florescerá: Deus vem salvar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo 34 descreve o juízo das nações e de Edom: a terra se torna piche ardente, morada de animais selvagens. Em contraste, o capítulo 35: “O deserto e a terra árida se alegrarão, a solidão exultará e florescerá como o lírio”; verão a glória do Senhor. “Fortalecei as mãos fracas, firmai os joelhos vacilantes; dizei aos pusilânimes: Tomai ânimo, não temais: eis o vosso Deus… Ele mesmo virá e vos salvará.” Então os olhos dos cegos se abrirão, os ouvidos dos surdos, o coxo saltará como cervo, a língua do mudo cantará. Haverá uma estrada santa; os resgatados voltarão a Sião com alegria eterna; a dor e o gemido fugirão.",
+    "alegorico": "Jesus responde aos discípulos de João citando este texto: os cegos veem, os coxos andam (Mt 11,4-5). Ele é o Deus que “vem e nos salva”; a estrada santa é Cristo, Caminho, e a Igreja que caminha para a Jerusalém celeste.",
+    "moral": "Missão do cristão: fortalecer as mãos fracas e os joelhos vacilantes, dar ânimo aos que temem. Mesmo os nossos desertos podem florescer quando Deus vem.",
+    "anagogico": "Os resgatados que voltam a Sião com alegria eterna, sem dor nem gemido, são os santos na pátria celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O deserto e a terra árida se alegrarão.” “Fortalecei as mãos desfalecidas.” “Dizei aos pusilânimes: Tomai ânimo, não temais: Eis o vosso Deus… Deus mesmo virá, e vos salvará!” “Então se abrirão os olhos dos cegos.”",
+    "meditatio_perguntas": [
+      "Que deserto em mim espera florescer?",
+      "A quem posso dizer hoje: “Tomai ânimo, não temais”?",
+      "Creio que Deus mesmo vem salvar-me?"
+    ],
+    "oratio_guia": "Senhor, que vens salvar-nos, faze florescer o meu deserto. Fortalece as minhas mãos e os meus joelhos, e faze-me levar ânimo aos que temem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tomai ânimo, não temais",
+      "ref": "Is 35,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

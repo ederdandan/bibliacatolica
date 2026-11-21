@@ -1,0 +1,40 @@
+{
+  "id": "ISA.46.1",
+  "livro": "ISA",
+  "titulo": "Os ídolos são carregados; eu vos carrego",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 46,1–48,22",
+  "ini": {
+    "c": 46,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Os ídolos são carregados; Deus carrega o seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Bel e Nabo, deuses da Babilônia, caem: são carregados em animais cansados, como fardo. Mas Deus diz a Israel: vós que fostes carregados por mim desde o seio materno, “até à vossa velhice eu serei o mesmo; até aos cabelos brancos eu vos carregarei; eu vos fiz, eu vos levarei, eu vos salvarei”. A quem me comparareis? Eu anuncio o fim desde o princípio. No capítulo 47, Babilônia, a virgem delicada, desce ao pó: dizias “eu sou, e não há outra”. No capítulo 48, Deus repreende Israel obstinado, de nuca de ferro, mas o purificou no crisol da aflição: “Oh, se tivesses atendido aos meus mandamentos! A tua paz seria como um rio”. Saí de Babilônia!",
+    "alegorico": "O Deus que carrega o seu povo desde o seio até a velhice se revela em Cristo que carrega a cruz e, nela, os nossos pecados e fraquezas.",
+    "moral": "Os ídolos pesam: é preciso carregá-los. O Deus verdadeiro nos carrega. Esta é a diferença entre a religião que oprime e a fé que liberta. A obediência traz uma paz “como um rio”.",
+    "anagogico": "Deus que anuncia o fim desde o princípio conduz a história até a sua meta; o “saí de Babilônia” é o êxodo final para a pátria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bel foi quebrado.” “Eu mesmo vos trarei até à velhice, até vos virem as cãs; como vos criei, vos sustentarei.” “Oh! se tivesses atendido aos meus mandamentos! A tua paz seria como um rio.” “Saí de Babilônia!”",
+    "meditatio_perguntas": [
+      "Que ídolos carrego, que me pesam?",
+      "Deixo Deus carregar-me, também na velhice e na fraqueza?",
+      "De que “Babilônia” preciso sair?"
+    ],
+    "oratio_guia": "Senhor, que me carregas desde o seio da minha mãe até os cabelos brancos, carrega-me também hoje. Tira de mim os ídolos pesados e dá-me a tua paz como um rio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu mesmo vos trarei até á velhice, até vos virem as cãs",
+      "ref": "Is 46,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

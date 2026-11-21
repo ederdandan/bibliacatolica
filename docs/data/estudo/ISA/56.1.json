@@ -1,0 +1,49 @@
+{
+  "id": "ISA.56.1",
+  "livro": "ISA",
+  "titulo": "A minha casa será casa de oração para todos os povos",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 56,1–57,21",
+  "ini": {
+    "c": 56,
+    "v": 1
+  },
+  "fim": {
+    "c": 57,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Casa de oração para todos os povos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Guardai o direito, praticai a justiça, porque a minha salvação está perto. Feliz quem guarda o sábado. Não diga o estrangeiro: o Senhor me separará do seu povo; nem o eunuco: sou árvore seca. A eles darei, na minha casa, um nome melhor que filhos e filhas. Os estrangeiros que amam o nome do Senhor serão levados ao monte santo, “porque a minha casa será chamada casa de oração para todos os povos”. Os pastores de Israel, porém, são cães mudos, gulosos e cegos. O justo perece e ninguém se importa. No capítulo 57, a idolatria é denunciada; mas Deus, o Altíssimo, habita no alto e com o contrito e humilde de espírito: “Paz, paz ao que está longe e ao que está perto”.",
+    "alegorico": "Jesus cita “a minha casa será chamada casa de oração para todos os povos” ao purificar o templo (Mc 11,17). São Paulo retoma “paz aos que estavam longe e aos que estavam perto” (Ef 2,17): Cristo une judeus e gentios.",
+    "moral": "Na casa de Deus não há excluídos por origem ou condição: estrangeiro e eunuco têm lugar e nome. Deus habita com os humildes. Pastores mudos e gulosos traem a missão.",
+    "anagogico": "O monte santo onde todos os povos rezam é a Igreja universal e, em plenitude, a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Respeitai o direito, praticai a justiça.” “Dar-lhes-ei um nome melhor do que filhos e filhas.” “A minha casa será chamada casa de oração para todos os povos.” “Habito com o contrito e humilde de espírito.” “Paz, paz ao que está longe e ao que está perto.”",
+    "meditatio_perguntas": [
+      "Quem se sente “árvore seca” ou estrangeiro na minha comunidade?",
+      "A minha igreja é casa de oração para todos?",
+      "Sou humilde e contrito para que Deus habite comigo?"
+    ],
+    "oratio_guia": "Senhor, que habitas no alto e com o humilde de espírito, faze da tua Igreja casa de oração para todos os povos. Dá paz aos que estão longe e aos que estão perto. Amém.",
+    "contemplatio_foco": {
+      "texto": "a minha casa será chamada casa de oração para todos os povos",
+      "ref": "Is 56,7"
+    }
+  },
+  "ancoras": {
+    "56:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 56–66 supõem a comunidade que voltou do exílio e reconstrói Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

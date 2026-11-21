@@ -1,0 +1,49 @@
+{
+  "id": "LAM.1.1",
+  "livro": "LAM",
+  "titulo": "Como está solitária a cidade",
+  "secao": "As Lamentações de Jeremias",
+  "referencia": "Lm 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A dor da cidade abandonada que reconhece o seu pecado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Primeiro lamento, em forma alfabética: “Como está sentada solitária a cidade tão povoada! Tornou-se como viúva a senhora das nações”. Jerusalém chora de noite; nenhum dos seus amantes a consola; os amigos a traíram. Judá foi para o exílio; os caminhos de Sião estão de luto, porque ninguém vem às festas. Os seus inimigos prosperaram, porque o Senhor a afligiu pelos seus muitos pecados. A própria cidade toma a palavra: “Ó vós todos que passais pelo caminho, olhai e vede se há dor semelhante à minha dor”. Reconhece: o Senhor é justo, porque fui rebelde à sua palavra. Termina pedindo que Deus veja a sua aflição e trate os inimigos como a tratou.",
+    "alegorico": "A liturgia da Semana Santa (Ofício de Trevas) coloca “ó vós todos que passais” nos lábios de Cristo crucificado e de Maria, Mãe das Dores, junto à cruz.",
+    "moral": "O lamento é forma legítima de oração: dar nome à dor diante de Deus. A dor da cidade nasce do pecado, e o primeiro passo de cura é reconhecer “o Senhor é justo, fui rebelde”.",
+    "anagogico": "A cidade viúva e sem consolador espera o Consolador; a Jerusalém nova será esposa e não mais viúva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como está sentada solitária a cidade tão povoada!” “Chora amargamente de noite.” “Ó vós todos os que passais pelo caminho, atendei e vede se há dor semelhante à dor que me atormenta.” “O Senhor é justo, porque eu me revoltei.”",
+    "meditatio_perguntas": [
+      "Sei levar a Deus a minha dor em forma de oração?",
+      "Paro diante da dor dos outros, ou passo pelo caminho?",
+      "Reconheço a parte do meu pecado nas minhas ruínas?"
+    ],
+    "oratio_guia": "Senhor, olha para as minhas ruínas e para as do teu povo. Que eu não passe indiferente diante da cruz de Jesus e da dor de Maria. Tu és justo; tem piedade de nós. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó vós todos os que passais pelo caminho, atendei e vede se há dor semelhante à dor que me atormenta",
+      "ref": "Lm 1,12"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 1–4 são poemas acrósticos: cada estrofe começa com uma letra do alfabeto hebraico, cujo nome a tradução conserva (ALEF, BET…).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

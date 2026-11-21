@@ -1,0 +1,40 @@
+{
+  "id": "ISA.50.1",
+  "livro": "ISA",
+  "titulo": "Entreguei o meu dorso aos que me feriam",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 50,1-11",
+  "ini": {
+    "c": 50,
+    "v": 1
+  },
+  "fim": {
+    "c": 50,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O discípulo que ouve e oferece as costas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus pergunta: onde está o libelo de repúdio da vossa mãe? Fostes vendidos pelos vossos pecados; por que ninguém respondeu quando chamei? Terceiro cântico do Servo: “O Senhor Deus deu-me uma língua de discípulo, para que eu saiba sustentar com uma palavra o abatido; cada manhã desperta o meu ouvido para que eu ouça como discípulo”. Não resisti, não recuei. “Entreguei o meu dorso aos que me feriam, e a minha face aos que me arrancavam a barba; não desviei o rosto das injúrias e dos escarros.” O Senhor me ajuda; por isso endureci o meu rosto como pedra. Quem me condenará? Quem anda nas trevas confie no nome do Senhor.",
+    "alegorico": "Este cântico é lido no Domingo de Ramos e na Semana Santa: descreve Jesus ferido, esbofeteado e cuspido na Paixão (Mt 26,67; 27,30), que “endureceu o rosto” para subir a Jerusalém (Lc 9,51).",
+    "moral": "Antes de falar, o discípulo escuta “cada manhã”. A palavra que consola nasce da escuta. A fidelidade a Deus pode exigir suportar humilhações sem revidar, confiando que Deus é quem justifica.",
+    "anagogico": "“Quem me condenará?” prepara o grito de Paulo: “Quem nos separará do amor de Cristo?” (Rm 8,33-35); o justo vindicado por Deus será glorificado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor Deus deu-me uma língua de discípulo, para que eu saiba sustentar com uma palavra o que está abatido.” “Cada manhã desperta o meu ouvido.” “Entreguei o meu dorso aos que me feriam.” “O Senhor Deus é o meu auxílio.”",
+    "meditatio_perguntas": [
+      "Escuto a Deus cada manhã antes de falar aos outros?",
+      "As minhas palavras sustentam os abatidos?",
+      "Como suporto as injustiças sofridas por causa do bem?"
+    ],
+    "oratio_guia": "Senhor, desperta cada manhã o meu ouvido e dá-me uma língua de discípulo. Que eu siga Jesus, que ofereceu as costas aos que o feriam, confiando que tu és o meu auxílio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Entreguei o meu dorso aos que me feriam",
+      "ref": "Is 50,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ISA.44.1",
+  "livro": "ISA",
+  "titulo": "Derramarei o meu espírito; a loucura dos ídolos",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 44,1-28",
+  "ini": {
+    "c": 44,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O Espírito derramado e a loucura dos ídolos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ouve, Jacó, meu servo, Jesurun, a quem escolhi: “Derramarei águas sobre a terra sedenta, derramarei o meu espírito sobre a tua descendência”; brotarão como salgueiros junto às águas; um dirá “sou do Senhor”, outro escreverá na mão “do Senhor”. Eu sou o primeiro e o último; fora de mim não há Deus. Segue uma sátira dos ídolos: o ferreiro trabalha com fome; o carpinteiro corta um cedro, com metade faz fogo para cozinhar e aquecer-se, com a outra faz um deus e se prostra: “Salva-me, tu és o meu deus”. Não percebe a mentira na sua mão. Deus apagou os pecados como nuvem: volta a mim, porque te resgatei. Ciro será o meu pastor e reedificará Jerusalém.",
+    "alegorico": "A água e o Espírito derramados sobre a descendência anunciam o batismo “da água e do Espírito” (Jo 3,5) e Pentecostes. Os que dizem “sou do Senhor” são os cristãos marcados com o selo de Cristo.",
+    "moral": "A idolatria é absurda: tratar como deus aquilo que nós mesmos fizemos. Hoje os ídolos são o dinheiro, a imagem, a técnica. Pertencer ao Senhor é escolha que se escreve “na mão”, nas obras.",
+    "anagogico": "Deus primeiro e último, Alfa e Ômega (Ap 1,8), é o princípio e o fim de toda a história."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Derramarei águas sobre a terra sequiosa… derramarei o meu espírito sobre a tua posteridade.” “Este dirá: Eu sou do Senhor.” “Com metade faz fogo… e da outra faz um deus.” “Apaguei como uma nuvem as tuas iniquidades.”",
+    "meditatio_perguntas": [
+      "Posso dizer com sinceridade: “Eu sou do Senhor”?",
+      "Que ídolos fabriquei com as minhas próprias mãos?",
+      "Deixo o Espírito regar a minha terra seca?"
+    ],
+    "oratio_guia": "Senhor, primeiro e último, derrama sobre mim o teu Espírito como água sobre a terra seca. Que eu seja todo teu e me livre dos ídolos que fabrico. Amém.",
+    "contemplatio_foco": {
+      "texto": "derramarei o meu espírito sobre a tua posteridade",
+      "ref": "Is 44,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ISA.36.1",
+  "livro": "ISA",
+  "titulo": "Senaquerib cerca Jerusalém: a oração de Ezequias",
+  "secao": "Ezequias e Isaías",
+  "referencia": "Is 36,1–37,38",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "A oração confiante diante da ameaça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano catorze de Ezequias, Senaquerib, rei da Assíria, invade Judá; o seu copeiro-mor zomba diante dos muros de Jerusalém: em quem confias? No Egito, cana quebrada? No Senhor? Nenhum deus das nações salvou a sua terra. Ezequias rasga as vestes, entra na casa do Senhor e manda pedir a Isaías que interceda. Isaías responde: não temas. Senaquerib envia uma carta ameaçadora; Ezequias a estende diante do Senhor e reza: “Senhor dos exércitos, Deus de Israel, que estás sentado sobre os querubins, só tu és o Deus de todos os reinos da terra”. Deus responde pela boca de Isaías; naquela noite o anjo do Senhor fere o acampamento assírio; Senaquerib volta a Nínive e é morto.",
+    "alegorico": "A vitória de Deus sobre o poderoso que zomba prefigura a vitória de Cristo sobre o príncipe deste mundo, quando parecia que a cidade estava perdida.",
+    "moral": "Ezequias ensina a levar as ameaças a Deus: abrir a carta diante dele. A zombaria contra a fé não deve intimidar; o crente responde com oração, não com desespero.",
+    "anagogico": "Deus defende a sua cidade “por amor de si e de Davi”: a Igreja, cidade de Deus, prevalecerá contra os poderes do inferno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Em quem pões a tua confiança?” “Ezequias rasgou os seus vestidos e entrou na casa do Senhor.” “Estendeu a carta diante do Senhor.” “Só tu és o Deus de todos os reinos da terra.”",
+    "meditatio_perguntas": [
+      "Que “carta ameaçadora” preciso estender diante do Senhor?",
+      "Deixo-me intimidar por quem zomba da minha fé?",
+      "Busco intercessão quando estou em perigo?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, só tu és Deus. Diante de ti estendo as minhas ameaças e medos. Defende-me como defendeste Jerusalém. Amém.",
+    "contemplatio_foco": {
+      "texto": "só tu és o Deus de todos os reinos da terra",
+      "ref": "Is 37,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

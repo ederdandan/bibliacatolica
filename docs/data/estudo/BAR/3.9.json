@@ -1,0 +1,49 @@
+{
+  "id": "BAR.3.9",
+  "livro": "BAR",
+  "titulo": "Ouve, Israel: a sabedoria é o livro dos mandamentos",
+  "secao": "Elogio da Sabedoria",
+  "referencia": "Br 3,9–4,4",
+  "ini": {
+    "c": 3,
+    "v": 9
+  },
+  "fim": {
+    "c": 4,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria apareceu na terra e conviveu com os homens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ouve, Israel, os mandamentos da vida; presta atenção para aprender a prudência.” Por que envelheces em terra estrangeira? Porque abandonaste a fonte da sabedoria. Aprende onde está a prudência, a força, a inteligência, a vida e a paz. Os príncipes das nações, os ricos, os sábios de Canaã e de Temã não encontraram o caminho da sabedoria; os gigantes antigos pereceram. Quem subiu ao céu para a buscar? Só Aquele que tudo sabe a conhece; ele criou a terra, chama as estrelas e elas respondem com alegria. Deu a sabedoria a Jacó, seu servo, e a Israel, seu amado. “Depois disso, foi vista sobre a terra e conversou com os homens.” Ela é o livro dos mandamentos de Deus.",
+    "alegorico": "Os Padres leram 3,38 como profecia da Encarnação: a Sabedoria de Deus, o Verbo, “foi vista sobre a terra e conviveu com os homens” (Jo 1,14). O texto é lido na Vigília Pascal.",
+    "moral": "O afastamento da fonte da sabedoria nos faz “envelhecer em terra estrangeira”. Riqueza e poder não encontram o caminho; a sabedoria é dom que se recebe na Palavra e nos mandamentos.",
+    "anagogico": "As estrelas que respondem com alegria “Eis-nos aqui!” prefiguram o louvor de toda a criação na glória; a vida e a paz prometidas são a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouve, Israel, os mandamentos da vida.” “Abandonaste a fonte da sabedoria.” “As estrelas… chamou-as, e elas disseram: Eis-nos aqui.” “Depois de tais coisas, foi vista sobre a terra, e conversou com os homens.”",
+    "meditatio_perguntas": [
+      "Abandonei, de algum modo, a fonte da sabedoria?",
+      "Busco a sabedoria onde os poderosos a buscam?",
+      "Como acolho a Sabedoria que conviveu com os homens?"
+    ],
+    "oratio_guia": "Sabedoria de Deus, que foste vista sobre a terra e conviveste com os homens, ensina-me os mandamentos da vida. Que eu volte à fonte e não envelheça longe de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Depois de tais coisas, foi visto sobre a terra, e conversou com os homens",
+      "ref": "Br 3,38"
+    }
+  },
+  "ancoras": {
+    "3:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Padres (Hipólito, Ireneu, Cipriano) citaram este versículo como profecia da Encarnação do Verbo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "DAN.1.1",
+  "livro": "DAN",
+  "titulo": "Daniel e os três jovens fiéis à Lei",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 1,1-21",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Fidelidade a Deus num ambiente hostil",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nabucodonosor sitia Jerusalém e leva para a Babilônia jovens nobres de Israel, para serem educados na língua e na ciência dos caldeus e servirem no palácio. Entre eles Daniel, Ananias, Misael e Azarias, que recebem nomes babilônicos. “Daniel resolveu no seu coração não se contaminar com as iguarias da mesa do rei”; pede ao chefe dos eunucos que lhes dê só legumes e água por dez dias. Ao fim, estão mais sadios que os outros. Deus lhes concede ciência e sabedoria, e a Daniel o dom de interpretar visões e sonhos. O rei os acha dez vezes superiores a todos os magos do reino.",
+    "alegorico": "Daniel e os companheiros, fiéis no exílio, prefiguram os cristãos que vivem “no mundo sem ser do mundo” (Jo 17,15-16), alimentados não pela mesa do rei, mas pelo Pão do céu.",
+    "moral": "É possível estudar, trabalhar e servir numa cultura alheia à fé sem perder a identidade. A fidelidade começa por decisões pequenas e firmes (“resolveu no seu coração”), propostas com respeito e prudência.",
+    "anagogico": "A sabedoria dada por Deus aos fiéis anuncia a sabedoria plena dos santos, que verão a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Daniel resolveu no seu coração não se contaminar com as iguarias que lhe viessem da mesa do rei.” “Experimenta os teus servos durante dez dias.” “Deus deu a estes jovens ciência e instrução.”",
+    "meditatio_perguntas": [
+      "Em que preciso “resolver no coração” não me contaminar?",
+      "Sei propor a minha fé com respeito num ambiente hostil?",
+      "Reconheço que a sabedoria é dom de Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me a firmeza de Daniel. Que eu viva no meio do mundo sem perder a minha fidelidade a ti, e receba de ti a sabedoria para servir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Daniel resolveu no seu coração não se contaminar",
+      "ref": "Dn 1,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

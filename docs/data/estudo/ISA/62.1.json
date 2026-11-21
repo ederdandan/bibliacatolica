@@ -1,0 +1,40 @@
+{
+  "id": "ISA.62.1",
+  "livro": "ISA",
+  "titulo": "Por amor de Sião não me calarei",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 62,1-12",
+  "ini": {
+    "c": 62,
+    "v": 1
+  },
+  "fim": {
+    "c": 62,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Sião, alegria do seu Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Por amor de Sião não me calarei, por amor de Jerusalém não descansarei, até que a sua justiça brilhe como a aurora.” As nações verão a tua justiça; receberás um nome novo, dado pela boca do Senhor. Serás coroa de glória na mão do Senhor. Não te chamarão mais “Abandonada”, mas “Minha delícia”, e a tua terra “Desposada”. “Como o jovem desposa a donzela… e como a esposa é a alegria do esposo, assim tu serás a alegria do teu Deus.” Sobre os teus muros pus sentinelas que não se calam: não deis descanso a Deus. Preparai o caminho, levantai o estandarte: eis que vem o teu Salvador. Chamar-te-ão “Povo santo, Resgatados do Senhor”.",
+    "alegorico": "O amor esponsal de Deus por Sião se cumpre nas núpcias de Cristo com a Igreja; o nome novo é dado no batismo (Ap 2,17). As sentinelas que não se calam são os que intercedem sem cessar.",
+    "moral": "Deus não se cala por amor ao seu povo; também nós somos chamados a interceder sem descanso. Ninguém é “abandonado”: Deus muda o nome de cada um para “minha delícia”.",
+    "anagogico": "“Eis que vem o teu Salvador”: a vinda final do Esposo e as núpcias eternas com o povo resgatado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por amor de Sião eu não me calarei.” “Não te chamarão mais Abandonada.” “Assim como a esposa é a alegria do esposo, assim tu serás a alegria do teu Deus.” “Vós que vos lembrais do Senhor, não guardeis silêncio.”",
+    "meditatio_perguntas": [
+      "Sei que sou a alegria de Deus?",
+      "Intercedo sem descanso pela Igreja?",
+      "Que nome novo Deus quer me dar?"
+    ],
+    "oratio_guia": "Senhor, que não te calas por amor ao teu povo, muda o meu nome de “abandonado” para “minha delícia”. Faze-me sentinela que intercede sem descanso. Amém.",
+    "contemplatio_foco": {
+      "texto": "assim tu serás a alegria do teu Deus",
+      "ref": "Is 62,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

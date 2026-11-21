@@ -1,0 +1,40 @@
+{
+  "id": "ISA.54.1",
+  "livro": "ISA",
+  "titulo": "Alegra-te, estéril: a aliança de paz",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 54,1-17",
+  "ini": {
+    "c": 54,
+    "v": 1
+  },
+  "fim": {
+    "c": 54,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O amor eterno do Esposo e a aliança de paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Alegra-te, estéril, que não davas à luz”: os filhos da abandonada serão mais numerosos que os da casada. Alarga o espaço da tua tenda. Não temas: esquecerás a vergonha da juventude, “porque o teu Criador é o teu esposo; Senhor dos exércitos é o seu nome; o teu Redentor é o Santo de Israel”. Por um breve instante te abandonei, mas com grande compaixão te recolherei. Como nos dias de Noé, juro não me irar mais. “Ainda que os montes sejam abalados, o meu amor não se apartará de ti, a minha aliança de paz não será mudada.” Jerusalém será construída com pedras preciosas; os teus filhos serão discípulos do Senhor; nenhuma arma forjada contra ti prosperará.",
+    "alegorico": "São Paulo aplica “Alegra-te, estéril” à Igreja, mãe fecunda pela graça (Gl 4,27). Jesus cita “todos serão ensinados por Deus” (Jo 6,45). A Jerusalém de pedras preciosas é a cidade do Apocalipse.",
+    "moral": "O abandono que sentimos é “breve instante”; a misericórdia é “eterna”. A esterilidade (física ou espiritual) não é a última palavra. Alargar a tenda é abrir o coração e a comunidade.",
+    "anagogico": "A aliança de paz que nem os montes abalam é a comunhão eterna com Deus, na cidade de pedras preciosas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Alegra-te, estéril.” “Alarga o espaço da tua tenda.” “O teu Criador é o teu esposo.” “Por um breve instante te abandonei, mas com grande compaixão te recolherei.” “Ainda que os montes sejam abalados… o meu amor não se apartará de ti.”",
+    "meditatio_perguntas": [
+      "Que “esterilidade” na minha vida espera a fecundidade de Deus?",
+      "Alargo a tenda do meu coração?",
+      "Creio que o amor de Deus é mais firme que os montes?"
+    ],
+    "oratio_guia": "Senhor, meu Esposo e Redentor, ainda que os montes se abalem, o teu amor não se aparta de mim. Alarga a minha tenda e torna fecunda a minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "o meu amor não se apartará de ti, a minha aliança de paz não se mudará",
+      "ref": "Is 54,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

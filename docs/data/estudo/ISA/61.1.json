@@ -1,0 +1,40 @@
+{
+  "id": "ISA.61.1",
+  "livro": "ISA",
+  "titulo": "O espírito do Senhor repousa sobre mim",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 61,1-11",
+  "ini": {
+    "c": 61,
+    "v": 1
+  },
+  "fim": {
+    "c": 61,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Ungido para anunciar a boa nova aos pobres",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O espírito do Senhor repousa sobre mim, porque o Senhor me ungiu; enviou-me a levar a boa nova aos infelizes, a curar os de coração despedaçado, a anunciar a redenção aos cativos e a liberdade aos encarcerados, a proclamar um ano de graça do Senhor” e consolar os aflitos: dar-lhes coroa em vez de cinza, óleo de alegria em vez de luto, manto de louvor em vez de espírito abatido. Eles reconstruirão as ruínas antigas; serão chamados sacerdotes do Senhor. Deus fará com eles uma aliança eterna. “Exulto de alegria no Senhor”: ele me revestiu com as vestes da salvação, como esposo que se adorna e esposa com as suas joias.",
+    "alegorico": "Jesus lê este texto na sinagoga de Nazaré e declara: “Hoje se cumpriu esta Escritura” (Lc 4,16-21). Ele é o Ungido (Cristo) do Espírito. O “povo sacerdotal” é a Igreja (1Pd 2,9).",
+    "moral": "A missão cristã tem um destinatário preferencial: os pobres, os de coração partido, os cativos. Ser ungido (batismo, crisma) é ser enviado. Deus troca cinza por coroa e luto por alegria.",
+    "anagogico": "O “ano de graça” proclamado por Cristo culmina no jubileu eterno, quando toda dívida será perdoada e toda lágrima enxugada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O espírito do Senhor repousa sobre mim, porque o Senhor me ungiu.” “Enviou-me a levar a boa nova aos infelizes, a curar os de coração despedaçado.” “Uma coroa em vez de cinza, óleo de alegria em vez de luto.” “Exulto de alegria no Senhor.”",
+    "meditatio_perguntas": [
+      "Vivo a unção do meu batismo como envio?",
+      "Quem são os de coração despedaçado a quem posso levar a boa nova?",
+      "Que “cinza” em mim Deus quer trocar por coroa?"
+    ],
+    "oratio_guia": "Jesus, Ungido do Espírito, envia-me também a levar a boa nova aos pobres e a curar os corações despedaçados. Troca a minha cinza por coroa e reveste-me de salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "O espírito do Senhor repousa sobre mim, porque o Senhor me ungiu",
+      "ref": "Is 61,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

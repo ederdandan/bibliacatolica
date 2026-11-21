@@ -1,0 +1,49 @@
+{
+  "id": "ISA.32.1",
+  "livro": "ISA",
+  "titulo": "A paz será obra da justiça",
+  "secao": "Ais e promessas",
+  "referencia": "Is 32,1–33,24",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O rei justo e a paz, obra da justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um rei reinará com justiça e os príncipes governarão com equidade; cada um será como abrigo contra o vento, como rio em terra seca. Os olhos dos que veem não se fecharão; o insensato não será mais chamado nobre. As mulheres despreocupadas são chamadas a lamentar, porque a cidade será abandonada, “até que se derrame sobre nós o espírito do alto”: então o deserto será vergel, e a justiça habitará no campo. “A paz será obra da justiça, e o fruto da justiça será o sossego e a segurança para sempre.” No capítulo 33, contra o devastador: quem habitará com o fogo devorador? O que anda na justiça. “Os teus olhos verão o rei na sua formosura.”",
+    "alegorico": "O rei justo é Cristo, abrigo contra o vento e rio no deserto. O espírito derramado do alto é o Espírito Santo de Pentecostes que transforma o deserto em jardim.",
+    "moral": "Não há paz verdadeira sem justiça; o lema “Opus iustitiae pax” resume o ensinamento social da Igreja. Quem anda na justiça, rejeita o suborno e fecha os ouvidos ao sangue, habita com Deus.",
+    "anagogico": "“Os teus olhos verão o rei na sua formosura”: a visão de Cristo glorioso é a bem-aventurança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que um rei reinará com justiça.” “Cada um será como um abrigo contra o vento.” “Até que se derrame sobre nós o espírito do alto.” “A paz será a obra da justiça.” “Os teus olhos verão o rei na sua formosura.”",
+    "meditatio_perguntas": [
+      "Sou abrigo para alguém contra o vento?",
+      "Que injustiça impede a paz na minha casa ou trabalho?",
+      "Desejo ver o Rei na sua formosura?"
+    ],
+    "oratio_guia": "Senhor, derrama sobre nós o teu Espírito do alto. Faze-me justo, para que a paz seja fruto da minha vida, e mostra-me um dia o Rei na sua formosura. Amém.",
+    "contemplatio_foco": {
+      "texto": "A paz será a obra da justiça",
+      "ref": "Is 32,17"
+    }
+  },
+  "ancoras": {
+    "32:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Opus iustitiae pax” foi o lema do Papa Pio XII.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

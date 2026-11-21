@@ -1,0 +1,49 @@
+{
+  "id": "ISA.21.1",
+  "livro": "ISA",
+  "titulo": "O vale da Visão, a chave de Davi e Tiro",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 21,1–23,18",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Vigiar a noite; a chave de Davi entregue ao servo fiel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta, como sentinela, vê a queda de Babilônia: “Caiu, caiu Babilônia!” Perguntam-lhe: “Sentinela, que há da noite?” — “Vem a manhã, e também a noite.” Oráculo sobre o vale da Visão, Jerusalém: enquanto o inimigo ameaça, o povo festeja: “Comamos e bebamos, que amanhã morreremos”; reforçam os muros, mas não olham para Aquele que fez tudo. Sobna, mordomo orgulhoso que talha para si um sepulcro, será deposto; Eliacim o substituirá: “Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e ninguém fechará”. Por fim, Tiro, cidade do comércio, será humilhada e, depois de setenta anos, os seus lucros serão consagrados ao Senhor.",
+    "alegorico": "A chave de Davi é aplicada a Cristo (Ap 3,7), “que abre e ninguém fecha”, e serve de fundo ao poder das chaves dado a Pedro (Mt 16,19): o mordomo do Reino, servo fiel na casa do Rei.",
+    "moral": "A vigilância espiritual é necessária: a noite da prova vem e passa. O hedonismo desesperado (“comamos e bebamos”) e a confiança nas fortificações humanas são recusa de olhar para Deus. A autoridade é serviço; quem a usa para si é deposto.",
+    "anagogico": "A sentinela que pergunta “que há da noite?” é a Igreja que aguarda a manhã eterna, quando não haverá mais noite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sentinela, que há da noite?” “Vem a manhã, e também a noite.” “Comamos e bebamos, porque amanhã morreremos.” “Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e não haverá quem feche.”",
+    "meditatio_perguntas": [
+      "Vigio na noite, esperando a manhã de Deus?",
+      "Vivo como quem diz “comamos e bebamos, amanhã morreremos”?",
+      "Uso as “chaves” que tenho para servir ou para me servir?"
+    ],
+    "oratio_guia": "Senhor, chave de Davi, que abres e ninguém fecha, abre a prisão do meu coração. Faze-me sentinela vigilante e servo fiel na tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porei a chave da casa de Davide sobre os seus ombros",
+      "ref": "Is 22,22"
+    }
+  },
+  "ancoras": {
+    "22:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo inspira a antífona do Advento “Ó Chave de Davi” (20 de dezembro).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

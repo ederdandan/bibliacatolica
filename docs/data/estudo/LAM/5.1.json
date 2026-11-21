@@ -1,0 +1,40 @@
+{
+  "id": "LAM.5.1",
+  "livro": "LAM",
+  "titulo": "Converte-nos a ti, Senhor",
+  "secao": "As Lamentações de Jeremias",
+  "referencia": "Lm 5,1-22",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Converte-nos, Senhor, e seremos convertidos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A última lamentação é uma oração comunitária: “Lembra-te, Senhor, do que nos aconteceu; olha e vê o nosso opróbrio”. A herança passou a estrangeiros; somos órfãos, as mães como viúvas; bebemos a nossa água a preço de dinheiro. Os pais pecaram e já não existem; nós carregamos as suas iniquidades. Escravos dominam sobre nós; as mulheres são violadas; os jovens carregam a mó. Cessou a alegria do coração, a dança tornou-se luto; caiu a coroa da nossa cabeça: ai de nós, porque pecamos! Mas tu, Senhor, permaneces para sempre. Por que nos esquecerias? “Converte-nos, Senhor, a ti, e nós nos converteremos; renova os nossos dias como antigamente.”",
+    "alegorico": "O “converte-nos” reconhece que a conversão é graça antes de ser esforço: Cristo é quem nos atrai ao Pai (Jo 6,44). A liturgia usa este versículo no Ofício de Trevas e na Quaresma.",
+    "moral": "A oração comunitária assume o pecado coletivo e o sofrimento de todos. Por nós mesmos não conseguimos voltar: é preciso pedir que Deus nos converta. A permanência de Deus é a âncora quando tudo cai.",
+    "anagogico": "“Renova os nossos dias como antigamente”: o desejo de restauração aponta para a renovação de todas as coisas em Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lembra-te, Senhor, do que nos aconteceu.” “Caiu a coroa da nossa cabeça: ai de nós, porque pecamos!” “Mas tu, Senhor, permanecerás eternamente.” “Converte-nos, Senhor, a ti, e nós nos converteremos.”",
+    "meditatio_perguntas": [
+      "Peço a Deus a graça da conversão, ou confio só no meu esforço?",
+      "Assumo diante de Deus o pecado da minha comunidade?",
+      "Onde preciso que Deus “renove os meus dias”?"
+    ],
+    "oratio_guia": "Senhor, que permaneces para sempre, lembra-te de nós. Converte-nos a ti, e seremos convertidos; renova os nossos dias. Amém.",
+    "contemplatio_foco": {
+      "texto": "Converte-nos, Senhor, a ti, e nós nos converteremos",
+      "ref": "Lm 5,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

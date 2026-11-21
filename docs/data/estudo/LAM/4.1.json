@@ -1,0 +1,40 @@
+{
+  "id": "LAM.4.1",
+  "livro": "LAM",
+  "titulo": "Como se escureceu o ouro",
+  "secao": "As Lamentações de Jeremias",
+  "referencia": "Lm 4,1-22",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A glória perdida e a culpa dos guias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Como se escureceu o ouro, como perdeu o brilho o ouro fino!” Os filhos de Sião, preciosos como ouro, são tratados como vasos de barro. As mães, mais cruéis que os chacais, não amamentam; a língua da criança gruda no paladar de sede. Os que comiam iguarias morrem nas ruas. Os nazireus, mais brancos que a neve, estão irreconhecíveis. A culpa é dos pecados dos profetas e das iniquidades dos sacerdotes, que derramaram sangue justo. O ungido do Senhor, sopro das nossas narinas, foi apanhado. Por fim, uma palavra de esperança: o castigo de Sião terminou; não será mais levada ao exílio; Edom será castigado.",
+    "alegorico": "“O ungido do Senhor, sopro das nossas narinas” (Vulgata: Christus Dominus) foi aplicado pelos Padres a Cristo capturado na Paixão, em cuja sombra vivemos entre as nações.",
+    "moral": "Quando os guias espirituais traem a missão, todo o povo perde o brilho. Mas a dignidade dos filhos de Deus permanece: são ouro, mesmo quando tratados como barro.",
+    "anagogico": "“Terminou o teu castigo”: a esperança de que a purificação tem fim e se abre à restauração definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como se escureceu o ouro, como perdeu o seu brilho o ouro fino?” “Os pequeninos pediram pão, e não havia quem lho partisse.” “Por causa dos pecados dos seus profetas e das iniquidades dos seus sacerdotes.” “Acabou a tua iniquidade, filha de Sião.”",
+    "meditatio_perguntas": [
+      "Que “ouro” em mim perdeu o brilho?",
+      "Rezo pelos pastores, para que sejam fiéis?",
+      "Partilho o pão com os pequenos que pedem?"
+    ],
+    "oratio_guia": "Senhor, devolve o brilho ao ouro que escureceu em mim e na tua Igreja. Dá-nos pastores santos e faze-nos partir o pão aos que pedem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como se escureceu o ouro",
+      "ref": "Lm 4,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

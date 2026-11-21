@@ -1,0 +1,40 @@
+{
+  "id": "ISA.60.1",
+  "livro": "ISA",
+  "titulo": "Levanta-te e resplandece, Jerusalém",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 60,1-22",
+  "ini": {
+    "c": 60,
+    "v": 1
+  },
+  "fim": {
+    "c": 60,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A glória do Senhor sobre Jerusalém e a peregrinação dos povos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Levanta-te e resplandece, porque chegou a tua luz, e a glória do Senhor se levantou sobre ti.” As trevas cobrem a terra, mas sobre ti se levanta o Senhor. As nações caminharão à tua luz, os reis ao esplendor da tua aurora. Ergue os olhos: os teus filhos vêm de longe, as filhas são trazidas ao colo. Virão as riquezas do mar, camelos de Madiã e de Efá; os de Sabá trarão ouro e incenso, anunciando os louvores do Senhor. As portas estarão sempre abertas. Chamar-te-ão Cidade do Senhor. Em vez de bronze, ouro; a paz será o teu governo. Não precisarás do sol: “o Senhor será a tua luz eterna, e o teu Deus a tua glória”.",
+    "alegorico": "É a primeira leitura da Epifania: os Magos que trazem ouro e incenso cumprem a profecia; Cristo é a luz que se levanta sobre Jerusalém e atrai as nações. O Apocalipse retoma a cidade de portas abertas, iluminada pelo Senhor (Ap 21,23-26).",
+    "moral": "A Igreja não brilha com luz própria, mas reflete a glória do Senhor. A sua missão é atrair os povos pela luz, não pela força. Cada cristão é chamado a “levantar-se e resplandecer”.",
+    "anagogico": "O Senhor como luz eterna, sem sol nem lua, descreve a glória da Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te e resplandece! Chegou a tua luz, e a glória do Senhor ergueu-se sobre ti.” “As nações caminharão à tua luz.” “Trarão ouro e incenso.” “O Senhor será a tua luz eterna.”",
+    "meditatio_perguntas": [
+      "Deixo a luz de Cristo levantar-se sobre mim?",
+      "A minha vida atrai os outros para Deus?",
+      "Que ouro e incenso ofereço ao Senhor?"
+    ],
+    "oratio_guia": "Senhor, luz eterna, levanta-te sobre mim e faze-me resplandecer. Que, como os Magos, eu te ofereça os meus dons e atraia outros à tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te e resplandece! Chegou a tua luz",
+      "ref": "Is 60,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

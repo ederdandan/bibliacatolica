@@ -1,0 +1,40 @@
+{
+  "id": "DAN.10.1",
+  "livro": "DAN",
+  "titulo": "A visão final: os reis do norte e do sul",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 10,1–11,45",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 45
+  },
+  "liturgia": {
+    "tema_central": "Coragem, homem amado de Deus: a história nas mãos de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No terceiro ano de Ciro, depois de três semanas de jejum e luto, Daniel, junto ao rio Tigre, vê um homem vestido de linho, com rosto como relâmpago e olhos como chamas. Cai desfalecido. Uma mão o toca: “Daniel, homem amado, não temas; desde o primeiro dia em que aplicaste o coração a compreender e a humilhar-te diante de Deus, as tuas palavras foram ouvidas”. Fala do combate com o príncipe da Pérsia e da ajuda de Miguel. “Não temas, a paz esteja contigo; sê forte, tem coragem.” Os capítulos 10–11 revelam em detalhe as lutas entre os reis do Norte (selêucidas) e do Sul (ptolomeus), até o rei ímpio que se exalta sobre todo deus e chega ao seu fim.",
+    "alegorico": "O homem vestido de linho, de rosto resplandecente, prepara a visão de Cristo glorioso em Ap 1,13-17, que também toca João e lhe diz: “Não temas”.",
+    "moral": "A oração e a humildade são ouvidas desde o primeiro dia, mesmo quando a resposta demora: há combates invisíveis. Deus fortalece com uma palavra e um toque. A história, mesmo confusa, está sob o seu governo.",
+    "anagogico": "O rei ímpio que “chegará ao seu fim, e ninguém o ajudará” anuncia a derrota final do mal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Daniel, homem predileto, não temas.” “Desde o primeiro dia em que aplicaste o teu coração a compreender e a humilhar-te… as tuas palavras foram ouvidas.” “A paz seja contigo! Tem vigor! Coragem!” “Fala, meu Senhor, porque me fortaleceste.”",
+    "meditatio_perguntas": [
+      "Creio que a minha oração é ouvida desde o primeiro dia?",
+      "Deixo-me fortalecer pelo toque e pela palavra de Deus?",
+      "Vejo os combates espirituais por trás dos acontecimentos?"
+    ],
+    "oratio_guia": "Senhor, que chamas Daniel de homem amado, toca-me e fortalece-me. Dize-me “não temas, a paz esteja contigo”, e eu responderei: Fala, Senhor, porque me fortaleceste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, homem predilecto (de Deus)! A paz seja contigo!",
+      "ref": "Dn 10,19"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

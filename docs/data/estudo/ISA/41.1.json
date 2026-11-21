@@ -1,0 +1,40 @@
+{
+  "id": "ISA.41.1",
+  "livro": "ISA",
+  "titulo": "Não temas, porque eu sou contigo",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 41,1-29",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Não temas: eu sou o teu Deus e te sustento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus convoca as ilhas e os povos a juízo: quem suscitou do Oriente aquele que a justiça chama (Ciro)? Eu, o Senhor, o primeiro e o último. As nações fabricam ídolos e animam-se uns aos outros. Mas “tu, Israel, meu servo, Jacó, a quem escolhi, descendência de Abraão, meu amigo: não temas, porque eu sou contigo; não te desanimes, porque eu sou o teu Deus; eu te fortaleço, te ajudo, a minha destra justa te sustenta”. “Não temas, vermezinho de Jacó; eu te ajudo, diz o teu Redentor, o Santo de Israel.” Deus fará brotar rios nos cumes e transformará o deserto em lagos para os pobres sedentos. Os ídolos nada são.",
+    "alegorico": "Abraão “meu amigo” (cf. Tg 2,23) prepara a amizade que Cristo oferece aos discípulos. O Redentor (go’el) que defende o pequeno verme é Cristo, que se fez “verme e não homem” (Sl 21,7) para nos resgatar.",
+    "moral": "A palavra “não temas” é repetida porque o medo é a grande tentação do crente. Deus não promete ausência de dificuldades, mas a sua mão que sustenta. Nossa pequenez (“vermezinho”) não afasta o seu cuidado.",
+    "anagogico": "O deserto transformado em lago para os pobres anuncia o rio da vida da Jerusalém celeste (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu, Israel, meu servo, Jacó, a quem escolhi, descendência de Abraão, meu amigo.” “Não temas, porque eu sou contigo… eu te confortei, te auxiliei.” “Não temas, vermezinho de Jacó.”",
+    "meditatio_perguntas": [
+      "Que medo concreto preciso entregar a Deus hoje?",
+      "Sinto-me amigo de Deus, como Abraão?",
+      "Em que me sinto “vermezinho”, e como Deus me olha?"
+    ],
+    "oratio_guia": "Senhor, meu Redentor, tu dizes: “Não temas, eu estou contigo”. Fortalece-me, ajuda-me, sustenta-me com a tua destra. Faze brotar rios no meu deserto. Amém.",
+    "contemplatio_foco": {
+      "texto": "não temas, porque eu sou contigo",
+      "ref": "Is 41,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

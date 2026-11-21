@@ -1,0 +1,40 @@
+{
+  "id": "ISA.58.1",
+  "livro": "ISA",
+  "titulo": "O jejum que agrada ao Senhor",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 58,1-14",
+  "ini": {
+    "c": 58,
+    "v": 1
+  },
+  "fim": {
+    "c": 58,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O jejum que agrada a Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Grita sem cessar, levanta a voz como trombeta: o povo jejua e se queixa de que Deus não vê. Deus responde: no dia do vosso jejum tratais dos vossos negócios e oprimis os trabalhadores; jejuais para contendas. É este o jejum que eu quero? Curvar a cabeça como junco? “O jejum que eu prefiro é este: romper as cadeias injustas, desatar os laços do jugo, libertar os oprimidos; repartir o teu pão com o faminto, acolher em casa os pobres sem abrigo, vestir o nu, e não desprezar a tua carne.” Então a tua luz romperá como a aurora; clamarás e o Senhor dirá: eis-me aqui. Se guardares o sábado como delícia, te deleitarás no Senhor.",
+    "alegorico": "Este texto, lido na Quaresma, é a raiz das obras de misericórdia corporais, que Cristo identifica consigo (Mt 25,35-36). A luz que rompe como aurora é Cristo, luz que brilha nos que praticam a caridade.",
+    "moral": "A penitência sem justiça é vazia. O jejum verdadeiro desemboca na partilha e na libertação dos oprimidos. Quem se abre ao pobre encontra a Deus que responde “eis-me aqui”.",
+    "anagogico": "“Serás como jardim regado, fonte de águas que não secam”: imagem da plenitude dos justos que praticaram a misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É este o jejum que eu escolhi?” “Romper as cadeias da iniquidade… repartir o teu pão com o que tem fome, albergar os infelizes sem abrigo, vestir o nu.” “Então a tua luz romperá como a aurora.” “Clamarás, e ele dirá: Eis-me aqui.”",
+    "meditatio_perguntas": [
+      "O meu jejum me torna mais generoso?",
+      "Que “cadeia injusta” posso ajudar a romper?",
+      "Desprezo a “minha carne”, isto é, o meu próximo?"
+    ],
+    "oratio_guia": "Senhor, ensina-me o jejum que te agrada: repartir o pão, acolher, vestir, libertar. Que a minha luz rompa como a aurora e que eu te ouça dizer: “Eis-me aqui”. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não consiste em repartir o teu pão com o que tem fome",
+      "ref": "Is 58,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

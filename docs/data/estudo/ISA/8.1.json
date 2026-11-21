@@ -1,0 +1,40 @@
+{
+  "id": "ISA.8.1",
+  "livro": "ISA",
+  "titulo": "Deus conosco: pedra de tropeço",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 8,1-22",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Deus conosco: santuário para uns, pedra de tropeço para outros",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Isaías escreve numa tábua “Maer-salal-has-baz” (“pronto saque, rápida presa”), nome do filho que lhe nasce: a Assíria saqueará Damasco e Samaria. Porque o povo desprezou as águas mansas de Siloé, virá sobre ele o grande rio, a Assíria, até o pescoço; mas as suas asas cobrirão a terra, ó Emanuel. Fazei planos, eles se frustrarão, “porque Deus é conosco”. Não temais o que o povo teme; o Senhor será santuário, mas também pedra de tropeço para as duas casas de Israel. Isaías guarda o testemunho entre os discípulos e espera no Senhor; ele e os filhos são sinais. Consultem a lei, não os adivinhos; quem a rejeita encontrará trevas.",
+    "alegorico": "São Pedro e São Paulo aplicam a Cristo a “pedra de tropeço e rocha de escândalo” (1Pd 2,8; Rm 9,33): o mesmo Cristo é salvação para quem crê e queda para quem o rejeita. Hb 2,13 põe na boca de Cristo: “Eis-me aqui, eu e os filhos que Deus me deu”.",
+    "moral": "As “águas mansas” de Deus são desprezadas em favor de soluções poderosas e violentas. O cristão não deve temer o que o mundo teme, mas santificar o Senhor no coração (1Pd 3,14-15). Buscar a Palavra, não os adivinhos.",
+    "anagogico": "A esperança do profeta, que espera no Senhor enquanto ele esconde o rosto, é a da Igreja que aguarda a manifestação gloriosa de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este povo desprezou as águas de Siloé, que correm em silêncio.” “Formai planos, e eles sairão frustrados… porque Deus é conosco!” “Não temais o que ele teme.” “Esperarei no Senhor, que esconde a sua face.”",
+    "meditatio_perguntas": [
+      "Desprezo as “águas mansas” de Deus por soluções ruidosas?",
+      "Temo o que o mundo teme?",
+      "Cristo é para mim santuário ou pedra de tropeço?"
+    ],
+    "oratio_guia": "Senhor, Deus conosco, sê o meu santuário. Que eu não tema o que o mundo teme, mas espere em ti, mesmo quando escondes a tua face. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque Deus é connosco!",
+      "ref": "Is 8,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

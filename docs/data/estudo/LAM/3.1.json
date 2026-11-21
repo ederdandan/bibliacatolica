@@ -1,0 +1,40 @@
+{
+  "id": "LAM.3.1",
+  "livro": "LAM",
+  "titulo": "As misericórdias do Senhor não se esgotaram",
+  "secao": "As Lamentações de Jeremias",
+  "referencia": "Lm 3,1-66",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 66
+  },
+  "liturgia": {
+    "tema_central": "As misericórdias do Senhor se renovam cada manhã",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um homem fala da sua aflição: Deus o conduziu às trevas, emparedou-o, tornou pesadas as suas cadeias; ainda que clame, a oração é repelida; ele é zombaria do povo, embriagado de absinto. Mas, no fundo, recorda e espera: “Por graça do Senhor não fomos consumidos; as suas misericórdias não se esgotaram; renovam-se todas as manhãs; grande é a tua fidelidade”. “O Senhor é a minha porção”, diz a minha alma. “É bom esperar em silêncio a salvação de Deus.” É bom para o homem levar o jugo desde a juventude, pôr a boca no pó. Deus não aflige de bom grado. Examinemos os nossos caminhos e voltemos ao Senhor. Do fundo da cova invoquei o teu nome, e disseste: não temas.",
+    "alegorico": "O homem que sofre, zombado e embriagado de absinto, é figura de Cristo na Paixão; a esperança no fundo da cova antecipa a Ressurreição. O capítulo é lido no Sábado Santo.",
+    "moral": "O centro do livro e o seu coração: mesmo na escuridão, a fidelidade de Deus é nova a cada manhã. A esperança silenciosa e paciente é sabedoria; o exame de consciência e a conversão abrem a saída.",
+    "anagogico": "As misericórdias que se renovam cada manhã antecipam a manhã eterna da Ressurreição, que não terá ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou o homem que sentiu a miséria.” “As suas comiserações não se esgotaram. Elas renovam-se todas as manhãs; grande é a tua fidelidade.” “A minha porção é o Senhor.” “É bom esperar em silêncio a salvação de Deus.” “Disseste: Não temas.”",
+    "meditatio_perguntas": [
+      "Consigo ver a misericórdia nova desta manhã?",
+      "Sei esperar em silêncio a salvação de Deus?",
+      "Que caminho meu preciso examinar para voltar ao Senhor?"
+    ],
+    "oratio_guia": "Senhor, a tua fidelidade é grande e as tuas misericórdias se renovam cada manhã. Tu és a minha porção; esperarei em ti em silêncio. Do fundo da cova eu te invoco: dize-me “não temas”. Amém.",
+    "contemplatio_foco": {
+      "texto": "Elas renovam-se todas as manhãs; grande é (ó Senhor) a tua fidelidade",
+      "ref": "Lm 3,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

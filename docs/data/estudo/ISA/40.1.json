@@ -1,0 +1,49 @@
+{
+  "id": "ISA.40.1",
+  "livro": "ISA",
+  "titulo": "Consolai o meu povo: abri caminho ao Senhor",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 40,1-31",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Consolação: Deus vem como pastor e dá força aos cansados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Consolai, consolai o meu povo, diz o vosso Deus; falai ao coração de Jerusalém”: a sua escravidão terminou, a sua culpa foi perdoada. Uma voz clama: “Abri caminho ao Senhor no deserto”; todo vale será levantado, todo monte abaixado; a glória do Senhor se manifestará. Toda carne é erva que seca, mas a palavra do nosso Deus permanece eternamente. Sobe a um monte alto, mensageira de Sião: eis o vosso Deus! Como pastor apascenta o rebanho, leva os cordeiros nos braços. Quem mediu as águas na concha da mão? A quem comparareis Deus? Ele não se cansa; dá força ao cansado. “Os que esperam no Senhor renovam as forças, terão asas como de águia.”",
+    "alegorico": "Os quatro evangelhos aplicam a “voz que clama no deserto” a João Batista, que prepara o caminho de Jesus (Mt 3,3). O pastor que leva os cordeiros nos braços é Cristo, Bom Pastor.",
+    "moral": "Deus fala ao coração para consolar, não para condenar. Preparar o caminho do Senhor é aplainar orgulhos e preencher vazios. Diante do cansaço, a esperança em Deus renova as forças.",
+    "anagogico": "A palavra que “permanece eternamente” e a glória que “toda carne verá” apontam para a manifestação final de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Consolai, consolai o meu povo.” “Abri caminho ao Senhor no deserto.” “A palavra do nosso Deus permanece eternamente.” “Como um pastor apascentará o seu rebanho.” “Os que esperam no Senhor adquirem sempre novas forças, terão asas como de águia.”",
+    "meditatio_perguntas": [
+      "Deixo Deus falar ao meu coração para consolar?",
+      "Que vale ou monte em mim precisa ser aplanado para o Senhor vir?",
+      "Onde estou cansado e preciso das asas da esperança?"
+    ],
+    "oratio_guia": "Senhor, Pastor que levas os cordeiros nos braços, consola-me e fala ao meu coração. Aplana em mim o caminho da tua vinda e renova as minhas forças. Amém.",
+    "contemplatio_foco": {
+      "texto": "Consolai, consolai o meu povo, diz o vosso Deus",
+      "ref": "Is 40,1"
+    }
+  },
+  "ancoras": {
+    "40:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 40–55 (“Livro da Consolação”) supõem o exílio na Babilônia; muitos estudiosos os atribuem a um discípulo da escola de Isaías.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

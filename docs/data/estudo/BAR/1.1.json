@@ -1,0 +1,49 @@
+{
+  "id": "BAR.1.1",
+  "livro": "BAR",
+  "titulo": "A leitura do livro em Babilônia: ao Senhor a justiça, a nós a vergonha",
+  "secao": "Confissão dos exilados",
+  "referencia": "Br 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A confissão humilde: a Deus a justiça, a nós a vergonha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Baruc, secretário de Jeremias, escreve em Babilônia, no quinto ano após a destruição de Jerusalém, e lê o livro diante do rei Jeconias e dos exilados. Todos choram, jejuam, rezam e fazem uma coleta, enviada a Jerusalém para os sacrifícios, com o pedido de orar por Nabucodonosor e pelos próprios exilados. Começa a confissão: “Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão do rosto”, a nós, aos reis, aos sacerdotes e aos pais, porque pecamos diante do Senhor, desde o dia em que nos tirou do Egito, não ouvindo a sua voz nem os profetas, e seguindo cada um o seu coração mau.",
+    "alegorico": "A comunidade exilada que confessa o pecado e reza pelos seus governantes prefigura a Igreja peregrina, que reza “por todos os homens, pelos reis e autoridades” (1Tm 2,1-2).",
+    "moral": "O exílio é lugar de verdade: sem desculpas, o povo reconhece que a culpa é sua, de todas as gerações. Rezar pelos que nos dominam é ato de fé e de caridade.",
+    "anagogico": "A confissão sincera abre caminho para a misericórdia e a volta; é a mesma via pela qual a Igreja caminha para a pátria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Choravam, jejuavam e oravam diante do Senhor.” “Orai pela vida de Nabucodonosor.” “Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão do rosto.” “Não ouvimos a voz do Senhor nosso Deus.”",
+    "meditatio_perguntas": [
+      "Confesso as minhas faltas sem justificá-las?",
+      "Rezo pelos que governam, mesmo os que me desagradam?",
+      "Reconheço o pecado da minha família e do meu povo?"
+    ],
+    "oratio_guia": "Senhor nosso Deus, a ti pertence a justiça, e a nós a vergonha do rosto. Perdoa-nos, e ensina-nos a rezar também pelos que nos governam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão do rosto",
+      "ref": "Br 1,15"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O livro de Baruc é deuterocanônico: está na Bíblia grega e na Vulgata, mas não no cânon hebraico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

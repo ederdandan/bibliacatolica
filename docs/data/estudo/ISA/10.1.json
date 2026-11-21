@@ -1,0 +1,40 @@
+{
+  "id": "ISA.10.1",
+  "livro": "ISA",
+  "titulo": "A Assíria, vara da ira; o resto voltará",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 10,1-34",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Deus usa a Assíria, mas salva um resto que se apoia nele",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ai dos que fazem leis iníquas para oprimir os pobres e despojar viúvas e órfãos: que fareis no dia do castigo? A Assíria é a vara da ira de Deus contra um povo ímpio, mas ela pensa só em destruir e se gaba: “Com a força da minha mão o fiz”. Porventura o machado se gloria contra quem corta com ele? Por isso o Senhor consumirá a sua glória. Naquele dia, o resto de Israel não se apoiará mais em quem o fere, mas sinceramente no Senhor, o Santo de Israel. “Um resto voltará.” Não temas a Assíria. O exército avança até as portas de Jerusalém, mas o Senhor corta os ramos como um lenhador corta a floresta do Líbano.",
+    "alegorico": "O “resto” que volta prepara o pequeno rebanho de Cristo e a Igreja nascente; São Paulo cita este texto em Rm 9,27. O Senhor que abate os cedros abre espaço para o rebento de Jessé (cap. 11).",
+    "moral": "Leis injustas são pecado grave aos olhos de Deus. E ninguém deve se vangloriar dos próprios sucessos, como se fosse independente de Deus: somos instrumentos, não donos.",
+    "anagogico": "O resto que se apoia “sinceramente no Senhor” anuncia os salvos no fim dos tempos, que terão posto em Deus toda a confiança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos que decretam leis iníquas.” “Porventura o machado se gloria contra aquele que corta com ele?” “Os que tiverem ficado de Israel apoiar-se-ão sinceramente sobre o Senhor, o Santo de Israel.” “Um resto voltará.”",
+    "meditatio_perguntas": [
+      "Atribuo a mim mesmo o que Deus realizou por meu intermédio?",
+      "Apoio, de algum modo, estruturas injustas?",
+      "Em quem me apoio quando sou ferido?"
+    ],
+    "oratio_guia": "Senhor, Santo de Israel, livra-me da vaidade do machado que se gloria. Que eu me apoie só em ti e trabalhe por leis justas para os pobres. Amém.",
+    "contemplatio_foco": {
+      "texto": "apoiar-se-ão sinceramente sobre o Senhor, o Santo de Israel",
+      "ref": "Is 10,20"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

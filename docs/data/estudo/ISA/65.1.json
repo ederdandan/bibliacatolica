@@ -1,0 +1,40 @@
+{
+  "id": "ISA.65.1",
+  "livro": "ISA",
+  "titulo": "Novos céus e nova terra",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 65,1-25",
+  "ini": {
+    "c": 65,
+    "v": 1
+  },
+  "fim": {
+    "c": 65,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Novos céus e nova terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus se deixou encontrar por quem não o procurava; estendeu as mãos todo o dia a um povo rebelde que sacrifica em jardins e diz: “não me toques, sou santo para ti”. Mas, como não se destrói o cacho em que ainda há vinho, Deus não destruirá tudo: salvará os seus servos. Os servos comerão, os rebeldes terão fome. Então: “Vou criar novos céus e uma nova terra”; o passado não será mais lembrado. Jerusalém será alegria; não se ouvirá mais choro; não haverá criança que morra em poucos dias; construirão casas e as habitarão. “Antes que clamem, eu responderei.” O lobo e o cordeiro pastarão juntos; não haverá dano no meu monte santo.",
+    "alegorico": "São Paulo cita “fui achado pelos que não me procuravam” para a vocação dos gentios (Rm 10,20). Os novos céus e a nova terra são retomados em 2Pd 3,13 e Ap 21,1: a criação renovada em Cristo ressuscitado.",
+    "moral": "Deus estende as mãos “todo o dia”: a sua paciência é imensa. O orgulho espiritual (“sou santo para ti”) afasta Deus. Deus preserva o bem que resta, “o cacho em que ainda há vinho”.",
+    "anagogico": "É a grande visão da esperança: novos céus, nova terra, sem choro nem morte prematura, com Deus que responde antes do clamor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fui achado pelos que não me buscavam.” “Estendi as minhas mãos todo o dia a um povo incrédulo.” “Vou criar novos céus e uma nova terra.” “Antes que clamem, eu os ouvirei.” “O lobo e o cordeiro pastarão juntos.”",
+    "meditatio_perguntas": [
+      "Deixo Deus encontrar-me, mesmo quando não o procuro?",
+      "Há em mim o orgulho do “sou mais santo que tu”?",
+      "Como a esperança dos novos céus muda o meu presente?"
+    ],
+    "oratio_guia": "Senhor, que estendes as mãos todo o dia, deixa-te encontrar por mim. Guarda o bem que resta em mim e conduze-me aos novos céus e à nova terra, onde não haverá mais choro. Amém.",
+    "contemplatio_foco": {
+      "texto": "vou criar novos céus e uma nova terra",
+      "ref": "Is 65,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

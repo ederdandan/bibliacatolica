@@ -1,0 +1,40 @@
+{
+  "id": "LAM.2.1",
+  "livro": "LAM",
+  "titulo": "A ira do Senhor sobre a filha de Sião",
+  "secao": "As Lamentações de Jeremias",
+  "referencia": "Lm 2,1-22",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A ira do Senhor e o apelo a derramar o coração como água",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor, como inimigo, cobriu de trevas a filha de Sião; destruiu sem piedade as moradas de Jacó, rejeitou o seu altar, abandonou o seu santuário, derrubou os muros. O rei e os príncipes estão entre as nações; não há mais lei; os profetas não recebem visões. Os anciãos sentam-se em silêncio no chão, com pó na cabeça. As crianças desfalecem nas praças, pedindo pão às mães. O poeta pergunta: a quem te comparei, filha de Jerusalém? A tua ferida é grande como o mar. Os teus profetas viram visões falsas e não descobriram a tua culpa. “Derrama como água o teu coração diante do Senhor; levanta para ele as mãos pela vida dos teus filhinhos.”",
+    "alegorico": "A ferida “grande como o mar” só pode ser curada por Aquele que tomou sobre si as feridas do seu povo. A Igreja, como Jerusalém, chora os filhos que desfalecem e intercede por eles.",
+    "moral": "Os falsos profetas que não denunciam o pecado deixam o povo na ruína. Diante da catástrofe, a resposta é a oração intensa: derramar o coração como água e erguer as mãos pelas crianças.",
+    "anagogico": "A ruína completa prepara o grito por um novo templo e uma nova cidade, que Deus mesmo construirá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor cobriu de escuridão a filha de Sião.” “Os meus filhinhos desfaleciam nas praças.” “A tua ferida é grande como o mar: quem te curará?” “Derrama como água o teu coração diante do Senhor.”",
+    "meditatio_perguntas": [
+      "Derramo o meu coração diante de Deus, sem reservas?",
+      "Ergo as mãos em favor das crianças que sofrem?",
+      "Que profetas falsos me dizem que não há nada a mudar?"
+    ],
+    "oratio_guia": "Senhor, diante de ti derramo o meu coração como água. Cura a ferida grande como o mar e tem piedade dos pequenos que desfalecem. Amém.",
+    "contemplatio_foco": {
+      "texto": "derrama o teu coração como água diante do Senhor",
+      "ref": "Lm 2,19"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

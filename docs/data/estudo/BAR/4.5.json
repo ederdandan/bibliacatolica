@@ -1,0 +1,40 @@
+{
+  "id": "BAR.4.5",
+  "livro": "BAR",
+  "titulo": "Coragem, meu povo: tira, Jerusalém, os vestidos do luto",
+  "secao": "Consolação de Jerusalém",
+  "referencia": "Br 4,5–5,9",
+  "ini": {
+    "c": 4,
+    "v": 5
+  },
+  "fim": {
+    "c": 5,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Coragem: Jerusalém, veste a glória que vem de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Tende confiança, meu povo.” Fostes vendidos às nações não para a perdição, mas porque irritastes Deus sacrificando aos demônios. Jerusalém fala como mãe: vi o cativeiro dos meus filhos; criei-os com alegria e os despedi com lágrimas. “Tende bom ânimo, filhos, clamai ao Senhor, e ele vos livrará.” Como vos afastastes de Deus, voltai-vos a buscá-lo com dez vezes mais ardor. O poeta consola: “Olha, Jerusalém, para o Oriente, e vê a alegria que te vem de Deus”. No capítulo 5: “Tira, Jerusalém, o vestido do luto e da aflição e reveste-te para sempre da beleza da glória que vem de Deus”. Deus abaixará os montes e conduzirá Israel com alegria, à luz da sua glória.",
+    "alegorico": "Jerusalém mãe que despede e recebe os filhos é figura da Igreja; a luz do Oriente é Cristo, Sol nascente. O texto é lido no Advento: preparar o caminho do Senhor, aplainar os montes.",
+    "moral": "A volta a Deus deve ser mais ardente que o afastamento: “dez vezes mais”. A esperança se exprime em gestos concretos: tirar a roupa do luto, revestir-se de glória.",
+    "anagogico": "O manto da justiça e a coroa de glória do Eterno descrevem a Igreja glorificada, conduzida por Deus à luz da sua glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tende confiança, meu povo.” “Tende bom ânimo, filhos, clamai ao Senhor.” “Olha, ó Jerusalém, para o oriente, e vê o regozijo que te vem de Deus.” “Tira, ó Jerusalém, os vestidos do teu luto.”",
+    "meditatio_perguntas": [
+      "Busco a Deus com mais ardor do que aquele com que me afastei?",
+      "Que “vestido de luto” preciso tirar?",
+      "Olho para o Oriente, para Cristo que vem?"
+    ],
+    "oratio_guia": "Senhor, que conduzes o teu povo com alegria, dá-me coragem. Tira de mim o vestido do luto e reveste-me da beleza da glória que vem de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tira, ó Jerusalém, os vestidos do teu luto e da tua aflição",
+      "ref": "Br 5,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

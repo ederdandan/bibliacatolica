@@ -1,0 +1,40 @@
+{
+  "id": "ISA.13.1",
+  "livro": "ISA",
+  "titulo": "Contra Babilônia: como caíste do céu, astro brilhante",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 13,1–14,32",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A queda da soberba: como caíste, astro brilhante",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oráculo sobre Babilônia: o Senhor convoca os seus guerreiros; vem o dia do Senhor, cruel, com furor; as estrelas não darão a sua luz. Babilônia, glória dos reinos, será como Sodoma; nela habitarão chacais. O Senhor terá compaixão de Jacó e o fará repousar. Israel entoará uma sátira contra o rei de Babilônia: o opressor acabou; a terra descansa; o abismo se agita para recebê-lo. “Como caíste do céu, ó astro brilhante, filho da aurora!” Tu dizias: subirei ao céu, porei o meu trono acima das estrelas de Deus, serei semelhante ao Altíssimo; e foste precipitado no abismo. Seguem oráculos contra a Assíria e a Filisteia.",
+    "alegorico": "Os Padres (Orígenes, Tertuliano) aplicaram a queda do “astro da manhã” (Lúcifer, na Vulgata) à queda de Satanás, por soberba; Jesus diz: “Vi Satanás cair do céu como um raio” (Lc 10,18).",
+    "moral": "A raiz de todo pecado é querer “ser semelhante ao Altíssimo” sem Deus. Quanto maior a soberba, maior a queda. Impérios e pessoas que se divinizam acabam no pó.",
+    "anagogico": "A queda de Babilônia anuncia a queda final de todo poder hostil a Deus (Ap 18) e o repouso do povo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como caíste do céu, ó astro brilhante, filho da aurora?” “Dizias no teu coração: Subirei ao céu… serei semelhante ao Altíssimo.” “E foste precipitado no inferno.” “O Senhor terá compaixão de Jacó.”",
+    "meditatio_perguntas": [
+      "Onde, em mim, quero “ser como Deus” sem Deus?",
+      "Que trono ergui para mim mesmo?",
+      "Reconheço que a humildade é o caminho da exaltação?"
+    ],
+    "oratio_guia": "Senhor, Altíssimo, livra-me da soberba que derrubou o astro da manhã. Dá-me a humildade de Maria e o repouso que dás ao teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como caíste do céu, ó astro brilhante, filho da aurora?",
+      "ref": "Is 14,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

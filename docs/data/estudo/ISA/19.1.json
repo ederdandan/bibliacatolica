@@ -1,0 +1,40 @@
+{
+  "id": "ISA.19.1",
+  "livro": "ISA",
+  "titulo": "Contra o Egito: bendito o meu povo do Egito",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 19,1–20,6",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Até o Egito e a Assíria serão povo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor vem ao Egito sobre uma nuvem ligeira; os ídolos tremem; haverá guerra civil, o Nilo secará, os sábios de Faraó ficarão insensatos. Mas segue uma promessa surpreendente: naquele dia haverá um altar ao Senhor no meio do Egito; eles clamarão e Deus lhes enviará um salvador; o Senhor se dará a conhecer ao Egito, que o servirá. Haverá uma estrada do Egito à Assíria; ambos adorarão juntos. “Bendito o meu povo do Egito, a Assíria, obra das minhas mãos, e Israel, minha herança.” No capítulo 20, Isaías anda descalço e despido três anos, sinal do cativeiro do Egito e da Etiópia.",
+    "alegorico": "Os Padres viram na “nuvem ligeira” em que o Senhor entra no Egito a fuga de Jesus nos braços de Maria (Mt 2,13-15), e na conversão do Egito a florescência do monaquismo egípcio cristão.",
+    "moral": "Deus não tem inimigos definitivos: os opressores de ontem podem ser irmãos amanhã. A fé cristã é chamada a sonhar estradas de reconciliação entre povos inimigos.",
+    "anagogico": "A bênção sobre Egito, Assíria e Israel juntos anuncia a unidade dos povos na Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que o Senhor subirá sobre uma nuvem ligeira e entrará no Egito.” “Naquele dia haverá um altar do Senhor no meio do Egito.” “Bendito o meu povo do Egito, o Assírio, obra das minhas mãos, e Israel, minha herança!”",
+    "meditatio_perguntas": [
+      "Há algum “Egito” que considero excluído do amor de Deus?",
+      "Construo estradas entre inimigos?",
+      "Creio que Deus pode converter quem me oprimiu?"
+    ],
+    "oratio_guia": "Senhor de todos os povos, que abençoas o Egito e a Assíria com Israel, alarga o meu coração. Faze de mim construtor de estradas de reconciliação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança!",
+      "ref": "Is 19,25"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

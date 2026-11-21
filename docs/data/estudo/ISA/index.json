@@ -1,0 +1,658 @@
+{
+ "livro": "ISA",
+ "secoes": [
+  "O Livro do Emanuel",
+  "Oráculos contra as nações",
+  "O Apocalipse de Isaías",
+  "Ais e promessas",
+  "Ezequias e Isaías",
+  "O Livro da Consolação",
+  "A nova Jerusalém"
+ ],
+ "pericopes": [
+  {
+   "id": "ISA.1.1",
+   "titulo": "Processo contra o povo rebelde: vinde, e expliquemo-nos",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 1,1-31",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 31
+   }
+  },
+  {
+   "id": "ISA.2.1",
+   "titulo": "O monte do Senhor e o dia contra o orgulho",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 2,1-22",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.3.1",
+   "titulo": "Juízo sobre Jerusalém e o germe do Senhor",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 3,1–4,6",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 6
+   }
+  },
+  {
+   "id": "ISA.5.1",
+   "titulo": "O cântico da vinha",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 5,1-30",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 30
+   }
+  },
+  {
+   "id": "ISA.6.1",
+   "titulo": "A vocação de Isaías: Santo, Santo, Santo",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 6,1-13",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 13
+   }
+  },
+  {
+   "id": "ISA.7.1",
+   "titulo": "O sinal do Emanuel: a virgem conceberá",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 7,1-25",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 25
+   }
+  },
+  {
+   "id": "ISA.8.1",
+   "titulo": "Deus conosco: pedra de tropeço",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 8,1-22",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.9.1",
+   "titulo": "Um menino nasceu para nós",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 9,1-21",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 21
+   }
+  },
+  {
+   "id": "ISA.10.1",
+   "titulo": "A Assíria, vara da ira; o resto voltará",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 10,1-34",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 34
+   }
+  },
+  {
+   "id": "ISA.11.1",
+   "titulo": "O rebento de Jessé e as fontes da salvação",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 11,1–12,6",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 6
+   }
+  },
+  {
+   "id": "ISA.13.1",
+   "titulo": "Contra Babilônia: como caíste do céu, astro brilhante",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 13,1–14,32",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 32
+   }
+  },
+  {
+   "id": "ISA.15.1",
+   "titulo": "Contra Moab, Damasco e a Etiópia",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 15,1–18,7",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 7
+   }
+  },
+  {
+   "id": "ISA.19.1",
+   "titulo": "Contra o Egito: bendito o meu povo do Egito",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 19,1–20,6",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 6
+   }
+  },
+  {
+   "id": "ISA.21.1",
+   "titulo": "O vale da Visão, a chave de Davi e Tiro",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 21,1–23,18",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 18
+   }
+  },
+  {
+   "id": "ISA.24.1",
+   "titulo": "A terra devastada e o reino do Senhor em Sião",
+   "secao": "O Apocalipse de Isaías",
+   "referencia": "Is 24,1-23",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 23
+   }
+  },
+  {
+   "id": "ISA.25.1",
+   "titulo": "O banquete no monte: Deus enxugará as lágrimas",
+   "secao": "O Apocalipse de Isaías",
+   "referencia": "Is 25,1-12",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.26.1",
+   "titulo": "Os teus mortos viverão; a vinha guardada",
+   "secao": "O Apocalipse de Isaías",
+   "referencia": "Is 26,1–27,13",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 13
+   }
+  },
+  {
+   "id": "ISA.28.1",
+   "titulo": "A pedra angular posta em Sião",
+   "secao": "Ais e promessas",
+   "referencia": "Is 28,1-29",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 29
+   }
+  },
+  {
+   "id": "ISA.29.1",
+   "titulo": "Este povo me honra com os lábios",
+   "secao": "Ais e promessas",
+   "referencia": "Is 29,1-24",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 24
+   }
+  },
+  {
+   "id": "ISA.30.1",
+   "titulo": "Na conversão e na calma está a vossa salvação",
+   "secao": "Ais e promessas",
+   "referencia": "Is 30,1–31,9",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 9
+   }
+  },
+  {
+   "id": "ISA.32.1",
+   "titulo": "A paz será obra da justiça",
+   "secao": "Ais e promessas",
+   "referencia": "Is 32,1–33,24",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 24
+   }
+  },
+  {
+   "id": "ISA.34.1",
+   "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+   "secao": "Ais e promessas",
+   "referencia": "Is 34,1–35,10",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 10
+   }
+  },
+  {
+   "id": "ISA.36.1",
+   "titulo": "Senaquerib cerca Jerusalém: a oração de Ezequias",
+   "secao": "Ezequias e Isaías",
+   "referencia": "Is 36,1–37,38",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 38
+   }
+  },
+  {
+   "id": "ISA.38.1",
+   "titulo": "A doença de Ezequias e o seu cântico",
+   "secao": "Ezequias e Isaías",
+   "referencia": "Is 38,1–39,8",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 8
+   }
+  },
+  {
+   "id": "ISA.40.1",
+   "titulo": "Consolai o meu povo: abri caminho ao Senhor",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 40,1-31",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 31
+   }
+  },
+  {
+   "id": "ISA.41.1",
+   "titulo": "Não temas, porque eu sou contigo",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 41,1-29",
+   "ini": {
+    "c": 41,
+    "v": 1
+   },
+   "fim": {
+    "c": 41,
+    "v": 29
+   }
+  },
+  {
+   "id": "ISA.42.1",
+   "titulo": "Eis o meu servo: primeiro cântico do Servo",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 42,1-25",
+   "ini": {
+    "c": 42,
+    "v": 1
+   },
+   "fim": {
+    "c": 42,
+    "v": 25
+   }
+  },
+  {
+   "id": "ISA.43.1",
+   "titulo": "Chamei-te pelo teu nome: eis que faço uma obra nova",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 43,1-28",
+   "ini": {
+    "c": 43,
+    "v": 1
+   },
+   "fim": {
+    "c": 43,
+    "v": 28
+   }
+  },
+  {
+   "id": "ISA.44.1",
+   "titulo": "Derramarei o meu espírito; a loucura dos ídolos",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 44,1-28",
+   "ini": {
+    "c": 44,
+    "v": 1
+   },
+   "fim": {
+    "c": 44,
+    "v": 28
+   }
+  },
+  {
+   "id": "ISA.45.1",
+   "titulo": "Ciro, o ungido: céus, derramai o vosso orvalho",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 45,1-26",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 45,
+    "v": 26
+   }
+  },
+  {
+   "id": "ISA.46.1",
+   "titulo": "Os ídolos são carregados; eu vos carrego",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 46,1–48,22",
+   "ini": {
+    "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 48,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.49.1",
+   "titulo": "Luz das nações: eu não me esqueceria de ti",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 49,1-26",
+   "ini": {
+    "c": 49,
+    "v": 1
+   },
+   "fim": {
+    "c": 49,
+    "v": 26
+   }
+  },
+  {
+   "id": "ISA.50.1",
+   "titulo": "Entreguei o meu dorso aos que me feriam",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 50,1-11",
+   "ini": {
+    "c": 50,
+    "v": 1
+   },
+   "fim": {
+    "c": 50,
+    "v": 11
+   }
+  },
+  {
+   "id": "ISA.51.1",
+   "titulo": "Desperta, Sião: os pés do que anuncia a paz",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 51,1–52,12",
+   "ini": {
+    "c": 51,
+    "v": 1
+   },
+   "fim": {
+    "c": 52,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.52.13",
+   "titulo": "O Servo sofredor: pelas suas chagas fomos curados",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 52,13–53,12",
+   "ini": {
+    "c": 52,
+    "v": 13
+   },
+   "fim": {
+    "c": 53,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.54.1",
+   "titulo": "Alegra-te, estéril: a aliança de paz",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 54,1-17",
+   "ini": {
+    "c": 54,
+    "v": 1
+   },
+   "fim": {
+    "c": 54,
+    "v": 17
+   }
+  },
+  {
+   "id": "ISA.55.1",
+   "titulo": "Vinde às águas: os meus pensamentos não são os vossos",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 55,1-13",
+   "ini": {
+    "c": 55,
+    "v": 1
+   },
+   "fim": {
+    "c": 55,
+    "v": 13
+   }
+  },
+  {
+   "id": "ISA.56.1",
+   "titulo": "A minha casa será casa de oração para todos os povos",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 56,1–57,21",
+   "ini": {
+    "c": 56,
+    "v": 1
+   },
+   "fim": {
+    "c": 57,
+    "v": 21
+   }
+  },
+  {
+   "id": "ISA.58.1",
+   "titulo": "O jejum que agrada ao Senhor",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 58,1-14",
+   "ini": {
+    "c": 58,
+    "v": 1
+   },
+   "fim": {
+    "c": 58,
+    "v": 14
+   }
+  },
+  {
+   "id": "ISA.59.1",
+   "titulo": "Os pecados separam de Deus; o Redentor virá a Sião",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 59,1-21",
+   "ini": {
+    "c": 59,
+    "v": 1
+   },
+   "fim": {
+    "c": 59,
+    "v": 21
+   }
+  },
+  {
+   "id": "ISA.60.1",
+   "titulo": "Levanta-te e resplandece, Jerusalém",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 60,1-22",
+   "ini": {
+    "c": 60,
+    "v": 1
+   },
+   "fim": {
+    "c": 60,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.61.1",
+   "titulo": "O espírito do Senhor repousa sobre mim",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 61,1-11",
+   "ini": {
+    "c": 61,
+    "v": 1
+   },
+   "fim": {
+    "c": 61,
+    "v": 11
+   }
+  },
+  {
+   "id": "ISA.62.1",
+   "titulo": "Por amor de Sião não me calarei",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 62,1-12",
+   "ini": {
+    "c": 62,
+    "v": 1
+   },
+   "fim": {
+    "c": 62,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.63.1",
+   "titulo": "Quem é este que vem de Edom? Oxalá rompesses os céus",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 63,1–64,12",
+   "ini": {
+    "c": 63,
+    "v": 1
+   },
+   "fim": {
+    "c": 64,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.65.1",
+   "titulo": "Novos céus e nova terra",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 65,1-25",
+   "ini": {
+    "c": 65,
+    "v": 1
+   },
+   "fim": {
+    "c": 65,
+    "v": 25
+   }
+  },
+  {
+   "id": "ISA.66.1",
+   "titulo": "Como uma mãe consola: a glória do Senhor entre as nações",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 66,1-24",
+   "ini": {
+    "c": 66,
+    "v": 1
+   },
+   "fim": {
+    "c": 66,
+    "v": 24
+   }
+  }
+ ]
+}

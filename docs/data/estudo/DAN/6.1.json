@@ -1,0 +1,40 @@
+{
+  "id": "DAN.6.1",
+  "livro": "DAN",
+  "titulo": "Daniel na cova dos leões",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 6,1-28",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A oração fiel e a cova dos leões",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dario coloca Daniel acima de todos os sátrapas. Os invejosos, não encontrando falta nele, armam uma cilada sobre a sua religião: convencem o rei a proibir por trinta dias qualquer oração que não seja dirigida ao rei. Daniel, sabendo do decreto, entra em casa e, com as janelas abertas na direção de Jerusalém, ajoelha-se três vezes ao dia, reza e dá graças como antes. Denunciado, é lançado na cova dos leões; o rei, aflito, passa a noite em jejum. De madrugada corre à cova: Daniel está vivo: “O meu Deus enviou o seu anjo e fechou a boca dos leões”. Os acusadores são lançados aos leões, e Dario proclama: o Deus de Daniel é o Deus vivo, que permanece para sempre.",
+    "alegorico": "Daniel lançado na cova selada e retirado vivo de madrugada é figura antiga da Ressurreição de Cristo: a pedra sobre a cova, o selo do rei, a manhã. As catacumbas pintaram Daniel entre os leões como símbolo de salvação.",
+    "moral": "A oração regular (três vezes ao dia) é a raiz da fidelidade: Daniel não muda os seus hábitos por medo. A integridade irrepreensível desarma os inimigos, que só conseguem atacar a fé.",
+    "anagogico": "“O Deus vivo, que permanece para sempre, cujo reino não será destruído”: a fé de Daniel aponta para a vida eterna dos que confiam."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Daniel… abertas as janelas na direção de Jerusalém, três vezes por dia se punha de joelhos, orava e louvava o seu Deus, como antes costumava fazer.” “O teu Deus, a quem serves continuamente, te livrará.” “O meu Deus enviou o seu anjo e fechou a boca aos leões.”",
+    "meditatio_perguntas": [
+      "Tenho momentos fixos de oração que mantenho mesmo sob pressão?",
+      "Rezo “com as janelas abertas”, sem esconder a fé?",
+      "Que leões me ameaçam, e confio no anjo de Deus?"
+    ],
+    "oratio_guia": "Deus vivo, que fechaste a boca dos leões, dá-me a constância de Daniel na oração. Que eu não esconda a minha fé e confie em ti nas covas da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu Deus enviou o seu anjo e fechou a boca aos leões",
+      "ref": "Dn 6,22"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

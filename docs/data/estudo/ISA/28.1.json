@@ -1,0 +1,40 @@
+{
+  "id": "ISA.28.1",
+  "livro": "ISA",
+  "titulo": "A pedra angular posta em Sião",
+  "secao": "Ais e promessas",
+  "referencia": "Is 28,1-29",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "A pedra angular para quem crê",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ai da coroa soberba dos bêbados de Efraim: será pisada. Sacerdotes e profetas cambaleiam pelo vinho e zombam do profeta: ele nos ensina como a crianças, “ordem sobre ordem, regra sobre regra”. Pois Deus lhes falará por lábios estrangeiros. Os chefes de Jerusalém dizem: fizemos aliança com a morte. O Senhor responde: “Eis que ponho em Sião uma pedra, pedra provada, angular, preciosa, bem fundada; quem crer não vacilará”. A justiça será o prumo; a aliança com a morte será anulada. A parábola do lavrador encerra: ele não lavra sempre, mas semeia cada grão no seu modo; assim Deus age com sabedoria.",
+    "alegorico": "Cristo é a pedra angular (1Pd 2,6; Rm 9,33; Ef 2,20), provada na Paixão e posta como fundamento da Igreja. Quem crê nele não será confundido.",
+    "moral": "A embriaguez e a zombaria da palavra de Deus cegam os responsáveis. A falsa segurança (“aliança com a morte”) é ilusão. Deus age como o lavrador sábio: cada coisa a seu tempo.",
+    "anagogico": "A pedra angular é fundamento do edifício eterno, a Jerusalém celeste, cujos alicerces são os apóstolos do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ordem sobre ordem, regra sobre regra.” “Fizemos aliança com a morte.” “Eis que coloquei nos fundamentos de Sião uma pedra, uma pedra provada, angular, preciosa; aquele que crer não se apressará.”",
+    "meditatio_perguntas": [
+      "Sobre que pedra construo a minha vida?",
+      "Zombo, por vezes, da simplicidade da palavra de Deus?",
+      "Que falsas “alianças” faço para me sentir seguro?"
+    ],
+    "oratio_guia": "Senhor Jesus, pedra angular, provada e preciosa, sê o fundamento da minha vida. Que eu creia e não vacile. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma pedra provada, angular, preciosa",
+      "ref": "Is 28,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

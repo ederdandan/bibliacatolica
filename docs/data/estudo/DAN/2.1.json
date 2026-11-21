@@ -1,0 +1,49 @@
+{
+  "id": "DAN.2.1",
+  "livro": "DAN",
+  "titulo": "O sonho da estátua e a pedra que se torna montanha",
+  "secao": "Daniel e os seus companheiros na corte",
+  "referencia": "Dn 2,1-49",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "O reino de Deus, pedra que enche a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nabucodonosor tem um sonho perturbador e exige que os sábios contem o sonho e a interpretação, sob pena de morte. Daniel pede tempo, reza com os companheiros, e o mistério lhe é revelado de noite; ele bendiz o Deus que muda os tempos e revela o profundo. Diante do rei, declara: não é a minha sabedoria, mas há um Deus no céu que revela os mistérios. O sonho: uma estátua de ouro, prata, bronze, ferro e barro; uma pedra, desprendida sem mão humana, a destrói e se torna uma grande montanha que enche a terra. Os metais são reinos sucessivos; “o Deus do céu suscitará um reino que jamais será destruído”. O rei se prostra e reconhece o Deus de Daniel.",
+    "alegorico": "Os Padres viram na pedra desprendida “sem mão humana” Cristo, nascido da Virgem sem concurso de homem, e na montanha que enche a terra a Igreja que se estende a todo o mundo.",
+    "moral": "Daniel enfrenta a crise rezando com os amigos e dá a glória a Deus, não a si mesmo. Os impérios humanos, por mais brilhantes, têm pés de barro.",
+    "anagogico": "O reino que “subsistirá para sempre” é o Reino de Deus consumado, que substitui todos os reinos humanos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Há um Deus no céu, que revela os mistérios.” “Uma pedra se desprendeu da montanha, sem intervir mão de homem.” “A pedra tornou-se uma alta montanha, que encheu toda a terra.” “Suscitará o Deus do céu um reino que não será jamais destruído.”",
+    "meditatio_perguntas": [
+      "Rezo com os amigos diante das crises?",
+      "Dou a Deus a glória dos meus dons?",
+      "Em que reino de pés de barro tenho posto a minha confiança?"
+    ],
+    "oratio_guia": "Deus do céu, que revelas os mistérios, faze-me confiar no teu Reino que jamais passará. Que Cristo, pedra viva, encha toda a terra e o meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "suscitará o Deus do céu um reino que não será jamais destruído",
+      "ref": "Dn 2,44"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "De 2,4b até o fim do capítulo 7 o texto original está em aramaico; o resto do livro em hebraico, e os trechos deuterocanônicos (3,24-90; 13–14) chegaram em grego.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

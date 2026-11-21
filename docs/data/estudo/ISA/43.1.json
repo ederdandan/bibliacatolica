@@ -1,0 +1,40 @@
+{
+  "id": "ISA.43.1",
+  "livro": "ISA",
+  "titulo": "Chamei-te pelo teu nome: eis que faço uma obra nova",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 43,1-28",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Chamei-te pelo nome, tu és meu: eis que faço uma coisa nova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Não temas, porque eu te resgatei, chamei-te pelo teu nome: tu és meu.” Se atravessares as águas, estarei contigo; se andares pelo fogo, não te queimarás. “És precioso aos meus olhos, digno de honra, e eu te amo”; darei povos em troca de ti. Trarei os teus filhos do Oriente e do Ocidente. Vós sois as minhas testemunhas: antes de mim não houve Deus, e depois de mim não haverá; fora de mim não há salvador. Não recordeis as coisas passadas: “Eis que faço uma coisa nova, já está brotando: não a percebeis? Abrirei um caminho no deserto e rios na terra árida”. O povo não me invocou, cansou-me com os seus pecados; mas sou eu que apago as tuas iniquidades, por amor de mim.",
+    "alegorico": "O chamado pelo nome se realiza no batismo, quando cada um é chamado e passa pelas águas sem perecer. A “coisa nova” é a Páscoa de Cristo, novo êxodo, e a nova criação.",
+    "moral": "Cada pessoa é conhecida pelo nome e preciosa para Deus. A fé não vive de nostalgia do passado, mas de atenção ao novo que Deus faz agora. O perdão é gratuito: “por amor de mim”.",
+    "anagogico": "Deus reúne os filhos dos quatro cantos da terra: imagem da reunião final da família de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temas, porque eu te remi e te chamei pelo teu nome; tu és meu.” “Se passares pelas águas, eu estarei contigo.” “És precioso aos meus olhos, e eu te amo.” “Eis que vou realizar uma obra nova… não a conhecereis?”",
+    "meditatio_perguntas": [
+      "Ouço Deus chamar-me pelo nome e dizer “tu és meu”?",
+      "Acredito que sou precioso aos seus olhos?",
+      "Que coisa nova Deus está fazendo e eu não percebo?"
+    ],
+    "oratio_guia": "Senhor, que me chamaste pelo nome no batismo, obrigado por me dizeres: “Tu és meu, és precioso aos meus olhos”. Abre-me os olhos para a obra nova que estás fazendo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, porque eu te remi e te chamei pelo teu nome; tu és meu",
+      "ref": "Is 43,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}
