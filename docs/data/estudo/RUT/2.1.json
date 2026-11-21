@@ -1,0 +1,49 @@
+{
+  "id": "RUT.2.1",
+  "livro": "RUT",
+  "titulo": "Rute respiga no campo de Booz",
+  "secao": "Rute, a estrangeira fiel",
+  "referencia": "Rt 2,1-23",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Rute respiga no campo de Booz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Rute vai respigar atrás dos segadores, conforme a lei permitia aos pobres (Lv 19,9), e chega “por acaso” ao campo de Booz, parente de Elimelec. Booz saúda os segadores com “O Senhor seja convosco”. Sabendo quem é ela, trata-a com bondade: que fique no seu campo, beba da água dos criados, coma com os segadores; manda deixar cair espigas de propósito. Rute pergunta por que achou graça, sendo estrangeira; Booz responde que conhece a sua bondade para com a sogra: “O Senhor te recompense, ele sob cujas asas vieste abrigar-te”. Noemi reconhece em Booz um dos “resgatadores” da família.",
+    "alegorico": "Booz é figura de Cristo, o parente rico e bom que acolhe a estrangeira e a alimenta com pão; os Padres viram no pão molhado e no grão torrado uma imagem da Eucaristia. Rute refugiada “sob as asas” do Deus de Israel é a alma que se abriga na Igreja.",
+    "moral": "O “acaso” que leva Rute ao campo de Booz é a providência discreta de Deus. Booz mostra a justiça generosa: não só cumpre a lei, mas vai além, deixando espigas de propósito para que a pobre recolha sem vergonha. Rute ensina a humildade e o trabalho perseverante.",
+    "anagogico": "A plena recompensa prometida a Rute aponta para o prêmio eterno de quem se abriga sob as asas de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Rute foi respigar atrás dos segadores, e chegou ao campo de Booz. Booz disse-lhe: “Não vás a outro campo”. Ela perguntou: “Por que achei graça diante dos teus olhos, sendo estrangeira?” Ele respondeu: “O Senhor te recompense, o Deus de Israel, sob cujas asas vieste abrigar-te”.",
+    "meditatio_perguntas": [
+      "Reconheço a providência nos “acasos” da minha vida?",
+      "Sou generoso como Booz, deixando “espigas” para os pobres sem humilhá-los?",
+      "Busco abrigo “sob as asas” de Deus?"
+    ],
+    "oratio_guia": "Senhor, obrigado pela tua providência que me conduz ao campo certo. Faz-me generoso com os pobres, como Booz, e humilde e trabalhador, como Rute. Abriga-me sob as tuas asas. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor te remunere pelas tuas obras, e recebas uma plena recompensa do Senhor Deus de Israel, para quem vieste, e sob cujas asas te acolheste.",
+      "ref": "Rt 2,12"
+    }
+  },
+  "ancoras": {
+    "2:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O parente “resgatador” (go’el) tinha o dever de resgatar a terra da família e garantir a descendência do falecido (Lv 25,25; Dt 25,5-10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

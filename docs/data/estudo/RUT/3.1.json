@@ -1,0 +1,40 @@
+{
+  "id": "RUT.3.1",
+  "livro": "RUT",
+  "titulo": "Estende a tua capa sobre a tua serva",
+  "secao": "Rute, a estrangeira fiel",
+  "referencia": "Rt 3,1-18",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Estende a tua capa sobre a tua serva",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Noemi quer procurar um lar para Rute e aconselha-a a ir de noite à eira, onde Booz joeira a cevada, e deitar-se aos seus pés. À meia-noite Booz acorda e Rute lhe pede: “Estende a tua capa sobre a tua serva, porque és resgatador”. É um pedido de casamento segundo o direito de parentesco. Booz a abençoa pela sua lealdade, por não ter procurado homens jovens, e promete agir; porém há um parente mais próximo, que tem prioridade. Rute volta de madrugada carregada de cevada; Noemi diz: esse homem não descansará enquanto não resolver o assunto hoje.",
+    "alegorico": "“Estender a capa” é sinal de aliança nupcial (Ez 16,8): Deus estende o seu manto sobre o seu povo. Cristo, o Resgatador, cobre a Igreja-Esposa com a sua proteção e a recebe como esposa.",
+    "moral": "O episódio, delicado e audacioso, mostra a virtude de Rute (“mulher de valor”) e a integridade de Booz, que respeita a lei e o outro parente. Ensina a buscar o bem por caminhos retos e a confiar que quem é justo não descansará até cumprir a promessa.",
+    "anagogico": "A noite na eira e o amanhecer com a promessa de resgate anunciam a espera da Igreja pelo Esposo e o casamento das bodas do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Noemi disse a Rute: “Minha filha, quero procurar-te descanso”. Rute deitou-se aos pés de Booz. À meia-noite ele acordou: “Quem és tu?” Ela respondeu: “Sou Rute, tua serva. Estende a tua capa sobre a tua serva, porque és o meu resgatador”. Booz disse: “Não temas: todo o povo sabe que és uma mulher virtuosa”.",
+    "meditatio_perguntas": [
+      "Busco o bem por caminhos retos, mesmo quando poderia atalhar?",
+      "Tenho fama de “pessoa de valor” por causa da minha conduta?",
+      "Confio no “resgatador” que não descansa enquanto não me socorre?"
+    ],
+    "oratio_guia": "Senhor, meu resgatador, estende sobre mim a tua capa. Dá-me a virtude de Rute e a retidão de Booz. Que eu espere com confiança, sabendo que não descansarás até cumprir a tua promessa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sou Rute, tua serva. Estende a tua capa sobre a tua serva",
+      "ref": "Rt 3,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

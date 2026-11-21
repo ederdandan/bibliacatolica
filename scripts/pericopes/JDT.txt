@@ -1,0 +1,15 @@
+# Divisão de Judite em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A ameaça de Holofernes
+1:1-2:18 | Nabucodonosor quer ser deus: a campanha de Holofernes
+3:1-4:17 | As nações se rendem; Israel recorre ao jejum e à oração
+5:1-6:21 | Aquior: o Deus de Israel defende o seu povo
+7:1-7:25 | O cerco de Betúlia e o desânimo do povo
+## Judite, a viúva fiel
+8:1-8:34 | Judite repreende os anciãos: não ponhais prazo à misericórdia de Deus
+9:1-9:19 | A oração de Judite
+10:1-11:21 | Judite no acampamento de Holofernes
+12:1-13:31 | Senhor, dá-me força: a vitória pela mão de uma mulher
+## A vitória e o cântico
+14:1-15:15 | A fuga dos assírios: tu és a glória de Jerusalém
+16:1-16:31 | Cântico de Judite e o fim da sua vida

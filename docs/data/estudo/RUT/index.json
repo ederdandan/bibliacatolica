@@ -1,0 +1,64 @@
+{
+ "livro": "RUT",
+ "secoes": [
+  "Rute, a estrangeira fiel"
+ ],
+ "pericopes": [
+  {
+   "id": "RUT.1.1",
+   "titulo": "O teu povo será o meu povo, e o teu Deus o meu Deus",
+   "secao": "Rute, a estrangeira fiel",
+   "referencia": "Rt 1,1-22",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 22
+   }
+  },
+  {
+   "id": "RUT.2.1",
+   "titulo": "Rute respiga no campo de Booz",
+   "secao": "Rute, a estrangeira fiel",
+   "referencia": "Rt 2,1-23",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "RUT.3.1",
+   "titulo": "Estende a tua capa sobre a tua serva",
+   "secao": "Rute, a estrangeira fiel",
+   "referencia": "Rt 3,1-18",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 18
+   }
+  },
+  {
+   "id": "RUT.4.1",
+   "titulo": "Booz resgata Rute: a descendência de Davi",
+   "secao": "Rute, a estrangeira fiel",
+   "referencia": "Rt 4,1-22",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  }
+ ]
+}

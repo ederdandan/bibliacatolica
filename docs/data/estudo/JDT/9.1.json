@@ -1,0 +1,49 @@
+{
+  "id": "JDT.9.1",
+  "livro": "JDT",
+  "titulo": "A oração de Judite",
+  "secao": "Judite, a viúva fiel",
+  "referencia": "Jt 9,1-19",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A oração de Judite",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judite entra no oratório, veste o cilício, cobre-se de cinza e reza prostrada. Recorda a ação de Deus no passado e a sua providência, que prepara todos os caminhos. Pede que Deus olhe o acampamento assírio como olhou o dos egípcios, cujos carros afundaram no mar. Pede força para a sua mão, que a soberba do inimigo seja cortada com a sua própria espada e que o nome de Deus seja glorificado pela mão de uma mulher. Proclama: “O teu poder não está na multidão; nunca te agradaram os soberbos, mas sempre te agradou a súplica dos humildes e mansos”. Pede: põe as palavras na minha boca, para que todas as nações saibam que só tu és Deus.",
+    "alegorico": "A oração de Judite antecipa o Magnificat: Deus derruba os poderosos e exalta os humildes (Lc 1,51-52). A vitória pela mão de uma mulher evoca a promessa do Gênesis (Gn 3,15), realizada em Maria.",
+    "moral": "Antes de agir, Judite reza longamente, com penitência. Fundamenta a esperança na história da salvação e na humildade. Pede não só sucesso, mas que Deus seja conhecido. É um modelo de oração antes das decisões difíceis.",
+    "anagogico": "“Que todas as nações conheçam que tu és Deus”: o desejo de Judite é o fim da história, quando todos reconhecerão o único Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, o teu poder não está na multidão, nem te comprazes na força dos cavalos; nunca te agradaram os soberbos, mas sempre te agradou a súplica dos humildes e dos mansos. Deus dos céus, ouve esta miserável, que te suplica e espera tudo da tua misericórdia. Põe as palavras na minha boca.",
+    "meditatio_perguntas": [
+      "Rezo antes das decisões importantes, ou só depois?",
+      "Confio que Deus age pelos humildes e pequenos?",
+      "Peço que Deus ponha as palavras na minha boca?"
+    ],
+    "oratio_guia": "Senhor, o teu poder não está na multidão. Sempre te agradou a súplica dos humildes. Ouve-me, que tudo espero da tua misericórdia. Põe as tuas palavras na minha boca e fortalece o meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "nunca te agradaram os soberbos, mas sempre te agradou a súplica dos humildes e dos mansos.",
+      "ref": "Jt 9,16"
+    }
+  },
+  "ancoras": {
+    "9:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Referência a Simeão e Levi, que vingaram a violação de Dina (Gn 34).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

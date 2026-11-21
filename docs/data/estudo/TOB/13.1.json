@@ -1,0 +1,40 @@
+{
+  "id": "TOB.13.1",
+  "livro": "TOB",
+  "titulo": "Cântico de Tobias: Jerusalém gloriosa",
+  "secao": "O regresso e a revelação",
+  "referencia": "Tb 13,1-23",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Cântico de Tobias: Jerusalém gloriosa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tobias entoa um cântico. Deus é grande para sempre; castiga e salva, conduz ao sepulcro e faz voltar. Israel deve louvá-lo entre as nações, onde foi disperso para dar a conhecer que não há outro Deus. Ele castigou pelas culpas e salvará pela misericórdia; convertei-vos, pecadores. Depois o cântico se volta para Jerusalém: castigada, será restaurada; brilhará com luz esplêndida, e as nações virão de longe com dons para adorar o Senhor dentro dos seus muros. As portas serão de safiras e esmeraldas, as praças de pedras brancas, e em todas as ruas se cantará Aleluia.",
+    "alegorico": "A Jerusalém de pedras preciosas é a mesma descrita no Apocalipse (Ap 21,10-21): a Igreja gloriosa, Esposa do Cordeiro. As nações que vêm a ela são os gentios chamados à fé em Cristo.",
+    "moral": "O cântico ensina a ler o próprio exílio como missão: dispersos para anunciar Deus entre os que não o conhecem. Une a conversão pessoal à esperança coletiva. Louvar a Deus “na terra do cativeiro” é sinal de fé madura.",
+    "anagogico": "O Aleluia cantado nas ruas da Jerusalém nova é a liturgia eterna dos redimidos, quando Deus habitar para sempre no meio do seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tu és grande, Senhor, eternamente. Tu castigas e salvas, conduzes ao sepulcro e fazes voltar. Ele vos dispersou entre os povos, para que publiqueis as suas maravilhas. Jerusalém, brilharás com luz esplêndida, e as nações virão de longe. Em todas as tuas ruas se cantará: Aleluia.",
+    "meditatio_perguntas": [
+      "Vejo a minha situação difícil como lugar de missão?",
+      "Louvo a Deus “na terra do meu cativeiro”?",
+      "A esperança da Jerusalém celeste ilumina a minha vida?"
+    ],
+    "oratio_guia": "Senhor, tu castigas e salvas, conduzes ao sepulcro e ressuscitas. Faz-me anunciar as tuas maravilhas onde estou. Conduz-me à Jerusalém de luz, onde em todas as ruas se canta Aleluia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todas as suas praças serão calçadas de pedras de brancura imaculada; em todas as suas ruas se cantará: Aleluia.",
+      "ref": "Tb 13,22"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JDT.8.1",
+  "livro": "JDT",
+  "titulo": "Judite repreende os anciãos: não ponhais prazo à misericórdia de Deus",
+  "secao": "Judite, a viúva fiel",
+  "referencia": "Jt 8,1-34",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Judite repreende os anciãos: não ponhais prazo à misericórdia de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Entra em cena Judite, viúva de Manassés há três anos e meio, que vive recolhida, com cilício e jejum, rica, bela e estimada por todos pelo seu temor de Deus. Sabendo da promessa de Ozias, chama os anciãos e os repreende: “Quem sois vós para tentar o Senhor? Fixastes um prazo à misericórdia de Deus”. Exorta a humilhar-se, implorar com lágrimas e esperar a sua consolação. Lembra que Abraão, Isaac, Jacó e Moisés foram provados e permaneceram fiéis; os que murmuraram pereceram. Os castigos são menores que os pecados e servem para correção, não para perdição. Os anciãos reconhecem a verdade e pedem que reze. Judite anuncia um plano que não revela, e pede que rezem por ela.",
+    "alegorico": "Judite (“a judia”, figura de todo o povo fiel) é lida pela tradição como tipo de Maria e da Igreja: mulher orante, casta, que esmaga a cabeça do inimigo. A sua sabedoria que corrige os anciãos evoca a Sabedoria divina que fala por meio dos humildes.",
+    "moral": "O discurso de Judite é um tratado sobre a prova: não tentar Deus, não pôr condições, ler o sofrimento como pedagogia e não como abandono. Uma mulher leiga, viúva, corrige os chefes com respeito e firmeza: Deus fala também por onde não se espera.",
+    "anagogico": "A provação dos patriarcas que os fez “amigos de Deus” anuncia a amizade eterna com Deus reservada aos que perseveram."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Judite disse aos anciãos: “Quem sois vós, que assim tentais o Senhor? Fixastes um prazo à misericórdia do Senhor. Mas, porque o Senhor é paciente, arrependamo-nos e imploremos a sua misericórdia. Lembrai-vos como Abraão foi provado e chegou a ser amigo de Deus. Estes castigos nos vieram para nossa emenda, e não para nossa perdição”.",
+    "meditatio_perguntas": [
+      "Vejo as minhas provações como emenda ou como abandono?",
+      "Aceito ser corrigido por quem é humilde e santo?",
+      "Tenho coragem de corrigir com respeito quem está errado?"
+    ],
+    "oratio_guia": "Senhor, perdoa-me quando ponho prazos à tua misericórdia. Ensina-me a ver na prova a tua mão que corrige e não destrói. Dá-me a sabedoria e a firmeza de Judite. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós fixastes um prazo à misericórdia do Senhor, e ao vosso arbítrio lhe assinaste o dia.",
+      "ref": "Jt 8,13"
+    }
+  },
+  "ancoras": {
+    "8:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O jejum de Judite, exceto nos sábados, luas novas e festas, mostra uma piedade disciplinada e respeitosa da liturgia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "EST.16.1",
+  "livro": "EST",
+  "titulo": "O decreto de Artaxerxes em favor dos judeus",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 16,1-24",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O decreto de Artaxerxes em favor dos judeus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O novo decreto do rei: muitos abusam da bondade dos príncipes e, por meio de mentiras, procuram arruinar inocentes, sem pensar em escapar ao juízo de Deus que tudo vê. Amã, estrangeiro acolhido e honrado como pai, quis privar o rei do reino e da vida, maquinando a morte de Mardoqueu e de Ester. O rei declara que os judeus não têm culpa: seguem leis justas e são “filhos do Deus Altíssimo, onipotente, que vive para sempre”. Anula as cartas de Amã, que recebeu de Deus o castigo merecido, e manda ajudar os judeus. Deus transformou o dia de tristeza em dia de alegria.",
+    "alegorico": "O reconhecimento dos judeus como “filhos do Deus Altíssimo” por um rei pagão anuncia a revelação da filiação divina a todos os povos em Cristo (Gl 3,26). Deus usa até os poderosos deste mundo para proteger o seu povo.",
+    "moral": "O decreto denuncia a calúnia e o abuso de poder dos que manipulam os governantes. Mostra que o juízo de Deus alcança todos e que a verdade acaba vindo à luz. Ensina aos que governam a corrigir as próprias decisões quando descobrem a injustiça.",
+    "anagogico": "“O Deus onipotente trocou este dia de tristeza em dia de alegria”: promessa da alegria eterna que nenhum decreto humano pode anular."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Os que abusam da bondade dos príncipes presumem poder escapar ao juízo de Deus, que tudo vê. Os judeus seguem leis justas e são filhos do Deus Altíssimo, onipotente, que vive para sempre. O Deus onipotente trocou-lhes este dia de tristeza e luto em dia de alegria.",
+    "meditatio_perguntas": [
+      "Já fui vítima ou autor de calúnia? Como reagi?",
+      "Sei reconhecer e corrigir decisões injustas que tomei?",
+      "Vivo como filho do Deus Altíssimo?"
+    ],
+    "oratio_guia": "Deus Altíssimo, que vives para sempre, protege os inocentes da calúnia e ilumina os que governam. Troca a nossa tristeza em alegria e faz-nos viver como teus filhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Deus Omnipotente trocou-lhes este dia de tristeza e luto em dia de alegria.",
+      "ref": "Est 16,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

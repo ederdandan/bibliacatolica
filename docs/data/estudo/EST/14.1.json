@@ -1,0 +1,40 @@
+{
+  "id": "EST.14.1",
+  "livro": "EST",
+  "titulo": "A oração de Ester: não tenho outro auxílio senão tu",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 14,1-19",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A oração de Ester: não tenho outro auxílio senão tu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ester, aterrada, recorre ao Senhor: depõe as vestes reais, veste luto, cobre a cabeça de cinza e jejua. Reza: “Meu Senhor, tu que és o único Rei, socorre-me, que estou só e não tenho outro auxílio fora de ti”. Recorda que Deus escolheu Israel como herança; confessa os pecados do povo. Pede que Deus não entregue o seu cetro aos que nada são, que se lembre do seu povo no tempo da tribulação, que ponha palavras certas na sua boca diante do “leão” e mude o coração do rei. Declara que detesta a glória dos ímpios e a coroa que deve usar; que nunca se alegrou senão em Deus. Conclui: “Ouve a voz dos que não têm outra esperança; livra-me do meu temor”.",
+    "alegorico": "A oração de Ester é usada pela Igreja na Quaresma. Ester, sozinha diante do perigo, é figura de Cristo no Getsêmani e de Maria que intercede. “Não tenho outro auxílio senão tu” é a oração do pobre de Deus.",
+    "moral": "Ester mostra que a oração verdadeira nasce da humildade (depor as vestes reais) e da solidão diante de Deus. Confessa o pecado, recorda as promessas, pede palavras e coragem. A sua alegria não está na coroa, mas em Deus.",
+    "anagogico": "“Lembra-te de nós, Senhor, mostra-nos a tua face”: o desejo de ver a face de Deus se cumprirá na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Meu Senhor, tu que és o único Rei, socorre-me a mim abandonada, que não tenho outro auxílio fora de ti. Lembra-te de nós, Senhor, mostra-nos a tua face no tempo da tribulação, e dá-me força. Põe na minha boca palavras próprias. Deus forte sobre todos, ouve a voz daqueles que não têm outra esperança, e livra-me do meu temor.",
+    "meditatio_perguntas": [
+      "Em que situação me sinto “sem outro auxílio” senão Deus?",
+      "Sei “depor as vestes reais” para rezar com humildade?",
+      "A minha alegria está nas honras ou em Deus?"
+    ],
+    "oratio_guia": "Meu Senhor, único Rei, socorre-me, que não tenho outro auxílio fora de ti. Lembra-te de mim, mostra-me a tua face, põe palavras certas na minha boca e livra-me do meu temor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu Senhor, tu que és o único Rei, socorre-me a mim abandonada, que não tenho outro auxílio fora de ti.",
+      "ref": "Est 14,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

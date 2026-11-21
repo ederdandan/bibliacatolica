@@ -1,0 +1,57 @@
+{
+  "id": "EST.3.1",
+  "livro": "EST",
+  "titulo": "Mardoqueu não se prostra: o decreto de Amã",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 3,1-15",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Mardoqueu não se prostra: o decreto de Amã",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei eleva Amã, o agagita, acima de todos os príncipes, e manda que todos se prostrem diante dele. Só Mardoqueu se recusa, porque é judeu e não presta a um homem a honra devida a Deus. Amã, furioso, decide exterminar não apenas Mardoqueu, mas todo o seu povo. Lança sortes (pur) para escolher a data: o dia treze de Adar. Acusa diante do rei “um povo disperso, com leis diferentes, que despreza as ordens do rei”, e oferece dez mil talentos. O rei lhe dá o anel; o decreto de extermínio é enviado a todas as províncias. Enquanto o rei e Amã banqueteiam, a cidade de Susa fica consternada.",
+    "alegorico": "O ódio de Amã contra um povo inteiro antecipa todas as perseguições contra o povo de Deus, até as perseguições contra a Igreja. Mardoqueu, que não se prostra diante de um homem, é figura dos mártires que não adoram senão a Deus.",
+    "moral": "O orgulho ferido de um só homem pode desencadear o ódio contra um povo inteiro. A acusação de Amã (“são diferentes, não obedecem”) é o modelo eterno do preconceito. Mardoqueu ensina a objeção de consciência: não dar a ninguém a honra devida só a Deus.",
+    "anagogico": "O banquete dos perseguidores diante do povo que chora não é a última palavra; a história caminha para o juízo em que Deus fará justiça aos oprimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Todos os servos do rei se prostravam diante de Amã; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele. Amã quis acabar com todo o povo de Mardoqueu. Disse ao rei: “Há um povo disperso por todas as províncias do teu reino, que pratica leis diferentes”. E o rei e Amã celebravam um banquete, enquanto os judeus choravam.",
+    "meditatio_perguntas": [
+      "Diante de quem eu “me prostro” indevidamente?",
+      "Reconheço em mim preconceitos contra quem é diferente?",
+      "Tenho coragem de dizer “não” quando a consciência o exige?"
+    ],
+    "oratio_guia": "Senhor, só a ti adoro. Dá-me a firmeza de Mardoqueu para não dobrar os joelhos diante de nenhum ídolo. Livra o mundo do ódio contra povos e pessoas, e protege os perseguidos. Amém.",
+    "contemplatio_foco": {
+      "texto": "só Mardoqueu não dobrava os joelhos nem se prostrava diante dele",
+      "ref": "Est 3,2"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Agagita”: descendente de Agag, rei amalecita, inimigo tradicional de Israel (1Sm 15); Mardoqueu é da família de Saul (Cis).",
+        "origem": "ia"
+      }
+    },
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pur, “sorte”, dá nome à festa de Purim (Est 9,26).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

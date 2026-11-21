@@ -1,0 +1,49 @@
+{
+  "id": "TOB.6.1",
+  "livro": "TOB",
+  "titulo": "O peixe do Tigre e o matrimônio santo",
+  "secao": "A viagem com o anjo",
+  "referencia": "Tb 6,1-22",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O peixe do Tigre e o matrimônio santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Junto ao Tigre, um grande peixe ameaça Tobias; o anjo manda agarrá-lo e guardar o coração, o fígado e o fel: o fumo do coração e do fígado afugenta os demônios, o fel cura os olhos. O anjo propõe que Tobias case com Sara, sua parente, filha única de Raguel. Tobias tem medo, por causa dos sete maridos mortos. Rafael explica: o demônio tem poder sobre os que se casam excluindo Deus e entregando-se à paixão como animais sem entendimento. Tobias deve rezar com a esposa durante três noites, queimar o fígado do peixe e unir-se a ela no temor de Deus, mais pelo desejo de filhos do que pela sensualidade.",
+    "alegorico": "Os Padres viram no peixe uma figura de Cristo (o “Ichthys”), cujo coração afasta o demônio e cujo fel abre os olhos dos cegos. O matrimônio vivido em oração prefigura o sacramento, em que Cristo está presente na união dos esposos.",
+    "moral": "O texto oferece uma espiritualidade do matrimônio: Deus no centro, a oração dos esposos, o domínio de si e a abertura à vida. O amor conjugal sem Deus fica vulnerável ao mal. O medo é vencido pela palavra do anjo e pela oração.",
+    "anagogico": "As bênçãos prometidas aos esposos santos (a companhia dos patriarcas e a descendência) apontam para a comunhão dos santos e a herança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O anjo disse: “Pega o peixe e guarda o coração, o fígado e o fel, porque servem de remédios”. E acrescentou: “O demônio tem poder sobre os que se casam lançando Deus fora do seu coração. Tu, porém, com ela, não cuidarás de outra coisa senão de fazer oração”.",
+    "meditatio_perguntas": [
+      "Que lugar tem Deus nas minhas relações afetivas?",
+      "Como vivo (ou preparo) o matrimônio: com oração ou só com sentimento?",
+      "Que medos me impedem de seguir o caminho que Deus me mostra?"
+    ],
+    "oratio_guia": "Senhor, que os casais coloquem a ti no centro do seu amor. Afasta o mal das famílias e dá aos esposos a graça de rezar juntos. Dá-me vencer os meus medos com a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porém tu, quando a tiveres recebido, tendo entrado na câmara, viverás com ela em continência durante três dias, e não cuidarás noutra coisa que em fazer oração com ela.",
+      "ref": "Tb 6,18"
+    }
+  },
+  "ancoras": {
+    "6:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As “três noites de Tobias” inspiraram, na Idade Média, o costume de os esposos rezarem antes de consumar o matrimônio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

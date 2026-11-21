@@ -1,0 +1,49 @@
+{
+  "id": "EST.6.1",
+  "livro": "EST",
+  "titulo": "A noite sem sono do rei: Mardoqueu honrado",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 6,1-14",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A noite sem sono do rei: Mardoqueu honrado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naquela noite o rei não consegue dormir e manda ler as crônicas. Ouve como Mardoqueu salvou a sua vida e pergunta que recompensa recebeu: nenhuma. Nesse momento chega Amã para pedir a morte de Mardoqueu. O rei pergunta: “Que se deve fazer ao homem que o rei quer honrar?” Amã, pensando que é ele mesmo, propõe vestes reais, cavalo do rei e um príncipe que o conduza proclamando a sua honra. O rei ordena: faze isso a Mardoqueu. Amã obedece, humilhado, e volta para casa coberto de luto. Os sábios e a mulher dizem: se Mardoqueu é judeu, cairás diante dele. Os eunucos o levam ao banquete.",
+    "alegorico": "A noite sem sono do rei é sinal da providência silenciosa de Deus, cujo nome não aparece no texto hebraico, mas cuja mão conduz tudo. A inversão de destinos anuncia o Magnificat: Deus derruba os soberbos e exalta os humildes.",
+    "moral": "Amã é vítima do próprio orgulho: imagina honras para si e acaba honrando o inimigo. A fidelidade de Mardoqueu, esquecida, é lembrada no momento exato. O bem feito em silêncio não se perde; Deus sabe o momento de manifestá-lo.",
+    "anagogico": "A honra pública dada ao justo antecipa o juízo final, em que o bem escondido será revelado e recompensado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O rei passou aquela noite sem dormir e mandou ler as crônicas. Perguntou: “Que honra recebeu Mardoqueu por tanta fidelidade?” Responderam: “Nenhuma”. O rei disse a Amã: “Faz tudo o que disseste ao judeu Mardoqueu”. Amã clamava diante dele: “Assim é honrado aquele a quem o rei quiser honrar”.",
+    "meditatio_perguntas": [
+      "Consigo confiar que o bem que faço em silêncio não se perde?",
+      "O orgulho já me fez imaginar honras que não vieram?",
+      "Vejo a providência nas “noites sem sono” e nos pequenos acasos?"
+    ],
+    "oratio_guia": "Senhor, tu vês o bem feito em segredo e sabes o momento de manifestá-lo. Livra-me do orgulho de Amã e dá-me a paciência de Mardoqueu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que honra e que recompensa recebeu Mardoqueu por tanta fidelidade?",
+      "ref": "Est 6,3"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto hebraico de Ester não menciona o nome de Deus; a sua presença é percebida na providência dos acontecimentos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

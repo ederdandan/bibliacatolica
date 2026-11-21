@@ -1,0 +1,49 @@
+{
+  "id": "TOB.4.1",
+  "livro": "TOB",
+  "titulo": "Os conselhos de Tobias ao filho",
+  "secao": "A viagem com o anjo",
+  "referencia": "Tb 4,1-23",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Os conselhos de Tobias ao filho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Julgando-se perto da morte, Tobias chama o filho e lhe dá um testamento espiritual: sepultar o pai, honrar a mãe por toda a vida, lembrando quanto sofreu por ele; ter Deus presente todos os dias; não pecar; dar esmola sem desviar o rosto de nenhum pobre (“se tiveres muito, dá muito; se pouco, dá do pouco”), porque a esmola livra da morte; fugir da impureza e da soberba; pagar logo o salário do trabalhador; “não faças a outro o que não queres que te façam”; repartir o pão com os famintos; pedir conselho ao sábio; bendizer a Deus sempre. Por fim, conta do dinheiro deixado com Gabelo e o anima: somos pobres, mas teremos muito se temermos a Deus.",
+    "alegorico": "O testamento de Tobias antecipa o ensinamento de Cristo: a regra de ouro (Mt 7,12), a esmola que acumula tesouro no céu (Mt 6,20), o pão partilhado. É a sabedoria do pai que forma o filho, imagem do Pai que educa os seus filhos.",
+    "moral": "Um verdadeiro programa de vida cristã: piedade, pureza, humildade, justiça social (salário imediato), caridade proporcional aos meios. A esmola não é só ajuda aos outros, mas purificação de quem dá. O conselho “não voltes o rosto a nenhum pobre” é concreto e exigente.",
+    "anagogico": "A esmola “entesoura uma grande recompensa para o dia da necessidade”: o dia do juízo, em que a misericórdia praticada se torna misericórdia recebida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ouve, meu filho, as palavras da minha boca. Honra tua mãe todos os dias da sua vida. Tem a Deus no teu espírito todos os dias. Dá esmola dos teus bens e não voltes a tua face a nenhum pobre. Se tiveres muito, dá muito; se tiveres pouco, dá do pouco. Não faças a outro o que não quererias que te fizessem.",
+    "meditatio_perguntas": [
+      "Qual destes conselhos mais preciso praticar agora?",
+      "Viro o rosto diante de algum pobre?",
+      "Pago com justiça e prontidão os que trabalham para mim?"
+    ],
+    "oratio_guia": "Senhor, grava no meu coração os conselhos de Tobias. Dá-me ter-te presente todos os dias, honrar os meus pais, nunca virar o rosto ao pobre e tratar os outros como quero ser tratado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá esmola dos teus bens, e não voltes a tua cara a nenhum pobre, porque desta sorte sucederá que também não se apartará de ti a face do Senhor.",
+      "ref": "Tb 4,7"
+    }
+  },
+  "ancoras": {
+    "4:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Forma negativa da “regra de ouro” (cf. Mt 7,12; Lc 6,31).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

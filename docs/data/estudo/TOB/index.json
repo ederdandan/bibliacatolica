@@ -1,0 +1,192 @@
+{
+ "livro": "TOB",
+ "secoes": [
+  "A provação de Tobias e de Sara",
+  "A viagem com o anjo",
+  "O regresso e a revelação"
+ ],
+ "pericopes": [
+  {
+   "id": "TOB.1.1",
+   "titulo": "Tobias, justo no exílio: as obras de misericórdia",
+   "secao": "A provação de Tobias e de Sara",
+   "referencia": "Tb 1,1-25",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 25
+   }
+  },
+  {
+   "id": "TOB.2.1",
+   "titulo": "A cegueira de Tobias e a paciência na prova",
+   "secao": "A provação de Tobias e de Sara",
+   "referencia": "Tb 2,1-23",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "TOB.3.1",
+   "titulo": "Duas orações ouvidas: Tobias e Sara",
+   "secao": "A provação de Tobias e de Sara",
+   "referencia": "Tb 3,1-25",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 25
+   }
+  },
+  {
+   "id": "TOB.4.1",
+   "titulo": "Os conselhos de Tobias ao filho",
+   "secao": "A viagem com o anjo",
+   "referencia": "Tb 4,1-23",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 23
+   }
+  },
+  {
+   "id": "TOB.5.1",
+   "titulo": "O anjo, companheiro de viagem",
+   "secao": "A viagem com o anjo",
+   "referencia": "Tb 5,1-28",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 28
+   }
+  },
+  {
+   "id": "TOB.6.1",
+   "titulo": "O peixe do Tigre e o matrimônio santo",
+   "secao": "A viagem com o anjo",
+   "referencia": "Tb 6,1-22",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 22
+   }
+  },
+  {
+   "id": "TOB.7.1",
+   "titulo": "Em casa de Raguel: Sara dada por esposa",
+   "secao": "A viagem com o anjo",
+   "referencia": "Tb 7,1-20",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 20
+   }
+  },
+  {
+   "id": "TOB.8.1",
+   "titulo": "A oração dos esposos na noite de núpcias",
+   "secao": "A viagem com o anjo",
+   "referencia": "Tb 8,1-24",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 24
+   }
+  },
+  {
+   "id": "TOB.9.1",
+   "titulo": "As bodas e a espera angustiada dos pais",
+   "secao": "O regresso e a revelação",
+   "referencia": "Tb 9,1–10,13",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 13
+   }
+  },
+  {
+   "id": "TOB.11.1",
+   "titulo": "O regresso do filho e a cura do pai",
+   "secao": "O regresso e a revelação",
+   "referencia": "Tb 11,1-21",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 21
+   }
+  },
+  {
+   "id": "TOB.12.1",
+   "titulo": "Eu sou o anjo Rafael",
+   "secao": "O regresso e a revelação",
+   "referencia": "Tb 12,1-22",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 22
+   }
+  },
+  {
+   "id": "TOB.13.1",
+   "titulo": "Cântico de Tobias: Jerusalém gloriosa",
+   "secao": "O regresso e a revelação",
+   "referencia": "Tb 13,1-23",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 23
+   }
+  },
+  {
+   "id": "TOB.14.1",
+   "titulo": "Testamento e morte de Tobias",
+   "secao": "O regresso e a revelação",
+   "referencia": "Tb 14,1-17",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 17
+   }
+  }
+ ]
+}

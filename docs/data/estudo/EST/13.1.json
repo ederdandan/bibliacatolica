@@ -1,0 +1,40 @@
+{
+  "id": "EST.13.1",
+  "livro": "EST",
+  "titulo": "O decreto de Amã e a oração de Mardoqueu",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 13,1-18",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O decreto de Amã e a oração de Mardoqueu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O texto do decreto de extermínio, em nome de Artaxerxes: o rei afirma querer governar com clemência, mas, informado por Amã de que um povo se opõe a todos e perturba a paz, ordena exterminá-lo num só dia. Segue a oração de Mardoqueu: “Senhor, Rei onipotente, tudo está em teu poder; ninguém pode resistir à tua vontade”. Explica que não se prostrou diante de Amã por orgulho, mas para não dar a um homem a honra devida a Deus; por Israel, beijaria até os seus pés. Pede misericórdia para a herança resgatada do Egito: “Muda o nosso pranto em alegria, para que, vivendo, louvemos o teu nome”. Todo Israel clama com um só coração.",
+    "alegorico": "A Igreja reza a oração de Mardoqueu na liturgia (antífona de entrada: “Senhor, Rei onipotente, tudo está em teu poder”). A sua recusa de adorar um homem é a mesma dos mártires cristãos diante do culto ao imperador.",
+    "moral": "A oração de Mardoqueu é um exame de consciência: ele purifica a intenção, mostra que a sua resistência não vem de orgulho. Ensina a distinguir a firmeza da fé da teimosia pessoal. Pede a vida para louvar: a finalidade da vida é o louvor.",
+    "anagogico": "“Não feches a boca dos que te louvam”: a vida é dada para o louvor, que se consumará na eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Senhor, Senhor, rei onipotente, no teu poder estão todas as coisas, e não há quem possa resistir à tua vontade. Tu sabes que não foi por soberba que não adorei Amã, mas porque temi dar a um homem a honra devida ao meu Deus. Muda o nosso pranto em gozo, para que, vivendo, louvemos o teu nome.",
+    "meditatio_perguntas": [
+      "As minhas “firmezas” vêm da fé ou do orgulho?",
+      "Peço a Deus vida para louvá-lo?",
+      "Rezo “com um só coração” com a comunidade?"
+    ],
+    "oratio_guia": "Senhor, Rei onipotente, tudo está em teu poder. Purifica as minhas intenções. Muda o nosso pranto em alegria, para que, vivendo, louvemos o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, Senhor, rei omnipotente, no teu poder estão postas todas as coisas, e não há quem possa resistir á tua vontade",
+      "ref": "Est 13,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "JDT.7.1",
+  "livro": "JDT",
+  "titulo": "O cerco de Betúlia e o desânimo do povo",
+  "secao": "A ameaça de Holofernes",
+  "referencia": "Jt 7,1-25",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O cerco de Betúlia e o desânimo do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Holofernes marcha contra Betúlia com um exército imenso. Os israelitas se prostram e pedem misericórdia, depois guardam as passagens. Seguindo o conselho dos amonitas e moabitas, Holofernes corta o aqueduto e põe guardas nas fontes. Depois de vinte dias as cisternas se esgotam. O povo, desesperado, acusa Ozias e exige a rendição: melhor viver cativos bendizendo a Deus do que ver morrer de sede mulheres e filhos. Clamam a Deus, confessando os seus pecados. Ozias, em lágrimas, propõe: esperemos cinco dias a misericórdia do Senhor; se não vier socorro, faremos o que dizeis.",
+    "alegorico": "Betúlia sitiada e sedenta é figura da Igreja e da alma em tempo de provação, quando as fontes parecem secar. A tentação de pôr prazo a Deus é a mesma do povo no deserto (Ex 17,7: “o Senhor está ou não no meio de nós?”).",
+    "moral": "O desânimo é compreensível: a sede é real, os filhos sofrem. Mas o texto mostra o perigo de fixar condições para Deus agir. Ozias, com boa intenção, cede a um compromisso que limita a confiança. A confissão dos pecados, porém, é sincera e abre caminho à graça.",
+    "anagogico": "Os “cinco dias” da espera humana contrastam com a paciência de Deus, cujo tempo é diferente; a salvação definitiva chega quando ele quer, não quando exigimos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Holofernes cortou o aqueduto e pôs guardas nas fontes. Esgotaram-se as cisternas. O povo disse a Ozias: “Entrega a cidade”. E clamaram: “Pecamos nós e os nossos pais. Tu, que és piedoso, compadece-te de nós”. Ozias disse: “Tende bom ânimo, irmãos; por estes cinco dias esperemos a misericórdia do Senhor”.",
+    "meditatio_perguntas": [
+      "Já “pus prazo” para Deus agir na minha vida?",
+      "Como reajo quando as fontes de consolo secam?",
+      "Sei confessar os pecados sem cair no desespero?"
+    ],
+    "oratio_guia": "Senhor, quando as fontes secarem e a sede apertar, não me deixes cair no desespero nem pôr prazos à tua misericórdia. Pequei, mas tu és piedoso: compadece-te de nós. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tende bom ânimo, irmãos, e por estes cinco dias esperemos a misericórdia do Senhor.",
+      "ref": "Jt 7,23"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

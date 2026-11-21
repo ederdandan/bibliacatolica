@@ -1,0 +1,191 @@
+{
+ "livro": "EST",
+ "secoes": [
+  "A rainha Ester e a salvação do povo",
+  "Os acréscimos gregos"
+ ],
+ "pericopes": [
+  {
+   "id": "EST.1.1",
+   "titulo": "O banquete de Assuero e a recusa de Vasti",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 1,1-22",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 22
+   }
+  },
+  {
+   "id": "EST.2.1",
+   "titulo": "Ester, a órfã que se torna rainha",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 2,1-23",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "EST.3.1",
+   "titulo": "Mardoqueu não se prostra: o decreto de Amã",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 3,1-15",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 15
+   }
+  },
+  {
+   "id": "EST.4.1",
+   "titulo": "Quem sabe se não foi para esta hora que chegaste a rainha?",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 4,1-17",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 17
+   }
+  },
+  {
+   "id": "EST.5.1",
+   "titulo": "Ester diante do rei; a forca preparada por Amã",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 5,1-14",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 14
+   }
+  },
+  {
+   "id": "EST.6.1",
+   "titulo": "A noite sem sono do rei: Mardoqueu honrado",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 6,1-14",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 14
+   }
+  },
+  {
+   "id": "EST.7.1",
+   "titulo": "Amã desmascarado; o novo decreto",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 7,1–8,17",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 17
+   }
+  },
+  {
+   "id": "EST.9.1",
+   "titulo": "A festa de Purim: o luto mudado em alegria",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 9,1–10,3",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 3
+   }
+  },
+  {
+   "id": "EST.10.4",
+   "titulo": "O sonho de Mardoqueu e a sua explicação",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 10,4–12,6",
+   "ini": {
+    "c": 10,
+    "v": 4
+   },
+   "fim": {
+    "c": 12,
+    "v": 6
+   }
+  },
+  {
+   "id": "EST.13.1",
+   "titulo": "O decreto de Amã e a oração de Mardoqueu",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 13,1-18",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 18
+   }
+  },
+  {
+   "id": "EST.14.1",
+   "titulo": "A oração de Ester: não tenho outro auxílio senão tu",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 14,1-19",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 19
+   }
+  },
+  {
+   "id": "EST.15.1",
+   "titulo": "Ester diante do rei: Deus mudou o coração do rei",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 15,1-19",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 19
+   }
+  },
+  {
+   "id": "EST.16.1",
+   "titulo": "O decreto de Artaxerxes em favor dos judeus",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 16,1-24",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 24
+   }
+  }
+ ]
+}

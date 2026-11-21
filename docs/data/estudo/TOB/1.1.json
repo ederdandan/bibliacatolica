@@ -1,0 +1,49 @@
+{
+  "id": "TOB.1.1",
+  "livro": "TOB",
+  "titulo": "Tobias, justo no exílio: as obras de misericórdia",
+  "secao": "A provação de Tobias e de Sara",
+  "referencia": "Tb 1,1-25",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Tobias, justo no exílio: as obras de misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tobias, da tribo de Neftali, foi levado cativo para Nínive no tempo de Salmanasar. Desde jovem foi fiel: quando todos adoravam os bezerros de ouro de Jeroboão, ele ia a Jerusalém oferecer primícias e dízimos. Casou com Ana e educou o filho no temor de Deus. No exílio, não se contaminou com os alimentos dos gentios. Deus lhe deu graça diante do rei; emprestou dez talentos a Gabelo, em Ragés. Sob Senaquerib, visitava os irmãos, alimentava os famintos, vestia os nus e sepultava os mortos. Condenado à morte por isso, fugiu e perdeu os bens; recuperou-os quando o rei foi assassinado.",
+    "alegorico": "Tobias, fiel em terra estrangeira, é figura do cristão que vive no mundo sem ser do mundo. As suas obras (alimentar, vestir, sepultar) são as que Cristo apresentará no juízo (Mt 25,35-36), e a Igreja as conta entre as obras de misericórdia corporais.",
+    "moral": "A fidelidade começa na juventude e se mantém contra a corrente (“só ele fugia da companhia de todos”). A fé se prova nas obras concretas de misericórdia, mesmo com risco. A educação religiosa dos filhos é uma das primeiras obras de um pai.",
+    "anagogico": "A misericórdia praticada no exílio é tesouro para a pátria; quem se lembra de Deus de todo o coração encontra graça diante dele no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tobias, levado cativo, não abandonou o caminho da verdade. Quando todos iam adorar os bezerros de ouro, só ele ia a Jerusalém. Ensinou o filho desde a infância a temer a Deus. Alimentava os famintos, vestia os nus e dava sepultura aos mortos.",
+    "meditatio_perguntas": [
+      "Sou capaz de ser fiel “contra a corrente”, quando todos fazem o contrário?",
+      "Que obra de misericórdia corporal pratico concretamente?",
+      "Como transmito a fé aos mais jovens?"
+    ],
+    "oratio_guia": "Senhor, dá-me a fidelidade de Tobias no meio de um mundo que esquece de ti. Faz-me atento aos famintos, aos nus e aos que morrem sozinhos. Ajuda-me a transmitir a fé aos que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Alimentava os famintos, vestia os nus e dava com solicitude sepultura aos que tinham falecido e aos que tinham sido mortos.",
+      "ref": "Tb 1,20"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Salmanasar V deportou as tribos do Norte para a Assíria por volta de 722 a.C. (2Rs 17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

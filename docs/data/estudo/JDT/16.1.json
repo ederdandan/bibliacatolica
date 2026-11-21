@@ -1,0 +1,40 @@
+{
+  "id": "JDT.16.1",
+  "livro": "JDT",
+  "titulo": "Cântico de Judite e o fim da sua vida",
+  "secao": "A vitória e o cântico",
+  "referencia": "Jt 16,1-31",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Cântico de Judite e o fim da sua vida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judite entoa um cântico novo ao som de tambores e címbalos: o Senhor põe fim às guerras; o assírio veio com multidões e ameaças, mas o Senhor o entregou à mão de uma mulher; não foram jovens nem gigantes que o derrubaram, mas Judite com a beleza do seu rosto. Louva o Senhor grande e criador: “Falaste, e as coisas foram feitas; enviaste o teu espírito, e foram criadas”; os montes tremem, mas os que te temem são grandes diante de ti. O povo vai a Jerusalém oferecer holocaustos, e Judite consagra a Deus os despojos de Holofernes. Viveu casta e honrada até cento e cinco anos, libertou a serva e foi sepultada com o marido. Enquanto viveu, ninguém perturbou Israel.",
+    "alegorico": "O cântico ecoa o de Moisés e Miriam (Ex 15) e prepara o Magnificat. “Enviaste o teu espírito, e foram criadas” é lido em referência ao Espírito Santo criador. Judite, viúva casta e fecunda em bênçãos para o povo, é figura da Igreja.",
+    "moral": "Depois da vitória, Judite não busca poder nem riqueza: consagra os despojos a Deus, volta à vida simples, liberta a serva e vive em fidelidade. A grandeza verdadeira está em temer a Deus. A gratidão se expressa no culto e no louvor.",
+    "anagogico": "“Os que te temem são grandes diante de ti”: a verdadeira grandeza será revelada no juízo; o anúncio do fogo e dos vermes recorda a seriedade do destino eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Louvai o Senhor ao som dos tambores, entoai-lhe um cântico novo. O Senhor é quem põe fim às guerras. Adonai, Senhor, tu és grande, magnífico no teu poder. Tu falaste, e as coisas foram feitas; enviaste o teu espírito, e foram criadas. Aqueles que te temem são grandes diante de ti em todas as coisas.",
+    "meditatio_perguntas": [
+      "Depois das vitórias, dou o mérito a Deus?",
+      "Busco a grandeza diante dos homens ou diante de Deus?",
+      "Que “cântico novo” posso entoar pelas libertações que recebi?"
+    ],
+    "oratio_guia": "Adonai, Senhor, tu és grande. Tu falaste e tudo foi feito; envia o teu Espírito e renova-nos. Que eu te tema e assim seja grande diante de ti. Põe fim às guerras e dá paz ao teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "enviaste o teu espírito, e foram criadas, e ninguém resiste à tua voz.",
+      "ref": "Jt 16,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

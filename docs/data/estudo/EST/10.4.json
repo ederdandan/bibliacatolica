@@ -1,0 +1,49 @@
+{
+  "id": "EST.10.4",
+  "livro": "EST",
+  "titulo": "O sonho de Mardoqueu e a sua explicação",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 10,4–12,6",
+  "ini": {
+    "c": 10,
+    "v": 4
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "O sonho de Mardoqueu e a sua explicação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começam os acréscimos gregos, que a Vulgata reúne no final. Mardoqueu afirma: “Deus é quem fez isto”, e explica um sonho que tivera: uma pequena fonte que se torna um grande rio (Ester); dois dragões (Mardoqueu e Amã); as nações reunidas contra os justos; o povo que clamou e foi salvo. Deus estabeleceu duas sortes, uma para o seu povo e outra para as nações. Segue o relato do sonho (cap. 11): vozes, trovões, terremotos; dois dragões prontos a lutar; as nações contra o povo dos justos; um dia de trevas e angústia; o povo clama, e uma pequena fonte se torna um rio, a luz e o sol brilham, os humildes são exaltados. O cap. 12 narra como Mardoqueu descobriu a conspiração contra o rei.",
+    "alegorico": "A pequena fonte que se torna rio é imagem de Maria, humilde, de quem nasce Cristo, rio de graça; e da Igreja, que cresce de pequenos começos. Os dois dragões em luta evocam o combate entre o bem e o mal descrito no Apocalipse (Ap 12).",
+    "moral": "O acréscimo dá uma leitura explícita de fé: “Deus é quem fez isto”. Ensina a reler a própria história e ver nela a mão de Deus. A salvação começa com o clamor do povo humilhado.",
+    "anagogico": "O dia de trevas que se transforma em luz, e os humildes exaltados, anunciam o fim da história, quando o Senhor vencer definitivamente o dragão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mardoqueu disse: “Deus é quem fez isto. A pequena fonte que cresceu até se tornar um rio é Ester. O meu povo é Israel, que clamou ao Senhor e foi salvo. O Senhor lembrou-se do seu povo e teve compaixão da sua herança”.",
+    "meditatio_perguntas": [
+      "Consigo dizer, olhando a minha história: “Deus é quem fez isto”?",
+      "Que “pequena fonte” Deus fez crescer na minha vida?",
+      "Clamo a Deus nos dias de trevas?"
+    ],
+    "oratio_guia": "Senhor, és tu que fazes todas as coisas. Lembra-te do teu povo e tem compaixão da tua herança. Faz crescer em mim a pequena fonte da tua graça até se tornar um rio. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor lembrou-se do seu povo, teve compaixão da sua herança.",
+      "ref": "Est 10,12"
+    }
+  },
+  "ancoras": {
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 10,4–16,24 da Vulgata são os acréscimos do texto grego, que S. Jerônimo colocou no fim do livro; a Igreja os recebe como canônicos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

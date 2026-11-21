@@ -1,0 +1,49 @@
+{
+  "id": "TOB.8.1",
+  "livro": "TOB",
+  "titulo": "A oração dos esposos na noite de núpcias",
+  "secao": "A viagem com o anjo",
+  "referencia": "Tb 8,1-24",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A oração dos esposos na noite de núpcias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tobias queima o fígado do peixe, e Rafael prende o demônio no deserto do Egito. Tobias convida Sara: “Levanta-te e oremos a Deus”, porque são filhos de santos e não se unem como os pagãos. Rezam juntos: bendizem a Deus pela criação, recordam Adão e Eva, e Tobias declara que não a toma por paixão, mas para que o nome de Deus seja bendito na descendência. Sara pede viverem juntos até a velhice. Raguel, temendo o pior, manda abrir uma cova; mas a criada os encontra dormindo, sãos e salvos. Raguel e Ana bendizem o Senhor, mandam encher a cova e oferecem um grande banquete.",
+    "alegorico": "A oração de Tobias e Sara é lida na liturgia do matrimônio: a união conjugal remete ao projeto original da criação (Adão e Eva) renovado em Cristo, que faz do matrimônio sacramento. A cova preparada e não usada é sinal da morte vencida.",
+    "moral": "A oração conjugal é a força dos esposos: juntos, bendizem, recordam o plano de Deus e pedem fidelidade até a velhice. O amor verdadeiro não é só paixão, mas doação aberta à vida e ao louvor de Deus.",
+    "anagogico": "“Viver juntos até a velhice” e o louvor “pelos séculos dos séculos” apontam para o amor que, purificado, passa pela morte e se consuma em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tobias disse: “Sara, levanta-te e façamos oração a Deus”. E rezaram: “Senhor Deus de nossos pais, bendigam-te o céu e a terra. Tu fizeste Adão e deste-lhe Eva por companheira. Não é por paixão que tomo esta minha irmã por esposa”. E Sara disse: “Compadece-te de nós, Senhor, e faz que vivamos juntos até a velhice”.",
+    "meditatio_perguntas": [
+      "Os casais que conheço (ou eu) rezam juntos?",
+      "Como vejo o amor: só como sentimento ou como vocação?",
+      "Bendigo a Deus pelos dons recebidos, como Raguel?"
+    ],
+    "oratio_guia": "Senhor, que fizeste Adão e lhe deste Eva por companheira, abençoa os esposos. Que rezem juntos, se amem com pureza e vivam juntos até a velhice, bendizendo o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Compadece-te de nós, Senhor, compadece-te de nós, e faz que vivamos juntos até à velhice em perfeita saúde.",
+      "ref": "Tb 8,10"
+    }
+  },
+  "ancoras": {
+    "8:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tb 8,4-8 é uma das leituras previstas no Ritual do Matrimônio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EST.1.1",
+  "livro": "EST",
+  "titulo": "O banquete de Assuero e a recusa de Vasti",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O banquete de Assuero e a recusa de Vasti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Assuero, rei da Pérsia, que domina cento e vinte e sete províncias da Índia à Etiópia, oferece em Susa um banquete de cento e oitenta dias para mostrar a sua riqueza, e depois outro de sete dias para todo o povo, com luxo extremo. No sétimo dia, alegre pelo vinho, manda chamar a rainha Vasti para exibir a sua beleza aos convidados. Ela recusa. O rei, furioso, consulta os sábios; Memucã aconselha depor Vasti, para que as mulheres do reino não desprezem os maridos. O rei publica um edito em todas as línguas.",
+    "alegorico": "A corte de Assuero, com o seu luxo e vaidade, é imagem do mundo que se exibe e passa. A deposição de Vasti abre caminho para Ester: Deus prepara a salvação através de acontecimentos aparentemente banais.",
+    "moral": "O texto mostra, com certa ironia, a fragilidade do poder humano: um rei que governa um império, mas é dominado pelo vinho e pela ira, e decide por pressão dos conselheiros. O excesso e a ostentação levam a decisões precipitadas.",
+    "anagogico": "A glória dos banquetes terrenos é passageira; o verdadeiro banquete é o do Reino, onde não há vaidade nem excesso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Assuero deu um grande festim para ostentar a riqueza do seu reino. Ao sétimo dia, quando estava mais alegre pelo vinho, mandou chamar a rainha Vasti, para que todos vissem a sua beleza. Ela, porém, recusou-se a ir. O rei, irado, consultou os sábios.",
+    "meditatio_perguntas": [
+      "Que lugar ocupa a ostentação na minha vida?",
+      "Tomo decisões importantes com a cabeça fria, ou levado pela ira?",
+      "Consigo ver Deus agindo por meio de acontecimentos comuns?"
+    ],
+    "oratio_guia": "Senhor, livra-me da vaidade e da ira que levam a decisões precipitadas. Ensina-me a ver a tua mão discreta nos acontecimentos de cada dia. Amém.",
+    "contemplatio_foco": {
+      "texto": "para ostentar a riqueza e o esplendor do seu reino, a grandeza e o fausto do seu poder",
+      "ref": "Est 1,4"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Assuero é geralmente identificado com Xerxes I (486–465 a.C.).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

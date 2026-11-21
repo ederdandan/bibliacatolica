@@ -1,0 +1,40 @@
+{
+  "id": "EST.5.1",
+  "livro": "EST",
+  "titulo": "Ester diante do rei; a forca preparada por Amã",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 5,1-14",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Ester diante do rei; a forca preparada por Amã",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No terceiro dia, Ester veste os trajes reais e se apresenta no átrio. O rei a olha com agrado e estende o cetro de ouro; ela toca a ponta. Ele oferece até metade do reino. Ester, com prudência, convida o rei e Amã para um banquete, e no banquete os convida para outro no dia seguinte, quando dirá o seu pedido. Amã sai alegre, mas, vendo Mardoqueu que não se levanta diante dele, enche-se de ira. Em casa, gaba-se das riquezas, dos filhos e das honras, mas diz: nada disso me vale enquanto vir Mardoqueu à porta do rei. A mulher e os amigos aconselham erguer uma forca de cinquenta côvados para enforcá-lo.",
+    "alegorico": "O cetro estendido é sinal da graça que acolhe quem se aproxima: Cristo é o Rei que estende o cetro da misericórdia. A forca preparada por Amã para o justo voltar-se-á contra ele, como a Cruz preparada para Cristo se tornou derrota do mal.",
+    "moral": "Ester age com paciência e sabedoria, não com pressa. Amã mostra a lógica da inveja: tem tudo, mas um único homem que não o honra estraga toda a sua alegria. O ódio cego prepara a própria ruína.",
+    "anagogico": "A graça do Rei que acolhe a rainha anuncia o acolhimento final dos que se aproximam de Deus com confiança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ester apresentou-se no átrio do palácio. O rei olhou-a com agrado e estendeu para ela o cetro de ouro. Disse-lhe: “Que queres tu, rainha Ester? Ainda que me peças metade do reino, te será dada”. Amã disse: “Embora tenha tudo isto, nada me parece ter enquanto vir o judeu Mardoqueu”.",
+    "meditatio_perguntas": [
+      "Que “Mardoqueu” rouba a minha alegria por inveja ou ressentimento?",
+      "Sei esperar o momento certo para falar?",
+      "Aproximo-me de Deus com a confiança de quem será acolhido?"
+    ],
+    "oratio_guia": "Senhor, estende sobre mim o cetro da tua misericórdia. Livra o meu coração da inveja que destrói a alegria. Dá-me a paciência e a prudência de Ester. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o ceptro de ouro, que tinha na mão.",
+      "ref": "Est 5,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

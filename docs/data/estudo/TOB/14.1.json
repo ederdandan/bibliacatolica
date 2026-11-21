@@ -1,0 +1,40 @@
+{
+  "id": "TOB.14.1",
+  "livro": "TOB",
+  "titulo": "Testamento e morte de Tobias",
+  "secao": "O regresso e a revelação",
+  "referencia": "Tb 14,1-17",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Testamento e morte de Tobias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tobias viveu ainda quarenta e dois anos depois de recuperar a vista e viu os bisnetos; quanto mais progredia no temor de Deus, mais crescia a sua paz. Ao morrer, chama o filho e os netos: Nínive será destruída, mas os dispersos voltarão, o Templo será reconstruído e as nações abandonarão os ídolos e virão a Jerusalém para honrar o rei de Israel. Recomenda servir ao Senhor em verdade, fazer obras de justiça, dar esmola e bendizer a Deus sempre; e deixar Nínive depois de sepultar a mãe. O filho obedece, cuida dos sogros até à morte e vive noventa e nove anos no temor do Senhor. Toda a descendência persevera numa vida santa, amada por Deus e pelos homens.",
+    "alegorico": "A visão das nações que vêm adorar o rei de Israel anuncia a Igreja universal reunida em Cristo, o Messias. A morte serena de Tobias, rodeado dos seus, é imagem da “boa morte” do justo.",
+    "moral": "A paz cresce com o temor de Deus: a santidade é caminho de serenidade. Tobias deixa aos filhos uma herança espiritual: verdade, justiça, esmola e louvor. A fidelidade de uma família atravessa gerações.",
+    "anagogico": "A esperança de uma Jerusalém restaurada, para onde todos os povos virão, é a esperança da vida eterna e da reunião de todos em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Depois que recobrou a vista, Tobias viveu na alegria; à medida que progredia no temor de Deus, aumentava a sua paz. À hora da morte disse aos filhos: “Servi ao Senhor em verdade; dai esmolas; lembrai-vos de Deus e bendizei-o em todo o tempo”. Toda a sua descendência perseverou numa vida santa.",
+    "meditatio_perguntas": [
+      "A minha paz cresce à medida que cresço no temor de Deus?",
+      "Que herança espiritual deixarei aos que vêm depois de mim?",
+      "Preparo-me para uma boa morte?"
+    ],
+    "oratio_guia": "Senhor, que eu cresça no teu temor e na tua paz até o fim. Dá-me deixar aos meus uma herança de fé, justiça e caridade. Concede-me uma boa morte, rodeado do teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "à medida que progredia no temor de Deus, aumentava a sua paz.",
+      "ref": "Tb 14,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

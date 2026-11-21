@@ -1,0 +1,57 @@
+{
+  "id": "RUT.4.1",
+  "livro": "RUT",
+  "titulo": "Booz resgata Rute: a descendência de Davi",
+  "secao": "Rute, a estrangeira fiel",
+  "referencia": "Rt 4,1-22",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Booz resgata Rute: a descendência de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "À porta da cidade, diante de dez anciãos, Booz propõe ao parente mais próximo resgatar o campo de Elimelec; ele aceita, mas recusa quando sabe que deve casar com Rute, para não prejudicar a sua herança, e tira a sandália, sinal de cessão. Booz compra tudo e toma Rute por esposa, diante de testemunhas que o abençoam: seja como Raquel e Lia. O Senhor concede a Rute um filho. As mulheres bendizem o Senhor, que não deixou faltar a Noemi um resgatador; Rute é melhor para ela que sete filhos. Noemi toma o menino no colo. Chamam-no Obed, pai de Jessé, pai de Davi. Segue a genealogia de Farés a Davi.",
+    "alegorico": "Booz, que resgata livremente o que outro não quis resgatar, é figura de Cristo Redentor, que paga o preço e toma por esposa a humanidade estrangeira. Da união de Booz e Rute nasce a linhagem de Davi e, por ela, de Cristo (Mt 1,5-6). A estrangeira entra na genealogia do Messias.",
+    "moral": "O livro termina transformando a amargura de Noemi em alegria: o “vazio” se torna plenitude no menino em seu colo. A fidelidade escondida de pessoas simples é usada por Deus na grande história da salvação. Booz ensina a assumir responsabilidades que outros recusam.",
+    "anagogico": "O nascimento que conduz a Davi aponta para o Filho de Davi, cujo Reino não terá fim; a alegria de Noemi anuncia a consolação definitiva dos que esperam."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Booz disse aos anciãos: “Vós sois hoje testemunhas de que recebo por esposa Rute, a moabita”. O Senhor concedeu a Rute conceber e dar à luz um filho. As mulheres disseram a Noemi: “Bendito seja o Senhor, que não te deixou sem um resgatador”. Noemi tomou o menino no colo. Chamaram-no Obed: foi pai de Jessé, pai de Davi.",
+    "meditatio_perguntas": [
+      "Assumo responsabilidades que outros recusam?",
+      "Acredito que Deus pode transformar a minha amargura em alegria?",
+      "Vejo como a minha fidelidade escondida pode servir ao plano de Deus?"
+    ],
+    "oratio_guia": "Senhor, que resgataste Rute por meio de Booz e a fizeste mãe da linhagem de Davi, resgata-me em Cristo. Transforma a minha amargura em alegria e usa a minha pequena fidelidade no teu grande plano. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bendito seja o Senhor, que não permitiu que te faltasse um redentor!",
+      "ref": "Rt 4,14"
+    }
+  },
+  "ancoras": {
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A sandália simbolizava o direito de pisar a terra, ou seja, a posse (cf. Dt 25,9).",
+        "origem": "ia"
+      }
+    },
+    "4:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rute é uma das quatro mulheres mencionadas na genealogia de Jesus em Mt 1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

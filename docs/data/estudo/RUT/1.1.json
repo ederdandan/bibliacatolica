@@ -1,0 +1,57 @@
+{
+  "id": "RUT.1.1",
+  "livro": "RUT",
+  "titulo": "O teu povo será o meu povo, e o teu Deus o meu Deus",
+  "secao": "Rute, a estrangeira fiel",
+  "referencia": "Rt 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O teu povo será o meu povo, e o teu Deus o meu Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No tempo dos juízes, a fome leva Elimelec, de Belém, a emigrar para Moab com a mulher Noemi e os dois filhos. Elimelec morre; os filhos casam com moabitas, Orfa e Rute, e também morrem. Noemi, sabendo que o Senhor deu pão ao seu povo, decide voltar e pede às noras que fiquem na sua terra. Orfa se despede; Rute se apega à sogra: “Para onde fores, irei; onde morares, morarei; o teu povo será o meu povo, e o teu Deus o meu Deus”. Em Belém, Noemi pede que a chamem Mara, “amarga”: saiu cheia e voltou vazia. Chegam no início da colheita da cevada.",
+    "alegorico": "Rute, estrangeira que adere ao Deus de Israel, é figura da Igreja vinda dos gentios, que deixa a sua terra para seguir o povo de Deus. Belém, “casa do pão”, que volta a ter pão, anuncia o lugar onde nascerá Cristo, o Pão da vida. Rute figura na genealogia de Jesus (Mt 1,5).",
+    "moral": "Rute é modelo de fidelidade gratuita: podia voltar à segurança, mas escolhe o amor e a fé. O seu juramento é uma das mais belas expressões de compromisso, usada também como imagem do amor conjugal. Noemi mostra que se pode dizer a Deus a própria amargura com sinceridade, sem perder a fé.",
+    "anagogico": "A volta a Belém no início da colheita anuncia que Deus transforma o vazio em plenitude; a peregrinação da fé termina na pátria onde a colheita é eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Houve fome na terra, e Elimelec foi com Noemi e os filhos para Moab. Morreram o marido e os filhos. Noemi disse às noras: “Voltai”. Orfa voltou, mas Rute disse: “Para onde tu fores, irei também eu. O teu povo será o meu povo, e o teu Deus o meu Deus”. Chegaram a Belém quando começava a colheita da cevada.",
+    "meditatio_perguntas": [
+      "Em que situação sou chamado a uma fidelidade que me custa?",
+      "Tenho coragem de dizer a Deus a minha amargura, como Noemi?",
+      "Como acolho os estrangeiros que querem fazer parte do nosso povo?"
+    ],
+    "oratio_guia": "Senhor, dá-me a fidelidade de Rute: onde fores, irei. Quando me sentir vazio como Noemi, lembra-me de que tu dás pão ao teu povo. Faz-me acolhedor dos estrangeiros. Amém.",
+    "contemplatio_foco": {
+      "texto": "O teu povo será o meu povo, e o teu Deus o meu Deus.",
+      "ref": "Rt 1,16"
+    }
+  },
+  "ancoras": {
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Noemi significa “agradável”; Mara, “amarga”.",
+        "origem": "ia"
+      }
+    },
+    "1:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A colheita da cevada acontecia por volta da Páscoa (abril).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

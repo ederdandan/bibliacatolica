@@ -1,0 +1,40 @@
+{
+  "id": "TOB.7.1",
+  "livro": "TOB",
+  "titulo": "Em casa de Raguel: Sara dada por esposa",
+  "secao": "A viagem com o anjo",
+  "referencia": "Tb 7,1-20",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Em casa de Raguel: Sara dada por esposa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Chegando a Ecbatana, são recebidos por Raguel, que nota a semelhança de Tobias com o primo. Sabendo que é filho de Tobias, abraça-o chorando e o abençoa. Prepara-se um banquete, mas Tobias não quer comer antes de pedir Sara em casamento. Raguel hesita, temendo pela vida do jovem; o anjo o tranquiliza: a filha é destinada a este homem temente a Deus. Raguel reconhece que Deus ouviu as suas orações; une as mãos direitas dos dois, invoca o Deus de Abraão, Isaac e Jacó e faz o contrato. A mãe de Sara a consola: o Senhor do céu te dê alegria pelos desgostos que sofreste.",
+    "alegorico": "O rito de unir as mãos e invocar a bênção do Deus dos patriarcas está na origem das bênçãos nupciais cristãs. A união de Tobias e Sara, preparada por Deus, é imagem da aliança entre Cristo e a Igreja.",
+    "moral": "Raguel reconhece a mão de Deus na história: as lágrimas foram ouvidas. Tobias põe o essencial antes do banquete. O matrimônio é apresentado como obra de Deus, que une e abençoa, não apenas contrato humano.",
+    "anagogico": "A alegria dada “pelos desgostos sofridos” anuncia a consolação final dos que sofreram, quando Deus enxugará toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Raguel, pegando a mão direita de sua filha, a pôs na mão direita de Tobias, dizendo: “O Deus de Abraão, o Deus de Isaac, o Deus de Jacó seja convosco; ele mesmo vos una e cumpra em vós a sua bênção”. A mãe disse a Sara: “Tem ânimo, minha filha; o Senhor do céu te encha de alegria pelos desgostos que sofreste”.",
+    "meditatio_perguntas": [
+      "Vejo a mão de Deus na história da minha família?",
+      "Peço a bênção de Deus nas decisões importantes?",
+      "Que desgosto meu Deus pode transformar em alegria?"
+    ],
+    "oratio_guia": "Deus de Abraão, de Isaac e de Jacó, une e abençoa os esposos. Que os casais vivam sob a tua bênção. Enche de alegria os que sofreram desgostos. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Deus de Abraão, o Deus de Isaac o Deus de Jacob seja convosco, que ele mesmo vos ajunte e cumpra em vós a sua bênção.",
+      "ref": "Tb 7,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

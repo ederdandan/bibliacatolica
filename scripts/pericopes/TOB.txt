@@ -1,0 +1,18 @@
+# Divisão de Tobias em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A provação de Tobias e de Sara
+1:1-1:25 | Tobias, justo no exílio: as obras de misericórdia
+2:1-2:23 | A cegueira de Tobias e a paciência na prova
+3:1-3:25 | Duas orações ouvidas: Tobias e Sara
+## A viagem com o anjo
+4:1-4:23 | Os conselhos de Tobias ao filho
+5:1-5:28 | O anjo, companheiro de viagem
+6:1-6:22 | O peixe do Tigre e o matrimônio santo
+7:1-7:20 | Em casa de Raguel: Sara dada por esposa
+8:1-8:24 | A oração dos esposos na noite de núpcias
+## O regresso e a revelação
+9:1-10:13 | As bodas e a espera angustiada dos pais
+11:1-11:21 | O regresso do filho e a cura do pai
+12:1-12:22 | Eu sou o anjo Rafael
+13:1-13:23 | Cântico de Tobias: Jerusalém gloriosa
+14:1-14:17 | Testamento e morte de Tobias

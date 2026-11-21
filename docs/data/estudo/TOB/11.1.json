@@ -1,0 +1,40 @@
+{
+  "id": "TOB.11.1",
+  "livro": "TOB",
+  "titulo": "O regresso do filho e a cura do pai",
+  "secao": "O regresso e a revelação",
+  "referencia": "Tb 11,1-21",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O regresso do filho e a cura do pai",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No caminho de volta, o anjo propõe adiantar-se com Tobias e lembra de levar o fel do peixe. Ana, que todos os dias vigiava do alto de uma colina, vê o filho chegar e corre a avisar o marido. O cão corre à frente, festejando. O velho Tobias, cego, levanta-se e tropeça ao encontro do filho; abraçam-se chorando de alegria. Depois de adorar a Deus, o filho unge os olhos do pai com o fel; após meia hora sai uma película, e o pai volta a ver. Glorifica a Deus: “Bendigo-te, Senhor, porque me castigaste e me curaste: eis que vejo o meu filho”. Sara chega com a caravana; festejam sete dias.",
+    "alegorico": "A cura do cego evoca as curas de Cristo, luz do mundo (Jo 9). O reencontro do pai e do filho antecipa a parábola do filho pródigo. A Igreja vê no fel que cura um símbolo da Cruz, amarga, mas que abre os olhos.",
+    "moral": "O reencontro começa pela adoração: antes de tudo, dar graças a Deus. Tobias aceita que a prova também vinha de Deus (“castigaste e curaste”): olhar a vida inteira com fé. A alegria se partilha com a família e os amigos.",
+    "anagogico": "Ver novamente a luz do céu e o rosto do filho anuncia a visão de Deus face a face e o reencontro com os que amamos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ana viu ao longe o seu filho que vinha e correu a dizer: “Eis que vem o teu filho”. O pai, cego, levantou-se e correu ao encontro do filho. Abraçaram-se e choraram de alegria. Tobias untou os olhos do pai, e ele recobrou a vista. E disse: “Eu te bendigo, Senhor, porque me castigaste e me curaste; eis que vejo o meu filho Tobias!”",
+    "meditatio_perguntas": [
+      "Começo as minhas alegrias adorando e agradecendo a Deus?",
+      "Consigo ver a minha vida inteira, também as provas, nas mãos de Deus?",
+      "Que reencontro espero e confio a Deus?"
+    ],
+    "oratio_guia": "Senhor, eu te bendigo porque me provaste e me curaste. Abre os meus olhos para ver a tua luz e o rosto dos que amo. Que toda alegria comece em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu te bendigo. Senhor Deus de Israel, por me teres castigado e por me teres curado; eis que vejo o meu filho Tobias!",
+      "ref": "Tb 11,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

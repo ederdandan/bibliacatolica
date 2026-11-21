@@ -1,0 +1,49 @@
+{
+  "id": "TOB.2.1",
+  "livro": "TOB",
+  "titulo": "A cegueira de Tobias e a paciência na prova",
+  "secao": "A provação de Tobias e de Sara",
+  "referencia": "Tb 2,1-23",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A cegueira de Tobias e a paciência na prova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Num dia de festa, Tobias prepara um banquete e manda o filho chamar pobres tementes a Deus. Sabendo de um israelita assassinado na rua, levanta-se da mesa sem comer, esconde o corpo e o sepulta à noite, entre lágrimas, lembrando a palavra de Amós. Os vizinhos o criticam. Certo dia, cansado, dorme junto a um muro e fica cego com o esterco de andorinhas. Não se revolta contra Deus e continua a dar graças. Parentes e amigos zombam: “Onde está a tua esperança?” Ele responde: esperamos a vida que Deus dará aos que confiam nele. Quando Ana traz um cabrito, Tobias teme que seja roubado; ela o insulta: as tuas esperanças são vãs.",
+    "alegorico": "Tobias, comparado a Jó pelo próprio texto, é figura de Cristo justo que sofre e é escarnecido (“onde está a tua esperança?”, cf. Mt 27,43). Os Padres viram na sua cegueira a prova que purifica a fé.",
+    "moral": "A prova não é necessariamente castigo: pode ser escola de paciência e exemplo para outros. Tobias continua a agradecer na cegueira. A sua delicadeza de consciência (o cabrito) mostra que a pobreza não justifica a desonestidade. A incompreensão até em casa faz parte da cruz.",
+    "anagogico": "A esperança “daquela vida que Deus há de dar” é a vida eterna: é ela que sustenta a fé do justo provado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tobias, temendo mais a Deus do que ao rei, sepultava os mortos. Um dia ficou cego. Não se entristeceu contra Deus, mas permaneceu firme no seu temor, dando-lhe graças todos os dias. Diziam-lhe: “Onde está a tua esperança?” Ele respondia: “Esperamos aquela vida que Deus dará aos que confiam nele”.",
+    "meditatio_perguntas": [
+      "Como reajo quando o bem que faço parece trazer só sofrimento?",
+      "Consigo agradecer a Deus mesmo na prova?",
+      "Sou honesto mesmo na necessidade?"
+    ],
+    "oratio_guia": "Senhor, quando a prova chegar e me perguntarem “onde está a tua esperança?”, que eu responda com a fé de Tobias: espero a vida que dás aos que confiam em ti. Dá-me paciência e gratidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Permaneceu firme no temor de Deus, dando-lhe graças todos os dias da sua vida.",
+      "ref": "Tb 2,14"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Am 8,10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

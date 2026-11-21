@@ -1,0 +1,17 @@
+# Divisão de Ester em perícopes (numeração Matos Soares / Vulgata: os acréscimos gregos estão em 10,4–16,24). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A rainha Ester e a salvação do povo
+1:1-1:22 | O banquete de Assuero e a recusa de Vasti
+2:1-2:23 | Ester, a órfã que se torna rainha
+3:1-3:15 | Mardoqueu não se prostra: o decreto de Amã
+4:1-4:17 | Quem sabe se não foi para esta hora que chegaste a rainha?
+5:1-5:14 | Ester diante do rei; a forca preparada por Amã
+6:1-6:14 | A noite sem sono do rei: Mardoqueu honrado
+7:1-8:17 | Amã desmascarado; o novo decreto
+9:1-10:3 | A festa de Purim: o luto mudado em alegria
+## Os acréscimos gregos
+10:4-12:6 | O sonho de Mardoqueu e a sua explicação
+13:1-13:18 | O decreto de Amã e a oração de Mardoqueu
+14:1-14:19 | A oração de Ester: não tenho outro auxílio senão tu
+15:1-15:19 | Ester diante do rei: Deus mudou o coração do rei
+16:1-16:24 | O decreto de Artaxerxes em favor dos judeus

@@ -1,0 +1,49 @@
+{
+  "id": "TOB.5.1",
+  "livro": "TOB",
+  "titulo": "O anjo, companheiro de viagem",
+  "secao": "A viagem com o anjo",
+  "referencia": "Tb 5,1-28",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O anjo, companheiro de viagem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O jovem Tobias aceita a missão, mas não conhece o caminho nem Gabelo. O pai manda procurar um guia fiel. Tobias encontra um jovem de belo aspecto, pronto para caminhar: é um anjo de Deus, mas ele não sabe. O jovem diz conhecer o caminho e Gabelo. Diante do velho Tobias, que se lamenta de viver em trevas, o anjo diz: “Tem ânimo; é fácil a Deus curar-te”. Apresenta-se como Azarias. Partem; a mãe chora pelo filho, “bordão da nossa velhice”, mas o pai a consola: um bom anjo de Deus o acompanha.",
+    "alegorico": "A Igreja vê neste episódio a imagem do Anjo da Guarda, que acompanha cada pessoa no caminho da vida (memória dos Anjos da Guarda, 2 de outubro). Rafael, companheiro discreto, é figura de Cristo que caminhou com os discípulos de Emaús sem ser reconhecido.",
+    "moral": "Deus muitas vezes age por mediações discretas: pessoas e anjos que nos acompanham sem que saibamos. O salmo da confiança do velho Tobias consola os pais que veem os filhos partir. “É fácil a Deus curar-te”: uma palavra de esperança para quem está nas trevas.",
+    "anagogico": "O anjo que conduz e reconduz anuncia a viagem da vida: Deus nos conduz pelo caminho e nos reconduz à casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tobias encontrou um jovem pronto para caminhar, sem saber que era um anjo de Deus. O pai disse: “Que alegria posso ter, eu que estou em trevas?” O jovem respondeu: “Tem ânimo! É fácil a Deus curar-te”. À mãe que chorava, Tobias disse: “Creio que um bom anjo de Deus o acompanha”.",
+    "meditatio_perguntas": [
+      "Reconheço os “anjos” que Deus colocou no meu caminho?",
+      "Rezo ao meu Anjo da Guarda?",
+      "Como entrego a Deus os filhos e as pessoas que partem?"
+    ],
+    "oratio_guia": "Senhor, obrigado pelo anjo que me guarda e pelas pessoas que puseste no meu caminho. Acompanha-me, conduz-me e reconduz-me a ti. Consola os pais que veem os filhos partir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu creio que um bom anjo de Deus o acompanha e dispõe tudo o que lhe diz respeito, de modo que voltará para nós cheio de alegria.",
+      "ref": "Tb 5,27"
+    }
+  },
+  "ancoras": {
+    "5:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Azarias significa “o Senhor ajuda”; Ananias, “o Senhor é misericordioso”: nomes que revelam a missão do anjo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

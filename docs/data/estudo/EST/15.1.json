@@ -1,0 +1,40 @@
+{
+  "id": "EST.15.1",
+  "livro": "EST",
+  "titulo": "Ester diante do rei: Deus mudou o coração do rei",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 15,1-19",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Ester diante do rei: Deus mudou o coração do rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Mardoqueu insiste para que Ester interceda. No terceiro dia, ela se veste de glória e, invocando a Deus, vai ao rei apoiada em duas servas, escondendo o medo sob o rosto sereno. O rei, no trono, de aspecto terrível, olha-a com furor; Ester desmaia. Então “Deus mudou o coração do rei” para a mansidão: ele desce do trono, a sustenta nos braços e diz: “Que tens, Ester? Sou teu irmão, não temas; não morrerás: esta lei não é para ti”. Toca-a com o cetro. Ela diz: vi-te como um anjo de Deus, e o meu coração se perturbou. Desmaia de novo, e todos procuram reanimá-la.",
+    "alegorico": "“Esta lei não foi feita para ti” foi aplicada pela tradição a Maria, preservada da lei comum do pecado (Imaculada Conceição). O Rei que desce do trono para sustentar a rainha é imagem de Deus que desce até a humanidade frágil em Cristo.",
+    "moral": "O centro da cena é a ação de Deus: “Deus amansou o coração do rei”. A coragem de Ester não elimina o medo; ela vai apesar do medo. Deus pode transformar corações que parecem de pedra.",
+    "anagogico": "O Rei que acolhe, sustenta e diz “não temas” antecipa o encontro final com Deus, em que o temor será vencido pelo amor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ester, invocando a Deus, que é governador e salvador de todos, foi ter com o rei. Ele olhou-a com furor, e ela desmaiou. Então Deus amansou o coração do rei, que desceu do trono e, sustendo-a nos braços, dizia: “Que tens, Ester? Eu sou teu irmão, não temas. Não morrerás”.",
+    "meditatio_perguntas": [
+      "Vou adiante apesar do medo, confiando em Deus?",
+      "Peço a Deus que mude corações que parecem endurecidos?",
+      "Ouço Deus me dizer: “não temas”?"
+    ],
+    "oratio_guia": "Senhor, tu podes mudar os corações. Dá-me a coragem de ir adiante apesar do medo e amansa os corações endurecidos. Diz-me também: “Não temas”. Amém.",
+    "contemplatio_foco": {
+      "texto": "Então Deus amansou o coração do rei",
+      "ref": "Est 15,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

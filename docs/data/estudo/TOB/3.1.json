@@ -1,0 +1,49 @@
+{
+  "id": "TOB.3.1",
+  "livro": "TOB",
+  "titulo": "Duas orações ouvidas: Tobias e Sara",
+  "secao": "A provação de Tobias e de Sara",
+  "referencia": "Tb 3,1-25",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Duas orações ouvidas: Tobias e Sara",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Humilhado, Tobias reza entre lágrimas: reconhece a justiça de Deus e os pecados do povo, e pede que o espírito seja recebido em paz, porque prefere morrer. No mesmo dia, em Ecbatana, Sara, filha de Raguel, é insultada por uma criada: tivera sete maridos, mortos pelo demônio Asmodeu na noite de núpcias. Sara sobe ao quarto, jejua três dias e reza: bendiz o Deus que, depois da ira, usa de misericórdia; declara a sua pureza; reconhece que os desígnios de Deus são insondáveis; quem o serve terá a vida coroada após a prova. As duas orações chegam ao mesmo tempo diante de Deus, que envia o anjo Rafael para curar ambos.",
+    "alegorico": "Rafael (“Deus cura”) é figura da ação de Cristo, médico das almas, que une destinos e cura. As orações que sobem juntas diante de Deus evocam a intercessão dos anjos que apresentam as orações dos santos (Ap 8,3-4).",
+    "moral": "Duas pessoas em lugares diferentes, ambas no fundo do poço, rezam no mesmo dia, e Deus tece uma só resposta para as duas. A oração sincera, mesmo desesperada, é ouvida. Sara ensina a pureza, a oração perseverante e a confiança: “depois da tempestade, dás a bonança”.",
+    "anagogico": "“Se for provada, será coroada”: a vida de quem serve a Deus termina na coroa e na alegria eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Tobias orou com lágrimas: “Tu és justo, Senhor; trata-me segundo a tua vontade”. Sara, insultada, orou: “Bendito é o teu nome, ó Deus de nossos pais. Tu não te deleitas com a nossa perdição: depois da tempestade dás a bonança, depois das lágrimas infundes a alegria”. As orações de ambos foram ouvidas, e Rafael foi enviado para curá-los.",
+    "meditatio_perguntas": [
+      "Já rezei no “fundo do poço”? Como Deus respondeu?",
+      "Acredito que Deus pode tecer uma resposta que eu não imagino?",
+      "Rezo pelos que estão em sofrimento como Sara?"
+    ],
+    "oratio_guia": "Senhor, tu não te deleitas com a nossa perdição. Depois da tempestade dás a bonança, depois das lágrimas, a alegria. Ouve a minha oração e envia o teu anjo para me curar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Com efeito, tu não te deleitas com a nossa perdição: depois da tormenta, dás a bonança, depois das lágrimas e suspiros, infundes a alegria.",
+      "ref": "Tb 3,22"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Asmodeu: nome de demônio de origem persa, ligado à luxúria e à destruição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

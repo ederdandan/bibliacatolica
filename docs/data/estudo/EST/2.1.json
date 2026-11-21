@@ -1,0 +1,40 @@
+{
+  "id": "EST.2.1",
+  "livro": "EST",
+  "titulo": "Ester, a órfã que se torna rainha",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 2,1-23",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Ester, a órfã que se torna rainha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Procuram-se jovens belas em todo o reino para substituir Vasti. Mardoqueu, judeu de Benjamim deportado de Jerusalém, criara a prima órfã Edissa, chamada Ester, muito bela. Ela é levada ao palácio, ganha a simpatia do eunuco Egeu e, seguindo o conselho de Mardoqueu, não revela o seu povo. Depois de um ano de preparação, apresenta-se ao rei sem pedir nada além do que lhe deram. O rei a ama mais que todas e a coroa rainha. Mardoqueu, à porta do palácio, descobre uma conspiração de dois eunucos para matar o rei; avisa Ester, que informa o rei em nome de Mardoqueu. O fato é registrado nas crônicas.",
+    "alegorico": "Ester, órfã humilde elevada a rainha, é figura de Maria, escolhida entre todas pela sua humildade, e da Igreja, esposa do Rei. A sua escolha mostra que Deus “exalta os humildes” (Lc 1,52).",
+    "moral": "Ester não pede nada além do necessário: a simplicidade atrai graça. Obedece a Mardoqueu como quando era criança, mostrando gratidão e docilidade. Mardoqueu, por sua vez, é leal até com o rei estrangeiro: a fidelidade a Deus não impede a lealdade ao bem comum.",
+    "anagogico": "A órfã coroada rainha anuncia o destino dos pequenos no Reino de Deus, onde os humildes serão coroados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mardoqueu tinha criado Ester, órfã de pai e mãe, e a adotara por filha. Ela não pediu nada além do que lhe foi dado, e agradou aos olhos de todos. O rei amou-a mais do que a todas as outras mulheres, pôs-lhe na cabeça a coroa real e constituiu-a rainha.",
+    "meditatio_perguntas": [
+      "Sei me contentar com o necessário, como Ester?",
+      "Sou grato aos que me criaram e me formaram?",
+      "A minha fé me torna também cidadão leal e responsável?"
+    ],
+    "oratio_guia": "Senhor, que exaltas os humildes, dá-me a simplicidade de Ester e a lealdade de Mardoqueu. Obrigado pelos que me criaram e me ensinaram. Amém.",
+    "contemplatio_foco": {
+      "texto": "O rei amou-a mais do que a todas as outras mulheres, e ela achou graça e favor diante dele",
+      "ref": "Est 2,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "TOB.12.1",
+  "livro": "TOB",
+  "titulo": "Eu sou o anjo Rafael",
+  "secao": "O regresso e a revelação",
+  "referencia": "Tb 12,1-22",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Eu sou o anjo Rafael",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pai e filho querem recompensar o guia com metade dos bens, enumerando tudo o que fez. Ele os chama à parte: bendizei a Deus e publicai as suas obras; é boa a oração com jejum, e a esmola vale mais que juntar ouro, porque livra da morte e apaga os pecados. Revela: quando Tobias rezava com lágrimas e sepultava os mortos, ele apresentava as suas orações ao Senhor; porque era agradável a Deus, foi necessário que a prova o experimentasse. “Eu sou o anjo Rafael, um dos sete que estão diante do Senhor.” Eles caem por terra; o anjo diz: “A paz seja convosco, não temais”; parecia comer, mas se alimenta de um manjar invisível. Volta para quem o enviou e desaparece.",
+    "alegorico": "Rafael é venerado pela Igreja como arcanjo (festa de 29 de setembro). A sua missão de apresentar as orações a Deus ilumina a intercessão dos anjos. A saudação “A paz seja convosco, não temais” e a subida “para aquele que me enviou” ecoam as palavras de Cristo ressuscitado (Jo 20,19; 16,5).",
+    "moral": "O anjo resume a vida espiritual: oração, jejum e esmola, os três pilares retomados por Jesus (Mt 6,1-18). A prova não é sinal de abandono, mas de predileção. A gratidão verdadeira consiste em louvar a Deus e anunciar as suas obras.",
+    "anagogico": "O “manjar invisível” do anjo, a visão de Deus, é o alimento eterno a que somos chamados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Bendizei o Deus do céu, porque usou convosco da sua misericórdia. É boa a oração com o jejum, e a esmola vale mais do que juntar tesouros. Quando oravas com lágrimas e enterravas os mortos, eu apresentava as tuas orações ao Senhor. Eu sou o anjo Rafael, um dos sete que assistem diante do Senhor. A paz seja convosco, não temais.",
+    "meditatio_perguntas": [
+      "Pratico oração, jejum e esmola?",
+      "Vejo as minhas provas como sinal de que sou amado por Deus?",
+      "Como anuncio as obras de Deus na minha vida?"
+    ],
+    "oratio_guia": "São Rafael, que apresentaste a Deus as orações de Tobias, apresenta também as minhas. Senhor, dá-me rezar, jejuar e dar esmola com o coração. A ti a glória pelas tuas obras. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o anjo Rafael, um dos sete (espíritos principais) que assistimos diante do Senhor.",
+      "ref": "Tb 12,15"
+    }
+  },
+  "ancoras": {
+    "12:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 8,2: os sete anjos que estão diante de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

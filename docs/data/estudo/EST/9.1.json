@@ -1,0 +1,49 @@
+{
+  "id": "EST.9.1",
+  "livro": "EST",
+  "titulo": "A festa de Purim: o luto mudado em alegria",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 9,1–10,3",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "A festa de Purim: o luto mudado em alegria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No dia treze de Adar, quando os inimigos esperavam exterminar os judeus, a situação se inverte: os judeus se defendem com apoio dos governadores, que temem Mardoqueu; matam os seus inimigos, incluindo os dez filhos de Amã, mas não tocam nos bens. Nos dias catorze e quinze descansam e celebram. Mardoqueu e Ester escrevem cartas instituindo a festa anual de Purim (“sortes”), com banquetes, troca de presentes e esmolas aos pobres, porque o luto se converteu em festa. Mardoqueu torna-se o segundo do reino, grande entre os judeus, buscando o bem do seu povo e a paz da sua descendência.",
+    "alegorico": "A Igreja lê esta inversão de sortes como figura da Páscoa, em que a morte destinada se transforma em vida. As sortes lançadas por Amã foram, na verdade, dirigidas por Deus. A recusa de tocar nos despojos mostra que a luta não foi por cobiça.",
+    "moral": "O relato da defesa armada reflete a linguagem e os costumes da época; o cristão o lê à luz do Evangelho, que pede amar os inimigos, e retém a mensagem central: Deus muda o luto em alegria. A festa inclui a esmola aos pobres: a alegria verdadeira é partilhada.",
+    "anagogico": "A festa perpétua instituída “de geração em geração” anuncia a festa sem fim do Reino, onde não haverá mais luto nem choro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "No dia em que os inimigos esperavam exterminar os judeus, a sorte foi mudada. Mardoqueu escreveu que os dias catorze e quinze de Adar fossem dias de festa, porque o seu luto e tristeza se converteram em festa e alegria, e neles deviam mandar uns aos outros porções das suas iguarias e dar donativos aos pobres.",
+    "meditatio_perguntas": [
+      "Que luto da minha vida Deus já transformou em alegria?",
+      "Partilho a minha alegria com os pobres?",
+      "Como leio, à luz de Cristo, as passagens violentas da Escritura?"
+    ],
+    "oratio_guia": "Senhor, tu mudas o luto em festa e a tristeza em alegria. Obrigado pelas vezes que mudaste a minha sorte. Que a minha alegria seja partilhada com os pobres. Amém.",
+    "contemplatio_foco": {
+      "texto": "o seu luto e tristeza converteram-se em festa e alegria.",
+      "ref": "Est 9,22"
+    }
+  },
+  "ancoras": {
+    "9:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Purim é celebrado pelos judeus até hoje, no mês de Adar (fevereiro/março), com a leitura do livro de Ester.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "JDT.3.1",
+  "livro": "JDT",
+  "titulo": "As nações se rendem; Israel recorre ao jejum e à oração",
+  "secao": "A ameaça de Holofernes",
+  "referencia": "Jt 3,1–4,17",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "As nações se rendem; Israel recorre ao jejum e à oração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os reis da Síria, da Mesopotâmia e de outras regiões se rendem a Holofernes, oferecendo cidades, rebanhos e famílias; mesmo assim ele destrói as cidades e os bosques sagrados, porque Nabucodonosor mandou exterminar todos os deuses para que só ele fosse adorado. Os israelitas da Judeia temem pelo Templo; ocupam os montes e fortificam as aldeias. O sumo sacerdote Eliaquim manda guardar os desfiladeiros. Todo o povo clama ao Senhor com jejuns e orações; os sacerdotes vestem-se de cilício, as crianças se prostram, e até o altar é coberto de saco. Eliaquim os exorta: lembrai-vos de Moisés, que venceu Amalec não com o ferro, mas com santas orações.",
+    "alegorico": "A resposta de Israel ao perigo, oração, jejum e penitência de todo o povo, é a resposta da Igreja nas grandes provações. Moisés com as mãos erguidas (Ex 17) é figura de Cristo de braços abertos na Cruz, que vence o inimigo.",
+    "moral": "Diante da ameaça, outros povos se rendem; Israel se prepara com prudência humana (fortificações) e, sobretudo, com oração perseverante. A fé não dispensa a ação, mas confia mais em Deus do que nas próprias forças. A penitência é comunitária: ninguém fica de fora.",
+    "anagogico": "A perseverança na oração “nesta obra que começastes” anuncia a vitória final reservada aos que vigiam e rezam até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Todo o povo clamou ao Senhor com grande instância e humilharam as suas almas com jejuns e orações. Eliaquim disse ao povo: “Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações. Lembrai-vos de Moisés, que, não combatendo com ferro, mas suplicando com santas orações, destroçou Amalec”.",
+    "meditatio_perguntas": [
+      "Diante de uma ameaça, rendo-me, ou recorro à oração?",
+      "A minha comunidade sabe rezar e jejuar junta nas provações?",
+      "Persevero na oração ou desisto logo?"
+    ],
+    "oratio_guia": "Senhor, diante das ameaças, ensina-nos a recorrer a ti com jejum e oração perseverante. Que, como Moisés, vençamos não com o ferro, mas com santas orações. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações diante do Senhor.",
+      "ref": "Jt 4,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,7 @@
+# Divisão de Rute em perícopes (numeração Matos Soares). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Rute, a estrangeira fiel
+1:1-1:22 | O teu povo será o meu povo, e o teu Deus o meu Deus
+2:1-2:23 | Rute respiga no campo de Booz
+3:1-3:18 | Estende a tua capa sobre a tua serva
+4:1-4:22 | Booz resgata Rute: a descendência de Davi

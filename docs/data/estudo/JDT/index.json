@@ -1,0 +1,150 @@
+{
+ "livro": "JDT",
+ "secoes": [
+  "A ameaça de Holofernes",
+  "Judite, a viúva fiel",
+  "A vitória e o cântico"
+ ],
+ "pericopes": [
+  {
+   "id": "JDT.1.1",
+   "titulo": "Nabucodonosor quer ser deus: a campanha de Holofernes",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 1,1–2,18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "JDT.3.1",
+   "titulo": "As nações se rendem; Israel recorre ao jejum e à oração",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 3,1–4,17",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 17
+   }
+  },
+  {
+   "id": "JDT.5.1",
+   "titulo": "Aquior: o Deus de Israel defende o seu povo",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 5,1–6,21",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 21
+   }
+  },
+  {
+   "id": "JDT.7.1",
+   "titulo": "O cerco de Betúlia e o desânimo do povo",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 7,1-25",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 25
+   }
+  },
+  {
+   "id": "JDT.8.1",
+   "titulo": "Judite repreende os anciãos: não ponhais prazo à misericórdia de Deus",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 8,1-34",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 34
+   }
+  },
+  {
+   "id": "JDT.9.1",
+   "titulo": "A oração de Judite",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 9,1-19",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 19
+   }
+  },
+  {
+   "id": "JDT.10.1",
+   "titulo": "Judite no acampamento de Holofernes",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 10,1–11,21",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 21
+   }
+  },
+  {
+   "id": "JDT.12.1",
+   "titulo": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 12,1–13,31",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 31
+   }
+  },
+  {
+   "id": "JDT.14.1",
+   "titulo": "A fuga dos assírios: tu és a glória de Jerusalém",
+   "secao": "A vitória e o cântico",
+   "referencia": "Jt 14,1–15,15",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 15
+   }
+  },
+  {
+   "id": "JDT.16.1",
+   "titulo": "Cântico de Judite e o fim da sua vida",
+   "secao": "A vitória e o cântico",
+   "referencia": "Jt 16,1-31",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 31
+   }
+  }
+ ]
+}

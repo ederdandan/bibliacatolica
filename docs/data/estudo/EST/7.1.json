@@ -1,0 +1,40 @@
+{
+  "id": "EST.7.1",
+  "livro": "EST",
+  "titulo": "Amã desmascarado; o novo decreto",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 7,1–8,17",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Amã desmascarado; o novo decreto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No segundo banquete, o rei pergunta de novo o pedido de Ester. Ela suplica pela sua vida e pela do seu povo, condenado ao extermínio. O rei pergunta quem ousou tal coisa. “O nosso inimigo é este perverso Amã.” O rei sai furioso para o jardim; Amã se lança sobre o leito de Ester para suplicar, e o rei, ao voltar, pensa que ele quer violentá-la. Um eunuco menciona a forca preparada para Mardoqueu: Amã é enforcado nela. Ester recebe a casa de Amã; Mardoqueu recebe o anel do rei. Ester suplica com lágrimas que o decreto seja anulado; o rei autoriza um novo edito, que permite aos judeus defender-se. Mardoqueu sai com vestes reais; para os judeus “nasceu uma nova luz, alegria e honra”.",
+    "alegorico": "Ester que intercede pelo povo é figura de Maria, Rainha que intercede junto ao Rei pelos seus filhos. Amã enforcado na forca que preparou é imagem do mal que cai na própria armadilha (Sl 7,16). A “nova luz” anuncia a luz da Páscoa.",
+    "moral": "Ester fala no momento oportuno, com clareza e coragem, e nomeia o mal. A intercessão não é só para si, mas para todo o povo. A justiça chega, mas o texto nos lembra que o mal é derrotado sobretudo pela verdade dita com coragem.",
+    "anagogico": "A nova luz, alegria e honra dos judeus antecipa a alegria eterna dos redimidos, quando todo luto for transformado em festa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Ester respondeu: “Ó rei, se achei graça aos teus olhos, concede-me a minha vida e a do meu povo, pelo qual intercedo”. O rei disse: “Quem é esse?” Ester disse: “O nosso inimigo é este perverso Amã”. E Amã foi pendurado no patíbulo que tinha preparado para Mardoqueu. Aos judeus pareceu ter nascido uma nova luz, alegria e júbilo.",
+    "meditatio_perguntas": [
+      "Por quem intercedo diante de Deus?",
+      "Tenho coragem de nomear o mal quando é preciso?",
+      "Que “nova luz” Deus já fez nascer na minha vida?"
+    ],
+    "oratio_guia": "Senhor, por intercessão de Maria, Rainha, concede-nos a vida e a salvação do teu povo. Que o mal caia nas suas próprias armadilhas e que nasça para nós uma nova luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo.",
+      "ref": "Est 7,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

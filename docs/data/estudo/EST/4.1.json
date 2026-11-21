@@ -1,0 +1,40 @@
+{
+  "id": "EST.4.1",
+  "livro": "EST",
+  "titulo": "Quem sabe se não foi para esta hora que chegaste a rainha?",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 4,1-17",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Quem sabe se não foi para esta hora que chegaste a rainha?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao saber do decreto, Mardoqueu rasga as vestes, veste saco e cinza e clama pela cidade; em todas as províncias os judeus jejuam e choram. Ester, inquieta, manda o eunuco Atac perguntar o que acontece; Mardoqueu lhe envia cópia do decreto e pede que interceda junto ao rei. Ester responde que quem entra sem ser chamado morre, salvo se o rei estender o cetro, e ela não é chamada há trinta dias. Mardoqueu insiste: não penses que escaparás por estar no palácio; se te calares, a salvação virá por outro caminho, mas tu perecerás. “Quem sabe se não foi para uma hora como esta que chegaste a rainha?” Ester decide: jejuai três dias por mim; depois irei ao rei, contra a lei; se tiver de morrer, morrerei.",
+    "alegorico": "Ester que arrisca a vida pelo seu povo é figura de Cristo, que se entrega para salvar a humanidade, e de Maria, intercessora diante do Rei. Os três dias de jejum evocam os três dias que precedem a ressurreição.",
+    "moral": "A frase de Mardoqueu ilumina toda vocação: os dons e a posição que recebemos são para servir “numa hora como esta”. O silêncio diante da injustiça não protege ninguém. Ester une coragem e oração: antes de agir, pede que todo o povo jejue por ela.",
+    "anagogico": "“Se tiver de morrer, morrerei”: a doação total de si é o caminho que conduz à vida verdadeira e eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "Mardoqueu mandou dizer a Ester: “Se agora te calares, tu perecerás. E quem sabe se porventura foste elevada a rainha para que estivesses pronta em tal conjuntura?” Ester respondeu: “Juntai todos os judeus e orai por mim. Jejuai três dias, e eu jejuarei também; depois irei ter com o rei, embora contra a lei; se dever morrer, morrerei”.",
+    "meditatio_perguntas": [
+      "Para que “hora” Deus me colocou onde estou?",
+      "Calo-me diante de alguma injustiça por medo?",
+      "Peço a oração dos outros antes das decisões difíceis?"
+    ],
+    "oratio_guia": "Senhor, talvez tenhas me colocado onde estou para uma hora como esta. Dá-me a coragem de Ester para não me calar diante da injustiça, e a humildade de pedir a oração dos irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "E quem sabe se porventura foste elevada a rainha, para que estivesses pronta em tal conjuntura?",
+      "ref": "Est 4,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}
