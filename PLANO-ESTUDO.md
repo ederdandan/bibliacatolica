@@ -98,10 +98,10 @@ Itens originais desta fase:
 ### Fase 4: Expansão 🔄
 Ordem: Evangelhos ✅ → resto do Novo Testamento em lotes (curtos e mais lidos primeiro) → Salmos → demais livros do AT.
 Lotes do NT (contagens estimadas; o número real sai ao criar cada `scripts/pericopes/{ID}.txt`):
-- **Lote 1** (curtas e muito lidas, ~60): Filipenses PHP (~8) · Efésios EPH (~10) · Colossenses COL (~8) · 1 Tessalonicenses 1TH (~7) · Tiago JAS (~8) · 1 Pedro 1PE (~9) · 1 João 1JN (~10)
-- **Lote 2** (curtíssimas, ~15): Filémon PHM · 2 João 2JN · 3 João 3JN · Judas JUD · 2 Tessalonicenses 2TH · Tito TIT · 2 Pedro 2PE
-- **Lote 3** (médias, ~20): Gálatas GAL · 1 Timóteo 1TI · 2 Timóteo 2TI
-- **Lote 4** (grandes, ~150): Romanos ROM · 1 Coríntios 1CO · Hebreus HEB · 2 Coríntios 2CO · Apocalipse REV · Atos ACT
+- **Lote 1** (curtas e muito lidas, ~60): Filipenses PHP (~8) · Efésios EPH (~10) · Colossenses COL (~8) · 1 Tessalonicenses 1TH (~7) · Tiago JAS (~8) · 1 Pedro 1PE (~9) · 1 João 1JN (~10) — ✅ 66 perícopes
+- **Lote 2** (curtíssimas, ~15): Filémon PHM · 2 João 2JN · 3 João 3JN · Judas JUD · 2 Tessalonicenses 2TH · Tito TIT · 2 Pedro 2PE — ✅ 18 perícopes
+- **Lote 3** (médias, ~20): Gálatas GAL · 1 Timóteo 1TI · 2 Timóteo 2TI — ✅ 27 perícopes
+- **Lote 4** (grandes, ~150): Romanos ROM · 1 Coríntios 1CO · Hebreus HEB · 2 Coríntios 2CO · Apocalipse REV · Atos ACT — ✅ 142 perícopes
 Regra: commit + push ao fechar cada livro do lote.
 Progresso: Marcos ✅ 75 · Mateus ✅ 107 · Lucas ✅ 78 · João ✅ 48. **Os quatro Evangelhos estão completos: 308 perícopes.**
 Lote 1: Filipenses ✅ 10 · Efésios ✅ 12 · Colossenses ✅ 8 · 1 Tessalonicenses ✅ 8 · Tiago ✅ 9 · 1 Pedro ✅ 9 · 1 João ✅ 10. **Lote 1 concluído: 66 perícopes.**
