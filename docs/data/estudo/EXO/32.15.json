@@ -1,0 +1,40 @@
+{
+  "id": "EXO.32.15",
+  "livro": "EXO",
+  "titulo": "Moisés desce: risca-me do teu livro",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 32,15-35",
+  "ini": {
+    "c": 32,
+    "v": 15
+  },
+  "fim": {
+    "c": 32,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Moisés quebra as tábuas e se oferece pelo povo: “Risca-me do teu livro”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés desce do monte com as duas tábuas do testemunho na mão, escritas dos dois lados, obra de Deus, e a escritura de Deus gravada nelas. Josué ouve o barulho do povo: há gritos de guerra no acampamento. Moisés responde: não são gritos de vitória nem de derrota; ouço vozes de cantores. Aproximando-se, vê o bezerro e as danças; inflama-se de ira, atira as tábuas e as quebra ao pé do monte. Toma o bezerro, queima-o, reduz a pó, espalha-o na água e o dá a beber aos filhos de Israel. Diz a Aarão: que te fez este povo, para que trouxesses sobre ele tão grande pecado? Aarão se desculpa: tu conheces este povo, inclinado ao mal; pediram-me deuses; lancei o ouro no fogo, “e saiu este bezerro”. Moisés, vendo o povo desenfreado, põe-se à porta do acampamento: “Quem é pelo Senhor, junte-se a mim”. Juntam-se a ele todos os filhos de Levi, que executam o castigo. No dia seguinte, Moisés diz ao povo: cometestes um grande pecado; subirei ao Senhor, para ver se posso alcançar perdão. Volta ao Senhor: este povo cometeu um grande pecado, fizeram deuses de ouro; “ou perdoa-lhes esta culpa, ou, se não o fazes, risca-me do teu livro que escreveste”. O Senhor responde: riscarei do meu livro quem pecou contra mim; vai, conduze este povo; o meu anjo irá adiante de ti. E o Senhor fere o povo pelo pecado do bezerro.",
+    "alegorico": "Moisés, que se oferece para ser riscado do livro da vida em lugar do povo, é figura de Cristo, que “se fez maldição por nós” (Gl 3,13) e deu a vida pelos pecadores. São Paulo terá o mesmo desejo pelos seus irmãos: “desejaria ser eu mesmo anátema, separado de Cristo, por amor dos meus irmãos” (Rm 9,3). As tábuas quebradas significam a aliança rompida pelo pecado.",
+    "moral": "A ira de Moisés é a de quem ama a Deus e o povo, e vê a aliança traída. As desculpas de Aarão são ridículas (“lancei o ouro e saiu este bezerro”): o pecador tende a culpar os outros e as circunstâncias. Diante da desordem, é preciso decidir de que lado se está: “quem é pelo Senhor?”. E o mesmo Moisés que corrige com dureza se oferece inteiramente pelo povo: firmeza e amor não se excluem.",
+    "anagogico": "O livro da vida, de onde Moisés pede para ser riscado, é o registro dos salvos (Ap 20,12); Cristo, riscado por nós na cruz, inscreve nele os nossos nomes."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As tábuas eram obra de Deus, e a escritura de Deus gravada nelas.” “Atirou as tábuas da mão e quebrou-as ao pé do monte.” “Lancei-o no fogo e saiu este bezerro.” “Quem é pelo Senhor junte-se a mim.” “Ou perdoa-lhes esta culpa, ou, se não o fazes, risca-me do teu livro que escreveste.”",
+    "meditatio_perguntas": [
+      "Dou desculpas ridículas, como Aarão, para os meus pecados?",
+      "Diante da desordem, sei dizer de que lado estou?",
+      "Por quem intercedo a ponto de me oferecer?"
+    ],
+    "oratio_guia": "Senhor, perdoa as minhas desculpas e as minhas idolatrias. Obrigado, Jesus, que te ofereceste para ser “riscado” em meu lugar. Dá-me firmeza para estar do teu lado e amor para interceder pelos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "risca-me do teu livro que escreveste",
+      "ref": "Ex 32,32"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

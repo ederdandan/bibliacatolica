@@ -1,0 +1,49 @@
+{
+  "id": "EXO.34.1",
+  "livro": "EXO",
+  "titulo": "O nome: Deus misericordioso",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 34,1-9",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "O nome de Deus: “misericordioso e clemente, paciente e de muita misericórdia”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: talha duas tábuas de pedra como as primeiras, e escreverei nelas as palavras que estavam nas que quebraste. Está pronto pela manhã e sobe ao monte Sinai; ninguém suba contigo. Moisés talha as tábuas, levanta-se de noite e sobe ao Sinai, com as tábuas na mão. O Senhor desce na nuvem, Moisés fica com Ele e invoca o nome do Senhor. “Passando o Senhor diante dele, exclamou: Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro, que conserva a misericórdia por milhares de gerações, que perdoa a iniquidade, a revolta e os pecados”, mas não os deixa sem castigo, punindo a iniquidade dos pais nos filhos até a terceira e quarta geração. Moisés se prostra imediatamente por terra e adora, dizendo: “Senhor, se achei graça na tua presença, peço-te que venhas conosco, porque este povo é de dura cerviz; perdoa as nossas iniquidades e os nossos pecados, e possui-nos”.",
+    "alegorico": "A autorrevelação de Deus no Sinai é o coração do Antigo Testamento e é repetida em muitos Salmos (Sl 85,15; 102,8; 144,8). Ela se revela plenamente em Cristo, rosto da misericórdia do Pai, “cheio de graça e de verdade” (Jo 1,14.17), as mesmas palavras de Ex 34,6: misericórdia e fidelidade.",
+    "moral": "Depois do pecado do bezerro, Deus não se revela como juiz implacável, mas como “misericordioso e clemente”. O seu primeiro nome é misericórdia. O perdão não anula a responsabilidade (“não deixa sem castigo”), mas a misericórdia é incomparavelmente maior (“milhares de gerações” contra “terceira e quarta”). A resposta de Moisés é imediata: prostrar-se, adorar e pedir de novo a presença de Deus para o povo pecador.",
+    "anagogico": "A misericórdia que se conserva “por milhares de gerações” atravessa toda a história até o seu cumprimento final: “a sua misericórdia se estende de geração em geração” (Lc 1,50)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Talha duas tábuas de pedra como as primeiras.” “Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro.” “Que conserva a misericórdia por milhares de gerações.” “Que perdoa a iniquidade, a revolta e os pecados.” “Peço-te que venhas conosco.” “Perdoa as nossas iniquidades.”",
+    "meditatio_perguntas": [
+      "Conheço Deus, antes de tudo, pelo seu nome de misericórdia?",
+      "Depois de uma queda, deixo Deus “escrever de novo” as tábuas da aliança?",
+      "Peço, como Moisés, que Deus venha conosco, apesar da nossa dura cerviz?"
+    ],
+    "oratio_guia": "Senhor, Deus misericordioso e clemente, paciente e rico em bondade e fidelidade, perdoa as nossas iniquidades e os nossos pecados. Vem conosco no caminho e faze de nós a tua herança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro",
+      "ref": "Ex 34,6"
+    }
+  },
+  "ancoras": {
+    "34:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As novas tábuas são talhadas por Moisés, mas escritas por Deus: a aliança renovada é dom, não conquista humana.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

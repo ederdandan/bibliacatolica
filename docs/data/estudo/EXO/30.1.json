@@ -1,0 +1,49 @@
+{
+  "id": "EXO.30.1",
+  "livro": "EXO",
+  "titulo": "O incenso, a bacia e o óleo",
+  "secao": "O santuário",
+  "referencia": "Ex 30,1-38",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "O incenso perpétuo, o resgate igual para todos, a bacia e o óleo santo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda fazer um altar para queimar incenso, de acácia revestida de ouro, diante do véu que está junto à arca. “Aarão queimará sobre ele todas as manhãs um incenso de suave fragrância, quando preparar as lâmpadas, e ao anoitecer, quando as colocar; assim se queimará um perfume perpétuo diante do Senhor.” Uma vez por ano, Aarão fará expiação sobre os seus chifres com o sangue. Quando fizeres o recenseamento, cada um dará ao Senhor o preço do resgate da sua vida, meio siclo: “o rico não dará mais de meio siclo, e o pobre não dará menos”; o dinheiro servirá para o culto do tabernáculo. Farás uma bacia de bronze, entre o tabernáculo e o altar, com água, onde Aarão e os filhos lavarão as mãos e os pés antes de entrar, para que não morram. Farás o óleo da santa unção com mirra, cinamomo, cálamo, cássia e azeite: com ele ungirás o tabernáculo, a arca, os utensílios, e Aarão e os seus filhos; não será usado para uso profano. E o incenso santíssimo, de aromas puros, reservado ao Senhor; quem fizer outro semelhante para o seu prazer será exterminado.",
+    "alegorico": "O incenso que sobe de manhã e à tarde é figura da oração da Igreja: “suba a minha oração como incenso diante de ti, e as minhas mãos erguidas como sacrifício da tarde” (Sl 140,2); no Apocalipse, o incenso são “as orações dos santos” (Ap 5,8; 8,3-4). O óleo santo prefigura o crisma, com que são ungidos os batizados, os confirmados e os sacerdotes, participando da unção de Cristo, “o Ungido”.",
+    "moral": "A oração é chamada a ser perpétua, como o incenso que nunca se apaga: um ritmo diário, de manhã e à tarde. O resgate igual para rico e pobre afirma a igual dignidade de todos diante de Deus: ninguém vale mais por ter mais. A bacia lembra que é preciso purificar-se antes de servir. As coisas consagradas a Deus não se usam para o próprio prazer.",
+    "anagogico": "O perfume perpétuo diante do Senhor anuncia a liturgia eterna do céu, onde o louvor não cessará “dia e noite” (Ap 4,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aarão queimará sobre ele todas as manhãs um incenso de suave fragrância.” “Assim se queimará um perfume perpétuo diante do Senhor.” “O rico não dará mais de meio siclo, e o pobre não dará menos.” “Lavarão as mãos e os pés.” “O óleo da santa unção.”",
+    "meditatio_perguntas": [
+      "A minha oração sobe a Deus como incenso, de manhã e à tarde?",
+      "Trato ricos e pobres com a mesma dignidade, como Deus os trata?",
+      "Purifico-me antes de servir e de me aproximar das coisas santas?"
+    ],
+    "oratio_guia": "Senhor, suba a ti a minha oração como incenso, de manhã e à tarde, sem interrupção. Purifica as minhas mãos e os meus pés para te servir, e renova em mim a unção do teu Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim se queimará um perfume perpétuo diante do Senhor",
+      "ref": "Ex 30,8"
+    }
+  },
+  "ancoras": {
+    "30:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O meio siclo do santuário pesava cerca de seis gramas de prata; Jesus pagará este imposto do templo por si e por Pedro (Mt 17,24-27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

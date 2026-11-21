@@ -1,0 +1,49 @@
+{
+  "id": "EXO.32.1",
+  "livro": "EXO",
+  "titulo": "O bezerro de ouro e a intercessão",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 32,1-14",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O bezerro de ouro e a intercessão de Moisés",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão e disse: levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egito.” Aarão pede os brincos de ouro das mulheres e dos filhos; recolhe-os, funde-os e faz um bezerro. Eles dizem: “Estes são os teus deuses, ó Israel, que te tiraram da terra do Egito”. Aarão ergue um altar diante dele e proclama: amanhã é festa do Senhor. De manhã oferecem holocaustos; o povo senta-se a comer e beber e levanta-se para se divertir. O Senhor diz a Moisés: desce, o teu povo se corrompeu; depressa se desviou do caminho; fizeram um bezerro e o adoraram. Vejo que é um povo de dura cerviz; deixa-me, para que a minha ira se acenda contra eles e os consuma, e farei de ti uma grande nação. “Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, por que se acende o teu furor contra o teu povo, que tiraste da terra do Egito com grande fortaleza e com mão poderosa?” Que não digam os egípcios: com malícia os tirou, para os matar nos montes. Aplaca a tua ira; lembra-te de Abraão, Isaac e Israel, teus servos, a quem juraste: multiplicarei a vossa descendência como as estrelas. “O Senhor se aplacou e não fez ao seu povo o mal que tinha dito.”",
+    "alegorico": "Moisés, que recusa ser o começo de uma nova nação à custa do povo e intercede por ele, é figura de Cristo, o grande intercessor, que não salva a si mesmo mas se entrega pelos pecadores. Santo Estêvão recorda o bezerro como sinal da infidelidade do povo (At 7,39-41); São Paulo cita o “sentaram-se para comer e beber e levantaram-se para se divertir” como advertência contra a idolatria (1Cor 10,7).",
+    "moral": "A impaciência diante da demora e do silêncio de Deus (“Moisés tardava”) leva a fabricar um deus visível, manipulável, feito com o próprio ouro. É a tentação de toda idolatria: um deus à nossa medida. O pecado se disfarça até de culto (“amanhã é festa do Senhor”). Moisés recusa a proposta de Deus de começar tudo de novo com ele: prefere o povo pecador. A sua intercessão é ousada: apela à honra de Deus e às suas promessas.",
+    "anagogico": "Deus que “se aplaca” pela intercessão do seu servo anuncia a reconciliação definitiva obtida por Cristo, que intercede por nós junto do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Moisés tardava em descer do monte.” “Faze-nos um deus que vá diante de nós.” “Estes são os teus deuses, ó Israel.” “Depressa se desviaram do caminho.” “Senhor, por que se acende o teu furor contra o teu povo?” “Lembra-te de Abraão, Isaac e Israel, teus servos.” “O Senhor se aplacou.”",
+    "meditatio_perguntas": [
+      "Diante da demora e do silêncio de Deus, que “bezerros” eu fabrico?",
+      "Construo um deus à minha medida, que posso controlar?",
+      "Intercedo pelos que pecam, ou os abandono à sua sorte?"
+    ],
+    "oratio_guia": "Senhor, perdoa os bezerros de ouro que fabrico quando a tua demora me impacienta. Obrigado, Jesus, que intercedes por mim como Moisés intercedeu pelo povo. Faze-me intercessor e não juiz dos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor se aplacou, e não fez ao seu povo o mal que tinha dito",
+      "ref": "Ex 32,14"
+    }
+  },
+  "ancoras": {
+    "32:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O bezerro (touro jovem) era símbolo de força e fecundidade no culto cananeu e egípcio; o povo pretende representar o Senhor, mas cai na idolatria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

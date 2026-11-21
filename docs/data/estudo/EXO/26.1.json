@@ -1,0 +1,49 @@
+{
+  "id": "EXO.26.1",
+  "livro": "EXO",
+  "titulo": "O tabernáculo e o átrio",
+  "secao": "O santuário",
+  "referencia": "Ex 26,1–27,21",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O tabernáculo, o véu e o átrio: o caminho para a presença de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus descreve o tabernáculo: dez cortinas de linho fino retorcido, de jacinto, púrpura e escarlate, com querubins bordados, unidas por colchetes de ouro, para que o tabernáculo seja um só. Por cima, onze cortinas de pelos de cabra, e por cima ainda uma cobertura de peles de carneiro tingidas de vermelho e outra de peles de cor de jacinto. Tábuas de acácia revestidas de ouro, de pé, com bases de prata e travessas que as unem. Farás um véu de jacinto, púrpura, escarlate e linho fino retorcido, com querubins bordados; suspendê-lo-ás em quatro colunas, “e dentro dele porás a arca do testemunho, e por meio dele serão divididos o Santo e o Santo dos Santos”. O propiciatório ficará sobre a arca no Santo dos Santos; a mesa e o candelabro, fora do véu, um defronte do outro. Na entrada, uma cortina bordada. No capítulo 27: o altar dos holocaustos, de acácia revestida de bronze, com chifres nos quatro cantos; o átrio, cercado de cortinas de linho sobre colunas, cem côvados de comprimento, com a porta voltada para o oriente; e o azeite puríssimo de oliveira para que a lâmpada arda sempre, da tarde até a manhã, diante do Senhor.",
+    "alegorico": "O véu que separa o Santo dos Santos, onde só o sumo sacerdote entrava uma vez por ano, se rasga de alto a baixo na morte de Cristo (Mt 27,51): pelo seu sangue temos acesso ao santuário, “pelo caminho novo e vivo que nos abriu através do véu, isto é, da sua carne” (Hb 10,19-20). A lâmpada que arde sempre é retomada na lâmpada do sacrário.",
+    "moral": "O tabernáculo ensina um caminho: do átrio ao altar, do altar ao Santo, do Santo ao Santo dos Santos. A aproximação de Deus é gradual e exige purificação. As muitas coberturas sobrepostas, as mais simples por fora e as mais belas por dentro, lembram que a beleza da vida com Deus é sobretudo interior. A lâmpada sempre acesa pede uma fidelidade constante.",
+    "anagogico": "O Santo dos Santos é figura do céu, onde Cristo entrou “uma vez por todas” como nosso precursor (Hb 9,24; 6,20), e onde nós entraremos depois dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que o tabernáculo seja um só.” “Farás um véu.” “Por meio dele serão divididos o Santo e o Santo dos Santos.” “Azeite puríssimo de oliveira, para que a lâmpada arda sempre.”",
+    "meditatio_perguntas": [
+      "Percorro com seriedade o caminho de purificação para me aproximar de Deus?",
+      "Sou mais cuidadoso com a beleza exterior ou com a interior?",
+      "A “lâmpada” da minha fé arde sempre, ou só de vez em quando?"
+    ],
+    "oratio_guia": "Senhor Jesus, que rasgaste o véu com a tua morte e me abriste o caminho até o Pai, conduze-me ao santuário. Que a lâmpada da minha fé arda sempre diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "por meio dele serão divididos o Santo e o Santo dos Santos",
+      "ref": "Ex 26,33"
+    }
+  },
+  "ancoras": {
+    "27:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lâmpada perpétua diante do Senhor deu origem ao costume cristão da lâmpada acesa junto ao sacrário.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

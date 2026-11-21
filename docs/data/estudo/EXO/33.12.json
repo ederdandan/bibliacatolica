@@ -1,0 +1,49 @@
+{
+  "id": "EXO.33.12",
+  "livro": "EXO",
+  "titulo": "Mostra-me a tua glória",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 33,12-23",
+  "ini": {
+    "c": 33,
+    "v": 12
+  },
+  "fim": {
+    "c": 33,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "“Mostra-me a tua glória”: Deus passa e Moisés o vê pelas costas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés diz ao Senhor: tu me ordenas que conduza este povo, e não me declaras quem enviarás comigo; dizes que me conheces pelo nome e que achei graça diante de ti. Se achei graça, mostra-me o teu caminho, para que te conheça; e considera que esta nação é o teu povo. “O Senhor disse-lhe: A minha face irá diante de ti, e eu te darei descanso.” Moisés insiste: se tu mesmo não vais adiante de nós, não nos faças sair deste lugar; como se saberá que achamos graça, senão pelo fato de caminhares conosco? O Senhor responde: farei também isto que pediste, porque achaste graça e te conheço pelo nome. “Moisés disse: Mostra-me a tua glória.” “O Senhor respondeu: Eu te mostrarei toda a minha bondade e pronunciarei o meu nome, Iavé, diante de ti, porque me compadeço de quem eu quiser e sou clemente com quem me aprouver.” Mas não poderás ver a minha face, porque o homem não pode ver-me e continuar a viver. Há um lugar junto de mim: estarás sobre a rocha. “Quando passar a minha glória, eu te porei na concavidade da pedra e te cobrirei com a minha mão até que tenha passado”; depois tirarei a mão, e ver-me-ás pelas costas; mas a minha face não poderás ver.",
+    "alegorico": "O que Moisés não pôde ver, nós o vemos em Cristo: “Ninguém jamais viu a Deus; o Filho único… o deu a conhecer” (Jo 1,18); “quem me vê, vê o Pai” (Jo 14,9). Na Transfiguração, Moisés vê finalmente a glória no rosto de Cristo (Lc 9,30-32). Os Padres viram na fenda da rocha as chagas de Cristo, “a rocha” (1Cor 10,4), onde a alma se esconde para contemplar Deus: “nas tuas chagas, esconde-me”.",
+    "moral": "Moisés não aceita avançar sem a presença de Deus: um anjo não basta, ele quer o próprio Deus. É a oração de quem sabe que sem Deus nada tem sentido. O seu desejo cresce: do caminho à presença, da presença à glória. Deus responde mostrando a sua “bondade”: a glória de Deus é a sua misericórdia. E o protege na rocha, cobrindo-o com a mão.",
+    "anagogico": "“Mostra-me a tua glória” é o desejo que só a visão de Deus no céu saciará; agora o vemos “pelas costas”, nos sinais da sua passagem; então o veremos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se achei graça diante de ti, mostra-me o teu caminho.” “A minha face irá diante de ti, e eu te darei descanso.” “Se tu mesmo não vais adiante de nós, não nos faças sair deste lugar.” “Mostra-me a tua glória.” “Eu te mostrarei toda a minha bondade.” “Te porei na concavidade da pedra e te cobrirei com a minha mão.”",
+    "meditatio_perguntas": [
+      "Quero avançar sem a presença de Deus, contentando-me com “anjos”?",
+      "Desejo ver a glória de Deus? Busco-a no rosto de Cristo?",
+      "Reconheço a “passagem” de Deus na minha vida, ainda que só “pelas costas”, depois?"
+    ],
+    "oratio_guia": "Senhor, não me deixes partir sem ti; que a tua face vá adiante de mim e me dê descanso. Mostra-me a tua glória, que é a tua bondade, no rosto de Jesus; e esconde-me na fenda da rocha, nas suas chagas, enquanto passas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mostrai-me a tua glória",
+      "ref": "Ex 33,18"
+    }
+  },
+  "ancoras": {
+    "33:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ver pelas costas” significa conhecer Deus pelos sinais da sua passagem, depois que Ele agiu, e não na sua essência.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

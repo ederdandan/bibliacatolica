@@ -1,0 +1,40 @@
+{
+  "id": "EXO.31.1",
+  "livro": "EXO",
+  "titulo": "Os artesãos, o sábado e as tábuas",
+  "secao": "O santuário",
+  "referencia": "Ex 31,1-18",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Os artesãos cheios do Espírito, o sábado e as tábuas escritas pelo dedo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: chamei pelo nome Beseleel, filho de Uri, da tribo de Judá, “e o enchi do espírito de Deus, de sabedoria, de inteligência e de ciência, para toda a qualidade de obras”, para trabalhar o ouro, a prata e o bronze, lapidar pedras, trabalhar a madeira. Dei-lhe por companheiro Ooliab, da tribo de Dã, e pus sabedoria no coração de todos os artesãos hábeis, para que façam tudo o que te ordenei: o tabernáculo, a arca, o propiciatório, a mesa, o candelabro, os altares, a bacia, as vestes, o óleo e o incenso. O Senhor diz ainda: “Dize aos filhos de Israel: não deixeis de guardar o meu sábado, porque é o sinal entre mim e vós para todas as vossas gerações, para que saibais que eu sou o Senhor que vos santifico”. Seis dias se trabalhará; o sétimo é o sábado, repouso santo ao Senhor; é um sinal perpétuo, porque em seis dias o Senhor fez o céu e a terra, e no sétimo cessou e descansou. “Terminadas estas práticas sobre o monte Sinai, o Senhor deu a Moisés duas tábuas de pedra do testemunho, escritas pelo dedo de Deus.”",
+    "alegorico": "Beseleel, “cheio do Espírito de Deus” para construir a morada de Deus, anuncia a obra do Espírito Santo, que edifica a Igreja com a diversidade dos dons (1Cor 12,4-11). O sábado se cumpre no domingo, dia da Ressurreição e da nova criação. As tábuas escritas pelo dedo de Deus anunciam a Lei nova escrita pelo Espírito nos corações (2Cor 3,3).",
+    "moral": "O trabalho artístico e técnico é dom do Espírito de Deus, quando posto a serviço da sua glória: Deus “chama pelo nome” também os artistas e artesãos. Mas o trabalho, mesmo o mais santo (construir o santuário!), deve parar no sábado: o descanso é sinal de que é Deus quem nos santifica, não as nossas obras.",
+    "anagogico": "O sábado, “sinal perpétuo”, anuncia o descanso eterno de Deus, no qual o povo de Deus entrará (Hb 4,9-10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Chamei pelo nome Beseleel… e o enchi do espírito de Deus, de sabedoria, de inteligência e de ciência.” “Pus sabedoria no coração de todos os artesãos hábeis.” “Não deixeis de guardar o meu sábado… para que saibais que eu sou o Senhor, que vos santifico.” “Duas tábuas de pedra do testemunho, escritas pelo dedo de Deus.”",
+    "meditatio_perguntas": [
+      "Reconheço os meus talentos como dons do Espírito, para a glória de Deus?",
+      "Paro o meu trabalho para descansar e reconhecer que é Deus quem me santifica?",
+      "Deixo o “dedo de Deus” escrever a sua Lei no meu coração?"
+    ],
+    "oratio_guia": "Espírito Santo, que encheste Beseleel de sabedoria, abençoa o trabalho das minhas mãos. Senhor que me santificas, ensina-me a guardar o teu dia e escreve a tua Lei no meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que saibais que eu sou o Senhor, que vos santifico",
+      "ref": "Ex 31,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

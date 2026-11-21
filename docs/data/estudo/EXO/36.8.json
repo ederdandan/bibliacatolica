@@ -1,0 +1,49 @@
+{
+  "id": "EXO.36.8",
+  "livro": "EXO",
+  "titulo": "A execução da obra",
+  "secao": "A construção do santuário",
+  "referencia": "Ex 36,8–39,43",
+  "ini": {
+    "c": 36,
+    "v": 8
+  },
+  "fim": {
+    "c": 39,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "A execução da obra: tudo como o Senhor ordenou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todos os homens hábeis trabalham para concluir a obra do tabernáculo. Os capítulos 36 a 39 retomam, quase palavra por palavra, as instruções dadas no monte, agora como execução: fazem as dez cortinas de linho com querubins, as cortinas de pelos de cabra, as coberturas de peles, as tábuas de acácia com as bases de prata, o véu e a cortina da entrada. Beseleel faz a arca de acácia revestida de ouro, o propiciatório e os querubins; a mesa e os seus utensílios; o candelabro de ouro puro com as sete lâmpadas; o altar do incenso, o óleo da unção e o incenso puro; o altar dos holocaustos e a bacia de bronze, feita com os espelhos das mulheres que velavam à porta do tabernáculo; o átrio. Segue o inventário do ouro, da prata e do bronze empregados. Fazem as vestes sagradas de Aarão, o efod, o peitoral com as doze pedras, o manto de jacinto com romãs e campainhas, a lâmina de ouro com a inscrição “Santidade ao Senhor”, “como o Senhor tinha ordenado a Moisés”. Os filhos de Israel fazem tudo como o Senhor ordenara e trazem a obra a Moisés. “Moisés, depois que viu completas todas estas coisas, abençoou-as.”",
+    "alegorico": "A repetição quase literal das instruções, agora cumpridas, mostra a obediência perfeita, que se cumpre plenamente em Cristo, que fez “sempre o que agrada ao Pai” (Jo 8,29) e pôde dizer: “tudo está consumado” (Jo 19,30). A bênção de Moisés sobre a obra acabada lembra o “Deus viu que era muito bom” da criação: o santuário é como uma nova criação.",
+    "moral": "Os capítulos repetem sete vezes: “como o Senhor tinha ordenado a Moisés”. A obra de Deus é feita com fidelidade minuciosa, sem improvisos de vaidade. Cada um contribui com a sua parte, até as mulheres com os seus espelhos de bronze, que se tornam bacia de purificação: o que servia à vaidade passa a servir à pureza. A obra acabada merece bênção e ação de graças.",
+    "anagogico": "A obra concluída e abençoada anuncia o momento em que Deus dirá sobre a nova criação: “está feito” (Ap 21,6)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todos os homens hábeis se deram ao trabalho para concluírem a obra.” “Os espelhos das mulheres que velavam à porta do tabernáculo.” “Como o Senhor tinha ordenado a Moisés.” “Moisés, depois que viu completas todas estas coisas, abençoou-as.”",
+    "meditatio_perguntas": [
+      "Faço a obra de Deus “como Ele ordenou”, ou à minha maneira?",
+      "Que objeto de vaidade posso transformar em instrumento de serviço?",
+      "Agradeço e abençoo o trabalho acabado, meu e dos outros?"
+    ],
+    "oratio_guia": "Senhor, que a minha vida seja feita “como tu ordenaste”, com fidelidade nas coisas pequenas. Transforma as minhas vaidades em serviço e abençoa o trabalho das nossas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Moisés, depois que viu completas todas estas coisas, abençoou-as",
+      "ref": "Ex 39,43"
+    }
+  },
+  "ancoras": {
+    "38:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A bacia de bronze foi feita com os espelhos (de metal polido) das mulheres que serviam à entrada da tenda.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EXO.25.1",
+  "livro": "EXO",
+  "titulo": "A arca, a mesa e o candelabro",
+  "secao": "O santuário",
+  "referencia": "Ex 25,1-40",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "“Eu habitarei no meio deles”: a arca, a mesa e o candelabro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala a Moisés: “Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo homem que voluntariamente as oferecer”: ouro, prata e bronze; jacinto, púrpura, escarlate e linho fino; pelos de cabra, peles de carneiro tingidas, madeira de acácia, azeite para as lâmpadas, aromas, e pedras de ônix e pedras preciosas. “Construir-me-ão um santuário, e eu habitarei no meio deles”, segundo o modelo do tabernáculo e dos seus utensílios que eu te mostrarei. Farão uma arca de madeira de acácia, revestida de ouro puro por dentro e por fora, com argolas e varais para transportá-la; nela porás o testemunho, as tábuas que eu te darei. Farás o propiciatório de ouro puríssimo e dois querubins de ouro batido nas duas extremidades, com as asas estendidas, cobrindo o propiciatório, voltados um para o outro. “De lá te darei as minhas ordens, em cima do propiciatório e do meio dos dois querubins.” Farás também uma mesa de acácia revestida de ouro, com pratos, taças e jarros, e porás sobre ela os pães da proposição, sempre diante de mim. E um candelabro de ouro puríssimo, com sete braços em forma de amendoeira em flor, e as suas sete lâmpadas, para iluminar diante dele. Olha, e faze segundo o modelo que te foi mostrado no monte.",
+    "alegorico": "“O Verbo se fez carne e armou a sua tenda entre nós” (Jo 1,14): Cristo é o verdadeiro santuário onde Deus habita. A arca, que guarda a Lei, o maná e a vara, é figura de Cristo e de Maria, “Arca da Aliança” na ladainha. O propiciatório é figura de Cristo, “propiciação pelos nossos pecados” (Rm 3,25). Os pães sempre expostos diante de Deus anunciam a Eucaristia guardada no sacrário; o candelabro, a luz de Cristo e os sete dons do Espírito.",
+    "moral": "Deus quer habitar no meio do seu povo, mas pede ofertas “voluntárias”, dadas de coração. A beleza e o cuidado no culto são expressão de amor, não de luxo. Tudo deve ser feito “segundo o modelo”: o culto não é invenção nossa, mas resposta ao que Deus revela. Cada cristão é templo do Espírito Santo (1Cor 6,19).",
+    "anagogico": "O santuário feito “segundo o modelo” mostrado no monte é cópia e sombra das realidades celestes (Hb 8,5), onde Deus habitará com os homens na tenda eterna (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Recebereis de todo homem que voluntariamente as oferecer.” “Construir-me-ão um santuário, e eu habitarei no meio deles.” “De lá te darei as minhas ordens, em cima do propiciatório.” “Porás sobre a mesa os pães da proposição, sempre diante de mim.” “Faze segundo o modelo que te foi mostrado no monte.”",
+    "meditatio_perguntas": [
+      "O que ofereço a Deus voluntariamente, de coração?",
+      "Cuido da minha vida como “santuário” onde Deus quer habitar?",
+      "Visito Jesus no sacrário, onde Ele permanece “sempre diante” de nós?"
+    ],
+    "oratio_guia": "Senhor, que quiseste habitar no meio do teu povo e armaste a tua tenda entre nós em Jesus, faze de mim um santuário digno de ti. Recebe as ofertas do meu coração e fala-me do teu propiciatório. Amém.",
+    "contemplatio_foco": {
+      "texto": "Construir-me-ão um santuário, e eu habitarei no meio deles",
+      "ref": "Ex 25,8"
+    }
+  },
+  "ancoras": {
+    "25:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “propiciatório” (hebraico kapporet) era a tampa de ouro da arca, onde no Dia da Expiação se aspergia o sangue (Lv 16,14-15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

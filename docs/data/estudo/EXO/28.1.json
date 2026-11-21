@@ -1,0 +1,57 @@
+{
+  "id": "EXO.28.1",
+  "livro": "EXO",
+  "titulo": "As vestes sacerdotais",
+  "secao": "O santuário",
+  "referencia": "Ex 28,1-43",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "As vestes sacerdotais: levar os nomes do povo sobre o coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda: faze chegar a ti Aarão, teu irmão, e os seus filhos, para que exerçam o sacerdócio. Farás a Aarão vestes sagradas, “para glória e ornamento”, por meio de artesãos sábios, que eu enchi do espírito de sabedoria. O efod, de ouro, jacinto, púrpura, escarlate e linho, com duas pedras de ônix sobre os ombros, em que gravarás os nomes dos filhos de Israel, seis em cada pedra: Aarão levará os seus nomes diante do Senhor sobre os dois ombros, para memória. O peitoral do juízo, quadrado, com doze pedras preciosas em quatro filas, cada uma com o nome de uma das tribos; “Aarão, quando entrar no santuário, levará os nomes dos filhos de Israel no peitoral do juízo sobre o seu coração, para perpétua memória diante do Senhor”; e porás no peitoral o Urim e o Tumim, doutrina e verdade. O manto todo de jacinto, com romãs na orla e campainhas de ouro entre elas, para que se ouça o som quando ele entrar e sair do santuário. “Farás também uma lâmina de ouro puríssimo, na qual farás abrir por mão de gravador: Santidade ao Senhor”, e a porás na tiara, sobre a fronte de Aarão. Para os filhos de Aarão, túnicas, cintos e tiaras, e calções de linho.",
+    "alegorico": "Cristo é o Sumo Sacerdote que leva os nossos nomes “sobre os ombros”, como o Bom Pastor leva a ovelha (Lc 15,5), e “sobre o coração”, diante do Pai, “sempre vivo para interceder por nós” (Hb 7,25). As vestes litúrgicas da Igreja guardam memória deste simbolismo: o sacerdote se reveste de Cristo para agir em seu nome.",
+    "moral": "O sacerdote não se apresenta a Deus sozinho: leva consigo o povo, nos ombros (o peso) e no coração (o amor). Interceder é carregar os outros diante de Deus. A inscrição “Santidade ao Senhor” lembra que o ministério exige santidade visível. Os talentos dos artesãos são dons do Espírito. Todo batizado, sacerdote no sentido comum, também leva os irmãos no coração diante de Deus.",
+    "anagogico": "O peitoral com os doze nomes anuncia a Jerusalém celeste, cujas muralhas têm doze fundamentos de pedras preciosas (Ap 21,19-20); o sacerdócio eterno de Cristo é a plenitude deste culto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Farás vestes sagradas a Aarão, teu irmão, para glória e ornamento.” “Aarão levará os seus nomes diante do Senhor sobre os dois ombros, para memória.” “Levará os nomes dos filhos de Israel… sobre o seu coração, para perpétua memória diante do Senhor.” “Santidade ao Senhor.”",
+    "meditatio_perguntas": [
+      "Levo no coração, diante de Deus, as pessoas que me foram confiadas?",
+      "Rezo pelos sacerdotes, que carregam o povo sobre os ombros?",
+      "A minha vida traz escrito, de modo visível, “Santidade ao Senhor”?"
+    ],
+    "oratio_guia": "Jesus, Sumo Sacerdote, que levas o meu nome sobre o teu coração diante do Pai, santifica os sacerdotes da tua Igreja. Que eu também leve os meus irmãos no coração e viva consagrado a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "levará os nomes dos filhos de Israel do peitoral do juízo sobre o peso, para perpétua memória diante do Senhor",
+      "ref": "Ex 28,29"
+    }
+  },
+  "ancoras": {
+    "28:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na edição digital lê-se “sobre o peso”; a Vulgata diz super pectus suum, “sobre o seu peito”, isto é, sobre o coração.",
+        "origem": "ia"
+      }
+    },
+    "28:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Urim e Tumim eram objetos sagrados usados para consultar a Deus; a Vulgata traduz “doutrina e verdade”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

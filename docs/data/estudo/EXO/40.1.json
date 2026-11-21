@@ -1,0 +1,49 @@
+{
+  "id": "EXO.40.1",
+  "livro": "EXO",
+  "titulo": "O tabernáculo erguido e cheio da glória",
+  "secao": "A construção do santuário",
+  "referencia": "Ex 40,1-36",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "O tabernáculo erguido e cheio da glória: Deus caminha com o seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: no primeiro dia do primeiro mês erguerás o tabernáculo; porás nele a arca, cobri-la-ás com o véu; introduzirás a mesa, o candelabro, o altar do incenso; porás o altar dos holocaustos diante da entrada e a bacia entre eles; ungirás o tabernáculo e tudo o que nele há, e será santo; lavarás Aarão e os seus filhos, revesti-los-ás e os ungirás, para que me sirvam no sacerdócio perpétuo. Moisés faz tudo o que o Senhor lhe ordenou. No primeiro mês do segundo ano, no primeiro dia, o tabernáculo é erguido. Moisés coloca cada coisa no seu lugar: as tábuas do testemunho na arca, o propiciatório, o véu, a mesa com os pães, o candelabro com as lâmpadas acesas, o altar de ouro com o incenso, o altar dos holocaustos com o sacrifício, a bacia; levanta o átrio. “Como o Senhor tinha ordenado a Moisés.” Depois que tudo está terminado, “a nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu”. Moisés não pode entrar, porque a nuvem cobre tudo e a majestade do Senhor resplandece. “Quando a nuvem deixava o tabernáculo, os filhos de Israel partiam”; se ficava em cima, permaneciam no mesmo lugar; “pois a nuvem do Senhor, de dia, repousava sobre o tabernáculo, e de noite aparecia nela uma chama, à vista de todo o povo de Israel, em todo o tempo que durou a sua caminhada”.",
+    "alegorico": "A glória que enche a tenda prefigura a Encarnação: o anjo diz a Maria que o poder do Altíssimo a cobrirá com a sua sombra (Lc 1,35), e o Verbo armará a sua tenda entre nós (Jo 1,14). Maria é a nova tenda cheia da glória. A nuvem que guia o povo é figura do Espírito Santo, que conduz a Igreja peregrina até o fim dos tempos.",
+    "moral": "O livro do Êxodo começa com um povo escravo que constrói cidades para o Faraó, e termina com um povo livre que constrói, por amor, a morada de Deus. A liberdade não é ausência de serviço, mas serviço a Deus em vez dos ídolos. O povo aprende a caminhar segundo o ritmo de Deus: partir quando a nuvem se levanta, ficar quando ela pousa. Docilidade ao Espírito é saber quando caminhar e quando permanecer.",
+    "anagogico": "O Êxodo termina com Deus habitando no meio do povo em marcha: imagem da Jerusalém celeste, onde “a tenda de Deus está com os homens; Ele habitará com eles, e eles serão o seu povo” (Ap 21,3), e onde a glória de Deus será a única luz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No primeiro dia do primeiro mês erguerás o tabernáculo.” “Moisés fez tudo o que o Senhor lhe tinha ordenado.” “A nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu.” “Quando a nuvem deixava o tabernáculo, os filhos de Israel partiam.” “Em todo o tempo que durou a sua caminhada.”",
+    "meditatio_perguntas": [
+      "A minha liberdade se tornou serviço a Deus, ou ainda sirvo a outros “faraós”?",
+      "Deixo-me guiar pela “nuvem” do Espírito, sabendo quando partir e quando permanecer?",
+      "Creio que a glória de Deus quer encher a minha vida e a da Igreja?"
+    ],
+    "oratio_guia": "Senhor, que encheste com a tua glória a tenda do teu povo, enche também a tua Igreja e a minha vida. Dá-me um coração dócil, que siga a tua nuvem de dia e o teu fogo de noite, até a pátria onde habitarás conosco para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "a nuvem cobriu o tabernáculo da reunião, e a glória do Senhor o encheu",
+      "ref": "Ex 40,32"
+    }
+  },
+  "ancoras": {
+    "40:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, este versículo é Ex 40,34; a Vulgata tem dois versículos a menos neste capítulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

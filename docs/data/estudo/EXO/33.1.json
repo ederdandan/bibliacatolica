@@ -1,0 +1,40 @@
+{
+  "id": "EXO.33.1",
+  "livro": "EXO",
+  "titulo": "A tenda: face a face, como um amigo",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 33,1-11",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A tenda do encontro: Deus fala a Moisés como a um amigo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: parte daqui, tu e o povo que tiraste do Egito, para a terra que jurei a Abraão, Isaac e Jacó; enviarei um anjo adiante de ti; mas eu não subirei contigo, porque és um povo de dura cerviz, para que não te destrua no caminho. O povo, ouvindo esta má notícia, chora, e ninguém se veste com os seus enfeites; tiram-nos no monte Horeb. Moisés toma a tenda e a arma fora do acampamento, longe, e a chama “tenda da reunião”; quem tinha alguma questão saía à tenda, fora do acampamento. Quando Moisés vai à tenda, todo o povo se levanta, cada um à porta da sua tenda, e o segue com o olhar até que entre. Quando Moisés entra, a coluna de nuvem desce e se detém à porta, e o Senhor fala com Moisés; todo o povo vê a coluna e se prostra, cada um à porta da sua tenda. “O Senhor falava a Moisés face a face, como um homem costuma falar com o seu amigo.” Quando ele volta ao acampamento, o seu jovem servo, Josué, filho de Nun, não se afasta da tenda.",
+    "alegorico": "Jesus diz aos discípulos: “Já não vos chamo servos… chamo-vos amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai” (Jo 15,15): o que foi privilégio de Moisés torna-se dom para todos os que o seguem. A tenda fora do acampamento evoca Cristo, que “sofreu fora da porta”: “saiamos, pois, a ele, fora do acampamento” (Hb 13,12-13).",
+    "moral": "O pecado afasta a presença de Deus: o povo sente a perda e se despoja dos enfeites, em sinal de penitência. A oração é amizade: Moisés fala com Deus “face a face, como um amigo”. O povo, de longe, adora e acompanha com o olhar o intercessor. Josué, o jovem, aprende permanecendo junto à tenda: a escola da oração passa pela presença perseverante.",
+    "anagogico": "O “face a face” de Moisés antecipa a visão que nos é prometida: “agora vemos como num espelho… depois veremos face a face” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu não subirei contigo.” “O povo… chorou, e ninguém se vestiu com os seus enfeites.” “A coluna de nuvem descia e se detinha à porta.” “O Senhor falava a Moisés face a face, como um homem costuma falar com o seu amigo.” “Josué… não se apartava do tabernáculo.”",
+    "meditatio_perguntas": [
+      "Sinto a perda da presença de Deus quando peco?",
+      "Falo com Deus como com um amigo, com confiança e verdade?",
+      "Tenho uma “tenda do encontro”, um lugar e um tempo para estar com Ele?"
+    ],
+    "oratio_guia": "Senhor, que falavas com Moisés face a face como com um amigo, chama-me à tua tenda. Que eu não me afaste da tua presença, como Josué, e aprenda a falar contigo com a confiança de um amigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor falava a Moisés face a face, como um homem costuma falar com o seu amigo",
+      "ref": "Ex 33,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

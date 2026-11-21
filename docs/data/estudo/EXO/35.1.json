@@ -1,0 +1,40 @@
+{
+  "id": "EXO.35.1",
+  "livro": "EXO",
+  "titulo": "As ofertas generosas",
+  "secao": "A construção do santuário",
+  "referencia": "Ex 35,1–36,7",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "As ofertas generosas: “O povo oferece mais do que é necessário”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés reúne toda a comunidade dos filhos de Israel e lhes diz: seis dias trabalhareis; o sétimo será santo, sábado de repouso do Senhor; não acendereis fogo em nenhuma das vossas casas no dia de sábado. Depois: tomai do que tendes uma oferta para o Senhor; todo aquele que for de coração generoso traga ouro, prata, bronze, tecidos, peles, madeira, azeite, aromas e pedras preciosas; e todo aquele que for hábil venha fazer o que o Senhor ordenou. Toda a comunidade sai da presença de Moisés, e “ofereceram ao Senhor, com uma vontade pronta e cheia de afeto, as primícias para fazer a obra do tabernáculo”. Homens e mulheres trazem braceletes, brincos, anéis e todo objeto de ouro; trazem o que têm. As mulheres hábeis fiam com as próprias mãos o jacinto, a púrpura, o escarlate e o linho, e fiam também os pelos de cabra. Os chefes trazem as pedras de ônix e as pedras preciosas, os aromas e o azeite. Moisés apresenta Beseleel e Ooliab, cheios do Espírito para toda obra. Os artesãos começam a obra, mas o povo continua a trazer ofertas todas as manhãs. Os sábios que trabalham vêm “dizer a Moisés: o povo oferece mais do que é necessário”. Moisés manda proclamar no acampamento: ninguém, homem ou mulher, ofereça mais nada para a obra do santuário. E o povo deixa de oferecer, porque o que havia bastava e sobrava.",
+    "alegorico": "A generosidade espontânea que constrói a morada de Deus anuncia a primeira comunidade cristã, em que “ninguém dizia que eram seus os bens que possuía” e ofereciam tudo aos pés dos apóstolos (At 4,32-35). São Paulo ensina: “Deus ama quem dá com alegria” (2Cor 9,7). O mesmo ouro que o povo dera para o bezerro é agora oferecido para o santuário: a conversão muda o destino dos bens.",
+    "moral": "Depois do pecado do bezerro, o povo mostra a sua conversão na generosidade: o ouro que antes serviu à idolatria agora serve ao verdadeiro culto. Cada um dá o que tem: ouro, trabalho manual, habilidade. A oferta é livre, alegre, “de coração generoso”. E acontece algo raro: é preciso pedir para pararem de dar. A obra de Deus é feita com a contribuição de todos.",
+    "anagogico": "A abundância que “basta e sobra” anuncia a plenitude dos bens de Deus no Reino, onde nada faltará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo aquele que for de coração generoso traga.” “Ofereceram ao Senhor com uma vontade pronta e cheia de afeto.” “As mulheres hábeis fiavam com as próprias mãos.” “O povo oferece mais do que é necessário.” “O que tinha sido oferecido bastava e superabundava.”",
+    "meditatio_perguntas": [
+      "Dou a Deus e à Igreja com o coração generoso e alegre?",
+      "Ofereço também os meus talentos e o meu trabalho, e não só os bens?",
+      "O que antes usei para os meus “ídolos” posso agora oferecer a Deus?"
+    ],
+    "oratio_guia": "Senhor, que amas quem dá com alegria, dá-me um coração generoso. Transforma o que antes servia aos meus ídolos em oferta para a tua obra, e faze que a tua Igreja tenha o que basta e sobra para te servir. Amém.",
+    "contemplatio_foco": {
+      "texto": "O povo oferece mais do que é necessário",
+      "ref": "Ex 36,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

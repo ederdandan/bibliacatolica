@@ -1,0 +1,49 @@
+{
+  "id": "EXO.34.10",
+  "livro": "EXO",
+  "titulo": "A aliança renovada; o rosto radiante",
+  "secao": "Pecado e renovação da aliança",
+  "referencia": "Ex 34,10-35",
+  "ini": {
+    "c": 34,
+    "v": 10
+  },
+  "fim": {
+    "c": 34,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "A aliança renovada e o rosto radiante de Moisés",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor responde: eu farei aliança à vista de todos; farei prodígios que nunca se viram na terra, e o povo verá a obra terrível do Senhor. Guarda o que hoje te ordeno: expulsarei de diante de ti os povos de Canaã; não faças aliança com os habitantes da terra, para que não se tornem uma cilada; derruba os seus altares; não adores deus estranho, porque o Senhor se chama Zeloso; é um Deus zeloso. Não faças deuses de metal fundido. Seguem as festas: os ázimos, a consagração dos primogênitos, o sábado “mesmo no tempo de arar e de colher”, a festa das Semanas e da colheita; três vezes por ano todos os homens se apresentarão diante do Senhor; ninguém se apresentará de mãos vazias. O Senhor diz: escreve estas palavras. Moisés fica ali com o Senhor quarenta dias e quarenta noites, sem comer pão nem beber água, e escreve nas tábuas as dez palavras da aliança. “Descendo Moisés do monte Sinai, trazia as duas tábuas do testemunho, e não sabia que o seu rosto era resplandecente depois que tinha estado a falar com o Senhor.” Aarão e o povo, vendo o rosto resplandecente, têm medo de se aproximar. Moisés os chama e lhes comunica as ordens do Senhor; depois põe um véu sobre o rosto. Quando entra para falar com o Senhor, tira o véu; ao sair, cobre-o de novo.",
+    "alegorico": "São Paulo compara o véu de Moisés ao véu que cobre o coração dos que leem a antiga aliança sem reconhecer Cristo: “quando se convertem ao Senhor, o véu é retirado”; e “nós todos, de rosto descoberto, refletindo como num espelho a glória do Senhor, somos transformados na sua imagem, de glória em glória” (2Cor 3,13-18). Na Vulgata, “resplandecente” foi traduzido por cornuta (“com chifres”), daí as imagens de Moisés com dois raios ou chifres, como o de Michelangelo.",
+    "moral": "Quem convive com Deus é transformado e irradia a sua luz, muitas vezes sem saber: a santidade verdadeira não se olha no espelho. A aliança renovada pede fidelidade exclusiva (“Deus zeloso”) e o sábado “mesmo no tempo da colheita”, quando o trabalho mais aperta. Moisés não esconde a luz por vaidade, mas se adapta à fraqueza do povo, e diante de Deus tira o véu.",
+    "anagogico": "O rosto radiante de Moisés antecipa a transformação dos justos, que “brilharão como o sol no Reino do seu Pai” (Mt 13,43), e a glória da ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu farei aliança à vista de todos.” “O Senhor se chama Zeloso.” “Ninguém se apresentará diante de mim de mãos vazias.” “Esteve ali com o Senhor quarenta dias e quarenta noites.” “Não sabia que o seu rosto era resplandecente depois que tinha estado a falar com o Senhor.”",
+    "meditatio_perguntas": [
+      "A minha convivência com Deus transparece no meu rosto e na minha vida?",
+      "Guardo o dia do Senhor mesmo “no tempo da colheita”, quando o trabalho aperta?",
+      "Que “véu” ainda cobre o meu coração diante de Cristo?"
+    ],
+    "oratio_guia": "Senhor, Deus zeloso e fiel, renova comigo a tua aliança. Tira o véu do meu coração, para que, contemplando a tua glória no rosto de Cristo, eu seja transformado e a reflita, sem o saber, aos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "não sabia que o seu rosto era resplandecente depois que tinha estado a falar com o Senhor",
+      "ref": "Ex 34,29"
+    }
+  },
+  "ancoras": {
+    "34:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quarenta dias de jejum de Moisés são retomados por Elias (1Rs 19,8) e por Jesus no deserto (Mt 4,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

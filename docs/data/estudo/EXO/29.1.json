@@ -1,0 +1,40 @@
+{
+  "id": "EXO.29.1",
+  "livro": "EXO",
+  "titulo": "A consagração dos sacerdotes",
+  "secao": "O santuário",
+  "referencia": "Ex 29,1-46",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "A consagração dos sacerdotes: “Habitarei no meio dos filhos de Israel”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus descreve o rito da consagração de Aarão e dos seus filhos. Toma um novilho, dois carneiros sem defeito, pães ázimos e bolos amassados com azeite. Leva Aarão e os filhos à porta do tabernáculo e lava-os com água. Reveste Aarão com as vestes sagradas e derrama sobre a sua cabeça o óleo da unção. Veste os filhos com as túnicas. Imola o novilho pelo pecado, e um carneiro em holocausto, de suave odor ao Senhor. Imola o segundo carneiro, o da consagração: toma do seu sangue e põe-no na ponta da orelha direita de Aarão e dos seus filhos, no polegar da mão direita e no dedo grande do pé direito; asperge com o sangue e o óleo as pessoas e as vestes, e serão santificados. Põe nas suas mãos as partes da oferta, para que as agitem diante do Senhor. A consagração dura sete dias. Depois, o sacrifício perpétuo: cada dia, dois cordeiros de um ano, um de manhã e outro à tarde, com flor de farinha, azeite e vinho, em holocausto contínuo à porta do tabernáculo, onde me encontrarei convosco. “Habitarei no meio dos filhos de Israel, serei o seu Deus, e saberão que eu sou o Senhor seu Deus, que os tirei da terra do Egito para habitar entre eles.”",
+    "alegorico": "A consagração com água, veste e óleo prefigura os sacramentos da iniciação e da ordem: o batismo (o banho), a crisma e a ordenação (a unção). O cordeiro oferecido de manhã e à tarde anuncia Cristo, Cordeiro de Deus, cuja oferta é atualizada na Missa e prolongada na Liturgia das Horas, de manhã (Laudes) e à tarde (Vésperas).",
+    "moral": "O sangue na orelha, na mão e no pé exprime uma consagração total: ouvir a Deus, agir para Deus, caminhar com Deus. O sacerdote é purificado antes de servir. O sacrifício “perpétuo”, cada manhã e cada tarde, ensina a regularidade da oração: o encontro com Deus marca o ritmo de cada dia. E a finalidade de tudo é a presença: “habitarei no meio deles”.",
+    "anagogico": "“Para habitar entre eles”: o fim da libertação do Egito não é só a liberdade, mas a comunhão com Deus, que se consuma na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lavá-los-ás com água.” “Derramarás sobre a sua cabeça o óleo da unção.” “Porás do sangue na ponta da orelha direita… no polegar da mão direita e no dedo grande do pé direito.” “Um cordeiro de manhã e outro à tarde.” “Habitarei no meio dos filhos de Israel, serei o seu Deus.”",
+    "meditatio_perguntas": [
+      "O meu ouvir, o meu agir e o meu caminhar estão consagrados a Deus?",
+      "Tenho um ritmo de oração, de manhã e à tarde?",
+      "Recordo que fui lavado e ungido no batismo e na crisma?"
+    ],
+    "oratio_guia": "Senhor, que quiseste habitar no meio do teu povo, consagra os meus ouvidos, as minhas mãos e os meus pés. Que a minha oração suba a ti de manhã e à tarde, unida à oferta de Jesus, o Cordeiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Habitarei no meio dos filhos de Israel, serei o seu Deus",
+      "ref": "Ex 29,45"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}
