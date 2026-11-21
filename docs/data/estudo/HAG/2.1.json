@@ -1,0 +1,57 @@
+{
+  "id": "HAG.2.1",
+  "livro": "HAG",
+  "titulo": "A glória desta última casa será maior que a da primeira",
+  "secao": "A reconstrução do templo",
+  "referencia": "Ag 2,1-24",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A glória futura do templo e a eleição de Zorobabel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os anciãos que viram o primeiro templo choram diante da pobreza do novo. Deus encoraja: “Coragem, Zorobabel; coragem, Josué; coragem, povo todo… porque eu estou convosco; o meu espírito estará no meio de vós”. Ainda um pouco e abalarei o céu e a terra; virão as riquezas das nações, e “a glória desta última casa será maior que a da primeira; neste lugar darei a paz”. O profeta ensina ainda que a impureza contamina mais facilmente que a santidade se transmite: o culto do povo era impuro; mas a partir de hoje Deus abençoará. Por fim, Zorobabel será como um anel de selo, escolhido por Deus.",
+    "alegorico": "A Vulgata lê “virá o Desejado de todas as nações” (veniet desideratus cunctis gentibus): Cristo, que entra neste templo e lhe dá glória maior que a de Salomão, pois nele habita a plenitude da divindade. Zorobabel, anel de selo, é ancestral de Jesus (Mt 1,12).",
+    "moral": "Não desprezar os começos humildes: a glória de Deus não depende do tamanho da obra. Deus sustenta o trabalho com a sua presença: “coragem… eu estou convosco”.",
+    "anagogico": "O abalo do céu e da terra é citado em Hb 12,26-28: o reino inabalável que recebemos permanece quando tudo passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem viu esta casa na sua primeira glória?” “Coragem, Zorobabel… coragem, povo todo, e trabalhai, porque eu estou convosco.” “A glória desta última casa será maior do que a da primeira… e eu darei a paz neste lugar.”",
+    "meditatio_perguntas": [
+      "Desanimo diante de inícios pequenos?",
+      "Acredito que Deus está comigo no trabalho de cada dia?",
+      "Recebo Cristo como o “Desejado” que enche de glória a minha vida?"
+    ],
+    "oratio_guia": "Senhor, que dás coragem aos que reconstroem, fortalece-me. Enche de glória esta pobre casa que sou eu com a presença do teu Filho, o Desejado das nações, e dá-me a tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "A glória desta última casa será maior do que a da primeira",
+      "ref": "Ag 2,10"
+    }
+  },
+  "ancoras": {
+    "2:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A leitura messiânica “o Desejado de todas as nações” vem da Vulgata; o hebraico fala dos “tesouros” das nações que afluem ao templo.",
+        "origem": "ia"
+      }
+    },
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Anel de selo” (sinete): Zorobabel, descendente de Davi, recupera a dignidade real que Jeconias perdera (Jr 22,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

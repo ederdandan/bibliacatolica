@@ -1,0 +1,150 @@
+{
+ "livro": "ZEC",
+ "secoes": [
+  "As visões noturnas",
+  "Jejum e promessas",
+  "O rei humilde e o pastor ferido"
+ ],
+ "pericopes": [
+  {
+   "id": "ZEC.1.1",
+   "titulo": "Voltai a mim: o cavaleiro entre as murtas e os quatro chifres",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 1,1-21",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 21
+   }
+  },
+  {
+   "id": "ZEC.2.1",
+   "titulo": "O homem do cordel: venho habitar no meio de ti",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "ZEC.3.1",
+   "titulo": "O sumo sacerdote Josué e o servo Germen",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 3,1-10",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 10
+   }
+  },
+  {
+   "id": "ZEC.4.1",
+   "titulo": "O candelabro e as duas oliveiras: pelo meu Espírito",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 4,1-14",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 14
+   }
+  },
+  {
+   "id": "ZEC.5.1",
+   "titulo": "O livro que voa, a mulher na medida e os quatro carros",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 5,1–6,15",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 15
+   }
+  },
+  {
+   "id": "ZEC.7.1",
+   "titulo": "Não jejuns, mas justiça: Jerusalém, cidade da fidelidade",
+   "secao": "Jejum e promessas",
+   "referencia": "Zc 7,1–8,23",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 23
+   }
+  },
+  {
+   "id": "ZEC.9.1",
+   "titulo": "Eis que o teu rei vem a ti, montado num jumento",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 9,1-17",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 17
+   }
+  },
+  {
+   "id": "ZEC.10.1",
+   "titulo": "O rebanho disperso e as trinta moedas de prata",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 10,1–11,17",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 17
+   }
+  },
+  {
+   "id": "ZEC.12.1",
+   "titulo": "Chorarão aquele que traspassaram; fere o pastor",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 12,1–13,9",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 9
+   }
+  },
+  {
+   "id": "ZEC.14.1",
+   "titulo": "O Senhor será rei de toda a terra",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 14,1-21",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 21
+   }
+  }
+ ]
+}

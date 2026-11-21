@@ -1,0 +1,49 @@
+{
+  "id": "ZEC.10.1",
+  "livro": "ZEC",
+  "titulo": "O rebanho disperso e as trinta moedas de prata",
+  "secao": "O rei humilde e o pastor ferido",
+  "referencia": "Zc 10,1–11,17",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O Senhor apascenta o rebanho que os maus pastores venderam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pedi a chuva ao Senhor, não aos ídolos e adivinhos, que deixam o povo como ovelhas sem pastor. Deus se irrita contra os maus pastores e visitará o seu rebanho; de Judá sairá a pedra angular. Reunirá os dispersos de Efraim e José como num assobio. No capítulo 11, o profeta recebe a missão de apascentar as ovelhas destinadas ao matadouro, cujos compradores as matam sem remorso. Toma dois cajados, “Graça” e “União”, e os quebra, sinal da aliança rompida. Pede o salário e pagam-lhe “trinta moedas de prata”, preço irrisório; Deus manda lançá-las ao oleiro no templo. Ai do pastor insensato que abandona o rebanho.",
+    "alegorico": "São Mateus vê aqui o preço da traição de Judas: trinta moedas, lançadas no templo e usadas para comprar o campo do oleiro (Mt 27,3-10). O Pastor avaliado em tão pouco é Cristo, Bom Pastor rejeitado, e de Judá vem a pedra angular.",
+    "moral": "Somos tentados a avaliar Deus por baixo preço. Os maus pastores vendem o rebanho por lucro; o pastor verdadeiro se compadece das ovelhas destinadas à morte. Pedir a chuva a Deus e não aos adivinhos é escolha de fé.",
+    "anagogico": "A reunião dos dispersos “com um assobio” anuncia a reunião final do povo de Deus pelo único Pastor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pedi ao Senhor chuvas.” “Andam como ovelhas sem pastor.” “Tomei dois cajados: a um chamei Graça e a outro União.” “Pagaram-me pelo meu salário trinta moedas de prata.” “Lança-o ao oleiro, esse belo preço em que fui avaliado.”",
+    "meditatio_perguntas": [
+      "Por quanto “vendo” Jesus nas minhas escolhas?",
+      "Busco a chuva de Deus ou recorro a “adivinhos”?",
+      "Como cuido dos que dependem de mim: como pastor ou como mercenário?"
+    ],
+    "oratio_guia": "Senhor Jesus, Pastor avaliado em trinta moedas, perdoa as vezes em que te troquei por pouco. Reúne-me ao teu rebanho e restaura em nós a Graça e a União. Amém.",
+    "contemplatio_foco": {
+      "texto": "pagaram-me pelo meu salário trinta moedas de prata",
+      "ref": "Zc 11,12"
+    }
+  },
+  "ancoras": {
+    "11:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mateus atribui a citação a Jeremias, combinando Zc 11,12-13 com ações simbólicas de Jeremias (Jr 18–19; 32), como era comum nas citações compostas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

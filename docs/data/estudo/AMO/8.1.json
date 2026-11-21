@@ -1,0 +1,49 @@
+{
+  "id": "AMO.8.1",
+  "livro": "AMO",
+  "titulo": "A cesta de frutos: fome de ouvir a palavra do Senhor",
+  "secao": "Visões e promessa",
+  "referencia": "Am 8,1-14",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A fome mais terrível: a falta da palavra de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na quarta visão, um cesto de frutos maduros (qaiş) anuncia que chegou o fim (qeş) para Israel: os cânticos do templo virarão lamentos. Amós denuncia os comerciantes que esperam o fim do sábado para vender, diminuir a medida, aumentar o preço, falsificar a balança, comprar o pobre por um par de sandálias e vender o refugo do trigo. Deus não esquecerá. O sol se porá ao meio-dia, as festas virarão luto. E virá uma fome “não de pão, nem sede de água, mas de ouvir a palavra do Senhor”; procurarão e não a acharão.",
+    "alegorico": "O sol que se põe ao meio-dia evoca as trevas da Sexta-feira Santa (Mt 27,45). A fome da Palavra é saciada por Cristo, Verbo encarnado e Pão da vida.",
+    "moral": "O culto pode conviver com uma economia desonesta: guarda-se o sábado com pressa de voltar à fraude. A maior ameaça para uma sociedade não é a escassez material, mas o silêncio de Deus quando a Palavra é desprezada.",
+    "anagogico": "O “fim” maduro como fruto aponta para a colheita final da história; quem rejeitou a Palavra sentirá eternamente a sua falta."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi um cesto de frutos maduros: chegou o fim para o meu povo.” “Quando passará o sábado, para abrirmos o trigo?” “Enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir a palavra do Senhor.”",
+    "meditatio_perguntas": [
+      "Tenho fome da palavra de Deus?",
+      "Vivo o domingo com o coração no negócio?",
+      "Sou honesto nas medidas e balanças da minha vida?"
+    ],
+    "oratio_guia": "Senhor, não me deixes sem a tua palavra. Dá-me fome dela, faze-me honesto no trabalho e no comércio, e que o meu domingo seja todo teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "não fome de pão, nem sede de água, mas de ouvir a palavra do Senhor",
+      "ref": "Am 8,11"
+    }
+  },
+  "ancoras": {
+    "8:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em hebraico há um jogo de palavras entre qaiş (fruto de verão) e qeş (fim).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ZEP.3.1",
+  "livro": "ZEP",
+  "titulo": "Alegra-te, filha de Sião: o Senhor está no meio de ti",
+  "secao": "O dia do Senhor e o resto fiel",
+  "referencia": "Sf 3,1-20",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "O resto humilde e a alegria de Deus no meio do seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ai de Jerusalém, cidade rebelde e opressora: não ouviu, não confiou no Senhor; os chefes são leões, os juízes lobos, os profetas levianos, os sacerdotes profanam. Mas Deus purificará os lábios dos povos para que todos invoquem o seu nome. Deixará no meio de Sião “um povo humilde e pobre”, que esperará no nome do Senhor e não praticará a iniquidade. Então: “Solta gritos de júbilo, filha de Sião! Alegra-te e exulta de todo o coração!” O Senhor retirou a tua condenação; “o Senhor teu Deus, herói salvador, está no meio de ti, exulta de alegria por ti, renova-te no seu amor”.",
+    "alegorico": "A saudação do anjo a Maria (“Alegra-te… o Senhor está contigo”, Lc 1,28) ecoa esta profecia: Maria é a filha de Sião em cujo seio o Senhor habita. O resto pobre e humilde é o povo das bem-aventuranças.",
+    "moral": "Deus não apenas tolera o seu povo purificado: alegra-se nele, canta por ele. A pobreza de espírito é condição para acolher esse amor. A alegria cristã nasce de saber-se amado.",
+    "anagogico": "O Deus que dança de alegria no meio do seu povo anuncia a festa eterna, onde Ele reunirá os dispersos e mudará a vergonha em glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixarei no meio de ti um povo humilde e pobre.” “Solta gritos de júbilo, filha de Sião! Alegra-te e exulta de todo o coração!” “O Senhor teu Deus, herói salvador, está no meio de ti… exulta jubiloso a teu respeito.”",
+    "meditatio_perguntas": [
+      "Creio que Deus se alegra comigo?",
+      "Faço parte do povo “humilde e pobre” que espera no Senhor?",
+      "Como Maria, deixo o Senhor habitar no meio de mim?"
+    ],
+    "oratio_guia": "Senhor, herói salvador, que estás no meio de nós e te alegras com o teu povo, faze-me pobre e humilde para acolher a tua alegria. Com Maria, filha de Sião, eu exulto em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor teu Deus, herói salvador, está no meio de ti!",
+      "ref": "Sf 3,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

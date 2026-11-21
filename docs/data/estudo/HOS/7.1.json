@@ -1,0 +1,49 @@
+{
+  "id": "HOS.7.1",
+  "livro": "HOS",
+  "titulo": "Efraim, pomba ingênua: semearam ventos, colherão tempestades",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 7,1–8,14",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A falsidade de Israel: buscar o Egito e a Assíria em vez de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Deus quer curar Israel, aparece a sua maldade: fraude, roubo, intrigas palacianas; os reis caem um após outro e ninguém clama a Deus. Efraim é como bolo não virado, pomba ingênua que chama o Egito e vai à Assíria. Clamam nos seus leitos, mas não de coração. No capítulo 8, a trombeta anuncia o inimigo: fizeram reis sem Deus, ídolos de prata, o bezerro de Samaria. “Semearam ventos, colherão tempestades.” Multiplicaram altares para pecar e esqueceram o seu Criador.",
+    "alegorico": "A “pomba ingênua” contrasta com a pomba do Espírito, que dá simplicidade sem tolice (Mt 10,16). Os reis feitos sem Deus contrastam com Cristo, Rei escolhido pelo Pai.",
+    "moral": "Quem semeia ventos colhe tempestades: as escolhas feitas sem Deus produzem frutos amargos. A vida dupla, metade crua e metade queimada, como o bolo não virado, é sinal de uma fé que não chega ao coração.",
+    "anagogico": "A colheita final revelará o que cada um semeou; o juízo é a manifestação da verdade das nossas sementeiras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Efraim é como pomba ingênua, sem entendimento: chamam o Egito, vão à Assíria.” “Não clamaram a mim de coração.” “Semearam ventos, colherão tempestades.” “Israel esqueceu-se do seu Criador.”",
+    "meditatio_perguntas": [
+      "Em que área da minha vida sou “bolo não virado”?",
+      "Clamo a Deus de coração ou só por aflição?",
+      "Que ventos estou semeando?"
+    ],
+    "oratio_guia": "Senhor, meu Criador, não permitas que eu te esqueça. Dá-me simplicidade sem ingenuidade e faz que eu semeie justiça, para não colher tempestades. Amém.",
+    "contemplatio_foco": {
+      "texto": "Visto que semearam ventos, colherão tempestades",
+      "ref": "Os 8,7"
+    }
+  },
+  "ancoras": {
+    "8:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O bezerro de Samaria é o culto instituído por Jeroboão I em Betel e Dã (1Rs 12,28-29), causa permanente da apostasia do Norte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,108 @@
+{
+ "livro": "MIC",
+ "secoes": [
+  "Juízo sobre Samaria e Jerusalém",
+  "Promessas a Sião",
+  "Processo e esperança"
+ ],
+ "pericopes": [
+  {
+   "id": "MIC.1.1",
+   "titulo": "O Senhor sai da sua morada: juízo sobre Samaria",
+   "secao": "Juízo sobre Samaria e Jerusalém",
+   "referencia": "Mq 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "MIC.2.1",
+   "titulo": "Ai dos que planejam a iniquidade",
+   "secao": "Juízo sobre Samaria e Jerusalém",
+   "referencia": "Mq 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "MIC.3.1",
+   "titulo": "Contra os chefes e os falsos profetas",
+   "secao": "Juízo sobre Samaria e Jerusalém",
+   "referencia": "Mq 3,1-12",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 12
+   }
+  },
+  {
+   "id": "MIC.4.1",
+   "titulo": "O monte do Senhor: espadas em relhas de arado",
+   "secao": "Promessas a Sião",
+   "referencia": "Mq 4,1-13",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 13
+   }
+  },
+  {
+   "id": "MIC.5.1",
+   "titulo": "E tu, Belém Efrata",
+   "secao": "Promessas a Sião",
+   "referencia": "Mq 5,1-14",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 14
+   }
+  },
+  {
+   "id": "MIC.6.1",
+   "titulo": "O que o Senhor requer de ti",
+   "secao": "Processo e esperança",
+   "referencia": "Mq 6,1-16",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 16
+   }
+  },
+  {
+   "id": "MIC.7.1",
+   "titulo": "Qual o Deus semelhante a ti, que perdoa os pecados?",
+   "secao": "Processo e esperança",
+   "referencia": "Mq 7,1-20",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 20
+   }
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Oráculo contra Edom
+1:1-1:21 | O orgulho de Edom e o reino do Senhor

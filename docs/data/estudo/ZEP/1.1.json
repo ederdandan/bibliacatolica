@@ -1,0 +1,49 @@
+{
+  "id": "ZEP.1.1",
+  "livro": "ZEP",
+  "titulo": "Dia de ira aquele dia",
+  "secao": "O dia do Senhor e o resto fiel",
+  "referencia": "Sf 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O dia do Senhor, dia de ira, contra a idolatria e a indiferença",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos dias do rei Josias, Sofonias anuncia que Deus varrerá tudo da face da terra. Visará Judá e Jerusalém: o resto de Baal, os que adoram o exército do céu nos terraços, os que juram pelo Senhor e por Melcom, os que se afastaram de Deus. “Silêncio diante do Senhor Deus, porque está próximo o dia do Senhor.” Deus esquadrinhará Jerusalém com lanternas e castigará os homens acomodados como vinho na borra, que dizem: “O Senhor não faz nem bem nem mal”. “Esse dia será um dia de ira, de tribulação e angústia, de trevas e escuridão.” Nem prata nem ouro os livrarão.",
+    "alegorico": "Esta passagem inspirou a sequência medieval “Dies irae”. Cristo, Juiz que vem, já esquadrinha os corações com a luz do Evangelho; e na cruz assumiu as trevas desse dia.",
+    "moral": "O pecado denunciado não é só a idolatria aberta, mas o sincretismo (Deus e Melcom) e a indiferença prática de quem pensa que Deus não intervém. Deus procura com lanternas os acomodados.",
+    "anagogico": "O dia de ira é o juízo final, quando nada do que acumulamos nos salvará; apenas a misericórdia acolhida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Silêncio diante do Senhor Deus, porque está próximo o dia do Senhor.” “Esquadrinharei Jerusalém com lanternas.” “O Senhor não faz nem bem nem mal.” “Esse dia será um dia de ira.”",
+    "meditatio_perguntas": [
+      "Vivo como se Deus “não fizesse nem bem nem mal”?",
+      "Que “Melcom” divide o meu coração com Deus?",
+      "Estou acomodado como vinho sobre a borra?"
+    ],
+    "oratio_guia": "Senhor, que esquadrinhas os corações com lanternas, desperta-me da indiferença. Purifica-me de toda divisão e prepara-me para o teu dia com temor e esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esse dia será um dia de ira, um dia de tribulação e angústia",
+      "ref": "Sf 1,15"
+    }
+  },
+  "ancoras": {
+    "1:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem do vinho deixado na borra sem trasfegar descreve quem engrossou e perdeu o frescor, pela acomodação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "HOS.6.1",
+  "livro": "HOS",
+  "titulo": "Quero o amor e não os sacrifícios",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 6,1-11",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O amor e o conhecimento de Deus valem mais que os sacrifícios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na angústia, o povo diz: “Vinde, voltemos para o Senhor: ele nos feriu e nos curará; depois de dois dias nos dará a vida, ao terceiro dia nos ressuscitará”. Mas a conversão é superficial: o seu amor é como nuvem da manhã, como orvalho que passa. Por isso Deus os cortou pelos profetas. “O que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos.” Como Adão, violaram a aliança; Galaad é cidade de malfeitores; até os sacerdotes assassinam.",
+    "alegorico": "“Ao terceiro dia nos ressuscitará” foi lido pelos Padres como anúncio da Ressurreição de Cristo, na qual o seu povo ressuscita com Ele. Jesus cita duas vezes “quero misericórdia e não sacrifício” (Mt 9,13; 12,7).",
+    "moral": "A conversão não pode ser orvalho da manhã. Deus não rejeita o culto, mas quer que nasça de um amor fiel (hesed) e de um conhecimento vivo dele; sem isso, o sacrifício é vazio.",
+    "anagogico": "Depois dos “dois dias” desta vida e da morte vem o terceiro dia da ressurreição, quando viveremos na presença de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vinde, voltemos para o Senhor: ele nos feriu e nos curará.” “O vosso amor é como nuvem da manhã.” “O que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos.”",
+    "meditatio_perguntas": [
+      "A minha conversão é duradoura ou como orvalho que passa?",
+      "O meu culto nasce de amor fiel?",
+      "Que lugar tem a misericórdia na minha prática religiosa?"
+    ],
+    "oratio_guia": "Senhor, que feres e curas, ressuscita-me ao terceiro dia com o teu Filho. Dá-me um amor que não se evapore, e faz que o meu culto seja amor e conhecimento de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "o que eu quero é o amor, e não os sacrifícios",
+      "ref": "Os 6,6"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Muitos Padres viram neste versículo (“ao terceiro dia nos ressuscitará”) uma profecia da Ressurreição; cf. 1Cor 15,4 “segundo as Escrituras”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

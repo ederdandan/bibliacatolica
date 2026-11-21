@@ -1,0 +1,40 @@
+{
+  "id": "JON.1.1",
+  "livro": "JON",
+  "titulo": "Jonas foge da face do Senhor",
+  "secao": "Jonas, o profeta relutante",
+  "referencia": "Jn 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Não se pode fugir da face do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jonas pregar contra Nínive, a grande cidade inimiga. Jonas foge na direção oposta, para Tarsis, “fugindo da face do Senhor”. Deus lança uma grande tempestade; os marinheiros pagãos rezam cada um ao seu deus, enquanto Jonas dorme no porão. A sorte cai sobre ele; Jonas confessa: “Sou hebreu e temo o Senhor, Deus do céu, que fez o mar e a terra”. Pede que o lancem ao mar. Os marinheiros tentam remar, oram para não serem culpados de sangue inocente, lançam-no ao mar, e o mar se acalma. Então temem o Senhor, oferecem sacrifícios e fazem votos.",
+    "alegorico": "Jesus dorme na barca durante a tempestade, mas, diferente de Jonas, não foge: ele se entrega para que o mar se acalme. Jonas lançado ao mar para salvar os marinheiros figura Cristo que dá a vida para salvar os outros (Jo 11,50).",
+    "moral": "Fugir da vocação produz tempestades para nós e para os outros. Os pagãos são, às vezes, mais religiosos que o crente acomodado. Deus, contudo, usa até a nossa fuga para revelar-se.",
+    "anagogico": "A calma do mar após o sacrifício anuncia a paz que Cristo dará na nova criação, onde “o mar já não existe” (Ap 21,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te, vai a Nínive.” “Jonas pôs-se a caminho para fugir da face do Senhor.” “Jonas dormia profundamente.” “Pegai em mim e lançai-me ao mar, e o mar se calará.”",
+    "meditatio_perguntas": [
+      "De que chamado estou fugindo?",
+      "Durmo no porão enquanto os outros sofrem a tempestade?",
+      "O que me ensina a fé sincera dos marinheiros pagãos?"
+    ],
+    "oratio_guia": "Senhor, de cuja face ninguém foge, desperta-me do sono e faze-me obediente ao teu chamado. Que a minha vida, entregue, traga calma às tempestades dos outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pegai em mim e lançai-me ao mar, e o mar se calará",
+      "ref": "Jn 1,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

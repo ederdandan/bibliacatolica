@@ -1,0 +1,49 @@
+{
+  "id": "HOS.11.1",
+  "livro": "HOS",
+  "titulo": "Do Egito chamei o meu filho",
+  "secao": "O amor que vence",
+  "referencia": "Os 11,1-12",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O amor paterno de Deus, mais forte que a ira",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.” Deus recorda os cuidados de pai: ensinou Efraim a andar, tomou-o nos braços, atraiu-o com laços de amor, inclinou-se para lhe dar de comer. Mas quanto mais os chamava, mais se afastavam. O castigo vem; porém o coração de Deus se comove: “Como te tratarei, ó Efraim?… O meu coração dá voltas dentro de mim… porque sou Deus e não um homem, o Santo no meio de ti”. Os filhos voltarão tremendo do Egito e da Assíria.",
+    "alegorico": "São Mateus (2,15) aplica “do Egito chamei o meu filho” a Jesus, o Filho que refaz em si a história de Israel. O coração comovido de Deus revela-se plenamente no Coração de Cristo.",
+    "moral": "Deus educa com ternura materna e paterna. A sua santidade não é dureza: é precisamente porque é Deus e não homem que ele não se deixa vencer pela ira. Isto convida a confiar e a imitar essa paciência.",
+    "anagogico": "Os filhos que voltam “como pássaros do Egito” figuram o retorno definitivo à casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.” “Segurava-os com laços humanos, com laços de amor.” “O meu coração dá voltas dentro de mim… porque sou Deus e não um homem.”",
+    "meditatio_perguntas": [
+      "Recordo os momentos em que Deus me ensinou a andar e me tomou nos braços?",
+      "Vejo a santidade de Deus como misericórdia?",
+      "Como educo os outros: com laços de amor ou com cordas de imposição?"
+    ],
+    "oratio_guia": "Pai, que me chamaste do Egito e me ensinaste a andar, prende-me com laços de amor. Teu coração se comove por mim: não me deixes afastar-me de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Segurava-os com laços humanos, com laços de amor",
+      "ref": "Os 11,4"
+    }
+  },
+  "ancoras": {
+    "11:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Porque sou Deus e não um homem”: a transcendência de Deus aparece aqui não como distância, mas como capacidade de perdoar além da medida humana.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

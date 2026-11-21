@@ -1,0 +1,40 @@
+{
+  "id": "JOE.2.1",
+  "livro": "JOE",
+  "titulo": "Rasgai os vossos corações e não as vossas vestes",
+  "secao": "O dia do Senhor",
+  "referencia": "Jl 2,1-17",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A conversão do coração: Deus é benigno e compassivo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Tocai a trombeta em Sião: o dia do Senhor vem, dia de trevas. Um exército imenso e disciplinado avança como fogo, sobe aos muros, entra pelas janelas; a terra treme, o sol e a lua escurecem. “Mas agora ainda, diz o Senhor, convertei-vos a mim de todo o vosso coração, com jejuns, lágrimas e gemidos. Rasgai os vossos corações e não as vossas vestes”, porque Ele é benigno e compassivo. Quem sabe se não voltará atrás? Convocai todos, anciãos, crianças, até os recém-casados; os sacerdotes chorem entre o vestíbulo e o altar: “Perdoa, Senhor, ao teu povo”.",
+    "alegorico": "A Igreja lê esta perícope na Quarta-feira de Cinzas: o exército que avança é figura do combate espiritual, e a trombeta é a voz da Igreja que convoca à penitência. Cristo é o Sacerdote que chora e intercede entre o vestíbulo e o altar.",
+    "moral": "A conversão verdadeira é interior: “rasgar o coração” e não apenas gestos exteriores. Mas o interior se exprime em jejum, lágrimas e assembleia: a penitência é pessoal e comunitária.",
+    "anagogico": "O sol e a lua escurecidos anunciam os sinais do fim; a conversão de agora é a preparação para aquele dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Convertei-vos a mim de todo o vosso coração, com jejuns, com lágrimas e com gemidos. Rasgai os vossos corações, e não as vossas vestes… porque ele é benigno e compassivo.” “Perdoa, Senhor, ao teu povo.”",
+    "meditatio_perguntas": [
+      "A minha penitência rasga o coração ou só as vestes?",
+      "Que significa “de todo o coração” para mim nesta Quaresma?",
+      "Intercedo pelo povo, como os sacerdotes entre o vestíbulo e o altar?"
+    ],
+    "oratio_guia": "Senhor benigno e compassivo, converte-me de todo o coração. Que o meu jejum e as minhas lágrimas sejam verdadeiros. Perdoa ao teu povo e não entregues a tua herança ao opróbrio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Rasgai os vossos corações, e não as vossas vestes",
+      "ref": "Jl 2,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

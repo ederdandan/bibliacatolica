@@ -1,0 +1,40 @@
+{
+  "id": "AMO.3.1",
+  "livro": "AMO",
+  "titulo": "O leão ruge: quem não temerá?",
+  "secao": "Palavras contra Israel",
+  "referencia": "Am 3,1-15",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A eleição implica responsabilidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Só a vós conheci entre todas as famílias da terra; por isso vos pedirei contas de todas as vossas iniquidades.” Uma série de perguntas mostra que nada acontece sem causa: o leão não ruge sem presa, a armadilha não salta à toa. Assim também: “O leão ruge; quem não temerá? O Senhor Deus falou: quem não profetizará?” Deus nada faz sem revelar o seu segredo aos profetas. Asdod e o Egito são chamados como testemunhas das violências de Samaria. Do rebanho restará pouco: dois pernis ou uma ponta de orelha. Os altares de Betel e as casas de marfim cairão.",
+    "alegorico": "O “segredo” revelado aos profetas atinge a plenitude em Cristo, que chama amigos aos discípulos porque lhes deu a conhecer tudo o que ouviu do Pai (Jo 15,15).",
+    "moral": "Ser escolhido não é privilégio, é missão. Quem conhece a Deus terá de prestar mais contas. E quem ouve o Senhor não pode calar: o profeta fala porque Deus falou.",
+    "anagogico": "O pequeno resto arrancado da boca do leão anuncia os salvos no último dia, resgatados por pura graça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Só a vós conheci entre todas as famílias da terra; por isso vos pedirei contas.” “O leão ruge; quem não temerá? O Senhor Deus falou: quem não profetizará?”",
+    "meditatio_perguntas": [
+      "Vivo a minha eleição batismal como responsabilidade?",
+      "Calo-me quando deveria falar em nome de Deus?",
+      "Que casas de marfim construí, confiando nelas?"
+    ],
+    "oratio_guia": "Senhor, que me conheceste e me escolheste, faze-me responsável pelo dom recebido. Quando falas, dá-me coragem para não me calar. Amém.",
+    "contemplatio_foco": {
+      "texto": "O leão ruge; quem não temerá? O Senhor Deus falou: quem não profetizará?",
+      "ref": "Am 3,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

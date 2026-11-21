@@ -1,0 +1,40 @@
+{
+  "id": "HOS.9.1",
+  "livro": "HOS",
+  "titulo": "Israel, vinha frondosa: semeai na justiça",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 9,1–10,15",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O fim das festas e o convite a semear na justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel não deve alegrar-se como os povos: prostituiu-se longe de Deus. Voltará ao Egito e comerá impureza na Assíria; as festas cessarão. O profeta é tido por louco porque denuncia o pecado. Deus achou Israel como uvas no deserto, mas em Baal-Fegor se consagraram à vergonha; Efraim será estéril. No capítulo 10, Israel, vinha frondosa, multiplicou altares; o bezerro de Betel será levado; dirão aos montes: “Cobri-nos”. Ainda assim: “Semeai para vós na justiça, segai segundo a misericórdia, porque é tempo de buscar o Senhor”.",
+    "alegorico": "Cristo cita “dirão aos montes: cobri-nos” no caminho da cruz (Lc 23,30), e o Apocalipse o retoma (Ap 6,16). A vinha frondosa que dá frutos para si contrasta com Cristo, a Videira verdadeira.",
+    "moral": "A prosperidade pode levar à idolatria: quanto mais fruto, mais altares. O remédio é romper o pousio do coração e semear justiça, pois sempre é tempo de buscar o Senhor.",
+    "anagogico": "A colheita “segundo a misericórdia” aponta para o juízo final, onde a misericórdia triunfa para quem semeou justiça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como uvas no deserto achei Israel.” “Israel era uma vinha frondosa: quanto mais frutos, mais altares.” “Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor.”",
+    "meditatio_perguntas": [
+      "A prosperidade me afastou de Deus?",
+      "Que “pousio” do meu coração precisa ser rompido?",
+      "Considero que agora é tempo de buscar o Senhor?"
+    ],
+    "oratio_guia": "Senhor, que achaste o teu povo como uvas no deserto, rompe o pousio do meu coração. Ensina-me a semear na justiça para colher misericórdia, agora que é tempo de te buscar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor",
+      "ref": "Os 10,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

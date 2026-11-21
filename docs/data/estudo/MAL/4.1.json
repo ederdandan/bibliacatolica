@@ -1,0 +1,49 @@
+{
+  "id": "MAL.4.1",
+  "livro": "MAL",
+  "titulo": "O sol de justiça e a vinda de Elias",
+  "secao": "O mensageiro da aliança",
+  "referencia": "Ml 4,1-6",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "O Sol de justiça e o retorno de Elias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Vem o dia ardente como fornalha: os soberbos e os que praticam a impiedade serão como palha, sem raiz nem rama. “Mas para vós que temeis o meu nome, nascerá o sol de justiça, que traz a salvação nas suas asas”; saltareis como novilhos soltos do estábulo e pisareis os ímpios. Lembrai-vos da lei de Moisés. “Eis que vos enviarei o profeta Elias, antes que venha o dia grande e horrível do Senhor; ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais.” Assim termina, na Vulgata, o livro dos profetas.",
+    "alegorico": "Cristo é o Sol de justiça que nasce do alto (Lc 1,78); os raios-asas que curam são a sua graça. O anjo aplica a João Batista o espírito e o poder de Elias, para reconciliar pais e filhos (Lc 1,17); Jesus o confirma (Mt 17,12).",
+    "moral": "A conversão passa pela reconciliação nas famílias: corações de pais e filhos voltados uns para os outros. A Lei (Moisés) e os Profetas (Elias) preparam a vinda de Cristo, como na Transfiguração.",
+    "anagogico": "O dia ardente será, para quem teme a Deus, o amanhecer eterno do Sol de justiça, com alegria de novilhos soltos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que virá um dia ardente como uma fornalha.” “Para vós que temeis o meu nome, nascerá o sol da justiça, que traz a salvação sob as suas asas.” “Eis que vos enviarei o profeta Elias… Ele converterá o coração dos pais aos filhos.”",
+    "meditatio_perguntas": [
+      "Deixo o Sol de justiça curar-me com os seus raios?",
+      "Há na minha família corações a reconciliar?",
+      "Vivo a espera do Senhor com alegria ou com medo?"
+    ],
+    "oratio_guia": "Cristo, Sol de justiça, nasce em mim e cura-me sob as tuas asas. Converte o coração dos pais aos filhos e dos filhos aos pais, e prepara-nos para o teu dia. Amém.",
+    "contemplatio_foco": {
+      "texto": "nascerá (o Messias) o sol da justiça, que traz a salvação sob as suas asas",
+      "ref": "Ml 4,2"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Ml 4,1-6 corresponde a Ml 3,19-24 (o hebraico tem só três capítulos).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ZEC.9.1",
+  "livro": "ZEC",
+  "titulo": "Eis que o teu rei vem a ti, montado num jumento",
+  "secao": "O rei humilde e o pastor ferido",
+  "referencia": "Zc 9,1-17",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O rei justo e humilde que vem montado num jumento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um oráculo anuncia o juízo sobre as cidades vizinhas (Hadrac, Damasco, Tiro, Sidônia, Filisteia); o resto delas será incorporado a Judá, e Deus acampará junto da sua casa. Então: “Salta de alegria, ó filha de Sião… Eis que o teu rei vem a ti, justo e vitorioso; ele é humilde e vem montado sobre um jumento”. Ele fará desaparecer os carros e os cavalos de guerra, anunciará a paz às nações; o seu domínio irá de mar a mar. Pelo sangue da aliança Deus liberta os cativos da cisterna sem água: “Voltai à fortaleza, prisioneiros da esperança”.",
+    "alegorico": "Os evangelistas veem o cumprimento literal na entrada de Jesus em Jerusalém (Mt 21,5; Jo 12,15), no Domingo de Ramos. O “sangue da aliança” que liberta os prisioneiros é o sangue de Cristo (Mt 26,28), e a descida aos infernos liberta os cativos.",
+    "moral": "O Messias não vem com poder militar, mas com humildade e paz. Seguir este Rei é renunciar à lógica dos “carros e cavalos”. Somos “prisioneiros da esperança”: presos não pelo desespero, mas pela promessa.",
+    "anagogico": "O domínio de mar a mar e a paz anunciada às nações descrevem o Reino universal de Cristo na consumação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Salta de alegria, ó filha de Sião… Eis que o teu rei vem a ti, justo e vitorioso; ele é humilde e vem montado sobre um jumento.” “Ele anunciará a paz às nações.” “Voltai à fortaleza, prisioneiros da esperança.”",
+    "meditatio_perguntas": [
+      "Acolho Jesus como rei humilde, ou espero dele poder mundano?",
+      "Que “carros e cavalos” ainda confio em mim?",
+      "Sou “prisioneiro da esperança”?"
+    ],
+    "oratio_guia": "Jesus, meu Rei justo e humilde, entra na Jerusalém do meu coração. Tira de mim os carros de guerra e anuncia-me a tua paz. Liberta-me da cisterna sem água pelo sangue da tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que o teu rei vem a ti, justo e vitorioso; ele é humilde e vem montado sobre um jumento",
+      "ref": "Zc 9,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

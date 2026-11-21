@@ -1,0 +1,5 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A reconstrução do templo
+1:1-1:14 | Considerai os vossos caminhos: reedificai a minha casa
+2:1-2:24 | A glória desta última casa será maior que a da primeira

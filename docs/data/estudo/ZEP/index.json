@@ -1,0 +1,50 @@
+{
+ "livro": "ZEP",
+ "secoes": [
+  "O dia do Senhor e o resto fiel"
+ ],
+ "pericopes": [
+  {
+   "id": "ZEP.1.1",
+   "titulo": "Dia de ira aquele dia",
+   "secao": "O dia do Senhor e o resto fiel",
+   "referencia": "Sf 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "ZEP.2.1",
+   "titulo": "Buscai o Senhor, todos os humildes da terra",
+   "secao": "O dia do Senhor e o resto fiel",
+   "referencia": "Sf 2,1-15",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 15
+   }
+  },
+  {
+   "id": "ZEP.3.1",
+   "titulo": "Alegra-te, filha de Sião: o Senhor está no meio de ti",
+   "secao": "O dia do Senhor e o resto fiel",
+   "referencia": "Sf 3,1-20",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 20
+   }
+  }
+ ]
+}

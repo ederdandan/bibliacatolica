@@ -1,0 +1,12 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Juízo sobre Samaria e Jerusalém
+1:1-1:16 | O Senhor sai da sua morada: juízo sobre Samaria
+2:1-2:13 | Ai dos que planejam a iniquidade
+3:1-3:12 | Contra os chefes e os falsos profetas
+## Promessas a Sião
+4:1-4:13 | O monte do Senhor: espadas em relhas de arado
+5:1-5:14 | E tu, Belém Efrata
+## Processo e esperança
+6:1-6:16 | O que o Senhor requer de ti
+7:1-7:20 | Qual o Deus semelhante a ti, que perdoa os pecados?

@@ -1,0 +1,40 @@
+{
+  "id": "AMO.4.1",
+  "livro": "AMO",
+  "titulo": "Vacas de Basan: prepara-te para sair ao encontro do teu Deus",
+  "secao": "Palavras contra Israel",
+  "referencia": "Am 4,1-13",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Os castigos não converteram: prepara-te para o encontro com Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amós ataca as “vacas de Basan”, mulheres ricas da Samaria que oprimem os pobres e pedem bebida aos maridos: serão arrastadas com anzóis. Com ironia convida: “Ide a Betel e pecai”, multiplicai sacrifícios que vos agradam. Depois enumera os avisos de Deus: fome, seca, ferrugem, gafanhotos, peste, destruição como Sodoma; e, a cada vez, o refrão: “e não voltastes a mim, diz o Senhor”. Por isso: “Prepara-te, ó Israel, para sair ao encontro do teu Deus”, Aquele que forma os montes e cria o vento.",
+    "alegorico": "O encontro anunciado como ameaça torna-se, em Cristo, encontro de salvação: Deus vem ao encontro do homem na Encarnação, e o Advento é preparação para este encontro.",
+    "moral": "O luxo indiferente e o culto sem justiça são uma mesma doença. Deus fala também pelas provações; a pergunta é se elas nos fazem voltar. O refrão “não voltastes” é exame de consciência.",
+    "anagogico": "“Prepara-te para o encontro com teu Deus”: o encontro definitivo da morte e do juízo, para o qual toda a vida é preparação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi, vacas de Basan, que oprimis os fracos e esmagais os pobres.” “Enviei-vos a fome… e não voltastes a mim, diz o Senhor.” “Prepara-te, ó Israel, para sair ao encontro do teu Deus.”",
+    "meditatio_perguntas": [
+      "Que provações recentes foram convites a voltar a Deus?",
+      "O meu conforto me torna indiferente aos pobres?",
+      "Estou preparado para o encontro com Deus?"
+    ],
+    "oratio_guia": "Senhor, que formas os montes e crias o vento, não permitas que eu repita “não voltei a ti”. Prepara-me para o teu encontro e faze-me sensível aos pobres. Amém.",
+    "contemplatio_foco": {
+      "texto": "prepara-te, ó Israel, para sair ao encontro do teu Deus",
+      "ref": "Am 4,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

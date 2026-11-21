@@ -1,0 +1,40 @@
+{
+  "id": "HAG.1.1",
+  "livro": "HAG",
+  "titulo": "Considerai os vossos caminhos: reedificai a minha casa",
+  "secao": "A reconstrução do templo",
+  "referencia": "Ag 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Pôr Deus em primeiro lugar: reconstruir a sua casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No segundo ano de Dario (520 a.C.), Ageu fala a Zorobabel, governador, e a Josué, sumo sacerdote. O povo diz: “Ainda não chegou o tempo de reconstruir a casa do Senhor”; mas mora em casas apaineladas, enquanto o templo está em ruínas. “Considerai os vossos caminhos”: semeastes muito e colhestes pouco, comeis e não vos fartais, o salário cai num saco furado. Por quê? Porque a casa de Deus está deserta. “Subi ao monte, trazei madeira e reedificai a minha casa.” Zorobabel, Josué e o povo obedecem; Deus desperta o seu espírito: “Eu estou convosco”.",
+    "alegorico": "O templo a reconstruir figura o Corpo de Cristo, “templo” destruído e reerguido em três dias (Jo 2,19-21), e a Igreja edificada com pedras vivas (1Pd 2,5).",
+    "moral": "Quando adiamos Deus para “depois”, tudo o mais perde o sabor: trabalhamos muito e o salário vai para um saco furado. Pôr Deus em primeiro lugar ordena todo o resto (Mt 6,33).",
+    "anagogico": "A obediência do povo, sustentada pela promessa “eu estou convosco”, aponta para a construção da Jerusalém eterna, onde Deus habita com os homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não é ainda o tempo de reconstruir a casa do Senhor.” “Habitais em casas apaineladas, e esta casa está deserta?” “Aplicai os vossos corações a considerar os vossos caminhos.” “Eu estou convosco, diz o Senhor.”",
+    "meditatio_perguntas": [
+      "Em que digo a Deus “ainda não é o tempo”?",
+      "Onde sinto que o meu esforço cai num “saco furado”?",
+      "Que parte da “casa de Deus” me pede reconstrução?"
+    ],
+    "oratio_guia": "Senhor, que despertas o espírito do teu povo, desperta o meu. Que eu te ponha em primeiro lugar e reconstrua contigo a tua casa, certo de que estás comigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aplicai os vossos corações a considerar os vossos caminhos",
+      "ref": "Ag 1,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

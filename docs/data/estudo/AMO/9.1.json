@@ -1,0 +1,49 @@
+{
+  "id": "AMO.9.1",
+  "livro": "AMO",
+  "titulo": "Levantarei a cabana de Davi que havia caído",
+  "secao": "Visões e promessa",
+  "referencia": "Am 9,1-15",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Do juízo inescapável à restauração da casa de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na última visão, o Senhor está junto ao altar e manda ferir os capitéis: ninguém escapará, nem no abismo, nem no céu, nem no fundo do mar. Deus é Senhor de todos os povos: ele fez subir Israel do Egito, mas também os filisteus de Caftor e os arameus de Quir. Joeirará Israel como num crivo, sem que caia um grão. Então a promessa final: “Naquele dia levantarei a cabana de Davi, que havia caído”; os montes destilarão mosto, o povo reconstruirá as cidades, plantará vinhas e nunca mais será arrancado.",
+    "alegorico": "Tiago, no Concílio de Jerusalém, cita esta profecia (At 15,16-17): a tenda de Davi se reergue em Cristo ressuscitado e na Igreja, aberta a todas as nações que invocam o nome do Senhor.",
+    "moral": "Ninguém se esconde de Deus, mas o seu juízo é crivo e não destruição total: nenhum grão bom se perde. A última palavra é restauração. A Igreja, reconstruída das ruínas, é casa para todos.",
+    "anagogico": "A abundância e a estabilidade definitiva (“nunca mais será arrancado”) descrevem a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ainda que desçam ao abismo, dali os tirará a minha mão.” “Joeirarei a casa de Israel como se joeira num crivo, e não cairá um grão.” “Levantarei a cabana de Davi que havia caído.”",
+    "meditatio_perguntas": [
+      "Tento esconder-me de Deus em algum “abismo”?",
+      "Confio que o crivo de Deus não deixa cair um só grão bom?",
+      "Como colaboro na reconstrução da “tenda de Davi”, a Igreja?"
+    ],
+    "oratio_guia": "Senhor, de quem ninguém se esconde, joeira-me com o teu crivo e conserva o grão bom. Reergue em mim e na tua Igreja a tenda de Davi, e planta-nos para sempre na tua terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele dia levantarei a cabana",
+      "ref": "Am 9,11"
+    }
+  },
+  "ancoras": {
+    "9:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Comparar Israel aos etíopes, filisteus e arameus afirma a soberania universal de Deus e desfaz a ideia de uma eleição como privilégio automático.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

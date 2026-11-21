@@ -1,0 +1,49 @@
+{
+  "id": "MAL.1.1",
+  "livro": "MAL",
+  "titulo": "Do nascente ao poente, uma oblação pura",
+  "secao": "O mensageiro da aliança",
+  "referencia": "Ml 1,1-14",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O amor de Deus e a oblação pura entre as nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Malaquias abre com uma declaração: “Eu vos amei, diz o Senhor”. O povo pergunta: em que nos amaste? Deus recorda a eleição de Jacó, preferido a Esaú. Depois acusa os sacerdotes que desprezam o seu nome oferecendo no altar animais cegos, coxos e doentes, que não ousariam oferecer ao governador. Melhor seria fechar as portas do templo. Pois “desde o nascente ao poente o meu nome é grande entre as nações, e em todo lugar se oferece ao meu nome um sacrifício e uma oblação pura”. Maldito o enganador que oferece o defeituoso.",
+    "alegorico": "A Tradição, desde a Didaqué e o Concílio de Trento, reconhece nesta “oblação pura” oferecida em todo lugar o sacrifício eucarístico da Igreja, celebrado do nascente ao poente (cf. Oração Eucarística III).",
+    "moral": "Dar a Deus as sobras (tempo cansado, dinheiro que sobra, coração dividido) é desprezar o seu nome. O amor que Deus nos tem pede de volta o melhor, não o defeituoso.",
+    "anagogico": "O nome de Deus grande entre as nações aponta para a liturgia celeste, onde o Cordeiro é adorado por todos os povos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu vos amei, diz o Senhor.” “Se eu sou pai, onde está a honra que me é devida?” “Desde o nascente ao poente, o meu nome é grande entre as nações, e em todo o lugar se oferece ao meu nome… uma oblação pura.”",
+    "meditatio_perguntas": [
+      "Pergunto a Deus “em que me amaste?” em vez de reconhecer os seus dons?",
+      "Ofereço a Deus o melhor ou as sobras?",
+      "Como participo da “oblação pura” da Missa?"
+    ],
+    "oratio_guia": "Senhor, que me amaste primeiro, não permitas que eu te ofereça o defeituoso. Une a minha vida à oblação pura do teu Filho, oferecida em todo lugar do nascente ao poente. Amém.",
+    "contemplatio_foco": {
+      "texto": "Desde o nascente ao poente, o meu nome é grande entre as nações",
+      "ref": "Ml 1,11"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Amei Jacó e odiei Esaú” é linguagem semítica de preferência na eleição, não de rejeição pessoal; São Paulo a cita em Rm 9,13.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

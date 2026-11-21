@@ -1,0 +1,49 @@
+{
+  "id": "HOS.2.1",
+  "livro": "HOS",
+  "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+  "secao": "O matrimônio do profeta",
+  "referencia": "Os 2,1-24",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Deus seduz de novo a esposa infiel e renova a aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor intenta um processo contra a esposa infiel, Israel, que atribuiu aos baalins o trigo, o vinho e o azeite que ela recebeu de Deus. Ele cercará o seu caminho com espinhos, retirará os dons, fará cessar as festas. Mas o castigo é pedagógico: “a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração”. O vale de Acor se tornará porta de esperança; ela o chamará “meu marido” e não mais “meu Baal”. Deus a desposará para sempre, na justiça, no direito, na misericórdia, no amor e na fidelidade.",
+    "alegorico": "O deserto é o lugar do primeiro amor do Êxodo e prefigura o deserto onde Cristo é tentado e vence. Os esponsais eternos cumprem-se na Nova Aliança: Cristo desposa a Igreja no seu sangue, com fidelidade inviolável.",
+    "moral": "Muitas vezes atribuímos aos “baalins” (dinheiro, sucesso, prazer) os bens que vêm de Deus. O Senhor às vezes retira as seguranças para levar a alma ao deserto, onde pode ouvi-lo falar ao coração. A secura espiritual pode ser convite de amor.",
+    "anagogico": "“Desposar-me-ei contigo para sempre”: a aliança tende às núpcias eternas, quando a esposa “conhecerá o Senhor” face a face, sem infidelidade possível."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ela não reconheceu que fui eu quem lhe deu o trigo, o vinho e o azeite.” “Por isso a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração.” “Desposar-me-ei contigo para sempre… e saberás que eu sou o Senhor.”",
+    "meditatio_perguntas": [
+      "A que “baalins” atribuo os bens que recebi de Deus?",
+      "Que deserto o Senhor está usando para falar ao meu coração?",
+      "O que significa, para mim, chamar Deus de “meu Esposo”?"
+    ],
+    "oratio_guia": "Senhor, leva-me ao deserto e fala ao meu coração. Tira de mim os nomes dos ídolos e faze do meu vale de Acor uma porta de esperança. Desposa-me na justiça, na misericórdia e na fidelidade, para que eu te conheça. Amém.",
+    "contemplatio_foco": {
+      "texto": "a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração",
+      "ref": "Os 2,14"
+    }
+  },
+  "ancoras": {
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O vale de Acor (“perturbação”) lembra o pecado de Acã (Js 7); o lugar da derrota se torna entrada da esperança.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

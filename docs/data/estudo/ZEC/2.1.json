@@ -1,0 +1,40 @@
+{
+  "id": "ZEC.2.1",
+  "livro": "ZEC",
+  "titulo": "O homem do cordel: venho habitar no meio de ti",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Jerusalém sem muros, porque Deus habita nela",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Terceira visão: um homem com um cordel de medir vai medir Jerusalém. Um anjo corre a dizer: Jerusalém será cidade aberta, sem muros, por causa da multidão de homens e animais; “eu serei para ela um muro de fogo ao redor, e a sua glória no meio dela”. Os exilados são chamados a fugir da Babilônia: quem toca em vós toca na menina dos meus olhos. “Filha de Sião, entoa cânticos, alegra-te, porque eis que venho para habitar no meio de ti.” Muitas nações se unirão ao Senhor naquele dia e serão o seu povo. Cale-se toda carne diante do Senhor.",
+    "alegorico": "Deus que vem habitar no meio da filha de Sião cumpre-se na Encarnação: “o Verbo se fez carne e habitou entre nós” (Jo 1,14). A cidade sem muros, aberta às nações, é a Igreja católica.",
+    "moral": "Não precisamos de muros de defesa quando Deus é o nosso muro de fogo. O povo de Deus é a menina dos seus olhos: tocar no pequeno é tocar em Deus.",
+    "anagogico": "Jerusalém sem muros e cheia de povos é a cidade celeste, cuja glória é Deus e cuja lâmpada é o Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jerusalém será habitada sem muros.” “Eu serei para ela um muro de fogo ao redor, e a sua glória no meio dela.” “Quem vos toca, toca a menina dos meus olhos.” “Eis que venho para habitar no meio de ti.”",
+    "meditatio_perguntas": [
+      "Que muros ergo por medo, em vez de confiar em Deus?",
+      "Trato os outros como a menina dos olhos de Deus?",
+      "Alegro-me porque Deus veio habitar no meio de nós?"
+    ],
+    "oratio_guia": "Senhor, sê tu o meu muro de fogo e a minha glória. Vem habitar no meio de mim, como habitaste na Virgem filha de Sião, e abre o meu coração às nações. Amém.",
+    "contemplatio_foco": {
+      "texto": "eis que venho para habitar no meio de ti",
+      "ref": "Zc 2,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

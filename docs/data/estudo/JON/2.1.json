@@ -1,0 +1,49 @@
+{
+  "id": "JON.2.1",
+  "livro": "JON",
+  "titulo": "No ventre do peixe: do Senhor vem a salvação",
+  "secao": "Jonas, o profeta relutante",
+  "referencia": "Jn 2,1-11",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O sinal de Jonas: do abismo à salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor prepara um grande peixe que engole Jonas; ele fica três dias e três noites no ventre do peixe. De lá ora ao Senhor um salmo: “Clamei ao Senhor no meio da minha tribulação, e ele ouviu-me; clamei do ventre do sepulcro, e tu ouviste a minha voz”. Descreve as ondas, as algas enroladas na cabeça, a descida às raízes dos montes; mas Deus faz subir a sua vida da corrupção. Os que adoram vaidades abandonam a misericórdia; ele oferecerá sacrifícios de louvor: “Do Senhor vem a salvação”. O peixe lança Jonas em terra.",
+    "alegorico": "Jesus mesmo interpreta: “Como Jonas esteve três dias e três noites no ventre do peixe, assim estará o Filho do homem no coração da terra” (Mt 12,40). É o “sinal de Jonas”: morte, sepultura e Ressurreição. As catacumbas pintaram Jonas como símbolo pascal.",
+    "moral": "Mesmo no fundo do abismo que nós próprios provocamos, a oração é ouvida. A gratidão transforma o lugar da morte em lugar de louvor. Ninguém está fundo demais para a misericórdia.",
+    "anagogico": "O homem engolido e devolvido à terra anuncia a ressurreição da carne: o abismo terá de devolver os mortos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jonas esteve três dias e três noites no ventre do peixe.” “Clamei ao Senhor no meio da minha tribulação, e ele ouviu-me.” “Do Senhor vem a salvação.”",
+    "meditatio_perguntas": [
+      "Qual é o meu “ventre do peixe”, o lugar de onde preciso clamar?",
+      "Louvo a Deus mesmo antes de sair do abismo?",
+      "Como o sinal de Jonas fortalece a minha fé na Ressurreição?"
+    ],
+    "oratio_guia": "Senhor, do fundo do meu abismo eu clamo a ti. Faze subir a minha vida da corrupção, como fizeste com o teu Filho ao terceiro dia. Do Senhor vem a salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Clamei ao Senhor no meio da minha tribulação, e ele ouviu-me",
+      "ref": "Jn 2,3"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata o capítulo 2 começa com o peixe (2,1 = 1,17 hebraico); por isso a oração começa no v. 3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

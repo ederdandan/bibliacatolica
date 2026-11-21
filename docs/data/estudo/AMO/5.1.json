@@ -1,0 +1,49 @@
+{
+  "id": "AMO.5.1",
+  "livro": "AMO",
+  "titulo": "Buscai-me e vivereis: corra o direito como água",
+  "secao": "Palavras contra Israel",
+  "referencia": "Am 5,1-27",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Buscar a Deus é praticar a justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta entoa uma lamentação fúnebre: caiu a virgem de Israel. Mas o apelo permanece: “Buscai-me e vivereis”, não Betel nem Guilgal. Deus, que fez as Plêiades e o Órion, condena os que transformam o direito em absinto, odeiam quem defende a justiça à porta, cobram impostos dos pobres. “Buscai o bem e não o mal, para que vivais.” Ai dos que desejam o dia do Senhor: será trevas e não luz. Deus odeia as festas e os holocaustos de um povo injusto: “corra o direito como água, e a justiça como torrente que não seca”.",
+    "alegorico": "Buscar a Deus para viver cumpre-se em Cristo, Caminho e Vida. Ele, que purificou o templo de um culto sem justiça, é o Juiz que traz o direito como água viva.",
+    "moral": "Liturgia e justiça social são inseparáveis: Deus não aceita cânticos de quem pisa o pobre. Quem busca a Deus busca também o bem concreto no tribunal, no mercado, nas relações.",
+    "anagogico": "O “dia do Senhor” não é garantia para quem se julga justo: será luz para os que buscaram o bem e trevas para os que o rejeitaram."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Buscai-me e vivereis.” “Buscai o bem e não o mal, para que vivais.” “Odeio e rejeito as vossas festas.” “Corra o direito como água, e a justiça como torrente que não seca.”",
+    "meditatio_perguntas": [
+      "A minha participação na Missa transforma a minha conduta?",
+      "Onde “o direito se faz absinto” na minha esfera de influência?",
+      "Desejo o dia do Senhor com presunção ou com conversão?"
+    ],
+    "oratio_guia": "Senhor, eu te busco para viver. Que o meu culto não te seja odioso: faze correr em mim o direito como água e a justiça como torrente perene. Amém.",
+    "contemplatio_foco": {
+      "texto": "corra o direito como água",
+      "ref": "Am 5,24"
+    }
+  },
+  "ancoras": {
+    "5:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Estêvão cita os vv. 25-27 em At 7,42-43 para mostrar a idolatria antiga de Israel no deserto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

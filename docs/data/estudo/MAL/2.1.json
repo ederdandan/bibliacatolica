@@ -1,0 +1,40 @@
+{
+  "id": "MAL.2.1",
+  "livro": "MAL",
+  "titulo": "A aliança de Levi e a fidelidade conjugal",
+  "secao": "O mensageiro da aliança",
+  "referencia": "Ml 2,1-17",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A aliança de Levi e a fidelidade à esposa da juventude",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus adverte os sacerdotes: se não derem glória ao seu nome, a bênção se tornará maldição. Recorda a aliança com Levi, aliança de vida e de paz: a lei da verdade estava na sua boca, andava em paz e retidão e afastava muitos do pecado. “Os lábios do sacerdote guardam a ciência… porque ele é o anjo do Senhor dos exércitos.” Mas os sacerdotes desviaram o povo. Depois o profeta denuncia a infidelidade: “Não temos todos um mesmo pai?” Casam com mulheres de deuses estranhos e repudiam a esposa da juventude, que era sua companheira por aliança. “Eu odeio o repúdio”, diz o Senhor.",
+    "alegorico": "O sacerdote “anjo do Senhor” prefigura Cristo, Mensageiro e Sumo Sacerdote, em cuja boca está a lei da verdade. A aliança matrimonial ofendida aponta para a aliança de Cristo com a Igreja, indissolúvel.",
+    "moral": "O texto une duas fidelidades: a do ministro à verdade e a dos esposos à aliança. O matrimônio é aliança testemunhada por Deus; o divórcio é ferida que Deus “odeia”. Jesus retomará essa indissolubilidade (Mt 19,6).",
+    "anagogico": "A aliança de vida e de paz, guardada na fidelidade, anuncia as núpcias eternas onde nenhuma infidelidade terá lugar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A minha aliança com ele foi uma aliança de vida e de paz.” “Os lábios dos sacerdotes serão os guardas da ciência.” “Não é um mesmo o pai de todos nós?” “Não sejas infiel à mulher da tua juventude.”",
+    "meditatio_perguntas": [
+      "Sou fiel às alianças que fiz diante de Deus?",
+      "Rezo pelos sacerdotes, para que guardem a ciência?",
+      "Trato o outro como irmão, filho do mesmo Pai?"
+    ],
+    "oratio_guia": "Senhor, Pai de todos nós, dá aos teus sacerdotes lábios fiéis à verdade e aos esposos um coração fiel à aliança. Guarda-me de toda infidelidade e faze-me viver a tua aliança de vida e de paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura não é um mesmo o pai de todos nós?",
+      "ref": "Ml 2,10"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "JON.3.1",
+  "livro": "JON",
+  "titulo": "Nínive crê em Deus e se converte",
+  "secao": "Jonas, o profeta relutante",
+  "referencia": "Jn 3,1-10",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "A pregação de um dia e a conversão de uma cidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A palavra do Senhor vem a Jonas pela segunda vez; ele obedece e entra em Nínive, cidade de três dias de caminho. Caminha um dia e prega: “Daqui a quarenta dias Nínive será destruída”. Os ninivitas creem em Deus, proclamam um jejum e vestem-se de saco, do maior ao menor. O rei se levanta do trono, cobre-se de saco, senta-se na cinza e decreta jejum até para os animais: “Cada um se converta do seu mau caminho… Quem sabe se Deus se voltará e nos perdoará?” Deus vê as suas obras de penitência e não lhes faz o mal anunciado.",
+    "alegorico": "Jesus afirma que os ninivitas se levantarão no juízo contra esta geração, porque se converteram à pregação de Jonas, “e aqui está quem é mais do que Jonas” (Mt 12,41). Os quarenta dias fundam a Quaresma da Igreja.",
+    "moral": "Deus dá segunda chance também ao profeta. Uma palavra breve, acolhida com fé, basta para converter uma cidade. A verdadeira penitência é concreta: “converter-se do mau caminho e da violência”.",
+    "anagogico": "A cidade pagã que se converte inteira anuncia a conversão das nações e a cidade de Deus formada por gente de todos os povos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Daqui a quarenta dias Nínive será destruída.” “Os ninivitas creram em Deus.” “Converta-se cada um do seu mau caminho.” “Deus viu as suas obras… e não lhes fez o mal.”",
+    "meditatio_perguntas": [
+      "Aceito a segunda chance que Deus me dá?",
+      "A minha penitência muda o meu “mau caminho” concreto?",
+      "Acredito que a palavra de Deus pode converter a minha cidade?"
+    ],
+    "oratio_guia": "Senhor, que dás segunda vez a tua palavra, faze-me crer como os ninivitas. Que nesta Quaresma eu me converta do meu mau caminho e experimente a tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os Nínivitas creram em Deus",
+      "ref": "Jn 3,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "OBA.1.1",
+  "livro": "OBA",
+  "titulo": "O orgulho de Edom e o reino do Senhor",
+  "secao": "Oráculo contra Edom",
+  "referencia": "Ab 1,1-21",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O orgulho que se alegra com a ruína do irmão será abatido; o reino é do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A visão de Abdias anuncia a queda de Edom, povo descendente de Esaú, irmão de Jacó. Edom se julga inatingível nas fendas dos rochedos, “como águia que faz o ninho entre as estrelas”; mas Deus o fará descer. Os seus aliados o enganarão, os sábios perderão o entendimento. A culpa: no dia da ruína de Jerusalém, Edom ficou olhando, alegrou-se, saqueou e entregou os fugitivos. “Como tu fizeste, assim se fará contigo.” O dia do Senhor está perto para todas as nações; mas em Sião haverá salvação, a casa de Jacó possuirá a herança, e “o reino pertencerá ao Senhor”.",
+    "alegorico": "Edom tornou-se na tradição figura do orgulho e dos poderes hostis ao povo de Deus. Os “salvadores” que sobem a Sião prefiguram Cristo e os apóstolos, por meio dos quais o reino passa a pertencer ao Senhor.",
+    "moral": "Pecado particularmente grave é assistir com prazer à desgraça do irmão, ou omitir-se. O orgulho que se crê no alto, “entre as estrelas”, é o mais perto da queda. A lei da reciprocidade lembra que colhemos o que fizemos.",
+    "anagogico": "“O reino pertencerá ao Senhor”: o último versículo é a esperança de todo o livro e da história, o Reino definitivo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O orgulho do teu coração te enganou, tu que habitas nas fendas dos rochedos.” “Não devias olhar com prazer para o dia do teu irmão.” “Como tu fizeste, assim se fará contigo.” “E o império pertencerá ao Senhor.”",
+    "meditatio_perguntas": [
+      "Alegro-me, mesmo em segredo, com a queda de alguém?",
+      "Em que me julgo inatingível, “entre as estrelas”?",
+      "Vivo para que o reino pertença ao Senhor?"
+    ],
+    "oratio_guia": "Senhor, abate o orgulho do meu coração e dá-me compaixão pelos irmãos na desgraça. Que eu nunca seja espectador indiferente, e que o teu reino venha. Amém.",
+    "contemplatio_foco": {
+      "texto": "o império pertencerá ao Senhor",
+      "ref": "Ab 1,21"
+    }
+  },
+  "ancoras": {
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A rivalidade entre Edom e Israel remonta a Esaú e Jacó (Gn 25–27); por isso a crueldade de Edom é pecado contra o “irmão”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

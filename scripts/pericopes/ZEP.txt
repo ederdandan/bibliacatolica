@@ -1,0 +1,6 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O dia do Senhor e o resto fiel
+1:1-1:18 | Dia de ira aquele dia
+2:1-2:15 | Buscai o Senhor, todos os humildes da terra
+3:1-3:20 | Alegra-te, filha de Sião: o Senhor está no meio de ti

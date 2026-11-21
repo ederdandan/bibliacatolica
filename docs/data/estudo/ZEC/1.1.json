@@ -1,0 +1,49 @@
+{
+  "id": "ZEC.1.1",
+  "livro": "ZEC",
+  "titulo": "Voltai a mim: o cavaleiro entre as murtas e os quatro chifres",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 1,1-21",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Voltai a mim e eu voltarei a vós: Deus zela por Jerusalém",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em 520 a.C., Zacarias, filho de Baraquias, transmite o apelo: “Voltai a mim, e eu voltarei a vós”; não sejais como vossos pais, que não ouviram os profetas. Seguem as visões noturnas. Primeira: um homem montado num cavalo vermelho entre as murtas, com outros cavaleiros que percorreram a terra: tudo está tranquilo. O anjo intercede: “Até quando não terás piedade de Jerusalém?” Deus responde com palavras de consolo: tenho grande zelo por Sião; a minha casa será reconstruída. Segunda visão: quatro chifres, que dispersaram Judá, e quatro ferreiros que vêm abatê-los.",
+    "alegorico": "O anjo que intercede entre as murtas é figura de Cristo mediador, que intercede pela Igreja no vale da história. Os ferreiros que abatem os chifres anunciam a vitória de Deus sobre os poderes que dispersam o seu povo.",
+    "moral": "A conversão é um caminho de mão dupla: Deus espera o nosso retorno e vem ao nosso encontro. A lição da história é não repetir a surdez dos antepassados.",
+    "anagogico": "A promessa “a minha casa será reconstruída” anuncia a Jerusalém nova, onde a misericórdia de Deus terá a última palavra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Voltai a mim, diz o Senhor dos exércitos, e eu voltarei a vós.” “Não sejais como vossos pais.” “Até quando não terás piedade de Jerusalém?” “Tenho por Jerusalém e por Sião um grande zelo.”",
+    "meditatio_perguntas": [
+      "Que passo concreto de volta a Deus posso dar hoje?",
+      "Repito os erros dos “meus pais” na fé?",
+      "Creio que Deus tem zelo apaixonado pela sua Igreja?"
+    ],
+    "oratio_guia": "Senhor, eu volto a ti: volta-te a mim. Tem piedade da tua Igreja, abate os poderes que a dispersam e reconstrói a tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Voltai outra vez a mim, diz o Senhor dos exércitos",
+      "ref": "Zc 1,3"
+    }
+  },
+  "ancoras": {
+    "1:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, os vv. 1,18-21 da Vulgata formam Zc 2,1-4; por isso o capítulo 2 hebraico tem 17 versículos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

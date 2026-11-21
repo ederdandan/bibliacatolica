@@ -1,0 +1,122 @@
+{
+ "livro": "AMO",
+ "secoes": [
+  "Oráculos contra as nações",
+  "Palavras contra Israel",
+  "Visões e promessa"
+ ],
+ "pericopes": [
+  {
+   "id": "AMO.1.1",
+   "titulo": "Pelos três crimes e pelos quatro",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Am 1,1–2,16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 16
+   }
+  },
+  {
+   "id": "AMO.3.1",
+   "titulo": "O leão ruge: quem não temerá?",
+   "secao": "Palavras contra Israel",
+   "referencia": "Am 3,1-15",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 15
+   }
+  },
+  {
+   "id": "AMO.4.1",
+   "titulo": "Vacas de Basan: prepara-te para sair ao encontro do teu Deus",
+   "secao": "Palavras contra Israel",
+   "referencia": "Am 4,1-13",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 13
+   }
+  },
+  {
+   "id": "AMO.5.1",
+   "titulo": "Buscai-me e vivereis: corra o direito como água",
+   "secao": "Palavras contra Israel",
+   "referencia": "Am 5,1-27",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 27
+   }
+  },
+  {
+   "id": "AMO.6.1",
+   "titulo": "Ai dos que vivem na abundância em Sião",
+   "secao": "Palavras contra Israel",
+   "referencia": "Am 6,1-15",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 15
+   }
+  },
+  {
+   "id": "AMO.7.1",
+   "titulo": "Os gafanhotos, o fogo e o prumo: Amós e Amasias",
+   "secao": "Visões e promessa",
+   "referencia": "Am 7,1-17",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 17
+   }
+  },
+  {
+   "id": "AMO.8.1",
+   "titulo": "A cesta de frutos: fome de ouvir a palavra do Senhor",
+   "secao": "Visões e promessa",
+   "referencia": "Am 8,1-14",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 14
+   }
+  },
+  {
+   "id": "AMO.9.1",
+   "titulo": "Levantarei a cabana de Davi que havia caído",
+   "secao": "Visões e promessa",
+   "referencia": "Am 9,1-15",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 15
+   }
+  }
+ ]
+}

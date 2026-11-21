@@ -1,0 +1,40 @@
+{
+  "id": "MIC.6.1",
+  "livro": "MIC",
+  "titulo": "O que o Senhor requer de ti",
+  "secao": "Processo e esperança",
+  "referencia": "Mq 6,1-16",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O que o Senhor pede: justiça, misericórdia e humildade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus abre um processo contra o seu povo, tomando os montes por testemunhas: “Povo meu, que te fiz eu? Em que te molestei? Responde-me”. Recorda a libertação do Egito, Moisés, Aarão e Maria, a história de Balac e Balaão. O povo pergunta: com que me apresentarei ao Senhor? Com holocaustos, milhares de carneiros, torrentes de azeite, o meu primogênito? Resposta: “Já te foi mostrado, ó homem, o que é bom e o que o Senhor requer de ti: que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus”. Seguem acusações contra balanças falsas e riquezas injustas.",
+    "alegorico": "“Povo meu, que te fiz eu?” tornou-se os Impropérios da Sexta-feira Santa: é Cristo crucificado que interroga o seu povo diante da cruz. Ele é o Primogênito que se oferece em lugar de nós.",
+    "moral": "Deus não quer sacrifícios exorbitantes, quer um modo de viver: justiça nas relações, amor à misericórdia e humildade no caminho com Ele. Esse versículo é uma síntese de toda a moral profética.",
+    "anagogico": "“Andar com Deus” é o caminho desta vida que culmina em estar com Ele para sempre, como Henoc, que “andou com Deus”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Povo meu, que te fiz eu? Responde-me.” “Com que me apresentarei ao Senhor?” “Já te foi mostrado, ó homem, o que é bom: que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus.”",
+    "meditatio_perguntas": [
+      "Que resposta dou a Deus quando ele pergunta “que te fiz eu?”",
+      "Procuro comprar Deus com práticas, em vez de mudar de vida?",
+      "Em qual dos três pedidos (justiça, bondade, humildade) estou mais fraco?"
+    ],
+    "oratio_guia": "Senhor, meu Deus, que nada me fizeste senão o bem, perdoa as minhas ingratidões. Ensina-me a praticar a justiça, amar a bondade e andar humildemente contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus",
+      "ref": "Mq 6,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

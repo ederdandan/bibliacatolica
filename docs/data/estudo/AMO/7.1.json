@@ -1,0 +1,49 @@
+{
+  "id": "AMO.7.1",
+  "livro": "AMO",
+  "titulo": "Os gafanhotos, o fogo e o prumo: Amós e Amasias",
+  "secao": "Visões e promessa",
+  "referencia": "Am 7,1-17",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A intercessão do profeta e o prumo da justiça divina",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amós recebe visões: gafanhotos que devoram a erva, e um fogo que consome o abismo. Duas vezes intercede: “Senhor, perdoa! Como subsistirá Jacó, ele é tão pequeno?”, e Deus desiste. Na terceira visão, o Senhor está sobre um muro com um prumo: põe o prumo no meio do seu povo e não passará mais adiante. Amasias, sacerdote de Betel, denuncia Amós ao rei e manda-o embora: “Vai profetizar em Judá; Betel é santuário do rei”. Amós responde: “Não sou profeta nem filho de profeta; sou pastor… O Senhor pegou em mim e disse-me: Vai, profetiza ao meu povo”.",
+    "alegorico": "O profeta que intercede figura Cristo, intercessor perpétuo (Hb 7,25). O prumo é a medida da santidade de Deus, plenamente revelada em Jesus, o homem perfeitamente “a prumo”.",
+    "moral": "A vocação não depende de títulos nem de pertencer a uma corporação: Deus toma um pastor. E quem fala por Deus enfrenta a religião de corte, que quer santuários a serviço do poder. A intercessão é a primeira obra do profeta.",
+    "anagogico": "O prumo final mede cada vida: o juízo é Deus verificando a retidão de cada construção."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor Deus, perdoa! Como subsistirá Jacó, sendo ele tão pequeno?” “Eis que porei o prumo no meio do meu povo.” “Não sou profeta, nem filho de profeta… O Senhor pegou em mim e disse-me: Vai, profetiza ao meu povo.”",
+    "meditatio_perguntas": [
+      "Intercedo pelos outros como Amós?",
+      "Que “prumo” Deus coloca hoje na minha vida?",
+      "Deixo-me intimidar pelos Amasias que querem silenciar a verdade?"
+    ],
+    "oratio_guia": "Senhor, ouve a minha intercessão: perdoa ao teu povo, que é tão pequeno. Mede-me com o teu prumo e dá-me a liberdade de Amós para falar quando me envias. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor pegou em mim, quando eu andava atrás do meu rebanho",
+      "ref": "Am 7,15"
+    }
+  },
+  "ancoras": {
+    "7:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betel era o principal santuário real do Reino do Norte; Amasias trata a palavra profética como interferência política.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

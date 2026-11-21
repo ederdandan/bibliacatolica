@@ -1,0 +1,40 @@
+{
+  "id": "HAB.3.1",
+  "livro": "HAB",
+  "titulo": "Eu me regozijarei no Senhor",
+  "secao": "A oração de Habacuc",
+  "referencia": "Hab 3,1-19",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "O cântico de quem se alegra em Deus mesmo quando nada floresce",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A oração de Habacuc começa com uma súplica: “Senhor, ouvi a tua mensagem e temi… faze reviver a tua obra; na ira, lembra-te da misericórdia”. Segue uma teofania grandiosa: Deus vem de Temã, o seu esplendor cobre os céus; os montes tremem, o sol e a lua param; ele sai para salvar o seu povo e o seu ungido. O profeta treme, mas espera em paz o dia da angústia. E conclui: ainda que a figueira não floresça e não haja fruto nas videiras, ainda que falte o gado, “eu me regozijarei no Senhor, e exultarei no Deus, meu salvador”. Ele faz os meus pés como os das corças.",
+    "alegorico": "Deus sai “para salvar o teu ungido” (Cristo); a Vulgata lê “exultarei em Deus, meu Jesus” (in Deo Iesu meo), e a tradição viu nesta oração um anúncio da vinda salvadora de Cristo.",
+    "moral": "A alegria cristã não depende das colheitas. É possível louvar a Deus em plena escassez, porque a fonte da alegria é o próprio Deus. Essa é a fé que sobe às alturas com pés de corça.",
+    "anagogico": "“Faze reviver a tua obra no meio dos anos” anuncia a renovação de todas as coisas, quando a misericórdia vencerá definitivamente a ira."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor, faze reviver a tua obra… quando estiveres irado, tu te lembrarás da misericórdia.” “Ainda que a figueira não floresça… eu, porém, me regozijarei no Senhor, e exultarei no Deus, meu salvador.”",
+    "meditatio_perguntas": [
+      "A minha alegria depende das “figueiras” floridas?",
+      "Peço a Deus que reviva a sua obra em mim?",
+      "Consigo louvar no tempo da escassez?"
+    ],
+    "oratio_guia": "Senhor, faze reviver a tua obra; na ira, lembra-te da misericórdia. Ainda que nada floresça, eu me alegrarei em ti, meu Salvador. Dá-me pés de corça para subir às alturas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, porém, me regozijarei no Senhor, e exultarei no Deus, meu salvador",
+      "ref": "Hab 3,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

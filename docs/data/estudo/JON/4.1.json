@@ -1,0 +1,40 @@
+{
+  "id": "JON.4.1",
+  "livro": "JON",
+  "titulo": "Não hei de compadecer-me de Nínive?",
+  "secao": "Jonas, o profeta relutante",
+  "referencia": "Jn 4,1-11",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A compaixão de Deus é maior que o coração do profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jonas fica muito irritado com o perdão de Nínive e confessa: fugi porque sabia que és um Deus clemente e misericordioso. Pede a morte. Deus pergunta: “Pensas que tens razão para te irares?” Jonas senta-se fora da cidade para ver o que acontecerá. Deus faz crescer uma planta (hera) que lhe dá sombra, e Jonas se alegra; no dia seguinte um verme a seca, o vento queima, e Jonas quer morrer. Deus conclui: tu tens pena de uma planta que não plantaste; e eu não hei de compadecer-me de Nínive, com mais de cento e vinte mil pessoas que não sabem distinguir a mão direita da esquerda, e tantos animais?",
+    "alegorico": "Jonas zangado prefigura o irmão mais velho da parábola do filho pródigo (Lc 15,28): incapaz de alegrar-se com a misericórdia ao pecador. Cristo, ao contrário, chora sobre a cidade e se alegra com a conversão dos pagãos.",
+    "moral": "O livro termina com uma pergunta sem resposta, dirigida a nós. Podemos querer um Deus justiceiro para os outros e misericordioso só para nós. A compaixão divina alcança até os animais.",
+    "anagogico": "A pergunta final de Deus revela o desejo de que todos os homens se salvem (1Tm 2,4) e anuncia a misericórdia que preenche a cidade eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sabia que és um Deus clemente e misericordioso, paciente e cheio de bondade.” “Pensas que tens razão para te irares?” “Tens pena da hera… e eu não hei de compadecer-me de Nínive, a grande cidade?”",
+    "meditatio_perguntas": [
+      "Fico irritado quando Deus é misericordioso com quem não gosto?",
+      "Tenho mais pena das minhas “heras” do que das pessoas?",
+      "Como responderia eu à pergunta final de Deus?"
+    ],
+    "oratio_guia": "Deus clemente e misericordioso, alarga o meu coração estreito. Ensina-me a alegrar-me com o perdão dado aos outros e a ter a tua compaixão pelas multidões que não sabem o caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "não hei-de compadecer-me de Nínive, a grande cidade",
+      "ref": "Jn 4,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

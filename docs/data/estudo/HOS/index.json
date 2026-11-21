@@ -1,0 +1,164 @@
+{
+ "livro": "HOS",
+ "secoes": [
+  "O matrimônio do profeta",
+  "O processo do Senhor contra Israel",
+  "O amor que vence"
+ ],
+ "pericopes": [
+  {
+   "id": "HOS.1.1",
+   "titulo": "O casamento de Oseias e os filhos de nomes proféticos",
+   "secao": "O matrimônio do profeta",
+   "referencia": "Os 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "HOS.2.1",
+   "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+   "secao": "O matrimônio do profeta",
+   "referencia": "Os 2,1-24",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 24
+   }
+  },
+  {
+   "id": "HOS.3.1",
+   "titulo": "Vai, ama ainda uma mulher adúltera",
+   "secao": "O matrimônio do profeta",
+   "referencia": "Os 3,1-5",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 5
+   }
+  },
+  {
+   "id": "HOS.4.1",
+   "titulo": "Não há conhecimento de Deus na terra",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 4,1-19",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 19
+   }
+  },
+  {
+   "id": "HOS.5.1",
+   "titulo": "Juízo sobre sacerdotes, povo e reis",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 5,1-15",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 15
+   }
+  },
+  {
+   "id": "HOS.6.1",
+   "titulo": "Quero o amor e não os sacrifícios",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 6,1-11",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 11
+   }
+  },
+  {
+   "id": "HOS.7.1",
+   "titulo": "Efraim, pomba ingênua: semearam ventos, colherão tempestades",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 7,1–8,14",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 14
+   }
+  },
+  {
+   "id": "HOS.9.1",
+   "titulo": "Israel, vinha frondosa: semeai na justiça",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 9,1–10,15",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 15
+   }
+  },
+  {
+   "id": "HOS.11.1",
+   "titulo": "Do Egito chamei o meu filho",
+   "secao": "O amor que vence",
+   "referencia": "Os 11,1-12",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 12
+   }
+  },
+  {
+   "id": "HOS.12.1",
+   "titulo": "Efraim apascenta-se de vento: ó morte, onde está o teu flagelo?",
+   "secao": "O amor que vence",
+   "referencia": "Os 12,1–13,15",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 15
+   }
+  },
+  {
+   "id": "HOS.14.1",
+   "titulo": "Converte-te, ó Israel, ao Senhor teu Deus",
+   "secao": "O amor que vence",
+   "referencia": "Os 14,1-10",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 10
+   }
+  }
+ ]
+}

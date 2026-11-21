@@ -1,0 +1,13 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Oráculos contra as nações
+1:1-2:16 | Pelos três crimes e pelos quatro
+## Palavras contra Israel
+3:1-3:15 | O leão ruge: quem não temerá?
+4:1-4:13 | Vacas de Basan: prepara-te para sair ao encontro do teu Deus
+5:1-5:27 | Buscai-me e vivereis: corra o direito como água
+6:1-6:15 | Ai dos que vivem na abundância em Sião
+## Visões e promessa
+7:1-7:17 | Os gafanhotos, o fogo e o prumo: Amós e Amasias
+8:1-8:14 | A cesta de frutos: fome de ouvir a palavra do Senhor
+9:1-9:15 | Levantarei a cabana de Davi que havia caído

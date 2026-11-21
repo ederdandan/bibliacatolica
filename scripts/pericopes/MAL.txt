@@ -1,0 +1,7 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O mensageiro da aliança
+1:1-1:14 | Do nascente ao poente, uma oblação pura
+2:1-2:17 | A aliança de Levi e a fidelidade conjugal
+3:1-3:18 | Eis que mando o meu anjo
+4:1-4:6 | O sol de justiça e a vinda de Elias

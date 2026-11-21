@@ -1,0 +1,40 @@
+{
+  "id": "ZEC.4.1",
+  "livro": "ZEC",
+  "titulo": "O candelabro e as duas oliveiras: pelo meu Espírito",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 4,1-14",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Não pela força, mas pelo Espírito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quinta visão: um candelabro de ouro com sete lâmpadas, alimentado por duas oliveiras. O anjo explica a Zacarias a palavra do Senhor para Zorobabel: “Nem por meio de um exército, nem pela força, mas sim pelo meu Espírito”. O grande monte se tornará planície diante de Zorobabel; ele colocará a pedra de remate ao som de “Graça, graça!” As mãos de Zorobabel fundaram esta casa e a acabarão. “Quem desprezou o dia das pequenas coisas?” As sete lâmpadas são os olhos do Senhor que percorrem a terra; as duas oliveiras são os dois ungidos que assistem ao Senhor de toda a terra.",
+    "alegorico": "As duas oliveiras, Zorobabel (rei) e Josué (sacerdote), prefiguram Cristo, Rei e Sacerdote, e são retomadas pelas duas testemunhas de Ap 11,4. O azeite que alimenta o candelabro é o Espírito Santo, que dá luz à Igreja.",
+    "moral": "A obra de Deus não se realiza com meios de poder, mas com docilidade ao Espírito. E não se deve desprezar o dia das pequenas coisas: Deus se alegra com os começos humildes.",
+    "anagogico": "A pedra de remate saudada com “Graça, graça!” anuncia a conclusão do edifício eterno, toda ela obra da graça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi um candelabro todo de ouro.” “Nem por meio de um exército, nem pela força, mas sim pelo meu Espírito, diz o Senhor.” “Quem desprezou o dia das pequenas coisas?”",
+    "meditatio_perguntas": [
+      "Confio mais nos meus meios que no Espírito?",
+      "Desprezo os pequenos começos?",
+      "Sou óleo que alimenta a luz, ou só quero brilhar?"
+    ],
+    "oratio_guia": "Senhor, não pela força nem pelo poder, mas pelo teu Espírito. Alimenta a lâmpada da minha vida com o teu óleo e ensina-me a amar o dia das pequenas coisas. Graça, graça! Amém.",
+    "contemplatio_foco": {
+      "texto": "Nem por meio dum exército, nem pela força, mas sim pelo meu Espírito",
+      "ref": "Zc 4,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

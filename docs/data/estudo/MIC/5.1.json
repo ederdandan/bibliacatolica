@@ -1,0 +1,49 @@
+{
+  "id": "MIC.5.1",
+  "livro": "MIC",
+  "titulo": "E tu, Belém Efrata",
+  "secao": "Promessas a Sião",
+  "referencia": "Mq 5,1-14",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "De Belém virá o Pastor de Israel, que será a paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jerusalém está sitiada e o juiz de Israel é ferido no rosto. Mas a promessa: “E tu, Belém Efrata, a mais pequenina entre os milhares de Judá, de ti me há de sair aquele que há de reinar em Israel, cujas origens remontam aos tempos antigos”. Deus abandonará o povo até que “a que há de dar à luz” dê à luz. Ele apascentará com a força do Senhor, será grande até os confins da terra, e “ele mesmo será a paz”. O resto de Jacó será como orvalho entre os povos e como leão entre as feras. Naquele dia Deus eliminará cavalos, carros, fortalezas, feitiçarias e ídolos.",
+    "alegorico": "Os escribas citam este oráculo a Herodes (Mt 2,6): Jesus nasce em Belém. As “origens desde os tempos antigos” sugerem a geração eterna do Filho; “a que há de dar à luz” é Maria, e Cristo é “a nossa paz” (Ef 2,14).",
+    "moral": "Deus escolhe o pequeno: Belém, a menor. As nossas seguranças (cavalos, carros, magias) serão tiradas para que confiemos só nele. A paz não é um programa, é uma Pessoa.",
+    "anagogico": "O Pastor cuja grandeza chega “até às extremidades da terra” reinará para sempre, e o seu rebanho habitará seguro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu, Belém Efrata, a mais pequenina entre os milhares de Judá, de ti é que me há de sair aquele que há de reinar em Israel.” “Ele apascentará o seu rebanho com a fortaleza do Senhor.” “Ele mesmo será a paz.”",
+    "meditatio_perguntas": [
+      "Aceito que Deus escolha o pequeno em mim?",
+      "Que cavalos e carros Deus precisa tirar para eu confiar nele?",
+      "Cristo é de fato a minha paz?"
+    ],
+    "oratio_guia": "Senhor Jesus, nascido na pequena Belém da Virgem que te deu à luz, apascenta-me com a tua força. Tira as minhas falsas seguranças e sê tu a minha paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas tu, Belém (chamada) Efrata",
+      "ref": "Mq 5,2"
+    }
+  },
+  "ancoras": {
+    "5:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica moderna este é Mq 5,1; a Vulgata e Matos Soares começam o capítulo 5 um versículo antes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

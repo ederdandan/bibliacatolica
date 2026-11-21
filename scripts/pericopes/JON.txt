@@ -1,0 +1,7 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Jonas, o profeta relutante
+1:1-1:16 | Jonas foge da face do Senhor
+2:1-2:11 | No ventre do peixe: do Senhor vem a salvação
+3:1-3:10 | Nínive crê em Deus e se converte
+4:1-4:11 | Não hei de compadecer-me de Nínive?

@@ -1,0 +1,49 @@
+{
+  "id": "ZEC.5.1",
+  "livro": "ZEC",
+  "titulo": "O livro que voa, a mulher na medida e os quatro carros",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 5,1–6,15",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A purificação da terra e o Germen que edifica o templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sexta visão: um livro enorme que voa, contendo a maldição contra o ladrão e o perjuro; entra nas suas casas e as consome. Sétima: uma medida (efá) com uma mulher dentro, a Impiedade, fechada com tampa de chumbo e levada por duas mulheres aladas para a terra de Senaar. Oitava: quatro carros com cavalos de várias cores saem entre dois montes de bronze e percorrem a terra; os que vão para o Norte fazem repousar o espírito do Senhor. Por fim, uma ação simbólica: coroas de prata e ouro postas na cabeça de Josué: “Eis o homem cujo nome é Germen… ele edificará o templo do Senhor”, e haverá conselho de paz entre rei e sacerdote.",
+    "alegorico": "O Germen coroado, rei e sacerdote ao mesmo tempo, é Cristo, que edifica o verdadeiro templo, a Igreja, e une em si a realeza e o sacerdócio (Hb 7). A impiedade levada para Senaar (Babilônia) prefigura o mal expulso da cidade santa.",
+    "moral": "Deus purifica a comunidade do roubo e do perjúrio; o pecado não pode ser escondido em casa. É preciso fechar a “efá” da impiedade e afastá-la da vida.",
+    "anagogico": "A terra purificada e o espírito do Senhor em repouso anunciam a nova criação, livre do mal, onde Cristo reina como Rei e Sacerdote."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi um livro que voava: é a maldição que se derrama sobre a face de toda a terra.” “Esta é a impiedade.” “Eis o homem cujo nome é Germen… Ele é que há de edificar o templo do Senhor.”",
+    "meditatio_perguntas": [
+      "Que pecados escondo “dentro de casa”?",
+      "Deixo Cristo edificar em mim o seu templo?",
+      "Como vivo a união entre oração (sacerdote) e responsabilidade (rei)?"
+    ],
+    "oratio_guia": "Senhor, purifica a minha casa e leva para longe a impiedade. Cristo, Germen de Davi, Rei e Sacerdote, edifica em mim o teu templo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis o homem cujo nome é Germen",
+      "ref": "Zc 6,12"
+    }
+  },
+  "ancoras": {
+    "6:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “Germen” por Oriens (“Oriente”), daí a antífona do Advento “O Oriens” e o “Sol nascente” do Benedictus (Lc 1,78).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

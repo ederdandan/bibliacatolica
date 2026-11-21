@@ -1,0 +1,51 @@
+{
+ "livro": "HAB",
+ "secoes": [
+  "Diálogo do profeta com Deus",
+  "A oração de Habacuc"
+ ],
+ "pericopes": [
+  {
+   "id": "HAB.1.1",
+   "titulo": "Até quando, Senhor, clamarei?",
+   "secao": "Diálogo do profeta com Deus",
+   "referencia": "Hab 1,1-17",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "HAB.2.1",
+   "titulo": "O justo viverá pela sua fidelidade",
+   "secao": "Diálogo do profeta com Deus",
+   "referencia": "Hab 2,1-20",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 20
+   }
+  },
+  {
+   "id": "HAB.3.1",
+   "titulo": "Eu me regozijarei no Senhor",
+   "secao": "A oração de Habacuc",
+   "referencia": "Hab 3,1-19",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 19
+   }
+  }
+ ]
+}

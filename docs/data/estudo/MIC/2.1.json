@@ -1,0 +1,40 @@
+{
+  "id": "MIC.2.1",
+  "livro": "MIC",
+  "titulo": "Ai dos que planejam a iniquidade",
+  "secao": "Juízo sobre Samaria e Jerusalém",
+  "referencia": "Mq 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A cobiça que rouba casas e campos, e o Pastor que reúne o resto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ai dos que planejam a iniquidade nos seus leitos” e a executam ao amanhecer: cobiçam campos e os roubam, casas e as tomam, oprimem o homem e a sua herança. Deus responde com a mesma moeda: perderão a terra. Os ouvintes mandam calar o profeta: “Não profetizeis!” Mas as palavras de Deus fazem bem a quem anda retamente. O povo prefere um profeta que fale de vinho e de cerveja. No fim, uma promessa: Deus reunirá o resto de Israel como ovelhas no aprisco; “aquele que abre caminho” irá adiante deles, o rei à frente, o Senhor à cabeça.",
+    "alegorico": "O que abre a brecha e conduz o rebanho é Cristo, Bom Pastor e Porta das ovelhas (Jo 10), que rompe as portas da morte e leva o seu povo para fora.",
+    "moral": "O pecado começa no leito, na imaginação que planeja; a cobiça de bens alheios destrói famílias. E é tentação de todos preferir pregadores que agradam a pregadores que convertem.",
+    "anagogico": "O rebanho conduzido pelo Rei que vai à frente anuncia o êxodo final da Igreja, que segue o Cordeiro aonde quer que vá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos que planejam a iniquidade nos seus leitos.” “Cobiçam campos e os roubam.” “Não profetizeis!” “Aquele que lhes há de abrir o caminho irá adiante deles… e o Senhor estará à sua frente.”",
+    "meditatio_perguntas": [
+      "Que planos maus alimento na imaginação?",
+      "Prefiro pregadores que me agradam ou que me convertem?",
+      "Sigo o Pastor que abre caminho à minha frente?"
+    ],
+    "oratio_guia": "Senhor, guarda a minha imaginação dos planos iníquos e livra-me da cobiça. Bom Pastor, abre a brecha diante de mim e conduze-me com o teu rebanho. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor estará à sua frente",
+      "ref": "Mq 2,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

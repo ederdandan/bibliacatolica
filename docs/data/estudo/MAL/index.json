@@ -1,0 +1,64 @@
+{
+ "livro": "MAL",
+ "secoes": [
+  "O mensageiro da aliança"
+ ],
+ "pericopes": [
+  {
+   "id": "MAL.1.1",
+   "titulo": "Do nascente ao poente, uma oblação pura",
+   "secao": "O mensageiro da aliança",
+   "referencia": "Ml 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  },
+  {
+   "id": "MAL.2.1",
+   "titulo": "A aliança de Levi e a fidelidade conjugal",
+   "secao": "O mensageiro da aliança",
+   "referencia": "Ml 2,1-17",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "MAL.3.1",
+   "titulo": "Eis que mando o meu anjo",
+   "secao": "O mensageiro da aliança",
+   "referencia": "Ml 3,1-18",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 18
+   }
+  },
+  {
+   "id": "MAL.4.1",
+   "titulo": "O sol de justiça e a vinda de Elias",
+   "secao": "O mensageiro da aliança",
+   "referencia": "Ml 4,1-6",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 6
+   }
+  }
+ ]
+}

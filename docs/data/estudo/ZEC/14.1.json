@@ -1,0 +1,40 @@
+{
+  "id": "ZEC.14.1",
+  "livro": "ZEC",
+  "titulo": "O Senhor será rei de toda a terra",
+  "secao": "O rei humilde e o pastor ferido",
+  "referencia": "Zc 14,1-21",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O dia do Senhor: Deus rei de toda a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Chega o dia do Senhor: as nações atacam Jerusalém, metade do povo vai ao exílio. Então o Senhor sai a combater; os seus pés pousam sobre o monte das Oliveiras, que se fende ao meio. Será um dia único: não haverá dia nem noite, e à tarde haverá luz. Águas vivas sairão de Jerusalém, metade para o mar oriental e metade para o ocidental. “O Senhor será rei de toda a terra; naquele dia o Senhor será o único e o seu nome será único.” As nações sobreviventes subirão cada ano para adorar o Rei e celebrar a festa das Tendas. Até nas campainhas dos cavalos se lerá: “Santo ao Senhor”.",
+    "alegorico": "O monte das Oliveiras é o lugar da Ascensão e da promessa da volta de Cristo (At 1,11-12). As águas vivas são o Espírito que brota de Cristo (Jo 7,37-39); e a festa das Tendas universal é a Igreja reunida de todas as nações.",
+    "moral": "Quando tudo é santo, até as panelas e as campainhas, a vida inteira se torna culto. O cristão é chamado a consagrar as coisas comuns, inscrevendo “Santo ao Senhor” no quotidiano.",
+    "anagogico": "A luz ao entardecer, sem alternância de dia e noite, e o Senhor rei único descrevem a Jerusalém celeste, onde Deus é a luz (Ap 21,23-25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Naquele dia os seus pés pousarão sobre o monte das Oliveiras.” “À tarde haverá luz.” “Sairão águas vivas de Jerusalém.” “O Senhor será o rei de toda a terra.” “Santo ao Senhor.”",
+    "meditatio_perguntas": [
+      "Deixo Cristo reinar sobre toda a minha “terra”?",
+      "Escrevo “Santo ao Senhor” nas coisas comuns do dia?",
+      "Espero com alegria a vinda gloriosa do Senhor?"
+    ],
+    "oratio_guia": "Senhor, rei de toda a terra, vem! Faze jorrar em mim as águas vivas e torna santas as coisas do meu dia. Que ao entardecer da minha vida haja luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "E o Senhor será o rei de toda a terra",
+      "ref": "Zc 14,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

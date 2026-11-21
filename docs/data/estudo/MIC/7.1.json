@@ -1,0 +1,40 @@
+{
+  "id": "MIC.7.1",
+  "livro": "MIC",
+  "titulo": "Qual o Deus semelhante a ti, que perdoa os pecados?",
+  "secao": "Processo e esperança",
+  "referencia": "Mq 7,1-20",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Esperar em Deus que perdoa e lança os pecados ao fundo do mar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta se sente como quem procura uvas depois da vindima: desapareceu o justo, todos armam ciladas; não se pode confiar no amigo; os inimigos estão dentro de casa, o filho despreza o pai. “Eu, porém, olharei para o Senhor, esperarei em Deus meu salvador.” Jerusalém confessa: caí, mas me levantarei; estou nas trevas, mas o Senhor é a minha luz. Os muros serão reconstruídos. O livro termina em oração: apascenta o teu povo como antigamente. “Qual o Deus semelhante a ti, que apaga a iniquidade?… Lançarás todos os nossos pecados ao fundo do mar”, por fidelidade a Abraão e a Jacó.",
+    "alegorico": "Jesus cita os vv. 6 (“os inimigos do homem são os da sua casa”) em Mt 10,36. O Deus que lança os pecados ao fundo do mar age definitivamente em Cristo, no batismo que sepulta o pecado.",
+    "moral": "Quando tudo falha, resta a atitude do profeta: olhar para o Senhor e esperar. A queda não é o fim: “caí, mas me levantarei”. A confiança se apoia na misericórdia de Deus, não nos nossos méritos.",
+    "anagogico": "Os pecados sepultados no fundo do mar anunciam o perdão definitivo, quando não haverá mais memória do mal."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu, porém, olharei para o Senhor, esperarei em Deus meu salvador.” “Não te alegres, inimiga minha: caí, mas me levantarei; se estou nas trevas, o Senhor é a minha luz.” “Lançarás todos os nossos pecados ao fundo do mar.”",
+    "meditatio_perguntas": [
+      "Para onde olho quando tudo à minha volta desmorona?",
+      "Creio que posso me levantar depois da queda?",
+      "Deixo Deus lançar os meus pecados ao fundo do mar, ou os pesco de volta?"
+    ],
+    "oratio_guia": "Deus que não tens igual, que perdoas e te alegras na misericórdia: eu olho para ti e espero. Levanta-me da queda, ilumina as minhas trevas e lança os meus pecados ao fundo do mar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, porém, olharei para o Senhor, esperarei em Deus meu salvador",
+      "ref": "Mq 7,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

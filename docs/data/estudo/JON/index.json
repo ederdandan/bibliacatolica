@@ -1,0 +1,64 @@
+{
+ "livro": "JON",
+ "secoes": [
+  "Jonas, o profeta relutante"
+ ],
+ "pericopes": [
+  {
+   "id": "JON.1.1",
+   "titulo": "Jonas foge da face do Senhor",
+   "secao": "Jonas, o profeta relutante",
+   "referencia": "Jn 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "JON.2.1",
+   "titulo": "No ventre do peixe: do Senhor vem a salvação",
+   "secao": "Jonas, o profeta relutante",
+   "referencia": "Jn 2,1-11",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 11
+   }
+  },
+  {
+   "id": "JON.3.1",
+   "titulo": "Nínive crê em Deus e se converte",
+   "secao": "Jonas, o profeta relutante",
+   "referencia": "Jn 3,1-10",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 10
+   }
+  },
+  {
+   "id": "JON.4.1",
+   "titulo": "Não hei de compadecer-me de Nínive?",
+   "secao": "Jonas, o profeta relutante",
+   "referencia": "Jn 4,1-11",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 11
+   }
+  }
+ ]
+}

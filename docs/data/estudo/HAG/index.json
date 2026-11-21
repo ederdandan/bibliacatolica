@@ -1,0 +1,36 @@
+{
+ "livro": "HAG",
+ "secoes": [
+  "A reconstrução do templo"
+ ],
+ "pericopes": [
+  {
+   "id": "HAG.1.1",
+   "titulo": "Considerai os vossos caminhos: reedificai a minha casa",
+   "secao": "A reconstrução do templo",
+   "referencia": "Ag 1,1-14",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 14
+   }
+  },
+  {
+   "id": "HAG.2.1",
+   "titulo": "A glória desta última casa será maior que a da primeira",
+   "secao": "A reconstrução do templo",
+   "referencia": "Ag 2,1-24",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 24
+   }
+  }
+ ]
+}

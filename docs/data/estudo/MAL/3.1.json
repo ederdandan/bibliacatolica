@@ -1,0 +1,49 @@
+{
+  "id": "MAL.3.1",
+  "livro": "MAL",
+  "titulo": "Eis que mando o meu anjo",
+  "secao": "O mensageiro da aliança",
+  "referencia": "Ml 3,1-18",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O mensageiro que prepara o caminho e o fogo que purifica",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Eis que mando o meu anjo, o qual preparará o caminho diante da minha face. E imediatamente virá ao seu templo o Senhor que buscais, o anjo da aliança que desejais.” Mas quem suportará o dia da sua vinda? Ele é como fogo de fundidor e lixívia de lavandeiro; purificará os filhos de Levi como ouro e prata, para que ofereçam sacrifícios na justiça. “Eu sou o Senhor, e não mudo.” Voltai a mim: vós me roubais nos dízimos; trazei-os, e vede se não abrirei as janelas do céu. Os que temem o Senhor conversam entre si; um livro de memória é escrito diante dele: serão a sua propriedade particular.",
+    "alegorico": "Os Evangelhos identificam o mensageiro com João Batista (Mt 11,10; Mc 1,2) e o Senhor que vem ao seu templo com Jesus, apresentado no templo (Lc 2,22) e que purifica o templo. O fogo de fundidor é o Espírito que purifica a Igreja.",
+    "moral": "Deus não muda: a sua fidelidade é a nossa esperança. A sua vinda purifica como fogo, não destrói. A generosidade (o dízimo) abre as janelas do céu; e os que conversam sobre Deus têm os nomes escritos no livro da memória.",
+    "anagogico": "O livro da memória e a distinção entre justo e ímpio anunciam o juízo final, em que os que temem o Senhor serão o seu tesouro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que mando o meu anjo, o qual preparará o caminho diante da minha face.” “Ele será como o fogo do fundidor.” “Eu sou o Senhor, e não mudo.” “Voltai a mim, e eu voltarei a vós.”",
+    "meditatio_perguntas": [
+      "Deixo o Senhor purificar-me como ouro no fogo?",
+      "Sou generoso com Deus, ou “roubo” o que lhe é devido?",
+      "Converso com os irmãos sobre Deus?"
+    ],
+    "oratio_guia": "Senhor que não mudas, envia o teu mensageiro para preparar o caminho em mim. Purifica-me como ouro e prata e escreve o meu nome no teu livro de memória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que mando o meu anjo, o qual preparará o caminho diante da minha face",
+      "ref": "Ml 3,1"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Igreja lê este texto na festa da Apresentação do Senhor (2 de fevereiro): o Senhor entra no seu templo nos braços de Maria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

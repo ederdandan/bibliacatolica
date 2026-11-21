@@ -1,0 +1,40 @@
+{
+  "id": "ZEP.2.1",
+  "livro": "ZEP",
+  "titulo": "Buscai o Senhor, todos os humildes da terra",
+  "secao": "O dia do Senhor e o resto fiel",
+  "referencia": "Sf 2,1-15",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Buscar o Senhor na humildade antes do dia da ira",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta exorta a nação a reunir-se antes que venha o dia: “Buscai o Senhor, todos vós, os humildes da terra, que guardais os seus preceitos; buscai a justiça, buscai a mansidão”, talvez encontreis abrigo no dia da ira. Seguem oráculos contra as nações: os filisteus de Gaza e Ascalão, Moab e Amon, que insultaram o povo de Deus, a Etiópia e a Assíria. O resto do povo herdará as suas terras, e todas as ilhas adorarão o Senhor, cada uma no seu lugar. Nínive, a cidade alegre que dizia “eu sou e não há outra”, será um deserto.",
+    "alegorico": "Os “humildes da terra” (os anawim) preparam as bem-aventuranças: Cristo, manso e humilde de coração, proclama felizes os pobres em espírito e os mansos (Mt 5,3-5). Maria é a flor desse resto humilde.",
+    "moral": "O abrigo no dia da prova não vem do poder, mas da humildade, da justiça e da mansidão. A soberba de Nínive (“eu sou, e não há outra”) é a atitude que usurpa o lugar de Deus.",
+    "anagogico": "As ilhas das nações adorando o Senhor anunciam a adoração universal no Reino consumado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Buscai o Senhor todos vós, os humildes nesta terra… buscai a justiça, buscai a mansidão.” “Esta é a cidade alegre que dizia no seu coração: Eu sou, e não há outra.”",
+    "meditatio_perguntas": [
+      "Busco a mansidão e a justiça como abrigo?",
+      "Em que digo, como Nínive, “eu sou, e não há outra”?",
+      "Sinto-me parte do resto humilde do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, faze-me humilde da terra. Que eu busque a justiça e a mansidão e encontre abrigo em ti no dia da prova. Abate em mim toda arrogância. Amém.",
+    "contemplatio_foco": {
+      "texto": "Buscai o Senhor todos vós, os humildes nesta terra",
+      "ref": "Sf 2,3"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

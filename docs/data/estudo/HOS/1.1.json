@@ -1,0 +1,49 @@
+{
+  "id": "HOS.1.1",
+  "livro": "HOS",
+  "titulo": "O casamento de Oseias e os filhos de nomes proféticos",
+  "secao": "O matrimônio do profeta",
+  "referencia": "Os 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A infidelidade do povo e a fidelidade de Deus tornadas visíveis na vida do profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos dias de Jeroboão II, o Senhor manda Oseias tomar por esposa Gomer, mulher de prostituição, porque a terra se prostitui longe do Senhor. Os filhos recebem nomes que são oráculos: Jezrael (o sangue derramado em Jezrael será vingado), Lo-Ruhama, “Não-amada”, e Lo-Ammi, “Não-meu-povo”. Mas a sentença não é a última palavra: o número dos filhos de Israel será como a areia do mar, e onde se disse “não sois meu povo” se dirá “sois filhos do Deus vivo”; Judá e Israel se reunirão sob um só chefe.",
+    "alegorico": "São Paulo (Rm 9,25-26) e São Pedro (1Pd 2,10) leem aqui a vocação dos gentios: os que não eram povo tornam-se, em Cristo, povo de Deus e filhos do Deus vivo. O “único chefe” é Cristo, que reúne os dispersos.",
+    "moral": "Deus não se envergonha de unir-se a uma humanidade infiel. A vida do profeta ensina que o pecado é adultério contra um Amor pessoal, não apenas transgressão de regras; e que a última palavra de Deus é a adoção, não a rejeição.",
+    "anagogico": "A multidão incontável “como a areia do mar” antecipa a multidão dos redimidos de toda nação, reunidos no grande dia de Jezrael, quando Deus semeará o seu povo para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "O Senhor disse a Oseias: “Vai, toma por mulher uma prostituta”. Nasceram filhos com nomes de sentença: Não-amada, Não-meu-povo. Mas “no lugar onde se lhes disse: Vós não sois já meu povo, se lhes dirá: Vós sois filhos do Deus vivo”.",
+    "meditatio_perguntas": [
+      "Vejo o meu pecado como infidelidade a um Amor pessoal?",
+      "Que “nome de sentença” carrego e que Deus quer mudar em nome de filho?",
+      "Acredito que Deus pode reunir o que está dividido em mim e na Igreja?"
+    ],
+    "oratio_guia": "Deus vivo, que chamas “meu povo” a quem não era povo, muda os nomes que o pecado me deu. Faze-me filho, reúne-me sob o único Chefe, Cristo, e não permitas que eu volte às minhas infidelidades. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós sois filhos do Deus vivo",
+      "ref": "Os 1,10"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A ordem de casar com uma “mulher de prostituição” é lida por muitos como ação simbólica vivida; o ponto central é que o casamento do profeta se torna parábola da aliança ferida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

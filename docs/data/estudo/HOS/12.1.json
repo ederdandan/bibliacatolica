@@ -1,0 +1,40 @@
+{
+  "id": "HOS.12.1",
+  "livro": "HOS",
+  "titulo": "Efraim apascenta-se de vento: ó morte, onde está o teu flagelo?",
+  "secao": "O amor que vence",
+  "referencia": "Os 12,1–13,15",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Da infidelidade histórica à vitória sobre a morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Efraim apascenta-se de vento, faz alianças com a Assíria e leva azeite ao Egito. O profeta recorda Jacó, que lutou com o anjo e chorou pedindo graça; o povo deve voltar, guardar a misericórdia e a justiça, esperar sempre em Deus. Mas Efraim confia no seu comércio injusto. No capítulo 13, Efraim, outrora forte, peca com ídolos e beija bezerros; será como nuvem da manhã e fumo. Deus o conheceu no deserto; esqueceram-no na fartura. Contudo: “livrá-los-ei do poder do sepulcro… Ó morte, onde está o teu flagelo?”",
+    "alegorico": "São Paulo cita este versículo no hino da vitória pascal: “Ó morte, onde está o teu aguilhão?” (1Cor 15,55). Cristo, novo Jacó que lutou na agonia, vence a morte por nós.",
+    "moral": "A memória dos patriarcas ensina a lutar em oração e a chorar pedindo graça. O perigo maior não é a pobreza do deserto, mas a fartura que faz esquecer Deus.",
+    "anagogico": "O resgate do poder do sepulcro é a ressurreição dos mortos: a morte, último inimigo, será destruída."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Efraim apascenta-se de vento.” “Jacó lutou com o anjo, chorou e suplicou-lhe.” “Converte-te ao teu Deus, guarda a misericórdia e a justiça.” “Ó morte, onde está o teu flagelo? Ó inferno, onde a tua destruição?”",
+    "meditatio_perguntas": [
+      "De que “vento” me alimento?",
+      "Luto com Deus na oração, como Jacó?",
+      "Creio de verdade na vitória de Cristo sobre a morte?"
+    ],
+    "oratio_guia": "Senhor da vida, que me conheceste no deserto, não permitas que te esqueça na fartura. Dá-me a perseverança de Jacó na oração e a esperança firme na tua vitória sobre a morte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó morte, onde está o teu flagelo? ó inferno, onde a tua destruição?",
+      "ref": "Os 13,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

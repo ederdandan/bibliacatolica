@@ -1,0 +1,49 @@
+{
+  "id": "MIC.4.1",
+  "livro": "MIC",
+  "titulo": "O monte do Senhor: espadas em relhas de arado",
+  "secao": "Promessas a Sião",
+  "referencia": "Mq 4,1-13",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "As nações sobem ao monte do Senhor e aprendem a paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos últimos dias, o monte da casa do Senhor será firmado acima dos montes; os povos afluirão: “Vinde, subamos ao monte do Senhor… ele nos ensinará os seus caminhos”. Da Sião sairá a lei. O Senhor julgará as nações, e elas converterão as espadas em relhas de arado e as lanças em foices; cada um se sentará sob a sua videira e a sua figueira, sem temor. Deus reunirá a coxa e a dispersa e reinará sobre elas em Sião. A filha de Sião sofre como mulher em parto, irá à Babilônia, mas ali será libertada.",
+    "alegorico": "O monte elevado é a Igreja, edificada sobre Cristo, para onde afluem todas as nações; a lei que sai de Sião é o Evangelho, pregado a partir de Jerusalém (Lc 24,47). A filha de Sião em dores de parto é imagem de Maria e da Igreja que dá à luz o povo novo.",
+    "moral": "A paz nasce de aprender os caminhos de Deus: só quem é ensinado por Ele transforma armas em instrumentos de trabalho. Cada cristão é chamado a “subir” e a fazer subir outros.",
+    "anagogico": "Ninguém mais aprenderá a guerra: é a paz definitiva do Reino, a cada um debaixo da sua videira, no repouso eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vinde, subamos ao monte do Senhor… e ele nos ensinará os seus caminhos.” “Converterão as suas espadas em relhas de arados.” “Cada um se assentará debaixo da sua videira e da sua figueira.”",
+    "meditatio_perguntas": [
+      "Subo ao monte do Senhor para aprender, ou só para cumprir?",
+      "Que “espadas” em mim precisam virar relhas de arado?",
+      "Como posso ser construtor de paz?"
+    ],
+    "oratio_guia": "Senhor, ensina-me os teus caminhos. Transforma as minhas armas em instrumentos de serviço e reúne os dispersos e os feridos sob o teu reinado de paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vinde, subamos ao monte do Senhor",
+      "ref": "Mq 4,2"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este oráculo aparece quase idêntico em Is 2,2-4; é patrimônio comum da profecia do século VIII a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

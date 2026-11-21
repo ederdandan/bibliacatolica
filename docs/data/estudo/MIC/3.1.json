@@ -1,0 +1,49 @@
+{
+  "id": "MIC.3.1",
+  "livro": "MIC",
+  "titulo": "Contra os chefes e os falsos profetas",
+  "secao": "Juízo sobre Samaria e Jerusalém",
+  "referencia": "Mq 3,1-12",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Chefes que devoram o povo e profetas mercenários",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Miqueias acusa os chefes de Jacó: deveriam conhecer o direito, mas odeiam o bem e amam o mal; “comem a carne do meu povo”, arrancam-lhe a pele e quebram-lhe os ossos. Quando clamarem, Deus não responderá. Também os profetas que extraviam o povo: anunciam paz a quem lhes dá de comer e guerra a quem nada lhes dá; para eles será noite sem visão. Miqueias, ao contrário, está “cheio da força do Espírito do Senhor, de justiça e de vigor”. Juízes julgam por suborno, sacerdotes ensinam por salário, profetas adivinham por dinheiro e dizem: “O Senhor está no meio de nós”. Por isso Sião será lavrada como campo.",
+    "alegorico": "Em contraste com os chefes que devoram o rebanho, Cristo, Bom Pastor, dá a sua carne como alimento para a vida do mundo. Miqueias cheio do Espírito prefigura o Messias ungido (Lc 4,18).",
+    "moral": "O poder religioso e civil corrompe-se quando se torna meio de lucro. Usar o nome de Deus como garantia (“o Senhor está conosco”) enquanto se pratica a injustiça é a forma mais grave de presunção.",
+    "anagogico": "A destruição de Sião anuncia que nenhuma instituição terrena é eterna por si; só a Jerusalém do alto permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não vos compete conhecer o direito? Vós que odiais o bem e amais o mal.” “Eu estou cheio da força do espírito do Senhor, da justiça e do vigor, para anunciar a Jacó a sua maldade.”",
+    "meditatio_perguntas": [
+      "Uso a minha posição para servir ou para me servir?",
+      "Digo a verdade mesmo a quem não me favorece?",
+      "Peço a força do Espírito para anunciar com coragem?"
+    ],
+    "oratio_guia": "Senhor, enche-me da força do teu Espírito, da justiça e do vigor. Livra-me de usar o teu nome para cobrir a injustiça e dá à tua Igreja pastores que não devorem o rebanho. Amém.",
+    "contemplatio_foco": {
+      "texto": "estou cheio da força do espírito do Senhor, da justiça e do vigor",
+      "ref": "Mq 3,8"
+    }
+  },
+  "ancoras": {
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este oráculo é citado um século depois, em Jr 26,18, para defender Jeremias: Ezequias acolheu a palavra de Miqueias e se converteu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

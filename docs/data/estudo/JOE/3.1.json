@@ -1,0 +1,49 @@
+{
+  "id": "JOE.3.1",
+  "livro": "JOE",
+  "titulo": "O vale do julgamento e a fonte da casa do Senhor",
+  "secao": "O dia do Senhor",
+  "referencia": "Jl 3,1-21",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O julgamento das nações e a fonte que brota do templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Deus restaurar Judá, reunirá as nações no vale de Josafá (“o Senhor julga”) para julgá-las por terem dispersado o seu povo, repartido a terra e vendido crianças. Tiro, Sidônia e a Filisteia receberão o que fizeram. As nações são chamadas à guerra: “Forjai espadas das vossas relhas de arado”. Multidões no vale do julgamento: o dia do Senhor está perto. O Senhor ruge de Sião, mas é refúgio para o seu povo. Naquele dia os montes destilarão vinho, os outeiros manarão leite, e da casa do Senhor sairá uma fonte que regará o vale das Acácias.",
+    "alegorico": "A fonte que sai da casa do Senhor (cf. Ez 47; Zc 14,8) é Cristo, de cujo lado aberto brotam sangue e água (Jo 19,34), e os sacramentos que irrigam a Igreja. O vale de Josafá é figura do juízo de Cristo sobre a história.",
+    "moral": "Deus toma o partido das vítimas: vender crianças e dispersar os pobres não fica impune. A justiça divina é consolo para os oprimidos e advertência para os poderosos.",
+    "anagogico": "Os montes que destilam vinho e a fonte do templo descrevem a abundância da vida eterna, onde “Deus habitará em Sião”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Reunirei todas as nações e as farei descer ao vale de Josafá.” “Multidões, multidões no vale do julgamento!” “O Senhor é refúgio do seu povo.” “Da casa do Senhor sairá uma fonte.”",
+    "meditatio_perguntas": [
+      "Vejo a justiça de Deus como consolo ou como ameaça?",
+      "Que fonte de graça brota para mim da casa do Senhor?",
+      "Defendo os pequenos que são “vendidos” no mundo de hoje?"
+    ],
+    "oratio_guia": "Senhor, juiz das nações e refúgio do teu povo, defende os pequenos e faze brotar da tua casa a fonte que rega a minha aridez. Habita em Sião, e em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Da casa do Senhor sairá uma fonte",
+      "ref": "Jl 3,18"
+    }
+  },
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Josafá” significa “o Senhor julga”; o nome é mais teológico que geográfico, embora a tradição o tenha situado no vale do Cedron.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

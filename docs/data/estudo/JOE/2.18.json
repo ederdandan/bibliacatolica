@@ -1,0 +1,49 @@
+{
+  "id": "JOE.2.18",
+  "livro": "JOE",
+  "titulo": "Derramarei o meu espírito sobre toda a carne",
+  "secao": "O dia do Senhor",
+  "referencia": "Jl 2,18-32",
+  "ini": {
+    "c": 2,
+    "v": 18
+  },
+  "fim": {
+    "c": 2,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A efusão do Espírito sobre toda a carne",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor se mostra zeloso pela sua terra e tem compaixão do seu povo: dará trigo, vinho e azeite, afastará o inimigo do Norte. A terra não deve temer; as eiras se encherão. “Restituir-vos-ei os anos que o gafanhoto comeu.” Sabereis que eu estou no meio de Israel. “Depois disto, derramarei o meu espírito sobre toda a carne: vossos filhos e filhas profetizarão, os velhos terão sonhos, os jovens visões”; até sobre servos e servas. Haverá prodígios no céu e na terra; e todo o que invocar o nome do Senhor será salvo.",
+    "alegorico": "São Pedro, no dia de Pentecostes, declara cumprida esta profecia (At 2,16-21). O Espírito derramado sobre toda a carne é o Dom de Cristo ressuscitado à Igreja; “invocar o nome do Senhor” é invocar Jesus (Rm 10,13).",
+    "moral": "O Espírito não é privilégio de alguns: jovens e velhos, servos e livres o recebem. Isto chama cada batizado a viver como profeta, e devolve esperança: Deus pode restituir os anos perdidos.",
+    "anagogico": "Os sinais cósmicos e o resto salvo em Sião apontam para a Jerusalém celeste, onde o Espírito será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor teve compaixão do seu povo.” “Restituir-vos-ei os anos que o gafanhoto comeu.” “Derramarei o meu espírito sobre toda a carne.” “Todo o que invocar o nome do Senhor será salvo.”",
+    "meditatio_perguntas": [
+      "Que “anos perdidos” peço a Deus que restitua?",
+      "Vivo como alguém que recebeu o Espírito?",
+      "Invoco o nome de Jesus com confiança?"
+    ],
+    "oratio_guia": "Senhor, derrama sobre mim o teu Espírito, como em Pentecostes. Restitui-me os anos que o pecado devorou e faze-me invocar o teu nome com fé, para ser salvo. Amém.",
+    "contemplatio_foco": {
+      "texto": "derramarei o meu espírito sobre toda a carne",
+      "ref": "Jl 2,28"
+    }
+  },
+  "ancoras": {
+    "2:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica moderna, Jl 2,28-32 corresponde a Jl 3,1-5, e o capítulo 3 da Vulgata ao capítulo 4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

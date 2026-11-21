@@ -1,0 +1,40 @@
+{
+  "id": "AMO.6.1",
+  "livro": "AMO",
+  "titulo": "Ai dos que vivem na abundância em Sião",
+  "secao": "Palavras contra Israel",
+  "referencia": "Am 6,1-15",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A falsa segurança do luxo e a indiferença à ruína",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ai de vós que viveis em Sião na abundância e sem receio no monte de Samaria.” Os chefes deitam-se em leitos de marfim, comem cordeiros e bezerros, cantam ao som da harpa, bebem vinho em taças e ungem-se com os melhores perfumes, mas não se afligem com a ruína de José. Por isso serão os primeiros a ir para o cativeiro. Deus abomina o orgulho de Jacó; numa casa de dez homens não sobrará ninguém. Transformaram a justiça em veneno e gabam-se das próprias forças.",
+    "alegorico": "O rico que banqueteia sem ver Lázaro (Lc 16,19-31) é o comentário de Jesus a esta perícope. Cristo se identifica com a “ruína de José”, com o pobre esquecido.",
+    "moral": "O pecado aqui não é o prazer, mas a indiferença: não sofrer com a ruína dos irmãos. O conforto pode anestesiar a consciência. A pergunta é: quem sofre perto de mim e eu não vejo?",
+    "anagogico": "A inversão anunciada (os primeiros serão os primeiros no exílio) anuncia a inversão escatológica: os saciados terão fome, os famintos serão saciados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai de vós que viveis em Sião na abundância.” “Dormis em leitos de marfim, bebeis vinho em taças… e não vos compadeceis da ruína de José.” “Serão os primeiros a ir para o cativeiro.”",
+    "meditatio_perguntas": [
+      "Compadeço-me da “ruína de José”, das feridas do meu povo?",
+      "O conforto me torna surdo aos pobres?",
+      "Em que me glorio das minhas próprias forças?"
+    ],
+    "oratio_guia": "Senhor, livra-me da anestesia do conforto. Dá-me um coração que sofra com a ruína dos irmãos e mãos que socorram. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ai de vós que viveis em Sião, na abundância",
+      "ref": "Am 6,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

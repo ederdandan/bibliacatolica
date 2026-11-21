@@ -1,0 +1,49 @@
+{
+  "id": "HAB.2.1",
+  "livro": "HAB",
+  "titulo": "O justo viverá pela sua fidelidade",
+  "secao": "Diálogo do profeta com Deus",
+  "referencia": "Hab 2,1-20",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "O justo viverá pela sua fidelidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta se põe de sentinela para ouvir a resposta. Deus manda escrever a visão em tábuas, de modo que se leia correndo: ela é para o tempo marcado; “se tardar, espera-a, porque infalivelmente virá”. “O que não tem a alma reta sucumbe, mas o justo viverá pela sua fidelidade.” Seguem cinco “ais” contra o opressor: contra quem acumula o que não é seu, quem constrói a casa com ganho injusto (a pedra do muro clamará), quem edifica a cidade com sangue, quem embriaga o próximo, quem adora ídolos mudos. “A terra será cheia do conhecimento da glória do Senhor.” “O Senhor está no seu santo templo: cale-se diante dele toda a terra.”",
+    "alegorico": "São Paulo funda nesta frase a doutrina da justificação pela fé (Rm 1,17; Gl 3,11) e a Carta aos Hebreus (10,37-38) a aplica à vinda de Cristo: “aquele que vem virá e não tardará”.",
+    "moral": "A fé é perseverança fiel na espera: viver confiando em Deus quando a visão tarda. Os cinco “ais” lembram que a riqueza e o poder obtidos com injustiça se voltam contra quem os acumula.",
+    "anagogico": "A terra cheia do conhecimento da glória do Senhor “como as águas cobrem o mar” é a consumação do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Escreve a visão… se tardar, espera-a, porque infalivelmente virá.” “O justo viverá pela sua fidelidade.” “A pedra clamará do muro.” “O Senhor está no seu santo templo: cale-se diante dele toda a terra.”",
+    "meditatio_perguntas": [
+      "Sei esperar quando a resposta de Deus tarda?",
+      "Vivo pela fé, ou pela soma dos meus cálculos?",
+      "Há “pedras que clamam” nas minhas construções?"
+    ],
+    "oratio_guia": "Senhor, que não tardas embora pareças demorar, dá-me a fidelidade do justo. Que eu viva da fé, faça silêncio diante de ti e espere a tua glória encher a terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "o justo viverá pela sua fidelidade",
+      "ref": "Hab 2,4"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traz iustus autem in fide sua vivet; o termo hebraico ’emûnah significa fidelidade firme, confiança perseverante.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

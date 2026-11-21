@@ -1,0 +1,40 @@
+{
+  "id": "ZEC.3.1",
+  "livro": "ZEC",
+  "titulo": "O sumo sacerdote Josué e o servo Germen",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 3,1-10",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "O sumo sacerdote purificado e o servo Germen",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quarta visão: o sumo sacerdote Josué está diante do anjo do Senhor, com vestes sujas, e Satanás à direita para acusá-lo. O Senhor repreende Satanás: “Não é este um tição tirado do fogo?” Tiram-lhe as vestes sujas: “Tirei de ti a tua iniquidade”, e vestem-no com vestes de festa e um turbante limpo. Se andar nos caminhos de Deus, governará a sua casa. Josué e os seus colegas são sinal do futuro: “Eis que farei vir o meu servo Germen”. Sobre uma pedra com sete olhos Deus gravará uma inscrição e apagará num só dia a iniquidade da terra.",
+    "alegorico": "O sacerdote revestido de vestes novas figura o batismo, em que somos despojados do homem velho e revestidos de Cristo. “Germen” (Rebento) é título messiânico; a Vulgata traduz “o Oriente”: Cristo, que apaga num só dia, na cruz, a iniquidade da terra.",
+    "moral": "O acusador aponta as nossas manchas; Deus nos arranca do fogo e nos veste de graça. O sacramento da penitência é este gesto: tirar as vestes sujas e dar vestes de festa.",
+    "anagogico": "As vestes de festa anunciam as vestes brancas dos santos lavadas no sangue do Cordeiro (Ap 7,14)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Satanás estava à sua direita para o acusar.” “Não é este um tição tirado do fogo?” “Tirei de ti a tua iniquidade e te vesti de vestes de festa.” “Eis que farei vir o meu servo Germen.”",
+    "meditatio_perguntas": [
+      "Dou ouvidos à voz do acusador mais que à voz de Deus?",
+      "Quando foi a última vez que deixei Deus trocar as minhas vestes sujas?",
+      "Vejo-me como um “tição tirado do fogo” pela misericórdia?"
+    ],
+    "oratio_guia": "Senhor, cala em mim a voz do acusador. Tira as minhas vestes sujas e reveste-me de Cristo, o Germen que apagou num só dia o pecado do mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que farei vir o meu servo Germen",
+      "ref": "Zc 3,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

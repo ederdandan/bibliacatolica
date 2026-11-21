@@ -1,0 +1,49 @@
+{
+  "id": "MIC.1.1",
+  "livro": "MIC",
+  "titulo": "O Senhor sai da sua morada: juízo sobre Samaria",
+  "secao": "Juízo sobre Samaria e Jerusalém",
+  "referencia": "Mq 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O Senhor desce para julgar a idolatria de Samaria e de Jerusalém",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Miqueias de Moreset profetiza nos dias de Joatão, Acaz e Ezequias. Convoca os povos como testemunhas: o Senhor sai do seu santo templo, desce e pisa as alturas; os montes se derretem como cera diante do fogo. Por quê? Pelo crime de Jacó: Samaria e os lugares altos de Judá, isto é, Jerusalém. Samaria será reduzida a um montão de pedras, os seus ídolos despedaçados. O profeta lamenta, anda descalço e nu, uiva como os chacais, porque a ferida chegou até a porta de Jerusalém. Uma série de jogos de palavras com os nomes das cidades da Sefelá descreve a invasão.",
+    "alegorico": "A descida de Deus para julgar prepara a descida de Deus para salvar: na Encarnação o Senhor “sai do seu lugar” e pisa a terra, assumindo sobre si o juízo do pecado.",
+    "moral": "O profeta não anuncia a desgraça friamente: chora e se despoja. Quem denuncia o pecado deve fazê-lo com dor e solidariedade, não com satisfação.",
+    "anagogico": "Os montes que se derretem diante do Senhor anunciam a vinda gloriosa de Cristo, diante de quem fugirão o céu e a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi, povos todos!” “O Senhor vai sair da sua morada; descerá e pisará as alturas da terra.” “Qual é o crime de Jacó? Não é Samaria?” “Por isso chorarei e gemerei, andarei descalço e nu.”",
+    "meditatio_perguntas": [
+      "Vejo a vinda de Deus como juízo ou como salvação?",
+      "Sei chorar pelo pecado da minha comunidade, em vez de só criticá-lo?",
+      "Que “lugares altos” existem no meu coração?"
+    ],
+    "oratio_guia": "Senhor que desces da tua morada, derrete os montes do meu orgulho. Dá-me as lágrimas do profeta pelo pecado do teu povo e o desejo de te ver vir como Salvador. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor vai sair da sua morada; descerá e pisará as alturas da terra",
+      "ref": "Mq 1,3"
+    }
+  },
+  "ancoras": {
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 10-15 jogam com o som dos nomes das cidades (ex.: Bet-Leafra, “casa do pó”: “rolai-vos no pó”), efeito que se perde na tradução.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

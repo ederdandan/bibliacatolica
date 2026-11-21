@@ -1,0 +1,22 @@
+{
+ "livro": "OBA",
+ "secoes": [
+  "Oráculo contra Edom"
+ ],
+ "pericopes": [
+  {
+   "id": "OBA.1.1",
+   "titulo": "O orgulho de Edom e o reino do Senhor",
+   "secao": "Oráculo contra Edom",
+   "referencia": "Ab 1,1-21",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 21
+   }
+  }
+ ]
+}

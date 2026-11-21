@@ -1,0 +1,36 @@
+{
+ "livro": "NAH",
+ "secoes": [
+  "A queda de Nínive"
+ ],
+ "pericopes": [
+  {
+   "id": "NAH.1.1",
+   "titulo": "O Senhor é bom, refúgio no dia da tribulação",
+   "secao": "A queda de Nínive",
+   "referencia": "Na 1,1-15",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 15
+   }
+  },
+  {
+   "id": "NAH.2.1",
+   "titulo": "Ai da cidade sanguinária",
+   "secao": "A queda de Nínive",
+   "referencia": "Na 2,1–3,19",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 19
+   }
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "HOS.4.1",
+  "livro": "HOS",
+  "titulo": "Não há conhecimento de Deus na terra",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 4,1-19",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Sem conhecimento de Deus, o povo perece",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor entra em juízo com os habitantes da terra: não há verdade, nem misericórdia, nem conhecimento de Deus; só perjúrio, mentira, homicídio, roubo e adultério. Até a terra e os animais sofrem. A culpa maior é dos sacerdotes, que rejeitaram a ciência: “o meu povo perece por falta de conhecimento”. Alimentam-se do pecado do povo. O povo consulta o pau e a vara, sacrifica nos montes; a prostituição sagrada contamina as famílias. Judá não deve imitar Israel: Efraim está ligado aos ídolos.",
+    "alegorico": "O sacerdócio que rejeita a ciência de Deus contrasta com Cristo, verdadeiro Sacerdote e Mestre, que dá a conhecer o Pai (Jo 17,3). A Igreja recebe a missão de ensinar a verdade que salva.",
+    "moral": "O pecado social nasce da ignorância culpável de Deus. Pastores, pais e educadores são responsáveis por transmitir a fé; quando o conhecimento de Deus se perde, a moral se desfaz e a própria criação sofre.",
+    "anagogico": "O “conhecimento de Deus” que falta aqui é o fim último do homem: conhecê-lo face a face. Toda catequese é preparação para essa visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não há verdade, nem misericórdia, nem conhecimento de Deus nesta terra.” “O meu povo perece por falta de conhecimento. Porque tu rejeitaste a ciência, também eu te excluirei do meu sacerdócio.”",
+    "meditatio_perguntas": [
+      "Dedico tempo para conhecer a Deus por meio da Escritura e da doutrina?",
+      "Como transmito a fé a quem depende de mim?",
+      "Que “paus e varas” consulto em lugar de Deus?"
+    ],
+    "oratio_guia": "Senhor, não permitas que eu pereça por falta de conhecimento. Dá à tua Igreja pastores que amem a tua ciência, e a mim um coração dócil à tua verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu povo perece, por falta de conhecimento",
+      "ref": "Os 4,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

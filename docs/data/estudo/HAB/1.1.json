@@ -1,0 +1,40 @@
+{
+  "id": "HAB.1.1",
+  "livro": "HAB",
+  "titulo": "Até quando, Senhor, clamarei?",
+  "secao": "Diálogo do profeta com Deus",
+  "referencia": "Hab 1,1-17",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O lamento do justo diante do mal que Deus parece tolerar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Habacuc se queixa: “Até quando, Senhor, clamarei sem que me ouças?” Vê violência, contendas, a lei enfraquecida, o ímpio cercando o justo. Deus responde com algo espantoso: suscitará os caldeus, nação feroz e rápida, cujos cavalos são mais velozes que leopardos, que se riem dos reis e fazem da sua força o seu deus. O profeta insiste: “Não és tu, Senhor, desde o princípio, meu Deus, meu Santo?” Os teus olhos são puros demais para ver o mal; por que te calas quando o ímpio devora o mais justo? Os homens são tratados como peixes apanhados na rede.",
+    "alegorico": "O grito do justo que não é ouvido ecoa no grito de Cristo na cruz: “Por que me abandonaste?”. Nele, Deus mesmo entra no sofrimento do inocente.",
+    "moral": "É legítimo e até santo perguntar a Deus “até quando?”. A fé madura não cala as perguntas, mas as dirige a Deus, recordando quem Ele é: “meu Deus, meu Santo”.",
+    "anagogico": "O mal que parece triunfar está sob o governo de Deus; a história caminha para o juízo em que o justo será ouvido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Até quando, Senhor, clamarei sem que me ouças?” “Por que me fazes ver a iniquidade?” “Não és tu, Senhor, desde o princípio, meu Deus, meu Santo?” “Por que te calas quando o ímpio devora o justo?”",
+    "meditatio_perguntas": [
+      "Tenho coragem de apresentar a Deus as minhas perguntas mais duras?",
+      "Em quem faço “da minha força o meu deus”?",
+      "Lembro quem Deus é, mesmo quando não entendo o que faz?"
+    ],
+    "oratio_guia": "Senhor, meu Deus, meu Santo, até quando? Escuta o clamor dos que sofrem violência. Mesmo quando não te compreendo, eu me volto a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Até quando, Senhor, clamarei sem que me ouças?",
+      "ref": "Hab 1,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

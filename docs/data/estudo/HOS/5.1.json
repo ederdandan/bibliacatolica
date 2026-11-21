@@ -1,0 +1,40 @@
+{
+  "id": "HOS.5.1",
+  "livro": "HOS",
+  "titulo": "Juízo sobre sacerdotes, povo e reis",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 5,1-15",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O Senhor se retira até que o povo busque a sua face",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O oráculo atinge sacerdotes, a casa de Israel e a casa do rei, que foram laço em Masfa e rede no Tabor. Efraim está contaminado; o espírito de prostituição o impede de voltar a Deus. Irão buscar o Senhor com ovelhas e bois e não o acharão, porque Ele se retirou. Soa a trombeta em Gabaa; Efraim e Judá, feridos, procuram socorro na Assíria, que não pode curar. Deus será como traça e como leão; depois diz: “Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face”.",
+    "alegorico": "O Deus que se retira para ser procurado prepara o mistério da Ascensão: Cristo vai ao Pai para que a Igreja o busque na fé e receba o Espírito. A Assíria que não cura figura as falsas salvações humanas.",
+    "moral": "Não se encontra a Deus com ritos sem conversão. Quando Ele parece ausente, a resposta não é procurar alianças humanas, mas reconhecer o pecado e buscar a sua face.",
+    "anagogico": "A busca da face de Deus, iniciada na penitência, termina na visão da sua face na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Irão com as suas ovelhas e bois buscar o Senhor e não o acharão: ele retirou-se deles.” “Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face.”",
+    "meditatio_perguntas": [
+      "Procuro a Deus com ritos, mas sem mudar de vida?",
+      "A que “Assíria” recorro quando estou ferido?",
+      "Que pecado preciso reconhecer para buscar a face de Deus?"
+    ],
+    "oratio_guia": "Senhor, quando te retiras, não me deixes procurar outros médicos. Faz-me reconhecer o meu pecado e buscar a tua face com todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "até que reconheçam o seu pecado e busquem a minha face",
+      "ref": "Os 5,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

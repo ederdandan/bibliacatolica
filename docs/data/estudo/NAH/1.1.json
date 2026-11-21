@@ -1,0 +1,49 @@
+{
+  "id": "NAH.1.1",
+  "livro": "NAH",
+  "titulo": "O Senhor é bom, refúgio no dia da tribulação",
+  "secao": "A queda de Nínive",
+  "referencia": "Na 1,1-15",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O Deus zeloso é bom e refúgio dos que nele esperam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oráculo sobre Nínive, visão de Naum de Elcos. O Senhor é um Deus zeloso e vingador, lento para a ira mas grande em poder; não deixa o culpado impune. Ele caminha na tempestade, as nuvens são o pó dos seus pés; seca o mar, os montes tremem. Quem resistirá ao seu furor? Mas “o Senhor é bom, é refúgio no dia da tribulação; conhece os que esperam nele”. Nínive será destruída; Judá será libertado do jugo. “Eis sobre os montes os pés do que traz a boa nova, do que anuncia a paz”: celebra, Judá, as tuas festas.",
+    "alegorico": "Os pés do mensageiro da paz (cf. Is 52,7; Rm 10,15) são os de Cristo e dos apóstolos que anunciam o Evangelho; o jugo quebrado é o do pecado e da morte.",
+    "moral": "A ira de Deus contra o opressor é boa notícia para o oprimido. Deus é paciente, mas não indiferente ao mal; quem nele espera encontra refúgio, não terror.",
+    "anagogico": "A destruição do opressor e a festa de Judá anunciam a vitória final sobre o mal e a festa eterna dos libertos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor é paciente e grande em poder.” “Quem poderá subsistir diante da sua indignação?” “O Senhor é bom, é um refúgio no dia da tribulação.” “Eis sobre os montes os pés do que traz a boa nova, do que anuncia a paz.”",
+    "meditatio_perguntas": [
+      "Em que tribulação procuro hoje refúgio?",
+      "Vejo a justiça de Deus como esperança para os oprimidos?",
+      "Levo, com os meus pés, a boa nova da paz?"
+    ],
+    "oratio_guia": "Senhor bom, refúgio no dia da tribulação, conhece-me entre os que esperam em ti. Quebra os jugos que pesam sobre o teu povo e faze-me mensageiro da tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é bom, é um refúgio (para seus filhos) no dia da tribulação",
+      "ref": "Na 1,7"
+    }
+  },
+  "ancoras": {
+    "1:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em hebraico este versículo é Na 2,1; a Vulgata o mantém no fim do capítulo 1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

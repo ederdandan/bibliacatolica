@@ -1,0 +1,64 @@
+{
+ "livro": "JOE",
+ "secoes": [
+  "O dia do Senhor"
+ ],
+ "pericopes": [
+  {
+   "id": "JOE.1.1",
+   "titulo": "A praga dos gafanhotos: ordenai um jejum sagrado",
+   "secao": "O dia do Senhor",
+   "referencia": "Jl 1,1-20",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 20
+   }
+  },
+  {
+   "id": "JOE.2.1",
+   "titulo": "Rasgai os vossos corações e não as vossas vestes",
+   "secao": "O dia do Senhor",
+   "referencia": "Jl 2,1-17",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "JOE.2.18",
+   "titulo": "Derramarei o meu espírito sobre toda a carne",
+   "secao": "O dia do Senhor",
+   "referencia": "Jl 2,18-32",
+   "ini": {
+    "c": 2,
+    "v": 18
+   },
+   "fim": {
+    "c": 2,
+    "v": 32
+   }
+  },
+  {
+   "id": "JOE.3.1",
+   "titulo": "O vale do julgamento e a fonte da casa do Senhor",
+   "secao": "O dia do Senhor",
+   "referencia": "Jl 3,1-21",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 21
+   }
+  }
+ ]
+}

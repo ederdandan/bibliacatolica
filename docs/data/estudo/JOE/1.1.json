@@ -1,0 +1,49 @@
+{
+  "id": "JOE.1.1",
+  "livro": "JOE",
+  "titulo": "A praga dos gafanhotos: ordenai um jejum sagrado",
+  "secao": "O dia do Senhor",
+  "referencia": "Jl 1,1-20",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A calamidade como chamado à penitência comunitária",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A palavra do Senhor vem a Joel. Uma praga de gafanhotos sem precedentes devastou o país: o que um enxame deixou, o outro comeu. Os ébrios choram o vinho perdido, as vinhas e as figueiras estão nuas, a oferta e a libação cessaram no templo, os sacerdotes estão de luto, os campos secam, o gado geme. O profeta convoca: “Ordenai um jejum sagrado, convocai a assembleia… e clamai ao Senhor”, porque o dia do Senhor está próximo, como devastação vinda do Todo-Poderoso.",
+    "alegorico": "Os Padres viram nos gafanhotos sucessivos as paixões e os poderes que devoram a alma e a Igreja. A cessação da oferta no templo faz desejar o sacrifício perfeito, que Cristo instituirá e que nunca cessará.",
+    "moral": "As calamidades não são sinal automático de castigo, mas despertam para o essencial: a dependência de Deus. A resposta adequada é a penitência comunitária, o jejum e a súplica, não o desespero nem a indiferença.",
+    "anagogico": "O “dia do Senhor” anunciado nas calamidades remete ao juízo final: cada crise da história é pequena antecipação dele e convite à vigilância."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Contai isto a vossos filhos.” “O que o gafanhoto deixou, o yeleq comeu.” “Cingi-vos e chorai, sacerdotes.” “Ordenai um jejum sagrado, convocai a assembleia… e clamai ao Senhor.” “Ai, que dia! O dia do Senhor está perto.”",
+    "meditatio_perguntas": [
+      "Que “gafanhotos” estão devorando a minha vida interior?",
+      "Como reajo às crises: com desespero ou com oração?",
+      "Participo da penitência da Igreja, como a Quaresma?"
+    ],
+    "oratio_guia": "Senhor, quando os gafanhotos devoram os meus campos, ensina-me a jejuar, a chorar e a clamar a ti. Desperta-me para o teu dia e restaura o que foi perdido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ordenai à um jejum sagrado, convocai a assembleia",
+      "ref": "Jl 1,14"
+    }
+  },
+  "ancoras": {
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatro nomes (gazam, arbê, yeleq, hasil) designam provavelmente fases ou espécies de gafanhotos; o texto conserva os nomes hebraicos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
