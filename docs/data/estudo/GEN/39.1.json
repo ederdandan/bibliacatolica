@@ -1,0 +1,40 @@
+{
+  "id": "GEN.39.1",
+  "livro": "GEN",
+  "titulo": "José e a mulher de Putifar",
+  "secao": "José",
+  "referencia": "Gn 39,1-23",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "José fiel a Deus na tentação: “Como pecaria eu contra o meu Deus?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "José é levado ao Egito e comprado por Putifar, eunuco do Faraó, chefe da guarda. “O Senhor era com ele, e tudo o que fazia lhe sucedia prosperamente.” O seu senhor vê que o Senhor está com José e faz prosperar tudo nas suas mãos; põe-no à frente da casa e lhe confia todos os bens; e o Senhor abençoa a casa do egípcio por causa de José. José é formoso de rosto e de figura. A mulher do seu senhor põe os olhos nele e diz: dorme comigo. Ele recusa: o meu senhor me confiou tudo, nada me proibiu, exceto tu, que és sua mulher; “como posso eu cometer esta maldade e pecar contra o meu Deus?” Ela insiste dia após dia; ele resiste. Um dia, estando José sozinho em casa, ela o agarra pela capa: dorme comigo. Ele deixa a capa na mão dela e foge para fora. Ela chama os criados e o acusa: o hebreu quis abusar de mim; eu gritei, e ele fugiu, deixando a capa. Conta o mesmo ao marido. Putifar, irado, lança José na prisão, onde estavam os presos do rei. “Mas o Senhor era com José”, teve compaixão dele e lhe deu graça diante do carcereiro, que lhe confiou todos os presos; tudo se fazia sob a sua direção, e o Senhor fazia prosperar tudo o que ele fazia.",
+    "alegorico": "José, inocente, caluniado e lançado na prisão, prefigura Cristo condenado injustamente por falsas testemunhas (Mt 26,59-60) e “contado entre os malfeitores” (Lc 22,37). A capa deixada nas mãos da tentadora lembra o jovem que, na Paixão, foge deixando o lençol (Mc 14,52).",
+    "moral": "A pureza de José nasce da relação com Deus: o pecado é “contra o meu Deus”, e não apenas contra uma regra ou contra o patrão. Ele resiste dia após dia e, no momento decisivo, foge: diante de certas tentações, a sabedoria não é discutir, mas fugir (1Cor 6,18). A fidelidade lhe custa a reputação e a liberdade. Mas o refrão do capítulo o envolve do começo ao fim: “o Senhor era com José”, na casa e na prisão.",
+    "anagogico": "A presença de Deus em todas as circunstâncias é penhor de que Ele estará com os seus até o fim, e de que a inocência caluniada será reconhecida no juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor era com ele, e tudo o que fazia lhe sucedia prosperamente.” “Como posso eu cometer esta maldade, e pecar contra o meu Deus?” “Deixando a capa na mão dela, fugiu.” “Mas o Senhor era com José.”",
+    "meditatio_perguntas": [
+      "Vejo o pecado como ofensa a Deus, e não só como regra quebrada?",
+      "Sei fugir das ocasiões de pecado em vez de brincar com elas?",
+      "Creio que Deus está comigo também nas “prisões” injustas?"
+    ],
+    "oratio_guia": "Senhor, que estavas com José na casa e na prisão, está comigo. Dá-me a pureza de quem foge do pecado por amor a ti e a paz de quem sofre injustamente sob o teu olhar. Amém.",
+    "contemplatio_foco": {
+      "texto": "como posso eu cometer esta maldade, e pecar contra o meu Deus?",
+      "ref": "Gn 39,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

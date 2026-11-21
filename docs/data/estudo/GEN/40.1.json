@@ -1,0 +1,40 @@
+{
+  "id": "GEN.40.1",
+  "livro": "GEN",
+  "titulo": "Os sonhos do copeiro e do padeiro",
+  "secao": "José",
+  "referencia": "Gn 40,1-23",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Na prisão, José interpreta os sonhos e é esquecido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O copeiro-mor e o padeiro-mor do rei do Egito ofendem o seu senhor, e o Faraó, irado, os põe na prisão onde está José, que os serve. Uma noite, ambos têm um sonho. De manhã, José os vê tristes: por que estais hoje mais tristes que de costume? “Tivemos um sonho, e não há quem no-lo interprete.” José responde: “Porventura não pertence a Deus a interpretação? Contai-me o que vistes”. O copeiro conta: vi uma videira com três ramos que brotavam, floresciam e amadureciam uvas; eu espremia as uvas no copo do Faraó e lho dava. José: os três ramos são três dias; daqui a três dias o Faraó te restabelecerá no teu cargo. E pede: lembra-te de mim quando estiveres bem; fala de mim ao Faraó, para que me tire daqui, porque fui roubado da terra dos hebreus, e aqui sou inocente. O padeiro conta: levava três cestos de pão sobre a cabeça, e as aves comiam do cesto de cima. José: os três cestos são três dias; daqui a três dias o Faraó te cortará a cabeça e te pendurará num madeiro, e as aves comerão a tua carne. Ao terceiro dia, aniversário do Faraó, ele faz um banquete: restabelece o copeiro e manda enforcar o padeiro, como José dissera. “Contudo, o copeiro-mor não se lembrou de José, mas esqueceu-se dele.”",
+    "alegorico": "José na prisão entre dois condenados, um que é salvo e outro que perece, foi visto pelos Padres como figura de Cristo na cruz entre os dois ladrões (Lc 23,39-43). O pedido “lembra-te de mim” ecoa na súplica do bom ladrão: “Jesus, lembra-te de mim quando entrares no teu Reino”. O vinho e o pão dos dois sonhos evocam a Eucaristia.",
+    "moral": "Mesmo preso injustamente, José repara na tristeza dos outros e se põe a servir. Não se atribui o dom: “a interpretação pertence a Deus”. Pede ajuda com simplicidade, sem amargura. E é esquecido por quem ajudou: a ingratidão humana é uma das provas mais duras. A espera continua, mas Deus não esquece.",
+    "anagogico": "Diferente do copeiro, Cristo não esquece: ao que lhe pede “lembra-te de mim”, promete “hoje estarás comigo no paraíso”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que estais hoje mais tristes do que de costume?” “Porventura não pertence a Deus a interpretação?” “Lembra-te de mim quando estiveres bem.” “Aqui sou inocente.” “O copeiro-mor não se lembrou de José, mas esqueceu-se dele.”",
+    "meditatio_perguntas": [
+      "Mesmo nas minhas dificuldades, reparo na tristeza dos outros?",
+      "Atribuo a Deus os dons que tenho?",
+      "Como reajo quando sou esquecido por aqueles a quem ajudei?"
+    ],
+    "oratio_guia": "Senhor, que não esqueces os que te pedem “lembra-te de mim”, consola os presos e os esquecidos. Dá-me olhos para a tristeza dos outros e paciência quando a gratidão humana falhar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura não pertence a Deus a interpretação?",
+      "ref": "Gn 40,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

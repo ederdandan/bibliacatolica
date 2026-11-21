@@ -1,0 +1,49 @@
+{
+  "id": "GEN.49.1",
+  "livro": "GEN",
+  "titulo": "As bênçãos das doze tribos",
+  "secao": "José",
+  "referencia": "Gn 49,1-28",
+  "ini": {
+    "c": 49,
+    "v": 1
+  },
+  "fim": {
+    "c": 49,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "As bênçãos das doze tribos e a profecia do cetro de Judá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó chama os filhos: ajuntai-vos, para que vos anuncie o que vos há de acontecer nos últimos dias; ouvi Israel, vosso pai. Fala a cada um. Rúben, primogênito, a minha força, mas impetuoso como a água: não crescerás, porque subiste ao leito de teu pai. Simeão e Levi, irmãos, instrumentos de violência: maldito o seu furor, porque é teimoso; dividi-los-ei em Jacó. “Judá, os teus irmãos te louvarão; a tua mão estará sobre a cerviz dos teus inimigos.” Judá é um leãozinho; deita-se como leão; quem o despertará? “O cetro não será tirado de Judá, nem o chefe da sua posteridade, até que venha aquele que há de ser enviado, e ele será a expectação das nações.” Ele prende à vinha o seu jumentinho, lava no vinho a sua túnica e no sangue da uva o seu manto. Seguem Zabulon, junto ao mar; Issacar, jumento forte; Dã, que julgará o seu povo, serpente no caminho; e Jacó exclama: “A tua salvação esperarei, ó Senhor”. Gad, Aser, Neftali. José, ramo fecundo junto à fonte: os arqueiros o feriram, mas o seu arco permaneceu firme, pelas mãos do Poderoso de Jacó, o Pastor, a Pedra de Israel; as bênçãos de teu pai excedem as dos montes eternos. Benjamim, lobo voraz. “Todos estes são os chefes das doze tribos de Israel.”",
+    "alegorico": "A tradição judaica e cristã leu em 49,10 a profecia do Messias da tribo de Judá. O Apocalipse chama Cristo “o Leão da tribo de Judá, a raiz de Davi” (Ap 5,5). O jumentinho preso à videira evoca a entrada de Jesus em Jerusalém (Mt 21,2-7), e a túnica lavada “no sangue da uva”, a Paixão e o vinho eucarístico. “Expectação das nações” é título messiânico que a liturgia do Advento canta.",
+    "moral": "As palavras de Jacó não são só bênçãos: são também um juízo sobre a vida de cada filho. A impulsividade de Rúben, a violência de Simeão e Levi, têm consequências por gerações. As virtudes também: a força de Judá, a fidelidade de José, ferido mas firme pelas mãos do Poderoso. No meio das profecias, Jacó reza: “a tua salvação esperarei, Senhor”.",
+    "anagogico": "As doze tribos anunciam o povo de Deus completo, cujos nomes estão escritos nas portas da Jerusalém celeste (Ap 21,12); o cetro de Judá, o Reino eterno de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ajuntai-vos… e ouvi Israel, vosso pai.” “Judá, os teus irmãos te louvarão.” “O cetro não será tirado de Judá… até que venha aquele que há de ser enviado, e ele será a expectação das nações.” “A tua salvação esperarei, ó Senhor.” “Pelas mãos do Poderoso de Jacob.”",
+    "meditatio_perguntas": [
+      "Que virtudes e que vícios meus marcarão os que vêm depois de mim?",
+      "Espero de Deus a salvação, como Jacó no meio das suas palavras?",
+      "Reconheço Cristo como o Rei esperado pelas nações?"
+    ],
+    "oratio_guia": "Senhor, Poderoso de Jacó, Pastor e Pedra de Israel, eu espero a tua salvação. Cristo, Leão de Judá e expectação das nações, reina sobre a minha vida e sobre todos os povos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A tua salvação esperarei, ó Senhor",
+      "ref": "Gn 49,18"
+    }
+  },
+  "ancoras": {
+    "49:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico é difícil: “até que venha Siló” ou “até que venha aquele a quem pertence”. A Vulgata traduz “até que venha aquele que há de ser enviado”, com sentido messiânico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

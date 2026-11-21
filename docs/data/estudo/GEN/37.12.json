@@ -1,0 +1,49 @@
+{
+  "id": "GEN.37.12",
+  "livro": "GEN",
+  "titulo": "José vendido pelos irmãos",
+  "secao": "José",
+  "referencia": "Gn 37,12-37",
+  "ini": {
+    "c": 37,
+    "v": 12
+  },
+  "fim": {
+    "c": 37,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "José vendido pelos irmãos e o pranto de Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os irmãos apascentam o rebanho em Siquém. Jacó envia José: vai ver se teus irmãos estão bem e traze-me notícias. José os procura, perdido no campo, até encontrá-los em Dotã. Eles o veem de longe e conspiram: “Eis aí vem o sonhador; vinde, matemo-lo, lancemo-lo numa cisterna velha, e diremos: uma fera cruel o devorou; então se verá de que lhe aproveitam os seus sonhos”. Rúben quer livrá-lo: não lhe tiremos a vida; lançai-o nesta cisterna, mas não ponhais as mãos nele; pretendia devolvê-lo ao pai. Quando José chega, despem-lhe a túnica de várias cores e o lançam na cisterna, que está vazia, sem água. Sentam-se para comer. Veem uma caravana de ismaelitas que leva especiarias ao Egito. Judá diz: que ganhamos em matar o nosso irmão? Vendamo-lo, e não manchemos as mãos, porque é nosso irmão e nossa carne. “Tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos ismaelitas: estes levaram-no para o Egito.” Rúben volta à cisterna, não o encontra e rasga as vestes. Os irmãos matam um cabrito, tingem a túnica no sangue e a mandam ao pai. Jacó a reconhece: uma fera cruel devorou José. Rasga as vestes, cobre-se de cilício e chora o filho muitos dias. Recusa toda consolação: “Chorando, descerei até junto de meu filho, à morada dos mortos”. Os madianitas vendem José no Egito a Putifar, eunuco do Faraó, chefe da guarda.",
+    "alegorico": "Os paralelos com a Paixão são muitos: o filho enviado pelo pai aos irmãos (cf. a parábola dos vinhateiros, Mt 21,37-38: “este é o herdeiro; vinde, matemo-lo”), a conspiração, o despojamento da túnica (Jo 19,23), a venda por moedas de prata (Mt 26,15), a descida à cisterna sem água, figura da morte e do sepulcro, de onde José sairá.",
+    "moral": "O ódio planeja e se justifica; os irmãos comem tranquilos junto à cisterna onde jaz o irmão. Rúben tenta salvar sem enfrentar abertamente; Judá propõe um mal “menor” e lucrativo. A mentira com a túnica ensanguentada causa uma dor que dura anos. O mal feito dentro da família fere de modo profundo.",
+    "anagogico": "A cisterna sem água, de onde José é tirado vivo, anuncia o sepulcro de onde Cristo sairá e a esperança de todos os que descem à “morada dos mortos”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai e vê se teus irmãos estão bem.” “Eis aí vem o sonhador.” “Despiram-lhe a túnica de várias cores.” “Lançaram-no numa cisterna velha, que não tinha água.” “Venderam-no por vinte dinheiros de prata.” “Chorando, descerei até junto de meu filho, à morada dos mortos.”",
+    "meditatio_perguntas": [
+      "Sou capaz de “sentar-me para comer” enquanto um irmão sofre perto de mim?",
+      "Sou como Rúben, que quer salvar sem enfrentar, ou como Judá, que escolhe o mal “menor”?",
+      "Contemplo em José o Cristo vendido, despojado e lançado na morte por mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, vendido por moedas de prata e despojado das tuas vestes, perdoa os meus pecados contra os irmãos. Consola os pais que choram os filhos e transforma o mal em salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas",
+      "ref": "Gn 37,28"
+    }
+  },
+  "ancoras": {
+    "37:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto alterna “ismaelitas” e “madianitas”, provavelmente por reunir duas tradições do mesmo episódio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

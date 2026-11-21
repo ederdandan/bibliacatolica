@@ -1,0 +1,40 @@
+{
+  "id": "GEN.41.1",
+  "livro": "GEN",
+  "titulo": "Os sonhos do Faraó",
+  "secao": "José",
+  "referencia": "Gn 41,1-36",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Os sonhos do Faraó: “Não sou eu, é Deus quem dará a resposta”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dois anos depois, o Faraó sonha: está junto ao Nilo e vê sair do rio sete vacas formosas e gordas, que pastam no junco; depois sobem outras sete, feias e magras, que devoram as gordas. Acorda, dorme de novo e sonha: sete espigas cheias e belas brotam de um só caule; depois brotam sete espigas mirradas, queimadas pelo vento, que devoram as cheias. De manhã, perturbado, chama todos os magos e sábios do Egito, e ninguém sabe interpretar. Então o copeiro-mor se lembra: confesso hoje o meu pecado; havia na prisão um jovem hebreu que interpretou os nossos sonhos, e tudo aconteceu como ele disse. O Faraó manda buscar José; tiram-no do cárcere, barbeiam-no, mudam-lhe a roupa. O Faraó diz: ouvi dizer que interpretas sonhos. “José respondeu: Não sou eu, é Deus quem dará uma resposta favorável ao Faraó.” O Faraó conta os sonhos. José explica: os dois sonhos são um só; Deus mostrou ao Faraó o que vai fazer: virão sete anos de grande fartura em todo o Egito, seguidos de sete anos de tal fome que se esquecerá toda a abundância. O sonho foi repetido porque a coisa está firme da parte de Deus e se cumprirá em breve. Aconselha: escolha o Faraó um homem sábio e prudente e o ponha à frente do Egito; recolha a quinta parte das colheitas nos anos de fartura e guarde o trigo nas cidades, para a futura fome, e o país não será consumido.",
+    "alegorico": "José, tirado da prisão e revestido de roupas novas, prefigura a ressurreição de Cristo, que sai do sepulcro para a glória. A sabedoria que vem de Deus, e não dos magos do Egito, anuncia Cristo, “sabedoria de Deus” (1Cor 1,24), que revela os segredos do Pai.",
+    "moral": "O tempo de Deus não é o nosso: José espera mais dois anos. Quando chega a sua hora, não se exalta nem se vinga do esquecimento; atribui tudo a Deus. A sua sabedoria não é só espiritual: é prática, previdente, organizadora. A fé verdadeira se traduz em prudência concreta para o bem comum, sobretudo dos mais pobres em tempo de fome.",
+    "anagogico": "Os anos de fartura e de fome lembram que o tempo é breve e deve ser bem empregado: “ajuntai tesouros no céu” (Mt 6,20) enquanto é tempo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não houve quem os soubesse interpretar.” “Confesso hoje o meu pecado.” “Tiraram-no do cárcere.” “Não sou eu, é Deus quem dará uma resposta favorável a Faraó.” “A coisa está firme da parte de Deus.” “Escolha Faraó um homem sábio e prudente.”",
+    "meditatio_perguntas": [
+      "Sei esperar o tempo de Deus sem perder a esperança?",
+      "Quando chega a minha hora, dou a glória a Deus ou a mim mesmo?",
+      "A minha fé se traduz em prudência concreta e em cuidado do bem comum?"
+    ],
+    "oratio_guia": "Senhor, que tiraste José da prisão no tempo certo, dá-me paciência na espera. Que eu diga sempre “não sou eu, és tu”, e use com prudência os dons que me dás para o bem de todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não sou eu, é Deus quem dará uma resposta favorável a Faraó",
+      "ref": "Gn 41,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

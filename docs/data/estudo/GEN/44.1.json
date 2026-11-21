@@ -1,0 +1,40 @@
+{
+  "id": "GEN.44.1",
+  "livro": "GEN",
+  "titulo": "A taça e a súplica de Judá",
+  "secao": "José",
+  "referencia": "Gn 44,1-34",
+  "ini": {
+    "c": 44,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A taça de José e a súplica de Judá: “Eu ficarei em lugar do menino”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "José manda o mordomo encher os sacos de trigo, devolver o dinheiro e pôr a sua taça de prata no saco do mais novo. De manhã, os irmãos partem; José manda alcançá-los: por que pagastes o bem com o mal? Roubastes a taça do meu senhor. Eles protestam: longe de nós! Aquele com quem for encontrada, morra, e nós seremos escravos. Procuram do mais velho ao mais novo, e a taça é encontrada no saco de Benjamim. Eles rasgam as vestes e voltam à cidade. Prostram-se diante de José. “Judá disse: que responderemos ao meu senhor? Que justa desculpa poderemos apresentar? Deus encontrou a iniquidade de teus servos.” José responde: só aquele com quem foi achada a taça será meu escravo; vós, ide em paz para o vosso pai. Então Judá se aproxima e faz uma longa súplica: recorda tudo, o pai velho que ama o menino, filho da sua velhice, cujo irmão morreu; a alma do pai está ligada à alma do menino; se não o vir conosco, morrerá, e nós faremos descer os seus cabelos brancos com dor à sepultura. Eu me fiz fiador do menino junto de meu pai. “Eu ficarei teu escravo em lugar do menino, e o menino volte com os seus irmãos. Porque não posso voltar a meu pai sem o menino; não quero ser testemunha da desgraça que oprimirá meu pai.”",
+    "alegorico": "A súplica de Judá é uma das páginas mais belas do Gênesis. Judá, que antes vendeu José, oferece-se agora como escravo em lugar de Benjamim: figura de Cristo, o Leão de Judá, que toma o lugar dos culpados e se faz servo para que os irmãos voltem livres ao Pai (Fl 2,7; Mc 10,45).",
+    "moral": "José põe os irmãos na mesma situação de vinte anos antes: podem voltar livres, abandonando o filho preferido do pai. Desta vez, não o abandonam. Judá não se justifica: “Deus encontrou a nossa iniquidade”, reconhece um pecado mais antigo que o roubo da taça. E, por amor ao pai, oferece a própria liberdade. Esta é a prova da conversão: o amor que se substitui ao outro na pena.",
+    "anagogico": "Aquele que se oferece em lugar do irmão anuncia o mistério da redenção, que se consumará quando todos os resgatados voltarem à casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que pagastes o bem com o mal?” “Que justa desculpa poderemos apresentar? Deus encontrou a iniquidade de teus servos.” “A sua alma está ligada à alma do menino.” “Eu ficarei teu escravo, em lugar do menino, e o menino volte com seus irmãos.”",
+    "meditatio_perguntas": [
+      "Diante da provação, reconheço que “Deus encontrou a minha iniquidade”?",
+      "Estaria disposto a pagar a pena no lugar de outro?",
+      "Contemplo Jesus, que se ofereceu em meu lugar?"
+    ],
+    "oratio_guia": "Senhor Jesus, Leão de Judá, que te ofereceste em meu lugar para que eu voltasse livre ao Pai, converte o meu coração como converteste o de Judá. Que eu saiba dar a vida pelos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu ficarei teu escravo, em lugar do menino",
+      "ref": "Gn 44,33"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

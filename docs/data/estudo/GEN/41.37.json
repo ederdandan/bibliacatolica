@@ -1,0 +1,49 @@
+{
+  "id": "GEN.41.37",
+  "livro": "GEN",
+  "titulo": "José governador do Egito",
+  "secao": "José",
+  "referencia": "Gn 41,37-57",
+  "ini": {
+    "c": 41,
+    "v": 37
+  },
+  "fim": {
+    "c": 41,
+    "v": 57
+  },
+  "liturgia": {
+    "tema_central": "José, cheio do espírito de Deus, governa o Egito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O conselho agrada ao Faraó e aos seus ministros. O Faraó diz: “Poderemos nós encontrar um homem como este, que esteja tão cheio do espírito de Deus?” E a José: uma vez que Deus te mostrou tudo isto, não há ninguém tão sábio como tu; tu estarás à frente da minha casa, e todo o povo obedecerá à tua palavra; só o trono me fará maior que tu. Tira o anel da sua mão e o põe na mão de José, veste-o de linho fino, põe-lhe ao pescoço um colar de ouro, fá-lo subir no seu segundo carro, e um arauto grita que todos se ajoelhem diante dele. Dá-lhe o nome de “Salvador do mundo” e lhe dá por mulher Asenet, filha de Putifar, sacerdote de Heliópolis. José tem trinta anos quando se apresenta ao Faraó. Nos sete anos de fartura, a terra produz em abundância, e José ajunta trigo como a areia do mar, a ponto de deixar de medir. Antes da fome, nascem-lhe dois filhos: Manassés, “Deus me fez esquecer todos os meus trabalhos e a casa de meu pai”; e “ao segundo pôs o nome de Efraim, dizendo: Deus me fez crescer na terra da minha aflição”. Acabam os anos de fartura e começa a fome em todas as terras; no Egito há pão. O povo clama ao Faraó, que responde: “Ide a José, e fazei tudo o que ele vos disser”. José abre os celeiros e vende aos egípcios; e de toda a terra vêm ao Egito comprar trigo.",
+    "alegorico": "José exaltado depois da humilhação, revestido de glória, diante de quem todo joelho se dobra, aos trinta anos, idade em que Jesus começa a sua vida pública (Lc 3,23), e chamado “Salvador do mundo”, é figura de Cristo glorificado (Fl 2,9-11). O “ide a José, fazei o que ele vos disser” ecoa nas palavras de Maria em Caná: “fazei tudo o que ele vos disser” (Jo 2,5). A Igreja aplicou também a frase a São José, guarda do Pão do céu.",
+    "moral": "José não usa o poder para se vingar nem para enriquecer: usa-o para salvar o povo da fome. Os nomes dos filhos mostram o seu caminho interior: primeiro a cura das feridas (“Deus me fez esquecer”), depois a fecundidade “na terra da minha aflição”. Deus pode fazer frutificar precisamente o lugar onde sofremos.",
+    "anagogico": "Os celeiros abertos a todos os povos na fome anunciam a abundância do banquete eterno, onde Cristo, Pão da vida, saciará todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Poderemos nós encontrar um homem como este, que esteja tão cheio de espírito de Deus?” “Tirou o anel da sua mão e o pôs na mão de José.” “Deus me fez crescer na terra da minha aflição.” “Ide a José, e fazei tudo o que ele vos disser.”",
+    "meditatio_perguntas": [
+      "Uso o poder ou a influência que tenho para servir ou para me vingar?",
+      "Deixo Deus curar as feridas do passado (Manassés) e me tornar fecundo (Efraim)?",
+      "Que “terra da minha aflição” Deus quer tornar fecunda?"
+    ],
+    "oratio_guia": "Senhor, que fizeste José crescer na terra da sua aflição, cura as minhas feridas e torna fecundo o lugar onde sofro. Dá-me o teu Espírito para servir os que têm fome, e conduze-me a Jesus, o verdadeiro Pão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus me fez crescer, na terra da minha aflição",
+      "ref": "Gn 41,52"
+    }
+  },
+  "ancoras": {
+    "41:45": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Salvador do mundo” traduz a interpretação da Vulgata (Salvatorem mundi) para o nome egípcio dado a José, Safenat-Paneah.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

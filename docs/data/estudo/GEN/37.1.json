@@ -1,0 +1,49 @@
+{
+  "id": "GEN.37.1",
+  "livro": "GEN",
+  "titulo": "Os sonhos de José",
+  "secao": "José",
+  "referencia": "Gn 37,1-11",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Os sonhos de José e a inveja dos irmãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó habita na terra de Canaã, onde seu pai fora peregrino. “Esta é a história de Jacó.” José, aos dezesseis anos, apascenta o rebanho com os irmãos, filhos de Bala e de Zelfa, e conta ao pai a má fama deles. “Israel amava José mais que todos os seus filhos, porque o tinha gerado na velhice, e fez-lhe uma túnica de várias cores.” Os irmãos, vendo que o pai o amava mais, odeiam-no e não conseguem falar-lhe com bom modo. José tem um sonho e o conta aos irmãos: estávamos atando feixes no campo; o meu feixe se levantou e ficou de pé, e os vossos feixes, em volta, se prostraram diante do meu. Eles respondem: porventura serás tu o nosso rei? E o odeiam ainda mais. Tem outro sonho: o sol, a lua e onze estrelas se prostravam diante de mim. Conta-o ao pai e aos irmãos; o pai o repreende: que sonho é este? Porventura eu, tua mãe e teus irmãos nos prostraremos diante de ti por terra? Os irmãos têm inveja dele, “mas o pai considerava a coisa em silêncio”.",
+    "alegorico": "José, o filho amado do pai, vestido com uma túnica especial, invejado pelos irmãos, é a grande figura de Cristo no Antigo Testamento: o Filho amado do Pai (Mt 3,17), a quem os seus não receberam (Jo 1,11) e que foi entregue “por inveja” (Mt 27,18). O pai que “guarda a coisa em silêncio” lembra Maria, que “guardava todas estas coisas no seu coração” (Lc 2,19).",
+    "moral": "A preferência declarada do pai e a ingenuidade de José ao contar os sonhos alimentam a inveja; mas nada justifica o ódio. A inveja não suporta o bem do outro e cresce em palavras ásperas. Jacó, que já sofreu com as preferências na sua família, repete o erro. Diante do mistério, a atitude sábia é a do pai no fim: guardar em silêncio.",
+    "anagogico": "Os sonhos de José, que parecem absurdos, se cumprirão: Deus conduz a história até que “todo joelho se dobre” diante do Filho exaltado (Fl 2,10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Israel amava José mais que todos os seus filhos.” “Fez-lhe uma túnica de várias cores.” “Odiavam-no, e não lhe podiam falar com bom modo.” “Porventura serás tu o nosso rei?” “O pai considerava a coisa em silêncio.”",
+    "meditatio_perguntas": [
+      "Que inveja alimento contra os que parecem “preferidos”?",
+      "Sei guardar no coração, em silêncio, o que ainda não compreendo?",
+      "Que preferências injustas pratico na minha família ou comunidade?"
+    ],
+    "oratio_guia": "Senhor, livra-me da inveja que não suporta o bem do outro. Ensina-me a amar sem preferências injustas e a guardar em silêncio, como Jacó e como Maria, os sinais que ainda não entendo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ora Israel amava José mais que todos os seus (outros) filhos",
+      "ref": "Gn 37,3"
+    }
+  },
+  "ancoras": {
+    "37:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Túnica de várias cores” segue a Vulgata e a versão grega; o hebraico pode significar “túnica de mangas compridas”, veste de distinção.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

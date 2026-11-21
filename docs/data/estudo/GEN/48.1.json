@@ -1,0 +1,40 @@
+{
+  "id": "GEN.48.1",
+  "livro": "GEN",
+  "titulo": "Jacó abençoa Efraim e Manassés",
+  "secao": "José",
+  "referencia": "Gn 48,1-22",
+  "ini": {
+    "c": 48,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Jacó abençoa Efraim e Manassés com as mãos cruzadas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dizem a José que o pai está doente. José vai com os dois filhos, Manassés e Efraim. Jacó, fortalecido, senta-se na cama e diz: o Deus onipotente me apareceu em Luz, na terra de Canaã, e me abençoou. Os teus dois filhos, nascidos no Egito antes da minha vinda, serão meus, como Rúben e Simeão. Recorda Raquel, morta no caminho de Efrata. Vê os meninos: quem são estes? — São os filhos que Deus me deu aqui. — Traze-os, para que os abençoe. Os olhos de Israel estão fracos pela velhice; abraça-os e beija-os: não esperava ver o teu rosto, e Deus me fez ver até os teus filhos. José os põe diante dele: Manassés à direita de Jacó, Efraim à esquerda. Mas Jacó estende a mão direita sobre a cabeça de Efraim, o mais novo, e a esquerda sobre Manassés, cruzando as mãos, e abençoa: “O Deus em cuja presença andaram meus pais Abraão e Isaac, o Deus que me sustentou desde a minha mocidade até este dia, o Anjo que me livrou de todos os males, abençoe estes meninos”. José, vendo a mão direita sobre Efraim, quer trocá-la: não assim, pai, este é o primogênito. Jacó recusa: eu sei, meu filho, eu sei; também ele será um povo, mas o irmão mais novo será maior. E diz a José: eu morro, mas Deus estará convosco e vos reconduzirá à terra de vossos pais.",
+    "alegorico": "Os Padres viram nas mãos cruzadas de Jacó uma figura da cruz de Cristo, pela qual a bênção passa dos primeiros aos últimos, do povo mais antigo aos povos que vêm depois: “os últimos serão os primeiros” (Mt 20,16). É o tema recorrente do Gênesis: Abel, Isaac, Jacó, José, Efraim, os mais novos são escolhidos.",
+    "moral": "Jacó, que no começo da vida enganou o pai cego para ter a bênção do mais velho, agora, cego, dá conscientemente a bênção ao mais novo, mas sem engano: “eu sei, meu filho, eu sei”. A bênção dos avós e dos pais aos filhos é um gesto sagrado. Jacó relê toda a sua vida como cuidado de Deus: “o Deus que me sustentou desde a minha mocidade”.",
+    "anagogico": "“Deus estará convosco e vos reconduzirá”: a promessa ultrapassa a morte do patriarca e aponta para o regresso definitivo à pátria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não esperava ver o teu rosto, e Deus me fez ver até os teus filhos.” “O Deus em cuja presença andaram meus pais Abraão e Isaac, o Deus que me sustentou desde a minha mocidade até este dia, o Anjo que me livrou de todos os males, abençoe estes meninos.” “Eu sei, meu filho, eu sei.”",
+    "meditatio_perguntas": [
+      "Abençoo os meus filhos, netos ou os que me foram confiados?",
+      "Consigo reler a minha vida como cuidado de Deus “desde a mocidade até hoje”?",
+      "Aceito que Deus escolha os “últimos” e não siga a ordem que eu esperava?"
+    ],
+    "oratio_guia": "Deus em cuja presença andaram os meus pais, que me sustentaste desde a juventude e me livraste de todo mal, abençoa as crianças da minha família. Pela cruz do teu Filho, faze passar a tua bênção a todas as gerações. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Deus que me sustentou desde a minha mocidade até este dia",
+      "ref": "Gn 48,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

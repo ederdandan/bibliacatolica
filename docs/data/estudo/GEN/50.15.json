@@ -1,0 +1,49 @@
+{
+  "id": "GEN.50.15",
+  "livro": "GEN",
+  "titulo": "O perdão e a morte de José",
+  "secao": "José",
+  "referencia": "Gn 50,15-25",
+  "ini": {
+    "c": 50,
+    "v": 15
+  },
+  "fim": {
+    "c": 50,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“Deus o converteu em bem”: o perdão de José e a esperança do êxodo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da morte de Jacó, os irmãos de José ficam com medo: quem sabe se agora ele se lembrará da injúria que lhe fizemos e nos pagará todo o mal? Mandam-lhe dizer: teu pai, antes de morrer, ordenou que te disséssemos: rogo-te que te esqueças do pecado de teus irmãos. Nós também te pedimos que perdoes esta iniquidade aos servos do Deus de teu pai. José chora ao ouvir isto. Os irmãos vêm, prostram-se e dizem: somos teus servos. José responde: “Não temais. Porventura podemos nós resistir à vontade de Deus? Vós tivestes intenção de me fazer mal, mas Deus o converteu em bem, para me exaltar, como agora vedes, e para salvar muitos povos. Não temais: eu vos sustentarei a vós e a vossos filhinhos”. “Assim os consolou, falando-lhes com doçura e mansidão.” José habita no Egito com toda a casa de seu pai e vive cento e dez anos; vê os filhos de Efraim até a terceira geração e acolhe sobre os joelhos os filhos de Maquir, filho de Manassés. Diz aos irmãos: depois da minha morte, “Deus vos visitará e vos fará subir desta terra para a terra que jurou a Abraão, a Isaac e a Jacó”. E os faz jurar: Deus vos visitará; levai os meus ossos convosco deste lugar. José morre, é embalsamado e posto num caixão no Egito.",
+    "alegorico": "“Vós intentastes o mal, mas Deus o converteu em bem, para salvar muitos povos”: é o resumo de toda a história de José e o anúncio do mistério da cruz, em que o que os homens fizeram para matar o Justo, Deus transformou em salvação do mundo (At 2,23-24; 3,13-15). Os ossos de José, levados no êxodo (Ex 13,19), são sinal da fé na promessa e, para a Carta aos Hebreus, da fé na ressurreição (Hb 11,22).",
+    "moral": "Os irmãos ainda não acreditam no perdão: pensam que José só esperava a morte do pai para se vingar. Ele chora: dói não ser crido. E se recusa a colocar-se “no lugar de Deus” para julgar. O perdão maduro não nega o mal (“vós tivestes intenção de me fazer mal”), mas vê nele a ação maior de Deus; e não se limita a palavras: sustenta, consola, fala ao coração.",
+    "anagogico": "O Gênesis termina num caixão no Egito, mas com uma palavra de esperança: “Deus vos visitará”. A história continua no Êxodo e aponta para a visita definitiva de Deus em Cristo, que vem “visitar e redimir o seu povo” (Lc 1,68)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem sabe se ele se lembrará da injúria?” “Não temais. Porventura podemos nós resistir à vontade de Deus?” “Vós tivestes intenção de me fazer mal, mas Deus o converteu em bem.” “Assim os consolou, falando-lhes com doçura e mansidão.” “Deus vos visitará.”",
+    "meditatio_perguntas": [
+      "Coloco-me “no lugar de Deus” quando julgo e condeno?",
+      "Que mal sofrido Deus já converteu, ou pode converter, em bem?",
+      "Consolo com doçura e mansidão quem teme o meu juízo?"
+    ],
+    "oratio_guia": "Senhor, que converteste o mal em bem e a cruz em salvação, cura o meu desejo de vingança e a minha desconfiança do perdão. Ensina-me a consolar com doçura e mansidão. Visita-nos e conduze-nos à tua terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós tivestes intenção de me fazer mal, mas Deus o converteu em bem",
+      "ref": "Gn 50,20"
+    }
+  },
+  "ancoras": {
+    "50:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, a morte de José é Gn 50,26; a Vulgata tem 25 versículos neste capítulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

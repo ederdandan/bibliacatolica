@@ -1,0 +1,40 @@
+{
+  "id": "GEN.43.1",
+  "livro": "GEN",
+  "titulo": "A segunda viagem, com Benjamim",
+  "secao": "José",
+  "referencia": "Gn 43,1-34",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A segunda viagem: Judá se responsabiliza e José chora por Benjamim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A fome aperta, e o trigo acaba. Jacó diz: voltai e comprai um pouco de alimento. Judá lembra: o homem nos disse que não veríamos a sua face sem o irmão mais novo. Jacó se lamenta: por que me fizestes este mal, dizendo que tínheis outro irmão? Judá diz ao pai: deixa o menino ir comigo, para que vivamos e não morramos, nós, tu e os nossos filhinhos. “Eu me encarrego do menino; da minha mão o reclamarás; se não o trouxer, serei réu de pecado contra ti para sempre.” Jacó cede: levai ao homem presentes, bálsamo, mel, especiarias, mirra, terebinto, amêndoas, e o dobro do dinheiro; e levai também o vosso irmão. “O meu Deus onipotente vo-lo torne propício; quanto a mim, se me hei de ver privado de meus filhos, seja!” Descem ao Egito. José, vendo Benjamim, manda preparar um banquete em sua casa. Os irmãos têm medo: é por causa do dinheiro. Explicam ao mordomo, que os tranquiliza: o vosso Deus vos deu um tesouro nos sacos; e traz-lhes Simeão. José chega; eles se prostram e oferecem os presentes. Ele pergunta: o vosso pai, de quem me falastes, ainda vive? Vê Benjamim, filho da sua mãe: Deus tenha compaixão de ti, meu filho. “Então apressou-se a retirar-se, porque o seu íntimo se tinha comovido por causa de seu irmão; procurando onde chorar, entrou no seu quarto e aí chorou.” Lava o rosto, contém-se, e manda servir. Os irmãos são sentados por ordem de idade, para seu espanto; a porção de Benjamim é cinco vezes maior. Bebem e se alegram com ele.",
+    "alegorico": "Judá, que se oferece como garantia pela vida do irmão, é figura de Cristo, da tribo de Judá, que se fez “fiador de uma aliança melhor” (Hb 7,22). O banquete em que José, ainda não reconhecido, alimenta os irmãos, é imagem da Eucaristia, em que Cristo nos sustenta antes de o vermos face a face.",
+    "moral": "Judá, que antes propôs vender José, agora assume a responsabilidade pela vida de Benjamim: a conversão começa a mostrar frutos. Jacó, depois de muita resistência, entrega o filho nas mãos de Deus: “se me hei de ver privado de meus filhos, seja”. José, poderoso, chora escondido: a autoridade não lhe tirou a ternura.",
+    "anagogico": "O banquete na casa de José, onde os irmãos se alegram juntos, antecipa a ceia do Reino, onde Cristo reunirá os irmãos reconciliados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu me encarrego do menino; da minha mão o reclamarás.” “O meu Deus omnipotente vo-lo torne propício.” “Se me hei de ver privado de meus filhos, seja!” “O seu íntimo se tinha comovido por causa de seu irmão… entrou no seu quarto e aí chorou.”",
+    "meditatio_perguntas": [
+      "Assumo a responsabilidade pela vida dos meus irmãos, como Judá?",
+      "Sou capaz de entregar a Deus o que mais temo perder?",
+      "A responsabilidade e o poder me tornaram duro, ou conservo a ternura?"
+    ],
+    "oratio_guia": "Senhor, Deus onipotente, toma em tuas mãos os que eu amo e que mais temo perder. Dá-me assumir a responsabilidade pelos meus irmãos e conservar um coração terno como o de José. Amém.",
+    "contemplatio_foco": {
+      "texto": "o seu íntimo se tinha comovido por causa de seu irmão",
+      "ref": "Gn 43,30"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

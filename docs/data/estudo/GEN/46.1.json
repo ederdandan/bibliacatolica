@@ -1,0 +1,49 @@
+{
+  "id": "GEN.46.1",
+  "livro": "GEN",
+  "titulo": "Jacó desce ao Egito",
+  "secao": "José",
+  "referencia": "Gn 46,1-34",
+  "ini": {
+    "c": 46,
+    "v": 1
+  },
+  "fim": {
+    "c": 46,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Jacó desce ao Egito: “Eu descerei contigo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel parte com tudo o que tem e chega a Bersabeia, onde oferece sacrifícios ao Deus de seu pai Isaac. Deus lhe fala numa visão noturna: “Jacó, Jacó!” — “Eis-me aqui.” — “Eu sou o Deus fortíssimo de teu pai; não temas, desce ao Egito, porque lá farei de ti uma grande nação. Eu descerei contigo para lá, e eu mesmo te reconduzirei de lá; José porá as suas mãos sobre os teus olhos.” Jacó parte de Bersabeia; os filhos o levam com os pequenos e as mulheres nos carros enviados pelo Faraó, com o gado e os bens adquiridos em Canaã. Segue a lista dos filhos de Israel que entram no Egito, os filhos de Lia, de Zelfa, de Raquel e de Bala: ao todo, setenta pessoas da casa de Jacó. Jacó envia Judá adiante, para preparar o caminho até Gessém. José atrela o seu carro e sobe ao encontro do pai; ao vê-lo, lança-se ao seu pescoço e chora longamente abraçado a ele. “O pai disse a José: Agora morrerei contente, porque vi a tua face e tu ainda vives.” José prepara os irmãos para a audiência com o Faraó: dizei que sois pastores, para que vos deixem habitar em Gessém, porque os egípcios detestam os pastores.",
+    "alegorico": "“Eu descerei contigo”: Deus que desce com o seu povo à terra da escravidão anuncia a Encarnação, em que Deus desce até nós, e a descida de Cristo até a morte, de onde nos “reconduz” na Ressurreição. As setenta pessoas são figura das setenta nações da humanidade, que em Cristo formarão um só povo.",
+    "moral": "Antes de uma grande mudança, Jacó para, reza e oferece sacrifícios. Deus o chama pelo nome, como a Abraão e a Moisés, e lhe dá três garantias: não temas, eu descerei contigo, eu te farei voltar. O reencontro com José dá sentido à velhice de Jacó. A prudência de José prepara com cuidado a acolhida da família.",
+    "anagogico": "“José porá as suas mãos sobre os teus olhos”: o filho fechará os olhos do pai; e Deus, que desce conosco, nos fará “subir” na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jacob, Jacob!” “Eis-me aqui.” “Não temas, vai para o Egito.” “Eu descerei contigo para lá, e eu mesmo te reconduzirei de lá.” “Lançou-se-lhe ao pescoço e, abraçado com ele, chorou.” “Agora morrerei contente, porque vi a tua face e tu vives ainda.”",
+    "meditatio_perguntas": [
+      "Que “descida” difícil Deus me pede neste tempo?",
+      "Quando Ele me chama pelo nome, respondo “eis-me aqui”?",
+      "Creio que Deus desce comigo e me fará voltar?"
+    ],
+    "oratio_guia": "Deus de meus pais, que desces comigo e me fazes voltar, chama-me pelo nome; eis-me aqui. Acompanha-me nas descidas da vida e concede-me, no fim, ver a face daqueles que amo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Agora morrerei contente, porque vi a tua face e tu vives ainda",
+      "ref": "Gn 46,30"
+    }
+  },
+  "ancoras": {
+    "46:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A versão grega e Atos 7,14 falam em setenta e cinco pessoas, contando outros descendentes de José.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

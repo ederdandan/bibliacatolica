@@ -1,0 +1,40 @@
+{
+  "id": "GEN.45.1",
+  "livro": "GEN",
+  "titulo": "Eu sou José",
+  "secao": "José",
+  "referencia": "Gn 45,1-28",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "“Eu sou José, vosso irmão”: o perdão que revela a providência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "José não consegue mais conter-se diante dos que estão presentes e manda sair todos. Sozinho com os irmãos, dá-se a conhecer, chorando tão alto que os egípcios e a casa do Faraó o ouvem. “Eu sou José. O meu pai ainda vive?” Os irmãos não conseguem responder, de tanto terror. Ele diz com doçura: “Aproximai-vos de mim”. Eles se aproximam. “Eu sou José, vosso irmão, a quem vendestes para o Egito. Não temais, nem vos pareça coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós.” Há dois anos que começou a fome, e restam cinco; Deus me enviou adiante para vos conservar a vida. “Não foi por vosso conselho que fui mandado para aqui, mas por vontade de Deus.” Ide depressa ao meu pai e dizei-lhe: Deus me fez senhor de todo o Egito; desce a mim, sem demora; habitarás na terra de Gessém, perto de mim, tu, os teus filhos e os teus rebanhos, e eu te sustentarei. Lança-se ao pescoço de Benjamim e chora, e Benjamim chora também. Beija todos os irmãos e chora sobre cada um; e então eles se atrevem a falar-lhe. O Faraó, alegre, oferece carros e o melhor do Egito. José despede os irmãos com presentes e recomenda: “Não vos irriteis no caminho”. Eles contam a Jacó: José vive e é governador do Egito. O coração do velho permanece frio, sem crer, até ver os carros; então o seu espírito revive: “Basta-me que José, meu filho, ainda viva; irei e vê-lo-ei antes de morrer”.",
+    "alegorico": "Cristo ressuscitado se manifesta aos discípulos que o tinham abandonado: “Sou eu mesmo” (Lc 24,39); não os acusa, mas lhes dá a paz e mostra que a sua Paixão estava no plano do Pai para a salvação de muitos (Lc 24,26; At 2,23). O pai que “revive” ao saber que o filho está vivo anuncia a alegria da Páscoa.",
+    "moral": "O perdão de José não nega o mal (“a quem vendestes”), mas o lê à luz da providência. Ele não se contenta em perdoar: liberta os irmãos da culpa (“não vos aflijais”), aproxima-os (“chegai-vos a mim”), chora com eles e cuida do futuro deles. E conhece o coração humano: “não vos irriteis no caminho”, porque as acusações mútuas poderiam reacender-se.",
+    "anagogico": "O reencontro de toda a família, quando o pai “revive”, anuncia a alegria do reencontro de todos os filhos na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou José. O meu pai ainda vive?” “Aproximai-vos de mim.” “Eu sou José, vosso irmão, a quem vós vendestes para o Egito.” “Para vossa salvação me mandou Deus adiante de vós.” “Não vos irriteis no caminho.” “Basta-me que José, meu filho, ainda viva.”",
+    "meditatio_perguntas": [
+      "A quem preciso dizer, depois de uma ferida: “aproximai-vos de mim”?",
+      "Consigo ler as feridas da minha vida à luz da providência de Deus?",
+      "O meu perdão liberta o outro da culpa, ou o mantém em dívida?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te manifestas aos que te abandonaram e lhes dás a paz, ensina-me o perdão de José. Que eu veja a tua providência até no mal que sofri e saiba dizer aos que me feriram: aproximai-vos de mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "para vossa salvação me mandou Deus adiante de vós",
+      "ref": "Gn 45,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

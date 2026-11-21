@@ -1,0 +1,49 @@
+{
+  "id": "GEN.47.1",
+  "livro": "GEN",
+  "titulo": "Jacó diante do Faraó; a fome",
+  "secao": "José",
+  "referencia": "Gn 47,1-31",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Jacó diante do Faraó: “Poucos e trabalhosos foram os dias da minha peregrinação”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "José apresenta ao Faraó cinco dos seus irmãos, que dizem ser pastores e pedem para habitar em Gessém; o Faraó concede e diz a José: se houver entre eles homens capazes, põe-nos à frente do meu gado. Depois José apresenta o pai ao Faraó, e Jacó o abençoa. O Faraó pergunta: quantos são os dias dos anos da tua vida? Jacó responde: “Os dias da minha peregrinação são cento e trinta anos; poucos e trabalhosos, não chegaram aos dias da peregrinação de meus pais”. E abençoa de novo o Faraó e sai. José dá ao pai e aos irmãos uma propriedade na melhor terra, Ramessés, e os sustenta. A fome aperta; os egípcios e cananeus gastam todo o dinheiro comprando trigo; depois entregam os rebanhos; depois as terras e a si mesmos: compra-nos, a nós e às nossas terras, em troca de pão; seremos servos do Faraó, contanto que vivamos. José compra toda a terra do Egito para o Faraó, menos a dos sacerdotes, dá sementes ao povo e fixa um tributo: a quinta parte da colheita para o Faraó, e o resto para eles. O povo responde: deste-nos a vida. Israel habita em Gessém, cresce e multiplica-se. Jacó vive ainda dezessete anos no Egito. Perto de morrer, chama José e o faz jurar, pondo a mão sob a sua coxa, que não o sepultará no Egito, mas com os seus pais. José jura, e Israel se inclina sobre a cabeceira da cama, adorando a Deus.",
+    "alegorico": "O velho patriarca que abençoa o Faraó mostra que o menor abençoa o maior quando é portador da bênção de Deus (Hb 7,7). A Carta aos Hebreus recorda Jacó, que “pela fé… adorou inclinado sobre a ponta do seu bastão” (Hb 11,21), esperando a pátria.",
+    "moral": "Jacó resume a vida como “peregrinação”, de dias poucos e trabalhosos: um olhar humilde e verdadeiro, sem amargura. A política de José salva a vida do povo, mas à custa da sua liberdade: o texto nos faz pensar sobre o preço da segurança e sobre a concentração de poder. Jacó não quer ser sepultado no Egito: o seu coração permanece na terra prometida.",
+    "anagogico": "Jacó, peregrino que pede para ser levado à terra dos pais, testemunha que o crente vive à espera de uma pátria melhor, a celeste (Hb 11,13-16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jacob abençoou a Faraó.” “Os dias da minha peregrinação são cento e trinta anos; poucos e trabalhosos.” “Deste-nos a vida.” “Não me sepultes no Egito.” “Israel adorou a Deus, voltando-se para a cabeceira do leito.”",
+    "meditatio_perguntas": [
+      "Vejo a minha vida como peregrinação rumo a Deus?",
+      "Que preço estou disposto a pagar pela minha segurança, e ele é justo?",
+      "Onde está, de fato, o meu coração: no Egito ou na terra prometida?"
+    ],
+    "oratio_guia": "Senhor, que acompanhaste Jacó nos dias da sua peregrinação, acompanha também os meus. Dá-me abençoar até os poderosos e conservar o coração voltado para a pátria que me preparas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os dias da minha peregrinação são cento e trinta anos; poucos e trabalhosos",
+      "ref": "Gn 47,9"
+    }
+  },
+  "ancoras": {
+    "47:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata e a versão grega leem “adorou a extremidade do seu bastão”; o hebraico, “inclinou-se sobre a cabeceira do leito”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "GEN.38.1",
+  "livro": "GEN",
+  "titulo": "Judá e Tamar",
+  "secao": "José",
+  "referencia": "Gn 38,1-30",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Judá e Tamar: “Ela é mais justa do que eu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judá se separa dos irmãos e se estabelece junto a um homem de Odolam; casa com a filha de um cananeu, que lhe dá três filhos: Her, Onã e Sela. Judá dá a Her uma mulher chamada Tamar. Her é mau aos olhos do Senhor e morre. Judá diz a Onã: une-te à mulher de teu irmão e dá-lhe descendência. Onã, sabendo que os filhos não seriam seus, frustra a união e evita dar descendência ao irmão; o que faz desagrada ao Senhor, e ele também morre. Judá diz a Tamar: fica viúva em casa de teu pai até Sela crescer; mas teme que também este morra. Passa o tempo; Sela cresce e Tamar não lhe é dada. Ao saber que o sogro sobe a Timna para tosquiar as ovelhas, Tamar tira as vestes de viúva, cobre-se com um véu e se senta na entrada de Enaim. Judá a toma por prostituta, sem a reconhecer, e se une a ela; promete um cabrito e deixa como penhor o seu anel, o cordão e o bastão. Depois manda o cabrito, mas a mulher não é encontrada. Três meses depois, dizem a Judá: Tamar se prostituiu e está grávida. Judá ordena: tirai-a para fora e seja queimada. Ela manda dizer: “Estou grávida do homem a quem estas coisas pertencem; reconhece de quem é este anel, este cordão e este bastão”. Judá os reconhece e diz: “Ela é mais justa do que eu, porque não a dei a meu filho Sela”. Tamar dá à luz gêmeos, Farés e Zara.",
+    "alegorico": "Tamar é uma das quatro mulheres mencionadas na genealogia de Jesus (Mt 1,3), ao lado de Raab, Rute e Betsabé: Deus escreve a história da salvação também através de mulheres estrangeiras, marginalizadas e de histórias irregulares. O Messias assume a história humana real, com as suas sombras.",
+    "moral": "Judá é rápido para condenar a mulher à morte e lento para ver o próprio pecado: a injustiça de não lhe dar Sela e a sua própria conduta. Mas, diante da evidência, tem a coragem de reconhecer publicamente: “ela é mais justa do que eu”. Este é o começo da sua conversão, que culminará na oferta de si mesmo por Benjamim. Tamar luta pelo direito da viúva, que a família lhe negava.",
+    "anagogico": "Farés, que “rompe” na frente, será antepassado de Davi e de Cristo: Deus conduz a promessa através de todas as fragilidades até a sua plenitude."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Judá… separou-se de seus irmãos.” “Fica viúva em casa de teu pai.” “Tirai-a para fora e seja queimada.” “Reconhece de quem é este anel, este cordão e este bastão.” “Ela é mais justa do que eu.”",
+    "meditatio_perguntas": [
+      "Sou rápido para condenar os outros e lento para ver os meus pecados?",
+      "Tenho a coragem de reconhecer publicamente: “ela é mais justa do que eu”?",
+      "Defendo os direitos das viúvas e dos que a família abandona?"
+    ],
+    "oratio_guia": "Senhor, que inscreveste Tamar na genealogia do teu Filho, dá-me a humildade de reconhecer as minhas injustiças e a coragem de confessá-las. Escreve reto com as linhas tortas da minha história. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ela é mais justa do que eu",
+      "ref": "Gn 38,26"
+    }
+  },
+  "ancoras": {
+    "38:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei do levirato (Dt 25,5-10) obrigava o cunhado a dar descendência ao irmão falecido; Onã recusa esse dever.",
+        "origem": "ia"
+      }
+    },
+    "38:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Farés significa “brecha”, “ruptura”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

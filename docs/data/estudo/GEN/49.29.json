@@ -1,0 +1,40 @@
+{
+  "id": "GEN.49.29",
+  "livro": "GEN",
+  "titulo": "A morte e a sepultura de Jacó",
+  "secao": "José",
+  "referencia": "Gn 49,29–50,14",
+  "ini": {
+    "c": 49,
+    "v": 29
+  },
+  "fim": {
+    "c": 50,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A morte e a sepultura de Jacó: o filho que chora o pai",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jacó ordena aos filhos: vou unir-me ao meu povo; sepultai-me com meus pais na caverna dupla do campo de Efron, o hitita, diante de Mambré, que Abraão comprou: ali sepultaram Abraão e Sara, Isaac e Rebeca, e ali também sepultei Lia. Acabando de dar estas instruções, recolhe os pés no leito, morre e é reunido ao seu povo. “José, vendo isto, lançou-se sobre o rosto do pai, chorando e beijando-o.” Manda aos médicos que embalsamem o pai; gastam quarenta dias, e o Egito o chora setenta dias. Terminado o luto, José pede licença ao Faraó para sepultar o pai em Canaã, como jurara; o Faraó concede. Sobe com ele um grande cortejo: os servos do Faraó, os anciãos do Egito, toda a casa de José, os irmãos, carros e cavaleiros; ficam em Gessém só as crianças e os rebanhos. Na eira de Atad, além do Jordão, fazem um grande e solene pranto de sete dias; os cananeus, ao ver, dizem: grande pranto é este dos egípcios. Os filhos fazem como Jacó lhes mandara: levam-no à terra de Canaã e o sepultam na caverna dupla. “José, sepultado seu pai, voltou para o Egito com seus irmãos e toda a comitiva.”",
+    "alegorico": "A procissão fúnebre que sobe do Egito para Canaã antecipa o êxodo do povo e é figura da Igreja que acompanha os seus defuntos com a oração, levando-os, na esperança, à “terra dos vivos”. A sepultura de Jacó com os pais, na terra prometida, é profissão de fé na promessa.",
+    "moral": "A dor de José é intensa e sem pudor: lança-se sobre o rosto do pai, chora, beija. O luto tem o seu tempo, os seus ritos, a sua comunidade. José cumpre fielmente a última vontade do pai, ainda que custosa. Honrar os pais inclui cuidar deles na morte e respeitar os seus desejos.",
+    "anagogico": "Ser “reunido ao seu povo” é expressão da esperança de comunhão com os antepassados na fé; a Igreja a ilumina com a fé na ressurreição da carne."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vou unir-me ao meu povo: sepultai-me com meus pais.” “Recolheu os seus pés sobre o leito e morreu.” “José, vendo isto, lançou-se sobre o rosto do pai, chorando e beijando-o.” “Fizeram ali um grande e solene pranto.”",
+    "meditatio_perguntas": [
+      "Como vivo e acompanho o luto, meu e dos outros?",
+      "Cumpro com fidelidade os desejos justos dos meus pais e antepassados?",
+      "Rezo pelos meus mortos e creio na ressurreição?"
+    ],
+    "oratio_guia": "Senhor, consola os que choram os seus pais. Recebe os nossos defuntos na tua paz e reúne-os ao teu povo. Dá-me ser fiel aos que me precederam e viver na esperança da ressurreição. Amém.",
+    "contemplatio_foco": {
+      "texto": "José, vendo isto, lançou-se sobre o rosto do pai, chorando e beijando-o",
+      "ref": "Gn 50,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}
