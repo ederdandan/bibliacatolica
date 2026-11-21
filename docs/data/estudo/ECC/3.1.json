@@ -1,0 +1,40 @@
+{
+  "id": "ECC.3.1",
+  "livro": "ECC",
+  "titulo": "Todas as coisas têm o seu tempo",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 3,1-22",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Deus fez tudo belo no seu tempo e pôs a eternidade no coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Todas as coisas têm o seu tempo”: tempo de nascer e de morrer, de plantar e de arrancar, de matar e de curar, de chorar e de rir, de abraçar e de se afastar, de calar e de falar, de amar e de odiar, de guerra e de paz. Deus fez tudo bom no seu tempo e pôs no coração do homem o sentido da eternidade, sem que ele possa compreender toda a sua obra. O que Deus faz permanece; ele age para que os homens o temam. O autor vê injustiça no lugar do juízo e pensa: Deus julgará o justo e o ímpio. Homem e animal parecem ter o mesmo fim; quem sabe se o espírito do homem sobe?",
+    "alegorico": "Cristo é a “hora” por excelência (Jo 2,4; 13,1), o tempo pleno (Gl 4,4) em que Deus fez novas todas as coisas. A eternidade posta no coração é o desejo de Deus que só Ele sacia.",
+    "moral": "Sabedoria é discernir o tempo de cada coisa: nem tudo se faz sempre, nem tudo se faz agora. Aceitar os ritmos da vida, mesmo os dolorosos, é confiar Àquele que faz tudo belo no seu tempo.",
+    "anagogico": "O “sentido da eternidade” no coração é a semente do desejo da vida eterna; e a pergunta sobre o espírito que sobe recebe a resposta da Ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todas as coisas têm o seu tempo.” “Tempo de chorar e tempo de rir, tempo de calar e tempo de falar.” “Todas as coisas que Deus fez são boas, no seu tempo. Além disso, pôs no seu coração a duração inteira.”",
+    "meditatio_perguntas": [
+      "Que “tempo” estou vivendo agora? Aceito-o?",
+      "Sei discernir o tempo de calar e o de falar?",
+      "Escuto o desejo de eternidade no meu coração?"
+    ],
+    "oratio_guia": "Senhor do tempo, que fazes tudo belo na sua hora, ensina-me a viver cada estação da minha vida. Sacia o desejo de eternidade que puseste no meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todas as coisas que Deus fez são boas, no seu tempo",
+      "ref": "Ecl 3,11"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

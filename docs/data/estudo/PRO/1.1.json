@@ -1,0 +1,40 @@
+{
+  "id": "PRO.1.1",
+  "livro": "PRO",
+  "titulo": "O temor do Senhor é o princípio da sabedoria",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 1,1-33",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "O temor do Senhor, princípio da sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os Provérbios de Salomão servem para conhecer a sabedoria e a disciplina, adquirir prudência, justiça e retidão; dão sagacidade aos simples e ciência aos jovens. Lema do livro: “O temor do Senhor é o princípio da sabedoria”. O pai adverte o filho: escuta a instrução do teu pai, não desprezes a lei da tua mãe; se os pecadores te convidarem a armar ciladas e a enriquecer com sangue, não vás com eles: armam laços contra si mesmos. A Sabedoria clama nas praças: até quando, ingênuos, amareis a ingenuidade? Eu vos chamei e recusastes; quando vier a angústia, rirei. Quem me escuta habitará em segurança.",
+    "alegorico": "A Sabedoria que clama nas praças é figura de Cristo, que ensina publicamente e chama a todos; rejeitá-lo é escolher a própria ruína (Mt 23,37).",
+    "moral": "O temor do Senhor não é medo servil, mas reverência amorosa que ordena a vida. A educação começa em casa, pela palavra do pai e da mãe. As más companhias que prometem lucro fácil levam à destruição.",
+    "anagogico": "“Quem me escuta habitará em segurança, sem temor do mal”: a segurança definitiva de quem ouviu a Sabedoria é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O temor do Senhor é o princípio da sabedoria.” “Ouve, meu filho, a instrução de teu pai, e não desprezes a lei de tua mãe.” “Meu filho, se os pecadores te quiserem atrair, não condescendas com eles.” “A sabedoria clama nas praças.”",
+    "meditatio_perguntas": [
+      "O temor de Deus é o princípio das minhas decisões?",
+      "Honro a instrução recebida dos meus pais?",
+      "Escuto a Sabedoria que me chama nas “praças” da vida?"
+    ],
+    "oratio_guia": "Senhor, dá-me o santo temor, princípio da sabedoria. Que eu escute a tua voz que clama nas praças e não me deixe arrastar pelos que buscam o lucro injusto. Amém.",
+    "contemplatio_foco": {
+      "texto": "O temor do Senhor é o princípio da sabedoria",
+      "ref": "Pr 1,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

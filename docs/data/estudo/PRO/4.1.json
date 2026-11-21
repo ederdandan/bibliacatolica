@@ -1,0 +1,40 @@
+{
+  "id": "PRO.4.1",
+  "livro": "PRO",
+  "titulo": "Guarda o teu coração: a vereda dos justos é luz",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 4,1-27",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Guardar o coração: o caminho dos justos é luz crescente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O pai transmite o que ouviu do seu próprio pai: adquire a sabedoria, adquire a prudência; não a abandones e ela te guardará; ama-a e ela te protegerá. Ensinei-te o caminho da sabedoria; não entres na vereda dos ímpios, que não dormem se não fizeram o mal. “A vereda dos justos é como a luz da aurora, que vai crescendo até o dia pleno”; o caminho dos ímpios é tenebroso. Meu filho, guarda as minhas palavras: são vida e saúde. “Guarda o teu coração com todo o cuidado, porque dele procede a vida.” Afasta a boca perversa; os teus olhos olhem para a frente; pondera os teus passos.",
+    "alegorico": "A luz da aurora que cresce até o dia pleno é imagem de Cristo, Sol nascente, e da vida cristã que progride de claridade em claridade (2Cor 3,18).",
+    "moral": "A fé se transmite de geração em geração. A vida moral se decide no coração: guardar pensamentos, desejos, olhos e palavras. A santidade é progressiva, como a aurora.",
+    "anagogico": "O “dia pleno” para o qual cresce a vereda do justo é o dia eterno, em que não haverá mais noite."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Adquire a sabedoria, adquire a prudência.” “A vereda dos justos é como a luz da aurora, que vai crescendo até ao dia pleno.” “Guarda o teu coração com todo o cuidado, porque dele procede a vida.”",
+    "meditatio_perguntas": [
+      "Que sabedoria recebi dos meus pais e transmito aos que vêm depois?",
+      "Guardo o meu coração do que o envenena?",
+      "A minha vida espiritual cresce como a aurora?"
+    ],
+    "oratio_guia": "Senhor, guarda o meu coração, de onde procede a vida. Que a minha vereda seja como a aurora que cresce até o dia pleno, e que eu transmita a sabedoria que recebi. Amém.",
+    "contemplatio_foco": {
+      "texto": "A vereda dos justos é como a luz da aurora, que vai crescendo até ao dia pleno",
+      "ref": "Pr 4,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

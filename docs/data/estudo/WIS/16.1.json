@@ -1,0 +1,49 @@
+{
+  "id": "WIS.16.1",
+  "livro": "WIS",
+  "titulo": "A palavra que cura e o pão dos anjos",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 16,1-29",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "A palavra que cura e o pão vindo do céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor contrasta o castigo do Egito com os benefícios a Israel. Os egípcios foram atormentados por animais; Israel, mordido pelas serpentes no deserto, foi curado olhando o sinal de salvação; “não foi erva nem remédio que os sarou, mas a tua palavra, Senhor, que sara todas as coisas”. Tu tens poder sobre a vida e a morte. Os egípcios foram castigados com granizo e fogo; ao teu povo deste “o alimento dos anjos, pão vindo do céu”, com todo sabor, adaptado ao gosto de cada um. A criação serve ao Criador para castigar os injustos e beneficiar os que confiam. É preciso antecipar-se ao sol para te dar graças.",
+    "alegorico": "A serpente de bronze é figura de Cristo levantado na cruz (Jo 3,14). O “pão dos anjos” que tem todo sabor é cantado na liturgia do Corpus Christi como figura da Eucaristia: “Panem de caelo praestitisti eis, omne delectamentum in se habentem”.",
+    "moral": "A cura vem da palavra de Deus, mais que de remédios humanos (sem desprezá-los). A Eucaristia é alimento que se adapta a cada um; e a gratidão deve madrugar: “antecipar-se ao sol para te dar graças”.",
+    "anagogico": "O pão do céu que tem todas as delícias antecipa o banquete eterno; a palavra que tem poder sobre a vida e a morte ressuscitará os mortos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não foi erva que os sarou, nem remédio algum, mas sim a tua palavra, Senhor, que sara todas as coisas.” “Alimentaste o teu povo com alimento dos anjos… pão vindo do céu.” “É preciso antecipar-se ao sol para te dar graças.”",
+    "meditatio_perguntas": [
+      "Busco cura na palavra de Deus?",
+      "Recebo a Eucaristia como pão do céu com todo sabor?",
+      "Madrugo para dar graças?"
+    ],
+    "oratio_guia": "Senhor, cuja palavra sara todas as coisas, cura-me. Obrigado pelo pão do céu, que tem em si todas as delícias. Que eu me antecipe ao sol para te dar graças. Amém.",
+    "contemplatio_foco": {
+      "texto": "a tua palavra, Senhor, que sara todas as coisas",
+      "ref": "Sb 16,12"
+    }
+  },
+  "ancoras": {
+    "16:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Origem do versículo “Panem de caelo praestitisti eis” da bênção eucarística.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

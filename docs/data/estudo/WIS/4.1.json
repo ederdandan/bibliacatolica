@@ -1,0 +1,40 @@
+{
+  "id": "WIS.4.1",
+  "livro": "WIS",
+  "titulo": "A morte prematura do justo",
+  "secao": "O destino do justo e do ímpio",
+  "referencia": "Sb 4,1-20",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A maturidade do justo não se mede pelos anos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Mais vale ser sem filhos com virtude: a memória da virtude é imortal, coroada para sempre. A descendência dos ímpios não lançará raízes profundas. O justo, ainda que morra prematuramente, estará em descanso: a velhice venerável não é a dos muitos anos; a prudência é cabelo branco, e a vida sem mancha é longa idade. Ele agradou a Deus e foi amado; foi arrebatado para que a malícia não lhe mudasse o entendimento. “Chegado em pouco tempo à perfeição, viveu uma larga vida.” Os povos viram e não entenderam. Os ímpios, no fim, serão confundidos.",
+    "alegorico": "O justo arrebatado cedo recorda Henoc (Gn 5,24), e ilumina a morte de tantos santos jovens e mártires; sobretudo Cristo, que em poucos anos “consumou” a obra (Jo 19,30).",
+    "moral": "O valor de uma vida não está na duração, mas na santidade. Texto de consolação diante da morte de jovens: Deus não rouba, colhe o fruto maduro.",
+    "anagogico": "O justo que morre cedo já entrou no repouso; a sua vida “completa” anuncia a medida plena de Cristo a que todos chegaremos (Ef 4,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O justo, ainda que seja acometido pela morte prematura, estará em descanso.” “A velhice venerável não é a de longos anos.” “Chegado em pouco tempo à perfeição, viveu uma larga vida.”",
+    "meditatio_perguntas": [
+      "Meço a vida pela quantidade de anos ou pela qualidade do amor?",
+      "Como olho a morte de jovens à luz da fé?",
+      "O que me falta para “chegar à perfeição”?"
+    ],
+    "oratio_guia": "Senhor, que colhes os teus justos no tempo certo, consola os que choram mortes prematuras. Dá-me viver cada dia de modo pleno, para que a minha vida seja longa diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Chegado em pouco tempo à perfeição, viveu uma larga vida",
+      "ref": "Sb 4,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

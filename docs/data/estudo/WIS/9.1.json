@@ -1,0 +1,40 @@
+{
+  "id": "WIS.9.1",
+  "livro": "WIS",
+  "titulo": "Oração de Salomão pela sabedoria",
+  "secao": "Elogio da Sabedoria",
+  "referencia": "Sb 9,1-19",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Oração pela sabedoria que está junto do trono de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Deus de meus pais e Senhor de misericórdia, que fizeste tudo pela tua palavra”, e formaste o homem pela tua sabedoria para governar o mundo com santidade e justiça, “dá-me a sabedoria que está sentada contigo no teu trono”. Sou teu servo, frágil, de vida breve; mesmo o mais perfeito nada vale sem a sabedoria. Envia-a do céu, para que esteja comigo e trabalhe comigo. Quem conhece o teu desígnio, se tu não dás a sabedoria e não envias do alto o teu Santo Espírito? Os pensamentos dos mortais são tímidos; o corpo corruptível pesa sobre a alma. Assim, pela sabedoria, foram salvos os que te agradaram.",
+    "alegorico": "A sabedoria “sentada no trono” de Deus e “enviada do céu” anuncia o Verbo enviado pelo Pai e o Espírito Santo, enviado do alto: o mistério da Trindade se entrevê.",
+    "moral": "Modelo de oração humilde para quem tem responsabilidades: reconhecer a própria fragilidade e pedir a Deus luz para governar e decidir. Sem sabedoria, até o mais capaz nada vale.",
+    "anagogico": "O corpo corruptível que pesa sobre a alma será revestido de incorruptibilidade; então conheceremos o desígnio de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus de meus pais e Senhor de misericórdia.” “Dá-me aquela sabedoria que está sentada contigo no teu trono.” “Quem conhecerá o teu desígnio, se tu não lhe dás a sabedoria e não envias o teu Santo Espírito?”",
+    "meditatio_perguntas": [
+      "Peço sabedoria antes de decisões importantes?",
+      "Reconheço que a minha razão é tímida e precisa de luz?",
+      "Que responsabilidade preciso entregar a Deus nesta oração?"
+    ],
+    "oratio_guia": "Deus de meus pais e Senhor de misericórdia, dá-me a sabedoria que está junto do teu trono. Envia o teu Santo Espírito, para que eu conheça o que te agrada. Amém.",
+    "contemplatio_foco": {
+      "texto": "dá-me aquela sabedoria, que está sentada contigo no teu trono",
+      "ref": "Sb 9,4"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

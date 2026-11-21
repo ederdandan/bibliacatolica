@@ -1,0 +1,40 @@
+{
+  "id": "WIS.7.1",
+  "livro": "WIS",
+  "titulo": "Salomão prefere a sabedoria: resplendor da luz eterna",
+  "secao": "Elogio da Sabedoria",
+  "referencia": "Sb 7,1-30",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria, reflexo da luz eterna, preferida a tudo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão confessa ser um homem mortal como todos. Por isso rezou, e o espírito da sabedoria veio a ele. Preferiu-a a cetros e tronos; julgou a riqueza um nada; amou-a mais que a saúde e a beleza; com ela lhe vieram todos os bens. Ela lhe ensinou a ciência do mundo: a constituição do universo, os tempos, as estrelas, os animais, as plantas. Na sabedoria há um espírito inteligente, santo, único, múltiplo, sutil, amigo do bem. “Ela é o resplendor da luz eterna, o espelho sem mácula da atividade de Deus, a imagem da sua bondade”; sendo uma, tudo pode, e faz amigos de Deus e profetas.",
+    "alegorico": "A Carta aos Hebreus (1,3) aplica ao Filho os termos desta passagem: “resplendor da glória e imagem da sua substância”. Cristo é a Sabedoria encarnada, Luz da luz.",
+    "moral": "A sabedoria é dom a pedir na oração, e merece ser preferida a todos os bens. Quem a ama não despreza as ciências do mundo: elas também vêm de Deus. A sabedoria faz “amigos de Deus”.",
+    "anagogico": "A luz que “não se apaga” anuncia a luz da visão beatífica, quando veremos a Deus na sua própria luz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pedi a prudência, e ela me foi dada; invoquei o Senhor, e veio a mim o espírito da sabedoria.” “Preferi-a aos cetros e aos tronos.” “Ela é o resplendor da luz eterna, o espelho sem mácula da atividade de Deus, a imagem da sua bondade.”",
+    "meditatio_perguntas": [
+      "Peço a sabedoria na oração?",
+      "O que eu preferiria à sabedoria, se fosse sincero?",
+      "Vejo em Cristo o resplendor da luz do Pai?"
+    ],
+    "oratio_guia": "Senhor, eu te peço a sabedoria, mais que a saúde e a riqueza. Que o teu Filho, resplendor da luz eterna, me torne teu amigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ela é o resplendor da luz eterna, o espelho sem mácula da actividade de Deus",
+      "ref": "Sb 7,26"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

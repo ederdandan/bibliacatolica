@@ -1,0 +1,135 @@
+{
+ "livro": "ECC",
+ "secoes": [
+  "Tudo é vaidade",
+  "A sabedoria e os seus limites"
+ ],
+ "pericopes": [
+  {
+   "id": "ECC.1.1",
+   "titulo": "Vaidade de vaidades: nada de novo debaixo do sol",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "ECC.2.1",
+   "titulo": "A vaidade dos prazeres e das obras",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 2,1-26",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 26
+   }
+  },
+  {
+   "id": "ECC.3.1",
+   "titulo": "Todas as coisas têm o seu tempo",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 3,1-22",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 22
+   }
+  },
+  {
+   "id": "ECC.4.1",
+   "titulo": "Opressões, inveja e o valor da companhia",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 4,1-17",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 17
+   }
+  },
+  {
+   "id": "ECC.5.1",
+   "titulo": "Diante de Deus, poucas palavras; a vaidade das riquezas",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 5,1–6,11",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 11
+   }
+  },
+  {
+   "id": "ECC.7.1",
+   "titulo": "O que é bom para o homem",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 7,1-30",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 30
+   }
+  },
+  {
+   "id": "ECC.8.1",
+   "titulo": "O homem não compreende a obra de Deus: come o teu pão com alegria",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 8,1–9,18",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 18
+   }
+  },
+  {
+   "id": "ECC.10.1",
+   "titulo": "Lança o teu pão sobre as águas",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 10,1–11,10",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 10
+   }
+  },
+  {
+   "id": "ECC.12.1",
+   "titulo": "Lembra-te do teu Criador; teme a Deus",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 12,1-14",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 14
+   }
+  }
+ ]
+}

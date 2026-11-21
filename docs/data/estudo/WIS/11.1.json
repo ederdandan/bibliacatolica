@@ -1,0 +1,49 @@
+{
+  "id": "WIS.11.1",
+  "livro": "WIS",
+  "titulo": "Tu amas tudo o que existe: a clemência de Deus",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 11,1–12,27",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Deus ama tudo o que fez e corrige com misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A Sabedoria deu êxito à marcha no deserto: a água do rochedo saciou Israel, enquanto as águas do Nilo, mudadas em sangue, castigaram o Egito. Cada um é castigado por aquilo em que pecou. Deus podia aniquilar os ímpios, mas dispôs tudo com medida, número e peso; diante dele o mundo é como grão na balança. “Tu amas tudo o que existe, e não aborreces nada do que fizeste”; és indulgente com todos, porque são teus, Senhor, amigo da vida. O teu espírito incorruptível está em todas as coisas. Corriges pouco a pouco, para que se convertam; mesmo com os cananeus agiste com paciência, ensinando ao teu povo que o justo deve ser humano.",
+    "alegorico": "O Deus que tudo ama e corrige pouco a pouco se revela plenamente em Cristo, que veio “não para condenar o mundo, mas para que o mundo seja salvo por Ele” (Jo 3,17). A água do rochedo é figura do Espírito que brota de Cristo.",
+    "moral": "Se Deus não odeia nada do que fez, eu não posso desprezar nenhuma criatura. A pedagogia divina ensina a corrigir com paciência, deixando espaço à conversão: “o justo deve ser humano”.",
+    "anagogico": "O amor criador que sustenta todas as coisas tende à sua plenitude: a criação inteira será libertada e reconciliada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Diante de ti o mundo inteiro é como um grão na balança.” “Tu amas tudo o que existe, e não aborreces nada do que fizeste.” “Poupas a todos, porque são teus, Senhor, que amas a vida.” “Ensinaste ao teu povo que o justo deve ser humano.”",
+    "meditatio_perguntas": [
+      "Há alguma criatura que eu despreze?",
+      "Corrijo os outros com a paciência de Deus?",
+      "Sinto-me amado por ser obra de Deus?"
+    ],
+    "oratio_guia": "Senhor, amigo da vida, que amas tudo o que fizeste, ensina-me a amar como tu. Corrige-me pouco a pouco e faze-me humano e paciente com os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu amas tudo o que existe, e não aborreces nada do que fizeste",
+      "ref": "Sb 11,25"
+    }
+  },
+  "ancoras": {
+    "11:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Dispuseste tudo com medida, número e peso” (Vulgata 11,21): texto muito citado por Santo Agostinho sobre a ordem da criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

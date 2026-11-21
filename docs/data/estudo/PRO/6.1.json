@@ -1,0 +1,40 @@
+{
+  "id": "PRO.6.1",
+  "livro": "PRO",
+  "titulo": "Vai ter com a formiga, ó preguiçoso",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 6,1-35",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Prudência, diligência e as coisas que Deus detesta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se ficaste fiador do teu próximo, livra-te depressa, como a gazela da mão do caçador. “Vai ter com a formiga, ó preguiçoso, considera o seu proceder e aprende”: sem chefe, prepara no verão o seu alimento. Até quando dormirás? Um pouco de sono, um pouco de cochilo, e virá a pobreza. O homem perverso trama o mal e semeia discórdias. Seis coisas o Senhor odeia, e a sétima a sua alma detesta: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que trama planos iníquos, pés que correm para o mal, falsa testemunha, e quem semeia discórdia entre irmãos. Guarda o mandamento: ele é lâmpada; e foge do adultério, que traz ruína.",
+    "alegorico": "A lâmpada do mandamento e a luz da lei (6,23) anunciam Cristo, luz do mundo, e o Salmo 118 (“lâmpada para os meus passos”).",
+    "moral": "A preguiça é vício que empobrece aos poucos; a formiga ensina diligência e previdência. A lista das sete coisas que Deus odeia é exame de consciência: soberba, mentira, violência, más intenções, pressa para o mal, falso testemunho, discórdia.",
+    "anagogico": "A formiga que prepara no verão o alimento do inverno lembra que esta vida é o tempo de preparar a eternidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai, ó preguiçoso, ter com a formiga, considera o seu proceder e aprende dela a sabedoria.” “Seis são as coisas que o Senhor aborrece, e a sétima a sua alma a detesta.” “O mandamento é uma lâmpada, e a lei uma luz.”",
+    "meditatio_perguntas": [
+      "Em que sou preguiçoso no essencial?",
+      "Qual das sete coisas que Deus detesta aparece em mim?",
+      "Semeio discórdia entre irmãos com a minha língua?"
+    ],
+    "oratio_guia": "Senhor, livra-me da preguiça e dá-me a previdência da formiga. Arranca de mim os olhos altivos, a língua mentirosa e todo germe de discórdia. Que o teu mandamento seja a minha lâmpada. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vai, ó preguiçoso, ter com a formiga, considera o seu proceder e aprende dela a sabedoria",
+      "ref": "Pr 6,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "WIS.19.1",
+  "livro": "WIS",
+  "titulo": "O mar Vermelho e a criação renovada",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 19,1-20",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A criação transformada para salvar o povo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A ira desceu sobre os ímpios até o fim; os egípcios, depois de deixar partir o povo, o perseguiram e encontraram a morte no mar. “Toda a criação foi transformada na sua natureza, obedecendo às tuas ordens, para que os teus servos fossem conservados ilesos”: a nuvem cobriu o acampamento, do mar Vermelho surgiu um caminho livre, uma planície verdejante; o povo passou como cavalos e saltou como cordeiros, louvando o Senhor. Os egípcios foram mais culpados que os sodomitas, porque oprimiram hóspedes. Os elementos trocaram as suas propriedades como notas numa harpa. O livro termina: em tudo engrandeceste e glorificaste o teu povo.",
+    "alegorico": "A travessia do mar é figura do batismo (1Cor 10,1-2); a criação transformada anuncia a nova criação inaugurada pela Ressurreição de Cristo.",
+    "moral": "A hospitalidade é sagrada: oprimir o estrangeiro acolhido é pecado mais grave que o de Sodoma. A criação, nas mãos de Deus, está a serviço da salvação dos seus filhos.",
+    "anagogico": "Os elementos que mudam como notas de uma harpa anunciam os novos céus e a nova terra, onde tudo será harmonia de louvor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todas as tuas criaturas foram transformadas na sua natureza, obedecendo aos teus mandados, a fim de que os teus servos fossem conservados ilesos.” “Saltaram como cordeiros, louvando-te, Senhor, que os tinhas libertado.”",
+    "meditatio_perguntas": [
+      "Agradeço o meu batismo como passagem pelo mar?",
+      "Como trato o estrangeiro e o hóspede?",
+      "Creio que Deus pode transformar as circunstâncias para me salvar?"
+    ],
+    "oratio_guia": "Senhor, que transformaste a criação para salvar o teu povo, eu te louvo pelo batismo que me fez passar pelo mar. Faze-me hospitaleiro e conduze-me à nova criação. Amém.",
+    "contemplatio_foco": {
+      "texto": "todas as tuas criaturas foram transformadas na sua natureza, obedecendo aos teus mandados",
+      "ref": "Sb 19,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

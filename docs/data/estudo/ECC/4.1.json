@@ -1,0 +1,49 @@
+{
+  "id": "ECC.4.1",
+  "livro": "ECC",
+  "titulo": "Opressões, inveja e o valor da companhia",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 4,1-17",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Ninguém se salva sozinho: o valor da companhia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor vê as lágrimas dos oprimidos sem consolador e o poder dos opressores; quase prefere os mortos aos vivos. Observa que todo trabalho nasce da inveja do próximo. O preguiçoso cruza os braços e devora a própria carne; mais vale um punhado com descanso que dois com fadiga. Vê um homem sozinho, sem filho nem irmão, que trabalha sem fim: para quem? “Melhor é estarem dois juntos do que um só… se um cair, o outro o levanta; ai do que está só!” Dois se aquecem, resistem juntos; “o cordão triplo não se rompe facilmente”. Mais vale um jovem pobre e sábio que um rei velho e insensato.",
+    "alegorico": "O “cordão triplo” foi lido pelos Padres como figura da Trindade, que dá firmeza à comunhão; também como imagem do matrimônio em que Deus é o terceiro fio. Cristo não deixa ninguém “só”: está no meio dos que se reúnem em seu nome.",
+    "moral": "A solidão egoísta é armadilha; a amizade e a comunidade são proteção e consolo. Trabalhar por inveja é outra forma de vaidade. Moderação: mais vale um punhado em paz.",
+    "anagogico": "A comunhão que nos levanta quando caímos antecipa a comunhão dos santos, onde ninguém está só."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis as lágrimas dos oprimidos, e não há quem os console.” “Mais vale um punhado com descanso.” “Melhor é estarem dois juntos do que um só… Ai do que está só, porque, quando cair, não tem quem o levante!” “O cordel triplicado dificilmente se quebra.”",
+    "meditatio_perguntas": [
+      "Quem são os oprimidos sem consolador perto de mim?",
+      "Tenho amigos que me levantam? Levanto alguém?",
+      "Deus é o terceiro fio dos meus laços?"
+    ],
+    "oratio_guia": "Senhor, consolo dos oprimidos, faze-me consolador. Obrigado pelos irmãos que me levantam; sê tu o terceiro fio das minhas amizades e do meu lar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ai do que está só, porque, quando cair, não tem quem o levante!",
+      "ref": "Ecl 4,10"
+    }
+  },
+  "ancoras": {
+    "4:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Ecl 4,17 é 5,1; por isso a Vulgata tem um versículo a mais no capítulo 4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

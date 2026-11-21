@@ -1,0 +1,40 @@
+{
+  "id": "ECC.7.1",
+  "livro": "ECC",
+  "titulo": "O que é bom para o homem",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 7,1-30",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A sabedoria dos dias bons e dos dias maus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quem sabe o que é bom para o homem? Seguem máximas: mais vale o bom nome que o perfume; o dia da morte mais que o do nascimento; mais vale ir à casa do luto que à casa do banquete; mais vale a repreensão do sábio que o canto dos tolos. Não digas que os tempos antigos eram melhores. A sabedoria com herança é boa. “Goza dos bens no dia bom, reflete no dia mau”: Deus fez um e outro. Não sejas justo demais nem ímpio demais; quem teme a Deus escapa de ambos os extremos. Não há justo que não peque. O autor procurou a sabedoria e a viu longe; achou que Deus fez o homem reto, mas ele se meteu em muitos raciocínios.",
+    "alegorico": "“Deus fez o homem reto” (7,30) remete ao Éden e à queda; a retidão perdida é restaurada em Cristo, o Homem reto, sem pecado.",
+    "moral": "A sabedoria tira lições da dor: a casa do luto ensina mais que a festa. Nem nostalgia (“antes era melhor”), nem fanatismo (“justo demais”): o temor de Deus dá equilíbrio. Reconhecer que todos pecamos nos torna humildes.",
+    "anagogico": "Considerar o dia da morte melhor que o do nascimento só faz sentido à luz do “dies natalis” cristão: a morte do justo é nascimento para o céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mais vale o bom nome que os perfumes preciosos.” “Mais vale ir à casa do luto do que à casa do banquete.” “Goza dos bens no dia bom, reflete no dia mau.” “Deus fez o homem reto.”",
+    "meditatio_perguntas": [
+      "Que lição a “casa do luto” já me ensinou?",
+      "Caio na nostalgia de que “antes era melhor”?",
+      "Como vivo os dias maus: com revolta ou com reflexão?"
+    ],
+    "oratio_guia": "Senhor, que fazes o dia bom e o dia mau, ensina-me a gozar e a refletir. Dá-me equilíbrio no teu temor e devolve-me a retidão com que me criaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Goza dos bens no dia bom, reflecte no dia mau",
+      "ref": "Ecl 7,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

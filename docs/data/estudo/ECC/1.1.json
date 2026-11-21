@@ -1,0 +1,49 @@
+{
+  "id": "ECC.1.1",
+  "livro": "ECC",
+  "titulo": "Vaidade de vaidades: nada de novo debaixo do sol",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Tudo o que passa é vaidade: o coração busca o que não passa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Vaidade de vaidades, diz o Eclesiastes, tudo é vaidade.” Que proveito tira o homem de todo o seu trabalho debaixo do sol? Uma geração vai, outra vem, e a terra permanece; o sol nasce e se põe, o vento gira, os rios correm para o mar e o mar não transborda. O olho não se farta de ver, nem o ouvido de ouvir. O que foi, será; “nada há de novo debaixo do sol”. O Eclesiastes, rei em Jerusalém, aplicou-se a investigar com sabedoria tudo o que se faz; viu que tudo é vaidade e aflição de espírito; quem aumenta a ciência aumenta a dor.",
+    "alegorico": "Os Padres leram o Eclesiastes como pedagogia para desprender o coração do mundo e prepará-lo para Cristo, o “novo” verdadeiro debaixo do sol, que “faz novas todas as coisas” (Ap 21,5).",
+    "moral": "“Vaidade” (hebel) é sopro, vapor: o que é passageiro não pode saciar o coração. O livro não despreza o mundo, mas desmascara a ilusão de encontrar nele a plenitude. É um remédio contra o ativismo e a idolatria do êxito.",
+    "anagogico": "Se nada debaixo do sol é novo, a novidade só pode vir de cima: a esperança cristã aguarda os novos céus e a nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vaidade de vaidades, tudo é vaidade!” “Que tira o homem de todo o trabalho com que se afadiga debaixo do sol?” “O olho não se farta de ver.” “Nada há de novo debaixo do sol.”",
+    "meditatio_perguntas": [
+      "Em que busco saciar o coração com o que é vapor?",
+      "O meu trabalho tem sentido para além do resultado?",
+      "Onde procuro a verdadeira novidade?"
+    ],
+    "oratio_guia": "Senhor, eterno e sempre novo, desprende o meu coração do que é sopro passageiro. Que eu busque em ti o que não passa, e encontre em Cristo a novidade verdadeira. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vaidade de vaidades, diz o Eclesiaste, vaidade de vaidade, tudo é vaidade!",
+      "ref": "Ecl 1,2"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Eclesiastes” traduz o hebraico Qohelet, “o que reúne a assembleia” ou “o pregador”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

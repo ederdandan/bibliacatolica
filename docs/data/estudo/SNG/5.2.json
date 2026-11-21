@@ -1,0 +1,49 @@
+{
+  "id": "SNG.5.2",
+  "livro": "SNG",
+  "titulo": "Eu durmo, mas o meu coração vela",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 5,2–6,12",
+  "ini": {
+    "c": 5,
+    "v": 2
+  },
+  "fim": {
+    "c": 6,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "A demora em abrir e a busca do Amado que se retirou",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Eu durmo, mas o meu coração vela.” O amado bate: “Abre-me, irmã minha, pomba minha, imaculada minha, porque a minha cabeça está cheia de orvalho”. Ela hesita: já tirei a túnica, como vestir de novo? Quando se levanta e abre, ele já partiu. Ela o busca e não o encontra; os guardas a ferem. Pede às filhas de Jerusalém: se encontrardes o meu amado, dizei-lhe que estou doente de amor. Elas perguntam que tem ele mais que os outros; ela o descreve: branco e rosado, distinto entre dez mil, a sua boca é doçura, “todo ele é um encanto”. Ele desceu ao seu jardim; “eu sou do meu amado, e o meu amado é meu”. Quem é esta que surge como a aurora, bela como a lua, brilhante como o sol?",
+    "alegorico": "O Amado que bate com a cabeça cheia de orvalho da noite é Cristo que bate à porta (Ap 3,20), cuja cabeça se cobriu de sangue na Paixão. A mulher “como a aurora, bela como a lua, brilhante como o sol” é aplicada pela liturgia a Maria, especialmente na Assunção.",
+    "moral": "Muitas vezes Deus bate e nós demoramos por comodismo. A demora tem preço: o Amado se retira para ser procurado. O amor ferido não desiste; e quem descreve o Amado aos outros os atrai a buscá-lo também.",
+    "anagogico": "A mulher que surge como aurora anuncia a Igreja gloriosa e Maria assunta, sinal de esperança para todos os que buscam o Amado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu durmo, mas o meu coração vela.” “Abre-me, minha irmã, pomba minha.” “Abri ao meu amado, mas ele tinha-se retirado.” “Todo ele é um encanto.” “Eu sou do meu amado, e o meu amado é meu.”",
+    "meditatio_perguntas": [
+      "Demoro a abrir quando Cristo bate?",
+      "Saberia descrever aos outros por que o meu Amado é “distinto entre dez mil”?",
+      "Meu coração vela enquanto durmo?"
+    ],
+    "oratio_guia": "Senhor, que bates à minha porta com a cabeça cheia de orvalho, perdoa a minha demora. Faze-me abrir prontamente, buscar-te ferido de amor e dizer a todos que tu és todo encanto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu durmo, mas o meu coração vela",
+      "ref": "Ct 5,2"
+    }
+  },
+  "ancoras": {
+    "6:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A liturgia aplica este versículo à Virgem Maria (“Quae est ista quae progreditur quasi aurora”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PRO.16.1",
+  "livro": "PRO",
+  "titulo": "O homem pensa o caminho, o Senhor dirige os passos",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 16,1–18,24",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O homem planeja, Deus dirige os passos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao homem pertence preparar o coração, mas do Senhor vem a resposta da língua. “Recomenda ao Senhor as tuas obras, e terão bom êxito os teus projetos.” O Senhor fez tudo para um fim. Mais vale pouco com justiça que grandes rendimentos com iniquidade. “O coração do homem pensa no caminho, mas ao Senhor pertence dirigir os seus passos.” A soberba precede a ruína; o espírito altivo, a queda. Mais vale o paciente que o herói; quem domina o seu espírito vale mais que o conquistador de cidades. A sorte se lança, mas a decisão vem do Senhor. Mais vale um bocado seco com paz. O amigo ama em todo tempo; na desgraça torna-se irmão. O nome do Senhor é torre fortíssima.",
+    "alegorico": "O amigo que se torna irmão na desgraça é Cristo, que nos chama amigos e dá a vida por nós (Jo 15,13). O nome do Senhor, torre forte, é o nome de Jesus, em quem há salvação (At 4,12).",
+    "moral": "Planejar é próprio do homem; entregar a Deus os planos é sabedoria. O domínio de si vale mais que qualquer conquista exterior. A soberba é o início da queda.",
+    "anagogico": "A torre fortíssima onde o justo se refugia anuncia a cidade eterna, segura contra todo inimigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Recomenda ao Senhor as tuas obras.” “O coração do homem pensa no caminho a seguir, mas ao Senhor pertence dirigir os seus passos.” “A soberba precede a ruína.” “O nome do Senhor é uma torre fortíssima.”",
+    "meditatio_perguntas": [
+      "Entrego a Deus os meus projetos antes de executá-los?",
+      "Domino o meu espírito, ou sou dominado pelos impulsos?",
+      "Sou amigo fiel na desgraça dos outros?"
+    ],
+    "oratio_guia": "Senhor, a ti recomendo as minhas obras: dirige os meus passos. Livra-me da soberba, dá-me domínio de mim e faze do teu nome a minha torre. Amém.",
+    "contemplatio_foco": {
+      "texto": "O coração do homem pensa no caminho a seguir, mas ao Senhor pertence dirigir os seus passos",
+      "ref": "Pr 16,9"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PRO.25.1",
+  "livro": "PRO",
+  "titulo": "Se o teu inimigo tiver fome, dá-lhe de comer",
+  "secao": "Provérbios recolhidos pelos homens de Ezequias",
+  "referencia": "Pr 25,1–27,27",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Vencer o inimigo com o bem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Provérbios de Salomão transcritos pelos homens de Ezequias: é glória de Deus esconder as coisas, glória dos reis investigá-las. Não te glories diante do rei; mais vale ser convidado a subir. Uma palavra dita a tempo é maçã de ouro em salva de prata. “Se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber”: amontoarás brasas sobre a sua cabeça, e o Senhor te recompensará. Como água fresca para a alma sedenta é a boa notícia de terra distante. O cão volta ao seu vômito, o insensato à sua loucura. Não te glories do dia de amanhã. Fiéis são as feridas do amigo. “O ferro aguça o ferro, e o homem apura o homem.”",
+    "alegorico": "São Paulo cita o v. 21 em Rm 12,20 (“vence o mal com o bem”); Jesus ensina a não ocupar o primeiro lugar no banquete (Lc 14,8-10), eco de 25,6-7. Cristo dá de beber ao inimigo: “Pai, perdoa-lhes”.",
+    "moral": "O amor aos inimigos já está em germe no AT: fazer o bem ao adversário pode levá-lo à vergonha salutar e à conversão. A palavra oportuna é preciosa; a correção do amigo é um bem; crescemos uns com os outros.",
+    "anagogico": "“Não te glories do dia de amanhã”: só Deus conhece o futuro; vivemos o hoje como preparação do dia eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A palavra dita a seu tempo é como maçãs de ouro em leitos de prata.” “Se o teu inimigo tiver fome, dá-lhe de comer.” “Não te glories pelo dia de amanhã.” “Mais valem as feridas do amigo.” “O ferro aguça o ferro.”",
+    "meditatio_perguntas": [
+      "Há um “inimigo” a quem eu possa fazer um bem concreto?",
+      "Sei dizer a palavra certa no tempo certo?",
+      "Aceito ser “aguçado” pelos irmãos?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a vencer o mal com o bem. Que eu dê pão e água a quem me ofende, diga a palavra oportuna e aceite as feridas fiéis do amigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se o teu inimigo tiver fome, dá-lhe de comer",
+      "ref": "Pr 25,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

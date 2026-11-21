@@ -1,0 +1,40 @@
+{
+  "id": "ECC.5.1",
+  "livro": "ECC",
+  "titulo": "Diante de Deus, poucas palavras; a vaidade das riquezas",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 5,1–6,11",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Reverência diante de Deus e liberdade diante do dinheiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Diante de Deus, não te apresses em falar: “Deus está no céu e tu na terra; portanto sejam poucas as tuas palavras”. Se fizeres um voto, cumpre-o sem demora. Não te admires da opressão: acima do poderoso há outro mais alto. “O que ama o dinheiro jamais se fartará de dinheiro”; quanto mais bens, mais quem os consome; o sono do trabalhador é doce, mas a fartura do rico não o deixa dormir. Riquezas guardadas para desgraça do dono; nu saiu do ventre, nu voltará. É dom de Deus comer, beber e gozar com alegria. No capítulo 6: o homem que tem tudo mas não pode gozar, mais vale um aborto.",
+    "alegorico": "“Sejam poucas as tuas palavras” prepara o ensinamento de Jesus: “não multipliqueis palavras como os pagãos” (Mt 6,7). O homem rico que não dorme evoca o rico insensato da parábola (Lc 12,16-21).",
+    "moral": "A oração começa pela reverência e pelo silêncio. O apego ao dinheiro gera insaciabilidade e insônia; a liberdade interior permite gozar os bens como dom e partilhá-los. Cumprir as promessas feitas a Deus.",
+    "anagogico": "“Nu saiu, nu voltará”: só o que se deu permanece; o tesouro no céu é o único que se leva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras.” “O que ama o dinheiro jamais se fartará de dinheiro.” “Doce é o sono do trabalhador.” “Assim como saiu nu do ventre de sua mãe, assim voltará.”",
+    "meditatio_perguntas": [
+      "A minha oração tem espaço para o silêncio?",
+      "O dinheiro me rouba o sono ou a paz?",
+      "Cumpro as promessas que fiz a Deus?"
+    ],
+    "oratio_guia": "Senhor, que estás no céu, ensina-me a orar com poucas palavras e muito amor. Liberta-me do amor ao dinheiro e dá-me o sono tranquilo de quem confia em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras",
+      "ref": "Ecl 5,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

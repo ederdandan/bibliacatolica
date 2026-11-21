@@ -1,0 +1,106 @@
+{
+ "livro": "SNG",
+ "secoes": [
+  "O Cântico dos Cânticos"
+ ],
+ "pericopes": [
+  {
+   "id": "SNG.1.1",
+   "titulo": "Beija-me com os ósculos da tua boca",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 1,1–2,7",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 7
+   }
+  },
+  {
+   "id": "SNG.2.8",
+   "titulo": "Levanta-te, amada minha, e vem",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 2,8-17",
+   "ini": {
+    "c": 2,
+    "v": 8
+   },
+   "fim": {
+    "c": 2,
+    "v": 17
+   }
+  },
+  {
+   "id": "SNG.3.1",
+   "titulo": "Busquei aquele a quem ama a minha alma",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 3,1-11",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 11
+   }
+  },
+  {
+   "id": "SNG.4.1",
+   "titulo": "Toda és formosa: jardim fechado",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 4,1–5,1",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 1
+   }
+  },
+  {
+   "id": "SNG.5.2",
+   "titulo": "Eu durmo, mas o meu coração vela",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 5,2–6,12",
+   "ini": {
+    "c": 5,
+    "v": 2
+   },
+   "fim": {
+    "c": 6,
+    "v": 12
+   }
+  },
+  {
+   "id": "SNG.7.1",
+   "titulo": "Quão belos são os teus passos",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 7,1–8,4",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 4
+   }
+  },
+  {
+   "id": "SNG.8.5",
+   "titulo": "O amor é forte como a morte",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 8,5-14",
+   "ini": {
+    "c": 8,
+    "v": 5
+   },
+   "fim": {
+    "c": 8,
+    "v": 14
+   }
+  }
+ ]
+}

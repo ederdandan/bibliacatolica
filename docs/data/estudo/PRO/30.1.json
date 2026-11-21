@@ -1,0 +1,40 @@
+{
+  "id": "PRO.30.1",
+  "livro": "PRO",
+  "titulo": "Palavras de Agur: nem pobreza nem riqueza",
+  "secao": "Apêndices",
+  "referencia": "Pr 30,1-33",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "A oração de Agur: só o necessário",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Palavras de Agur: confessa-se o mais ignorante dos homens; não aprendeu a sabedoria nem conhece a ciência do Santo. Quem subiu ao céu e desceu? Quem reteve o vento nas mãos? Qual é o seu nome e o nome do seu filho, se o sabes? Toda palavra de Deus é provada no fogo; não acrescentes nada às suas palavras. Ele faz a Deus dois pedidos: “Afasta de mim a falsidade e a mentira; não me dês nem pobreza nem riqueza, dá-me só o necessário para viver”, para não negar a Deus na fartura, nem roubar na miséria. Seguem provérbios numéricos: quatro coisas pequenas e sábias (formiga, coelho, gafanhoto, lagartixa), três coisas insaciáveis, quatro incompreensíveis.",
+    "alegorico": "“Qual é o nome do seu filho?” foi lido pelos Padres como misteriosa alusão ao Filho de Deus, o único que “desceu do céu” e subiu (Jo 3,13). O pedido do necessário prepara o “pão nosso de cada dia”.",
+    "moral": "Humildade intelectual diante do mistério de Deus. A oração de Agur é sábia: nem a pobreza que tenta a roubar, nem a riqueza que leva a esquecer Deus. As pequenas criaturas sábias ensinam que a força não está no tamanho.",
+    "anagogico": "Quem subiu ao céu e desceu? Cristo, que subiu para nos preparar lugar e nos levará consigo para a casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a palavra de Deus é provada no fogo.” “Afasta de mim a falsidade e as palavras mentirosas; não me dês nem a pobreza, nem as riquezas, dá-me somente o que for necessário para viver.”",
+    "meditatio_perguntas": [
+      "Reconheço os limites do meu saber sobre Deus?",
+      "O que é, de fato, “o necessário” para mim?",
+      "A riqueza ou a falta dela me afastam de Deus?"
+    ],
+    "oratio_guia": "Senhor, afasta de mim a mentira; não me dês nem pobreza nem riqueza, mas o pão de cada dia. Que na fartura eu não te esqueça, e na necessidade não te ofenda. Amém.",
+    "contemplatio_foco": {
+      "texto": "não me dês nem a pobreza, nem as riquezas",
+      "ref": "Pr 30,8"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

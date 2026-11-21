@@ -1,0 +1,40 @@
+{
+  "id": "WIS.17.1",
+  "livro": "WIS",
+  "titulo": "As trevas do Egito e a noite da libertação",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 17,1–18,25",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "As trevas do pecado e a Palavra que desce na noite",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os teus juízos são grandes e impenetráveis. Os egípcios, que oprimiam o povo santo, ficaram presos nas trevas, perseguidos por terrores, aparições e pela própria consciência: “a maldade é covarde e se condena pelo próprio testemunho”. Para os teus santos havia luz, e a coluna de fogo os guiava. Depois, a noite da Páscoa: os egípcios perderam os primogênitos; os pais tinham sido avisados para que se alegrassem. “Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso, a tua palavra onipotente desceu do céu, do trono real”, como guerreiro. Aarão intercedeu com o incensário e deteve o flagelo.",
+    "alegorico": "A liturgia do Natal aplica 18,14-15 à Encarnação: no silêncio da noite, o Verbo eterno desceu do trono real (Introito do domingo na oitava do Natal). Aarão com o incensário prefigura Cristo intercessor que detém a ira.",
+    "moral": "A consciência culpada vive no medo, mesmo sem perseguidor (“a maldade é covarde”). Para quem é fiel, a noite tem luz. O silêncio é o lugar onde a Palavra desce.",
+    "anagogico": "A noite pascal em que a Palavra desce anuncia a vinda gloriosa, quando o Senhor virá “como ladrão de noite” para libertar os seus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A maldade é covarde, e condena-se pelo próprio testemunho.” “Os teus santos tinham uma luz brilhantíssima.” “Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso, a tua palavra onipotente baixou do céu.”",
+    "meditatio_perguntas": [
+      "Que trevas interiores me assustam?",
+      "Faço silêncio para que a Palavra desça?",
+      "Vivo a noite de Natal e a noite pascal como descida de Deus?"
+    ],
+    "oratio_guia": "Palavra onipotente, que desceste do trono real no silêncio da noite, desce também ao meu coração. Livra-me das trevas da consciência culpada e guia-me com a tua luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso",
+      "ref": "Sb 18,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,234 @@
+{
+ "livro": "WIS",
+ "secoes": [
+  "O destino do justo e do ímpio",
+  "Elogio da Sabedoria",
+  "A Sabedoria na história"
+ ],
+ "pericopes": [
+  {
+   "id": "WIS.1.1",
+   "titulo": "Amai a justiça: Deus não fez a morte",
+   "secao": "O destino do justo e do ímpio",
+   "referencia": "Sb 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "WIS.2.1",
+   "titulo": "O raciocínio dos ímpios: armemos laços ao justo",
+   "secao": "O destino do justo e do ímpio",
+   "referencia": "Sb 2,1-25",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "WIS.3.1",
+   "titulo": "As almas dos justos estão na mão de Deus",
+   "secao": "O destino do justo e do ímpio",
+   "referencia": "Sb 3,1-19",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 19
+   }
+  },
+  {
+   "id": "WIS.4.1",
+   "titulo": "A morte prematura do justo",
+   "secao": "O destino do justo e do ímpio",
+   "referencia": "Sb 4,1-20",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 20
+   }
+  },
+  {
+   "id": "WIS.5.1",
+   "titulo": "O arrependimento tardio dos ímpios: os justos viverão para sempre",
+   "secao": "O destino do justo e do ímpio",
+   "referencia": "Sb 5,1-24",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 24
+   }
+  },
+  {
+   "id": "WIS.6.1",
+   "titulo": "Os reis busquem a sabedoria",
+   "secao": "Elogio da Sabedoria",
+   "referencia": "Sb 6,1-27",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 27
+   }
+  },
+  {
+   "id": "WIS.7.1",
+   "titulo": "Salomão prefere a sabedoria: resplendor da luz eterna",
+   "secao": "Elogio da Sabedoria",
+   "referencia": "Sb 7,1-30",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 30
+   }
+  },
+  {
+   "id": "WIS.8.1",
+   "titulo": "A sabedoria, esposa e companheira da vida",
+   "secao": "Elogio da Sabedoria",
+   "referencia": "Sb 8,1-21",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 21
+   }
+  },
+  {
+   "id": "WIS.9.1",
+   "titulo": "Oração de Salomão pela sabedoria",
+   "secao": "Elogio da Sabedoria",
+   "referencia": "Sb 9,1-19",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 19
+   }
+  },
+  {
+   "id": "WIS.10.1",
+   "titulo": "A sabedoria salva os justos, de Adão a Moisés",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 10,1-21",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 21
+   }
+  },
+  {
+   "id": "WIS.11.1",
+   "titulo": "Tu amas tudo o que existe: a clemência de Deus",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 11,1–12,27",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 27
+   }
+  },
+  {
+   "id": "WIS.13.1",
+   "titulo": "Pela beleza das criaturas se conhece o Criador",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 13,1-19",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 19
+   }
+  },
+  {
+   "id": "WIS.14.1",
+   "titulo": "A origem e os males da idolatria",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 14,1–15,19",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 19
+   }
+  },
+  {
+   "id": "WIS.16.1",
+   "titulo": "A palavra que cura e o pão dos anjos",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 16,1-29",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 29
+   }
+  },
+  {
+   "id": "WIS.17.1",
+   "titulo": "As trevas do Egito e a noite da libertação",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 17,1–18,25",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 25
+   }
+  },
+  {
+   "id": "WIS.19.1",
+   "titulo": "O mar Vermelho e a criação renovada",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 19,1-20",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 20
+   }
+  }
+ ]
+}

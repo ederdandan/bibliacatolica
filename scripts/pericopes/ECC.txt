@@ -1,0 +1,13 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Tudo é vaidade
+1:1-1:18 | Vaidade de vaidades: nada de novo debaixo do sol
+2:1-2:26 | A vaidade dos prazeres e das obras
+3:1-3:22 | Todas as coisas têm o seu tempo
+4:1-4:17 | Opressões, inveja e o valor da companhia
+5:1-6:11 | Diante de Deus, poucas palavras; a vaidade das riquezas
+## A sabedoria e os seus limites
+7:1-7:30 | O que é bom para o homem
+8:1-9:18 | O homem não compreende a obra de Deus: come o teu pão com alegria
+10:1-11:10 | Lança o teu pão sobre as águas
+12:1-12:14 | Lembra-te do teu Criador; teme a Deus

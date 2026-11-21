@@ -1,0 +1,40 @@
+{
+  "id": "PRO.13.1",
+  "livro": "PRO",
+  "titulo": "A mulher prudente edifica a casa; a resposta branda",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 13,1–15,33",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Edificar a casa com sabedoria e palavras brandas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os provérbios continuam: quem guarda a boca guarda a vida. A esperança adiada aflige a alma, o desejo cumprido é árvore de vida. Quem anda com sábios será sábio. Quem poupa a vara odeia o filho. “A mulher prudente edifica a sua casa; a insensata a destrói com as próprias mãos.” Há caminho que parece reto e termina na morte. O coração conhece a sua própria amargura. Quem oprime o pobre ultraja o Criador; quem tem compaixão do necessitado o honra. “A resposta branda aquieta a ira; a palavra dura excita o furor.” Os olhos do Senhor observam bons e maus. Mais vale pouco com temor de Deus que grandes tesouros com inquietação; mais vale um prato de verduras com amor.",
+    "alegorico": "Quem honra o pobre honra o Criador: Cristo levará isto ao extremo identificando-se com os pequenos (Mt 25,40). A mulher que edifica a casa é figura da Igreja, que constrói a casa de Deus.",
+    "moral": "A família se constrói ou se destrói nas atitudes diárias. Escolher boas companhias, corrigir os filhos com amor, responder com mansidão, preferir a paz à abundância: sabedoria prática de cada dia.",
+    "anagogico": "“Há caminho que parece reto e termina na morte”: só o caminho de Deus leva à vida; o discernimento hoje decide o destino eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem anda com os sábios será sábio.” “A mulher prudente edifica a sua casa.” “Quem tem compaixão do pobre honra o Criador.” “A resposta branda aquieta a ira; a palavra dura excita o furor.” “Mais vale um prato de legumes com amor.”",
+    "meditatio_perguntas": [
+      "Com quem ando, e o que isso faz de mim?",
+      "Edifico ou destruo a minha casa com as minhas mãos?",
+      "Respondo com brandura quando provocado?"
+    ],
+    "oratio_guia": "Senhor, dá-me edificar a minha casa com sabedoria. Que a minha resposta seja branda, a minha mesa tenha amor e o meu coração tenha compaixão do pobre. Amém.",
+    "contemplatio_foco": {
+      "texto": "A resposta branda aquieta a ira; a palavra dura excita o furor",
+      "ref": "Pr 15,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

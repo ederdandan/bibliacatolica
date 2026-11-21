@@ -1,0 +1,40 @@
+{
+  "id": "WIS.3.1",
+  "livro": "WIS",
+  "titulo": "As almas dos justos estão na mão de Deus",
+  "secao": "O destino do justo e do ímpio",
+  "referencia": "Sb 3,1-19",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "As almas dos justos estão na mão de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“As almas dos justos estão na mão de Deus, e não os tocará nenhum tormento.” Aos olhos dos insensatos pareceram morrer; a sua saída foi tida por desgraça; mas eles estão em paz. A sua esperança está cheia de imortalidade. Provados um pouco, receberão grandes bens; Deus os provou como ouro no crisol e os aceitou como holocausto. Brilharão, julgarão as nações. Os ímpios, ao contrário, serão castigados. Feliz a estéril sem mancha e o eunuco que não praticou a iniquidade: terão fruto e lugar escolhido no templo do Senhor; os filhos de uniões ilegítimas não terão raiz.",
+    "alegorico": "Este texto é lido nas Missas de defuntos e dos mártires: os justos provados como ouro são os santos unidos ao sacrifício de Cristo, holocausto perfeito.",
+    "moral": "A morte e o sofrimento dos justos não são derrota. A prova purifica como o fogo purifica o ouro. A fecundidade verdadeira vem da fidelidade, não da quantidade de filhos ou bens.",
+    "anagogico": "“Brilharão e correrão como centelhas na palha”: a glória dos justos ressuscitados, que reinam com o Senhor para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As almas dos justos estão na mão de Deus.” “Aos olhos dos insensatos pareceram morrer… mas eles estão em paz.” “A sua esperança está cheia de imortalidade.” “Provou-os como o ouro na fornalha.”",
+    "meditatio_perguntas": [
+      "Entrego os meus mortos à mão de Deus com esperança?",
+      "Como vivo as provações: como fogo que purifica?",
+      "A minha esperança está “cheia de imortalidade”?"
+    ],
+    "oratio_guia": "Senhor, nas tuas mãos estão as almas dos justos: guarda nelas os que amei e que partiram. Prova-me como ouro e aceita-me como oferta. Amém.",
+    "contemplatio_foco": {
+      "texto": "as almas dos justos estão na mão de Deus",
+      "ref": "Sb 3,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

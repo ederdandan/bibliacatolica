@@ -1,0 +1,40 @@
+{
+  "id": "PRO.2.1",
+  "livro": "PRO",
+  "titulo": "Os frutos de buscar a sabedoria",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 2,1-22",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Buscar a sabedoria como um tesouro escondido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Meu filho, se acolheres as minhas palavras, inclinares o ouvido à sabedoria, invocares a prudência e a buscares como prata, como tesouro escondido, então compreenderás o temor do Senhor e acharás o conhecimento de Deus. “Porque o Senhor é quem dá a sabedoria.” Ele guarda os caminhos dos justos. A sabedoria entrará no teu coração e te livrará do caminho mau, dos homens de palavras perversas e da mulher estranha que abandonou o companheiro da juventude e esqueceu a aliança do seu Deus. Assim andarás no caminho dos bons; os retos habitarão a terra.",
+    "alegorico": "O tesouro escondido que se busca com empenho evoca a parábola do tesouro no campo (Mt 13,44): Cristo, Sabedoria de Deus, é o tesouro pelo qual vale a pena dar tudo.",
+    "moral": "A sabedoria é dom de Deus, mas pede esforço: escutar, invocar, procurar como quem busca prata. Ela protege das más companhias e da infidelidade conjugal.",
+    "anagogico": "“Os retos habitarão a terra”: promessa que Jesus retoma nas bem-aventuranças (“os mansos possuirão a terra”) e que se cumpre na nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se a buscares como o dinheiro, e cavares por ela como por um tesouro, então compreenderás o temor do Senhor.” “O Senhor é quem dá a sabedoria.” “Ela te livrará do mau caminho.”",
+    "meditatio_perguntas": [
+      "Busco a sabedoria com o mesmo empenho com que busco dinheiro?",
+      "De que “caminhos maus” a sabedoria já me livrou?",
+      "Peço a Deus a sabedoria?"
+    ],
+    "oratio_guia": "Senhor, que dás a sabedoria, ensina-me a procurá-la como tesouro escondido. Guarda os meus caminhos e livra-me das palavras perversas e da infidelidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor é quem dá a sabedoria",
+      "ref": "Pr 2,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

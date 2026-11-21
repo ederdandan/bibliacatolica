@@ -1,0 +1,40 @@
+{
+  "id": "SNG.8.5",
+  "livro": "SNG",
+  "titulo": "O amor é forte como a morte",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 8,5-14",
+  "ini": {
+    "c": 8,
+    "v": 5
+  },
+  "fim": {
+    "c": 8,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O amor é forte como a morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Quem é esta que sobe do deserto, apoiada sobre o seu amado?” Ela lhe pede: “Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço, porque o amor é forte como a morte, o zelo do amor é duro como o abismo; os seus ardores são ardores de fogo, chamas do Senhor. As muitas águas não poderiam extinguir o amor”; quem desse todas as riquezas pelo amor seria desprezado. Os irmãos falam da irmã pequena: se for muro, faremos ameias de prata. Salomão tinha uma vinha; a minha vinha está diante de mim. Por fim: tu que habitas nos jardins, faze-me ouvir a tua voz. “Foge, meu amado, como a gazela, sobre os montes dos aromas.”",
+    "alegorico": "O amor “forte como a morte” é o de Cristo, que morreu por nós e venceu a morte; o selo sobre o coração é o Espírito Santo (Ef 1,13). A esposa que sobe do deserto apoiada no amado é a Igreja peregrina e Maria assunta.",
+    "moral": "O amor verdadeiro é fogo que não se apaga e não se compra. É exclusivo (“selo”) e fiel até a morte, como no matrimônio cristão. Nenhuma riqueza vale o amor: quem o mercantiliza o desonra.",
+    "anagogico": "O amor que nenhuma água extingue é a caridade, que “jamais passará” (1Cor 13,8): só ela permanece na vida eterna. O último verso é o “vem” da Igreja que espera o Esposo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem é esta que sobe do deserto, apoiada sobre o seu amado?” “Põe-me como um selo sobre o teu coração.” “O amor é forte como a morte.” “As muitas águas não poderiam extinguir o amor.”",
+    "meditatio_perguntas": [
+      "Em que me apoio para atravessar o deserto?",
+      "O amor de Deus está selado no meu coração?",
+      "Que “águas” ameaçam apagar o meu amor, e como resistir?"
+    ],
+    "oratio_guia": "Senhor, cujo amor é mais forte que a morte, põe-me como selo sobre o teu coração. Que nenhuma água apague em mim a chama da caridade, e que eu suba do deserto apoiado em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Põe-me como um selo sobre o teu coração",
+      "ref": "Ct 8,6"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

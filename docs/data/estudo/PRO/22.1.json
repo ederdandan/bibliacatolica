@@ -1,0 +1,49 @@
+{
+  "id": "PRO.22.1",
+  "livro": "PRO",
+  "titulo": "O bom nome e as palavras dos sábios",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 22,1–24,34",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "O bom nome e os conselhos dos sábios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Mais vale o bom nome do que muitas riquezas.” Rico e pobre se encontram: o Senhor fez um e outro. Instrui o menino no caminho que deve seguir; nem na velhice se afastará dele. Quem semeia iniquidade colhe desgraça. A partir de 22,17, as “palavras dos sábios”: não roubes o pobre, não te faças amigo do colérico, não desloques os marcos antigos. Diante dos poderosos, modera o apetite; não te canses para enriquecer: a riqueza voa como águia. Não negues a correção à criança. Não invejes os pecadores, mas permanece no temor do Senhor. Livra os que são levados à morte. “O justo cai sete vezes e se levanta.” Não te alegres quando o teu inimigo cair. O campo do preguiçoso está coberto de espinhos.",
+    "alegorico": "“O justo cai sete vezes e se levanta” foi aplicado pela tradição à perseverança dos santos, sustentada pela graça de Cristo, que levantou Pedro depois da queda.",
+    "moral": "A educação das crianças marca toda a vida. O bom nome se constrói com integridade, e vale mais que a riqueza que “voa como águia”. Não se alegrar com a queda do inimigo é já um passo para o amor aos inimigos.",
+    "anagogico": "Levantar-se depois de cada queda é caminho de esperança: ao fim, o justo será levantado definitivamente na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mais vale o bom nome do que muitas riquezas.” “Instrui o menino no caminho que deve seguir.” “Não te fatigues por te enriquecer.” “O justo ainda que caia sete vezes, tornar-se-á a levantar.” “Não te alegres quando cair o teu inimigo.”",
+    "meditatio_perguntas": [
+      "Que caminho estou ensinando às crianças que dependem de mim?",
+      "Levanto-me depois das quedas, ou desanimo?",
+      "Alegro-me secretamente com a queda de quem não gosto?"
+    ],
+    "oratio_guia": "Senhor, dá-me um nome limpo diante de ti e dos homens. Quando eu cair, levanta-me; e livra-me de me alegrar com a queda do meu inimigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "o justo ainda que caia sete vezes, tornar-se-á a levantar",
+      "ref": "Pr 24,16"
+    }
+  },
+  "ancoras": {
+    "22:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os provérbios de 22,17–24,22 têm paralelos com a “Instrução de Amenemope”, texto sapiencial egípcio, assumidos e transformados pela fé de Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

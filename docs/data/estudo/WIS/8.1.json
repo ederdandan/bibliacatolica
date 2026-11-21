@@ -1,0 +1,49 @@
+{
+  "id": "WIS.8.1",
+  "livro": "WIS",
+  "titulo": "A sabedoria, esposa e companheira da vida",
+  "secao": "Elogio da Sabedoria",
+  "referencia": "Sb 8,1-21",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria, esposa desejada e mestra das virtudes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A Sabedoria se estende com força de um extremo a outro e governa tudo com suavidade. Salomão a amou desde a juventude e quis tomá-la por esposa. Ela ensina a temperança, a prudência, a justiça e a fortaleza, as coisas mais úteis aos homens. Com ela terá glória, conselho e consolo nas preocupações; a sua companhia não traz amargura, mas alegria. Compreendendo que não poderia possuí-la se Deus não a desse, e que já era sabedoria saber de quem vem esse dom, dirigiu-se ao Senhor e orou.",
+    "alegorico": "A antífona “Ó Sabedoria” do Advento (17 de dezembro) usa estas palavras: Cristo, Sabedoria do Altíssimo, que dispõe tudo com força e suavidade. A sabedoria como esposa evoca a união mística da alma com Cristo.",
+    "moral": "Aqui aparecem pela primeira vez as quatro virtudes cardeais: temperança, prudência, justiça e fortaleza. A sabedoria não é só conhecimento, é vida virtuosa. E saber que ela é dom já é sinal de sabedoria.",
+    "anagogico": "A convivência com a Sabedoria sem amargura antecipa a alegria eterna de estar com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sabedoria estende-se poderosa de uma extremidade à outra, e dispõe todas as coisas com suavidade.” “Amei-a desde a minha juventude.” “Ela ensina a temperança, a prudência, a justiça e a fortaleza.”",
+    "meditatio_perguntas": [
+      "Qual das quatro virtudes cardeais preciso mais pedir?",
+      "Vejo a sabedoria como companheira desejável ou como peso?",
+      "Reconheço que toda sabedoria é dom?"
+    ],
+    "oratio_guia": "Ó Sabedoria, que dispões todas as coisas com força e suavidade, vem ensinar-me o caminho da prudência, da justiça, da fortaleza e da temperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "dispõe todas as coisas com suavidade",
+      "ref": "Sb 8,1"
+    }
+  },
+  "ancoras": {
+    "8:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira enumeração bíblica das quatro virtudes cardeais, herdadas da filosofia grega e assumidas pela tradição cristã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

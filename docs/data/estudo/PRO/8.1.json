@@ -1,0 +1,49 @@
+{
+  "id": "PRO.8.1",
+  "livro": "PRO",
+  "titulo": "A Sabedoria eterna junto de Deus",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 8,1-36",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria eterna, artífice junto de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A Sabedoria clama nos montes e às portas: vós, homens, eu vos chamo; ouvi, porque falo coisas importantes; a minha instrução vale mais que prata. Por mim reinam os reis; amo os que me amam, e os que me buscam me acham. Depois revela a sua origem: “O Senhor me possuiu no princípio dos seus caminhos, antes que criasse coisa alguma; desde a eternidade fui constituída”. Antes dos abismos e dos montes fui gerada; quando Ele firmava os céus e marcava o limite do mar, eu estava com Ele como artífice, brincando diante dele, e “as minhas delícias são estar com os filhos dos homens”. Quem me encontrar encontrará a vida.",
+    "alegorico": "Os Padres aplicaram esta passagem ao Verbo eterno, Sabedoria de Deus por quem tudo foi feito (Jo 1,1-3; Cl 1,15-17). A liturgia a aplica também a Maria, predestinada desde a eternidade no desígnio da Encarnação.",
+    "moral": "A Sabedoria não é fria: tem “delícias” em estar com os homens. Deus não criou por necessidade, mas como um jogo de amor. Buscar a Sabedoria é buscar uma Pessoa que deseja ser encontrada.",
+    "anagogico": "“Quem me encontrar encontrará a vida e alcançará do Senhor a salvação”: a vida eterna é a comunhão com a Sabedoria encarnada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu amo os que me amam, e os que me buscam me acham.” “O Senhor me possuiu no princípio de seus caminhos.” “Eu estava com ele, formando todas as coisas… achando as minhas delícias em estar com os filhos dos homens.”",
+    "meditatio_perguntas": [
+      "Sinto-me amado pela Sabedoria que se deleita em estar comigo?",
+      "Vejo a criação como obra de amor e beleza?",
+      "Busco a Cristo, Sabedoria do Pai, como quem busca a vida?"
+    ],
+    "oratio_guia": "Sabedoria eterna, que te deleitas em estar com os filhos dos homens, vem habitar comigo. Que eu te ame, te busque e te encontre, e em ti encontre a vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "achando as minhas delícias em estar com os filhos dos homens",
+      "ref": "Pr 8,31"
+    }
+  },
+  "ancoras": {
+    "8:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este texto foi central na controvérsia ariana: os Padres ortodoxos (Atanásio) mostraram que “possuiu”/“gerou” não faz do Verbo uma criatura.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

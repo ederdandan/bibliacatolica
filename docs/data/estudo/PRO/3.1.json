@@ -1,0 +1,40 @@
+{
+  "id": "PRO.3.1",
+  "livro": "PRO",
+  "titulo": "Confia no Senhor de todo o teu coração",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 3,1-35",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Confiança plena em Deus e correção paterna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Não esqueças os meus ensinamentos: dar-te-ão longos dias e paz. Que a misericórdia e a verdade não te deixem; grava-as no teu coração. “Tem confiança no Senhor de todo o teu coração e não te estribes na tua prudência; pensa nele em todos os teus caminhos, e ele aplanará as tuas sendas.” Honra o Senhor com os teus bens e as primícias. “Não rejeites a correção do Senhor, porque o Senhor castiga aquele a quem ama.” Feliz o homem que acha a sabedoria: ela vale mais que pérolas, é árvore da vida. Pela sabedoria Deus fundou a terra. Não recuses o bem a quem precisa; não trames o mal contra o vizinho; não invejes o violento.",
+    "alegorico": "A Carta aos Hebreus (12,5-6) cita a correção paterna para os cristãos provados. A sabedoria “árvore da vida” aponta para a cruz de Cristo, nova árvore da vida que dá frutos de salvação.",
+    "moral": "Confiar em Deus “de todo o coração” é o oposto de apoiar-se só nos próprios cálculos. As provações podem ser correção de um Pai que ama. A sabedoria se traduz em caridade concreta: não adiar o bem a quem precisa.",
+    "anagogico": "A árvore da vida que a sabedoria oferece reaparece no Apocalipse (22,2): na cidade eterna, os seus frutos curam as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tem confiança no Senhor de todo o teu coração, e não te estribes na tua prudência.” “Pensa nele em todos os teus caminhos.” “O Senhor castiga aquele a quem ama.” “É uma árvore de vida para os que a abraçam.”",
+    "meditatio_perguntas": [
+      "Em que área ainda me estribo só na minha prudência?",
+      "Vejo as correções de Deus como sinal de amor?",
+      "Adio o bem que posso fazer hoje?"
+    ],
+    "oratio_guia": "Senhor, eu confio em ti de todo o meu coração. Aplana as minhas sendas, corrige-me como Pai, e não permitas que eu negue o bem a quem precisa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tem confiança no Senhor de todo o teu coração, e não te estribes na tua prudência",
+      "ref": "Pr 3,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

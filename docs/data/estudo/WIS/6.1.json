@@ -1,0 +1,40 @@
+{
+  "id": "WIS.6.1",
+  "livro": "WIS",
+  "titulo": "Os reis busquem a sabedoria",
+  "secao": "Elogio da Sabedoria",
+  "referencia": "Sb 6,1-27",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A sabedoria se deixa encontrar pelos que a buscam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor se dirige aos reis: o poder lhes vem do Senhor, que examinará as suas obras; os poderosos serão julgados com rigor, pois Deus não teme a grandeza de ninguém e cuida igualmente do pequeno e do grande. Por isso aprendam a sabedoria. Ela é brilhante e nunca murcha; facilmente se deixa ver pelos que a amam e encontrar pelos que a buscam; antecipa-se a quem a deseja; quem madruga por ela a encontra sentada à porta. O seu princípio é o desejo sincero da instrução; o amor da instrução leva a guardar as suas leis, que garantem a incorruptibilidade e aproximam de Deus.",
+    "alegorico": "A Sabedoria que se antecipa a quem a procura e espera à porta prefigura Cristo, Sabedoria de Deus, que “está à porta e bate” (Ap 3,20) e se deixa encontrar pelos que o buscam.",
+    "moral": "Toda autoridade é responsabilidade diante de Deus. E o caminho da sabedoria começa por um desejo sincero: quem deseja aprender já está sendo procurado pela Sabedoria.",
+    "anagogico": "A escada do desejo à incorruptibilidade e desta à proximidade de Deus conduz ao Reino eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O poder vos foi dado pelo Senhor.” “Brilhante é a sabedoria, e nunca se empana; facilmente é vista por aqueles que a amam.” “Quem madruga por ela não se cansará: encontrá-la-á sentada à sua porta.”",
+    "meditatio_perguntas": [
+      "Exerço a minha autoridade como quem prestará contas?",
+      "Desejo de verdade a sabedoria?",
+      "Madrugo para buscar a Deus?"
+    ],
+    "oratio_guia": "Senhor, que confias a cada um alguma autoridade, dá-me exercê-la com justiça. Acende em mim o desejo da Sabedoria, para que a encontre sentada à minha porta. Amém.",
+    "contemplatio_foco": {
+      "texto": "Brilhante é a sabedoria, e nunca se empana",
+      "ref": "Sb 6,13"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

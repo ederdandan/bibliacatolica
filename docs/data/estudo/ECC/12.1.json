@@ -1,0 +1,40 @@
+{
+  "id": "ECC.12.1",
+  "livro": "ECC",
+  "titulo": "Lembra-te do teu Criador; teme a Deus",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 12,1-14",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Lembra-te do teu Criador: temer a Deus é o homem todo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Lembra-te do teu Criador nos dias da tua juventude, antes que venham os dias maus.” Segue uma alegoria da velhice: o sol e as estrelas escurecem, os guardas da casa (as mãos) tremem, as que moem (os dentes) param, as que olham pelas janelas (os olhos) escurecem, a amendoeira floresce (cabelos brancos); o homem vai para a sua casa eterna, rompe-se o fio de prata, quebra-se o vaso de ouro, o pó volta à terra e o espírito volta a Deus que o deu. Vaidade de vaidades. O epílogo: o Eclesiastes ensinou o povo; as palavras dos sábios são aguilhões, dadas por um só Pastor. Conclusão: “Teme a Deus e observa os seus mandamentos, porque isso é o homem todo”; Deus julgará toda obra, até as ocultas.",
+    "alegorico": "O “único Pastor” de quem vêm as palavras dos sábios é Deus, e para os cristãos Cristo, Bom Pastor e Mestre. O espírito que volta a Deus anuncia a confiança de Jesus: “Pai, nas tuas mãos entrego o meu espírito”.",
+    "moral": "A juventude é o tempo de se lembrar de Deus, não de adiar. A velhice e a morte não são tragédia para quem viveu no temor de Deus. Tudo se resume em temer a Deus e guardar os mandamentos.",
+    "anagogico": "“O espírito volta a Deus que o deu”: a morte é retorno ao Criador, e o juízo final revelará todas as obras, até as ocultas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lembra-te do teu Criador nos dias da tua juventude.” “Antes que se rompa o cordão de prata… e o pó volte à terra, de onde veio, e o espírito volte a Deus, que o deu.” “Teme a Deus e observa os seus mandamentos, porque isso é o homem todo.”",
+    "meditatio_perguntas": [
+      "Lembro-me do meu Criador agora, ou deixo para depois?",
+      "Como encaro o envelhecimento e a morte?",
+      "O temor de Deus é, de fato, “o homem todo” para mim?"
+    ],
+    "oratio_guia": "Senhor, meu Criador, que eu me lembre de ti em todos os dias da minha vida. Quando o meu espírito voltar a ti, encontre-me no teu temor e fiel aos teus mandamentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembra-te do teu Criador nos dias da tua juventude",
+      "ref": "Ecl 12,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "WIS.5.1",
+  "livro": "WIS",
+  "titulo": "O arrependimento tardio dos ímpios: os justos viverão para sempre",
+  "secao": "O destino do justo e do ímpio",
+  "referencia": "Sb 5,1-24",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O juízo revela quem tinha razão: os justos vivem para sempre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No juízo, o justo estará de pé com grande confiança diante dos que o oprimiram. Os ímpios, espantados, dirão entre si: este é aquele de quem zombávamos; insensatos, julgávamos a sua vida loucura; como foi contado entre os filhos de Deus? Erramos o caminho da verdade. De que nos valeu o orgulho e a riqueza? Tudo passou como sombra, como navio que não deixa rasto, como seta no ar. “Os justos, pelo contrário, viverão para sempre; a sua recompensa está no Senhor.” Receberão o reino da glória; Deus se arma de zelo, veste a justiça como couraça e combate os insensatos com toda a criação.",
+    "alegorico": "O justo de pé diante dos perseguidores é Cristo ressuscitado e glorificado, e com Ele os mártires. A armadura de Deus (couraça da justiça, capacete do juízo) é retomada por São Paulo para o cristão (Ef 6,13-17).",
+    "moral": "O que hoje parece loucura (fé, castidade, pobreza, perdão) será reconhecido como sabedoria. Vale a pena perguntar-se agora o que valerá no fim, antes de lamentar como os ímpios.",
+    "anagogico": "O “reino da glória e o diadema da beleza” recebidos da mão do Senhor são a vida eterna dos justos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este é aquele de quem outrora zombávamos.” “Erramos, pois, o caminho da verdade.” “Que nos aproveitou a soberba?” “Os justos, pelo contrário, viverão para sempre; a sua recompensa está no Senhor.”",
+    "meditatio_perguntas": [
+      "O que na minha vida passará “como sombra”?",
+      "Tenho medo de parecer louco por causa da fé?",
+      "Que coisa eu lamentaria não ter feito, se o juízo fosse hoje?"
+    ],
+    "oratio_guia": "Senhor, recompensa dos justos, faze-me escolher hoje o que permanece. Que eu não erre o caminho da verdade e viva para sempre contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os justos, pelo contrário, viverão para sempre; a sua recompensa está no Senhor",
+      "ref": "Sb 5,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,24 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Convite à sabedoria
+1:1-1:33 | O temor do Senhor é o princípio da sabedoria
+2:1-2:22 | Os frutos de buscar a sabedoria
+3:1-3:35 | Confia no Senhor de todo o teu coração
+4:1-4:27 | Guarda o teu coração: a vereda dos justos é luz
+5:1-5:23 | Bebe da água da tua cisterna
+6:1-6:35 | Vai ter com a formiga, ó preguiçoso
+7:1-7:27 | A sedução da mulher estranha
+8:1-8:36 | A Sabedoria eterna junto de Deus
+9:1-9:18 | A Sabedoria edificou a sua casa
+## Provérbios de Salomão
+10:1-12:28 | O justo e o ímpio: a caridade cobre todas as faltas
+13:1-15:33 | A mulher prudente edifica a casa; a resposta branda
+16:1-18:24 | O homem pensa o caminho, o Senhor dirige os passos
+19:1-21:31 | Quem se compadece do pobre empresta ao Senhor
+22:1-24:34 | O bom nome e as palavras dos sábios
+## Provérbios recolhidos pelos homens de Ezequias
+25:1-27:27 | Se o teu inimigo tiver fome, dá-lhe de comer
+28:1-29:27 | O justo, como leão confiante
+## Apêndices
+30:1-30:33 | Palavras de Agur: nem pobreza nem riqueza
+31:1-31:31 | A mulher virtuosa

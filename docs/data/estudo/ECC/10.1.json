@@ -1,0 +1,40 @@
+{
+  "id": "ECC.10.1",
+  "livro": "ECC",
+  "titulo": "Lança o teu pão sobre as águas",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 10,1–11,10",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Generosidade e confiança diante do futuro incerto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma mosca morta estraga o perfume; um pouco de loucura pesa mais que sabedoria e honra. O coração do sábio está à direita, o do insensato à esquerda. Seguem provérbios: quem cava a cova nela cai; o machado sem fio exige mais força; o tolo multiplica palavras; ai da terra cujo rei é criança; pela preguiça cai o teto; não amaldiçoes o rei nem em pensamento. No capítulo 11: “Lança o teu pão sobre as águas, porque depois de muito tempo o acharás”; reparte com sete e com oito. Quem observa o vento não semeia; semeia de manhã e à tarde, pois não sabes o que dará fruto. Alegra-te, jovem, mas sabe que Deus te julgará.",
+    "alegorico": "O pão lançado sobre as águas foi lido como figura da esmola e da pregação do Evangelho: semente lançada sem cálculo, que Deus faz frutificar (Mt 13).",
+    "moral": "A generosidade não calcula retorno: partilha com “sete e oito”. Quem espera condições perfeitas nunca semeia. A juventude é para gozar, mas com responsabilidade diante de Deus. Pequenas faltas (a mosca no perfume) estragam grandes virtudes.",
+    "anagogico": "O pão reencontrado “depois de muito tempo” é a recompensa eterna das obras de misericórdia (Mt 25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A mosca que morre no unguento corrompe-o.” “Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás.” “Quem observa o vento não semeia.” “Alegra-te, jovem… mas sabe que Deus te chamará a juízo.”",
+    "meditatio_perguntas": [
+      "Que “mosca” estraga o perfume da minha vida?",
+      "Sou generoso sem calcular retorno?",
+      "Que boa obra adio esperando as condições perfeitas?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a lançar o meu pão sobre as águas, a semear de manhã e à tarde sem medo do vento. Guarda o perfume da minha vida das pequenas faltas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás",
+      "ref": "Ecl 11,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

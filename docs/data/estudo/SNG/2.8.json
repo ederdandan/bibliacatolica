@@ -1,0 +1,40 @@
+{
+  "id": "SNG.2.8",
+  "livro": "SNG",
+  "titulo": "Levanta-te, amada minha, e vem",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 2,8-17",
+  "ini": {
+    "c": 2,
+    "v": 8
+  },
+  "fim": {
+    "c": 2,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O convite primaveril do amado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A voz do meu amado! Ei-lo que vem, saltando sobre os montes”, como gazela. Ele espreita pelas janelas e diz: “Levanta-te, amada minha, formosa minha, e vem. O inverno passou, a chuva cessou, as flores aparecem na terra, chegou o tempo da poda, ouve-se a voz da rola”. “Pomba minha, nas fendas da rocha, mostra-me o teu rosto, faze-me ouvir a tua voz.” Apanhai as raposinhas que devastam as vinhas. “O meu amado é para mim e eu para ele; ele apascenta entre os lírios.” Até que sopre a brisa do dia, volta, meu amado.",
+    "alegorico": "O amado que salta sobre os montes é Cristo que vem na Encarnação e na Ressurreição; o inverno que passou é o tempo da Lei e do pecado, e a primavera é a Páscoa. As raposinhas são os pequenos pecados e as heresias que devastam a vinha da Igreja.",
+    "moral": "Deus toma a iniciativa: vem, chama, espera a resposta. Ele quer ouvir a nossa voz e ver o nosso rosto, sem máscaras. Cuidar das “raposinhas”: pequenas faltas que estragam o amor.",
+    "anagogico": "“O meu amado é para mim e eu para ele” é a fórmula da comunhão eterna, quando a brisa do dia eterno soprar e as sombras fugirem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A voz do meu amado! Ei-lo que vem saltando sobre os montes.” “Levanta-te, rainha amada, formosa minha, e vem. O inverno já passou.” “Mostra-me o teu rosto, faze-me ouvir a tua voz.” “O meu amado é para mim e eu para ele.”",
+    "meditatio_perguntas": [
+      "Escuto a voz do Amado que me chama a levantar?",
+      "Que inverno da minha alma já passou?",
+      "Que “raposinhas” estão estragando a minha vinha?"
+    ],
+    "oratio_guia": "Senhor, que vens saltando sobre os montes, dá-me escutar a tua voz e levantar-me. Mostra-me o teu rosto e escuta a minha voz. Tu és meu e eu sou teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu amado é para mim e eu para ele",
+      "ref": "Ct 2,16"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

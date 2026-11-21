@@ -1,0 +1,40 @@
+{
+  "id": "WIS.14.1",
+  "livro": "WIS",
+  "titulo": "A origem e os males da idolatria",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 14,1–15,19",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A idolatria, princípio de toda corrupção",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O navegante invoca um pedaço de madeira mais frágil que o barco que o leva; mas é a providência do Pai que guia o navio, e bendito é o lenho pelo qual se faz justiça. Os ídolos não existiam no princípio: nasceram da dor de um pai que fez a imagem do filho morto, e da lisonja aos reis distantes. Daí veio a corrupção: ritos secretos, matanças de crianças, adultérios, perjúrios, roubo, desordem. “O culto dos ídolos é o princípio, a causa e o fim de todo mal.” Mas tu, nosso Deus, és benigno, verdadeiro e paciente; conhecer-te é a justiça perfeita. O oleiro molda deuses do mesmo barro de que é feito.",
+    "alegorico": "“Bendito o lenho pelo qual se faz justiça” foi lido pelos Padres como referência à cruz de Cristo, lenho da salvação.",
+    "moral": "A idolatria não é coisa do passado: nasce da dor, da lisonja e do desejo de controlar. Tudo o que absolutizamos (dinheiro, poder, prazer, imagem) produz desordem moral. Conhecer o Deus verdadeiro é a raiz da justiça.",
+    "anagogico": "“Conhecer-te é a justiça perfeita; conhecer o teu poder é a raiz da imortalidade”: a vida eterna é conhecer o Deus verdadeiro (Jo 17,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É a tua providência, ó Pai, que governa o navio.” “Bendito o lenho pelo qual se faz a justiça.” “O culto dos ídolos é a causa e o fim de todo o mal.” “Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente.”",
+    "meditatio_perguntas": [
+      "Que “ídolo” nasceu de uma dor minha mal vivida?",
+      "Onde vejo desordem que nasce de pôr algo no lugar de Deus?",
+      "Confio na providência do Pai que governa o meu barco?"
+    ],
+    "oratio_guia": "Ó Deus nosso, benigno, verdadeiro e paciente, que governas tudo com misericórdia, livra-me de todo ídolo. Bendito o lenho da cruz, por onde veio a justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente, e tudo governas com misericórdia",
+      "ref": "Sb 15,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

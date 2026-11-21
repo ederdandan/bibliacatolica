@@ -1,0 +1,49 @@
+{
+  "id": "PRO.31.1",
+  "livro": "PRO",
+  "titulo": "A mulher virtuosa",
+  "secao": "Apêndices",
+  "referencia": "Pr 31,1-31",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A mulher virtuosa que teme o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A mãe do rei Lamuel o instrui: não entregues às mulheres a tua força; não convém aos reis beber vinho; abre a boca em favor do mudo e defende o direito do pobre. Segue o poema alfabético da mulher forte: “Quem achará uma mulher virtuosa? O seu valor supera o das pérolas”. O marido confia nela; ela lhe faz bem todos os dias. Trabalha a lã e o linho, levanta-se de noite, compra um campo, planta uma vinha, cinge-se de força. Estende a mão ao pobre. Fala com sabedoria, a lei da bondade está na sua língua. Os filhos a proclamam feliz. “A graça é enganadora e a formosura é vã; a mulher que teme o Senhor, essa será louvada.”",
+    "alegorico": "A Igreja aplica este poema às santas mulheres e, eminentemente, a Maria; os Padres também viram nele a Igreja, esposa fiel de Cristo, que trabalha e alimenta os filhos.",
+    "moral": "O livro termina com o elogio da mulher que une trabalho, sabedoria, caridade e temor de Deus: a sabedoria se encarna na vida doméstica e social. O valor da pessoa está no temor do Senhor, não na beleza passageira. A autoridade é para defender o pobre.",
+    "anagogico": "“Ri-se do dia de amanhã”: a confiança da mulher forte é imagem da esperança cristã, que não teme o futuro porque se apoia em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Abre a tua boca em favor do mudo.” “Quem achará uma mulher virtuosa? O seu valor é muitíssimo superior ao das pérolas.” “Abriu a sua mão ao necessitado.” “A graça é enganadora, e a formosura é vã; a mulher que teme ao Senhor, essa será louvada.”",
+    "meditatio_perguntas": [
+      "Agradeço as mulheres fortes que Deus pôs na minha vida?",
+      "Abro a boca em favor de quem não tem voz?",
+      "Busco o louvor que vem do temor de Deus ou o da aparência?"
+    ],
+    "oratio_guia": "Senhor, obrigado pelas mulheres virtuosas que me formaram. Por intercessão de Maria, faze-me trabalhar com sabedoria, abrir a mão ao pobre e buscar só o louvor que vem do teu temor. Amém.",
+    "contemplatio_foco": {
+      "texto": "A graça é enganadora, e a formosura é vã; a mulher que teme ao Senhor, essa será louvada",
+      "ref": "Pr 31,30"
+    }
+  },
+  "ancoras": {
+    "31:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 10-31 formam um poema acróstico: cada versículo começa com uma letra do alfabeto hebraico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

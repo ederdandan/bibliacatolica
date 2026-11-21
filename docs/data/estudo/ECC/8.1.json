@@ -1,0 +1,40 @@
+{
+  "id": "ECC.8.1",
+  "livro": "ECC",
+  "titulo": "O homem não compreende a obra de Deus: come o teu pão com alegria",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 8,1–9,18",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O mistério do agir de Deus e a alegria simples",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A sabedoria ilumina o rosto. Obedece ao rei, mas sabe que há tempo e juízo para tudo. O homem não conhece o futuro nem domina o dia da morte. O autor vê ímpios honrados e justos tratados como ímpios: vaidade. Por isso louva a alegria. Por mais que se esforce, o homem não descobre a obra que Deus faz debaixo do sol. No capítulo 9: justos e sábios estão na mão de Deus; a mesma sorte toca a todos; mais vale cão vivo que leão morto. “Vai, come o teu pão com alegria e bebe com gosto o teu vinho, porque a Deus agradam as tuas obras”; goza a vida com a mulher que amas; faze com vigor o que puderes. A sabedoria de um pobre salvou a cidade, mas ninguém se lembrou dele.",
+    "alegorico": "O pobre sábio que salva a cidade e é esquecido é figura de Cristo, que salva o mundo pela cruz e é desprezado. O pão e o vinho comidos com alegria evocam a Eucaristia, alegria dada aos que agradam a Deus.",
+    "moral": "Diante do mistério do mal e da sorte comum, o sábio não se desespera nem se rebela: acolhe as alegrias legítimas (o pão, o vinho, o amor conjugal) e trabalha com empenho. Humildade para aceitar que não compreendemos a obra de Deus.",
+    "anagogico": "“Estão na mão de Deus” os justos e os sábios: a última palavra sobre o destino não é a sorte cega, mas a mão de Deus, que a Sabedoria (3,1) revelará como vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sabedoria do homem reluz no seu rosto.” “O homem não poderá descobrir a obra que Deus faz.” “Os justos e os sábios estão na mão de Deus.” “Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho.”",
+    "meditatio_perguntas": [
+      "Aceito não compreender tudo o que Deus faz?",
+      "Sei gozar o pão de cada dia com alegria?",
+      "Quem são os “pobres sábios” esquecidos que me fizeram bem?"
+    ],
+    "oratio_guia": "Senhor, em cujas mãos estão os justos, dá-me paz diante do que não entendo. Que eu coma o meu pão com alegria, ame com fidelidade e trabalhe com vigor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho",
+      "ref": "Ecl 9,7"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "PRO.9.1",
+  "livro": "PRO",
+  "titulo": "A Sabedoria edificou a sua casa",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 9,1-18",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Os dois banquetes: Sabedoria e Loucura",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A Sabedoria edificou para si uma casa, levantou sete colunas.” Imolou as vítimas, misturou o vinho, pôs a mesa, enviou as servas a chamar dos lugares altos da cidade: quem é simples venha aqui; “vinde, comei o meu pão e bebei o vinho que vos preparei”; deixai a ingenuidade e vivereis. Quem corrige o zombador recebe afronta; corrige o sábio e ele te amará. “O princípio da sabedoria é o temor do Senhor.” Do outro lado, a Loucura, mulher barulhenta e ignorante, senta-se à porta e chama os que passam: as águas roubadas são mais doces. Mas os seus convidados estão no fundo do inferno.",
+    "alegorico": "A tradição viu na casa de sete colunas a Igreja, sustentada pelos sete sacramentos e dons do Espírito; o banquete de pão e vinho preparado pela Sabedoria é a Eucaristia, para onde os servos (apóstolos) chamam os simples.",
+    "moral": "Dois convites disputam a nossa vida: a mesa da Sabedoria, que exige deixar a ingenuidade, e a da Loucura, que oferece o prazer do proibido. O sábio aceita a correção; o zombador a rejeita.",
+    "anagogico": "O banquete da Sabedoria antecipa o banquete do Reino; o da Loucura termina “no fundo do inferno”: a escolha tem alcance eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sabedoria edificou para si uma casa, levantou sete colunas.” “Vinde, comei o meu pão, e bebei o vinho que vos preparei.” “O princípio da sabedoria é o temor do Senhor.” “As águas furtadas são mais doces.”",
+    "meditatio_perguntas": [
+      "A que mesa respondo mais: à da Sabedoria ou à da Loucura?",
+      "Aceito a correção com gratidão?",
+      "Vou à Eucaristia como ao banquete da Sabedoria?"
+    ],
+    "oratio_guia": "Senhor, Sabedoria que preparas o pão e o vinho, eu aceito o teu convite. Faze-me deixar a ingenuidade, amar a correção e fugir das águas roubadas. Amém.",
+    "contemplatio_foco": {
+      "texto": "A sabedoria edificou para si uma casa, levantou sete colunas",
+      "ref": "Pr 9,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

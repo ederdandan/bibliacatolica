@@ -1,0 +1,49 @@
+{
+  "id": "WIS.1.1",
+  "livro": "WIS",
+  "titulo": "Amai a justiça: Deus não fez a morte",
+  "secao": "O destino do justo e do ímpio",
+  "referencia": "Sb 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Deus criou para a vida; a morte entrou pela injustiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro abre com um apelo aos governantes: amai a justiça, pensai bem do Senhor, buscai-o com simplicidade de coração. Ele se deixa encontrar pelos que não o tentam; a sabedoria não entra na alma maligna, e o Espírito santo da disciplina foge da falsidade. O Espírito do Senhor enche o universo e ouve tudo; a murmuração e a mentira não ficam ocultas. Não procureis a morte pelos desvios da vida: “Deus não fez a morte, nem se alegra com a perdição dos vivos”; criou tudo para que subsistisse. Foram os ímpios que chamaram a morte com as mãos e as palavras.",
+    "alegorico": "O Espírito que enche o universo é o mesmo que, em Pentecostes, enche a Igreja (Introito de Pentecostes: Spiritus Domini replevit orbem terrarum). Cristo, Vida, vem destruir a morte que Deus não fez.",
+    "moral": "A busca de Deus pede simplicidade de coração e retidão: a duplicidade afasta a sabedoria. Nossas palavras não são neutras; a murmuração e a mentira matam a alma.",
+    "anagogico": "Se Deus não fez a morte, o seu desígnio final é a vida: a justiça é imortal, e a morte será vencida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Amai a justiça… buscai-o com simplicidade de coração.” “O Espírito do Senhor encheu o universo.” “Deus não fez a morte, nem se alegra com a perdição dos vivos.” “A justiça é perpétua e imortal.”",
+    "meditatio_perguntas": [
+      "Busco a Deus com simplicidade ou com segundas intenções?",
+      "Que palavras minhas “chamam a morte”?",
+      "Creio que Deus me quer vivo, plenamente?"
+    ],
+    "oratio_guia": "Senhor, amigo da vida, dá-me um coração simples para te buscar. Que o teu Espírito, que enche o universo, me afaste da mentira e da murmuração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus não fez a morte, nem se alegra com a perdição dos vivos",
+      "ref": "Sb 1,13"
+    }
+  },
+  "ancoras": {
+    "1:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo é o Introito da Missa de Pentecostes no rito romano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

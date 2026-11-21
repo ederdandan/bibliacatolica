@@ -1,0 +1,49 @@
+{
+  "id": "SNG.4.1",
+  "livro": "SNG",
+  "titulo": "Toda és formosa: jardim fechado",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 4,1–5,1",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Toda és formosa: o jardim fechado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O amado descreve a beleza da esposa: olhos de pomba, cabelos como rebanho de cabras, dentes como ovelhas tosquiadas, lábios como fita de escarlate, pescoço como a torre de Davi. “Toda és formosa, minha amada, e em ti não há mácula.” Chama-a do Líbano; ela lhe roubou o coração com um só olhar. Os seus amores são melhores que o vinho. “Jardim fechado és, irmã minha esposa, nascente fechada, fonte selada”, cheia de romãs, nardo, açafrão, canela, mirra e aloés; fonte dos jardins, poço de águas vivas. Ela responde: venha o meu amado ao seu jardim. Ele vem, colhe, come e bebe: “Comei, amigos, inebriai-vos”.",
+    "alegorico": "A Igreja aplica “Toda és formosa e em ti não há mácula” (Tota pulchra es) à Imaculada Conceição de Maria; o “jardim fechado” e a “fonte selada” à sua virgindade perpétua. A Igreja é também esposa “sem mancha nem ruga” (Ef 5,27).",
+    "moral": "O amor vê a beleza do outro e a proclama. O “jardim fechado” ensina a castidade como guarda de um dom reservado ao esposo. A alma que se guarda para Deus torna-se jardim onde Ele se alegra.",
+    "anagogico": "O banquete do jardim (“comei, amigos”) antecipa a festa eterna, onde Cristo se alegra com a sua esposa purificada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como és formosa, minha amada!” “Toda és formosa, minha amada, e em ti não há mácula.” “Jardim fechado és, irmã minha esposa, nascente fechada, fonte selada.” “Venha o meu amado para o seu jardim.”",
+    "meditatio_perguntas": [
+      "Deixo Deus olhar-me com amor, apesar das minhas manchas?",
+      "Guardo o jardim do meu coração para Ele?",
+      "Como Maria, sou terra onde Deus pode habitar?"
+    ],
+    "oratio_guia": "Senhor, que fizeste Maria toda formosa e sem mácula, purifica também a mim. Faze do meu coração um jardim fechado para ti e vem colher nele os teus frutos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda és formosa, minha amada, e em ti não há mácula",
+      "ref": "Ct 4,7"
+    }
+  },
+  "ancoras": {
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O versículo é a origem da antífona mariana “Tota pulchra es, Maria”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

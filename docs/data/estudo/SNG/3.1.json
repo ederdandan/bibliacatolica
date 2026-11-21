@@ -1,0 +1,40 @@
+{
+  "id": "SNG.3.1",
+  "livro": "SNG",
+  "titulo": "Busquei aquele a quem ama a minha alma",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 3,1-11",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A busca noturna de quem ama a minha alma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "De noite, no seu leito, a esposa busca “aquele a quem ama a minha alma”, e não o acha. Levanta-se, percorre a cidade, as ruas e as praças; os guardas a encontram: “Vistes aquele a quem ama a minha alma?” Pouco depois de passar por eles, encontra-o: “Segurei-o e não o largarei”. Segue uma cena de cortejo: quem é esta que sobe do deserto como coluna de fumo de mirra e incenso? É a liteira de Salomão, cercada de sessenta valentes; o rei fez para si um palanquim de madeira do Líbano. Filhas de Sião, vede o rei Salomão com a coroa com que a mãe o coroou no dia das suas núpcias.",
+    "alegorico": "A liturgia aplica este texto a Maria Madalena que, de madrugada, procura o Senhor no sepulcro e o encontra ressuscitado, segurando-o (Jo 20,1-17). O rei coroado no dia das núpcias é Cristo, coroado de espinhos no dia da cruz, núpcias com a Igreja.",
+    "moral": "A ausência de Deus faz parte do caminho do amor: é preciso levantar-se e procurar, mesmo de noite. Quem busca com perseverança encontra; e, encontrando, deve “segurar e não largar”.",
+    "anagogico": "O encontro definitivo, em que a alma segura o Amado e nunca mais o perde, é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Durante a noite, no meu leito, busquei aquele a quem ama a minha alma.” “Vistes aquele a quem ama a minha alma?” “Encontrei aquele a quem ama a minha alma: segurei-o e não o largarei.”",
+    "meditatio_perguntas": [
+      "Procuro Cristo nas minhas noites, ou desisto?",
+      "A quem pergunto pelo Amado?",
+      "Seguro o Senhor quando o encontro, ou deixo-o escapar?"
+    ],
+    "oratio_guia": "Senhor, a quem ama a minha alma, nas minhas noites eu te procuro. Deixa-te encontrar e dá-me segurar-te e não te largar jamais. Amém.",
+    "contemplatio_foco": {
+      "texto": "busquei aquele a quem ama a minha alma",
+      "ref": "Ct 3,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

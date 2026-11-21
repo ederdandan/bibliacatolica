@@ -1,0 +1,21 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O destino do justo e do ímpio
+1:1-1:16 | Amai a justiça: Deus não fez a morte
+2:1-2:25 | O raciocínio dos ímpios: armemos laços ao justo
+3:1-3:19 | As almas dos justos estão na mão de Deus
+4:1-4:20 | A morte prematura do justo
+5:1-5:24 | O arrependimento tardio dos ímpios: os justos viverão para sempre
+## Elogio da Sabedoria
+6:1-6:27 | Os reis busquem a sabedoria
+7:1-7:30 | Salomão prefere a sabedoria: resplendor da luz eterna
+8:1-8:21 | A sabedoria, esposa e companheira da vida
+9:1-9:19 | Oração de Salomão pela sabedoria
+## A Sabedoria na história
+10:1-10:21 | A sabedoria salva os justos, de Adão a Moisés
+11:1-12:27 | Tu amas tudo o que existe: a clemência de Deus
+13:1-13:19 | Pela beleza das criaturas se conhece o Criador
+14:1-15:19 | A origem e os males da idolatria
+16:1-16:29 | A palavra que cura e o pão dos anjos
+17:1-18:25 | As trevas do Egito e a noite da libertação
+19:1-19:20 | O mar Vermelho e a criação renovada

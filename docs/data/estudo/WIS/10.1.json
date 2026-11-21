@@ -1,0 +1,40 @@
+{
+  "id": "WIS.10.1",
+  "livro": "WIS",
+  "titulo": "A sabedoria salva os justos, de Adão a Moisés",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 10,1-21",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria conduz a história da salvação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A Sabedoria guardou o primeiro homem e o levantou da queda. Quando a terra foi inundada, salvou o justo (Noé) num frágil lenho. Reconheceu o justo Abraão e o fortaleceu; salvou Ló do fogo das cinco cidades. Guiou Jacó em caminhos retos e lhe mostrou o reino de Deus; não abandonou José vendido, mas desceu com ele à prisão e lhe deu o cetro. Ela libertou o povo santo de uma nação opressora, entrou na alma de Moisés, fez o povo atravessar o mar Vermelho e afogou os inimigos. Então os justos cantaram o teu nome; ela abriu a boca dos mudos.",
+    "alegorico": "O “frágil lenho” que salva o justo do dilúvio prefigura a cruz e a Igreja-arca. A Sabedoria que desce com José à prisão anuncia Cristo que desce até a morte para libertar.",
+    "moral": "Deus age na história por meio de pessoas concretas e as acompanha nas provas (prisão, exílio, perseguição). Recordar a história da salvação fortalece a confiança na nossa própria história.",
+    "anagogico": "O cântico dos justos após a travessia do mar anuncia o cântico de Moisés e do Cordeiro na glória (Ap 15,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Foi ela que guardou o primeiro homem.” “Salvou o justo, governando-o sobre um vil lenho.” “Não o abandonou quando foi vendido, desceu com ele à prisão.” “A sabedoria abriu a boca dos mudos.”",
+    "meditatio_perguntas": [
+      "Consigo reconhecer a mão da Sabedoria na minha história?",
+      "Creio que Deus desce comigo às minhas “prisões”?",
+      "Que “boca muda” em mim precisa abrir-se para louvar?"
+    ],
+    "oratio_guia": "Senhor, cuja Sabedoria guiou os patriarcas, guia também a minha história. Desce comigo às prisões e abre a minha boca para cantar o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "a sabedoria abriu a boca dos mudos",
+      "ref": "Sb 10,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

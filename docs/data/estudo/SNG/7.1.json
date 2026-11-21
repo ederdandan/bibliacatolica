@@ -1,0 +1,40 @@
+{
+  "id": "SNG.7.1",
+  "livro": "SNG",
+  "titulo": "Quão belos são os teus passos",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 7,1–8,4",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "A beleza da esposa e o desejo da união",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O amado contempla a Sulamita dos pés à cabeça: os passos nas sandálias, o colo, o umbigo, o ventre como monte de trigo cercado de lírios, o pescoço como torre de marfim, os olhos como piscinas de Hesebon. É alta como palmeira; ele subirá à palmeira e colherá os seus cachos. Ela responde: “Eu sou do meu amado, e ele tem desejo de mim”. Convida-o ao campo, às vinhas, para ver se a vinha floresce: ali te darei os meus amores. No capítulo 8: quem me dera que fosses meu irmão, para te beijar em público sem desprezo; levar-te-ia à casa de minha mãe. A esquerda dele sob a cabeça dela, a direita a abraça. Não desperteis o amor.",
+    "alegorico": "A palmeira e os seus frutos foram lidos como a cruz e as virtudes da Igreja; o desejo de levar o Amado “à casa de minha mãe” como o desejo da Igreja de levar Cristo a todos os povos, e a Sinagoga (a mãe) a reconhecê-lo.",
+    "moral": "O desejo do Amado é recíproco: “ele tem desejo de mim” é uma das frases mais ousadas da Escritura sobre o amor de Deus. A alma é convidada a sair com Ele “ao campo”, à vida concreta, e lá dar-lhe os seus amores.",
+    "anagogico": "O abraço (“a sua esquerda sob a minha cabeça, a sua direita me abraça”) é imagem da união perfeita da visão beatífica."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quão belos são os teus pés nas sandálias, ó filha de príncipe!” “Eu sou do meu amado, e ele tem desejo de mim.” “Vem, meu amado, saiamos ao campo.” “A sua esquerda está debaixo da minha cabeça, e a sua direita me abraça.”",
+    "meditatio_perguntas": [
+      "Creio que Deus me deseja?",
+      "Convido o Senhor a ir comigo “ao campo” do meu trabalho e da minha vida?",
+      "Repouso no abraço de Deus?"
+    ],
+    "oratio_guia": "Senhor, que tens desejo de mim, leva-me contigo ao campo e às vinhas. Que eu te dê ali os meus amores e repouse no teu abraço. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quão belos são os teus pés, nas sandálias que trazes",
+      "ref": "Ct 7,1"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

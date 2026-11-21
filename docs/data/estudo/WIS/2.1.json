@@ -1,0 +1,49 @@
+{
+  "id": "WIS.2.1",
+  "livro": "WIS",
+  "titulo": "O raciocínio dos ímpios: armemos laços ao justo",
+  "secao": "O destino do justo e do ímpio",
+  "referencia": "Sb 2,1-25",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A lógica dos ímpios e a perseguição do justo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os ímpios raciocinam: a vida é curta e triste, nascemos por acaso e depois seremos como se nunca tivéssemos existido; o corpo vira cinza e o espírito se dissipa como ar. Por isso: gozemos os bens presentes, coroemo-nos de rosas, deixemos sinais de alegria por toda parte. Oprimamos o pobre justo e a viúva; a nossa força seja a lei. “Armemos laços ao justo, porque nos incomoda”: ele se diz filho de Deus, a sua vida é diferente; vejamos se as suas palavras são verdadeiras; condenemo-lo a morte infame. Assim pensam, mas erram: “Deus criou o homem para a imortalidade”; pela inveja do diabo entrou a morte no mundo.",
+    "alegorico": "Os Padres e a liturgia da Quaresma leem aqui uma profecia da Paixão: o justo que se diz filho de Deus, provocado e condenado à morte infame, é Cristo, de quem se zombou na cruz: “Se é Filho de Deus, que desça” (Mt 27,40-43).",
+    "moral": "O materialismo prático gera hedonismo e, depois, violência: quem não espera nada além desta vida acaba usando a força como lei. O justo incomoda simplesmente por existir. A inveja é porta da morte.",
+    "anagogico": "O homem criado “para a imortalidade, à imagem” de Deus tem destino eterno; a vida não é fumaça que se dissipa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Breve e triste é o tempo da nossa vida.” “Gozemos dos bens presentes.” “Armemos, pois, laços ao justo, porque nos é molesto.” “Deus criou o homem para a imortalidade.” “Pela inveja do diabo entrou a morte no mundo.”",
+    "meditatio_perguntas": [
+      "Vivo como quem espera a vida eterna?",
+      "Incomoda-me alguém justo? Por quê?",
+      "Onde a inveja abre em mim portas à morte?"
+    ],
+    "oratio_guia": "Senhor, que me criaste para a imortalidade, livra-me da lógica do “gozemos e esqueçamos”. Dá-me ser justo mesmo quando incomodo, como o teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus criou o homem para a imortalidade",
+      "ref": "Sb 2,23"
+    }
+  },
+  "ancoras": {
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pela inveja do diabo entrou a morte no mundo”: primeira identificação explícita, na Escritura, da serpente do Éden com o diabo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

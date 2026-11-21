@@ -1,0 +1,40 @@
+{
+  "id": "PRO.5.1",
+  "livro": "PRO",
+  "titulo": "Bebe da água da tua cisterna",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 5,1-23",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A fidelidade conjugal contra a sedução",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O pai previne o filho contra a mulher estranha: os seus lábios destilam mel e as suas palavras são mais suaves que o azeite, mas o fim é amargo como absinto; os seus pés descem à morte. Afasta-te dela, não te aproximes da porta da sua casa, para não entregares a outros a tua honra e os teus anos, e no fim gemeres: por que odiei a disciplina? “Bebe da água da tua cisterna”: alegra-te com a mulher da tua juventude, cerva amável; embriaga-te sempre com o seu amor. Os caminhos do homem estão diante dos olhos do Senhor; o ímpio é preso nas cordas do seu pecado.",
+    "alegorico": "A “mulher estranha” tornou-se figura da idolatria e da heresia, que seduzem com doçura; a esposa da juventude, da fidelidade à aliança com Deus e da Igreja, Esposa de Cristo.",
+    "moral": "O adultério promete doçura e entrega amargura: perde-se a honra, os bens e a paz. A fidelidade não é só renúncia; é alegria cultivada com a esposa, cerva amável. Fugir das ocasiões é sabedoria.",
+    "anagogico": "Diante dos olhos do Senhor estão todos os caminhos: a vida inteira será vista à luz do juízo, que revela a verdade das nossas fidelidades."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os lábios da mulher estranha destilam mel… mas o seu fim é amargo como absinto.” “Afasta dela o teu caminho.” “Bebe da água da tua cisterna.” “Alegra-te com a mulher da tua juventude.”",
+    "meditatio_perguntas": [
+      "Fujo das ocasiões que ameaçam a minha fidelidade?",
+      "Cultivo a alegria no amor que me foi dado?",
+      "Que “doçuras” me prometem e me deixam amargura?"
+    ],
+    "oratio_guia": "Senhor, que vês todos os meus caminhos, guarda-me das seduções que terminam em amargura. Dá-me alegria e fidelidade no amor que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bebe da água da tua cisterna",
+      "ref": "Pr 5,15"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

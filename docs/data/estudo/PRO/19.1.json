@@ -1,0 +1,40 @@
+{
+  "id": "PRO.19.1",
+  "livro": "PRO",
+  "titulo": "Quem se compadece do pobre empresta ao Senhor",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 19,1–21,31",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Quem se compadece do pobre empresta ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Mais vale o pobre íntegro que o rico de lábios perversos. A loucura do homem perverte o seu caminho e ele se irrita contra Deus. A mulher prudente é dom do Senhor. “O que se compadece do pobre empresta ao Senhor, e Ele lhe pagará.” Corrige o teu filho enquanto há esperança. Muitos são os projetos do coração, mas o desígnio do Senhor permanece. O vinho é zombador. Não digas: vingar-me-ei; espera no Senhor. “O coração do rei está na mão do Senhor como a água corrente.” Praticar a justiça agrada mais a Deus que os sacrifícios. Quem fecha o ouvido ao clamor do pobre também clamará e não será ouvido. Não há sabedoria contra o Senhor; o cavalo se prepara para a batalha, mas a vitória vem do Senhor.",
+    "alegorico": "Emprestar ao Senhor dando ao pobre antecipa Mt 25: o que fizestes aos pequenos, a mim o fizestes. Deus que inclina o coração dos reis governa a história para a vinda de Cristo.",
+    "moral": "A esmola é empréstimo a Deus, que paga com juros. A vingança pertence a Deus; esperar nele liberta do rancor. A justiça vale mais que o culto. Fechar o ouvido ao pobre fecha o céu à nossa oração.",
+    "anagogico": "“A vitória vem do Senhor”: o combate da história termina com a vitória de Deus, e a recompensa dos misericordiosos é eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O que se compadece do pobre empresta ao Senhor.” “Não digas: Vingar-me-ei; espera no Senhor, e ele te livrará.” “O coração do rei está na mão do Senhor.” “Quem fecha o ouvido ao clamor do pobre, também ele clamará e não será ouvido.”",
+    "meditatio_perguntas": [
+      "Vejo a esmola como empréstimo a Deus?",
+      "Guardo desejo de vingança?",
+      "Fecho os ouvidos a algum clamor?"
+    ],
+    "oratio_guia": "Senhor, em cujas mãos estão os corações, inclina o meu para os pobres. Livra-me da vingança e faze-me esperar em ti. Que eu ouça o clamor dos pequenos, para que ouças o meu. Amém.",
+    "contemplatio_foco": {
+      "texto": "O que se compadece do pobre empresta ao Senhor",
+      "ref": "Pr 19,17"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SNG.1.1",
+  "livro": "SNG",
+  "titulo": "Beija-me com os ósculos da tua boca",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 1,1–2,7",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "O desejo da esposa pelo amado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Cântico dos Cânticos, “o mais belo dos cânticos”, abre com o desejo da esposa: “Beija-me com os ósculos da tua boca: os teus amores são melhores que o vinho”; o teu nome é perfume derramado. Ela é morena, queimada pelo sol, porque os irmãos a puseram a guardar as vinhas. Pergunta onde o amado apascenta o rebanho ao meio-dia. Os dois trocam louvores: ela é formosa, os olhos de pomba; ele é um ramalhete de mirra entre os seios dela. Ela se diz “flor do campo, lírio dos vales”; ele a vê como lírio entre espinhos. À sombra do amado ela se senta; ele a conduz à sala do vinho; o seu estandarte sobre ela é o amor. “Não desperteis o amor antes que ele queira.”",
+    "alegorico": "A tradição judaica leu o Cântico como amor de Deus e Israel; os Padres (Orígenes, Gregório de Nissa) e São Bernardo, como amor de Cristo e da Igreja e de Cristo e a alma. O “beijo da boca” é a Encarnação: o Verbo se une à nossa carne.",
+    "moral": "O amor humano entre homem e mulher é bom, belo e digno de Deus. A esposa “morena” que não esconde as suas marcas ensina que o amor verdadeiro acolhe a pessoa inteira. O amor tem o seu tempo e não deve ser forçado.",
+    "anagogico": "A sala do vinho e o estandarte do amor anunciam o banquete das núpcias do Cordeiro, onde a alma repousará à sombra do Amado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Beija-me com ósculos da tua boca.” “Os teus amores são melhores do que o vinho.” “Eu sou a flor do campo, o lírio dos vales.” “Levou-me à adega do vinho, e o amor é a sua bandeira sobre mim.”",
+    "meditatio_perguntas": [
+      "Desejo a Deus como a esposa deseja o amado?",
+      "Deixo-me amar por Cristo com as minhas “marcas de sol”?",
+      "Como vejo o amor humano à luz de Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, Esposo da Igreja e da minha alma, beija-me com o beijo da tua boca, que é a tua Palavra feita carne. Leva-me à adega do teu vinho e ergue sobre mim a bandeira do teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Beija-me com ósculos da tua boca",
+      "ref": "Ct 1,1"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cântico dos cânticos” é superlativo hebraico: o cântico por excelência. Na Vulgata, o título e o primeiro verso formam o v. 1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

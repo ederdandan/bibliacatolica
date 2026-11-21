@@ -1,0 +1,40 @@
+{
+  "id": "ECC.2.1",
+  "livro": "ECC",
+  "titulo": "A vaidade dos prazeres e das obras",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 2,1-26",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Prazeres e obras não preenchem o coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Eclesiastes faz a experiência do prazer: riso, vinho, grandes obras, casas, vinhas, jardins, piscinas, servos, rebanhos, prata e ouro, cantores, mulheres; nada recusou aos olhos. Mas, olhando tudo o que fizera, viu que era vaidade e caça ao vento. A sabedoria vale mais que a loucura, como a luz mais que as trevas; mas o sábio morre como o insensato. Odiou o seu trabalho, porque deixará tudo a quem não trabalhou. Conclusão: nada melhor que comer, beber e gozar do fruto do trabalho; “também isto vem da mão de Deus”, que dá sabedoria e alegria a quem lhe agrada.",
+    "alegorico": "O jardim de delícias que não sacia faz desejar o Jardim verdadeiro, o Paraíso que Cristo abre ao bom ladrão. As obras que se deixam a outros contrastam com o tesouro no céu.",
+    "moral": "Acumular experiências e bens não preenche. Mas o livro não cai no desprezo do mundo: aceitar com gratidão as alegrias simples, como dom de Deus, é sabedoria. O problema não é o prazer, é fazê-lo absoluto.",
+    "anagogico": "A morte iguala sábio e insensato aos olhos humanos; só a fé na vida eterna dá a resposta que o Eclesiastes ainda não tinha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não recusei aos meus olhos coisa alguma que desejassem.” “Vi que tudo era vaidade e aflição de espírito.” “Nada há melhor para o homem que comer e beber e gozar o fruto do seu trabalho. Mas também isto vem da mão de Deus.”",
+    "meditatio_perguntas": [
+      "Que experiência prometeu felicidade e me deixou vazio?",
+      "Recebo as alegrias simples como dom de Deus?",
+      "Para quem trabalho, no fim das contas?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a gozar com gratidão dos teus dons sem fazer deles o meu deus. Dá-me sabedoria e alegria, e um tesouro que não fique para trás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas também isto vem da mão de Deus",
+      "ref": "Ecl 2,24"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

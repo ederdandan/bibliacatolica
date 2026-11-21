@@ -1,0 +1,40 @@
+{
+  "id": "WIS.13.1",
+  "livro": "WIS",
+  "titulo": "Pela beleza das criaturas se conhece o Criador",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 13,1-19",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Pela beleza das criaturas chega-se ao Criador",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "São insensatos por natureza os homens que ignoraram Deus e, a partir dos bens visíveis, não souberam conhecer Aquele que é, nem reconheceram o Artífice pelas obras. Tomaram o fogo, o vento, o ar, as estrelas, as águas como deuses. Se a beleza os encantou, saibam quanto o Senhor delas é mais belo, pois o autor da beleza as criou. “Pela grandeza e beleza das criaturas se pode, por analogia, chegar ao conhecimento do seu Criador.” Esses são menos culpados, pois buscavam; mas não são desculpáveis. Mais infelizes são os que chamam deuses a obras de mãos humanas: o carpinteiro que, de um tronco, faz lenha e ídolo, e reza ao que não pode andar.",
+    "alegorico": "São Paulo segue este raciocínio em Rm 1,19-23: o invisível de Deus se conhece pelas obras. A beleza das criaturas aponta para Cristo, “o mais belo dos filhos dos homens”, por quem tudo foi feito.",
+    "moral": "A natureza é um livro que fala de Deus; ficar na criatura e esquecer o Criador é idolatria. A ciência e a contemplação da beleza podem e devem levar à adoração.",
+    "anagogico": "A beleza criada é sombra da Beleza incriada: o que hoje conhecemos por analogia, contemplaremos face a face na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“São insensatos por natureza todos os homens que ignoraram Deus.” “Se, encantados pela sua beleza, os tomaram por deuses, saibam quanto o Senhor delas é mais belo.” “Pela grandeza e beleza das criaturas se pode chegar ao conhecimento do seu Criador.”",
+    "meditatio_perguntas": [
+      "A beleza da criação me leva a louvar a Deus?",
+      "Paro na criatura e esqueço o Criador?",
+      "Que “ídolos de madeira” fabrico com as próprias mãos?"
+    ],
+    "oratio_guia": "Senhor, autor da beleza, que a grandeza das tuas obras me eleve a ti. Não permitas que eu adore o que tu fizeste, mas que te louve por meio de tudo. Amém.",
+    "contemplatio_foco": {
+      "texto": "pela grandeza e beleza das criaturas se pode, por analogia, chegar ao conhecimento do seu Criador",
+      "ref": "Sb 13,5"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

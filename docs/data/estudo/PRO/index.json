@@ -1,0 +1,263 @@
+{
+ "livro": "PRO",
+ "secoes": [
+  "Convite à sabedoria",
+  "Provérbios de Salomão",
+  "Provérbios recolhidos pelos homens de Ezequias",
+  "Apêndices"
+ ],
+ "pericopes": [
+  {
+   "id": "PRO.1.1",
+   "titulo": "O temor do Senhor é o princípio da sabedoria",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 1,1-33",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 33
+   }
+  },
+  {
+   "id": "PRO.2.1",
+   "titulo": "Os frutos de buscar a sabedoria",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 2,1-22",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 22
+   }
+  },
+  {
+   "id": "PRO.3.1",
+   "titulo": "Confia no Senhor de todo o teu coração",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 3,1-35",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 35
+   }
+  },
+  {
+   "id": "PRO.4.1",
+   "titulo": "Guarda o teu coração: a vereda dos justos é luz",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 4,1-27",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 27
+   }
+  },
+  {
+   "id": "PRO.5.1",
+   "titulo": "Bebe da água da tua cisterna",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 5,1-23",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 23
+   }
+  },
+  {
+   "id": "PRO.6.1",
+   "titulo": "Vai ter com a formiga, ó preguiçoso",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 6,1-35",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 35
+   }
+  },
+  {
+   "id": "PRO.7.1",
+   "titulo": "A sedução da mulher estranha",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 7,1-27",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 27
+   }
+  },
+  {
+   "id": "PRO.8.1",
+   "titulo": "A Sabedoria eterna junto de Deus",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 8,1-36",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 36
+   }
+  },
+  {
+   "id": "PRO.9.1",
+   "titulo": "A Sabedoria edificou a sua casa",
+   "secao": "Convite à sabedoria",
+   "referencia": "Pr 9,1-18",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 18
+   }
+  },
+  {
+   "id": "PRO.10.1",
+   "titulo": "O justo e o ímpio: a caridade cobre todas as faltas",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 10,1–12,28",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 28
+   }
+  },
+  {
+   "id": "PRO.13.1",
+   "titulo": "A mulher prudente edifica a casa; a resposta branda",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 13,1–15,33",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 33
+   }
+  },
+  {
+   "id": "PRO.16.1",
+   "titulo": "O homem pensa o caminho, o Senhor dirige os passos",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 16,1–18,24",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 24
+   }
+  },
+  {
+   "id": "PRO.19.1",
+   "titulo": "Quem se compadece do pobre empresta ao Senhor",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 19,1–21,31",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 31
+   }
+  },
+  {
+   "id": "PRO.22.1",
+   "titulo": "O bom nome e as palavras dos sábios",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 22,1–24,34",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 34
+   }
+  },
+  {
+   "id": "PRO.25.1",
+   "titulo": "Se o teu inimigo tiver fome, dá-lhe de comer",
+   "secao": "Provérbios recolhidos pelos homens de Ezequias",
+   "referencia": "Pr 25,1–27,27",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 27
+   }
+  },
+  {
+   "id": "PRO.28.1",
+   "titulo": "O justo, como leão confiante",
+   "secao": "Provérbios recolhidos pelos homens de Ezequias",
+   "referencia": "Pr 28,1–29,27",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 27
+   }
+  },
+  {
+   "id": "PRO.30.1",
+   "titulo": "Palavras de Agur: nem pobreza nem riqueza",
+   "secao": "Apêndices",
+   "referencia": "Pr 30,1-33",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 33
+   }
+  },
+  {
+   "id": "PRO.31.1",
+   "titulo": "A mulher virtuosa",
+   "secao": "Apêndices",
+   "referencia": "Pr 31,1-31",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 31
+   }
+  }
+ ]
+}

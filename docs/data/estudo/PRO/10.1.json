@@ -1,0 +1,40 @@
+{
+  "id": "PRO.10.1",
+  "livro": "PRO",
+  "titulo": "O justo e o ímpio: a caridade cobre todas as faltas",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 10,1–12,28",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O justo e o ímpio: a força das palavras e da caridade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a coleção de provérbios de Salomão, em sentenças antitéticas: o filho sábio alegra o pai, o insensato entristece a mãe. Tesouros da iniquidade não aproveitam; a justiça livra da morte. A mão preguiçosa empobrece; a diligente enriquece. A boca do justo é fonte de vida. “O ódio excita rixas, mas a caridade cobre todas as faltas.” Na muita palavra não falta pecado; quem modera os lábios é prudente. A balança falsa é abominação; o peso justo agrada a Deus. Onde há soberba há ignomínia; com os humildes está a sabedoria. Quem dá generosamente se enriquece. Quem ama a correção ama a ciência; a língua dos sábios é saúde.",
+    "alegorico": "São Pedro (1Pd 4,8) e São Tiago (5,20) retomam “a caridade cobre a multidão dos pecados”: o amor de Cristo cobre os nossos pecados, e a nossa caridade participa desse dom.",
+    "moral": "O caráter se forma em pequenas escolhas diárias: trabalho, palavras, honestidade comercial, humildade, generosidade. A caridade não expõe as faltas dos outros; a língua pode ferir ou curar.",
+    "anagogico": "“A justiça livra da morte”: a esperança do justo vai além da vida presente, rumo à salvação definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O filho sábio é a alegria de seu pai.” “A boca do justo é uma fonte de vida.” “O ódio excita rixas, porém a caridade cobre todas as faltas.” “Onde porém há humildade, aí há igualmente sabedoria.”",
+    "meditatio_perguntas": [
+      "As minhas palavras são fonte de vida ou de rixas?",
+      "Cubro as faltas dos outros com caridade, ou as exponho?",
+      "Sou honesto nas “balanças” do meu trabalho?"
+    ],
+    "oratio_guia": "Senhor, faze da minha boca uma fonte de vida. Dá-me a caridade que cobre as faltas, a humildade onde mora a sabedoria e a honestidade em todas as minhas balanças. Amém.",
+    "contemplatio_foco": {
+      "texto": "a caridade cobre todas as faltas",
+      "ref": "Pr 10,12"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

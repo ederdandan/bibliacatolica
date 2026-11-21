@@ -1,0 +1,40 @@
+{
+  "id": "PRO.7.1",
+  "livro": "PRO",
+  "titulo": "A sedução da mulher estranha",
+  "secao": "Convite à sabedoria",
+  "referencia": "Pr 7,1-27",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A sedução que conduz à morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Guarda os meus mandamentos como a menina dos olhos; chama à sabedoria “minha irmã”. O pai conta o que viu da janela: um jovem insensato, ao anoitecer, passa perto da casa de uma mulher. Ela sai ao encontro, vestida de prostituta, astuta, inquieta; agarra-o e beija-o, diz que cumpriu os seus votos, preparou o leito com perfumes; o marido viajou. Com muitas palavras o seduz; ele a segue “como o boi levado ao matadouro”, como ave que se precipita no laço, sem saber que lhe custará a vida. Muitos ela derrubou; a sua casa é caminho do inferno.",
+    "alegorico": "Os Padres viram nesta mulher a figura do pecado e da heresia, que vestem roupas religiosas (“cumpri os meus votos”) para seduzir. A Sabedoria-irmã é Cristo, que nos chama irmãos.",
+    "moral": "A tentação raramente chega de repente: o jovem já andava perto da casa, ao anoitecer. Evitar as ocasiões, não confiar nas próprias forças, e desconfiar da religiosidade usada como disfarce.",
+    "anagogico": "“A sua casa é caminho do inferno”: a escolha do pecado grave é escolha de morte eterna, se não houver conversão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Observa os meus mandamentos, e viverás; guarda a minha lei como a menina dos teus olhos.” “Dize à sabedoria: Tu és minha irmã.” “Ele a segue como o boi que é levado ao matadouro.” “A sua casa é o caminho do inferno.”",
+    "meditatio_perguntas": [
+      "Ando perto das “casas” onde sei que serei tentado?",
+      "Trato a sabedoria como irmã próxima?",
+      "Reconheço as seduções que se disfarçam de religião?"
+    ],
+    "oratio_guia": "Senhor, guarda-me como a menina dos olhos. Dá-me fugir das ocasiões e não seguir a sedução como boi ao matadouro. Que a Sabedoria seja a minha irmã. Amém.",
+    "contemplatio_foco": {
+      "texto": "observa os meus mandamentos, e viverás; (guarda) a minha lei como a menina dos teus olhos",
+      "ref": "Pr 7,2"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

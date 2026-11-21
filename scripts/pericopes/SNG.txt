@@ -1,0 +1,10 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O Cântico dos Cânticos
+1:1-2:7 | Beija-me com os ósculos da tua boca
+2:8-2:17 | Levanta-te, amada minha, e vem
+3:1-3:11 | Busquei aquele a quem ama a minha alma
+4:1-5:1 | Toda és formosa: jardim fechado
+5:2-6:12 | Eu durmo, mas o meu coração vela
+7:1-8:4 | Quão belos são os teus passos
+8:5-8:14 | O amor é forte como a morte
