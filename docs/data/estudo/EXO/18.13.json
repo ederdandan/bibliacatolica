@@ -1,0 +1,40 @@
+{
+  "id": "EXO.18.13",
+  "livro": "EXO",
+  "titulo": "O conselho de Jetro",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 18,13-27",
+  "ini": {
+    "c": 18,
+    "v": 13
+  },
+  "fim": {
+    "c": 18,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "O conselho de Jetro: partilhar o peso",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No dia seguinte, Moisés se senta para julgar o povo, e o povo fica diante dele desde a manhã até a tarde. Jetro vê tudo o que ele faz e diz: que é isto que fazes? Por que te sentas sozinho, e todo o povo espera desde a manhã até a tarde? Moisés responde: o povo vem a mim para consultar a Deus; quando têm alguma questão, vêm a mim, e eu julgo entre eles e lhes dou a conhecer os preceitos de Deus e as suas leis. “Mas Jetro disse: Não fazes bem. Consomes-te com um trabalho vão, a ti e a este povo que está contigo; este trabalho é acima das tuas forças, e tu só não o poderás suportar.” Ouve o meu conselho, e Deus estará contigo: sê tu o representante do povo diante de Deus, levando-lhe as causas; ensina-lhes os preceitos e o caminho por onde devem andar. Escolhe de todo o povo homens capazes, tementes a Deus, amantes da verdade, que aborreçam a avareza, e constitui-os chefes de mil, de cem, de cinquenta e de dez, para que julguem o povo em todo o tempo; as causas maiores, levem-nas a ti; as menores, julguem eles. Assim será mais leve para ti, e todo este povo voltará em paz para as suas moradas. Moisés ouve o sogro e faz tudo o que ele disse. Depois despede-o, e Jetro volta para a sua terra.",
+    "alegorico": "A partilha do governo prefigura a estrutura da Igreja, em que os apóstolos escolhem colaboradores “de boa reputação, cheios do Espírito e de sabedoria” (At 6,3) e o ministério se exerce em comunhão, com diversos graus de serviço.",
+    "moral": "Moisés, cheio de boa vontade, quer fazer tudo sozinho, e se esgota, a si e ao povo. Jetro tem a coragem de dizer “não fazes bem”, e Moisés tem a humildade de ouvir um conselho vindo de fora. Delegar é prudência e humildade. Os critérios para escolher responsáveis continuam atuais: capacidade, temor de Deus, amor à verdade, desapego do dinheiro.",
+    "anagogico": "O povo que volta “em paz para as suas moradas” anuncia a paz da cidade de Deus, bem governada pela justiça e pela verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que te sentas sozinho?” “Não fazes bem. Consomes-te com um trabalho vão.” “Tu só não o poderás suportar.” “Escolhe homens capazes, tementes a Deus, amantes da verdade, e que aborreçam a avareza.” “Todo este povo voltará em paz para as suas moradas.”",
+    "meditatio_perguntas": [
+      "Tento carregar tudo sozinho, até me esgotar?",
+      "Aceito conselhos e correções, mesmo de quem “não é dos nossos”?",
+      "Que critérios uso ao confiar responsabilidades aos outros?"
+    ],
+    "oratio_guia": "Senhor, dá-me a humildade de Moisés para aceitar conselhos e partilhar o peso. Suscita na tua Igreja servidores capazes, tementes a ti, amigos da verdade e livres da avareza, para que o teu povo viva em paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Consomes-te com um trabalho vão, a ti e a este povo que está contigo",
+      "ref": "Ex 18,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

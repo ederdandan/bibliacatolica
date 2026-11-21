@@ -1,0 +1,49 @@
+{
+  "id": "EXO.24.1",
+  "livro": "EXO",
+  "titulo": "O sangue da aliança",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 24,1-11",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O sangue da aliança e a refeição diante de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus diz a Moisés: sobe ao Senhor, tu, Aarão, Nadab, Abiú e setenta anciãos de Israel, e adorareis de longe; só Moisés se aproximará. Moisés vem e relata ao povo todas as palavras do Senhor e todas as leis; e todo o povo responde a uma só voz: faremos tudo o que o Senhor disse. Moisés escreve todas as palavras do Senhor. De manhã cedo, levanta um altar ao pé do monte e doze colunas, segundo as doze tribos de Israel. Manda os jovens oferecer holocaustos e sacrificar vitelos como ofertas pacíficas. Moisés toma metade do sangue e o põe em taças, e derrama a outra metade sobre o altar. “Tomando o livro da aliança, o leu na presença do povo, o qual disse: faremos tudo o que o Senhor disse, e seremos obedientes.” “Moisés tomou o sangue, derramou-o sobre o povo e disse: Este é o sangue da aliança que o Senhor celebrou convosco, sobre todas estas palavras.” Moisés, Aarão, Nadab, Abiú e os setenta anciãos sobem, “e viram o Deus de Israel: debaixo dos seus pés estava como que uma obra de pedra de safira, que se parecia com o céu quando está sereno”. O Senhor não estende a mão contra os eleitos de Israel, que, “depois de verem a Deus, comeram e beberam”.",
+    "alegorico": "Na Última Ceia, Jesus toma o cálice e diz: “Este é o meu sangue, o sangue da aliança, que é derramado por muitos” (Mc 14,24), retomando as palavras de Moisés: a antiga aliança, selada com sangue de animais, é cumprida na nova e eterna, selada com o sangue de Cristo (Hb 9,18-28). A refeição dos anciãos “diante de Deus” é figura da Eucaristia.",
+    "moral": "A aliança se sela com quatro elementos que a liturgia cristã conserva: a Palavra proclamada (o livro lido), a resposta do povo (“faremos e obedeceremos”), o sacrifício (o sangue) e a comunhão (a refeição). A Palavra vem antes do sacrifício, como na Missa, em que a liturgia da Palavra precede a eucarística. O compromisso é comunitário e deve ser sempre renovado.",
+    "anagogico": "“Viram a Deus, e comeram e beberam”: antecipação do banquete eterno, em que veremos a Deus face a face e estaremos à sua mesa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Faremos tudo o que o Senhor disse.” “Tomando o livro da aliança, o leu na presença do povo.” “Faremos tudo o que o Senhor disse, e seremos obedientes.” “Este é o sangue da aliança que o Senhor celebrou convosco.” “Viram o Deus de Israel… e comeram e beberam.”",
+    "meditatio_perguntas": [
+      "Renovo, em cada Missa, o meu “faremos tudo o que o Senhor disse”?",
+      "Ouço a Palavra com atenção antes de participar do Sacrifício?",
+      "O que significa, para mim, ser marcado pelo “sangue da aliança”?"
+    ],
+    "oratio_guia": "Senhor Jesus, cujo sangue é o sangue da nova e eterna aliança, une-me a ti em cada Eucaristia. Que eu ouça a tua Palavra e responda com a vida: farei tudo o que disseste. E concede-me um dia ver-te e sentar-me à tua mesa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o sangue da aliança que o Senhor celebrou convosco",
+      "ref": "Ex 24,8"
+    }
+  },
+  "ancoras": {
+    "24:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Faremos e obedeceremos”: a tradição judaica sublinha que o povo promete fazer antes mesmo de compreender tudo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

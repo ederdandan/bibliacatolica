@@ -1,0 +1,49 @@
+{
+  "id": "EXO.18.1",
+  "livro": "EXO",
+  "titulo": "A visita de Jetro",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 18,1-12",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "A visita de Jetro: “Agora conheci que o Senhor é grande”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jetro, sacerdote de Madiã, sogro de Moisés, ouve tudo o que Deus fez por Moisés e por Israel, seu povo, e como o Senhor tirou Israel do Egito. Toma Séfora, a mulher de Moisés, que este lhe tinha enviado, e os dois filhos: Gersam, porque Moisés dissera “fui peregrino em terra estranha”, e Eliezer, “o Deus de meu pai é o meu auxílio e me livrou da espada do Faraó”. Vem ao deserto, onde Moisés está acampado junto ao monte de Deus. Moisés sai ao seu encontro, prostra-se e o beija; perguntam-se mutuamente pela saúde e entram na tenda. Moisés conta ao sogro tudo o que o Senhor fez ao Faraó e aos egípcios por amor de Israel, todas as dificuldades do caminho, e como o Senhor os livrou. Jetro se alegra por todo o bem que o Senhor fez a Israel e diz: bendito seja o Senhor, que vos livrou da mão dos egípcios e do Faraó. “Agora conheci que o Senhor é grande sobre todos os deuses, porque se mostrou grande quando os egípcios oprimiam Israel.” Jetro oferece holocaustos e sacrifícios a Deus, e Aarão e todos os anciãos de Israel vêm comer o pão com ele diante de Deus.",
+    "alegorico": "Jetro, sacerdote estrangeiro que ouve as maravilhas de Deus, crê e oferece sacrifícios, é figura dos pagãos que, ouvindo o testemunho do povo de Deus, chegam à fé, como os magos (Mt 2) e Cornélio (At 10). A refeição “diante de Deus” anuncia a mesa eucarística onde se reúnem judeus e gentios.",
+    "moral": "O reencontro familiar é cheio de delicadeza: Moisés sai, prostra-se, beija, pergunta pela saúde. E faz o que é próprio do crente: conta o que Deus fez, as dificuldades e as libertações. O testemunho leva o outro à fé e ao louvor: “agora conheci”. A alegria pelo bem que Deus fez aos outros é sinal de um coração reto.",
+    "anagogico": "O banquete diante de Deus, com o estrangeiro que crê, anuncia o banquete do Reino, em que muitos virão do oriente e do ocidente (Mt 8,11)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fui peregrino em terra estranha.” “O Deus de meu pai é o meu auxílio.” “Moisés contou a seu sogro tudo o que o Senhor tinha feito.” “Jetro alegrou-se por todo o bem que o Senhor tinha feito a Israel.” “Agora conheci que o Senhor é grande sobre todos os deuses.”",
+    "meditatio_perguntas": [
+      "Conto aos outros, sobretudo aos de fora, o que Deus fez por mim?",
+      "Alegro-me sinceramente com o bem que Deus faz aos outros?",
+      "Cuido com delicadeza dos reencontros na minha família?"
+    ],
+    "oratio_guia": "Senhor, grande sobre todos os deuses, dá-me contar com simplicidade as tuas maravilhas, para que outros digam: agora conheci. Que eu me alegre com o bem que fazes a todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Agora conheci que o Senhor é grande sobre todos os deuses",
+      "ref": "Ex 18,11"
+    }
+  },
+  "ancoras": {
+    "18:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eliezer significa “meu Deus é auxílio”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

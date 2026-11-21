@@ -1,0 +1,49 @@
+{
+  "id": "EXO.23.1",
+  "livro": "EXO",
+  "titulo": "A justiça, o sábado e as festas",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 23,1-19",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A justiça, o descanso e as festas: não seguir a multidão no mal",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Não aceitarás palavra mentirosa, nem darás a mão ao ímpio para dar falso testemunho. “Não seguirás a multidão para fazer o mal, nem em juízo te unirás ao parecer do maior número, para te desviares da verdade.” Nem terás compaixão do pobre em juízo, contra a justiça. Se encontrares o boi ou o jumento do teu inimigo extraviado, reconduze-o a ele; se vires o jumento de quem te odeia caído debaixo da carga, não passarás adiante, mas o ajudarás a levantar-se. Não perverterás o direito do pobre; foge da mentira; não matarás o inocente e o justo; não aceitarás presentes, que cegam os prudentes. “Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro.” Seis anos semearás a tua terra; no sétimo a deixarás descansar, para que comam os pobres do teu povo e os animais do campo. Seis dias trabalharás; no sétimo descansarás, para que descanse o teu boi e o teu jumento e respire o filho da tua serva e o estrangeiro. Não invocareis o nome de deuses estranhos. Três vezes por ano celebrareis festa em minha honra: a festa dos ázimos, a festa da colheita das primícias e a festa da colheita no fim do ano. Ninguém se apresentará diante de mim de mãos vazias. Levarás à casa do Senhor as primícias dos frutos da tua terra.",
+    "alegorico": "As três festas de peregrinação, Páscoa, Pentecostes e Tabernáculos, foram assumidas e transfiguradas pela Igreja: a Páscoa de Cristo, o Pentecostes do Espírito, e a espera da colheita final. Ajudar o jumento do inimigo antecipa o mandamento de Jesus: “amai os vossos inimigos, fazei bem aos que vos odeiam” (Lc 6,27).",
+    "moral": "A justiça exige independência: não seguir a maioria quando ela erra, não aceitar subornos, não favorecer nem o rico nem o pobre contra a verdade. A caridade alcança até o inimigo e o seu animal. O descanso não é privilégio: é para a terra, os pobres, os animais, o servo e o estrangeiro. O culto dá ritmo ao ano, e nunca se vai a Deus “de mãos vazias”.",
+    "anagogico": "A festa da colheita no fim do ano anuncia a colheita final, quando os anjos recolherão o trigo no celeiro de Deus (Mt 13,30.39)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não seguirás a multidão para fazer o mal.” “Se vires o jumento daquele que te odeia caído debaixo da carga, não passarás adiante, mas o ajudarás.” “Não aceitarás presentes, que cegam os prudentes.” “Para que respire o filho da tua serva e o estrangeiro.” “Ninguém se apresentará diante de mim de mãos vazias.”",
+    "meditatio_perguntas": [
+      "Sigo a maioria quando ela se desvia da verdade?",
+      "Ajudaria o “jumento” de quem me odeia?",
+      "O meu descanso permite também que os outros descansem?"
+    ],
+    "oratio_guia": "Senhor, dá-me firmeza para não seguir a multidão no mal e liberdade diante de presentes e pressões. Ensina-me a ajudar até os que me odeiam, a dar descanso aos que trabalham para mim, e a nunca me apresentar diante de ti de mãos vazias. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não seguirás a multidão… nem em juízo te unirás ao parecer do maior número, para te desviares da verdade",
+      "ref": "Ex 23,2"
+    }
+  },
+  "ancoras": {
+    "23:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A edição digital traz “para fazer o sinal”, erro tipográfico por “para fazer o mal” (Vulgata: ad faciendum malum).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "EXO.14.1",
+  "livro": "EXO",
+  "titulo": "O Senhor combaterá por vós",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 14,1-14",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Encurralados junto ao mar: “O Senhor combaterá por vós”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda o povo voltar e acampar diante de Fiairot, entre Magdal e o mar, defronte de Beelsefon: o Faraó pensará que estão perdidos no deserto; eu endurecerei o seu coração, ele os perseguirá, e serei glorificado no Faraó e em todo o seu exército, e os egípcios saberão que eu sou o Senhor. Anunciam ao rei que o povo fugiu, e o coração do Faraó e dos seus servos se muda: que fizemos, deixando ir Israel, para que não nos sirva mais? Atrela o seu carro, toma seiscentos carros escolhidos e todos os carros do Egito, e persegue os filhos de Israel, que saíram com mão alta. Alcança-os acampados junto ao mar. Quando o Faraó se aproxima, os filhos de Israel levantam os olhos e veem os egípcios atrás de si; têm grande medo e clamam ao Senhor. E dizem a Moisés: porventura não havia sepulturas no Egito, que nos trouxeste para morrermos no deserto? Não te dizíamos: deixa-nos servir aos egípcios? Melhor era servi-los do que morrer no deserto. “Moisés disse ao povo: Não temais: estai firmes, e considerai as maravilhas que o Senhor fará hoje”; os egípcios que agora vedes, nunca mais os tornareis a ver. “O Senhor combaterá por vós, e vós estai tranquilos.”",
+    "alegorico": "O povo encurralado entre o mar e o exército é imagem do homem diante da morte e do pecado, sem saída por suas próprias forças. A palavra de Moisés antecipa a de Cristo: “Não tenhais medo” (Mt 14,27), e a certeza de que é Ele quem combate e vence por nós: “tende confiança, eu venci o mundo” (Jo 16,33).",
+    "moral": "O poder opressor não desiste facilmente: o pecado deixado para trás volta a perseguir. O medo faz desejar a escravidão (“melhor servir aos egípcios”) e acusar quem nos libertou. Moisés responde com três palavras: não temais, ficai firmes, vede. Há batalhas que não se vencem pelas próprias forças, mas pela confiança: “o Senhor combaterá por vós”.",
+    "anagogico": "“Os egípcios que agora vedes, nunca mais os vereis”: promessa da vitória definitiva sobre todos os inimigos, quando a morte não existirá mais."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que fizemos, deixando ir Israel?” “Porventura não havia sepulturas no Egito?” “Melhor era servi-los.” “Não temais: estai firmes, e considerai as maravilhas que o Senhor fará hoje.” “O Senhor combaterá por vós, e vós estai tranquilos.”",
+    "meditatio_perguntas": [
+      "Diante do “mar” que me encurrala, desejo voltar à escravidão de antes?",
+      "Que “egípcios” do meu passado ainda me perseguem?",
+      "Sei ficar firme e tranquilo, deixando Deus combater por mim?"
+    ],
+    "oratio_guia": "Senhor, quando eu me sentir encurralado entre o mar e o inimigo, combate por mim. Tira de mim o medo que deseja a escravidão e dá-me ficar firme e tranquilo, contemplando as tuas maravilhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor combaterá por vós, e vós estai tranquilos",
+      "ref": "Ex 14,14"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

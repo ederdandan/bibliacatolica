@@ -1,0 +1,49 @@
+{
+  "id": "EXO.17.8",
+  "livro": "EXO",
+  "titulo": "As mãos erguidas contra Amalec",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 17,8-16",
+  "ini": {
+    "c": 17,
+    "v": 8
+  },
+  "fim": {
+    "c": 17,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "As mãos erguidas de Moisés na batalha contra Amalec",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amalec vem e combate contra Israel em Rafidim. Moisés diz a Josué: escolhe homens e sai a combater contra Amalec; amanhã eu estarei no cimo do outeiro, com a vara de Deus na mão. Josué faz como Moisés disse e combate contra Amalec; Moisés, Aarão e Hur sobem ao cimo do outeiro. “Quando Moisés tinha as mãos levantadas, Israel vencia; mas, se as abaixava um pouco, vencia Amalec.” “Como os braços de Moisés estavam fatigados, tomando uma pedra, puseram-na debaixo dele, na qual se sentou; Aarão e Hur sustentavam-lhe os braços de ambas as partes. Assim os seus braços não se fatigaram até o pôr do sol.” Josué derrota Amalec e o seu povo ao fio da espada. O Senhor diz a Moisés: escreve isto num livro como memória e dize-o aos ouvidos de Josué. Moisés edifica um altar e o chama “O Senhor é a minha exaltação”.",
+    "alegorico": "Moisés com os braços estendidos foi visto pelos Padres como figura de Cristo crucificado, que vence o inimigo com os braços abertos na cruz. Josué (o mesmo nome que Jesus, “o Senhor salva”) combate na planície, enquanto Moisés reza no alto: figura de Cristo, que luta e intercede ao mesmo tempo.",
+    "moral": "A batalha se decide no alto do monte, na oração, tanto quanto na planície, na ação. A oração e a ação não se opõem: Josué luta, Moisés reza. Mas o intercessor se cansa; sozinho, os braços caem. Precisamos de irmãos que sustentem os nossos braços, e de ser, nós também, Aarão e Hur para outros. A perseverança na oração “até o pôr do sol” dá a vitória.",
+    "anagogico": "A memória escrita da vitória anuncia a vitória final de Cristo sobre todos os inimigos, quando Ele “tiver posto todos os inimigos debaixo dos seus pés” (1Cor 15,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Amanhã estarei no cimo do outeiro, com a vara de Deus na mão.” “Quando Moisés tinha as mãos levantadas, Israel vencia.” “Os braços de Moisés estavam fatigados.” “Aarão e Hur sustentavam-lhe os braços de ambas as partes.” “O Senhor é a minha exaltação.”",
+    "meditatio_perguntas": [
+      "Persevero na oração mesmo quando os braços pesam?",
+      "Quem sustenta os meus braços na oração? De quem eu sustento os braços?",
+      "Uno, na minha vida, a luta da planície e a oração do monte?"
+    ],
+    "oratio_guia": "Senhor, que deste a vitória a Israel pelas mãos erguidas de Moisés, dá-me perseverar na oração até o pôr do sol. Manda-me irmãos que sustentem os meus braços, e faze-me sustentar os dos outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando Moisés tinha as mãos levantadas, Israel vencia",
+      "ref": "Ex 17,11"
+    }
+  },
+  "ancoras": {
+    "17:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção de Josué, auxiliar e sucessor de Moisés.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

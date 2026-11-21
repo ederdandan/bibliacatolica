@@ -1,0 +1,49 @@
+{
+  "id": "EXO.19.1",
+  "livro": "EXO",
+  "titulo": "O Sinai: povo sacerdotal",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 19,1-25",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "No Sinai: “Sereis para mim um reino sacerdotal e uma nação santa”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No terceiro mês depois da saída do Egito, os filhos de Israel chegam ao deserto do Sinai e acampam defronte do monte. Moisés sobe a Deus, e o Senhor o chama do monte: dirás à casa de Jacó: “Vós mesmos vistes o que eu fiz aos egípcios, de que modo vos trouxe sobre asas de águia e vos tomei para mim. Se, portanto, ouvirdes a minha voz e observardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque toda a terra é minha. Sereis para mim um reino sacerdotal e uma nação santa.” Moisés relata ao povo, e todo o povo responde junto: faremos tudo o que o Senhor disse. O Senhor diz: virei a ti na escuridão da nuvem, para que o povo me ouça falar contigo e creia em ti para sempre. Santifica o povo hoje e amanhã; lavem as vestes e estejam prontos para o terceiro dia; marca limites ao redor do monte; quem tocar o monte morrerá. Ao terceiro dia, pela manhã, começam a ouvir-se trovões, brilham relâmpagos, uma nuvem espessa cobre o monte, e o som da trombeta ressoa fortíssimo; o povo, no acampamento, treme. Moisés o leva ao encontro de Deus, ao pé do monte. Todo o monte Sinai fumega, porque o Senhor desceu sobre ele no fogo; o fumo sobe como de uma fornalha, e todo o monte é terrível. O som da trombeta cresce; Moisés fala, e Deus lhe responde.",
+    "alegorico": "São Pedro aplica à Igreja as palavras do Sinai: “Vós sois raça eleita, sacerdócio real, nação santa, povo adquirido” (1Pd 2,9). O fogo e o vento do Sinai reaparecem em Pentecostes (At 2,1-4), cinquenta dias depois da Páscoa, quando é dada a nova Lei, o Espírito Santo escrito nos corações. A Carta aos Hebreus contrapõe o Sinai terrível ao monte Sião, “cidade do Deus vivo” (Hb 12,18-24).",
+    "moral": "A aliança começa pelo que Deus fez: “vos trouxe sobre asas de águia e vos tomei para mim”. A lei vem depois, como resposta de amor. Todo o povo é sacerdotal: todo batizado participa do sacerdócio comum, oferecendo a vida a Deus e intercedendo pelo mundo. Aproximar-se de Deus pede preparação: purificar-se, lavar as vestes, respeitar o limite do sagrado.",
+    "anagogico": "O povo reunido ao pé do monte santo anuncia a assembleia festiva dos primogênitos, reunida no monte Sião celeste diante de Deus (Hb 12,22-23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós mesmos vistes… de que modo vos trouxe sobre asas de águia, e vos tomei para mim.” “Se ouvirdes a minha voz e observardes a minha aliança, sereis para mim a porção escolhida.” “Sereis para mim um reino sacerdotal e uma nação santa.” “Faremos tudo o que o Senhor disse.” “Todo o monte Sinai fumegava, porque o Senhor tinha descido sobre ele no fogo.”",
+    "meditatio_perguntas": [
+      "Recordo como Deus me levou “sobre asas de águia” até Ele?",
+      "Vivo o meu sacerdócio batismal, oferecendo a vida e intercedendo pelos outros?",
+      "Preparo-me interiormente para encontrar Deus na liturgia?"
+    ],
+    "oratio_guia": "Senhor, que me levaste sobre asas de águia e me tomaste para ti, faze-me ouvir a tua voz e guardar a tua aliança. Que eu viva como membro do teu povo sacerdotal e santo, e me prepare para te encontrar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sereis para mim um reino sacerdotal e uma nação santa",
+      "ref": "Ex 19,6"
+    }
+  },
+  "ancoras": {
+    "19:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Segundo a tradição judaica, o dom da Lei no Sinai se celebra na festa das Semanas (Pentecostes), cinquenta dias depois da Páscoa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

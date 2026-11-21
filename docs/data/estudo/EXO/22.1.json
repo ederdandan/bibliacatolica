@@ -1,0 +1,49 @@
+{
+  "id": "EXO.22.1",
+  "livro": "EXO",
+  "titulo": "As leis sobre propriedade e os fracos",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 22,1-31",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "As leis sobre a propriedade e a defesa dos fracos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Leis sobre o roubo: quem roubar um boi ou uma ovelha e o matar ou vender restituirá cinco bois por um e quatro ovelhas por uma. Se um ladrão for surpreendido de noite arrombando uma casa e for morto, quem o matou não é réu; mas, se já tiver nascido o sol, é réu de homicídio. Quem deixar o gado pastar no campo alheio indenizará com o melhor que tiver; quem atear fogo que se propague pagará o dano. Leis sobre os depósitos, os empréstimos de animais e a sedução de uma virgem. Seguem normas religiosas: não deixarás viver os feiticeiros; quem sacrificar a outros deuses será exterminado. E, sobretudo, a defesa dos fracos: “Não molestarás nem afligirás o estrangeiro, porque também vós fostes estrangeiros na terra do Egito. Não fareis mal algum à viúva nem ao órfão. Se os ofenderdes, eles gritarão por mim, e eu ouvirei o seu clamor”. Se emprestares dinheiro ao pobre do meu povo, não o oprimirás como um credor, nem lhe cobrarás juros. Se tomares em penhor o manto do teu próximo, devolvê-lo-ás antes do pôr do sol, “porque é a sua única cobertura… se ele clamar por mim, ouvi-lo-ei, porque sou misericordioso”. Não falarás mal dos juízes, nem amaldiçoarás o príncipe do teu povo. Não tardarás em oferecer as primícias; dar-me-ás o primogênito dos teus filhos. Sereis para mim homens santos.",
+    "alegorico": "O Deus que ouve o clamor da viúva, do órfão e do estrangeiro se revela plenamente em Cristo, que se identifica com os pequenos: “era estrangeiro e me acolhestes” (Mt 25,35). São Tiago resume: “a religião pura e sem mancha diante de Deus é esta: visitar os órfãos e as viúvas nas suas aflições” (Tg 1,27).",
+    "moral": "A justiça de Deus se interessa por coisas muito concretas: o boi, o campo, o fogo, o empréstimo, o manto que aquece de noite. A memória da própria opressão (“fostes estrangeiros”) deve gerar compaixão, não repetir a opressão. Deus é defensor dos que não têm defensor: se o pobre clamar, Ele ouvirá. Emprestar sem explorar, devolver o manto antes da noite, são gestos de misericórdia que Deus considera seus.",
+    "anagogico": "O Deus que ouve o clamor dos pobres fará justiça a todos no último dia; e “sereis para mim homens santos” anuncia a santidade plena dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não molestarás nem afligirás o estrangeiro, porque também vós fostes estrangeiros na terra do Egito.” “Não fareis mal algum à viúva nem ao órfão.” “Eles gritarão por mim, eu ouvirei o seu clamor.” “É a sua única cobertura.” “Ouvi-lo-ei, porque sou misericordioso.”",
+    "meditatio_perguntas": [
+      "Como trato o estrangeiro, o migrante, a viúva e o órfão à minha volta?",
+      "Aproveito-me da necessidade dos outros nos negócios ou empréstimos?",
+      "A memória das minhas dificuldades me torna mais compassivo com os que sofrem?"
+    ],
+    "oratio_guia": "Senhor misericordioso, que ouves o clamor da viúva, do órfão e do estrangeiro, dá-me um coração compassivo e mãos justas. Que eu nunca seja a causa do clamor de um pobre diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não molestarás nem afligirás o estrangeiro, por que também vós fostes estrangeiros na terra do Egipto",
+      "ref": "Ex 22,21"
+    }
+  },
+  "ancoras": {
+    "22:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A numeração da Vulgata difere aqui da hebraica: Ex 22,1 da Vulgata corresponde a Ex 21,37 do hebraico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

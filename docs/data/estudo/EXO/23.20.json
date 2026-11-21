@@ -1,0 +1,40 @@
+{
+  "id": "EXO.23.20",
+  "livro": "EXO",
+  "titulo": "O anjo que vai adiante",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 23,20-33",
+  "ini": {
+    "c": 23,
+    "v": 20
+  },
+  "fim": {
+    "c": 23,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "O anjo que vai adiante: a promessa da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Eu enviarei o meu anjo, que vá adiante de ti, te guarde pelo caminho e te introduza no lugar que preparei.” Respeita-o, ouve a sua voz e não o desprezes, porque não perdoará quando pecares, e o meu nome está nele. Se ouvires a sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos. O meu anjo irá adiante de ti e te introduzirá na terra dos amorreus, heteus, ferezeus, cananeus, heveus e jebuseus. Não adorarás os seus deuses, nem os servirás; destruirás as suas estátuas. Servireis ao Senhor vosso Deus, e eu abençoarei o teu pão e a tua água e tirarei a doença do meio de ti; não haverá na tua terra mulher estéril nem infecunda; completarei o número dos teus dias. Enviarei adiante de ti o terror; não os expulsarei num só ano, para que a terra não fique deserta e as feras se multipliquem contra ti; expulsá-los-ei pouco a pouco, até que te multipliques e possuas a terra. Não farás aliança com eles nem com os seus deuses, para que não te façam pecar contra mim.",
+    "alegorico": "O anjo em quem “está o nome de Deus” foi identificado por muitos Padres com o próprio Verbo, Cristo, o “Anjo do grande conselho” (Is 9,6, segundo a versão grega), que vai adiante de nós e nos introduz no lugar preparado: “vou preparar-vos um lugar” (Jo 14,2). A Igreja vê também nesta passagem o fundamento da devoção ao anjo da guarda.",
+    "moral": "Deus não manda o povo sozinho: envia um guia e guarda. Pede escuta e obediência. A conquista será “pouco a pouco”, para o bem do próprio povo: Deus respeita os ritmos e não dá tudo de uma vez, para que possamos assumir o que recebemos. O perigo maior não são os inimigos, mas os seus deuses, a contaminação do coração.",
+    "anagogico": "“Te introduzirá no lugar que preparei”: a promessa se cumpre plenamente na entrada no céu, conduzidos pelos anjos (Lc 16,22) e por Cristo, que vai adiante."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu enviarei o meu anjo, que vá adiante de ti, te guarde pelo caminho e te introduza no lugar que preparei.” “Ouve a sua voz.” “O meu nome está nele.” “Eu abençoarei o teu pão e a tua água.” “Expulsá-los-ei pouco a pouco.”",
+    "meditatio_perguntas": [
+      "Confio que Deus envia o seu anjo para me guardar no caminho?",
+      "Aceito que Deus me dê as coisas “pouco a pouco”?",
+      "Que “deuses” dos outros ameaçam contaminar o meu coração?"
+    ],
+    "oratio_guia": "Senhor, que envias o teu anjo adiante de mim para me guardar no caminho, dá-me ouvir a sua voz. Abençoa o meu pão e a minha água e conduze-me, pouco a pouco, ao lugar que me preparaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu enviarei o meu anjo, que vá adiante de ti, te guarde pelo caminho e te introduza no lugar que preparei",
+      "ref": "Ex 23,20"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

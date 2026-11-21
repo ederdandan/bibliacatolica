@@ -1,0 +1,40 @@
+{
+  "id": "EXO.15.22",
+  "livro": "EXO",
+  "titulo": "As águas de Mara",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 15,22-27",
+  "ini": {
+    "c": 15,
+    "v": 22
+  },
+  "fim": {
+    "c": 15,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "As águas amargas de Mara: “Eu sou o Senhor que te sara”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés faz partir Israel do mar Vermelho. Saem para o deserto de Sur e caminham três dias pelo deserto sem encontrar água. Chegam a Mara, mas não podem beber as águas de Mara, porque são amargas; por isso o lugar se chama Mara, “amargura”. O povo murmura contra Moisés: que beberemos? Moisés clama ao Senhor, e o Senhor lhe mostra um lenho; ele o lança nas águas, e as águas se tornam doces. Ali o Senhor lhe dá preceitos e juízos, e ali o prova. E diz: “Se obedeceres à voz do Senhor teu Deus, fizeres o que é reto diante dele, obedeceres aos seus mandamentos e guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egito, porque eu sou o Senhor que te sara”. Os filhos de Israel chegam a Elim, onde há doze fontes de água e setenta palmeiras, e acampam junto às águas.",
+    "alegorico": "Os Padres viram no lenho que adoça as águas amargas a cruz de Cristo, que transforma as amarguras da vida em doçura e as águas do batismo em fonte de vida. As doze fontes e as setenta palmeiras de Elim foram lidas como os doze apóstolos e os setenta e dois discípulos, que dão ao povo de Deus água e sombra.",
+    "moral": "Três dias depois do grande milagre e do cântico, o povo já murmura: a fé que celebra pode logo vacilar diante da sede. Moisés, em vez de murmurar, clama ao Senhor. Deus se revela como médico: “Eu sou o Senhor que te sara”. A obediência é caminho de cura. Depois de Mara vem Elim: Deus sabe dar oásis no caminho.",
+    "anagogico": "Elim, com as suas fontes e palmeiras, é imagem do repouso que Deus prepara no fim da travessia, onde Ele “os conduzirá às fontes das águas da vida” (Ap 7,17)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Caminharam três dias pelo deserto e não encontraram água.” “Que beberemos?” “O Senhor mostrou-lhe um lenho, o qual, tendo-o lançado nas águas, as tornou doces.” “Eu sou o Senhor que te sara.” “Chegaram a Elim, onde havia doze fontes.”",
+    "meditatio_perguntas": [
+      "Quanto tempo leva para eu murmurar depois de ver uma graça de Deus?",
+      "Que “águas amargas” peço que a cruz de Cristo adoce?",
+      "Reconheço o Senhor como o médico que me cura?"
+    ],
+    "oratio_guia": "Senhor que me curas, lança o lenho da cruz nas minhas águas amargas e torna-as doces. Livra-me da murmuração e conduze-me, depois de Mara, ao oásis de Elim. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu sou o Senhor que te sara",
+      "ref": "Ex 15,26"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

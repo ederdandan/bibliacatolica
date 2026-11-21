@@ -1,0 +1,40 @@
+{
+  "id": "EXO.13.17",
+  "livro": "EXO",
+  "titulo": "A coluna de nuvem e de fogo",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 13,17-22",
+  "ini": {
+    "c": 13,
+    "v": 17
+  },
+  "fim": {
+    "c": 13,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Deus guia por caminhos que não são os mais curtos: a nuvem e o fogo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando o Faraó deixa partir o povo, Deus não o conduz pelo caminho da terra dos filisteus, que é o mais curto, pensando: para que o povo não se arrependa ao ver levantar-se guerra contra ele, e não volte para o Egito. Faz o povo dar uma volta pelo caminho do deserto, junto ao mar Vermelho; e os filhos de Israel sobem armados da terra do Egito. “Moisés levou consigo os ossos de José”, que tinha feito jurar aos filhos de Israel: quando Deus vos visitar, levai daqui os meus ossos convosco. Partem de Sucot e acampam em Etam, na extremidade do deserto. “O Senhor ia adiante deles, de dia numa coluna de nuvem para lhes mostrar o caminho, e de noite numa coluna de fogo para os alumiar, a fim de poderem caminhar num e noutro tempo.” Nunca falta, diante do povo, a coluna de nuvem de dia, nem a coluna de fogo de noite.",
+    "alegorico": "A coluna de nuvem e de fogo é figura do Espírito Santo que guia a Igreja, e de Cristo, “luz do mundo”: “quem me segue não anda nas trevas” (Jo 8,12). Na Vigília Pascal, o círio aceso que entra na igreja escura evoca a coluna de fogo que conduz o povo na noite da libertação. Os ossos de José, levados no êxodo, são sinal da fé na ressurreição (Hb 11,22).",
+    "moral": "Deus conhece a fragilidade do povo e não o expõe a provas maiores do que pode suportar (1Cor 10,13): por isso escolhe o caminho mais longo. Nem sempre o caminho mais curto é o melhor. A fidelidade às promessas feitas aos antepassados (os ossos de José) faz parte do caminho. E Deus não abandona o seu povo nem de dia nem de noite.",
+    "anagogico": "A coluna que guia sem falhar, de dia e de noite, é penhor de que Deus conduz o seu povo até a terra prometida eterna, onde Ele mesmo será a luz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus não os conduziu pelo caminho do país dos filisteus, que era o mais curto.” “Para que o povo não se arrependa.” “Moisés levou consigo os ossos de José.” “O Senhor ia adiante deles, de dia numa coluna de nuvem… e de noite numa coluna de fogo.”",
+    "meditatio_perguntas": [
+      "Aceito quando Deus não me leva pelo caminho mais curto?",
+      "Confio que Deus conhece as minhas fragilidades e não me dá provas acima das minhas forças?",
+      "Deixo-me guiar pela “nuvem” e pelo “fogo” do Espírito, de dia e de noite?"
+    ],
+    "oratio_guia": "Senhor, que vais adiante de nós na nuvem e no fogo, guia-me de dia e de noite. Quando o teu caminho me parecer longo demais, lembra-me de que conheces a minha fraqueza e me conduzes com sabedoria. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor ia adiante deles, de dia numa coluna de nuvem para lhes mostrar o caminho",
+      "ref": "Ex 13,21"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

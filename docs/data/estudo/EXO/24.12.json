@@ -1,0 +1,40 @@
+{
+  "id": "EXO.24.12",
+  "livro": "EXO",
+  "titulo": "Moisés sobe à nuvem",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 24,12-18",
+  "ini": {
+    "c": 24,
+    "v": 12
+  },
+  "fim": {
+    "c": 24,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Moisés entra na nuvem: quarenta dias diante da glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: sobe a mim ao monte e fica aí; dar-te-ei tábuas de pedra, a lei e os mandamentos que escrevi, para os ensinares. Moisés se levanta com Josué, seu ministro, e sobe ao monte de Deus. Diz aos anciãos: esperai-nos aqui até voltarmos; tendes convosco Aarão e Hur; se houver alguma questão, recorrei a eles. Moisés sobe, e a nuvem cobre o monte. A glória do Senhor pousa sobre o Sinai, cobrindo-o com a nuvem seis dias; ao sétimo dia, o Senhor chama Moisés do meio da nuvem. “O aspecto da glória do Senhor era como o de um fogo ardente sobre o cimo do monte, à vista dos filhos de Israel.” “Entrando Moisés pelo meio da nuvem, subiu ao monte, e lá esteve quarenta dias e quarenta noites.”",
+    "alegorico": "Os quarenta dias de Moisés no monte prefiguram os quarenta dias de Jesus no deserto (Mt 4,2) e a Quaresma da Igreja. A nuvem que cobre o monte e a glória que aparece no sétimo dia anunciam a Transfiguração, em que a nuvem envolve os discípulos e a voz do Pai se faz ouvir, “seis dias depois” (Mt 17,1-5).",
+    "moral": "Antes de receber a Lei, Moisés espera seis dias em silêncio na nuvem; só ao sétimo Deus fala. A intimidade com Deus pede tempo, espera e silêncio. Moisés não abandona o povo: deixa responsáveis (Aarão e Hur). Quem se retira para rezar deve organizar o serviço dos outros. O que o povo vê de longe como fogo devorador, Moisés atravessa por dentro.",
+    "anagogico": "Moisés que entra na nuvem e permanece na glória é imagem da alma que, no fim, entrará na glória de Deus para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sobe a mim ao monte e fica aí.” “Esperai-nos aqui até voltarmos.” “A nuvem cobriu o monte.” “Ao sétimo dia, o Senhor chamou-o do meio da nuvem.” “O aspecto da glória do Senhor era como o de um fogo ardente.” “Lá esteve quarenta dias e quarenta noites.”",
+    "meditatio_perguntas": [
+      "Reservo tempos prolongados de silêncio e espera diante de Deus?",
+      "Sei esperar o “sétimo dia”, quando Deus fala?",
+      "Ao me retirar para rezar, cuido de que os outros não fiquem desamparados?"
+    ],
+    "oratio_guia": "Senhor, que chamaste Moisés do meio da nuvem, chama-me também ao teu monte. Dá-me a paciência de esperar em silêncio a tua palavra e a coragem de entrar no fogo da tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Entrando Moisés pelo meio da nuvem, subiu ao monte, e lá esteve quarenta dias e quarenta noites",
+      "ref": "Ex 24,18"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

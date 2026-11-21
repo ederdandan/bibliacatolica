@@ -1,0 +1,49 @@
+{
+  "id": "EXO.15.1",
+  "livro": "EXO",
+  "titulo": "O cântico de Moisés e de Maria",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 15,1-21",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O cântico de Moisés e de Maria: “O Senhor é a minha fortaleza”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Então Moisés e os filhos de Israel cantam ao Senhor: “Cantemos ao Senhor, porque fez brilhar a sua glória: precipitou no mar o cavalo e o cavaleiro. O Senhor é a minha fortaleza, para ele o meu louvor. Foi a minha salvação. Ele é o meu Deus, eu o glorificarei; o Deus de meu pai, eu o exaltarei.” O cântico celebra o Senhor como guerreiro: lançou ao mar os carros do Faraó; os seus capitães se afogaram; o abismo os cobriu. A tua destra, Senhor, se engrandeceu em força. Ao sopro da tua ira as águas se amontoaram; o inimigo disse: perseguirei, alcançarei, repartirei os despojos; sopraste, e o mar os cobriu. Quem é semelhante a ti entre os fortes, Senhor? Quem é semelhante a ti, magnífico em santidade, terrível e digno de louvor, que fazes maravilhas? Guiaste na tua misericórdia o povo que resgataste; os povos ouviram e se perturbaram. Tu os introduzirás e os plantarás no monte da tua herança, no santuário que as tuas mãos fundaram. “O Senhor reinará eternamente.” Maria, a profetisa, irmã de Aarão, toma o tamborim na mão, e todas as mulheres saem atrás dela com tamborins e danças; e ela entoa: “Cantemos ao Senhor, porque fez brilhar a sua glória: precipitou no mar o cavalo e o cavaleiro”.",
+    "alegorico": "O cântico de Moisés é cantado na Vigília Pascal, depois da leitura da passagem do mar, e reaparece no céu como o “cântico de Moisés, servo de Deus, e o cântico do Cordeiro”, entoado pelos vencedores junto ao mar de cristal (Ap 15,3). Maria, irmã de Moisés, que guia o canto das mulheres, foi vista como figura de Maria, Mãe de Jesus, que canta o Magnificat: “derrubou do trono os poderosos”.",
+    "moral": "Depois da salvação, o louvor: a gratidão se faz canto, dança, festa comunitária. O cântico não celebra o povo, mas o Senhor: “ele foi a minha salvação”. É também profissão de fé pessoal: “ele é o meu Deus”. O canto das mulheres mostra que o louvor envolve todo o povo, com o corpo e a alegria.",
+    "anagogico": "“O Senhor reinará eternamente” é o grito final de todos os êxodos, que ressoa na liturgia celeste: “reinou o Senhor nosso Deus, o Todo-Poderoso” (Ap 19,6)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cantemos ao Senhor, porque fez brilhar a sua glória.” “O Senhor é a minha fortaleza, para ele o meu louvor. Foi a minha salvação.” “Quem é semelhante a ti entre os fortes, Senhor?” “Guiaste na tua misericórdia o povo que resgataste.” “O Senhor reinará eternamente.”",
+    "meditatio_perguntas": [
+      "Canto a Deus depois das vitórias que Ele me dá, ou logo as esqueço?",
+      "Posso dizer, por experiência, “ele foi a minha salvação”?",
+      "O meu louvor é também comunitário, alegre, envolvendo o corpo?"
+    ],
+    "oratio_guia": "Cantarei ao Senhor, porque fez brilhar a sua glória! O Senhor é a minha força e o meu louvor, foi a minha salvação. Tu que guiaste na tua misericórdia o povo que resgataste, reina para sempre sobre mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é a minha fortaleza, para ele o meu louvor",
+      "ref": "Ex 15,2"
+    }
+  },
+  "ancoras": {
+    "15:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Maria (Miriam) é a primeira mulher chamada “profetisa” na Bíblia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

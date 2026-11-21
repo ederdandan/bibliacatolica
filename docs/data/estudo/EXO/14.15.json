@@ -1,0 +1,49 @@
+{
+  "id": "EXO.14.15",
+  "livro": "EXO",
+  "titulo": "A passagem do mar",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 14,15-31",
+  "ini": {
+    "c": 14,
+    "v": 15
+  },
+  "fim": {
+    "c": 14,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A passagem do mar: “Dize ao povo que marche”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: “Por que clamas tu a mim? Dize aos filhos de Israel que marchem.” E tu levanta a vara, estende a mão sobre o mar e divide-o, para que os filhos de Israel passem a pé enxuto pelo meio dele. Eu endurecerei o coração dos egípcios, que os seguirão, e serei glorificado no Faraó e no seu exército. O anjo de Deus, que ia adiante do acampamento de Israel, passa para trás, e a coluna de nuvem também; põe-se entre o acampamento dos egípcios e o de Israel: era nuvem tenebrosa de um lado e iluminava a noite do outro, e não podem aproximar-se uns dos outros a noite toda. Moisés estende a mão sobre o mar, e o Senhor o retira com um vento forte e abrasador que sopra toda a noite e o seca; as águas se dividem. Os filhos de Israel entram pelo meio do mar a pé enxuto; as águas são como um muro à direita e à esquerda. Os egípcios os perseguem e entram atrás, com os cavalos e os carros. Na vigília da manhã, o Senhor olha o exército egípcio pela coluna de fogo e de nuvem e o desbarata; trava as rodas dos carros. Os egípcios dizem: fujamos de Israel, porque o Senhor combate por eles. Moisés estende a mão, e ao amanhecer o mar volta ao seu leito; as águas cobrem os carros e os cavaleiros; não escapa nenhum. “Os israelitas viram os egípcios mortos sobre a praia do mar… o povo temeu o Senhor, e acreditou no Senhor e em Moisés, seu servo.”",
+    "alegorico": "São Paulo: “os nossos pais estiveram todos debaixo da nuvem, todos passaram o mar e todos foram batizados em Moisés na nuvem e no mar” (1Cor 10,1-2). A passagem do mar é a grande figura do batismo, lida em todas as Vigílias Pascais: nas águas morre o “Faraó” do pecado, e o povo sai livre para a vida nova. A noite que se torna dia anuncia a manhã da Ressurreição.",
+    "moral": "A fé pede duas atitudes que parecem opostas: ficar tranquilo, porque Deus combate, e marchar, dando o passo. Há momentos em que já não é tempo de rezar mais, mas de obedecer: “por que clamas a mim? Marcha”. Deus abre caminho onde não há caminho. A mesma nuvem que ilumina um lado escurece o outro: a presença de Deus é luz para quem a acolhe e trevas para quem a combate.",
+    "anagogico": "O povo que sai salvo na outra margem é imagem dos redimidos, de pé junto ao mar de cristal, cantando o cântico de Moisés e do Cordeiro (Ap 15,2-3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que clamas tu a mim? Dize aos filhos de Israel que marchem.” “As águas estavam como um muro à sua direita e à sua esquerda.” “Fujamos de Israel, porque o Senhor combate por eles.” “O povo temeu o Senhor, e acreditou no Senhor e em Moisés seu servo.”",
+    "meditatio_perguntas": [
+      "Há algo em que fico só “clamando” quando Deus me pede para marchar?",
+      "Vivo o meu batismo como passagem da escravidão à liberdade?",
+      "Que caminho Deus abriu onde para mim não havia nenhum?"
+    ],
+    "oratio_guia": "Senhor, que abriste o mar e fizeste passar o teu povo a pé enxuto, dá-me coragem para dar o passo que me pedes. Que eu viva o meu batismo como passagem para a liberdade, e creia em ti com todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dize aos filhos de Israel que marchem",
+      "ref": "Ex 14,15"
+    }
+  },
+  "ancoras": {
+    "14:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “vigília da manhã” era a última das três vigílias da noite, antes do amanhecer.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

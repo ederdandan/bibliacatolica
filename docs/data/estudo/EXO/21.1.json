@@ -1,0 +1,49 @@
+{
+  "id": "EXO.21.1",
+  "livro": "EXO",
+  "titulo": "As leis sobre servos e violência",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 21,1-36",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "As leis sobre os servos e a violência: limitar o mal",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o “código da aliança”. Se comprares um servo hebreu, servir-te-á seis anos; no sétimo sairá livre, sem pagar nada; se entrou com mulher, sairá com ela. Se o servo disser: amo o meu senhor, a minha mulher e os meus filhos, não quero sair livre, o senhor o levará à porta e lhe furará a orelha, e ele será servo para sempre. A serva vendida pelo pai tem direitos: se o senhor a desposar e depois tomar outra, não lhe diminuirá o alimento, o vestido nem o direito conjugal; senão, ela sairá livre. Quem ferir um homem querendo matá-lo será morto; mas, se não houve intenção e Deus o deixou cair em suas mãos, haverá um lugar de refúgio. Quem ferir ou amaldiçoar o pai ou a mãe será morto. Quem raptar um homem para vendê-lo será morto. Se dois brigarem e um ferir o outro, o agressor pagará o tempo perdido e o tratamento. Quem ferir o seu servo ou serva, se morrerem, será réu; se o ferir no olho ou no dente, deixá-lo-á ir livre. Se alguém ferir uma mulher grávida e se seguir a morte, “dará vida por vida, olho por olho, dente por dente, mão por mão, pé por pé, queimadura por queimadura, ferida por ferida, pisadura por pisadura”. Seguem as leis sobre o boi que fere e sobre a cova aberta: o dono responde pelo dano.",
+    "alegorico": "Jesus leva o “olho por olho” à sua superação: “Eu, porém, vos digo: não resistais ao malvado; se alguém te bater na face direita, oferece-lhe também a outra” (Mt 5,38-39). O servo que, por amor, escolhe permanecer para sempre e tem a orelha furada foi lido como figura de Cristo, que se fez servo por amor ao Pai e à Igreja (Sl 39,7; Fl 2,7).",
+    "moral": "Estas leis não aprovam a escravidão, mas a limitam e humanizam num mundo onde ela era normal: libertação no sétimo ano, direitos da serva, liberdade para o servo ferido. O “olho por olho” não é incentivo à vingança, mas um limite: a pena não pode ultrapassar o dano. Distingue-se o homicídio intencional do involuntário. A vida da mulher grávida e do nascituro é protegida. A fé se traduz em justiça concreta.",
+    "anagogico": "A libertação no sétimo ano anuncia o ano jubilar e, por fim, a libertação definitiva de toda servidão no Reino de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No sétimo sairá livre, sem pagar nada.” “Amo o meu senhor, a minha mulher e os meus filhos, não quero sair livre.” “Se não houve intenção… eu te designarei um lugar de refúgio.” “Dará vida por vida, olho por olho, dente por dente.”",
+    "meditatio_perguntas": [
+      "Limito a minha reação às ofensas, ou deixo crescer a vingança?",
+      "A minha fé se traduz em justiça nas coisas concretas: trabalho, salário, danos?",
+      "Distingo, ao julgar os outros, a intenção do resultado?"
+    ],
+    "oratio_guia": "Senhor, que limitaste a vingança na Lei e a superaste no Evangelho, dá-me um coração justo e misericordioso. Que eu repare o mal que causo e não pague o mal com o mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "Olho por olho, dente por dente, mão por mão, pé por pé",
+      "ref": "Ex 21,24"
+    }
+  },
+  "ancoras": {
+    "21:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “lei de talião” é um princípio de proporcionalidade, comum aos códigos antigos (como o de Hamurabi): ela limita a vingança, em vez de incentivá-la.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

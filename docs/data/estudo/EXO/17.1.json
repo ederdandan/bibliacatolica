@@ -1,0 +1,49 @@
+{
+  "id": "EXO.17.1",
+  "livro": "EXO",
+  "titulo": "A água da rocha",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 17,1-7",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "A água da rocha: “O Senhor está no meio de nós, ou não?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Toda a comunidade dos filhos de Israel parte do deserto de Sin e acampa em Rafidim, onde não há água para o povo beber. O povo contende com Moisés: dá-nos água para beber! Moisés responde: por que contendeis comigo? Por que tentais o Senhor? O povo, com sede, murmura: por que nos tiraste do Egito, para nos fazer morrer de sede, a nós, aos nossos filhos e ao nosso gado? Moisés clama ao Senhor: que farei a este povo? Daqui a pouco me apedrejarão. O Senhor diz: passa adiante do povo, leva contigo alguns anciãos, toma na mão a vara com que feriste o rio e vai. “Eis que eu estarei ali diante de ti, sobre a pedra do Horeb; ferirás a pedra, e dela sairá água para o povo beber.” Moisés faz assim à vista dos anciãos. “Pôs àquele lugar o nome de Tentação, por causa da murmuração dos filhos de Israel, e porque eles tentaram o Senhor, dizendo: O Senhor está no meio de nós, ou não?”",
+    "alegorico": "São Paulo: “todos beberam da mesma bebida espiritual; bebiam da pedra espiritual que os acompanhava, e a pedra era Cristo” (1Cor 10,4). Do lado de Cristo, ferido na cruz, jorram sangue e água (Jo 19,34), fonte dos sacramentos; e Jesus promete: “quem tiver sede venha a mim e beba” (Jo 7,37). O Salmo 94, rezado cada manhã no Ofício, recorda: “não endureçais os vossos corações, como em Meriba”.",
+    "moral": "A pergunta “o Senhor está ou não no meio de nós?” é a tentação de toda crise: duvidar da presença de Deus porque falta algo. Tentar a Deus é exigir provas como condição para crer. O povo se volta contra o líder; Moisés leva a crise a Deus. E Deus não castiga: dá água. Ele mesmo está “sobre a pedra”, diante de Moisés.",
+    "anagogico": "A água que jorra da rocha anuncia o rio da vida que brota do trono de Deus e do Cordeiro, na Jerusalém celeste (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dá-nos água para beber.” “Por que tentais o Senhor?” “Que farei a este povo?” “Eu estarei ali diante de ti sobre a pedra do Horeb; ferirás a pedra, e dela sairá água.” “O Senhor está no meio de nós, ou não?”",
+    "meditatio_perguntas": [
+      "Em que crise pergunto se Deus está, de fato, no meio de nós?",
+      "Exijo provas de Deus como condição para confiar nele?",
+      "Vou beber em Cristo, a rocha de onde jorra a água viva?"
+    ],
+    "oratio_guia": "Senhor, que fizeste brotar água da rocha, sacia a minha sede. Quando eu duvidar da tua presença, lembra-me de que estás diante de mim, sobre a rocha, e de que de Cristo, ferido por mim, brota a água da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor está no meio de nós, ou não?",
+      "ref": "Ex 17,7"
+    }
+  },
+  "ancoras": {
+    "17:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os nomes hebraicos Massa (“tentação”) e Meriba (“contenda”) ficaram como símbolo da incredulidade do povo (Sl 94,8-9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

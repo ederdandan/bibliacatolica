@@ -1,0 +1,40 @@
+{
+  "id": "EXO.20.18",
+  "livro": "EXO",
+  "titulo": "O temor do povo; o altar",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 20,18-26",
+  "ini": {
+    "c": 20,
+    "v": 18
+  },
+  "fim": {
+    "c": 20,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "O temor do povo e o altar onde Deus faz memória do seu nome",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todo o povo ouve os trovões e o som da trombeta, vê os relâmpagos e o monte fumegando; aterrados, ficam de longe e dizem a Moisés: fala-nos tu, e ouviremos; mas não nos fale o Senhor, para que não morramos. “Moisés disse ao povo: Não temais, porque Deus veio para vos provar, para que o seu temor esteja em vós e não pequeis.” O povo fica de longe, e Moisés se aproxima da escuridão onde Deus está. O Senhor diz a Moisés: dirás aos filhos de Israel: vistes que vos falei do céu. Não fareis deuses de prata nem de ouro. “Far-me-eis um altar de terra”, e oferecereis sobre ele os vossos holocaustos e as vossas ofertas pacíficas. “Em todo o lugar onde se fizer memória do meu nome, eu virei a ti e te abençoarei.” Se me fizeres um altar de pedras, não o farás de pedras lavradas, porque, se levantares sobre ele o cinzel, ficará profanado. Não subirás ao meu altar por degraus, para que não se descubra a tua nudez.",
+    "alegorico": "O povo que pede um mediador (“fala-nos tu”) prepara a figura de Cristo, único mediador entre Deus e os homens (1Tm 2,5), em quem Deus nos fala sem nos aterrorizar (Hb 1,1-2). A promessa “onde se fizer memória do meu nome, eu virei a ti” se cumpre na Eucaristia, memorial onde Cristo vem a nós, e na promessa: “onde dois ou três estiverem reunidos em meu nome, eu estou no meio deles” (Mt 18,20).",
+    "moral": "O temor de Deus não é pavor que afasta, mas reverência que guarda do pecado: “para que o seu temor esteja em vós e não pequeis”. Moisés se aproxima da “escuridão onde Deus está”: na vida espiritual há momentos de nuvem e obscuridade em que Deus se encontra. O altar deve ser simples, sem a vaidade do trabalho humano: no culto, o que conta é Deus, não as nossas obras.",
+    "anagogico": "A escuridão onde Deus habita, na qual Moisés entra, foi lida por São Gregório de Nissa como o caminho da alma que avança no conhecimento de Deus, até a luz plena da visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fala-nos tu, e ouviremos; mas não nos fale o Senhor, para que não morramos.” “Não temais, porque Deus veio para vos provar, para que o seu temor esteja em vós e não pequeis.” “Moisés aproximou-se da escuridão em que estava Deus.” “Em todo o lugar onde se fizer memória do meu nome, eu virei a ti e te abençoarei.”",
+    "meditatio_perguntas": [
+      "O meu temor de Deus é reverência que me guarda do pecado, ou medo que me afasta?",
+      "Sei permanecer diante de Deus nos momentos de “escuridão”?",
+      "Vivo a Missa como o lugar onde Deus “vem a mim e me abençoa”?"
+    ],
+    "oratio_guia": "Senhor, dá-me o santo temor que me guarda do pecado, sem me afastar de ti. Em Cristo, único mediador, fala-me sem me aterrorizar, e vem a mim cada vez que faço memória do teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em todo o lugar onde se fizer memória do meu nome, eu virei a ti, e te abençoarei",
+      "ref": "Ex 20,24"
+    }
+  },
+  "ancoras": {},
+  "revisado": false
+}

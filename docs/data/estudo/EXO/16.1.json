@@ -1,0 +1,57 @@
+{
+  "id": "EXO.16.1",
+  "livro": "EXO",
+  "titulo": "O maná",
+  "secao": "Do mar ao Sinai",
+  "referencia": "Ex 16,1-36",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "O maná: o pão do céu para cada dia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No décimo quinto dia do segundo mês depois da saída do Egito, toda a comunidade chega ao deserto de Sin, entre Elim e o Sinai, e murmura contra Moisés e Aarão: “Antes fôssemos mortos na terra do Egito pela mão do Senhor, quando estávamos sentados junto às panelas de carne e comíamos pão com fartura!” Por que nos trouxestes a este deserto para matar à fome toda esta multidão? O Senhor diz a Moisés: “Vou fazer chover para vós pães do céu; saia o povo e colha o que baste para cada dia, a fim de que eu o ponha à prova, se anda ou não na minha lei”. No sexto dia recolherão o dobro. À tarde sobem codornizes e cobrem o acampamento; de manhã, há orvalho ao redor e, quando ele se evapora, aparece sobre a terra uma coisa miúda, como geada. Os filhos de Israel perguntam: “Man hu?”, que é isto? Moisés responde: “Este é o pão que o Senhor vos dá para comer”. Cada um recolhe um gômor por pessoa; quem recolhe muito não tem de sobra, quem recolhe pouco não tem falta. Alguns guardam para o dia seguinte, e o maná cria vermes e apodrece. No sexto dia recolhem o dobro; no sábado não há maná; alguns saem para colher e não encontram. Moisés manda guardar um gômor diante do Senhor, para as gerações futuras. Os filhos de Israel comem o maná quarenta anos, até chegarem à terra habitada.",
+    "alegorico": "Jesus diz: “Não foi Moisés que vos deu o pão do céu, mas meu Pai vos dá o verdadeiro pão do céu… Eu sou o pão da vida” (Jo 6,31-35). O maná é figura da Eucaristia, alimento do povo de Deus peregrino. São Paulo cita a medida igual para todos (“quem recolheu muito não teve de sobra”) como modelo da partilha entre as comunidades (2Cor 8,15).",
+    "moral": "O medo idealiza o passado: as “panelas de carne” da escravidão parecem melhores que a liberdade incerta. Deus responde com paciência, dando o pão necessário. O maná ensina a confiar dia a dia: “o pão nosso de cada dia nos dai hoje”, sem acumular por medo. Quem acumula vê apodrecer. A medida igual para todos é lição de partilha. O sábado lembra que o homem não vive só do trabalho.",
+    "anagogico": "O maná guardado diante do Senhor e o “maná escondido” prometido ao vencedor (Ap 2,17) anunciam o alimento eterno, a visão de Deus, que saciará para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Antes fôssemos mortos… quando estávamos sentados junto às panelas das carnes.” “Vou fazer chover para vós pães do céu: saia o povo e colha o que baste para cada dia.” “Que é isto?” “Este é o pão que o Senhor vos dá para comer.” “Nem o que havia ajuntado mais tinha maior quantidade, nem o que tinha colhido menos encontrava de menos.”",
+    "meditatio_perguntas": [
+      "Idealizo as “panelas de carne” da minha antiga escravidão?",
+      "Confio em Deus para o pão de cada dia, ou acumulo por medo?",
+      "Recebo a Eucaristia como o verdadeiro pão do céu que me sustenta no deserto?"
+    ],
+    "oratio_guia": "Pai, que dás o verdadeiro pão do céu, dá-nos hoje o pão de cada dia. Livra-me da murmuração e do medo que acumula, ensina-me a partilhar, e sacia-me com Jesus, pão da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o pão que o Senhor vos dá para comer",
+      "ref": "Ex 16,15"
+    }
+  },
+  "ancoras": {
+    "16:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Man hu?” significa em hebraico “que é isto?”, de onde o nome “maná”.",
+        "origem": "ia"
+      }
+    },
+    "16:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O gômor era a décima parte do efá, cerca de dois litros.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

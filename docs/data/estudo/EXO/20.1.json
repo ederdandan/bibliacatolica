@@ -1,0 +1,49 @@
+{
+  "id": "EXO.20.1",
+  "livro": "EXO",
+  "titulo": "Os dez mandamentos",
+  "secao": "A aliança no Sinai",
+  "referencia": "Ex 20,1-17",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "As dez palavras: o caminho da liberdade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus pronuncia todas estas palavras: “Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão. Não terás outros deuses diante de mim.” Não farás imagem esculpida para adorá-la; eu sou o Senhor teu Deus, forte e zeloso, que castigo a iniquidade até a terceira e quarta geração dos que me odeiam, e uso de misericórdia até mil gerações com os que me amam e guardam os meus mandamentos. Não tomarás em vão o nome do Senhor teu Deus. Lembra-te de santificar o dia de sábado: seis dias trabalharás; o sétimo é o sábado do Senhor teu Deus: não farás nele obra alguma, nem tu, nem o teu filho, nem o teu servo, nem o teu animal, nem o estrangeiro, porque em seis dias o Senhor fez o céu e a terra e no sétimo descansou. Honra teu pai e tua mãe, para que vivas longo tempo sobre a terra que o Senhor teu Deus te dará. Não matarás. Não cometerás adultério. Não furtarás. Não darás falso testemunho contra o teu próximo. Não cobiçarás a casa do teu próximo; não desejarás a sua mulher, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma que lhe pertença.",
+    "alegorico": "Jesus não veio abolir a Lei, mas levá-la à plenitude (Mt 5,17), resumindo-a no duplo mandamento do amor a Deus e ao próximo (Mt 22,37-40). As duas tábuas, a da relação com Deus e a da relação com o próximo, se cumprem nele. O que estava escrito em pedra será escrito pelo Espírito nos corações (Jr 31,33; 2Cor 3,3).",
+    "moral": "Os mandamentos começam com uma libertação: “eu te tirei da casa da servidão”. Não são um peso arbitrário, mas o caminho para não voltar à escravidão: da idolatria, do desprezo de Deus, do trabalho sem descanso, da violência, da infidelidade, do roubo, da mentira, da cobiça. O descanso do sábado é para todos, também para o servo, o estrangeiro e o animal. A misericórdia de Deus (“mil gerações”) é muito maior que o castigo (“terceira e quarta”).",
+    "anagogico": "A Lei cumprida no amor conduz à vida: “se queres entrar na vida, guarda os mandamentos” (Mt 19,17); no céu, a Lei será a própria comunhão com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão.” “Não terás outros deuses diante de mim.” “Uso de misericórdia até mil gerações com os que me amam.” “Lembra-te de santificar o dia de sábado.” “Honra teu pai e tua mãe.” “Não cobiçarás.”",
+    "meditatio_perguntas": [
+      "Vejo os mandamentos como caminho de liberdade ou como um peso?",
+      "Qual mandamento mais me desafia neste momento?",
+      "Há “outros deuses” que ocupam o lugar de Deus na minha vida?"
+    ],
+    "oratio_guia": "Senhor meu Deus, que me tiraste da casa da servidão, escreve a tua Lei no meu coração. Que eu te ame acima de todas as coisas e ame o meu próximo como a mim mesmo, e assim permaneça livre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão",
+      "ref": "Ex 20,2"
+    }
+  },
+  "ancoras": {
+    "20:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A divisão católica e luterana dos mandamentos (segundo Santo Agostinho) une a proibição das imagens ao primeiro mandamento e divide a cobiça em nono e décimo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
